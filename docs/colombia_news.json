@@ -14,6 +14,34 @@
         "category": "Diplomacy"
     },
     {
+        "title": "A police officer died in the middle of a confrontation with the Army in Cauca: soldiers mistook uniformed officers for members of an illegal group",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/un-policia-murio-en-medio-de-un-enfrentamiento-con-el-ejercito-en-el-cauca-soldados-confundieron-a-uniformados-con-miembros-de-un-grupo-ilegal-3543776",
+        "published_date": "2026-03-28 18:30:54",
+        "category": "Military"
+    },
+    {
+        "title": "Barranquilla protects Holy Week with 1,200 police officers, road controls and surveillance in high-traffic tourist areas",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-blinda-la-semana-santa-con-1-200-policias-controles-en-vias-y-vigilancia-en-zonas-turisticas-de-alta-afluencia-3543705",
+        "published_date": "2026-03-28 17:01:00",
+        "category": "Military"
+    },
+    {
+        "title": "Medell\u00edn Mayor's Office rules out hacking against its official portal: 'There is no cyberattack, nor is there evidence of compromised platforms'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/alcaldia-de-medellin-descarta-hackeo-contra-su-portal-oficial-no-existe-ningun-ciberataque-ni-hay-evidencia-de-plataformas-comprometidas-3543748",
+        "published_date": "2026-03-28 15:13:23",
+        "category": "Military"
+    },
+    {
+        "title": "They capture on video alleged militants of the FARC dissidents with missile launchers in Jamund\u00ed, Valle del Cauca: they would be carrying out training",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/captan-en-video-a-presuntos-militantes-de-las-disidencias-de-las-farc-con-lanzamisiles-en-jamundi-valle-del-cauca-estarian-realizando-entrenamientos-3543734",
+        "published_date": "2026-03-28 14:09:01",
+        "category": "Military"
+    },
+    {
         "title": "Supersalud assured that it maintains its operation stable despite a computer attack",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/supersalud-aseguro-que-mantiene-estable-su-operacion-pese-a-ataque-informatico-4359108",
@@ -147,6 +175,69 @@
         "category": "Economy"
     },
     {
+        "title": "\u201cI am not here to recant\u201d: Cepeda in new speech in Medell\u00edn",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/no-vengo-a-retractarme-cepeda-en-nuevo-discurso-en-medellin/",
+        "published_date": "2026-03-28 22:57:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "The stories with which the candidates seek to excite voters",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/opinion/los-relatos-con-que-los-candidatos-buscan-emocionar-a-los-electores/",
+        "published_date": "2026-03-28 22:19:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "Government approves the Conpes of 13 billion to modernize public forces",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/gobierno-aprueba-el-conpes-de-13-billones-para-modernizar-fuerza-publica/",
+        "published_date": "2026-03-28 20:36:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "Is it possible to have better rules for elections?",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/opinion/es-posible-tener-mejores-reglas-para-las-elecciones/",
+        "published_date": "2026-03-28 20:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Iv\u00e1n Cepeda defends himself before a crowd in Medell\u00edn: 'My words were perversely decontextualized by the Mayor and Governor of Antioquia'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/ivan-cepeda-ante-multitud-en-medellin-mis-palabras-fueron-perversamente-descontextualizadas-por-el-alcalde-y-el-gobernador-de-antioquia-3543759",
+        "published_date": "2026-03-28 18:34:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cielo Rusinque returns: Presidency publishes his resume for the SIC",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/vuelve-cielo-rusinque-presidencia-publica-su-hoja-de-vida-para-la-sic/",
+        "published_date": "2026-03-28 18:24:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "Petro delivered to the National Navy the largest ship manufactured in Colombia",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/petro-entrego-a-la-armada-nacional-el-buque-mas-grande-fabricado-en-colombia-4359774",
+        "published_date": "2026-03-28 18:09:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "The farewell of the cosmic emperor",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/opinion/el-adios-del-emperador-cosmico/",
+        "published_date": "2026-03-28 18:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Road consultation line #767 will not work during Easter, these are the alternatives",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/linea-de-consulta-vial-767-no-funcionara-en-semana-santa-estas-son-la-alternativas-4359761",
+        "published_date": "2026-03-28 17:31:36",
+        "category": "Local Events"
+    },
+    {
         "title": "Colfecar estimates that the mining strike in Bajo Cauca left losses of $82,000 million",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/colfecar-estima-que-paro-minero-en-bajo-cauca-dejo-perdidas-por-82-000-millones-4359759",
@@ -182,6 +273,20 @@
         "category": "Local Events"
     },
     {
+        "title": "Atlantic |Power outages in Barranquilla and Puerto Colombia this March 29: Air-e works will impact key areas of the center and north of the city",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/atlantico-cortes-de-luz-en-barranquilla-y-puerto-colombia-este-29-de-marzo-obras-de-air-e-impactaran-zonas-clave-del-centro-y-norte-de-la-ciudad-3543701",
+        "published_date": "2026-03-28 15:01:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Family of soldier killed in Puerto Legu\u00edzamo tragedy blocks a road in Tumaco due to delay in delivering the body: 'They don't understand our pain'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/familia-de-soldado-muerto-en-tragedia-de-puerto-leguizamo-bloquea-una-via-en-tumaco-por-demora-en-la-entrega-del-cuerpo-no-entienden-nuestro-dolor-3543753",
+        "published_date": "2026-03-28 14:45:00",
+        "category": "Local Events"
+    },
+    {
         "title": "Rules of Engagement",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/opinion/reglas-del-enfrentamiento/",
@@ -207,83 +312,6 @@
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/la-transformacion-del-poder-indigena-en-la-era-petro-y-otras-noticias/",
         "published_date": "2026-03-28 14:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Blockade lifted on the border with Ecuador after daily losses of US$5 million",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/levantan-bloqueo-en-la-frontera-con-ecuador-tras-perdidas-diarias-de-us-5-millones-4359722",
-        "published_date": "2026-03-28 13:55:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "Barranquilla activates cultural, sports and tourist agenda this weekend: live art, Route of Faith and new urban tours",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-activa-agenda-cultural-deportiva-y-turistica-este-fin-de-semana-arte-en-vivo-ruta-de-la-fe-y-nuevos-recorridos-urbanos-3543698",
-        "published_date": "2026-03-28 11:01:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Inv\u00edas announces that #767 will not work during Holy Week and activates new traffic information channels",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/invias-anuncia-que-767-no-funcionara-en-semana-santa-y-activa-nuevos-canales-de-informacion-del-trafico-3543709",
-        "published_date": "2026-03-28 10:45:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cartagenera promotes global expansion of Frida Kahlo's legacy and positions Colombia as the axis of the Latin American creative economy",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/cartagenera-impulsa-expansion-global-del-legado-de-frida-kahlo-y-posiciona-a-colombia-como-eje-de-la-economia-creativa-latinoamericana-3543708",
-        "published_date": "2026-03-28 10:33:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "These are the agreements reached between the National Government and the mining committee of Bajo Cauca, Antioquia, to lift the strike that lasted more than 10 days.",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/estos-son-los-acuerdos-alcanzados-entre-el-gobierno-nacional-y-la-mesa-minera-del-bajo-cauca-antioqueno-para-levantar-el-paro-que-duro-mas-de-10-dias-3543695",
-        "published_date": "2026-03-28 10:22:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "They dismantle illegal slot machine network that would have diverted $40,000 million: operatives reveal clandestine factory and millionaire evasion",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/desmantelan-red-ilegal-de-tragamonedas-que-habria-desviado-40-000-millones-operativos-revelan-fabrica-clandestina-y-evasion-millonaria-3543694",
-        "published_date": "2026-03-28 09:03:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tremor today in Colombia |They report an earthquake in the early morning of this March 28;epicenter, magnitude and depth",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-hoy-en-colombia-reportan-sismo-en-la-madrugada-de-este-28-de-marzo-epicentro-magnitud-y-profundidad-3543691",
-        "published_date": "2026-03-28 08:44:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "The pilot who dreamed of flying an Airbus and died in the Hercules: the story of the only woman who fell in the Putumayo tragedy that mourns Colombia",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/la-piloto-que-sonaba-con-volar-un-airbus-y-murio-en-el-hercules-la-historia-de-la-unica-mujer-caida-en-la-tragedia-de-putumayo-que-enluta-a-colombia-3543689",
-        "published_date": "2026-03-28 08:25:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Murder of Miguel Uribe and the Second Marquetalia: much debate, little evidence",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/asesinato-de-miguel-uribe-y-la-segunda-marquetalia-mucho-debate-poca-evidencia/",
-        "published_date": "2026-03-28 05:05:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cIn Colombia, a significant upward trend in the fiscal deficit has been evident\u201d",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/entrevista-con-irais-perez-duran-directora-pais-para-la-region-andina-y-centroamerica-de-fitch-ratings-4358528",
-        "published_date": "2026-03-28 05:01:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "Camacol warns that housing starts will fall to a new record low",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/camacol-advierte-que-iniciaciones-de-vivienda-caeran-a-nuevo-record-minimo-en-2026-4358536",
-        "published_date": "2026-03-28 05:00:09",
         "category": "Local Events"
     }
 ]
