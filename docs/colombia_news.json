@@ -1,5 +1,12 @@
 [
     {
+        "title": "Petro nominates Carolina Olarte for the International Criminal Court",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/petro-postula-a-carolina-olarte-para-la-corte-penal-internacional/",
+        "published_date": "2026-03-29 22:11:06",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Petro responds to the USO and announces decisions to protect the future of Ecopetrol",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/petro-le-responde-a-la-uso-y-anuncia-decisiones-para-blindar-el-futuro-de-ecopetrol-4357455",
@@ -12,6 +19,20 @@
         "url": "https://www.larepublica.co/economia/cancilleria-educacion-y-salud-lideraron-en-ejecucion-presupuestal-durante-febrero-4356753",
         "published_date": "2026-03-25 15:56:07",
         "category": "Diplomacy"
+    },
+    {
+        "title": "Bol\u00edvar activates security plan with 1,600 police officers to protect Holy Week in 34 municipalities and reinforce tourism and mobility",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/bolivar-activa-plan-de-seguridad-con-1-600-policias-para-blindar-la-semana-santa-en-34-municipios-y-reforzar-turismo-y-movilidad-3543855",
+        "published_date": "2026-03-29 13:01:00",
+        "category": "Military"
+    },
+    {
+        "title": "Cartagena activates mobility and security plan during Holy Week: pedestrianized Historic Center and controls seek to avoid vehicle congestion",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/cartagena-activa-plan-de-movilidad-y-seguridad-en-semana-santa-centro-historico-peatonalizado-y-controles-buscan-evitar-congestion-vehicular-3543849",
+        "published_date": "2026-03-29 11:01:00",
+        "category": "Military"
     },
     {
         "title": "Attention, travelers: traffic congestion is recorded on the Bogot\u00e1-Girardot road due to two traffic accidents",
@@ -61,6 +82,20 @@
         "url": "https://www.larepublica.co/economia/seguridad-juventud-y-educacion-entre-los-temas-del-encuentro-entre-petro-y-westcol-4358732",
         "published_date": "2026-03-27 15:08:44",
         "category": "Military"
+    },
+    {
+        "title": "Ricardo Roa stated that he will not leave the presidency of Ecopetrol despite the accusation",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/ricardo-roa-manifesto-que-no-dejara-presidencia-de-ecopetrol-pese-a-imputacion-4359967",
+        "published_date": "2026-03-29 17:54:04",
+        "category": "Energy"
+    },
+    {
+        "title": "Roa clings to Ecopetrol and denies influence peddling",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/roa-se-aferra-a-ecopetrol-y-niega-trafico-de-influencias/",
+        "published_date": "2026-03-29 15:43:22",
+        "category": "Energy"
     },
     {
         "title": "Shareholders insisted on the departure of Ricardo Roa from Ecopetrol in the General Assembly",
@@ -182,6 +217,132 @@
         "category": "Economy"
     },
     {
+        "title": "Senator Alirio Barrera is accused of sexual harassment against a former official",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/senalan-al-senador-alirio-barrera-de-acoso-sexual-contra-exfuncionaria/",
+        "published_date": "2026-03-29 20:21:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "Admiral Padilla: hero or victim?",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/podcasts/el-almirante-padilla-heroe-o-victima/",
+        "published_date": "2026-03-29 19:15:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u00c1lvaro Uribe refutes the higher education figures that Petro shared with Westcol",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/uribe-refuta-las-cifras-de-educacion-superior-que-petro-le-compartio-a-westocol-4359992",
+        "published_date": "2026-03-29 18:40:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "El Espectador apologizes for cases of harassment in its newsroom",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/el-espectador-pide-perdon-por-casos-de-acoso-en-su-redaccion/",
+        "published_date": "2026-03-29 17:55:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "Read these opinion columns to inform yourself before the game",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/lea-estas-columnas-de-opinion-para-que-se-informe-antes-del-partido/",
+        "published_date": "2026-03-29 16:45:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "Shock in Medell\u00edn due to the death of a firefighter in the middle of responding to a fire in the La Toscana neighborhood: he had been in service for 10 years",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/conmocion-en-medellin-por-la-muerte-de-un-bombero-en-medio-de-la-atencion-de-un-incendio-en-el-barrio-la-toscana-llevaba-10-anos-de-servicio-3543891",
+        "published_date": "2026-03-29 16:41:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "How did he end up in Jericho?The journey of more than 80 kilometers by Eric Guti\u00e9rrez, an American Airlines assistant, on the night of his death in Medell\u00edn",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/como-termino-en-jerico-el-trayecto-de-mas-de-80-kilometros-de-eric-gutierrez-auxiliar-de-american-airlines-en-la-noche-de-su-muerte-en-medellin-3543820",
+        "published_date": "2026-03-29 16:37:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Young man remains in critical condition after drinking a bottle of liquor in a challenge for money in Purificaci\u00f3n, Tolima: he remains in the ICU with a reserved prognosis",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/joven-queda-en-estado-critico-tras-beber-una-botella-de-licor-en-reto-por-dinero-en-purificacion-tolima-permanece-en-uci-con-pronostico-reservado-3543887",
+        "published_date": "2026-03-29 16:34:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ana Luc\u00eda Mera, renowned Cali journalist and columnist, died: this was a legacy for journalism, literature and culture at the national level",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/murio-ana-lucia-mera-reconocida-periodista-y-columnista-calena-sufrio-un-derrame-cerebral-3543889",
+        "published_date": "2026-03-29 16:20:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Holy Week 2026 promotes mobility in Barranquilla: more than 200,000 passengers and 7,000 dispatches planned at the land terminal",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/semana-santa-2026-impulsa-movilidad-en-barranquilla-mas-de-200-000-pasajeros-y-7-000-despachos-previstos-en-la-terminal-terrestre-3543842",
+        "published_date": "2026-03-29 16:01:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Senate endorses initiative to optimize protection for older adults",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/senado-avala-iniciativa-para-optimizar-proteccion-y-economica-de-los-adultos-mayores-4359922",
+        "published_date": "2026-03-29 15:45:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Gustavo Petro once again protested against the United States bombings in the Caribbean",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/gustavo-petro-volvio-a-protestar-contra-los-bombardeos-de-estados-unidos-en-el-caribe-4359923",
+        "published_date": "2026-03-29 14:37:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "The national Senate is a Senate of regional barons",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/el-senado-nacional-es-un-senado-de-barones-regionales/",
+        "published_date": "2026-03-29 14:06:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "Barranquilla Zoo is consolidated as a reference for nature tourism with conservation, education and more than 700 animals",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/zoologico-de-barranquilla-se-consolida-como-referente-del-turismo-de-naturaleza-con-conservacion-educacion-y-mas-de-700-animales-3543837",
+        "published_date": "2026-03-29 14:01:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Digital sovereignty must start from human rights",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-democracia-y-tecnologia/la-soberania-digital-debe-partir-de-los-derechos-humanos/",
+        "published_date": "2026-03-29 14:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Forensic medicine rules out death of alias \u201cIv\u00e1n Mordisco\u201d",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/medicina-legal-descarta-muerte-de-alias-ivan-mordisco/",
+        "published_date": "2026-03-29 13:47:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "Crisis in sports venues at Universidad del Atl\u00e1ntico: students go on strike, suspend classes due to deterioration and demand urgent intervention",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/crisis-en-escenarios-deportivos-de-universidad-del-atlantico-estudiantes-se-van-a-paro-suspenden-clases-por-deterioro-y-exigen-intervencion-urgente-3543835",
+        "published_date": "2026-03-29 12:01:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Pastor sentenced to 43 years in prison confessed how he tricked his stepdaughter into a farm in Chinchin\u00e1 to abuse her: 'She was scared'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/pastor-condenado-a-43-anos-de-carcel-confeso-como-llevo-enganada-a-su-hijastra-a-una-finca-en-chinchina-para-abusar-de-ella-estaba-asustada-3543873",
+        "published_date": "2026-03-29 11:25:00",
+        "category": "Local Events"
+    },
+    {
         "title": "'Camouflaged bandit of human rights': harsh response from \u00c1lvaro Uribe to Iv\u00e1n Cepeda after accusations in a speech in Antioquia",
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/medellin/bandido-camuflado-de-derechos-humanos-dura-respuesta-de-alvaro-uribe-a-ivan-cepeda-tras-senalamientos-en-discurso-en-antioquia-3543798",
@@ -193,132 +354,6 @@
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/silla-nacional/con-abelardo-uribe-acaricia-la-moderacion-que-siempre-sono-para-el-centro-democratico/",
         "published_date": "2026-03-29 05:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The last conversations of the flight attendant, Eric Guti\u00e9rrez, before disappearing in Medell\u00edn and being found dead in Jericho",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/las-ultimas-conversaciones-del-auxiliar-de-vuelo-eric-gutierrez-antes-de-desaparecer-en-medellin-y-ser-encontrado-en-jerico-3543822",
-        "published_date": "2026-03-29 04:26:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "FAC confirms that it has two Hercules aircraft operational and two to be repaired",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/fac-confirma-que-tiene-dos-aviones-hercules-operativos-y-dos-por-reparar/",
-        "published_date": "2026-03-29 00:03:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cI am not here to recant\u201d: Cepeda in new speech in Medell\u00edn",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/no-vengo-a-retractarme-cepeda-en-nuevo-discurso-en-medellin/",
-        "published_date": "2026-03-28 22:57:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "The stories with which the candidates seek to excite voters",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/opinion/los-relatos-con-que-los-candidatos-buscan-emocionar-a-los-electores/",
-        "published_date": "2026-03-28 22:19:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Attorney General's Office orders the removal of officials in Cali and the Mayor's Office makes key changes in Risk, Housing and Planning due to the Playa Renaciente case",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/procuraduria-ordena-apartar-a-funcionarios-en-cali-y-alcaldia-hace-cambios-clave-en-riesgo-vivienda-y-planeacion-por-caso-de-playa-renaciente-3543802",
-        "published_date": "2026-03-28 21:15:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Government approves the Conpes of 13 billion to modernize public forces",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/gobierno-aprueba-el-conpes-de-13-billones-para-modernizar-fuerza-publica/",
-        "published_date": "2026-03-28 20:36:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "This is how alleged members of 'Shottas' and 'Los Chiquillos' fell in Buenaventura: accused of homicides, extortion and attacks on ships on the high seas",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/asi-cayeron-presuntos-miembros-de-shottas-y-los-chiquillos-en-buenaventura-senalados-de-homicidios-extorsion-y-ataques-a-barcos-en-altamar-3543800",
-        "published_date": "2026-03-28 20:25:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Is it possible to have better rules for elections?",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/opinion/es-posible-tener-mejores-reglas-para-las-elecciones/",
-        "published_date": "2026-03-28 20:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mayor of Medell\u00edn, Federico Guti\u00e9rrez, responds to candidate Iv\u00e1n Cepeda and attacks President Petro: 'Antioquia will continue to move forward'",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/alcalde-de-medellin-federico-gutierrez-le-responde-al-candidato-ivan-cepeda-y-arremete-contra-el-presidente-petro-antioquia-seguira-adelante-3543796",
-        "published_date": "2026-03-28 19:25:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Iv\u00e1n Cepeda defends himself before a crowd in Medell\u00edn: 'My words were perversely decontextualized by the Mayor and Governor of Antioquia'",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/ivan-cepeda-ante-multitud-en-medellin-mis-palabras-fueron-perversamente-descontextualizadas-por-el-alcalde-y-el-gobernador-de-antioquia-3543759",
-        "published_date": "2026-03-28 18:34:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cielo Rusinque returns: Presidency publishes his resume for the SIC",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/vuelve-cielo-rusinque-presidencia-publica-su-hoja-de-vida-para-la-sic/",
-        "published_date": "2026-03-28 18:24:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "Petro delivered to the National Navy the largest ship manufactured in Colombia",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/petro-entrego-a-la-armada-nacional-el-buque-mas-grande-fabricado-en-colombia-4359774",
-        "published_date": "2026-03-28 18:09:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "The farewell of the cosmic emperor",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/opinion/el-adios-del-emperador-cosmico/",
-        "published_date": "2026-03-28 18:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Road consultation line #767 will not work during Easter, these are the alternatives",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/linea-de-consulta-vial-767-no-funcionara-en-semana-santa-estas-son-la-alternativas-4359761",
-        "published_date": "2026-03-28 17:31:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "Colfecar estimates that the mining strike in Bajo Cauca left losses of $82,000 million",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/colfecar-estima-que-paro-minero-en-bajo-cauca-dejo-perdidas-por-82-000-millones-4359759",
-        "published_date": "2026-03-28 16:55:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "The false illusion of learning with artificial intelligence",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-educacion/la-falsa-ilusion-de-aprender-con-inteligencia-artificial/",
-        "published_date": "2026-03-28 16:42:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "Colombian families are diverse",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/opinion/las-familias-colombianas-son-diversas/",
-        "published_date": "2026-03-28 15:57:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "Documenting for Memory: arbitrariness during the Maduro period",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/documentando-para-la-memoria-la-arbitrariedad-durante-el-periodo-de-maduro/",
-        "published_date": "2026-03-28 15:51:39",
         "category": "Local Events"
     }
 ]
