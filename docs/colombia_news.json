@@ -21,6 +21,20 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Attack with explosive drones leaves civilian injured and destroys several homes in Arenal del Sur (Bol\u00edvar): it would be directed against a police station",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/ataque-con-drones-explosivos-deja-civil-herida-y-destruye-varias-viviendas-en-arenal-del-sur-bolivar-iria-dirigido-contra-una-estacion-de-policia-3544147",
+        "published_date": "2026-03-30 15:55:00",
+        "category": "Military"
+    },
+    {
+        "title": "Santa Marta is playing its season: more than 100,000 tourists, last minute reservations and a destination that seeks to respond",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/santa-marta-se-juega-su-temporada-mas-de-100-000-turistas-reservas-de-ultima-hora-y-un-destino-que-busca-responder-3544139",
+        "published_date": "2026-03-30 15:32:29",
+        "category": "Military"
+    },
+    {
         "title": "Choc\u00f3: Ombudsman warns of possible clashes between ELN and dissidents",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/choco-defensoria-alerta-posibles-enfrentamientos-entre-eln-y-disidencias/",
@@ -103,6 +117,27 @@
         "url": "https://www.larepublica.co/economia/seguridad-juventud-y-educacion-entre-los-temas-del-encuentro-entre-petro-y-westcol-4358732",
         "published_date": "2026-03-27 15:08:44",
         "category": "Military"
+    },
+    {
+        "title": "Government will implement calculation of the Acpm price with international references",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/gobierno-implementara-calculo-del-precio-del-acpm-con-referencias-internacionales-4360516",
+        "published_date": "2026-03-30 15:59:20",
+        "category": "Energy"
+    },
+    {
+        "title": "SIC received a request for business integration between Ecopetrol and Gran Tierra Energy",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/sic-recibio-solicitud-de-integracion-empresarial-entre-ecopetrol-y-gran-tierra-energy-4360511",
+        "published_date": "2026-03-30 15:45:59",
+        "category": "Energy"
+    },
+    {
+        "title": "National oil production in February 2026 was 734,924 barrels per day",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/produccion-de-petroleo-y-gas-en-febrero-de-2026-4360451",
+        "published_date": "2026-03-30 15:07:55",
+        "category": "Energy"
     },
     {
         "title": "Ecopetrol shareholders approved the merger of Parque Solar Port\u00f3n del Sol",
@@ -224,6 +259,13 @@
         "category": "Energy"
     },
     {
+        "title": "The BanRep Board against the \u201cexaggerated\u201d increase in the minimum wage",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/la-junta-del-banrep-contra-el-exagerado-aumento-del-salario-minimo/",
+        "published_date": "2026-03-30 20:51:53",
+        "category": "Economy"
+    },
+    {
         "title": "MinEducaci\u00f3n asked to evaluate the initiative to increase the tax burden on HEIs",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/mineducacion-pidio-evaluar-iniciativa-de-aumento-de-carga-impositiva-sobre-las-ies-4359006",
@@ -259,143 +301,143 @@
         "category": "Economy"
     },
     {
-        "title": "Attend our second open mic with candidates",
+        "title": "Sleep informed with the keys for this March 30, 2026",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/asista-a-nuestro-segundo-microfono-abierto-con-candidatos/",
-        "published_date": "2026-03-30 14:49:29",
+        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-claves-de-este-30-de-marzo-de-2026/",
+        "published_date": "2026-03-30 23:57:29",
         "category": "Local Events"
     },
     {
-        "title": "Anla opened sanctioning proceedings against Hidroituango for not controlling discharges",
+        "title": "Chamber scrutiny is almost ready: three constituencies are missing",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/escrutinio-de-camara-ya-esta-casi-listo-faltan-tres-circunscripciones/",
+        "published_date": "2026-03-30 23:36:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "Forensic Medicine identified the 69 deceased in the Hercules tragedy",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/medicina-legal-identifico-a-los-69-fallecidos-en-tragedia-del-hercules/",
+        "published_date": "2026-03-30 22:25:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "Petro celebrated unemployment results and continues to defend raising the minimum",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/anla-abrio-proceso-sancionatorio-contra-hidroituango-por-no-controlar-vertimientos-4360432",
-        "published_date": "2026-03-30 14:44:02",
+        "url": "https://www.larepublica.co/economia/petro-celebro-resultados-del-mercado-laboral-y-continuo-defendiendo-aumento-del-minimo-4360821",
+        "published_date": "2026-03-30 22:18:58",
         "category": "Local Events"
     },
     {
-        "title": "Follow live coverage of the February labor market presented by Dane",
+        "title": "First Petro then Uribe: Westcol, the streamer that interviews presidents",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/primero-petro-luego-uribe-westcol-el-streamer-que-entrevista-presidentes/",
+        "published_date": "2026-03-30 22:06:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "Indigenous people are against joining the Guaviare to the Llanos region",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/indigenas-estan-en-contra-de-adherir-al-guaviare-a-la-region-de-los-llanos/",
+        "published_date": "2026-03-30 21:47:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "Triumphalism at the extremes: Is a new electoral shake-up brewing?",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/el-sindrome-del-triunfalismo-en-los-extremos-se-cocina-un-nuevo-sacudon-electoral/",
+        "published_date": "2026-03-30 21:36:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Candidates change their logos for the presidential card",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/candidatos-cambian-sus-logotipos-para-el-tarjeton-de-las-presidenciales/",
+        "published_date": "2026-03-30 21:24:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "They ask Colombia to leave the legal system that \u201cpays polluters\u201d",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/piden-a-colombia-salir-de-sistema-juridico-que-paga-a-contaminadores/",
+        "published_date": "2026-03-30 21:20:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "Antonio Sanguino assured that the living wage did not have negative effects on employment",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/siga-el-cubrimiento-en-vivo-del-mercado-laboral-de-febrero-presentado-por-el-dane-4360424",
-        "published_date": "2026-03-30 14:29:21",
+        "url": "https://www.larepublica.co/economia/antonio-sanguino-aseguro-que-el-salario-vital-no-tuvo-efectos-negativos-en-el-empleo-4360753",
+        "published_date": "2026-03-30 20:53:36",
         "category": "Local Events"
     },
     {
-        "title": "Comunes announces its support for Iv\u00e1n Cepeda's presidential campaign",
+        "title": "Government draws up ten-year action plan on human rights",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/comunes-anuncia-su-respaldo-a-la-campana-presidencial-de-ivan-cepeda/",
-        "published_date": "2026-03-30 13:36:02",
+        "url": "https://www.lasillavacia.com/en-vivo/gobierno-traza-plan-de-accion-a-diez-anos-sobre-derechos-humanos/",
+        "published_date": "2026-03-30 20:36:22",
         "category": "Local Events"
     },
     {
-        "title": "The new Congress can pay off the system's debt with young people",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-educacion/el-nuevo-congreso-puede-saldar-la-deuda-del-sistema-con-los-jovenes/",
-        "published_date": "2026-03-30 13:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "10 million air passengers were transported between January and February, an increase of 8.1%",
+        "title": "CRC publishes contractual guidelines for communications services",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/colombia-movilizo-10-03-millones-de-pasajeros-aereos-entre-enero-y-febrero-un-alza-de-8-1-4360266",
-        "published_date": "2026-03-30 12:37:22",
+        "url": "https://www.larepublica.co/economia/crc-publica-lineamientos-contractuales-para-prestacion-de-servicios-de-comunicaciones-4360723",
+        "published_date": "2026-03-30 20:02:58",
         "category": "Local Events"
     },
     {
-        "title": "Cepeda and the emotion for the left's vote",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/cepeda-y-la-emocion-por-el-voto-de-la-izquierda/",
-        "published_date": "2026-03-30 12:35:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "Breakfast informed with the movements of this March 30, 2026",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-movidas-de-este-30-de-marzo-de-2026/",
-        "published_date": "2026-03-30 12:25:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "MinVivienda project protects residents against expropriation for individuals",
+        "title": "Communities lift blockade on the Panamericana, but warn of new closures",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/proyecto-de-minvivienda-protege-a-moradores-ante-expropiaciones-para-renovacion-urbana-4360184",
-        "published_date": "2026-03-30 12:21:57",
+        "url": "https://www.larepublica.co/economia/comunidades-levantan-bloqueo-en-la-panamericana-pero-advierten-de-nuevos-cierres-4360637",
+        "published_date": "2026-03-30 18:23:18",
         "category": "Local Events"
     },
     {
-        "title": "At Iv\u00e1n Cepeda's event in Medell\u00edn they collected signatures to support a National Constituent Assembly: it was in the same park as the speech",
+        "title": "Alias \u200b\u200b'Chiquito Malo' found dead in confusing case in Sucre: he was not the feared head of the 'Gulf clan' but another criminal with the same alias",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/en-evento-de-ivan-cepeda-en-medellin-recolectaron-firmas-para-apoyar-una-asamblea-nacional-constituyente-fue-en-el-mismo-parque-del-discurso-3543994",
-        "published_date": "2026-03-30 09:35:50",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/el-otro-chiquito-malo-que-fue-dejado-asesinado-en-la-zona-rural-de-galeras-sucre-en-principio-se-penso-que-era-el-cabecilla-del-clan-del-golfo-3544164",
+        "published_date": "2026-03-30 17:20:30",
         "category": "Local Events"
     },
     {
-        "title": "A coconut seller's struggle to get ahead: study in the Atlantic Seine from 9 p.m.to 5 a.m.to train as a refrigeration technician",
+        "title": "They reveal hypotheses about the death of Eric Guti\u00e9rrez, an American Airlines assistant who disappeared in Medell\u00edn: 'Victim of a type of theft'",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/la-lucha-de-un-vendedor-de-coco-por-salir-adelante-estudia-en-el-sena-atlantico-de-9-p-m-a-5-a-m-para-formarse-como-tecnico-en-refrigeracion-3544004",
-        "published_date": "2026-03-30 09:18:52",
+        "url": "https://www.eltiempo.com/colombia/medellin/nueva-hipotesis-sobre-muerte-de-eric-gutierrez-auxiliar-de-american-airlines-que-desaparecio-en-medellin-victima-de-una-modalidad-de-hurto-3544137",
+        "published_date": "2026-03-30 16:41:43",
         "category": "Local Events"
     },
     {
-        "title": "The actions with which the University of Antioquia seeks to overcome the financial crisis and comply with the requirements of MinEducaci\u00f3n",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/las-acciones-con-las-que-la-universidad-de-antioquia-busca-superar-la-crisis-financiera-y-cumplir-con-los-requisitos-de-mineducacion-3543999",
-        "published_date": "2026-03-30 09:04:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "Pain in the north of Cauca: community mourns the death of a 19-month-old baby in the G\u00fceng\u00fc\u00e9 River",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/dolor-en-el-norte-del-cauca-comunidad-llora-la-muerte-de-un-bebe-de-19-meses-en-rio-gueenguee-3543995",
-        "published_date": "2026-03-30 08:43:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Floods in Melgar after the overflowing of the 'La Melgara' stream generated panic among tourists this Holy Week",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/inundaciones-en-melgar-tras-desbordamiento-de-la-quebrada-la-melgara-genero-panico-en-los-turistas-esta-semana-santa-3543967",
-        "published_date": "2026-03-30 08:14:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "This is how the brass and painting workshop that was a fa\u00e7ade to hide half a ton of cocaine linked to the 'Jaime Mart\u00ednez' structure operated in Cali.",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/asi-operaba-en-cali-el-taller-de-latoneria-y-pintura-que-era-fachada-para-ocultar-media-tonelada-de-cocaina-vinculada-a-la-estructura-jaime-martinez-3543957",
-        "published_date": "2026-03-30 06:48:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "Poll weighting: Cepeda and an open race between Abelardo and Paloma",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/ponderador-de-encuestas-cepeda-y-una-carrera-abierta-entre-abelardo-y-paloma/",
-        "published_date": "2026-03-30 06:01:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Ranking of Electoral Surveys in Colombia, updated in 2026",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/el-ranking-de-encuestas-electorales-en-colombia-actualizado-en-2026/",
-        "published_date": "2026-03-30 06:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "A violent knife fight between two women in the north of Cali was recorded on video: one of those involved died minutes later",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/en-video-quedo-registrada-rina-entre-dos-mujeres-a-cuchillo-en-el-norte-de-cali-una-de-las-implicadas-murio-minutos-despues-3543951",
-        "published_date": "2026-03-30 05:33:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "This week the first installment corresponding to the estate tax must be paid",
+        "title": "In February there were 2.45 million unemployed people and the rate was 9.2%",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/esta-semana-se-debe-pagar-la-primera-cuota-correspondiente-al-impuesto-al-patrimonio-4359624",
-        "published_date": "2026-03-30 05:03:48",
+        "url": "https://www.larepublica.co/economia/cifras-de-mercado-laboral-correspondientes-a-febrero-de-2026-4360546",
+        "published_date": "2026-03-30 16:39:00",
         "category": "Local Events"
     },
     {
-        "title": "\u201cWe expect 150,000 visitors to the Las Lajas Sanctuary this Holy Week\u201d",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/esperamos-150-000-visitantes-en-el-santuario-de-las-lajas-para-la-semana-santa-4359551",
-        "published_date": "2026-03-30 05:01:40",
+        "title": "Mourning in vallenato |Accordion player Joche Zuluaga dies suddenly in Mompox: unexpected death shocks the Colombian music industry",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/luto-en-el-vallenato-por-el-fallecimiento-del-acordeonero-joche-zuluaga-en-mompox-esto-es-lo-que-se-sabe-3544146",
+        "published_date": "2026-03-30 16:38:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Get scheduled!These are the unmissable events and places in Medell\u00edn to enjoy during Holy Week",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/programese-estos-son-los-eventos-y-lugares-imperdibles-en-medellin-para-disfrutar-en-semana-santa-3544157",
+        "published_date": "2026-03-30 16:26:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "Massive water fraud in the Atlantic: more than 34 thousand illegal connections detected;Losses exceed $21 billion, Triple A alert",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/fraude-masivo-de-agua-en-atlantico-mas-de-34-mil-conexiones-ilegales-detectadas-perdidas-superan-los-21-mil-millones-alerta-triple-a-3544155",
+        "published_date": "2026-03-30 16:23:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "The strong clash in the Medell\u00edn Council over the accountability of Mayor Federico Guti\u00e9rrez: the figures do not convince some councilors",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/el-fuerte-choque-en-el-concejo-de-medellin-por-la-rendicion-de-cuentas-del-alcalde-federico-gutierrez-las-cifras-no-convencen-a-todos-los-concejales-3544129",
+        "published_date": "2026-03-30 16:15:18",
         "category": "Local Events"
     }
 ]
