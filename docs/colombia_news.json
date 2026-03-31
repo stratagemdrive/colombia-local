@@ -21,6 +21,13 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Two soldiers were injured after an attack with drones loaded with explosives in the rural area of \u200b\u200bJamund\u00ed",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/dos-soldados-resultaron-heridos-tras-ataque-con-drones-cargados-con-explosivos-en-zona-rural-de-jamundi-3544268",
+        "published_date": "2026-03-31 09:02:46",
+        "category": "Military"
+    },
+    {
         "title": "Attack with explosive drones leaves civilian injured and destroys several homes in Arenal del Sur (Bol\u00edvar): it would be directed against a police station",
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/otras-ciudades/ataque-con-drones-explosivos-deja-civil-herida-y-destruye-varias-viviendas-en-arenal-del-sur-bolivar-iria-dirigido-contra-una-estacion-de-policia-3544147",
@@ -117,6 +124,41 @@
         "url": "https://www.larepublica.co/economia/seguridad-juventud-y-educacion-entre-los-temas-del-encuentro-entre-petro-y-westcol-4358732",
         "published_date": "2026-03-27 15:08:44",
         "category": "Military"
+    },
+    {
+        "title": "Ecopetrol Board will speak with Petro before defining the future of Roa",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/junta-de-ecopetrol-hablara-con-petro-antes-de-definir-el-futuro-de-roa/",
+        "published_date": "2026-03-31 13:23:52",
+        "category": "Energy"
+    },
+    {
+        "title": "Fiscal deficit would exceed 6% of GDP at the end of the year amid spending pressures",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/deficit-fiscal-superaria-6-del-pib-a-cierre-de-ano-en-medio-de-presiones-de-gasto-4361128",
+        "published_date": "2026-03-31 12:10:44",
+        "category": "Energy"
+    },
+    {
+        "title": "Is your neighborhood on the list?Emcali will carry out work on Cali's public services infrastructure on Tuesday, March 31",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/su-barrio-esta-en-la-lista-emcali-adelantara-trabajos-en-la-infraestructura-de-servicios-publicos-de-cali-el-martes-31-de-marzo-3544279",
+        "published_date": "2026-03-31 08:10:25",
+        "category": "Energy"
+    },
+    {
+        "title": "Ecopetrol Board rose again without decision on the departure of Ricardo Roa",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/junta-de-ecopetrol-se-levanto-nuevamente-sin-decison-sobre-salida-de-ricardo-roa-4361074",
+        "published_date": "2026-03-31 01:54:03",
+        "category": "Energy"
+    },
+    {
+        "title": "The MinEnerg\u00eda assured that Ecopetrol and PDVSA are advancing in the plan to import gas",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/el-minenergia-aseguro-que-ecopetrol-y-pdvsa-avanzan-en-el-plan-para-importar-gas-4361050",
+        "published_date": "2026-03-31 00:48:07",
+        "category": "Energy"
     },
     {
         "title": "Government will implement calculation of the Acpm price with international references",
@@ -224,39 +266,11 @@
         "category": "Energy"
     },
     {
-        "title": "Ecopetrol Board of Directors will decide the future of President Ricardo Roa on March 30",
+        "title": "Corficolombiana revised projection and lowered economic growth from 2.8% to 2.3%",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/junta-directiva-de-ecopetrol-decidira-futuro-del-presidente-ricardo-roa-el-30-de-marzo-4357009",
-        "published_date": "2026-03-25 17:12:48",
-        "category": "Energy"
-    },
-    {
-        "title": "The leadership of Ecopetrol maintains Roa as president despite pressure from USO",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/cupula-de-ecopetrol-sigue-evaluando-situacion-de-roa-pero-no-ratifica-su-permanencia-4356783",
-        "published_date": "2026-03-25 14:07:53",
-        "category": "Energy"
-    },
-    {
-        "title": "The Magdalena Medio contributes around 9% and 10% to daily oil production",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/magdalena-medio-aporta-alrededor-de-10-a-la-produccion-de-crudo-diaria-del-pais-4356460",
-        "published_date": "2026-03-25 05:01:17",
-        "category": "Energy"
-    },
-    {
-        "title": "Anif estimates that with the current scenario, the Fepc deficit could be around $10.7 billion",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/anif-estima-que-con-el-escenario-actual-el-deficit-del-fepc-podria-rondar-los-10-7-billones-4356185",
-        "published_date": "2026-03-24 18:47:28",
-        "category": "Energy"
-    },
-    {
-        "title": "USO confirmed that, if Ricardo Roa does not leave the presidency of Ecopetrol, they will go on strike",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/uso-ratifico-que-si-no-destituyen-a-roa-de-la-presidencia-de-ecopetrol-iran-a-huelga-4356122",
-        "published_date": "2026-03-24 18:00:58",
-        "category": "Energy"
+        "url": "https://www.larepublica.co/economia/corficolombiana-reviso-proyeccion-y-disminuyo-crecimiento-economico-de-2-8-a-2-3-4361247",
+        "published_date": "2026-03-31 13:55:22",
+        "category": "Economy"
     },
     {
         "title": "The BanRep Board against the \u201cexaggerated\u201d increase in the minimum wage",
@@ -301,143 +315,143 @@
         "category": "Economy"
     },
     {
-        "title": "Sleep informed with the keys for this March 30, 2026",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-claves-de-este-30-de-marzo-de-2026/",
-        "published_date": "2026-03-30 23:57:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Chamber scrutiny is almost ready: three constituencies are missing",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/escrutinio-de-camara-ya-esta-casi-listo-faltan-tres-circunscripciones/",
-        "published_date": "2026-03-30 23:36:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Forensic Medicine identified the 69 deceased in the Hercules tragedy",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/medicina-legal-identifico-a-los-69-fallecidos-en-tragedia-del-hercules/",
-        "published_date": "2026-03-30 22:25:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "Petro celebrated unemployment results and continues to defend raising the minimum",
+        "title": "Petro defended Roa's permanence and said that pressure for his departure comes from the right",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/petro-celebro-resultados-del-mercado-laboral-y-continuo-defendiendo-aumento-del-minimo-4360821",
-        "published_date": "2026-03-30 22:18:58",
+        "url": "https://www.larepublica.co/economia/petro-defendio-permanencia-de-roa-y-dijo-que-presiones-para-su-salida-vienen-de-la-derecha-4361357",
+        "published_date": "2026-03-31 14:51:13",
         "category": "Local Events"
     },
     {
-        "title": "First Petro then Uribe: Westcol, the streamer that interviews presidents",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/primero-petro-luego-uribe-westcol-el-streamer-que-entrevista-presidentes/",
-        "published_date": "2026-03-30 22:06:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "Indigenous people are against joining the Guaviare to the Llanos region",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/indigenas-estan-en-contra-de-adherir-al-guaviare-a-la-region-de-los-llanos/",
-        "published_date": "2026-03-30 21:47:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "Triumphalism at the extremes: Is a new electoral shake-up brewing?",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/el-sindrome-del-triunfalismo-en-los-extremos-se-cocina-un-nuevo-sacudon-electoral/",
-        "published_date": "2026-03-30 21:36:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Candidates change their logos for the presidential card",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/candidatos-cambian-sus-logotipos-para-el-tarjeton-de-las-presidenciales/",
-        "published_date": "2026-03-30 21:24:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "They ask Colombia to leave the legal system that \u201cpays polluters\u201d",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/piden-a-colombia-salir-de-sistema-juridico-que-paga-a-contaminadores/",
-        "published_date": "2026-03-30 21:20:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "Antonio Sanguino assured that the living wage did not have negative effects on employment",
+        "title": "Mac Master said that, since 2023, half a million formal jobs have been lost",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/antonio-sanguino-aseguro-que-el-salario-vital-no-tuvo-efectos-negativos-en-el-empleo-4360753",
-        "published_date": "2026-03-30 20:53:36",
+        "url": "https://www.larepublica.co/economia/bruce-mac-master-presidente-de-la-andi-hablo-de-los-datos-de-mercado-laboral-de-febrero-2026-4361358",
+        "published_date": "2026-03-31 14:33:50",
         "category": "Local Events"
     },
     {
-        "title": "Government draws up ten-year action plan on human rights",
+        "title": "In Colombia, culture is not guaranteed without local capacity",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/gobierno-traza-plan-de-accion-a-diez-anos-sobre-derechos-humanos/",
-        "published_date": "2026-03-30 20:36:22",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/en-colombia-la-cultura-no-se-garantiza-sin-capacidad-local/",
+        "published_date": "2026-03-31 14:16:25",
         "category": "Local Events"
     },
     {
-        "title": "CRC publishes contractual guidelines for communications services",
+        "title": "Today the deadline for registration of ID cards for the presidential elections expires",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/hoy-vence-el-plazo-de-inscripcion-de-cedulas-de-cara-a-las-presidenciales/",
+        "published_date": "2026-03-31 14:04:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "Military bridge began to operate on the Mendihuaca River between La Guajira and Magdalena",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/crc-publica-lineamientos-contractuales-para-prestacion-de-servicios-de-comunicaciones-4360723",
-        "published_date": "2026-03-30 20:02:58",
+        "url": "https://www.larepublica.co/economia/empezo-a-operar-puente-militar-sobre-el-rio-mendihuaca-entre-la-guajira-y-magdalena-4361241",
+        "published_date": "2026-03-31 13:33:58",
         "category": "Local Events"
     },
     {
-        "title": "Communities lift blockade on the Panamericana, but warn of new closures",
+        "title": "The gross debt of the Central Government exceeded $1,238 billion in February",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/comunidades-levantan-bloqueo-en-la-panamericana-pero-advierten-de-nuevos-cierres-4360637",
-        "published_date": "2026-03-30 18:23:18",
+        "url": "https://www.larepublica.co/economia/deuda-bruta-del-gobierno-nacional-central-a-febrero-de-2026-4361123",
+        "published_date": "2026-03-31 12:39:19",
         "category": "Local Events"
     },
     {
-        "title": "Alias \u200b\u200b'Chiquito Malo' found dead in confusing case in Sucre: he was not the feared head of the 'Gulf clan' but another criminal with the same alias",
+        "title": "Breakfast informed with the movements of this March 31, 2026",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-movidas-de-este-31-de-marzo-de-2026/",
+        "published_date": "2026-03-31 12:35:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "Abelardo, Paloma and the emotions of the vote on the right",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/abelardo-paloma-y-las-emociones-del-voto-en-la-derecha/",
+        "published_date": "2026-03-31 12:22:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "They capture a subject in flagrante delicto with high-range ammunition that would be delivered to the Clan del Golfo and the judge released him with more than 6 notes",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/el-otro-chiquito-malo-que-fue-dejado-asesinado-en-la-zona-rural-de-galeras-sucre-en-principio-se-penso-que-era-el-cabecilla-del-clan-del-golfo-3544164",
-        "published_date": "2026-03-30 17:20:30",
+        "url": "https://www.eltiempo.com/colombia/santander/capturan-en-flagrancia-a-sujeto-con-municion-de-alto-alcance-que-se-entregaria-al-clan-del-golfo-y-juez-lo-dejo-en-libertad-con-mas-de-6-anotaciones-3544301",
+        "published_date": "2026-03-31 09:23:56",
         "category": "Local Events"
     },
     {
-        "title": "They reveal hypotheses about the death of Eric Guti\u00e9rrez, an American Airlines assistant who disappeared in Medell\u00edn: 'Victim of a type of theft'",
+        "title": "Accident on Cajamarca-Ibagu\u00e9 road generates total closure and congestion: Inv\u00edas reports blockage in Melgar, km 57, without alternative routes after vehicle collision",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/nueva-hipotesis-sobre-muerte-de-eric-gutierrez-auxiliar-de-american-airlines-que-desaparecio-en-medellin-victima-de-una-modalidad-de-hurto-3544137",
-        "published_date": "2026-03-30 16:41:43",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/accidente-en-via-cajamarca-ibague-genera-cierre-total-y-congestion-invias-reporta-bloqueo-en-melgar-km-57-sin-rutas-alternas-tras-choque-vehiculos-3544302",
+        "published_date": "2026-03-31 09:21:57",
         "category": "Local Events"
     },
     {
-        "title": "In February there were 2.45 million unemployed people and the rate was 9.2%",
+        "title": "The street greeting to a woman who cost the life of a professional soldier in Sabanalarga, Atl\u00e1ntico",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/el-saludo-callejero-a-una-mujer-que-le-abria-costado-la-vida-a-un-soldado-profesional-en-sabanalarga-atlantico-3544296",
+        "published_date": "2026-03-31 09:11:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Umbrella or sunscreen?This is what the weather will be like in Medell\u00edn and Antioquia during Holy Week: alert for rain and risks",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/paraguas-o-bloqueador-asi-sera-el-clima-en-medellin-y-antioquia-durante-semana-santa-alerta-por-lluvias-y-riesgos-3544292",
+        "published_date": "2026-03-31 08:46:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "What you should know about the hours and attention of Centroabastos in Bucaramanga for Holy Week: there will be an 'early morning fishing' for tourists",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/lo-que-usted-debe-saber-de-los-horarios-y-atencion-de-centroabastos-en-bucaramanga-para-semana-santa-habra-madrugon-pesquero-para-turistas-3544285",
+        "published_date": "2026-03-31 08:42:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Popay\u00e1n is betting on an Holy Week beyond faith: it prepares an agenda that mixes tradition, culture, sport and tourism",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/popayan-le-apuesta-a-una-semana-santa-mas-alla-de-la-fe-prepara-una-agenda-que-mezcla-tradicion-cultura-deporte-y-turismo-3544286",
+        "published_date": "2026-03-31 08:36:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "The installation of the military bridge in Mendihuaca has finished: mobility between Magdalena and La Guajira resumes;revives tourism at Easter",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/termino-la-instalacion-del-puente-militar-en-mendihuaca-se-reanuda-movilidad-entre-magdalena-y-la-guajira-revive-el-turismo-en-semana-santa-3544266",
+        "published_date": "2026-03-31 07:34:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "The harsh response of Federico Guti\u00e9rrez after learning of the opening of a sanctioning process by the ANLA to the Hidroituango project",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/la-dura-respuesta-de-federico-gutierrez-tras-conocerse-la-apertura-de-un-proceso-sancionatorio-de-la-anla-al-proyecto-hidroituango-3544258",
+        "published_date": "2026-03-31 07:13:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "The candidate: Paloma deals with sexist attacks and Uribe's paternity",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/la-candidata-paloma-lidia-con-ataques-machistas-y-la-paternidad-de-uribe/",
+        "published_date": "2026-03-31 06:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Blockades in Cauca leave daily losses of $12,000 million in cargo transportation",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/cifras-de-mercado-laboral-correspondientes-a-febrero-de-2026-4360546",
-        "published_date": "2026-03-30 16:39:00",
+        "url": "https://www.larepublica.co/economia/bloqueos-en-el-cauca-dejan-perdidas-diarias-de-12-000-millones-a-transporte-de-carga-4360987",
+        "published_date": "2026-03-31 05:04:10",
         "category": "Local Events"
     },
     {
-        "title": "Mourning in vallenato |Accordion player Joche Zuluaga dies suddenly in Mompox: unexpected death shocks the Colombian music industry",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/luto-en-el-vallenato-por-el-fallecimiento-del-acordeonero-joche-zuluaga-en-mompox-esto-es-lo-que-se-sabe-3544146",
-        "published_date": "2026-03-30 16:38:43",
+        "title": "New government pricing rules would add $5,700 to a gallon of Acpm",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/nuevas-reglas-del-gobierno-de-fijacion-de-precios-le-sumarian-5-700-a-galon-de-acpm-4360153",
+        "published_date": "2026-03-31 05:03:02",
         "category": "Local Events"
     },
     {
-        "title": "Get scheduled!These are the unmissable events and places in Medell\u00edn to enjoy during Holy Week",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/programese-estos-son-los-eventos-y-lugares-imperdibles-en-medellin-para-disfrutar-en-semana-santa-3544157",
-        "published_date": "2026-03-30 16:26:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "Massive water fraud in the Atlantic: more than 34 thousand illegal connections detected;Losses exceed $21 billion, Triple A alert",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/fraude-masivo-de-agua-en-atlantico-mas-de-34-mil-conexiones-ilegales-detectadas-perdidas-superan-los-21-mil-millones-alerta-triple-a-3544155",
-        "published_date": "2026-03-30 16:23:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "The strong clash in the Medell\u00edn Council over the accountability of Mayor Federico Guti\u00e9rrez: the figures do not convince some councilors",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/el-fuerte-choque-en-el-concejo-de-medellin-por-la-rendicion-de-cuentas-del-alcalde-federico-gutierrez-las-cifras-no-convencen-a-todos-los-concejales-3544129",
-        "published_date": "2026-03-30 16:15:18",
+        "title": "Fruits and tubers, the foods that have increased the most in price so far in 2026",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/frutas-y-tuberculos-los-alimentos-que-mas-han-subido-de-precio-en-lo-corrido-de-2026-4360874",
+        "published_date": "2026-03-31 05:01:32",
         "category": "Local Events"
     }
 ]
