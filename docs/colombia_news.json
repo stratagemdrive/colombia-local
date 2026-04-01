@@ -1,5 +1,12 @@
 [
     {
+        "title": "Drugs: between the inertia of the UN and the contradictions of Petro",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/drogas-entre-la-inercia-de-la-onu-y-las-contradicciones-de-petro/",
+        "published_date": "2026-04-01 13:00:00",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Petro faces no charges in the US, US officials say",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/petro-no-enfrenta-cargos-en-ee-uu-dicen-funcionarios-gringos/",
@@ -33,6 +40,34 @@
         "url": "https://www.larepublica.co/economia/cancilleria-educacion-y-salud-lideraron-en-ejecucion-presupuestal-durante-febrero-4356753",
         "published_date": "2026-03-25 15:56:07",
         "category": "Diplomacy"
+    },
+    {
+        "title": "There is nothing to negotiate with organized crime.",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/con-el-crimen-organizado-no-hay-que-negociar/",
+        "published_date": "2026-04-01 14:35:19",
+        "category": "Military"
+    },
+    {
+        "title": "Many trips to Africa and few results for the hippo crisis",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-verde/muchos-viajes-a-africa-y-pocos-resultados-frente-a-la-crisis-de-los-hipopotamos-en-colombia/",
+        "published_date": "2026-04-01 12:40:00",
+        "category": "Military"
+    },
+    {
+        "title": "Alarming wave of attacks against Cali's traffic light network has mobility and road safety on the brink of collapse: 'They attack people'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/alarmante-ola-de-ataques-contra-la-red-semaforica-de-cali-tiene-al-borde-del-colapso-la-movilidad-y-la-seguridad-vial-atentan-contra-las-personas-3544425",
+        "published_date": "2026-04-01 08:50:13",
+        "category": "Military"
+    },
+    {
+        "title": "Recruitment in schools?Video on networks worries Naya due to the presence of FARC dissidents who distribute propaganda and school supplies",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/reclutamiento-en-escuelas-video-en-redes-inquieta-al-naya-por-presencia-de-disidencias-de-las-farc-que-reparten-propaganda-y-utiles-escolares-3544583",
+        "published_date": "2026-04-01 08:38:56",
+        "category": "Military"
     },
     {
         "title": "Montaje attributes false phrase to Cepeda about being a leader of the FARC",
@@ -147,18 +182,25 @@
         "category": "Military"
     },
     {
-        "title": "Supersalud assured that it maintains its operation stable despite a computer attack",
+        "title": "Ecopetrol assumes the operation of the Gibraltar gas field in Norte de Santander",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/supersalud-aseguro-que-mantiene-estable-su-operacion-pese-a-ataque-informatico-4359108",
-        "published_date": "2026-03-27 21:32:22",
-        "category": "Military"
+        "url": "https://www.larepublica.co/economia/ecopetrol-asume-la-operacion-del-campo-de-gas-gibraltar-en-norte-de-santander-4362207",
+        "published_date": "2026-04-01 14:24:08",
+        "category": "Energy"
     },
     {
-        "title": "Security, youth and education, among the topics of the meeting between Petro and Westcol",
+        "title": "Detector: They did not raid the houses of Jorge Alfredo Vargas or Ricardo Orrego",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/detector-no-allanaron-casas-de-jorge-alfredo-vargas-ni-ricardo-orrego/",
+        "published_date": "2026-04-01 02:49:51",
+        "category": "Energy"
+    },
+    {
+        "title": "Gasoline increase leaves Villavicencio, Cali and Bogot\u00e1 with the most expensive fuel",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/seguridad-juventud-y-educacion-entre-los-temas-del-encuentro-entre-petro-y-westcol-4358732",
-        "published_date": "2026-03-27 15:08:44",
-        "category": "Military"
+        "url": "https://www.larepublica.co/economia/subida-de-la-gasolina-deja-a-villavicencio-cali-y-bogota-con-el-combustible-mas-caro-4361913",
+        "published_date": "2026-04-01 00:11:34",
+        "category": "Energy"
     },
     {
         "title": "Government set rules for long-term clean energy auctions to attract investment",
@@ -280,25 +322,46 @@
         "category": "Energy"
     },
     {
-        "title": "This is how the highest salaries remained within the Colombian State with the increase",
+        "title": "Union Council supported autonomy of the Issuer in the face of a fight with the Executive",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/asi-quedaron-los-salarios-mas-altos-de-funcionarios-del-estado-con-el-incremento-de-7-4358281",
-        "published_date": "2026-03-27 05:04:31",
-        "category": "Energy"
+        "url": "https://www.larepublica.co/economia/consejo-gremial-nacional-respaldo-autonomia-del-emisor-ante-pelea-con-el-ejecutivo-4362238",
+        "published_date": "2026-04-01 14:49:34",
+        "category": "Economy"
     },
     {
-        "title": "Thermal generation will be able to market imported gas in the secondary market",
+        "title": "MinHacienda puts another tax reform on the table to face fiscal pressure",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/generacion-termica-podra-comercializar-gas-importado-en-el-mercado-secundario-4358309",
-        "published_date": "2026-03-27 05:04:14",
-        "category": "Energy"
+        "url": "https://www.larepublica.co/economia/minhacienda-pone-sobre-la-mesa-otra-reforma-tributaria-para-enfrentar-presion-fiscal-4362184",
+        "published_date": "2026-04-01 14:21:29",
+        "category": "Economy"
     },
     {
-        "title": "\"Four of nine members of the Ecopetrol Board of Directors support leaving Roa\"",
+        "title": "More than 270 citizens signed a letter in support of the Issuer's Board of Directors",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/martin-ravelo-presidente-de-la-uso-sobre-ecopetrol-4357863",
-        "published_date": "2026-03-26 17:00:40",
-        "category": "Energy"
+        "url": "https://www.larepublica.co/economia/mas-de-270-ciudadanos-firmaron-carta-en-apoyo-de-la-junta-directiva-del-emisor-4362075",
+        "published_date": "2026-04-01 12:35:53",
+        "category": "Economy"
+    },
+    {
+        "title": "Cold war between \u00c1vila and the Issuer due to the increase in interest rates",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/banco-de-la-republica-fijo-la-tasa-de-interes-en-11-25-4361100",
+        "published_date": "2026-04-01 05:01:24",
+        "category": "Economy"
+    },
+    {
+        "title": "The gross debt of the Central Government increased by $433 billion since August 2022",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/la-deuda-bruta-del-gobierno-central-subio-en-433-billones-desde-agosto-de-2022-4361911",
+        "published_date": "2026-04-01 05:01:22",
+        "category": "Economy"
+    },
+    {
+        "title": "Ministry of Finance announced short-term TES auction for $900,000 million",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/ministerio-de-hacienda-anuncio-subasta-de-tes-de-corto-plazo-por-900-000-millones-4361973",
+        "published_date": "2026-04-01 02:02:07",
+        "category": "Economy"
     },
     {
         "title": "Government supports break with BanRep after interest rate increase",
@@ -378,6 +441,125 @@
         "category": "Economy"
     },
     {
+        "title": "Jorge Lemus resigned from the Uiaf after only two months in office",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/jorge-lemus-presento-renuncia-como-director-de-la-uiaf-tras-solo-dos-meses-en-el-cargo-4362172",
+        "published_date": "2026-04-01 14:42:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "Dissidents would be delivering propaganda in schools in Naya",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/disidencias-estarian-entregando-propaganda-en-colegios-de-naya/",
+        "published_date": "2026-04-01 14:14:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "Wilmar Mej\u00eda resigned from the DNI in the midst of the scandal over the \u201cCalarc\u00e1\u201d files",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/wilmar-mejia-renuncio-a-la-dni-en-medio-del-escandalo-por-archivos-calarca/",
+        "published_date": "2026-04-01 13:32:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "Intervention rate accumulates increase of 10.5 percentage points since 2020",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/tasa-de-politica-monetaria-acumula-alza-de-10-5-puntos-porcentuales-desde-2020-4362089",
+        "published_date": "2026-04-01 13:20:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "Breakfast informed with the movements of this April 1, 2026",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-movidas-de-este-1-de-abril-de-2026/",
+        "published_date": "2026-04-01 12:36:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cOlive trees and olives are all one.\u201dThe emotion of the pragmatist",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/olivos-y-aceitunos-todos-son-uno-la-emocion-del-pragmatico/",
+        "published_date": "2026-04-01 12:28:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "Are you planning to travel during Easter?This is how the roads of Antioquia are: know the restrictions and recommendations for travelers",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/piensa-viajar-durante-semana-santa-asi-estan-las-vias-de-antioquia-conozca-las-restricciones-y-recomendaciones-a-los-viajeros-3544623",
+        "published_date": "2026-04-01 09:22:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "Violence in Atl\u00e1ntico leaves 93 deaths in March: figures exceed 2025 and show criminal escalation;authorities attribute majority to gang dispute",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/violencia-en-atlantico-deja-93-muertes-en-marzo-cifras-superan-2025-y-evidencian-escalada-criminal-autoridades-atribuyen-mayoria-a-disputa-de-bandas-3544610",
+        "published_date": "2026-04-01 08:41:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Antioquia stands before the Nation: they announce a lawsuit against the Council of State for the suspension of arrest warrants for 23 ringleaders",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/antioquia-se-planta-ante-la-nacion-anuncian-demanda-al-consejo-de-estado-por-la-suspension-de-las-ordenes-de-captura-a-23-cabecillas-3544607",
+        "published_date": "2026-04-01 08:08:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "Video |They even hit him with the mop: brutal attack against an alleged criminal accused of stealing in an establishment in the center of Cali",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/video-le-dieron-hasta-con-el-trapeador-brutal-agresion-contra-presunto-delincuente-senalado-de-hurtar-en-un-establecimiento-del-centro-de-cali-3544608",
+        "published_date": "2026-04-01 08:01:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "A drawing from Barranquilla among the best in France: this is the story of Dylan Altamiranda, finalist for the Pierre David-Weill Prize in Paris",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/un-dibujo-barranquillero-entre-los-mejores-de-francia-esta-es-la-historia-de-dylan-altamiranda-finalista-del-premio-pierre-david-weill-en-paris-3544558",
+        "published_date": "2026-04-01 06:01:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Government will go for the first $4 billion of the emergency wealth tax",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/gobierno-ira-por-los-primeros-4-billones-del-impuesto-al-patrimonio-de-la-emergencia-4361855",
+        "published_date": "2026-04-01 05:00:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "The government's fiscal crisis deflates the Environment Fund",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-amazonia/la-crisis-fiscal-del-gobierno-desinfla-el-fondo-para-el-medioambiente/",
+        "published_date": "2026-04-01 04:49:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "Be careful, driver!Peak and plaque in Bucaramanga for Wednesday, April 1, 2026",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/ojo-conductor-pico-y-placa-en-bucaramanga-para-el-miercoles-1-de-abril-de-2026-de-3544576",
+        "published_date": "2026-04-01 02:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Find out the details of the peak and plate in Pereira for Wednesday, April 1, 2026",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/conozca-los-detalles-del-pico-y-placa-en-pereira-para-el-miercoles-1-de-abril-de-3544573",
+        "published_date": "2026-04-01 02:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Be careful, driver!Peak and plaque in Medell\u00edn for Wednesday, April 1, 2026",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/tenga-cuidado-conductor-pico-y-placa-en-medellin-para-el-miercoles-1-de-abril-de-3544572",
+        "published_date": "2026-04-01 02:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The role of rankings in selecting an MBA and other considerations",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-educacion/el-rol-de-los-rankings-al-seleccionar-un-mba-y-otros-factores-a-considerar/",
+        "published_date": "2026-04-01 02:24:16",
+        "category": "Local Events"
+    },
+    {
         "title": "Uribe did not say \u201c20 years were not enough\u201d nor did El Tiempo publish it",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/uribe-no-dijo-20-anos-no-fueron-suficientes-ni-el-tiempo-lo-publico/",
@@ -396,125 +578,6 @@
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/detector-de-mentiras/enganoso/detector-polo-polo-si-perdio-su-curul-jota-pe-no-segun-preconteo/",
         "published_date": "2026-03-31 23:19:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "In this video, the one who congratulates Uribe is not Aida Quilcu\u00e9, but another indigenous leader",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/en-este-video-quien-felicita-a-uribe-no-es-aida-quilcue-sino-otra-lider-indigena/",
-        "published_date": "2026-03-31 22:49:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "Petro stated that appointing Olga Luc\u00eda Acosta as co-director \"was his biggest mistake\"",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/petro-afirmo-que-nombrar-como-codirectora-a-olga-lucia-acosta-fue-su-mayor-error-4361777",
-        "published_date": "2026-03-31 22:46:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "President Petro ratifies that the Government withdraws from the Board of the Bank of the Republic",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/pesidente-petro-ratifico-que-el-gobierno-se-retira-de-la-junta-del-banco-de-la-republica-4361746",
-        "published_date": "2026-03-31 22:05:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ver\u00f3nica Alcocer did not blame Uribe or Duque for the Hercules C-130 accident",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/veronica-alcocer-no-culpo-a-uribe-ni-a-duque-por-accidente-del-hercules-c-130/",
-        "published_date": "2026-03-31 22:01:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "Camacol criticizes Petro for \u201cstigmatizing\u201d the construction sector and calls for debate",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/camacol-sobre-el-sector-vivienda-y-el-banco-de-la-republica-4361670",
-        "published_date": "2026-03-31 20:25:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "\"They are different sources of information, with different methodologies and scope\"",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/piedad-urdinola-sobre-afirmaciones-de-la-andi-4361612",
-        "published_date": "2026-03-31 19:17:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Prosecutor's Office and High Commissioner for Peace explain the effects of the suspension of the arrest warrants for the 23 capos of the Itag\u00fc\u00ed urban peace table",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/atencion-fiscalia-explica-los-efectos-de-la-suspension-de-las-ordenes-de-captura-de-los-23-cabecillas-de-la-mesa-de-paz-urbana-de-la-carcel-de-itaguei-3544518",
-        "published_date": "2026-03-31 18:55:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "Medell\u00edn is positioned as a 'set-jetting' tourist destination: what is this fashion trend about?",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/medellin-se-posiciona-como-destino-turistico-set-jetting-de-que-se-trata-esta-tendencia-de-moda-3544414",
-        "published_date": "2026-03-31 18:36:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "Banco de la Rep\u00fablica set the interest rate at 11.25% in its second meeting of the year",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/banco-de-la-republica-fijo-la-tasa-de-interes-en-11-25-en-su-segunda-reunion-del-ano-4361590",
-        "published_date": "2026-03-31 18:33:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Renowned criminal lawyer recounts persecution in the north of Barranquilla in a case that the Prosecutor's Office is currently investigating as an attempted hitman",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/reconocido-abogado-penalista-relata-persecucion-en-el-norte-de-barranquilla-en-un-caso-que-la-fiscalia-hoy-investiga-como-intento-de-sicariato-3544516",
-        "published_date": "2026-03-31 18:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The 14-year wait for victims of black, Afro and Raizal communities in the region and the country has ended: this is the decree law towards reparation",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/termino-la-espera-de-14-anos-para-victimas-de-comunidades-negras-afros-y-raizales-de-la-region-y-el-pais-este-es-el-decreto-ley-por-una-reparacion-3544485",
-        "published_date": "2026-03-31 18:23:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Minister Germ\u00e1n \u00c1vila assured that the Government withdrew from the Issuer Board",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/las-decisiones-del-emisor-estan-afectando-los-esfuerzos-por-dinamizar-la-economia-4361555",
-        "published_date": "2026-03-31 18:09:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Santander occupies third place nationally with the most cases of patients with colorectal cancer: these are the ways to prevent this disease",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/santander-ocupa-el-tercer-puesto-a-nivel-nacional-con-mas-casos-de-pacientes-con-cancer-colorrectal-estas-son-las-formas-de-prevenir-esta-enfermedad-3544313",
-        "published_date": "2026-03-31 18:02:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "Jamund\u00ed makes history: Loren Montealegre is the first comptroller in four decades of institutional life of the municipality",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/jamundi-hace-historia-loren-montealegre-es-la-primera-contralora-en-cuatro-decadas-de-vida-institucional-del-municipio-3544509",
-        "published_date": "2026-03-31 17:41:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "Populations of C\u00f3rdoba affected by floods receive investment of more than $217 billion for drinking water service",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/poblaciones-de-cordoba-afectadas-por-inundaciones-reciben-inversion-por-mas-de-217-mil-millones-para-el-servicio-de-agua-potable-3544503",
-        "published_date": "2026-03-31 17:24:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "More than two thousand runners are expected in the Reto Acapulco athletic race, in Bucaramanga: these will be the road closures for April 12",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/mas-de-dos-mil-corredores-se-esperan-en-la-carrera-atletica-reto-acapulco-en-bucaramanga-estos-seran-los-cierres-viales-para-el-12-de-abril-3544327",
-        "published_date": "2026-03-31 17:10:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "ANI and Ruta Bogot\u00e1 Norte will begin the construction phase of North Access II",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/ani-y-ruta-bogota-norte-suscribiran-acta-de-inicio-de-construccion-de-accesos-norte-ii-4361493",
-        "published_date": "2026-03-31 17:05:47",
         "category": "Local Events"
     }
 ]
