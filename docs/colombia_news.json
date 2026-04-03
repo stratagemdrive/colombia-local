@@ -49,11 +49,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Foreign Ministry, Education and Health led in budget execution during February",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/cancilleria-educacion-y-salud-lideraron-en-ejecucion-presupuestal-durante-febrero-4356753",
-        "published_date": "2026-03-25 15:56:07",
-        "category": "Diplomacy"
+        "title": "Cases of violence against children in Antioquia: authorities follow leads for a lifeless premature baby on a platform and burns to a 2-year-old child",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/casos-de-violencia-hacia-ninos-en-antioquia-autoridades-siguen-pistas-por-bebe-prematuro-sin-vida-en-un-anden-y-quemaduras-a-un-pequeno-de-2-anos-3544995",
+        "published_date": "2026-04-02 18:57:09",
+        "category": "Military"
     },
     {
         "title": "Detector: Iv\u00e1n Cepeda did not authorize ELN to recruit children from 15 years of age",
@@ -189,11 +189,18 @@
         "category": "Military"
     },
     {
-        "title": "Cartagena activates mobility and security plan during Holy Week: pedestrianized Historic Center and controls seek to avoid vehicle congestion",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/cartagena-activa-plan-de-movilidad-y-seguridad-en-semana-santa-centro-historico-peatonalizado-y-controles-buscan-evitar-congestion-vehicular-3543849",
-        "published_date": "2026-03-29 11:01:00",
-        "category": "Military"
+        "title": "Ministry of Energy announced the first shipment of diesel to Buenaventura and Tumaco",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/ministerio-de-energia-anuncio-primer-despacho-de-diesel-hacia-buenaventura-y-tumaco-4363239",
+        "published_date": "2026-04-02 15:58:08",
+        "category": "Energy"
+    },
+    {
+        "title": "Pact congressman questioned colleagues in letter to keep Morris",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/congresista-del-pacto-cuestiono-a-colegas-por-carta-para-mantener-a-morris/",
+        "published_date": "2026-04-02 15:16:22",
+        "category": "Energy"
     },
     {
         "title": "Ecopetrol authorized debt management operation for up to US$1,250 million",
@@ -319,20 +326,6 @@
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/produccion-de-petroleo-esta-en-734-919-bopd-2-3-mas-que-el-escenario-de-reservas-probadas-4360291",
         "published_date": "2026-03-30 13:08:56",
-        "category": "Energy"
-    },
-    {
-        "title": "Ecopetrol Board will meet again today to define Roa's permanence",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/junta-de-ecopetrol-se-volvera-a-reunir-hoy-para-definir-permanencia-de-ricardo-roa-4359467",
-        "published_date": "2026-03-30 05:01:18",
-        "category": "Energy"
-    },
-    {
-        "title": "Ricardo Roa stated that he will not leave the presidency of Ecopetrol despite the accusation",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/ricardo-roa-manifesto-que-no-dejara-presidencia-de-ecopetrol-pese-a-imputacion-4359967",
-        "published_date": "2026-03-29 17:54:04",
         "category": "Energy"
     },
     {
@@ -462,157 +455,143 @@
         "category": "Economy"
     },
     {
-        "title": "Capital mayors defend territorial autonomy and greater decentralization",
+        "title": "After leaving the Uiaf, Jorge Lemus will be an advisor to the Financial Regulation Unit",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/alcaldes-de-capitales-defienden-autonomia-territorial-y-una-mayor-descentralizacion-4357028",
-        "published_date": "2026-03-25 18:44:58",
-        "category": "Economy"
+        "url": "https://www.larepublica.co/economia/tras-su-salida-de-la-uiaf-jorge-lemus-sera-asesor-de-la-unidad-de-regulacion-financiera-4363348",
+        "published_date": "2026-04-02 23:07:39",
+        "category": "Local Events"
     },
     {
-        "title": "One-year TES rates set a record of 13.494% and reflect a greater perception of risk",
+        "title": "From the Uiaf, Jorge Lemus jumps to the Financial Regulation Unit",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/de-la-uiaf-jorge-lemus-salta-a-la-unidad-de-regulacion-financiera/",
+        "published_date": "2026-04-02 22:10:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "There are more than 200 families displaced in Nari\u00f1o due to fighting between armed groups",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/hay-mas-de-200-familias-desplazadas-en-narino-por-combates-entre-armados/",
+        "published_date": "2026-04-02 21:33:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "IDU carried out a review of the works between 119th and 121st streets in the Seventh Corridor",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/tasa-de-tes-a-un-ano-marcan-record-de-13-494-y-reflejan-mayor-percepcion-de-riesgo-4356778",
-        "published_date": "2026-03-25 16:34:42",
-        "category": "Economy"
-    },
-    {
-        "title": "Plateaus: the new generation that birds after the silence of the guns",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/mesetas-la-nueva-generacion-que-pajarea-tras-el-silencio-de-los-fusiles/",
-        "published_date": "2026-04-02 13:00:00",
+        "url": "https://www.larepublica.co/economia/idu-realizo-revision-en-las-obras-entre-la-calle-119-y-121-en-el-corredor-de-la-septima-4363330",
+        "published_date": "2026-04-02 21:00:28",
         "category": "Local Events"
     },
     {
-        "title": "Proantioquia rejects suspension of arrest warrants for 23 ringleaders and warns of a blow to citizen confidence in Colombia: 'Anxiety is sown'",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/proantioquia-rechaza-suspension-de-ordenes-de-captura-a-23-cabecillas-y-advierte-golpe-a-la-confianza-ciudadana-en-colombia-se-siembra-zozobra-3544909",
-        "published_date": "2026-04-02 09:15:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mourning in Valle del Cauca for the death of Francisco Piedrahita Plata, former rector of the Icesi University: a life dedicated to education",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/vida/educacion/luto-en-el-valle-del-cauca-por-el-fallecimiento-de-francisco-piedrahita-plata-exrector-de-la-universidad-icesi-una-vida-dedicada-a-la-educacion-3544391",
-        "published_date": "2026-04-02 09:09:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "The 'ordeal' that families experience in the municipality of Yarumal, Antioquia, due to a gale: impressive video images of strong winds and rains",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/el-calvario-que-viven-familias-en-el-municipio-de-yarumal-antioquia-por-un-vendaval-impresionantes-imagenes-en-video-de-fuertes-vientos-y-lluvias-3544902",
-        "published_date": "2026-04-02 09:08:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Diana Carolina Del Valle Quiroz, an official from the Bol\u00edvar Health Secretariat, was found dead in her home",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/diana-carolina-del-valle-quiroz-funcionaria-de-la-secretaria-de-salud-de-bolivar-fue-hallada-sin-vida-en-su-casa-3544888",
-        "published_date": "2026-04-02 07:05:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "The vice presidential formulas show that politics is more than ideology",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-academica/las-formulas-vicepresidenciales-muestran-que-la-politica-supera-la-ideologia/",
-        "published_date": "2026-04-02 05:05:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Wave of support for the independence of the Issuer's Board of Directors",
+        "title": "Government approved Conpes with an investment of $2.04 billion for rural education",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/ola-de-respaldos-a-independencia-y-autonomia-de-la-junta-del-banco-de-la-republica-4361657",
-        "published_date": "2026-04-02 05:01:22",
+        "url": "https://www.larepublica.co/economia/gobierno-aprobo-conpes-con-inversion-de-2-04-billones-para-educacion-rural-hasta-2036-4363301",
+        "published_date": "2026-04-02 20:28:52",
         "category": "Local Events"
     },
     {
-        "title": "\u201cThe expansion of the coke unit to produce 50,000 bpd will be ready by 2028\u201d",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/entrevista-con-alfonso-nunez-gerente-general-e-de-la-refineria-de-cartagena-4362891",
-        "published_date": "2026-04-02 05:01:17",
+        "title": "In Popay\u00e1n, Paloma says that it is \u201cimpossible\u201d for Roy to join her campaign",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/en-popayan-paloma-dice-que-es-imposible-que-roy-se-sume-a-su-campana/",
+        "published_date": "2026-04-02 20:03:51",
         "category": "Local Events"
     },
     {
-        "title": "Jet fuel at a price of US$200 per barrel could make tickets more expensive by up to 27%",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/jet-fuel-a-un-precio-de-us-200-por-barril-podria-encarecer-los-tiquetes-en-hasta-27-4362901",
-        "published_date": "2026-04-02 05:01:13",
+        "title": "Food prices are a risk for the economy",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-rural/los-precios-de-los-alimentos-son-un-riesgo-para-la-economia/",
+        "published_date": "2026-04-02 20:00:00",
         "category": "Local Events"
     },
     {
-        "title": "Do you really know El Poblado in Medell\u00edn?These are the 70 new plans to explore commune 14",
+        "title": "Accident in Popay\u00e1n generates road chaos in the middle of Holy Week: vehicle without brakes would have caused a crash and left several injured on the road to Cali",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/conoces-realmente-el-poblado-en-medellin-estos-son-los-70-planes-nuevos-para-explorar-la-comuna-3544884",
-        "published_date": "2026-04-02 01:42:25",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/accidente-en-popayan-genera-caos-vial-en-plena-semana-santa-vehiculo-sin-frenos-habria-provocado-choque-y-deja-varios-heridos-en-via-a-cali-3545003",
+        "published_date": "2026-04-02 18:45:00",
         "category": "Local Events"
     },
     {
-        "title": "The declassified files of the 23 peace table bosses whose arrest warrants were suspended: convictions, extraditions and links",
+        "title": "Tremor in Colombia |They report a 4.0 earthquake on the afternoon of this Thursday, April 2;epicenter and depth",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/los-expedientes-desclasificados-de-los-23-capos-de-la-mesa-de-paz-a-los-que-se-les-levantaron-las-ordenes-de-captura-condenas-extradiciones-y-nexos-3544807",
-        "published_date": "2026-04-02 00:45:03",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-en-colombia-reportan-sismo-de-4-0-en-la-tarde-de-este-jueves-2-de-abril-epicentro-y-profundidad-3545000",
+        "published_date": "2026-04-02 18:27:52",
         "category": "Local Events"
     },
     {
-        "title": "Zero pesos to fly",
+        "title": "Trump dismisses Pam Bondi as US attorney general",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/cero-pesos-para-volar/",
-        "published_date": "2026-04-02 00:22:13",
+        "url": "https://www.lasillavacia.com/en-vivo/trump-destituye-a-pam-bondi-como-fiscal-general-de-estados-unidos/",
+        "published_date": "2026-04-02 18:02:30",
         "category": "Local Events"
     },
     {
-        "title": "Holy Week in the towns of the Colombian Caribbean: beliefs of punishment such as turning into a fish;rules that were followed at home",
+        "title": "There will be road closures due to the procession of the Holy Sepulcher in Barranquilla: these will be the affected sectors and times",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/la-semana-santa-en-los-pueblos-del-caribe-colombiano-creencias-de-castigo-como-volverse-pez-reglas-que-se-cumplian-en-casa-3544863",
-        "published_date": "2026-04-02 00:01:00",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/habra-cierres-viales-por-procesion-del-santo-sepulcro-en-barranquilla-estos-seran-los-sectores-afectados-y-horarios-3544996",
+        "published_date": "2026-04-02 17:55:56",
         "category": "Local Events"
     },
     {
-        "title": "Bad start to Easter on the roads: accident leaves 5 dead",
+        "title": "Barranquilla increases its collection in the first quarter of 2026: property taxes grow 22% to $492,168 million and ICA increases 8%;improve payment culture",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/mal-arranque-de-semana-santa-en-las-vias-accidente-deja-5-muertos-3544882",
-        "published_date": "2026-04-01 22:49:50",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-eleva-su-recaudo-en-el-primer-trimestre-del-2026-predial-crece-22-hasta-492-168-millones-e-ica-sube-8-mejora-la-cultura-de-pago-3544990",
+        "published_date": "2026-04-02 17:35:52",
         "category": "Local Events"
     },
     {
-        "title": "La Boquilla beach, in Cartagena, will be the epicenter of popular economies during Holy Week: 50 productive units will exhibit",
+        "title": "Submit your question for our second open mic with candidates",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/postule-su-pregunta-para-nuestro-segundo-microfono-abierto-con-candidatos/",
+        "published_date": "2026-04-02 17:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Court condemns \u201cMart\u00edn Llanos\u201d and other exparas for crimes in Casanare",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/juzgado-condena-a-martin-llanos-y-otros-exparas-por-crimenes-en-casanare/",
+        "published_date": "2026-04-02 17:14:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "They capture a motorcyclist in the Valley with 17 frogs of one of the species at high risk of extinction in the country: what is behind their illegal trafficking?",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/la-playa-de-la-boquilla-en-cartagena-sera-epicentro-de-las-economias-populares-en-semana-santa-50-unidades-productivas-expondran-3544871",
-        "published_date": "2026-04-01 22:16:12",
+        "url": "https://www.eltiempo.com/colombia/cali/capturan-a-un-motociclista-en-el-valle-con-17-ranas-de-una-las-especies-en-mayor-riesgo-de-extincion-del-pais-que-hay-detras-de-su-trafico-ilegal-3544977",
+        "published_date": "2026-04-02 16:32:24",
         "category": "Local Events"
     },
     {
-        "title": "Rtvc, officially, is now called Inravisi\u00f3n",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/rtvc-oficialmente-ya-se-llama-inravision/",
-        "published_date": "2026-04-01 21:47:12",
+        "title": "Four Seasons opens in Cartagena!: historic investment boosts luxury tourism;the stone corralito enters the global map of exclusive destinations",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/four-seasons-abre-en-cartagena-inversion-historica-impulsa-el-turismo-de-lujo-el-corralito-de-piedra-entra-al-mapa-global-de-destinos-exclusivos-3544980",
+        "published_date": "2026-04-02 16:24:30",
         "category": "Local Events"
     },
     {
-        "title": "The United States removed Delcy Rodr\u00edguez from the Clinton List",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/estados-unidos-saco-de-la-lista-clinton-a-delcy-rodriguez/",
-        "published_date": "2026-04-01 21:16:23",
+        "title": "The modus operandi of 'Los Caminantes': this is how they followed their victims to steal gold jewelry in a series of robberies in El Socorro, Santander",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/el-modus-operandi-de-los-caminantes-asi-seguian-a-sus-victimas-para-robarles-joyas-de-oro-en-una-seguidilla-de-atracos-en-el-socorro-santander-3544982",
+        "published_date": "2026-04-02 16:05:00",
         "category": "Local Events"
     },
     {
-        "title": "Disappearing Feminist Foreign Policy is easier than having created it",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-derecho-constitucional/desaparecer-la-politica-exterior-feminista-es-mas-facil-que-haberla-creado/",
-        "published_date": "2026-04-01 20:02:00",
+        "title": "Family that died in the Casablanca toll tragedy was returning to their home in Santander: details of the victims of the crash on the Zipaquir\u00e1-Ubat\u00e9 road",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/familia-que-murio-en-la-tragedia-del-peaje-de-casablanca-regresaba-a-su-casa-en-santander-detalles-de-las-victimas-del-choque-en-via-zipaquira-ubate-3544976",
+        "published_date": "2026-04-02 15:30:26",
         "category": "Local Events"
     },
     {
-        "title": "Before a Jewish group, Abelardo reiterates the transfer of the Embassy to Jerusalem",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/ante-grupo-judio-abelardo-reitera-traslado-de-embajada-a-jerusalen/",
-        "published_date": "2026-04-01 19:41:20",
+        "title": "Several accidents are reported on roads heading to Medell\u00edn, Antioquia, during Holy Week;Serious accidents leave three dead and two injured",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/reportan-varios-accidentes-en-carreteras-en-direccion-a-medellin-antioquia-durante-semana-santa-graves-siniestros-dejan-tres-muertos-y-dos-heridos-3544969",
+        "published_date": "2026-04-02 15:25:00",
         "category": "Local Events"
     },
     {
-        "title": "Ciro's condemnation: a burden for Uribismo that Paloma carries in the campaign",
+        "title": "Five more minutes: about dependence on social networks",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/la-condena-de-ciro-un-lastre-del-uribismo-que-carga-paloma-en-campana/",
-        "published_date": "2026-04-01 19:09:41",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-democracia-y-tecnologia/cinco-minutitos-mas-sobre-la-dependencia-a-redes-sociales/",
+        "published_date": "2026-04-02 15:00:00",
         "category": "Local Events"
     }
 ]
