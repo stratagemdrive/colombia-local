@@ -1,5 +1,12 @@
 [
     {
+        "title": "El Valle pays tribute to Francisco Piedrahita Plata: 'He was a leader who, through education and his vocation for service, impacted the region'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/el-valle-rinde-homenaje-a-francisco-piedrahita-plata-fue-un-lider-que-a-traves-de-la-educacion-y-su-vocacion-de-servicio-impacto-a-la-region-3545004",
+        "published_date": "2026-04-02 19:37:31",
+        "category": "Diplomacy"
+    },
+    {
         "title": "La Previsora \u200b\u200bsecured a passport contract that came into effect today",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/la-previsora-aseguro-contrato-de-pasaportes-que-hoy-entro-en-vigencia/",
@@ -39,13 +46,6 @@
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/petro-postula-a-carolina-olarte-para-la-corte-penal-internacional/",
         "published_date": "2026-03-29 22:11:06",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Petro responds to the USO and announces decisions to protect the future of Ecopetrol",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/petro-le-responde-a-la-uso-y-anuncia-decisiones-para-blindar-el-futuro-de-ecopetrol-4357455",
-        "published_date": "2026-03-26 00:29:06",
         "category": "Diplomacy"
     },
     {
@@ -455,6 +455,55 @@
         "category": "Economy"
     },
     {
+        "title": "On Good Friday, a kilo of fish ranges between $10,400 and $62,000 in wholesale centers",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/en-viernes-santo-kilo-de-pescado-ronda-entre-10-400-y-62-000-en-centrales-mayoristas-4363380",
+        "published_date": "2026-04-03 05:01:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "Did you leave Bogot\u00e1 during Holy Week?This is how the regional peak and plate will work on Sunday",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/salio-de-bogota-en-semana-santa-asi-funcionara-el-pico-y-placa-regional-el-domingo-4363407",
+        "published_date": "2026-04-03 05:01:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "The narratives to win in the first round",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/las-narrativas-para-ganar-en-primera-vuelta/",
+        "published_date": "2026-04-03 05:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "This is the video of the exact moment in which a truck loses control and jumps into the Cauca River",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/este-es-el-video-del-momento-exacto-en-el-que-un-camion-pierde-el-control-y-salta-al-rio-cauca-3545024",
+        "published_date": "2026-04-03 04:59:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "Taxi driver in Antioquia hits a 23-year-old young man in the head with a bat after an accident: the victim is in the ICU",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/taxista-en-antioquia-golpea-con-bate-en-la-cabeza-a-joven-de-23-anos-tras-accidente-la-victima-esta-en-uci-3545023",
+        "published_date": "2026-04-03 03:09:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "More than 200 families are displaced in Cumbitara, Nari\u00f1o, due to armed clashes: tension persists over territorial control",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/mas-de-200-familias-se-desplazan-en-cumbitara-narino-por-enfrentamientos-armados-persiste-la-tension-por-control-territorial-3545019",
+        "published_date": "2026-04-03 00:02:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "The revelations of the last trip of the family that died in a serious accident at the Casablanca toll: what happened in the car minutes before the tragedy?",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/las-revelaciones-del-ultimo-viaje-de-la-familia-que-murio-en-el-choque-del-peaje-de-casablanca-que-paso-en-el-carro-minutos-antes-de-la-tragedia-3545016",
+        "published_date": "2026-04-02 23:36:51",
+        "category": "Local Events"
+    },
+    {
         "title": "After leaving the Uiaf, Jorge Lemus will be an advisor to the Financial Regulation Unit",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/tras-su-salida-de-la-uiaf-jorge-lemus-sera-asesor-de-la-unidad-de-regulacion-financiera-4363348",
@@ -543,55 +592,6 @@
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/postule-su-pregunta-para-nuestro-segundo-microfono-abierto-con-candidatos/",
         "published_date": "2026-04-02 17:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Court condemns \u201cMart\u00edn Llanos\u201d and other exparas for crimes in Casanare",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/juzgado-condena-a-martin-llanos-y-otros-exparas-por-crimenes-en-casanare/",
-        "published_date": "2026-04-02 17:14:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "They capture a motorcyclist in the Valley with 17 frogs of one of the species at high risk of extinction in the country: what is behind their illegal trafficking?",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/capturan-a-un-motociclista-en-el-valle-con-17-ranas-de-una-las-especies-en-mayor-riesgo-de-extincion-del-pais-que-hay-detras-de-su-trafico-ilegal-3544977",
-        "published_date": "2026-04-02 16:32:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "Four Seasons opens in Cartagena!: historic investment boosts luxury tourism;the stone corralito enters the global map of exclusive destinations",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/four-seasons-abre-en-cartagena-inversion-historica-impulsa-el-turismo-de-lujo-el-corralito-de-piedra-entra-al-mapa-global-de-destinos-exclusivos-3544980",
-        "published_date": "2026-04-02 16:24:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "The modus operandi of 'Los Caminantes': this is how they followed their victims to steal gold jewelry in a series of robberies in El Socorro, Santander",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/el-modus-operandi-de-los-caminantes-asi-seguian-a-sus-victimas-para-robarles-joyas-de-oro-en-una-seguidilla-de-atracos-en-el-socorro-santander-3544982",
-        "published_date": "2026-04-02 16:05:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Family that died in the Casablanca toll tragedy was returning to their home in Santander: details of the victims of the crash on the Zipaquir\u00e1-Ubat\u00e9 road",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/familia-que-murio-en-la-tragedia-del-peaje-de-casablanca-regresaba-a-su-casa-en-santander-detalles-de-las-victimas-del-choque-en-via-zipaquira-ubate-3544976",
-        "published_date": "2026-04-02 15:30:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "Several accidents are reported on roads heading to Medell\u00edn, Antioquia, during Holy Week;Serious accidents leave three dead and two injured",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/reportan-varios-accidentes-en-carreteras-en-direccion-a-medellin-antioquia-durante-semana-santa-graves-siniestros-dejan-tres-muertos-y-dos-heridos-3544969",
-        "published_date": "2026-04-02 15:25:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Five more minutes: about dependence on social networks",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-democracia-y-tecnologia/cinco-minutitos-mas-sobre-la-dependencia-a-redes-sociales/",
-        "published_date": "2026-04-02 15:00:00",
         "category": "Local Events"
     }
 ]
