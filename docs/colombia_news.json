@@ -1,5 +1,12 @@
 [
     {
+        "title": "Minister of Defense, Pedro S\u00e1nchez, spoke about the motorbike bomb attack in Brice\u00f1o, Antioquia, which left police injured: 'Cowardly reaction'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/mindefensa-pedro-sanchez-califica-atentado-con-motobomba-en-briceno-como-reaccion-cobarde-3545190",
+        "published_date": "2026-04-04 06:42:40",
+        "category": "Diplomacy"
+    },
+    {
         "title": "El Valle pays tribute to Francisco Piedrahita Plata: 'He was a leader who, through education and his vocation for service, impacted the region'",
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/cali/el-valle-rinde-homenaje-a-francisco-piedrahita-plata-fue-un-lider-que-a-traves-de-la-educacion-y-su-vocacion-de-servicio-impacto-a-la-region-3545004",
@@ -47,6 +54,27 @@
         "url": "https://www.lasillavacia.com/en-vivo/petro-postula-a-carolina-olarte-para-la-corte-penal-internacional/",
         "published_date": "2026-03-29 22:11:06",
         "category": "Diplomacy"
+    },
+    {
+        "title": "Violence in Antioquia worsens: homicides increase and illegal economies expand in the north of the department, authorities warn",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/violencia-en-antioquia-se-agrava-aumentan-homicidios-y-se-expanden-economias-ilegales-en-el-norte-del-departamento-advierten-autoridades-3545158",
+        "published_date": "2026-04-04 00:01:00",
+        "category": "Military"
+    },
+    {
+        "title": "Attention: motorcycle bomb explosion in Brice\u00f1o, in the north of Antioquia, leaves a police officer injured and damages the station",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/atencion-explosion-de-moto-bomba-en-briceno-en-el-norte-de-antioquia-deja-un-policia-herido-y-danos-en-estacion-3545166",
+        "published_date": "2026-04-03 22:30:47",
+        "category": "Military"
+    },
+    {
+        "title": "They report the detonation of a motor bomb in front of the Brice\u00f1o Police Station, Antioquia: a patrolman was injured",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/reportan-detonacion-de-una-motobomba-frente-a-la-estacion-de-policia-de-briceno-antioquia-un-patrullero-resulto-herido-3545168",
+        "published_date": "2026-04-03 21:18:34",
+        "category": "Military"
     },
     {
         "title": "Cases of violence against children in Antioquia: authorities follow leads for a lifeless premature baby on a platform and burns to a 2-year-old child",
@@ -165,27 +193,6 @@
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/choco-defensoria-alerta-posibles-enfrentamientos-entre-eln-y-disidencias/",
         "published_date": "2026-03-30 14:17:06",
-        "category": "Military"
-    },
-    {
-        "title": "Robbery at a renowned viewpoint between Dapa (Yumbo) and Cali: Police capture the alleged perpetrators after a lightning operation",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/atraco-en-reconocido-mirador-entre-dapa-yumbo-y-cali-policia-captura-a-presuntos-autores-tras-operativo-relampago-3543987",
-        "published_date": "2026-03-30 08:16:26",
-        "category": "Military"
-    },
-    {
-        "title": "They even seized a grenade from alleged extortionists captured in Barranquilla and Soledad: more than 70 have been captured for this crime",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/hasta-una-granada-le-incautaron-a-presuntos-extorsionistas-capturados-en-barranquilla-y-soledad-van-mas-de-70-capturados-por-este-delito-3543986",
-        "published_date": "2026-03-30 08:06:42",
-        "category": "Military"
-    },
-    {
-        "title": "Bol\u00edvar activates security plan with 1,600 police officers to protect Holy Week in 34 municipalities and reinforce tourism and mobility",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/bolivar-activa-plan-de-seguridad-con-1-600-policias-para-blindar-la-semana-santa-en-34-municipios-y-reforzar-turismo-y-movilidad-3543855",
-        "published_date": "2026-03-29 13:01:00",
         "category": "Military"
     },
     {
@@ -455,6 +462,34 @@
         "category": "Economy"
     },
     {
+        "title": "De la Espriella and the limits of lawyers: this is what the experts say",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-derecho-constitucional/de-la-espriella-y-los-limites-de-los-abogados-esto-dicen-los-expertos/",
+        "published_date": "2026-04-04 05:05:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "One-year TES rates register a new historical maximum and stand at 13.693%",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/tasas-de-los-tes-a-un-ano-registran-nuevo-maximo-historico-y-se-ubican-en-13-693-4363683",
+        "published_date": "2026-04-04 05:00:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tragic Holy Week in Colombia: family burned to death in crash and accidents with deaths and injuries increase in several regions of the country",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/semana-santa-tragica-en-colombia-familia-muere-calcinada-en-choque-y-aumentan-accidentes-con-muertos-y-heridos-en-varias-regiones-del-pais-3545162",
+        "published_date": "2026-04-04 00:01:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tragedy at Casablanca toll: this is how the relatives of a family who was burned to death while traveling to their native Santander received the devastating news.",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/tragedia-en-peaje-casablanca-asi-recibieron-la-devastadora-noticia-los-allegados-de-familia-que-murio-calcinada-cuando-viajaba-a-su-natal-santander-3545187",
+        "published_date": "2026-04-03 23:44:30",
+        "category": "Local Events"
+    },
+    {
         "title": "Ask the candidates at our open mics",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/pregunte-a-los-candidatos-en-nuestros-microfonos-abiertos/",
@@ -480,6 +515,13 @@
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/deforestacion-en-la-amazonia-aumento-6-en-2025/",
         "published_date": "2026-04-03 20:20:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "Videos of the serious emergency due to heavy rains in Medell\u00edn that left a minor dead: cars dragged by the current and fallen trees",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/videos-de-la-grave-emergencia-por-fuertes-lluvias-en-medellin-que-dejan-una-menor-fallecida-carros-arrastrados-por-la-corriente-y-arboles-caidos-3545152",
+        "published_date": "2026-04-03 19:28:12",
         "category": "Local Events"
     },
     {
@@ -557,41 +599,6 @@
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/red-de-expertos/red-social/la-vieja-logica-de-la-exclusion-revive-bajo-discursos-nuevos/",
         "published_date": "2026-04-03 14:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "In images, the Sweet Route in the Atlantic!Caballito, cocadas and all the delicacies that brighten the tradition of Holy Week in the Caribbean",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/en-imagenes-la-ruta-del-dulce-en-el-atlantico-caballito-cocadas-y-todos-los-manjares-que-alegran-la-tradicion-de-semana-santa-en-el-caribe-3545106",
-        "published_date": "2026-04-03 12:06:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "On Good Friday, a kilo of fish ranges between $10,400 and $62,000 in wholesale centers",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/en-viernes-santo-kilo-de-pescado-ronda-entre-10-400-y-62-000-en-centrales-mayoristas-4363380",
-        "published_date": "2026-04-03 05:01:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Did you leave Bogot\u00e1 during Holy Week?This is how the regional peak and plate will work on Sunday",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/salio-de-bogota-en-semana-santa-asi-funcionara-el-pico-y-placa-regional-el-domingo-4363407",
-        "published_date": "2026-04-03 05:01:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "The narratives to win in the first round",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/las-narrativas-para-ganar-en-primera-vuelta/",
-        "published_date": "2026-04-03 05:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "This is the video of the exact moment in which a truck loses control and jumps into the Cauca River",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/este-es-el-video-del-momento-exacto-en-el-que-un-camion-pierde-el-control-y-salta-al-rio-cauca-3545024",
-        "published_date": "2026-04-03 04:59:31",
         "category": "Local Events"
     }
 ]
