@@ -189,6 +189,27 @@
         "category": "Military"
     },
     {
+        "title": "Drug policy imprisons the most vulnerable women",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-las-mujeres/la-politica-de-drogas-encarcela-a-las-mujeres-mas-vulnerables/",
+        "published_date": "2026-04-03 19:00:00",
+        "category": "Energy"
+    },
+    {
+        "title": "Petro blames Ocampo for the deficit and he defends the end of the gasoline subsidy",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/petro-culpa-a-ocampo-del-deficit-y-el-defiende-fin-de-subsidio-a-gasolina/",
+        "published_date": "2026-04-03 16:26:36",
+        "category": "Energy"
+    },
+    {
+        "title": "A family from Santander spent the night outdoors in the Topocoro reservoir: there were more than 15 hours of fear and darkness, the boat ran out of gas",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/familia-santandereana-paso-la-noche-a-la-intemperie-en-el-embalse-de-topocoro-fueron-mas-de-15-horas-de-miedo-y-oscuridad-lancha-quedo-sin-gasolina-3545102",
+        "published_date": "2026-04-03 13:23:51",
+        "category": "Energy"
+    },
+    {
         "title": "Ministry of Energy announced the first shipment of diesel to Buenaventura and Tumaco",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/ministerio-de-energia-anuncio-primer-despacho-de-diesel-hacia-buenaventura-y-tumaco-4363239",
@@ -308,25 +329,11 @@
         "category": "Energy"
     },
     {
-        "title": "National oil production in February 2026 was 734,924 barrels per day",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/produccion-de-petroleo-y-gas-en-febrero-de-2026-4360451",
-        "published_date": "2026-03-30 15:07:55",
-        "category": "Energy"
-    },
-    {
-        "title": "Ecopetrol shareholders approved the merger of Parque Solar Port\u00f3n del Sol",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/accionistas-de-ecopetrol-aprobaron-fusion-por-absorcion-de-parque-solar-porton-del-sol-4360337",
-        "published_date": "2026-03-30 13:31:51",
-        "category": "Energy"
-    },
-    {
-        "title": "Oil production is at 734,919 barrels, 2.3% more than the reserves scenario",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/produccion-de-petroleo-esta-en-734-919-bopd-2-3-mas-que-el-escenario-de-reservas-probadas-4360291",
-        "published_date": "2026-03-30 13:08:56",
-        "category": "Energy"
+        "title": "Government, academics and unions sign letter against BanRep rates",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/gobierno-academicos-y-sindicatos-firman-carta-contra-tasas-del-banrep/",
+        "published_date": "2026-04-03 18:19:51",
+        "category": "Economy"
     },
     {
         "title": "Government of President Gustavo Petro is on its fifth attempt at tax reform",
@@ -448,11 +455,116 @@
         "category": "Economy"
     },
     {
-        "title": "80% probability of El Ni\u00f1o at the end of the year puts inflation and agriculture in trouble",
+        "title": "Ask the candidates at our open mics",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/pregunte-a-los-candidatos-en-nuestros-microfonos-abiertos/",
+        "published_date": "2026-04-03 22:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Milk production registered a record figure of 8,405 million liters at the end of 2025",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/probabilidad-de-80-de-el-nino-a-fin-de-ano-pone-en-aprietos-la-inflacion-y-el-agro-4357570",
-        "published_date": "2026-03-26 13:14:04",
-        "category": "Economy"
+        "url": "https://www.larepublica.co/economia/nivel-de-produccion-de-leche-registro-cifra-record-de-8-405-millones-de-litros-en-2025-4363659",
+        "published_date": "2026-04-03 22:18:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "Uribe bench supports Paloma with \u201cdefense of the family\u201d among its axes",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/bancada-uribista-respalda-a-paloma-con-defensa-de-la-familia-entre-sus-ejes/",
+        "published_date": "2026-04-03 21:56:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "Deforestation in the Amazon increased 6% in 2025",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/deforestacion-en-la-amazonia-aumento-6-en-2025/",
+        "published_date": "2026-04-03 20:20:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "Emergency in Medell\u00edn after streams overflow due to heavy rains in the capital of Antioquia: a 5-year-old girl died",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/tragedia-en-medellin-murio-una-nina-de-5-anos-tras-desbordamiento-de-quebradas-por-las-fuertes-lluvias-en-la-capital-antioquena-3545150",
+        "published_date": "2026-04-03 18:42:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "The 'Monster of Anapoima' would have escaped from Jamund\u00ed prison, Valle: he was serving a sentence of more than two decades for murder and rape",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/el-monstruo-de-anapoima-se-habria-fugado-de-la-carcel-de-jamundi-valle-purgaba-una-pena-de-mas-de-dos-decadas-por-asesinato-y-violacion-3545147",
+        "published_date": "2026-04-03 18:23:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "Moving farewell to Eric Guti\u00e9rrez, a flight attendant who disappeared in Medell\u00edn and was found dead: his body was taken to the United States",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/conmovedora-despedida-a-eric-gutierrez-auxiliar-de-vuelo-que-desaparecio-en-medellin-y-fue-hallado-sin-vida-su-cuerpo-fue-llevado-a-estados-unidos-3545145",
+        "published_date": "2026-04-03 18:02:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "Consternation in Barranquilla: a body is found wrapped in bags inside a taxi in Sim\u00f3n Bol\u00edvar;authorities investigate alleged femicide",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/consternacion-en-barranquilla-hallan-cadaver-envuelto-en-bolsas-dentro-de-un-taxi-en-simon-bolivar-autoridades-investigan-presunto-feminicidio-3545140",
+        "published_date": "2026-04-03 17:35:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Who was \u00c1lvaro Mar\u00edn Galeano, a social leader murdered during Holy Week and who ensured the defense of the territory in the rural area of \u200b\u200bFlorida, Valle?",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/quien-era-alvaro-marin-galeano-lider-social-asesinado-en-semana-santa-y-que-velaba-por-la-defensa-del-territorio-en-zona-rural-de-florida-valle-3545132",
+        "published_date": "2026-04-03 17:31:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Bogot\u00e1 Metro works completed 75.5% overall progress in March",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/las-obras-del-metro-de-bogota-completaron-75-5-de-avance-general-en-marzo-4363525",
+        "published_date": "2026-04-03 17:18:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "The penitents of Saint Thomas: this is the centuries-old tradition of mandas, corporal sacrifice and religious controversy in the Atlantic",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/los-penitentes-de-santo-tomas-esta-es-la-tradicion-centenaria-de-mandas-sacrificio-corporal-y-controversia-religiosa-en-el-atlantico-3545131",
+        "published_date": "2026-04-03 17:00:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "Crossing of accusations between Petro and Ocampo due to the breakup of the Government with the Issuer",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/cruce-de-acusaciones-entre-petro-y-ocampo-por-ruptural-del-gobierno-con-el-emisor-4363512",
+        "published_date": "2026-04-03 16:47:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "From controversy to 'fraternal embrace': this was the scuffle between the mayors of Santa Marta and Cartagena over the controversial accusation of a Samarian official",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/de-la-controversia-al-abrazo-fraterno-asi-fue-el-rifirrafe-entre-alcaldias-de-santa-marta-y-cartagena-por-polemica-acusacion-de-funcionario-samario-3545120",
+        "published_date": "2026-04-03 15:09:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "Antioch |They investigate a police chase that ended with two minors injured: the case was captured on video and occurred in San Pedro de los Milagros",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/antioquia-investigan-persecucion-policial-que-termino-con-dos-menores-heridos-el-caso-quedo-en-video-y-ocurrio-en-san-pedro-de-los-milagros-3545118",
+        "published_date": "2026-04-03 15:00:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "The old logic of exclusion revives under new discourses",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/la-vieja-logica-de-la-exclusion-revive-bajo-discursos-nuevos/",
+        "published_date": "2026-04-03 14:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "In images, the Sweet Route in the Atlantic!Caballito, cocadas and all the delicacies that brighten the tradition of Holy Week in the Caribbean",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/en-imagenes-la-ruta-del-dulce-en-el-atlantico-caballito-cocadas-y-todos-los-manjares-que-alegran-la-tradicion-de-semana-santa-en-el-caribe-3545106",
+        "published_date": "2026-04-03 12:06:33",
+        "category": "Local Events"
     },
     {
         "title": "On Good Friday, a kilo of fish ranges between $10,400 and $62,000 in wholesale centers",
@@ -480,118 +592,6 @@
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/otras-ciudades/este-es-el-video-del-momento-exacto-en-el-que-un-camion-pierde-el-control-y-salta-al-rio-cauca-3545024",
         "published_date": "2026-04-03 04:59:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "Taxi driver in Antioquia hits a 23-year-old young man in the head with a bat after an accident: the victim is in the ICU",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/taxista-en-antioquia-golpea-con-bate-en-la-cabeza-a-joven-de-23-anos-tras-accidente-la-victima-esta-en-uci-3545023",
-        "published_date": "2026-04-03 03:09:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "More than 200 families are displaced in Cumbitara, Nari\u00f1o, due to armed clashes: tension persists over territorial control",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/mas-de-200-familias-se-desplazan-en-cumbitara-narino-por-enfrentamientos-armados-persiste-la-tension-por-control-territorial-3545019",
-        "published_date": "2026-04-03 00:02:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "The revelations of the last trip of the family that died in a serious accident at the Casablanca toll: what happened in the car minutes before the tragedy?",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/las-revelaciones-del-ultimo-viaje-de-la-familia-que-murio-en-el-choque-del-peaje-de-casablanca-que-paso-en-el-carro-minutos-antes-de-la-tragedia-3545016",
-        "published_date": "2026-04-02 23:36:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "After leaving the Uiaf, Jorge Lemus will be an advisor to the Financial Regulation Unit",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/tras-su-salida-de-la-uiaf-jorge-lemus-sera-asesor-de-la-unidad-de-regulacion-financiera-4363348",
-        "published_date": "2026-04-02 23:07:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "From the Uiaf, Jorge Lemus jumps to the Financial Regulation Unit",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/de-la-uiaf-jorge-lemus-salta-a-la-unidad-de-regulacion-financiera/",
-        "published_date": "2026-04-02 22:10:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "There are more than 200 families displaced in Nari\u00f1o due to fighting between armed groups",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/hay-mas-de-200-familias-desplazadas-en-narino-por-combates-entre-armados/",
-        "published_date": "2026-04-02 21:33:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "IDU carried out a review of the works between 119th and 121st streets in the Seventh Corridor",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/idu-realizo-revision-en-las-obras-entre-la-calle-119-y-121-en-el-corredor-de-la-septima-4363330",
-        "published_date": "2026-04-02 21:00:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "Government approved Conpes with an investment of $2.04 billion for rural education",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/gobierno-aprobo-conpes-con-inversion-de-2-04-billones-para-educacion-rural-hasta-2036-4363301",
-        "published_date": "2026-04-02 20:28:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "In Popay\u00e1n, Paloma says that it is \u201cimpossible\u201d for Roy to join her campaign",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/en-popayan-paloma-dice-que-es-imposible-que-roy-se-sume-a-su-campana/",
-        "published_date": "2026-04-02 20:03:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Food prices are a risk for the economy",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-rural/los-precios-de-los-alimentos-son-un-riesgo-para-la-economia/",
-        "published_date": "2026-04-02 20:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Accident in Popay\u00e1n generates road chaos in the middle of Holy Week: vehicle without brakes would have caused a crash and left several injured on the road to Cali",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/accidente-en-popayan-genera-caos-vial-en-plena-semana-santa-vehiculo-sin-frenos-habria-provocado-choque-y-deja-varios-heridos-en-via-a-cali-3545003",
-        "published_date": "2026-04-02 18:45:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tremor in Colombia |They report a 4.0 earthquake on the afternoon of this Thursday, April 2;epicenter and depth",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-en-colombia-reportan-sismo-de-4-0-en-la-tarde-de-este-jueves-2-de-abril-epicentro-y-profundidad-3545000",
-        "published_date": "2026-04-02 18:27:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump dismisses Pam Bondi as US attorney general",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/trump-destituye-a-pam-bondi-como-fiscal-general-de-estados-unidos/",
-        "published_date": "2026-04-02 18:02:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "There will be road closures due to the procession of the Holy Sepulcher in Barranquilla: these will be the affected sectors and times",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/habra-cierres-viales-por-procesion-del-santo-sepulcro-en-barranquilla-estos-seran-los-sectores-afectados-y-horarios-3544996",
-        "published_date": "2026-04-02 17:55:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "Barranquilla increases its collection in the first quarter of 2026: property taxes grow 22% to $492,168 million and ICA increases 8%;improve payment culture",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-eleva-su-recaudo-en-el-primer-trimestre-del-2026-predial-crece-22-hasta-492-168-millones-e-ica-sube-8-mejora-la-cultura-de-pago-3544990",
-        "published_date": "2026-04-02 17:35:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Submit your question for our second open mic with candidates",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/postule-su-pregunta-para-nuestro-segundo-microfono-abierto-con-candidatos/",
-        "published_date": "2026-04-02 17:30:00",
         "category": "Local Events"
     }
 ]
