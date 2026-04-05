@@ -56,6 +56,20 @@
         "category": "Diplomacy"
     },
     {
+        "title": "The Army prevented new attacks by the ELN by deactivating eight explosives hidden near a road used by the community of Anor\u00ed, Antioquia",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/el-ejercito-evito-nuevos-atentados-del-eln-al-desactivar-ocho-explosivos-ocultos-cerca-de-un-camino-transitado-por-la-comunidad-de-anori-antioquia-3545293",
+        "published_date": "2026-04-04 18:06:52",
+        "category": "Military"
+    },
+    {
+        "title": "Measures for the return of travelers to Cali, this Sunday, April 5: this is how the peak and plaque will work at kilometer 18 of the road to the sea",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/medidas-por-el-retorno-de-viajeros-a-cali-este-domingo-5-de-abril-asi-regira-el-pico-y-placa-en-el-kilometro-18-de-la-via-al-mar-3545247",
+        "published_date": "2026-04-04 17:32:01",
+        "category": "Military"
+    },
+    {
         "title": "Violence in Antioquia worsens: homicides increase and illegal economies expand in the north of the department, authorities warn",
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/medellin/violencia-en-antioquia-se-agrava-aumentan-homicidios-y-se-expanden-economias-ilegales-en-el-norte-del-departamento-advierten-autoridades-3545158",
@@ -182,18 +196,11 @@
         "category": "Military"
     },
     {
-        "title": "Santa Marta is playing its season: more than 100,000 tourists, last minute reservations and a destination that seeks to respond",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/santa-marta-se-juega-su-temporada-mas-de-100-000-turistas-reservas-de-ultima-hora-y-un-destino-que-busca-responder-3544139",
-        "published_date": "2026-03-30 15:32:29",
-        "category": "Military"
-    },
-    {
-        "title": "Choc\u00f3: Ombudsman warns of possible clashes between ELN and dissidents",
+        "title": "More than a billion pesos: the expenses of the most voted senators",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/choco-defensoria-alerta-posibles-enfrentamientos-entre-eln-y-disidencias/",
-        "published_date": "2026-03-30 14:17:06",
-        "category": "Military"
+        "url": "https://www.lasillavacia.com/en-vivo/mas-de-mil-millones-de-pesos-los-gastos-de-los-senadores-mas-votados/",
+        "published_date": "2026-04-04 20:15:40",
+        "category": "Energy"
     },
     {
         "title": "Drug policy imprisons the most vulnerable women",
@@ -329,13 +336,6 @@
         "category": "Energy"
     },
     {
-        "title": "SIC received a request for business integration between Ecopetrol and Gran Tierra Energy",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/sic-recibio-solicitud-de-integracion-empresarial-entre-ecopetrol-y-gran-tierra-energy-4360511",
-        "published_date": "2026-03-30 15:45:59",
-        "category": "Energy"
-    },
-    {
         "title": "Government, academics and unions sign letter against BanRep rates",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/gobierno-academicos-y-sindicatos-firman-carta-contra-tasas-del-banrep/",
@@ -455,150 +455,143 @@
         "category": "Economy"
     },
     {
-        "title": "MinEducaci\u00f3n asked to evaluate the initiative to increase the tax burden on HEIs",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/mineducacion-pidio-evaluar-iniciativa-de-aumento-de-carga-impositiva-sobre-las-ies-4359006",
-        "published_date": "2026-03-27 19:59:31",
-        "category": "Economy"
-    },
-    {
-        "title": "De la Espriella and the limits of lawyers: this is what the experts say",
+        "title": "Cielo Rusinque officially returns to the SIC",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-derecho-constitucional/de-la-espriella-y-los-limites-de-los-abogados-esto-dicen-los-expertos/",
-        "published_date": "2026-04-04 05:05:00",
+        "url": "https://www.lasillavacia.com/en-vivo/cielo-rusinque-regresa-oficialmente-a-la-sic/",
+        "published_date": "2026-04-04 21:50:27",
         "category": "Local Events"
     },
     {
-        "title": "One-year TES rates register a new historical maximum and stand at 13.693%",
+        "title": "Martha Carvajalino highlights 3.1% growth in agriculture, despite a drop of 117,000 jobs",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/tasas-de-los-tes-a-un-ano-registran-nuevo-maximo-historico-y-se-ubican-en-13-693-4363683",
-        "published_date": "2026-04-04 05:00:45",
+        "url": "https://www.larepublica.co/economia/carvajalino-destaca-crecimiento-de-3-1-del-agro-pese-a-caida-de-117-000-ocupados-4363895",
+        "published_date": "2026-04-04 20:14:51",
         "category": "Local Events"
     },
     {
-        "title": "Tragic Holy Week in Colombia: family burned to death in crash and accidents with deaths and injuries increase in several regions of the country",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/semana-santa-tragica-en-colombia-familia-muere-calcinada-en-choque-y-aumentan-accidentes-con-muertos-y-heridos-en-varias-regiones-del-pais-3545162",
-        "published_date": "2026-04-04 00:01:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tragedy at Casablanca toll: this is how the relatives of a family who was burned to death while traveling to their native Santander received the devastating news.",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/tragedia-en-peaje-casablanca-asi-recibieron-la-devastadora-noticia-los-allegados-de-familia-que-murio-calcinada-cuando-viajaba-a-su-natal-santander-3545187",
-        "published_date": "2026-04-03 23:44:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ask the candidates at our open mics",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/pregunte-a-los-candidatos-en-nuestros-microfonos-abiertos/",
-        "published_date": "2026-04-03 22:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Milk production registered a record figure of 8,405 million liters at the end of 2025",
+        "title": "Cundinamarca estimates that 1.6 million vehicles will enter with the Return Plan",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/nivel-de-produccion-de-leche-registro-cifra-record-de-8-405-millones-de-litros-en-2025-4363659",
-        "published_date": "2026-04-03 22:18:11",
+        "url": "https://www.larepublica.co/economia/jorge-emilio-rey-activa-el-plan-retorno-por-el-ingreso-de-1-6-millones-de-vehiculos-4363891",
+        "published_date": "2026-04-04 19:37:31",
         "category": "Local Events"
     },
     {
-        "title": "Uribe bench supports Paloma with \u201cdefense of the family\u201d among its axes",
+        "title": "Victims' organization asks the JEP to summon Senator Ram\u00edrez",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/bancada-uribista-respalda-a-paloma-con-defensa-de-la-familia-entre-sus-ejes/",
-        "published_date": "2026-04-03 21:56:53",
+        "url": "https://www.lasillavacia.com/en-vivo/organizacion-de-victimas-pide-a-la-jep-citar-a-senadora-ramirez/",
+        "published_date": "2026-04-04 18:24:33",
         "category": "Local Events"
     },
     {
-        "title": "Deforestation in the Amazon increased 6% in 2025",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/deforestacion-en-la-amazonia-aumento-6-en-2025/",
-        "published_date": "2026-04-03 20:20:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Videos of the serious emergency due to heavy rains in Medell\u00edn that left a minor dead: cars dragged by the current and fallen trees",
+        "title": "They reveal what caused the death of the 5-year-old boy in Medell\u00edn: extreme rains overflowed streams and caused a wall to fall in Manrique",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/videos-de-la-grave-emergencia-por-fuertes-lluvias-en-medellin-que-dejan-una-menor-fallecida-carros-arrastrados-por-la-corriente-y-arboles-caidos-3545152",
-        "published_date": "2026-04-03 19:28:12",
+        "url": "https://www.eltiempo.com/colombia/medellin/revelan-que-provoco-la-muerte-del-nino-de-5-anos-en-medellin-lluvias-extremas-desbordaron-quebradas-y-ocasionaron-la-caida-de-un-muro-en-manrique-3545294",
+        "published_date": "2026-04-04 18:15:53",
         "category": "Local Events"
     },
     {
-        "title": "Emergency in Medell\u00edn after streams overflow due to heavy rains in the capital of Antioquia: a 5-year-old girl died",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/tragedia-en-medellin-murio-una-nina-de-5-anos-tras-desbordamiento-de-quebradas-por-las-fuertes-lluvias-en-la-capital-antioquena-3545150",
-        "published_date": "2026-04-03 18:42:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "The 'Monster of Anapoima' would have escaped from Jamund\u00ed prison, Valle: he was serving a sentence of more than two decades for murder and rape",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/el-monstruo-de-anapoima-se-habria-fugado-de-la-carcel-de-jamundi-valle-purgaba-una-pena-de-mas-de-dos-decadas-por-asesinato-y-violacion-3545147",
-        "published_date": "2026-04-03 18:23:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "Moving farewell to Eric Guti\u00e9rrez, a flight attendant who disappeared in Medell\u00edn and was found dead: his body was taken to the United States",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/conmovedora-despedida-a-eric-gutierrez-auxiliar-de-vuelo-que-desaparecio-en-medellin-y-fue-hallado-sin-vida-su-cuerpo-fue-llevado-a-estados-unidos-3545145",
-        "published_date": "2026-04-03 18:02:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "Consternation in Barranquilla: a body is found wrapped in bags inside a taxi in Sim\u00f3n Bol\u00edvar;authorities investigate alleged femicide",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/consternacion-en-barranquilla-hallan-cadaver-envuelto-en-bolsas-dentro-de-un-taxi-en-simon-bolivar-autoridades-investigan-presunto-feminicidio-3545140",
-        "published_date": "2026-04-03 17:35:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Who was \u00c1lvaro Mar\u00edn Galeano, a social leader murdered during Holy Week and who ensured the defense of the territory in the rural area of \u200b\u200bFlorida, Valle?",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/quien-era-alvaro-marin-galeano-lider-social-asesinado-en-semana-santa-y-que-velaba-por-la-defensa-del-territorio-en-zona-rural-de-florida-valle-3545132",
-        "published_date": "2026-04-03 17:31:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Bogot\u00e1 Metro works completed 75.5% overall progress in March",
+        "title": "Cielo Rusinque was again appointed as Superintendent of Industry and Commerce",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/las-obras-del-metro-de-bogota-completaron-75-5-de-avance-general-en-marzo-4363525",
-        "published_date": "2026-04-03 17:18:22",
+        "url": "https://www.larepublica.co/economia/cielo-rusinque-regresa-oficialmente-a-la-superintendencia-de-industria-y-comercio-4363858",
+        "published_date": "2026-04-04 18:12:13",
         "category": "Local Events"
     },
     {
-        "title": "The penitents of Saint Thomas: this is the centuries-old tradition of mandas, corporal sacrifice and religious controversy in the Atlantic",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/los-penitentes-de-santo-tomas-esta-es-la-tradicion-centenaria-de-mandas-sacrificio-corporal-y-controversia-religiosa-en-el-atlantico-3545131",
-        "published_date": "2026-04-03 17:00:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Crossing of accusations between Petro and Ocampo due to the breakup of the Government with the Issuer",
+        "title": "President Petro asks his counterpart Lula da Silva for the PIX system to reach Colombia",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/cruce-de-acusaciones-entre-petro-y-ocampo-por-ruptural-del-gobierno-con-el-emisor-4363512",
-        "published_date": "2026-04-03 16:47:50",
+        "url": "https://www.larepublica.co/economia/presidente-petro-pide-a-su-homologo-lula-da-silva-que-sistema-pix-llegue-a-colombia-4363856",
+        "published_date": "2026-04-04 18:01:02",
         "category": "Local Events"
     },
     {
-        "title": "From controversy to 'fraternal embrace': this was the scuffle between the mayors of Santa Marta and Cartagena over the controversial accusation of a Samarian official",
+        "title": "What is behind the terrorism in Brice\u00f1o?Antioquia, in dispute between the 'Gulf clan', 'Calarc\u00e1' dissidents and now the 'Mordisco' faction",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/de-la-controversia-al-abrazo-fraterno-asi-fue-el-rifirrafe-entre-alcaldias-de-santa-marta-y-cartagena-por-polemica-acusacion-de-funcionario-samario-3545120",
-        "published_date": "2026-04-03 15:09:07",
+        "url": "https://www.eltiempo.com/colombia/medellin/briceno-bajo-amenazas-de-ataques-con-explosivos-y-disputas-entre-clan-del-golfo-disidentes-de-calarca-y-faccion-que-ahora-sigue-a-mordisco-3545265",
+        "published_date": "2026-04-04 17:15:46",
         "category": "Local Events"
     },
     {
-        "title": "Antioch |They investigate a police chase that ended with two minors injured: the case was captured on video and occurred in San Pedro de los Milagros",
+        "title": "The political move of which they accuse the Government to retain total control of the Electrificadora del Meta: reform was stopped by shareholders",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/antioquia-investigan-persecucion-policial-que-termino-con-dos-menores-heridos-el-caso-quedo-en-video-y-ocurrio-en-san-pedro-de-los-milagros-3545118",
-        "published_date": "2026-04-03 15:00:42",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/la-jugada-politica-de-la-que-acusan-al-gobierno-para-quedarse-con-el-control-total-de-la-electrificadora-del-meta-reforma-fue-frenada-por-accionistas-3545278",
+        "published_date": "2026-04-04 17:05:00",
         "category": "Local Events"
     },
     {
-        "title": "The old logic of exclusion revives under new discourses",
+        "title": "Mass and family: the presidential candidates in Holy Week",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/la-vieja-logica-de-la-exclusion-revive-bajo-discursos-nuevos/",
-        "published_date": "2026-04-03 14:30:00",
+        "url": "https://www.lasillavacia.com/en-vivo/misa-y-familia-los-candidatos-presidenciales-en-semana-santa/",
+        "published_date": "2026-04-04 16:50:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "Attention: the 'Monster of Anapoima' is recaptured, one day after his escape from the Jamund\u00ed prison;His absence had been detected on Good Friday",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/atencion-recapturan-al-monstruo-de-anapoima-su-fuga-de-la-carcel-de-jamundi-se-habia-detectado-en-el-conteo-durante-el-viernes-santo-3545268",
+        "published_date": "2026-04-04 16:48:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "Shock over the murder of Carlos Z\u00fa\u00f1iga, the 'Superman of the corralejas', a recognized figure of these popular festivals in Magdalena",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/conmocion-por-el-asesinato-de-carlos-zuniga-el-superman-de-las-corralejas-figura-reconocida-de-estas-fiestas-populares-en-el-magdalena-3545283",
+        "published_date": "2026-04-04 16:20:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "President Petro supported a letter from ministers and economists against the Issuer",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/petro-respaldo-misiva-de-ministros-y-economistas-en-contra-del-banco-de-la-republica-4363835",
+        "published_date": "2026-04-04 16:08:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "Quilcu\u00e9 and Oviedo, between representation and instrumentalization",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/opinion/quilcue-y-oviedo-entre-la-representacion-y-la-instrumentalizacion/",
+        "published_date": "2026-04-04 14:27:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "With La Silla you can ask questions directly to candidates",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/con-la-silla-puede-hacerles-preguntas-directamente-a-los-candidatos/",
+        "published_date": "2026-04-04 14:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The constitution as a hostage",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/opinion/la-constitucion-como-rehen/",
+        "published_date": "2026-04-04 13:44:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "8.4 million vehicles have traveled during Holy Week, about 1% more than in 2025",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/en-semana-santa-se-han-movilizado-mas-de-8-4-millones-de-vehiculos-1-mas-que-en-2025-4363769",
+        "published_date": "2026-04-04 13:39:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "Barranquilla |Hitmen enter a home in La Sierrita and murder a man;A 3-year-old girl was seriously injured in the attack",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-sicarios-ingresan-a-una-vivienda-en-la-sierrita-y-asesinan-a-un-hombre-una-menor-de-3-anos-resulto-gravemente-herida-en-el-ataque-3545244",
+        "published_date": "2026-04-04 13:10:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "They stole alone and fell when they got together: 'Los Caminantes', the gang that ignored cell phones to steal gold jewelry and cash in Santander",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/robaban-en-solitario-y-cayeron-cuando-se-juntaron-los-caminantes-la-banda-que-ignoraba-celulares-para-robar-joyas-de-oro-y-efectivo-en-santander-3545234",
+        "published_date": "2026-04-04 12:25:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Video |Motorcyclist ran over participants of an Holy Week procession in Cauca: the driver was about to be lynched by the community",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/video-motociclista-arrollo-a-participantes-de-una-procesion-de-semana-santa-en-cauca-el-conductor-estuvo-a-punto-de-ser-linchado-por-la-comunidad-3545231",
+        "published_date": "2026-04-04 12:20:39",
         "category": "Local Events"
     }
 ]
