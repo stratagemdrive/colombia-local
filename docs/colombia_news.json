@@ -56,6 +56,13 @@
         "category": "Diplomacy"
     },
     {
+        "title": "They reveal the cause of a truck overturning during the morning of this Saturday, April 4, on the La Vega-Villeta road: the cargo was stolen",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/revelan-la-causa-oficial-del-volcamiento-de-un-camion-durante-la-manana-de-este-sabado-4-de-abril-en-la-via-la-vega-villeta-le-robaron-la-carga-3545290",
+        "published_date": "2026-04-04 21:19:05",
+        "category": "Military"
+    },
+    {
         "title": "The Army prevented new attacks by the ELN by deactivating eight explosives hidden near a road used by the community of Anor\u00ed, Antioquia",
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/medellin/el-ejercito-evito-nuevos-atentados-del-eln-al-desactivar-ocho-explosivos-ocultos-cerca-de-un-camino-transitado-por-la-comunidad-de-anori-antioquia-3545293",
@@ -186,13 +193,6 @@
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/cali/dos-soldados-resultaron-heridos-tras-ataque-con-drones-cargados-con-explosivos-en-zona-rural-de-jamundi-3544268",
         "published_date": "2026-03-31 09:02:46",
-        "category": "Military"
-    },
-    {
-        "title": "Attack with explosive drones leaves civilian injured and destroys several homes in Arenal del Sur (Bol\u00edvar): it would be directed against a police station",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/ataque-con-drones-explosivos-deja-civil-herida-y-destruye-varias-viviendas-en-arenal-del-sur-bolivar-iria-dirigido-contra-una-estacion-de-policia-3544147",
-        "published_date": "2026-03-30 15:55:00",
         "category": "Military"
     },
     {
@@ -455,6 +455,48 @@
         "category": "Economy"
     },
     {
+        "title": "Bogot\u00e1 Mobility: this is how the Easter return plan progresses;The city prepares to receive thousands of travelers this Easter Sunday",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/bogota/movilidad-bogota-asi-avanza-el-plan-retorno-de-semana-santa-la-ciudad-se-prepara-para-recibir-a-miles-de-viajeros-3545341",
+        "published_date": "2026-04-05 06:08:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "The secret relationships of Petro and Ver\u00f3nica's friends with the Maduro regime",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/las-relaciones-secretas-de-los-amigos-de-petro-y-veronica-con-el-regimen-de-maduro/",
+        "published_date": "2026-04-05 06:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Easter 2026 return plan: peak and regional plate and all the restrictions you should know",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/plan-retorno-semana-santa-2026-pico-y-placa-regional-y-todas-las-restricciones-que-debe-conocer-3545326",
+        "published_date": "2026-04-05 05:11:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "Who is who among the co-directors of the Bank of the Republic?The list since 1991",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/como-se-ha-conformado-la-junta-directiva-del-banco-de-la-republica-desde-1991-4363987",
+        "published_date": "2026-04-05 04:07:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "Criticism of Petro for mentioning \u201cintelligence reports\u201d about Abelardo",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/criticas-a-petro-por-mencion-de-informes-de-inteligencia-sobre-abelardo/",
+        "published_date": "2026-04-05 01:11:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mother and son were found dead in their home during Holy Week in Villavicencio: a suspect was taken to the Prosecutor's Office",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/madre-e-hijo-fueron-hallados-muertos-en-su-vivienda-durante-semana-santa-en-villavicencio-un-sospechoso-fue-llevado-a-la-fiscalia-3545325",
+        "published_date": "2026-04-04 22:08:50",
+        "category": "Local Events"
+    },
+    {
         "title": "Cielo Rusinque officially returns to the SIC",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/cielo-rusinque-regresa-oficialmente-a-la-sic/",
@@ -473,6 +515,27 @@
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/jorge-emilio-rey-activa-el-plan-retorno-por-el-ingreso-de-1-6-millones-de-vehiculos-4363891",
         "published_date": "2026-04-04 19:37:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mayor of Medell\u00edn reveals that he has contacted the United States over a controversial decision to suspend arrest warrants for 23 Itag\u00fc\u00ed table leaders",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/alcalde-de-medellin-revela-que-ha-contactado-a-estados-unidos-por-polemica-decision-de-suspender-ordenes-de-captura-a-23-cabecillas-de-mesa-de-itaguei-3545304",
+        "published_date": "2026-04-04 19:25:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The areas most affected by the rains in Medell\u00edn: hillside neighborhoods and ravines at risk after emergencies that left a child dead in Manrique",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/las-zonas-mas-afectadas-por-las-lluvias-en-medellin-barrios-en-ladera-y-quebradas-en-riesgo-tras-emergencias-que-dejaron-un-nino-muerto-en-manrique-3545301",
+        "published_date": "2026-04-04 18:49:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "An armed group intercepted an ambulance and murdered the injured patient, when he was being transferred on the road between Yarumal and Brice\u00f1o, Antioquia",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/un-grupo-armado-intercepto-una-ambulancia-y-asesino-al-paciente-herido-cuando-era-trasladado-en-la-via-entre-yarumal-y-briceno-antioquia-3545298",
+        "published_date": "2026-04-04 18:45:38",
         "category": "Local Events"
     },
     {
@@ -529,69 +592,6 @@
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/cali/atencion-recapturan-al-monstruo-de-anapoima-su-fuga-de-la-carcel-de-jamundi-se-habia-detectado-en-el-conteo-durante-el-viernes-santo-3545268",
         "published_date": "2026-04-04 16:48:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "Shock over the murder of Carlos Z\u00fa\u00f1iga, the 'Superman of the corralejas', a recognized figure of these popular festivals in Magdalena",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/conmocion-por-el-asesinato-de-carlos-zuniga-el-superman-de-las-corralejas-figura-reconocida-de-estas-fiestas-populares-en-el-magdalena-3545283",
-        "published_date": "2026-04-04 16:20:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "President Petro supported a letter from ministers and economists against the Issuer",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/petro-respaldo-misiva-de-ministros-y-economistas-en-contra-del-banco-de-la-republica-4363835",
-        "published_date": "2026-04-04 16:08:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Quilcu\u00e9 and Oviedo, between representation and instrumentalization",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/opinion/quilcue-y-oviedo-entre-la-representacion-y-la-instrumentalizacion/",
-        "published_date": "2026-04-04 14:27:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "With La Silla you can ask questions directly to candidates",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/con-la-silla-puede-hacerles-preguntas-directamente-a-los-candidatos/",
-        "published_date": "2026-04-04 14:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The constitution as a hostage",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/opinion/la-constitucion-como-rehen/",
-        "published_date": "2026-04-04 13:44:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "8.4 million vehicles have traveled during Holy Week, about 1% more than in 2025",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/en-semana-santa-se-han-movilizado-mas-de-8-4-millones-de-vehiculos-1-mas-que-en-2025-4363769",
-        "published_date": "2026-04-04 13:39:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "Barranquilla |Hitmen enter a home in La Sierrita and murder a man;A 3-year-old girl was seriously injured in the attack",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-sicarios-ingresan-a-una-vivienda-en-la-sierrita-y-asesinan-a-un-hombre-una-menor-de-3-anos-resulto-gravemente-herida-en-el-ataque-3545244",
-        "published_date": "2026-04-04 13:10:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "They stole alone and fell when they got together: 'Los Caminantes', the gang that ignored cell phones to steal gold jewelry and cash in Santander",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/robaban-en-solitario-y-cayeron-cuando-se-juntaron-los-caminantes-la-banda-que-ignoraba-celulares-para-robar-joyas-de-oro-y-efectivo-en-santander-3545234",
-        "published_date": "2026-04-04 12:25:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Video |Motorcyclist ran over participants of an Holy Week procession in Cauca: the driver was about to be lynched by the community",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/video-motociclista-arrollo-a-participantes-de-una-procesion-de-semana-santa-en-cauca-el-conductor-estuvo-a-punto-de-ser-linchado-por-la-comunidad-3545231",
-        "published_date": "2026-04-04 12:20:39",
         "category": "Local Events"
     }
 ]
