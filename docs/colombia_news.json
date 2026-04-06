@@ -1,5 +1,12 @@
 [
     {
+        "title": "Fertilizers increase in price by 28% a month after tensions between Iran and the US.",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/fertilizantes-se-encarecen-en-28-un-mes-despues-de-tensiones-entre-iran-y-ee-uu-4364267",
+        "published_date": "2026-04-06 11:16:07",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Minister of Defense, Pedro S\u00e1nchez, spoke about the motorbike bomb attack in Brice\u00f1o, Antioquia, which left police injured: 'Cowardly reaction'",
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/otras-ciudades/mindefensa-pedro-sanchez-califica-atentado-con-motobomba-en-briceno-como-reaccion-cobarde-3545190",
@@ -54,6 +61,20 @@
         "url": "https://www.lasillavacia.com/en-vivo/petro-postula-a-carolina-olarte-para-la-corte-penal-internacional/",
         "published_date": "2026-03-29 22:11:06",
         "category": "Diplomacy"
+    },
+    {
+        "title": "Who was the boss who was murdered on the beach of an island in Cartagena?The murderers would have arrived by boat but there are two hypotheses in the Prosecutor's Office",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/quien-era-el-capo-que-fue-asesinado-en-la-playa-de-una-isla-de-cartagena-asesinos-habrian-llegado-en-lancha-pero-hay-dos-hipotesis-en-fiscalia-3545519",
+        "published_date": "2026-04-06 08:29:14",
+        "category": "Military"
+    },
+    {
+        "title": "Eight alleged extortionists fall in Barranquilla;They received up to $80 million per month from extortion to merchants",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/caen-ocho-presuntos-extorsionistas-en-barranquilla-recibian-hasta-80-millones-mensuales-producto-de-las-extorsiones-a-comerciantes-3545508",
+        "published_date": "2026-04-06 07:54:45",
+        "category": "Military"
     },
     {
         "title": "They identify the university student from San Andr\u00e9s who was murdered in an apartment in Medell\u00edn, after a fight: Police captured three alleged perpetrators",
@@ -182,18 +203,46 @@
         "category": "Military"
     },
     {
-        "title": "Aida Quilcu\u00e9's husband was not a guerrilla and was murdered by the military",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/esposo-de-aida-quilcue-no-era-guerrillero-y-fue-asesinado-por-militares/",
-        "published_date": "2026-03-31 22:16:19",
-        "category": "Military"
+        "title": "Asoenerg\u00eda Board of Directors elected Silvana Habib as new executive director",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/junta-directiva-de-asoenergia-eligio-a-silvana-habib-como-nueva-directora-ejecutiva-4364439",
+        "published_date": "2026-04-06 14:07:17",
+        "category": "Energy"
     },
     {
-        "title": "Woman was injured with a weapon during a violent robbery in Cartagena that was recorded on a security camera: this is known about the victim",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/mujer-fue-herida-con-arma-traumatica-durante-un-violento-robo-en-cartagena-que-quedo-registrado-en-camara-de-seguridad-esto-se-sabe-de-la-victima-3544475",
-        "published_date": "2026-03-31 18:36:04",
-        "category": "Military"
+        "title": "Superservicios accompanied the dialogue table for the unblocking of the Pan-American Highway",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/superservicios-acompano-mesa-de-dialogo-para-el-desbloqueo-de-la-via-panamericana-4364408",
+        "published_date": "2026-04-06 13:26:03",
+        "category": "Energy"
+    },
+    {
+        "title": "Mining closed 2025 with a drop of 8.3%, one of the worst years in two decades",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/mineria-cerro-2025-con-caida-de-8-3-uno-de-los-peores-anos-en-las-ultimas-dos-decadas-4364338",
+        "published_date": "2026-04-06 13:09:54",
+        "category": "Energy"
+    },
+    {
+        "title": "The ANT exacerbated the territorial dispute in the Misak town",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-etnica/la-ant-agudizo-la-disputa-territorial-en-el-pueblo-misak/",
+        "published_date": "2026-04-06 13:00:00",
+        "category": "Energy"
+    },
+    {
+        "title": "Petro's friends and his oil businesses with Maduro",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/los-amigos-de-petro-y-sus-negocios-petroleros-con-maduro/",
+        "published_date": "2026-04-06 12:00:00",
+        "category": "Energy"
+    },
+    {
+        "title": "Ecopetrol Board of Directors will meet again today to evaluate the departure of Ricardo Roa",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/junta-directiva-de-ecopetrol-se-volvera-a-reunir-hoy-para-evaluar-salida-de-ricardo-roa-4362940",
+        "published_date": "2026-04-06 05:01:46",
+        "category": "Energy"
     },
     {
         "title": "Petro said that sales of electric vehicles doubled due to its tariffs on gasoline vehicles",
@@ -294,46 +343,11 @@
         "category": "Energy"
     },
     {
-        "title": "Government set rules for long-term clean energy auctions to attract investment",
+        "title": "The story of how the Bank of the Republic has controlled inflation in 35 years",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/gobierno-fijo-reglas-para-subastas-de-energia-limpia-a-largo-plazo-para-atraer-inversion-4361459",
-        "published_date": "2026-03-31 16:09:09",
-        "category": "Energy"
-    },
-    {
-        "title": "Ecopetrol Board will speak with Petro before defining the future of Roa",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/junta-de-ecopetrol-hablara-con-petro-antes-de-definir-el-futuro-de-roa/",
-        "published_date": "2026-03-31 13:23:52",
-        "category": "Energy"
-    },
-    {
-        "title": "Fiscal deficit would exceed 6% of GDP at the end of the year amid spending pressures",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/deficit-fiscal-superaria-6-del-pib-a-cierre-de-ano-en-medio-de-presiones-de-gasto-4361128",
-        "published_date": "2026-03-31 12:10:44",
-        "category": "Energy"
-    },
-    {
-        "title": "Is your neighborhood on the list?Emcali will carry out work on Cali's public services infrastructure on Tuesday, March 31",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/su-barrio-esta-en-la-lista-emcali-adelantara-trabajos-en-la-infraestructura-de-servicios-publicos-de-cali-el-martes-31-de-marzo-3544279",
-        "published_date": "2026-03-31 08:10:25",
-        "category": "Energy"
-    },
-    {
-        "title": "Ecopetrol Board rose again without decision on the departure of Ricardo Roa",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/junta-de-ecopetrol-se-levanto-nuevamente-sin-decison-sobre-salida-de-ricardo-roa-4361074",
-        "published_date": "2026-03-31 01:54:03",
-        "category": "Energy"
-    },
-    {
-        "title": "The MinEnerg\u00eda assured that Ecopetrol and PDVSA are advancing in the plan to import gas",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/el-minenergia-aseguro-que-ecopetrol-y-pdvsa-avanzan-en-el-plan-para-importar-gas-4361050",
-        "published_date": "2026-03-31 00:48:07",
-        "category": "Energy"
+        "url": "https://www.larepublica.co/economia/la-historia-de-como-el-banco-de-la-republica-ha-controlado-la-inflacion-en-35-anos-4361668",
+        "published_date": "2026-04-06 05:04:12",
+        "category": "Economy"
     },
     {
         "title": "Start Holy Sunday with these recommended opinion columns",
@@ -462,6 +476,111 @@
         "category": "Economy"
     },
     {
+        "title": "Jorge Lemus spoke with Papa Smurf's lawyer to offer him benefits",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/jorge-lemus-hablo-con-abogado-de-papa-pitufo-para-ofrecerle-beneficios/",
+        "published_date": "2026-04-06 13:38:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "Fertilizer prices soared 44% from 2024 due to tensions in the Middle East",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/precio-de-los-fertilizantes-se-disparo-44-desde-2024-por-tensiones-en-medio-oriente-4364352",
+        "published_date": "2026-04-06 13:22:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "Have an informed breakfast with the keys for this April 6, 2026",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-claves-de-este-6-de-abril-de-2026/",
+        "published_date": "2026-04-06 12:17:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "Baham\u00f3n defended the coffee model and highlighted that the sector moves $22 billion",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/german-bahamon-defendio-el-modelo-cafetero-y-destaco-que-el-sector-mueve-22-billones-4364291",
+        "published_date": "2026-04-06 12:06:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "Video |Outrage over attack by an alleged Cali fan on a journalist who covers Am\u00e9rica, at the El Dorado airport, in Bogot\u00e1",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/video-indignacion-por-agresion-de-supuesto-hincha-del-cali-a-periodista-que-cubre-el-america-en-el-aeropuerto-el-dorado-en-bogota-3545521",
+        "published_date": "2026-04-06 08:51:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "Outrage in La Guajira over the garbage and pollution left by the popular pot ride in an important river that supplies several municipalities",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/indignacion-en-la-guajira-por-la-basura-y-contaminacion-que-dejo-el-popular-paseo-de-olla-en-un-importante-rio-que-abastece-a-varios-municipios-3545510",
+        "published_date": "2026-04-06 07:49:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "The body of a girl who drowned on the beaches of San Juan de Urab\u00e1 in Antioquia due to strong waves appears: she had traveled with a friend",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/aparece-cuerpo-de-una-nina-que-murio-ahogada-en-las-playas-de-san-juan-de-uraba-en-antioquia-por-fuerte-oleaje-habia-viajado-con-una-amiga-3545488",
+        "published_date": "2026-04-06 07:44:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "These were the most frequented places in Barranquilla during Holy Week: 352,000 visitors were in the city;here are the figures",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/estos-fueron-los-lugares-mas-frecuentados-en-barranquilla-durante-la-semana-santa-352-000-visitantes-estuvieron-en-la-ciudad-aqui-las-cifras-3545496",
+        "published_date": "2026-04-06 07:17:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "In Casa de Nari\u00f1o they play as the spoilers of Cepeda's triumphalism",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/en-casa-de-narino-juegan-como-los-aguafiestas-del-triunfalismo-de-cepeda/",
+        "published_date": "2026-04-06 06:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tremor in Colombia |They reported an earthquake in Santa Marta during the night of Sunday, April 5: epicenter, depth and details",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-en-colombia-reportaron-sismo-de-2-4-en-la-noche-del-domingo-5-de-abril-epicentro-profundidad-y-detalles-3545491",
+        "published_date": "2026-04-06 05:59:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "This is how macroeconomic fundamentals start in the second quarter",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/asi-arrancan-motores-los-fundamentales-macroeconomicos-en-el-segundo-trimestre-4363112",
+        "published_date": "2026-04-06 05:04:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cColombia would need at least three or four years to recover investment grade\u201d",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/entrevista-con-richard-francis-codirector-de-calificacion-de-soberanos-para-las-americas-en-fitch-ratings-4361671",
+        "published_date": "2026-04-06 05:01:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "A rancher disappears in Cesar and hours later his truck is found incinerated: his whereabouts are unknown",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/desaparece-un-ganadero-en-cesar-y-horas-despues-encuentran-su-camioneta-incinerada-se-desconoce-su-paradero-3545484",
+        "published_date": "2026-04-06 03:23:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "Be careful, driver!Peak and plaque in Bucaramanga for Monday, April 6, 2026",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/ojo-conductor-pico-y-placa-en-bucaramanga-para-el-lunes-6-de-abril-de-2026-de-3545483",
+        "published_date": "2026-04-06 02:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Find out the details of the peak and plate in Pereira for Monday, April 6, 2026",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/conozca-los-detalles-del-pico-y-placa-en-pereira-para-el-lunes-6-abril-de-3545482",
+        "published_date": "2026-04-06 02:30:00",
+        "category": "Local Events"
+    },
+    {
         "title": "Colombia Justa Libres announces support for De La Espriella in the first round",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/colombia-justa-libres-anuncia-apoyo-a-de-la-espriella-en-primera-vuelta/",
@@ -494,111 +613,6 @@
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/haga-una-pregunta-en-nuestro-segundo-microfono-abierto-con-candidatos/",
         "published_date": "2026-04-05 17:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The hypothesis of the death of two minors found inside a refrigerator in Meta: they reconstruct the events that occurred in the house",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/investigan-muerte-de-dos-ninos-encontrados-dentro-de-una-nevera-en-el-meta-estas-son-las-primeras-hipotesis-del-caso-3545421",
-        "published_date": "2026-04-05 17:28:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "Polarization, moderation and false equivalences",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/polarizacion-moderacion-y-falsas-equivalencias/",
-        "published_date": "2026-04-05 16:50:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "War between dissidents and 'Gulf clan' in Brice\u00f1o: a woman is shot and they are investigating whether she is another victim of an attack or a stray bullet",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/guerra-entre-disidentes-y-clan-del-golfo-en-briceno-una-mujer-esta-herida-por-disparo-e-investigan-si-es-otra-victima-de-atentado-o-bala-perdida-3545414",
-        "published_date": "2026-04-05 16:24:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "Barranquilla |Due to structural deterioration, maintenance and temporary closure begin on the Cordialidad bridge: this is what you need to know",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-por-deterioro-estructural-inician-mantenimiento-y-cierre-temporal-en-el-puente-de-la-cordialidad-esto-es-lo-que-tiene-que-saber-3545418",
-        "published_date": "2026-04-05 16:20:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Elites, power and failed democracy",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/elites-poder-y-la-democracia-fallida/",
-        "published_date": "2026-04-05 15:06:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "Two brothers, aged 8 and 5, were found dead inside a refrigerator in Meta: the children's father spoke",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/dos-hermanos-de-8-y-5-anos-fueron-encontrados-sin-vida-al-interior-de-una-nevera-en-el-meta-3545406",
-        "published_date": "2026-04-05 15:00:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "CNC clarifies complaint against private survey",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/cnc-aclara-denuncia-frente-a-sondeo-privado/",
-        "published_date": "2026-04-05 14:43:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "A man from the 'la Terraza' gang fell with the revolver that would have been used in the murder of a social leader in Andes, Antioquia",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/cayo-un-hombre-de-la-banda-la-terraza-con-el-revolver-que-habria-sido-usado-en-el-asesinato-de-una-lideresa-social-en-andes-antioquia-3545404",
-        "published_date": "2026-04-05 14:37:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "Abelardo's lawyer asks to investigate Petro for alleged \u201ctricks\u201d",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/abogado-de-abelardo-pide-investigar-a-petro-por-presuntas-chuzadas/",
-        "published_date": "2026-04-05 14:28:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "The funeral of the Pereira Garc\u00e9s family, who died in the Casablanca tollbooth tragedy, will be this Sunday afternoon in Bogot\u00e1: details",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/el-funeral-de-la-familia-pereira-garces-fallecida-en-la-tragedia-en-peaje-de-casablanca-sera-en-la-tarde-de-este-domingo-en-bogota-detalles-3545407",
-        "published_date": "2026-04-05 14:15:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "While Aerocivil announces Conpes for works until 2030 at the Valle airport, fear grows that the Government will not execute a concession and continue operating it",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/mientras-aerocivil-anuncia-conpes-para-obras-hasta-2030-en-aeropuerto-del-valle-crece-temor-de-que-el-gobierno-no-ejecute-concesion-y-siga-operandolo-3545384",
-        "published_date": "2026-04-05 13:10:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Is the money enough?The tax accounts of the Competition Law",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/alcanza-la-plata-las-cuentas-fiscales-de-la-ley-de-competencias/",
-        "published_date": "2026-04-05 13:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Who is Edilbert Moscote, the former councilor of Dibulla murdered by hitmen in the middle of the Caribbean Trunk?",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/quien-es-edilbert-moscote-el-exconcejal-de-dibulla-asesinado-por-sicarios-en-plena-troncal-del-caribe-3545390",
-        "published_date": "2026-04-05 12:39:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Bogot\u00e1 Mobility: this is how the Easter return plan progresses;The city prepares to receive thousands of travelers this Easter Sunday",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/bogota/movilidad-bogota-asi-avanza-el-plan-retorno-de-semana-santa-la-ciudad-se-prepara-para-recibir-a-miles-de-viajeros-3545341",
-        "published_date": "2026-04-05 06:08:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "The secret relationships of Petro and Ver\u00f3nica's friends with the Maduro regime",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/las-relaciones-secretas-de-los-amigos-de-petro-y-veronica-con-el-regimen-de-maduro/",
-        "published_date": "2026-04-05 06:00:00",
         "category": "Local Events"
     }
 ]
