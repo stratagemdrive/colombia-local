@@ -63,6 +63,13 @@
         "category": "Diplomacy"
     },
     {
+        "title": "A woman had been kidnapped and was able to escape from FARC dissidents in Nari\u00f1o: she walked for 72 hours until she was rescued by the Army",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/una-mujer-habia-sido-secuestrada-y-pudo-escapar-de-disidentes-de-las-farc-en-narino-camino-durante-72-horas-hasta-ser-rescatada-por-el-ejercito-3545846",
+        "published_date": "2026-04-07 09:17:32",
+        "category": "Military"
+    },
+    {
         "title": "Drone attack on the El Tarra Police station, Norte de Santander, leaves civilians injured: this is known",
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/santander/ataque-con-drones-a-la-estacion-de-policia-de-el-tarra-norte-de-santander-deja-civiles-heridos-esto-se-sabe-3545797",
@@ -196,11 +203,32 @@
         "category": "Military"
     },
     {
-        "title": "Alarming wave of attacks against Cali's traffic light network has mobility and road safety on the brink of collapse: 'They attack people'",
+        "title": "\"We are calm with the temporary departure of Roa from the presidency of Ecopetrol\"",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/declaraciones-de-martin-ravelo-presidente-de-la-uso-sobre-la-decision-de-la-junta-directiva-de-ecopetrol-sobre-ricardo-roa-4365284",
+        "published_date": "2026-04-07 14:13:12",
+        "category": "Energy"
+    },
+    {
+        "title": "Higher gas and crude oil costs would have hit Ecopetrol refining in 2025",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/mayores-costos-de-gas-y-crudo-habrian-golpeado-a-la-refinacion-de-ecopetrol-en-2025-4365324",
+        "published_date": "2026-04-07 14:03:49",
+        "category": "Energy"
+    },
+    {
+        "title": "MinMinas insists on the possibility of regional energy integration with Ecopetrol",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/palma-insiste-en-la-posibilidad-de-integracion-energetica-regional-a-traves-de-ecopetrol-4365161",
+        "published_date": "2026-04-07 12:07:19",
+        "category": "Energy"
+    },
+    {
+        "title": "Barranquilla celebrates its 213th birthday with music, culture and services on the boardwalk in the Rebolo neighborhood: learn about the program that starts at 2 p.m.",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/alarmante-ola-de-ataques-contra-la-red-semaforica-de-cali-tiene-al-borde-del-colapso-la-movilidad-y-la-seguridad-vial-atentan-contra-las-personas-3544425",
-        "published_date": "2026-04-01 08:50:13",
-        "category": "Military"
+        "url": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-celebra-su-cumpleanos-213-con-musica-cultura-y-servicios-en-el-malecon-del-barrio-rebolo-conozca-el-programa-que-inicia-a-las-2-p-m-3545824",
+        "published_date": "2026-04-07 08:38:11",
+        "category": "Energy"
     },
     {
         "title": "If Brent oil averages US$110, it would leave the Nation close to $45 billion",
@@ -312,34 +340,6 @@
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/petro-dijo-que-venta-de-electricos-se-duplico-por-sus-aranceles-a-vehiculos-de-gasolina-4364127",
         "published_date": "2026-04-05 18:18:05",
-        "category": "Energy"
-    },
-    {
-        "title": "More than a billion pesos: the expenses of the most voted senators",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/mas-de-mil-millones-de-pesos-los-gastos-de-los-senadores-mas-votados/",
-        "published_date": "2026-04-04 20:15:40",
-        "category": "Energy"
-    },
-    {
-        "title": "Drug policy imprisons the most vulnerable women",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-las-mujeres/la-politica-de-drogas-encarcela-a-las-mujeres-mas-vulnerables/",
-        "published_date": "2026-04-03 19:00:00",
-        "category": "Energy"
-    },
-    {
-        "title": "Petro blames Ocampo for the deficit and he defends the end of the gasoline subsidy",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/petro-culpa-a-ocampo-del-deficit-y-el-defiende-fin-de-subsidio-a-gasolina/",
-        "published_date": "2026-04-03 16:26:36",
-        "category": "Energy"
-    },
-    {
-        "title": "A family from Santander spent the night outdoors in the Topocoro reservoir: there were more than 15 hours of fear and darkness, the boat ran out of gas",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/familia-santandereana-paso-la-noche-a-la-intemperie-en-el-embalse-de-topocoro-fueron-mas-de-15-horas-de-miedo-y-oscuridad-lancha-quedo-sin-gasolina-3545102",
-        "published_date": "2026-04-03 13:23:51",
         "category": "Energy"
     },
     {
@@ -483,6 +483,118 @@
         "category": "Economy"
     },
     {
+        "title": "Non-mining-energy exports grew 9.5% in the first two months of 2026",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/exportaciones-no-minero-energeticas-vieron-alza-de-9-5-en-primer-bimestre-de-2026-4365341",
+        "published_date": "2026-04-07 14:46:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "Prosecutor's Office revokes 16 of the 23 arrest warrants for Paisa leaders",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/fiscalia-revoca-16-de-las-23-ordenes-de-captura-de-cabecillas-paisas/",
+        "published_date": "2026-04-07 14:07:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "Alias \u200b\u200bMapaya, leader of Los Espartanos de Buenaventura, falls in Bolivia",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/cae-en-bolivia-alias-mapaya-cabecilla-de-los-espartanos-de-buenaventura/",
+        "published_date": "2026-04-07 13:14:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "What do the presidential candidates propose for culture?",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/que-proponen-las-y-los-candidatos-presidenciales-para-la-cultura/",
+        "published_date": "2026-04-07 13:07:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tomorrow is our second open mic with candidates.Sign up here",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/manana-es-nuestro-segundo-microfono-abierto-con-candidatos-inscribase-aqui/",
+        "published_date": "2026-04-07 13:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Have an informed breakfast with the keys for this April 7, 2026",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-claves-de-este-7-de-abril-de-2026/",
+        "published_date": "2026-04-07 12:18:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "Petro vs.the Bank of the Republic",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/petro-vs-el-banco-de-la-republica/",
+        "published_date": "2026-04-07 12:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Two serious accidents involving a bus, a truck and private cars are reported on the road between Puerto Tejada and Candelaria, in the southwest of the country.",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/reportan-dos-graves-accidentes-de-una-buseta-un-camion-y-carros-particulares-en-la-via-entre-puerto-tejada-y-candelaria-en-el-suroccidente-del-pais-3545869",
+        "published_date": "2026-04-07 09:41:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "The political reactions in Medell\u00edn and Antioquia to the Prosecutor's Office's revocation of the arrest warrants for 16 of the bosses of the urban peace table",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/las-reacciones-politicas-en-medellin-y-antioquia-a-la-revocacion-de-la-fiscalia-a-las-ordenes-de-captura-de-16-de-los-capos-de-la-mesa-de-paz-urbana-3545862",
+        "published_date": "2026-04-07 09:34:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "Eye!In Floridablanca, the restriction of grills and motorcycles at night begins: know the places and what you should know about this measure",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/ojo-en-floridablanca-comienza-la-restriccion-de-parrillero-y-moto-en-las-noches-conozca-los-lugares-y-lo-que-debe-saber-de-esta-medida-3545864",
+        "published_date": "2026-04-07 09:29:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "Video shows brutal attack on a dog in Bucaramanga: authorities went to look for her and the dog was already dead and buried by its owner",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/video-muestra-brutal-ataque-a-perrita-en-bucaramanga-autoridades-fueron-a-buscarla-y-la-canina-ya-estaba-muerta-y-enterrada-por-su-dueno-3545849",
+        "published_date": "2026-04-07 09:15:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "Alias \u200b\u200b'Grandpa' falls in Cartagena: this was the blow to the heart of the criminal gangs that shakes the Barranquilla crime scene",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/cae-en-cartagena-alias-el-abuelo-asi-fue-el-golpe-al-corazon-de-las-bandas-criminales-que-sacude-el-tablero-delincuancial-de-barranquilla-3545848",
+        "published_date": "2026-04-07 08:55:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "Carnival Museum opens its doors free for Barranquilla Day: invites you to experience the tradition;culture and memory are taken Barrio Abajo",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/museo-del-carnaval-abre-sus-puertas-gratis-por-el-dia-de-barranquilla-invita-a-vivir-la-tradicion-cultura-y-memoria-se-toman-barrio-abajo-3545844",
+        "published_date": "2026-04-07 08:38:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "The impacts of the capture of 'Mapaya', added to that of his adversary 'Diego Optra' in a bloody war in Buenaventura: the gangs are reorganized",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/los-impactos-de-la-captura-de-mapaya-sumada-a-la-de-su-adversario-diego-optra-en-una-cruenta-guerra-en-buenaventura-se-reorganizan-los-grupos-3545816",
+        "published_date": "2026-04-07 08:14:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "Barranquilla is celebrating: 213 years have passed since the independence town that became the famous Golden Gate of Colombia",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-esta-de-fiesta-se-cumplen-213-anos-de-la-villa-independentista-que-se-convirtio-en-la-famosa-puerta-de-oro-de-colombia-3545799",
+        "published_date": "2026-04-07 06:01:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Scenarios of the Banco de la Rep\u00fablica to meet after breaking up with Petro",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/escenarios-del-banco-de-la-republica-para-sesionar-tras-ruptura-con-petro/",
+        "published_date": "2026-04-07 06:00:00",
+        "category": "Local Events"
+    },
+    {
         "title": "The price of fertilizers has increased more than 50% in the last year",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/precio-de-los-fertilizantes-entre-abril-de-2025-y-abril-de-2026-4364877",
@@ -508,118 +620,6 @@
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-movidas-de-este-6-de-abril-de-2026/",
         "published_date": "2026-04-07 00:28:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "It's official: Clara L\u00f3pez renounces her presidential candidacy",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/es-oficial-clara-lopez-renuncia-a-su-candidatura-presidencial/",
-        "published_date": "2026-04-07 00:16:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "Woman died in a pool during an alleged party in Medell\u00edn: this is known about the death and the identity of the young woman",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/mujer-murio-en-una-piscina-durante-presunta-fiesta-en-medellin-esto-se-sabe-del-fallecimiento-y-de-la-identidad-de-la-joven-3545791",
-        "published_date": "2026-04-07 00:06:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "With negative presentation, Court will thoroughly review economic emergency",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/con-ponencia-en-contra-corte-revisara-de-fondo-primera-emergencia-economica/",
-        "published_date": "2026-04-06 23:55:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Not even during Holy Week did homicides rest in Cali: 25 cases were recorded, five more than during the same period in 2025",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/ni-en-semana-santa-descansaron-los-homicidios-en-cali-se-registraron-25-casos-cinco-mas-que-durante-el-mismo-periodo-de-3545767",
-        "published_date": "2026-04-06 23:46:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Petro approval weight: highest popularity since 2022",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/ponderador-de-aprobacion-de-petro-la-aprobacion-mas-alta-desde-2022/",
-        "published_date": "2026-04-06 23:43:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Restricted passage on the Pereira-Manizales highway due to a tractor-trailer overturning on the night of this Monday, April 6: driver was injured",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/paso-restringido-en-la-via-pereira-manizales-por-volcamiento-de-tractocamion-en-la-noche-de-este-lunes-6-de-abril-conductor-resulto-herido-3545789",
-        "published_date": "2026-04-06 22:47:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "The reason why two brothers, ages 5 and 8, would have entered the refrigerator where they were found dead in Meta by their parents: 'They couldn't'",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/la-razon-por-la-que-dos-hermanos-de-5-y-8-anos-habrian-entrado-a-nevera-en-la-que-fueron-hallados-muertos-en-el-meta-por-sus-padres-no-pudieron-3545790",
-        "published_date": "2026-04-06 22:41:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "The U meets this Wednesday to define possible presidential support",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/la-u-se-reune-este-miercoles-para-definir-posible-apoyo-presidencial/",
-        "published_date": "2026-04-06 22:32:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "JPMorgan highlighted the resilience of the labor market despite the increase in the minimum",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/jpmorgan-destaco-la-resiliencia-del-mercado-laboral-pese-a-aumento-del-salrio-minimo-4364816",
-        "published_date": "2026-04-06 22:12:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "Attend our second open mic with candidates",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/asista-a-nuestro-segundo-microfono-abierto-con-candidatos-2/",
-        "published_date": "2026-04-06 22:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The city that does not plan its load, pays for it",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-ciencia-e-innovacion/la-ciudad-que-no-planea-su-carga-la-paga/",
-        "published_date": "2026-04-06 22:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Juliana Guerrero appears again in a session of the Superior Council of the Popular University of Cesar and generates controversy: 'Commitment of the President'",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/juliana-guerrero-vuelve-a-aparecer-en-sesion-abierta-del-consejo-superior-de-la-universidad-popular-del-cesar-es-un-compromiso-del-senor-presidente-3545753",
-        "published_date": "2026-04-06 21:52:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Prosecutor's Office maintains suspended arrest warrant against \u201cCalarc\u00e1\u201d",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/fiscalia-mantiene-suspendida-orden-de-captura-contra-calarca/",
-        "published_date": "2026-04-06 21:32:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "This is how the new map of violence in the Sierra Nevada is reconfigured: 280 deaths in Magdalena, La Guajira and Cesar in the first quarter of 2026",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/asi-se-reconfigura-el-nuevo-mapa-de-la-violencia-en-la-sierra-nevada-280-muertos-en-magdalena-la-guajira-y-cesar-en-primer-trimestre-de-3545748",
-        "published_date": "2026-04-06 19:20:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The arguments with which the governor of Antioquia intends to overthrow the suspension of the arrest warrants for 23 Medell\u00edn bosses",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/las-razones-del-gobernador-de-antioquia-para-presentar-la-accion-de-nulidad-contra-suspension-de-ordenes-de-captura-a-23-capos-del-valle-de-aburra-3545643",
-        "published_date": "2026-04-06 19:16:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "Holy Week in Antioquia: more than 720 summonses and six deaths on the roads",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/semana-santa-en-antioquia-mas-de-720-comparendos-y-seis-muertos-en-las-vias-3545733",
-        "published_date": "2026-04-06 18:23:08",
         "category": "Local Events"
     }
 ]
