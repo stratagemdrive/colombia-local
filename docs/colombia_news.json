@@ -77,6 +77,34 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Security proposals are not clear about financing or coordination",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/las-propuestas-en-seguridad-no-son-claras-sobre-financiacion-ni-coordinacion/",
+        "published_date": "2026-04-08 13:43:00",
+        "category": "Military"
+    },
+    {
+        "title": "They capture an extraditable in Cali: this is one of the most wanted men by Interpol for drug trafficking in Spain",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/capturan-un-extraditable-en-cali-es-uno-de-los-mas-buscados-por-la-interpol-por-narcotrafico-en-espana-3546180",
+        "published_date": "2026-04-08 09:49:15",
+        "category": "Military"
+    },
+    {
+        "title": "Mayors of Atl\u00e1ntico warn of security crisis in municipalities and rural areas: they ask for military presence;Government announces rewards",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/alcaldes-del-atlantico-alertan-crisis-de-seguridad-en-municipios-y-zonas-rurales-piden-presencia-militar-gobernacion-anuncia-recompensas-3546165",
+        "published_date": "2026-04-08 08:55:37",
+        "category": "Military"
+    },
+    {
+        "title": "Two injured soldiers and apologies for a misunderstanding that led to President Petro's scolding of an Army general in Cali",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/dos-soldados-heridos-y-las-disculpas-sobre-un-malentendido-que-motivo-el-regano-del-presidente-petro-a-un-general-del-ejercito-en-cali-3546137",
+        "published_date": "2026-04-08 07:29:11",
+        "category": "Military"
+    },
+    {
         "title": "Army recovers 113 gas cylinders in the rural area of \u200b\u200bTulu\u00e1: operation in La Moralia stops possible terrorist use by dissidents",
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/cali/ejercito-recupera-113-cilindros-de-gas-en-zona-rural-de-tulua-operacion-en-la-moralia-frena-posible-uso-terrorista-por-parte-de-las-disidencias-3546113",
@@ -189,32 +217,11 @@
         "category": "Military"
     },
     {
-        "title": "Cases of violence against children in Antioquia: authorities follow leads for a lifeless premature baby on a platform and burns to a 2-year-old child",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/casos-de-violencia-hacia-ninos-en-antioquia-autoridades-siguen-pistas-por-bebe-prematuro-sin-vida-en-un-anden-y-quemaduras-a-un-pequeno-de-2-anos-3544995",
-        "published_date": "2026-04-02 18:57:09",
-        "category": "Military"
-    },
-    {
-        "title": "Detector: Iv\u00e1n Cepeda did not authorize ELN to recruit children from 15 years of age",
+        "title": "Ecopetrol's Solomonic solution with Roa",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/detector-de-mentiras/enganoso/detector-ivan-cepeda-no-autorizo-que-eln-reclute-ninos-a-partir-de-15-anos/",
-        "published_date": "2026-04-01 23:28:13",
-        "category": "Military"
-    },
-    {
-        "title": "Recommendations to enjoy an accident-free and safe Holy Week in the Valley: more than a million vehicles are expected to leave",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/recomendaciones-para-disfrutar-una-semana-santa-sin-accidentes-y-con-seguridad-en-el-valle-se-espera-la-salida-de-mas-de-un-millon-de-vehiculos-3544859",
-        "published_date": "2026-04-01 20:31:25",
-        "category": "Military"
-    },
-    {
-        "title": "Holy Week in Valle del Cauca: between art, religious fervor, nature tourism and 'Magical Towns'",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/semana-santa-en-el-valle-del-cauca-entre-arte-fervor-religioso-turismo-de-naturaleza-y-pueblos-magicos-3544830",
-        "published_date": "2026-04-01 18:55:20",
-        "category": "Military"
+        "url": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/la-solucion-salomonica-de-ecopetrol-con-roa/",
+        "published_date": "2026-04-08 12:00:00",
+        "category": "Energy"
     },
     {
         "title": "Remittances to February exceeded income from oil exports",
@@ -350,11 +357,18 @@
         "category": "Energy"
     },
     {
-        "title": "The ANT exacerbated the territorial dispute in the Misak town",
+        "title": "A lawsuit was filed for a decree that prevents the Issuer from holding meetings without the Minister of Finance",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/ante-consejo-de-estado-se-radico-demanda-a-decreto-que-impide-al-emisor-sesionar-sin-el-ministro-4366394",
+        "published_date": "2026-04-08 14:41:32",
+        "category": "Economy"
+    },
+    {
+        "title": "They file a lawsuit against the decree that prevents the BanRep from meeting without the Ministry of Finance",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-etnica/la-ant-agudizo-la-disputa-territorial-en-el-pueblo-misak/",
-        "published_date": "2026-04-06 13:00:00",
-        "category": "Energy"
+        "url": "https://www.lasillavacia.com/en-vivo/radican-demanda-al-decreto-que-impide-sesionar-al-banrep-sin-minhacienda/",
+        "published_date": "2026-04-08 13:16:52",
+        "category": "Economy"
     },
     {
         "title": "Ministry of Finance filed preliminary draft of the 2027 Budget for $597 billion",
@@ -483,18 +497,95 @@
         "category": "Economy"
     },
     {
-        "title": "The gross debt of the Central Government increased by $433 billion since August 2022",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/la-deuda-bruta-del-gobierno-central-subio-en-433-billones-desde-agosto-de-2022-4361911",
-        "published_date": "2026-04-01 05:01:22",
-        "category": "Economy"
+        "title": "Congress admits 244 candidates for the position of comptroller general",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/congreso-admite-a-244-aspirantes-para-el-cargo-de-contralor-general/",
+        "published_date": "2026-04-08 14:49:11",
+        "category": "Local Events"
     },
     {
-        "title": "Ministry of Finance announced short-term TES auction for $900,000 million",
+        "title": "After criticism from Petro, Bukele offers to transfer his prisoners to Colombia",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/tras-criticas-de-petro-bukele-ofrece-trasladar-sus-presos-a-colombia/",
+        "published_date": "2026-04-08 14:03:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "Government will evaluate banning beef exports to reduce domestic price",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/ministerio-de-hacienda-anuncio-subasta-de-tes-de-corto-plazo-por-900-000-millones-4361973",
-        "published_date": "2026-04-01 02:02:07",
-        "category": "Economy"
+        "url": "https://www.larepublica.co/economia/gobierno-evaluara-prohibir-exportaciones-de-carne-bovina-para-reducir-precio-interno-4366166",
+        "published_date": "2026-04-08 12:55:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "MinTransporte will sign the Aerocaf\u00e9 construction start certificate at the end of this week",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/mintransporte-firmara-el-acta-de-inicio-de-obra-de-aerocafe-al-cierre-de-esta-semana-4366209",
+        "published_date": "2026-04-08 12:50:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "Have an informed breakfast with the keys for this April 8, 2026",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-claves-de-este-8-de-abril-de-2026/",
+        "published_date": "2026-04-08 12:20:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "Gustavo Petro insisted that the rise in the real rate is slowing down construction",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/gustavo-petro-insistio-en-que-el-alza-en-la-tasa-de-interes-real-esta-frenando-iniciaciones-4366098",
+        "published_date": "2026-04-08 11:56:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Killing women: violence as a strategy of armed control",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/matar-mujeres-la-violencia-instrumental-como-estrategia-del-control-armado/",
+        "published_date": "2026-04-08 11:12:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Shocking video of robbery of a motorcyclist in Floridablanca, he was saved from dying when he stopped resisting the robbery: 'shoot him in the face'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/impactante-video-de-robo-a-motociclista-en-floridablanca-se-salvo-de-morir-cuando-dejo-de-hacer-resistencia-al-hurto-peguele-un-tiro-en-la-cara-3546164",
+        "published_date": "2026-04-08 09:13:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "This would have been the cause of death of the two brothers, aged 5 and 8, found by their parents inside a refrigerator in Meta: 'They couldn't open it'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/esta-habria-sido-la-causa-de-muerte-de-los-dos-hermanos-de-5-y-8-anos-encontrados-por-sus-padres-en-una-nevera-en-vista-hermosa-meta-3546145",
+        "published_date": "2026-04-08 08:19:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Attorney General's Office warns of possible disciplinary offenses due to the ferry crisis in Salamina (Magdalena): more than 60,000 people affected",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/procuraduria-advierte-posibles-faltas-disciplinarias-por-crisis-del-ferry-en-salamina-magdalena-mas-de-60-000-personas-las-afectadas-3546147",
+        "published_date": "2026-04-08 08:06:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "Hitman attack on a commercial establishment left a worker dead and the owner of the premises injured in Cauca: the victims are identified",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/ataque-sicarial-en-un-establecimiento-comercial-en-el-cauca-dejo-a-un-trabajador-muerto-y-a-la-duena-del-local-herida-identifican-a-las-victimas-3546142",
+        "published_date": "2026-04-08 08:01:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "What the survivor of the serious bus accident that occurred on the Ibagu\u00e9-Bogot\u00e1 highway that left six people dead said: 'Behind the driver'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/lo-que-conto-sobreviviente-del-grave-accidente-de-bus-ocurrido-en-la-via-ibague-bogota-que-dejo-seis-personas-muertas-detras-del-conductor-3546123",
+        "published_date": "2026-04-08 07:58:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "Fight by the Colombian State against a millionaire businessman on the island in Cartagena reaches the Council of State: the magistrate returned the property, who is he?",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/pulso-del-estado-colombiano-con-millonario-empresario-que-busca-quedarse-con-una-isla-en-cartagena-llega-al-consejo-de-estado-3546124",
+        "published_date": "2026-04-08 06:43:52",
+        "category": "Local Events"
     },
     {
         "title": "The fiscal labyrinth that the next president of Colombia will inherit",
@@ -518,6 +609,13 @@
         "category": "Local Events"
     },
     {
+        "title": "Be careful, driver!Peak and plaque in Bucaramanga for Wednesday, April 8, 2026",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/tenga-cuidado-conductor-pico-y-placa-en-bucaramanga-para-miercoles-8-de-abril-de-2026-de-3546105",
+        "published_date": "2026-04-08 02:30:00",
+        "category": "Local Events"
+    },
+    {
         "title": "The National Government would be analyzing decreeing another economic emergency",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/petro-anuncia-medidas-ante-el-impacto-de-las-tasas-del-banco-de-la-republica-4365943",
@@ -536,104 +634,6 @@
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/liberales-tantean-en-la-casa-de-cesar-gaviria-su-apoyo-presidencial/",
         "published_date": "2026-04-08 00:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Government will scale gold purchase from 5 to 10 tons annually with new strategy",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/gobierno-nacional-escalara-la-compra-de-oro-de-5-a-10-toneladas-anuales-con-nueva-estrategia-4365886",
-        "published_date": "2026-04-08 00:13:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Dilian's ally will ask La U to support Paloma Valencia",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/aliada-de-dilian-pedira-a-la-u-apoyar-a-paloma-valencia/",
-        "published_date": "2026-04-07 22:26:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "'It was necessary to speak and take action': Jineth Bedoya at the inauguration of the Investigative and Memory Center No Es Hora de Callar",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/era-necesario-hablar-y-tomar-accion-jineth-bedoya-en-la-inauguracion-del-centro-investigativo-y-de-memoria-no-es-hora-de-callar-3545968",
-        "published_date": "2026-04-07 22:25:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "They demand the election of Amazonas representative, Orlando Rayo",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/demandan-la-eleccion-de-representante-de-amazonas-orlando-rayo/",
-        "published_date": "2026-04-07 22:00:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "The doctor who treated the baby who died after 50 days of waiting for heart surgery in Cartagena spoke: mother reported delays by Nueva EPS in transfer",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/hablo-medico-que-atendio-a-bebe-que-murio-tras-50-dias-de-espera-por-cirugia-de-corazon-la-madre-denuncio-demoras-de-nueva-eps-en-el-traslado-3546021",
-        "published_date": "2026-04-07 21:43:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Women's organizations in Atl\u00e1ntico denounce an increase in femicides and attacks: they demand a declaration of urgency for gender violence",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/las-organizaciones-de-mujeres-en-atlantico-denuncian-aumento-de-feminicidios-y-agresiones-exigen-declaratoria-de-urgencia-por-violencia-de-genero-3546067",
-        "published_date": "2026-04-07 19:25:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "'The Government has not supported us': Peasants from Uribe (Meta) build a road with their own resources and ask for help to finish it",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/el-gobierno-no-nos-ha-apoyado-campesinos-de-uribe-meta-construyen-carretera-con-sus-propios-recursos-y-piden-ayuda-para-poder-terminarla-3546064",
-        "published_date": "2026-04-07 19:17:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Alleged recruiter of women trafficking network goes to prison: he did not accept charges for the disappearance of a young paisa in Mexico",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/a-la-carcel-presunto-reclutador-de-red-de-trata-de-mujeres-no-acepto-cargos-por-la-desaparicion-de-joven-paisa-en-mexico-3546063",
-        "published_date": "2026-04-07 19:10:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "Medell\u00edn shields its slopes: Dagrd activated monitoring with 110 high-tech instruments in 31 critical points to prevent disasters",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/medellin-blinda-sus-laderas-dagrd-activo-monitoreo-con-110-instrumentos-de-alta-tecnologia-en-31-puntos-criticos-para-prevenir-desastres-3546054",
-        "published_date": "2026-04-07 19:03:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ituango filling level is below 100% and discharges would soon cease",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/nivel-de-llenado-de-ituango-esta-por-debajo-de-100-y-pronto-cesaria-vertimientos-4365459",
-        "published_date": "2026-04-07 17:41:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "Non-mining-energy exports grew 9.5% in the first two months of 2026",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/exportaciones-no-minero-energeticas-vieron-alza-de-9-5-en-primer-bimestre-de-2026-4365341",
-        "published_date": "2026-04-07 14:46:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "Prosecutor's Office revokes 16 of the 23 arrest warrants for Paisa leaders",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/fiscalia-revoca-16-de-las-23-ordenes-de-captura-de-cabecillas-paisas/",
-        "published_date": "2026-04-07 14:07:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "Alias \u200b\u200bMapaya, leader of Los Espartanos de Buenaventura, falls in Bolivia",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/cae-en-bolivia-alias-mapaya-cabecilla-de-los-espartanos-de-buenaventura/",
-        "published_date": "2026-04-07 13:14:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "What do the presidential candidates propose for culture?",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/que-proponen-las-y-los-candidatos-presidenciales-para-la-cultura/",
-        "published_date": "2026-04-07 13:07:00",
         "category": "Local Events"
     }
 ]
