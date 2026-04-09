@@ -1,5 +1,12 @@
 [
     {
+        "title": "Foreign Ministry detected cyber threat in passport delivery system",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/cancilleria-detecto-amenaza-cibernetica-en-sistema-de-entrega-de-pasaportes/",
+        "published_date": "2026-04-09 13:49:08",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Trump announces two-week ceasefire with Iran",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/trump-anuncia-un-alto-al-fuego-de-dos-semanas-con-iran/",
@@ -56,11 +63,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Drugs: between the inertia of the UN and the contradictions of Petro",
+        "title": "Fewer homicides, but more violence in Latin America",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/drogas-entre-la-inercia-de-la-onu-y-las-contradicciones-de-petro/",
-        "published_date": "2026-04-01 13:00:00",
-        "category": "Diplomacy"
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/menos-homicidios-pero-mas-violencia-en-latinoamerica/",
+        "published_date": "2026-04-09 13:50:00",
+        "category": "Military"
+    },
+    {
+        "title": "Federico Guti\u00e9rrez, mayor of Medell\u00edn, on the alleged Vallenato party in the Itag\u00fc\u00ed prison: 'A symbol of what the Petro government has been'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/federico-gutierrez-alcalde-de-medellin-sobre-presunta-parranda-vallenata-en-la-carcel-de-itaguei-en-un-simbolo-de-lo-que-ha-sido-el-gobierno-petro-3546491",
+        "published_date": "2026-04-09 10:46:01",
+        "category": "Military"
     },
     {
         "title": "Photo of Petro's meeting with ex-Farc in 2016 was manipulated to add drugs",
@@ -189,18 +203,32 @@
         "category": "Military"
     },
     {
-        "title": "Measures for the return of travelers to Cali, this Sunday, April 5: this is how the peak and plaque will work at kilometer 18 of the road to the sea",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/medidas-por-el-retorno-de-viajeros-a-cali-este-domingo-5-de-abril-asi-regira-el-pico-y-placa-en-el-kilometro-18-de-la-via-al-mar-3545247",
-        "published_date": "2026-04-04 17:32:01",
-        "category": "Military"
+        "title": "\"My decisions in the company are independent, my governing body is the Board of Directors\"",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/juan-carlos-hurtado-hizo-primera-presentacion-como-presidente-encargado-de-ecopetrol-4367420",
+        "published_date": "2026-04-09 16:03:07",
+        "category": "Energy"
     },
     {
-        "title": "Violence in Antioquia worsens: homicides increase and illegal economies expand in the north of the department, authorities warn",
+        "title": "Ecopetrol's profits fell 39%, while those of the Issuer registered a record",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/utilidades-de-ecopetrol-cayeron-39-mientras-las-del-emisor-registraron-record-en-2025-4367186",
+        "published_date": "2026-04-09 13:11:21",
+        "category": "Energy"
+    },
+    {
+        "title": "Standard & Poors downgraded state-owned Ecopetrol's global credit rating from BB to BB-",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/standard-poors-rebajo-calificacion-crediticia-global-de-estatal-ecopetrol-de-bb-a-bb-4367140",
+        "published_date": "2026-04-09 11:27:21",
+        "category": "Energy"
+    },
+    {
+        "title": "Videos show how the different passport offices in Colombia appear: there are long lines and thousands of complaints from citizens",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/violencia-en-antioquia-se-agrava-aumentan-homicidios-y-se-expanden-economias-ilegales-en-el-norte-del-departamento-advierten-autoridades-3545158",
-        "published_date": "2026-04-04 00:01:00",
-        "category": "Military"
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/videos-muestran-como-amanecen-las-diferentes-sedes-de-pasaportes-en-colombia-hay-largas-filas-y-miles-de-quejas-de-ciudadanos-3546478",
+        "published_date": "2026-04-09 10:13:08",
+        "category": "Energy"
     },
     {
         "title": "ISA shareholder asked Ecopetrol to confirm whether Roa's absence also applies to the subsidiary",
@@ -315,32 +343,18 @@
         "category": "Energy"
     },
     {
-        "title": "Fedesarrollo estimates that economic growth will be 2.6% at the end of the year",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/crecimiento-economico-de-colombia-segun-fedesarrollo-a-cierre-de-2026-4364571",
-        "published_date": "2026-04-06 17:34:25",
-        "category": "Energy"
+        "title": "The response of the governor of Valle to the United States alert not to visit the department: the reasons for traveling to the region",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/la-respuesta-de-la-gobernadora-del-valle-frente-a-la-alerta-de-estados-unidos-de-no-visitar-el-departamento-las-razones-para-si-viajar-a-la-region-3546297",
+        "published_date": "2026-04-09 09:03:06",
+        "category": "Economy"
     },
     {
-        "title": "Oil contributions would total $45 billion with Brent above US$110 per barrel",
+        "title": "Financial market foresees a new acceleration in inflation in March up to 5.45%",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/aportes-petroleros-sumarian-45-billones-con-brent-por-encima-de-us-110-por-barril-4364331",
-        "published_date": "2026-04-06 14:58:35",
-        "category": "Energy"
-    },
-    {
-        "title": "Asoenerg\u00eda Board of Directors elected Silvana Habib as new executive director",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/junta-directiva-de-asoenergia-eligio-a-silvana-habib-como-nueva-directora-ejecutiva-4364439",
-        "published_date": "2026-04-06 14:07:17",
-        "category": "Energy"
-    },
-    {
-        "title": "Superservicios accompanied the dialogue table for the unblocking of the Pan-American Highway",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/superservicios-acompano-mesa-de-dialogo-para-el-desbloqueo-de-la-via-panamericana-4364408",
-        "published_date": "2026-04-06 13:26:03",
-        "category": "Energy"
+        "url": "https://www.larepublica.co/economia/mercado-financiero-preve-una-nueva-aceleracion-en-la-inflacion-de-marzo-hasta-5-45-4367005",
+        "published_date": "2026-04-09 05:01:36",
+        "category": "Economy"
     },
     {
         "title": "MinHacienda auctioned $600,000 million in TES in UVR with rates of up to 6.870%",
@@ -469,157 +483,143 @@
         "category": "Economy"
     },
     {
-        "title": "Sleep informed with the keys for this April 1, 2026",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-claves-de-este-1-de-abril-de-2026/",
-        "published_date": "2026-04-02 00:00:25",
-        "category": "Economy"
-    },
-    {
-        "title": "Independence from the Issuer brought a slowdown in inflation of 25 pps.since 1991",
+        "title": "Credit rating downgrade will bring fiscal deterioration and higher borrowing costs",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/independencia-del-emisor-permitio-desaceleracion-inflacionaria-de-25-pps-desde-1991-4362393",
-        "published_date": "2026-04-01 17:10:38",
-        "category": "Economy"
-    },
-    {
-        "title": "After complaints of harassment, MinTrabajo orders measures against Caracol TV",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/tras-denuncias-de-acoso-mintrabajo-ordena-medidas-a-caracol-tv/",
-        "published_date": "2026-04-08 23:35:13",
+        "url": "https://www.larepublica.co/economia/anif-advierte-deuda-bruta-de-62-9-del-pib-en-2026-por-rebaja-en-calificacion-crediticia-4367332",
+        "published_date": "2026-04-09 15:44:43",
         "category": "Local Events"
     },
     {
-        "title": "Tune in to our second open mic with candidates",
+        "title": "SuperSalud appoints substitutes in 4 EPS after suspension of the Attorney General's Office",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/conectese-a-nuestro-segundo-microfono-abierto-con-candidatos/",
-        "published_date": "2026-04-08 22:50:00",
+        "url": "https://www.lasillavacia.com/en-vivo/supersalud-nombra-suplentes-en-4-eps-tras-suspension-de-procuraduria/",
+        "published_date": "2026-04-09 15:35:27",
         "category": "Local Events"
     },
     {
-        "title": "S&P lowers Colombia's credit rating to the worst historical level",
+        "title": "Ungrd: Commission investigates prosecutors after freedom of former minister Bonilla",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/sp-baja-la-calificacion-crediticia-de-colombia-de-bb-a-bb/",
-        "published_date": "2026-04-08 22:46:37",
+        "url": "https://www.lasillavacia.com/en-vivo/ungrd-comision-investiga-a-fiscales-tras-libertad-de-exministro-bonilla/",
+        "published_date": "2026-04-09 14:41:05",
         "category": "Local Events"
     },
     {
-        "title": "Government increases salaries of officers and non-commissioned officers of the public force",
+        "title": "Prosecutor's Office investigates Lemus for meeting with \u201cPapa Smurf's\u201d lawyer",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/gobierno-sube-salarios-de-oficiales-y-suboficiales-de-la-fuerza-publica/",
-        "published_date": "2026-04-08 22:20:46",
+        "url": "https://www.lasillavacia.com/en-vivo/procuraduria-investiga-a-lemus-por-reunion-con-abogado-de-papa-pitufo/",
+        "published_date": "2026-04-09 13:08:38",
         "category": "Local Events"
     },
     {
-        "title": "La U bench says it will not support Iv\u00e1n Cepeda's candidacy",
+        "title": "Have an informed breakfast with the keys for this April 9, 2026",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/bancada-de-la-u-dice-que-no-apoyara-candidatura-de-ivan-cepeda/",
-        "published_date": "2026-04-08 21:54:53",
+        "url": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-claves-de-este-9-de-abril-de-2026/",
+        "published_date": "2026-04-09 12:28:43",
         "category": "Local Events"
     },
     {
-        "title": "Government cancels airport project in Barrancominas, Guain\u00eda",
+        "title": "From the constituent to the national dialogue of Iv\u00e1n Cepeda",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/gobierno-cancela-proyecto-de-aeropuerto-en-barrancominas-guainia/",
-        "published_date": "2026-04-08 21:48:15",
+        "url": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/de-la-constituyente-al-dialogo-nacional-de-ivan-cepeda/",
+        "published_date": "2026-04-09 12:00:00",
         "category": "Local Events"
     },
     {
-        "title": "The traditional parties are going towards Paloma, but there are still doubts and dissidents",
+        "title": "Are elections approaching in Venezuela?",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/los-partidos-tradicional-van-hacia-paloma-pero-aun-hay-dudas-y-disidentes/",
-        "published_date": "2026-04-08 21:15:45",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-venezuela/se-aproximan-elecciones-en-venezuela/",
+        "published_date": "2026-04-09 11:18:52",
         "category": "Local Events"
     },
     {
-        "title": "Polarization is, at its core, a moral dispute over who suffers harm",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/la-polarizacion-es-en-el-fondo-una-disputa-moral-sobre-quien-sufre-el-dano/",
-        "published_date": "2026-04-08 21:10:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "This is how the network of 'false technicians who looted telecommunications infrastructure in Antioquia fell",
+        "title": "The enormous increases in cadastral valuations for sugarcane producers and inhabitants of rural areas in Valle and the country that reach up to 2,505,119%",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/asi-cayo-la-red-de-los-falsos-tecnicos-que-desvalijaba-infraestructura-de-telecomunicaciones-en-antioquia-3546315",
-        "published_date": "2026-04-08 18:33:38",
+        "url": "https://www.eltiempo.com/colombia/cali/los-descomunales-aumentos-de-avaluos-catastrales-para-productores-de-cana-y-habitantes-de-zona-rural-en-valle-y-el-pais-que-alcanzan-hasta-2-505-3546484",
+        "published_date": "2026-04-09 10:39:06",
         "category": "Local Events"
     },
     {
-        "title": "Accumulated rage, damaged traffic lights and mobility on the verge of collapse: the violent expression of the challenge to the traffic authority in Cali",
+        "title": "A well-known 49-year-old merchant and lender is murdered in Valledupar: thieves on a motorcycle stole a luxurious gold chain from him",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/rabia-acumulada-semaforos-danados-y-movilidad-al-borde-del-colapso-la-expresion-violenta-del-desafio-a-la-autoridad-de-transito-en-cali-3546062",
-        "published_date": "2026-04-08 18:23:01",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/asesinan-a-reconocido-comerciante-y-prestamista-de-49-anos-en-valledupar-ladrones-en-moto-le-robaron-lujosa-cadena-de-oro-3546442",
+        "published_date": "2026-04-09 10:32:34",
         "category": "Local Events"
     },
     {
-        "title": "What will happen to the millionaire Cali cartel building that was a hotel after a violent past linked to the infamous Rodr\u00edguez Orejuela kingpins?",
+        "title": "Exclusive photos of Isla Fiesta: vacant lot in Cartagena that a millionaire businessman refuses to return to the nation and whose demand reached the Council of State",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/el-millonario-edificio-que-era-de-miguel-y-gilberto-rodriguez-del-cartel-de-cali-y-funciono-como-hotel-sera-sede-por-la-defensa-de-derechos-humanos-3546282",
-        "published_date": "2026-04-08 18:15:00",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/fotos-exclusivas-de-isla-fiesta-baldio-en-cartagena-que-millonario-empresario-se-niega-a-devolver-a-nacion-y-cuya-demanda-llego-a-consejo-de-estado-3546486",
+        "published_date": "2026-04-09 10:30:31",
         "category": "Local Events"
     },
     {
-        "title": "Concern in Baranoa over the murder of an elderly woman in the living room of her house: hitmen pretended they were going to buy ice and treacherously attacked her",
+        "title": "Santander is totally blocked by the national strike: there is no access to Antioquia, Bogot\u00e1, Costa Caribe and travelers cannot reach the airport",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/preocupacion-en-baranoa-por-asesinato-de-una-adulta-mayor-en-la-sala-de-su-casa-sicarios-fingieron-que-iban-a-comprar-hielos-y-la-atacaron-a-traicion-3546365",
-        "published_date": "2026-04-08 18:01:00",
+        "url": "https://www.eltiempo.com/colombia/santander/santander-esta-totalmente-bloqueado-por-el-paro-nacional-no-hay-paso-a-antioquia-bogota-costa-caribe-y-los-viajeros-no-pueden-llegar-al-aeropuerto-3546474",
+        "published_date": "2026-04-09 10:29:54",
         "category": "Local Events"
     },
     {
-        "title": "Can your vehicle circulate on May 3 in Cali?Quick guide to exceptions for Active Mobility Day and the Marathon",
+        "title": "Giant crater after bridge collapse in Villavicencio: cracks sank the road in minutes;It is the third structural failure in less than two years",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/su-vehiculo-puede-circular-el-3-de-mayo-en-cali-guia-rapida-de-las-excepciones-para-el-dia-de-la-movilidad-activa-y-la-maraton-3546354",
-        "published_date": "2026-04-08 17:48:03",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/crater-gigante-tras-colapso-de-puente-en-villavicencio-grietas-en-minutos-hundieron-la-via-es-el-tercer-fallo-estructural-en-menos-de-dos-anos-3546495",
+        "published_date": "2026-04-09 10:24:59",
         "category": "Local Events"
     },
     {
-        "title": "National strike this Thursday, April 9: these are the points where mobility is expected to be affected",
+        "title": "This is Isla Fiesta, the property in Islas del Rosario rented for $280,000 per month that they do not want to return",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/paro-nacional-de-este-jueves-9-de-abril-estos-son-los-puntos-en-los-que-se-preve-que-habra-afectaciones-en-la-movilidad-3546351",
-        "published_date": "2026-04-08 17:39:23",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/asi-es-isla-fiesta-el-predio-en-islas-del-rosario-arrendado-por-280-000-mensuales-que-no-quieren-devolver-3546482",
+        "published_date": "2026-04-09 09:52:22",
         "category": "Local Events"
     },
     {
-        "title": "Non-monetary gold and agriculture, the main drivers of exports at the beginning of the year",
+        "title": "Crime inside the El Bosque de Barranquilla penitentiary: inmate was killed with hammer blows and stab wounds;apparently for revenge",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/crimen-dentro-de-la-penitenciaria-de-el-bosque-de-barranquilla-recluso-fue-asesinado-a-martillazos-y-punaladas-al-parecer-por-venganza-3546472",
+        "published_date": "2026-04-09 09:01:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Suspending meat exports costs ranchers almost US$350 million",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/oro-no-monetario-y-agro-los-principales-motores-de-las-exportaciones-de-inicio-de-ano-4366504",
-        "published_date": "2026-04-08 16:47:55",
+        "url": "https://www.larepublica.co/economia/suspender-exportaciones-de-carne-bovina-le-cuesta-a-los-ganaderos-casi-us-350-millones-4366059",
+        "published_date": "2026-04-09 05:01:55",
         "category": "Local Events"
     },
     {
-        "title": "Cali advances in public breastfeeding: pilot at MIO's Ca\u00f1averalejo station seeks to protect infant nutrition and maternal health",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/cali-avanza-en-lactancia-publica-piloto-en-estacion-canaveralejo-del-mio-busca-proteger-nutricion-infantil-y-salud-materna-3546285",
-        "published_date": "2026-04-08 16:11:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "New financing law would revive financial sector surtax and liquor tax",
+        "title": "\u201cReduction in birth rate allows resources to be redirected to close gaps\u201d",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/nueva-ley-de-financiamiento-reviviria-sobretasa-a-sector-financiero-e-impuesto-a-licores-4366468",
-        "published_date": "2026-04-08 16:10:56",
+        "url": "https://www.larepublica.co/economia/entrevista-con-daniel-rojas-ministro-de-educacion-sobre-la-crisis-de-natalidad-en-el-sector-4365569",
+        "published_date": "2026-04-09 05:01:48",
         "category": "Local Events"
     },
     {
-        "title": "Economic Policy Uncertainty Index stood at 252 points during March",
+        "title": "S&P Global downgraded Colombia's sovereign rating to levels not seen since 1993",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/indice-de-incertidumbre-de-politica-economica-se-situo-en-252-puntos-durante-marzo-4366433",
-        "published_date": "2026-04-08 15:56:48",
+        "url": "https://www.larepublica.co/economia/s-p-global-rebajo-la-calificacion-soberana-de-colombia-a-niveles-no-vistos-desde-1993-4366946",
+        "published_date": "2026-04-09 05:01:22",
         "category": "Local Events"
     },
     {
-        "title": "Cartagena District has a roadmap ready to preserve the Getseman\u00ed neighborhood and avoid gentrification: Raizal population disappeared by 92%",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/distrito-de-cartagena-tiene-lista-hoja-de-ruta-para-conservar-el-barrio-getsemani-y-evitar-la-gentrificacion-poblacion-raizal-desaparecio-en-un-3546284",
-        "published_date": "2026-04-08 15:51:29",
+        "title": "The dilemma of the centrist voter: between the useful vote and disenchantment",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/el-dilema-del-votante-de-centro-entre-el-voto-util-y-el-desencanto/",
+        "published_date": "2026-04-09 05:01:00",
         "category": "Local Events"
     },
     {
-        "title": "Superservicios and Andesco fuel debate on investment in the new tariff framework",
+        "title": "In support of Clara L\u00f3pez, Iv\u00e1n Cepeda presents his economic ideas",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/en-adhesion-de-clara-lopez-ivan-cepeda-expone-sus-ideas-economicas/",
+        "published_date": "2026-04-09 03:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Former co-directors of the Bank of the Republic defend the independence of the issuer",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/superservicios-defiende-que-marco-tarifario-protege-a-usuarios-de-costos-ineficientes-4366373",
-        "published_date": "2026-04-08 15:07:25",
+        "url": "https://www.larepublica.co/economia/excodirectores-del-banco-de-la-republica-defienden-la-independencia-del-emisor-4367046",
+        "published_date": "2026-04-09 00:51:27",
         "category": "Local Events"
     }
 ]
