@@ -1,9 +1,23 @@
 [
     {
+        "title": "Petro ordered the Colombian ambassador to Ecuador to \"come immediately\" to the country",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/petro-ordeno-a-la-embajadora-de-colombia-en-ecuador-venir-de-inmediato-al-pais-4368193",
+        "published_date": "2026-04-10 11:24:47",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Politicized, without plan, or money: x-ray of the Foreign Ministry that Petro leaves",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/silla-nacional/politizada-sin-plan-ni-plata-radiografia-a-la-cancilleria-que-deja-petro/",
         "published_date": "2026-04-10 06:00:00",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Inpec spoke out after the attack against deputy directors of the Palogordo prison in Bucaramanga: 'Consequence of effective work'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/inpec-se-pronuncio-frente-al-atentado-contra-subdirectores-de-la-carcel-de-palogordo-en-bucaramanga-consecuencia-del-trabajo-efectivo-3546763",
+        "published_date": "2026-04-10 05:56:54",
         "category": "Diplomacy"
     },
     {
@@ -476,6 +490,13 @@
         "category": "Economy"
     },
     {
+        "title": "26 women murdered and 4 massacres in three months: the alarming figures that confirm one of the most violent periods in the Atlantic in the 21st century",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/26-mujeres-asesinadas-y-4-masacres-en-tres-meses-las-alarmantes-cifras-que-confirman-uno-de-los-periodos-mas-violentos-del-atlantico-en-el-siglo-xxi-3546719",
+        "published_date": "2026-04-10 06:01:00",
+        "category": "Local Events"
+    },
+    {
         "title": "Unions warned that there would be an increase in coal prices with the financing law",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/gremios-alertaron-que-habria-escalada-de-precios-al-carbon-con-ley-de-financiamiento-4367155",
@@ -494,6 +515,55 @@
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/rebaja-de-s-p-global-ratings-a-bb-llevo-el-riesgo-pais-al-nivel-mas-alto-en-un-ano-4368023",
         "published_date": "2026-04-10 05:01:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "They offer $50 million pesos for the massacre of six people in the rural area of \u200b\u200bPopay\u00e1n;attack occurred in La Meseta and ambulance would have been blocked",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/ofrecen-50-millones-de-pesos-por-masacre-de-seis-personas-en-zona-rural-de-popayan-ataque-ocurrio-en-la-meseta-y-ambulancia-habria-sido-bloqueada-3546765",
+        "published_date": "2026-04-10 03:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Be careful, driver!Peak and plaque in Bucaramanga for Friday, April 10, 2026",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/cuidado-conductor-pico-y-placa-en-bucaramanga-para-viernes-10-de-abril-de-2026-de-3546762",
+        "published_date": "2026-04-10 02:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Avoid fines: peak and plate in Pereira for Friday, April 10, 2026",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/evite-multas-pico-y-placa-en-pereira-para-el-viernes-10-de-abril-de-3546761",
+        "published_date": "2026-04-10 02:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Batteries, driver!Peak and plate in Medell\u00edn for Friday, April 10, 2026",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/pilas-conductor-pico-y-placa-en-medellin-para-el-viernes-10-de-abril-de-3546759",
+        "published_date": "2026-04-10 02:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "This will be the peak and plate in Cali for Friday, April 10, 2026",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/asi-sera-el-pico-y-placa-en-cali-para-el-viernes-10-de-abril-de-3546758",
+        "published_date": "2026-04-10 02:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Attack against deputy directors of the Palogordo de Gir\u00f3n prison: the Valle del Cauca gangs that could be behind it and the operation that was carried out before",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/atentado-contra-subdirectores-de-carcel-palogordo-de-giron-las-bandas-del-valle-del-cauca-que-podrian-estar-detras-y-el-operativo-que-se-hizo-antes-3546764",
+        "published_date": "2026-04-10 02:12:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "'Payment to artists is advancing at an adequate pace': Corfecali manager, Felipe Salcedo, gave a date on which they would cancel the debts 100%",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/el-pago-a-los-artistas-esta-avanzando-a-un-ritmo-adecuado-gerente-de-corfecali-felipe-salcedo-dio-fecha-en-la-que-cancelarian-las-deudas-al-3546760",
+        "published_date": "2026-04-10 01:49:12",
         "category": "Local Events"
     },
     {
@@ -557,62 +627,6 @@
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/protestas-por-avaluo-catastral-generan-caos-en-varias-regiones-3546740",
         "published_date": "2026-04-09 22:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "479 young people under 28 years of age murdered in Cali during 2025: Council debates the proposal for a sectorized curfew in the face of homicide crisis",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/479-jovenes-menores-de-28-anos-asesinados-en-cali-durante-2025-concejo-debate-la-propuesta-de-un-toque-de-queda-sectorizado-ante-crisis-de-homicidios-3546743",
-        "published_date": "2026-04-09 22:26:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cLooking for\u201d a solution to the negative impact of technology",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/buscando-una-solucion-al-impacto-negativo-de-la-tecnologia/",
-        "published_date": "2026-04-09 22:05:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Attack against deputy director of Palogordo prison: armed men shot at the vehicle in which the official was traveling in Bucaramanga",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/atentado-contra-subdirector-de-carcel-de-palogordo-hombres-armados-dispararon-contra-el-vehiculo-en-el-que-iba-el-funcionario-3546723",
-        "published_date": "2026-04-09 21:59:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "This is how the military salary system is defined after the 7% increase decreed for 2026",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/asi-se-define-el-sistema-salarial-de-militares-tras-el-aumento-de-7-decretado-para-2026-4367731",
-        "published_date": "2026-04-09 21:26:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Court ratifies decree that prohibits consumption of psychoactive substances in parks and school environments in Cali",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/tribunal-ratifica-decreto-que-prohibe-consumo-de-sustancias-psicoactivas-en-parques-y-entornos-escolares-de-cali-3546720",
-        "published_date": "2026-04-09 21:13:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Court declared unenforceable the emergency that Petro declared in December",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/corte-declaro-inexequible-la-emergencia-economica-que-declaro-petro-en-diciembre-4367715",
-        "published_date": "2026-04-09 20:53:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Atlantic |Crime of a woman who sold ice in Baranoa is investigated for extortion: pamphlets circulate that threaten to 'take revenge' for the incident",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/atlantico-crimen-de-mujer-que-vendia-hielos-en-baranoa-es-investigado-por-extorsion-circulan-panfletos-que-amenazan-tomar-venganza-por-el-hecho-3546696",
-        "published_date": "2026-04-09 20:01:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Guti\u00e9rrez assured that lowering BB- reflects fiscal deterioration and uncertainty in the country",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/gutierrez-aseguro-que-rebaja-de-la-calificacion-a-bb-refleja-deterioro-fiscal-e-incertidumbre-4367605",
-        "published_date": "2026-04-09 19:25:56",
         "category": "Local Events"
     }
 ]
