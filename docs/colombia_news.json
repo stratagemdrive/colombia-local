@@ -7,6 +7,13 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Atlantic |A man was shot dead eight times in Polonuevo: there is concern about the increase in violent events in the municipality",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/atlantico-un-hombre-fue-asesinado-de-ocho-disparos-en-polonuevo-hay-preocupacion-por-el-aumento-de-hechos-violentos-en-el-municipio-3547017",
+        "published_date": "2026-04-10 19:01:00",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Petro ordered the Colombian ambassador to Ecuador to \"come immediately\" to the country",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/petro-ordeno-a-la-embajadora-de-colombia-en-ecuador-venir-de-inmediato-al-pais-4368193",
@@ -210,6 +217,27 @@
         "category": "Military"
     },
     {
+        "title": "Radical Change Bank will define presidential support on April 15",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/bancada-de-cambio-radical-definira-apoyo-presidencial-el-15-de-abril/",
+        "published_date": "2026-04-11 00:00:28",
+        "category": "Energy"
+    },
+    {
+        "title": "Cartagena will be the scene of the construction of a new rights protection regime for energy and gas users: CREG provides details",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/cartagena-sera-escenario-de-la-construccion-de-un-nuevo-regimen-de-proteccion-de-derechos-para-los-usuarios-de-energia-y-gas-creg-entrega-detalles-3547051",
+        "published_date": "2026-04-10 23:11:40",
+        "category": "Energy"
+    },
+    {
+        "title": "Medell\u00edn and South Korea signed a million-dollar cooperation agreement to implement a modernization project in solid waste management",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/medellin-y-corea-del-sur-firmaron-millonario-acuerdo-de-cooperacion-para-implementar-proyecto-de-modernizacion-en-la-gestion-de-los-residuos-solidos-3547033",
+        "published_date": "2026-04-10 21:07:14",
+        "category": "Energy"
+    },
+    {
         "title": "Gang that trafficked 12,000 doses of drugs a month and hid in trees on Bulevar del R\u00edo in Cali falls: alleged street vendor was ringleader",
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/cali/cae-banda-que-traficaba-12-000-dosis-de-drogas-al-mes-en-bulevar-del-rio-sector-turistico-de-cali-un-supuesto-vendedor-ambulante-era-su-cabecilla-3546995",
@@ -329,25 +357,18 @@
         "category": "Energy"
     },
     {
-        "title": "If Brent oil averages US$110, it would leave the Nation close to $45 billion",
+        "title": "\u201cColombia's current fiscal situation is more serious than people believe\u201d",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/si-el-petroleo-brent-se-mantiene-en-promedio-a-us-110-dejaria-45-billones-a-la-nacion-4364945",
-        "published_date": "2026-04-07 05:01:34",
-        "category": "Energy"
+        "url": "https://www.larepublica.co/economia/la-situacion-fiscal-actual-que-tiene-colombia-es-mas-grave-de-lo-que-la-gente-cree-4367340",
+        "published_date": "2026-04-11 05:01:33",
+        "category": "Economy"
     },
     {
-        "title": "Roa temporarily leaves the presidency of Ecopetrol",
+        "title": "Sleep informed with the movements of this April 10, 2026",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/roa-sale-temporalmente-de-la-presidencia-de-ecopetrol/",
-        "published_date": "2026-04-07 00:53:10",
-        "category": "Energy"
-    },
-    {
-        "title": "Roa will leave the presidency of Ecopetrol and will return to office on June 28",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/ricardo-roa-saldra-temporalmente-de-la-presidencia-de-ecopetrol-hasta-el-28-de-junio-4365002",
-        "published_date": "2026-04-07 00:49:58",
-        "category": "Energy"
+        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-movidas-de-este-10-de-abril-de-2026/",
+        "published_date": "2026-04-11 00:08:40",
+        "category": "Economy"
     },
     {
         "title": "MinHacienda confirmed that it will present tax reform to raise $16 billion",
@@ -476,18 +497,60 @@
         "category": "Economy"
     },
     {
-        "title": "MinHacienda filed preliminary draft of the General Budget of the Nation for 2027",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/minhacienda-radico-anteproyecto-del-presupuesto-general-de-la-nacion-para-2027-4365609",
-        "published_date": "2026-04-07 21:13:39",
-        "category": "Economy"
+        "title": "De la Espriella's right moderated Valencia's",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/la-derecha-de-de-la-espriella-modero-a-la-de-valencia/",
+        "published_date": "2026-04-11 05:05:00",
+        "category": "Local Events"
     },
     {
-        "title": "MinHacienda issued $900,000 million in TCO with an interest rate of 13.650%",
+        "title": "The probability of the onset of the El Ni\u00f1o phenomenon rose to 90% for September",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/minhacienda-emitio-900-000-millones-en-tco-con-una-tasa-de-interes-de-13-650-4365458",
-        "published_date": "2026-04-07 17:39:29",
-        "category": "Economy"
+        "url": "https://www.larepublica.co/economia/la-probabilidad-de-inicio-del-fenomeno-de-el-nino-subio-hasta-90-para-septiembre-4368844",
+        "published_date": "2026-04-11 05:03:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "Colombia responds with a 100% tariff on imports from Ecuador",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/colombia-responde-con-arancel-de-100-a-importaciones-provenientes-de-ecuador-4368726",
+        "published_date": "2026-04-11 05:01:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "A person's accent can determine whether they are hired for a job or not.",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/el-acento-de-una-persona-puede-llegar-a-definir-si-la-contratan-en-un-empleo-o-no-4368723",
+        "published_date": "2026-04-11 05:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The four teenagers accused of the murder of psychologist Karelis Merlano in a transit home in Barrancabermeja are arrested;this is known",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/aprehenden-a-los-cuatro-adolescentes-senalados-por-el-asesinato-de-la-psicologa-karelis-merlano-en-hogar-de-paso-de-barrancabermeja-esto-se-sabe-3547062",
+        "published_date": "2026-04-11 03:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ituango reduced its filling level and could put an end to 40 days of continuous dumping",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/ituango-redujo-su-nivel-de-llenado-y-podria-poner-fin-a-40-dias-de-vertimientos-continuos-4368839",
+        "published_date": "2026-04-11 00:03:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "Colombians at war in Ukraine denounce deceptions, abuses, non-payments and disappearances after the 'Ukrainian dream' that ended up being a total nightmare",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/colombianos-en-guerra-de-ucrania-denuncian-enganos-abusos-impagos-y-desapariciones-tras-el-sueno-ucraniano-que-termino-siendo-una-pesadilla-total-3547055",
+        "published_date": "2026-04-10 23:59:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "Attention Cartagena: on Sunday 120 neighborhoods will not have water service due to Acuacar technical stoppage",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/atencion-cartagena-el-domingo-120-barrios-no-tendran-servicio-de-agua-por-parada-tecnica-de-acuacar-3547054",
+        "published_date": "2026-04-10 23:38:56",
+        "category": "Local Events"
     },
     {
         "title": "Historical Pact did not propose a $200,000 bill with Antonella Petro's face",
@@ -567,66 +630,10 @@
         "category": "Local Events"
     },
     {
-        "title": "The luxurious renovations in the cells of the Itag\u00fc\u00ed prison, where a Vallenata party was held with Nelson Vel\u00e1squez: marble floors and extensions",
+        "title": "Panic on the school route in Cali: an alleged hitman boarded the vehicle and urged the driver to take him to Silo\u00e9, after murdering a person",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/descubren-lujosas-remodelaciones-en-celdas-de-carcel-de-itaguei-tras-parranda-vallenata-con-nelson-velasquez-3546963",
-        "published_date": "2026-04-10 18:25:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "These are the products and companies of foreign capital in Valle, with an impact due to tariffs in Ecuador: they are equivalent to more than half of exports",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/estos-son-los-productos-y-empresas-de-capital-extranjero-en-valle-con-impacto-por-aranceles-en-ecuador-equivalen-a-mas-de-la-mitad-de-exportaciones-3546977",
-        "published_date": "2026-04-10 18:01:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Barranquilla: Cepeda Samudio Chair celebrates 100 years of the author with an academic and cultural agenda;Uninorte and La Cueva will host",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-catedra-cepeda-samudio-celebra-100-anos-del-autor-con-agenda-academica-y-cultural-la-uninorte-y-la-cueva-seran-sede-3546981",
-        "published_date": "2026-04-10 17:46:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Video |Firefighters rescued a young man whose finger was trapped in a bench at the MIO whereabouts in Cali",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/video-bomberos-rescataron-a-joven-cuyo-dedo-quedo-atrapado-en-una-banca-de-paradero-del-mio-en-cali-3546976",
-        "published_date": "2026-04-10 17:26:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "Testimony of the partner of the Junior fan murdered after a match against Palmeiras of Brazil in Cartagena: 'That's Gabo, I know him'",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/testimonio-de-la-pareja-del-hincha-del-junior-asesinado-tras-partido-contra-palmeiras-de-brasil-en-cartagena-ese-es-gabo-yo-lo-conozco-3546973",
-        "published_date": "2026-04-10 17:25:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Businessman Lisocki Fryde responds: he denies the tourist exploitation of the island in Cartagena and faces a dispute with the ANT over vacant land in the Rosario Islands",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/responde-empresario-lisocki-fryde-niega-la-explotacion-turistica-de-isla-en-cartagena-y-enfrenta-disputa-con-la-ant-por-baldio-en-islas-del-rosario-3546969",
-        "published_date": "2026-04-10 16:55:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Is Agrarian Reform Stalled in the Valley?Crossing of versions between ANT and the Government regarding regional coordination has stopped the delivery of lands",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/estancada-la-reforma-agraria-en-el-valle-cruce-de-versiones-entre-ant-y-gobernacion-sobre-la-coordinacion-regional-tiene-frenada-entrega-de-tierras-3546945",
-        "published_date": "2026-04-10 16:48:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "On video |The moment a truck driver ran over an elderly woman and her dog in Medell\u00edn: the woman died after being hospitalized",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/el-video-el-momento-en-el-que-un-conductor-de-camion-arrollo-a-una-adulta-mayor-y-su-perro-en-medellin-la-mujer-fallecio-tras-estar-hospitalizada-3546962",
-        "published_date": "2026-04-10 16:37:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "New blow after party in the Itag\u00fc\u00ed prison: president of the Medell\u00edn Council requested that the spokespersons of the peace table be removed",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/nuevo-coletazo-tras-parranda-en-la-carcel-de-itaguei-presidente-del-concejo-de-medellin-solicito-que-se-le-retire-la-voceria-a-capos-de-la-mesa-de-paz-3546935",
-        "published_date": "2026-04-10 16:35:16",
+        "url": "https://www.eltiempo.com/colombia/cali/panico-en-ruta-escolar-de-cali-un-presunto-sicario-abordo-el-vehiculo-e-insto-al-conductor-para-que-lo-llevara-a-siloe-tras-asesinar-a-una-persona-3547006",
+        "published_date": "2026-04-10 19:57:54",
         "category": "Local Events"
     }
 ]
