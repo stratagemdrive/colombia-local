@@ -1,5 +1,12 @@
 [
     {
+        "title": "Pablo Escobar's whim that became a plague: the monumental and chaotic history of the hippos in Antioquia",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/el-capricho-de-pablo-escobar-que-se-volvio-plaga-la-monumental-y-caotica-historia-de-los-hipopotamos-en-antioquia-3547542",
+        "published_date": "2026-04-13 17:52:56",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Negotiations continue to end the war between Iran and the US.",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/siguen-las-negociaciones-para-poner-fin-a-la-guerra-entre-iran-y-ee-uu/",
@@ -89,6 +96,20 @@
         "url": "https://www.larepublica.co/economia/fertilizantes-se-encarecen-en-28-un-mes-despues-de-tensiones-entre-iran-y-ee-uu-4364267",
         "published_date": "2026-04-06 11:16:07",
         "category": "Diplomacy"
+    },
+    {
+        "title": "MinTransporte published for comments a decree that modifies river transportation service",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/mintransporte-publico-para-comentarios-decreto-que-modifica-servicio-de-transporte-fluvial-4370370",
+        "published_date": "2026-04-13 22:53:40",
+        "category": "Military"
+    },
+    {
+        "title": "One of the alleged murderers of musician Luder Qui\u00f1ones from Willy Garc\u00eda's orchestra and a police officer in Cali goes to jail: investigation details",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/a-la-carcel-el-presunto-asesino-del-musico-luder-quinones-de-la-orquesta-de-willy-garcia-y-de-un-policia-en-cali-detalles-de-las-investigaciones-3547550",
+        "published_date": "2026-04-13 16:16:47",
+        "category": "Military"
     },
     {
         "title": "In five prisons in Colombia 'Buga's office' had set up a communications network from which homicides and extortions were ordered",
@@ -217,18 +238,39 @@
         "category": "Military"
     },
     {
-        "title": "Mayors of Atl\u00e1ntico warn of security crisis in municipalities and rural areas: they ask for military presence;Government announces rewards",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/alcaldes-del-atlantico-alertan-crisis-de-seguridad-en-municipios-y-zonas-rurales-piden-presencia-militar-gobernacion-anuncia-recompensas-3546165",
-        "published_date": "2026-04-08 08:55:37",
-        "category": "Military"
+        "title": "XM warns about the need to expand thermal energy supply due to El Ni\u00f1o",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/xm-alerta-sobre-necesidad-de-ampliar-oferta-energetica-termica-con-llegada-de-el-nino-4370023",
+        "published_date": "2026-04-13 18:29:16",
+        "category": "Energy"
     },
     {
-        "title": "Two injured soldiers and apologies for a misunderstanding that led to President Petro's scolding of an Army general in Cali",
+        "title": "Cepeda proposes a gas \u201cnational agreement\u201d and his allies interpret it",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/cepeda-propone-un-acuerdo-nacional-gaseoso-y-sus-aliados-lo-interpretan/",
+        "published_date": "2026-04-13 18:28:07",
+        "category": "Energy"
+    },
+    {
+        "title": "Barranquilla: defense of Rams\u00e9s Vargas and Mineducaci\u00f3n appeal the return of Silvia Gette to the rectory of the Autonomous University of the Caribbean",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/dos-soldados-heridos-y-las-disculpas-sobre-un-malentendido-que-motivo-el-regano-del-presidente-petro-a-un-general-del-ejercito-en-cali-3546137",
-        "published_date": "2026-04-08 07:29:11",
-        "category": "Military"
+        "url": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-defensa-de-ramses-vargas-y-mineducacion-apelan-restitucion-de-silvia-gette-en-la-rectoria-de-la-universidad-autonoma-del-caribe-3547579",
+        "published_date": "2026-04-13 17:54:18",
+        "category": "Energy"
+    },
+    {
+        "title": "Ministry of Energy, Education and Health are the portfolios with the greatest execution",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/ejecucion-presupuestal-acumulada-a-marzo-alcanzo-20-del-total-de-apropiaciones-4370105",
+        "published_date": "2026-04-13 17:18:24",
+        "category": "Energy"
+    },
+    {
+        "title": "Ecopetrol and Frontera Energy launched the Quifua Solar Farm in Puerto Gait\u00e1n",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/ecopetrol-y-frontera-energy-pusieron-en-marcha-la-granja-solar-quifua-en-puerto-gaitan-4370096",
+        "published_date": "2026-04-13 17:04:09",
+        "category": "Energy"
     },
     {
         "title": "Petro lowered gasoline to help the Pact.Then came the war in Iran",
@@ -336,39 +378,11 @@
         "category": "Energy"
     },
     {
-        "title": "Remittances to February exceeded income from oil exports",
+        "title": "External debt in January reached US$253,168 million, which is equivalent to 55.2% of GDP",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/las-remesas-a-febrero-superaron-ingresos-por-exportaciones-de-petroleo-y-derivados-4365894",
-        "published_date": "2026-04-08 05:01:38",
-        "category": "Energy"
-    },
-    {
-        "title": "Cheaper dollar explained the drop in the average price of roast chicken during March",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/dolar-mas-barato-explico-la-caida-en-el-precio-promedio-del-pollo-asado-durante-marzo-4365913",
-        "published_date": "2026-04-08 05:01:21",
-        "category": "Energy"
-    },
-    {
-        "title": "Generators do not see drastic impact on energy bills despite El Ni\u00f1o phenomenon",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/generadoras-no-ven-impacto-drastico-en-la-factura-de-energia-pese-a-fenomeno-el-nino-4365839",
-        "published_date": "2026-04-08 05:01:09",
-        "category": "Energy"
-    },
-    {
-        "title": "\"We are calm with the temporary departure of Roa from the presidency of Ecopetrol\"",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/declaraciones-de-martin-ravelo-presidente-de-la-uso-sobre-la-decision-de-la-junta-directiva-de-ecopetrol-sobre-ricardo-roa-4365284",
-        "published_date": "2026-04-07 14:13:12",
-        "category": "Energy"
-    },
-    {
-        "title": "Higher gas and crude oil costs would have hit Ecopetrol refining in 2025",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/mayores-costos-de-gas-y-crudo-habrian-golpeado-a-la-refinacion-de-ecopetrol-en-2025-4365324",
-        "published_date": "2026-04-07 14:03:49",
-        "category": "Energy"
+        "url": "https://www.larepublica.co/economia/deuda-externa-con-corte-a-enero-de-2026-4370310",
+        "published_date": "2026-04-13 23:23:44",
+        "category": "Economy"
     },
     {
         "title": "Start your Sunday with this selection of opinion columns",
@@ -504,150 +518,143 @@
         "category": "Economy"
     },
     {
-        "title": "Inflation and expectations, among the reasons for the 100-point increase in the interest rate",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/inflacion-y-expectativas-entre-las-razones-del-alza-de-100-puntos-a-la-tasa-de-interes-por-parte-del-emisor-4365940",
-        "published_date": "2026-04-08 01:45:52",
-        "category": "Economy"
-    },
-    {
-        "title": "More than 11 million lives adrift: the move in the New EPS",
+        "title": "After years of waiting, MinTransporte announces the start of works on Aerocaf\u00e9",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/mas-de-11-millones-de-vidas-a-la-deriva-la-jugada-en-la-nueva-eps/",
-        "published_date": "2026-04-13 12:00:00",
+        "url": "https://www.lasillavacia.com/en-vivo/tras-anos-de-espera-mintransporte-anuncia-inicio-de-obras-de-aerocafe/",
+        "published_date": "2026-04-13 23:22:39",
         "category": "Local Events"
     },
     {
-        "title": "With 10 million eggs trapped, the poultry sector faces delays in distribution",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/con-10-millones-de-huevos-represados-el-sector-avicola-enfrenta-retrasos-en-distribucion-4369759",
-        "published_date": "2026-04-13 11:35:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cThe new Northern Highway will benefit 10 million people from 2030\u201d",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/entrevista-con-juan-manuel-marino-gte-general-de-concesionaria-ruta-bogota-norte-sobre-los-detalles-del-proyecto-4368187",
-        "published_date": "2026-04-13 05:04:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Traditional breakfast is 23% more expensive compared to March of last year",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/desayuno-tradicional-esta-23-mas-caro-en-comparacion-con-marzo-del-ano-pasado-4368185",
-        "published_date": "2026-04-13 05:01:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "VIS housing starts completed 34 consecutive months of contractions",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/las-iniciaciones-de-vivienda-vis-completaron-34-meses-consecutivos-de-contracciones-4369682",
-        "published_date": "2026-04-13 05:00:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tremors reported in Boyac\u00e1 in the early morning of Monday, April 13: did you feel it?",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/reportan-temblor-en-boyaca-en-la-madrugada-del-lunes-13-de-abril-lo-sintio-3547352",
-        "published_date": "2026-04-13 01:46:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "Strong collision between buses in the center of Medell\u00edn leaves 10 injured and a driver in critical condition: they would have crossed a red light",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/fuerte-choque-entre-buses-en-el-centro-de-medellin-deja-10-heridos-y-un-conductor-en-estado-critico-habrian-cruzado-un-semaforo-en-rojo-3547350",
-        "published_date": "2026-04-12 23:08:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cInvading other people's land\u201d: Paloma Valencia and the reversal of history",
+        "title": "Praise for charismo, Pechy Player and influencers: Abelardo in Barranquilla",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-etnica/invadir-la-tierra-de-otros-paloma-valencia-y-la-inversion-de-la-historia/",
-        "published_date": "2026-04-12 22:24:43",
+        "url": "https://www.lasillavacia.com/en-vivo/elogios-al-charismo-pechy-player-e-influencers-abelardo-en-barranquilla/",
+        "published_date": "2026-04-13 22:23:40",
         "category": "Local Events"
     },
     {
-        "title": "Peru elects its ninth president in less than a decade",
+        "title": "Greens will seek agreements with Cepeda to join their campaign",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/peru-elige-a-su-noveno-presidente-en-menos-de-una-decada/",
-        "published_date": "2026-04-12 22:07:38",
+        "url": "https://www.lasillavacia.com/en-vivo/verdes-buscaran-acuerdos-con-cepeda-para-adherir-a-su-campana/",
+        "published_date": "2026-04-13 22:14:20",
         "category": "Local Events"
     },
     {
-        "title": "\u201cWe are not going to stop\u201d: Paloma Valencia after death threats",
+        "title": "A Colombian died after shots fired by the Peruvian Navy on the border",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/no-vamos-a-parar-paloma-valencia-tras-amenazas-de-muerte/",
-        "published_date": "2026-04-12 21:22:33",
+        "url": "https://www.lasillavacia.com/en-vivo/un-colombiano-murio-tras-disparos-de-la-marina-de-peru-en-la-frontera/",
+        "published_date": "2026-04-13 21:21:52",
         "category": "Local Events"
     },
     {
-        "title": "Government schedules a meeting with peasant oversight offices to seek solutions to the crisis due to multipurpose cadastre",
+        "title": "On a run through Soledad, Abelardo attacks Eduardo Pulgar",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/en-correria-por-soledad-abelardo-arremete-contra-eduardo-pulgar/",
+        "published_date": "2026-04-13 20:34:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "Before the Court, minSalud rejects contempt for UPC and defends its management",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/ante-la-corte-minsalud-rechaza-desacato-por-upc-y-defiende-su-gestion/",
+        "published_date": "2026-04-13 19:31:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "Informality in February closed at 55.3%, equivalent to 13.3 million workers",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/gobierno-cita-reunion-con-veedurias-campesinas-para-buscar-salidas-a-crisis-por-catastro-multiproposito-4369577",
-        "published_date": "2026-04-12 21:00:04",
+        "url": "https://www.larepublica.co/economia/informalidad-en-corte-a-febrero-cerro-en-55-3-equivalente-a-13-3-millones-de-trabajadores-4370213",
+        "published_date": "2026-04-13 19:21:53",
         "category": "Local Events"
     },
     {
-        "title": "With a contest, De la Espriella winks at the world of football",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/con-concurso-de-la-espriella-lanza-guinos-al-mundo-del-futbol/",
-        "published_date": "2026-04-12 20:12:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "Road blockades in Santander are suspended after dialogue, but the strike due to the property increase continues pending government decisions",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/suspenden-bloqueos-de-vias-en-santander-tras-dialogo-pero-el-paro-por-el-aumento-del-predial-continua-a-la-espera-de-decisiones-del-gobierno-3547322",
-        "published_date": "2026-04-12 19:59:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "DNP asks to review property collections and requires mayors to correct settlements",
+        "title": "Petro assured that mayors must lower the property rate in the face of blockades in Santander",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/dnp-pide-revisar-cobros-del-predial-y-exige-a-alcaldias-corregir-liquidaciones-que-superen-topes-legales-4369546",
-        "published_date": "2026-04-12 19:29:37",
+        "url": "https://www.larepublica.co/economia/petro-aseguro-que-alcaldes-deben-bajar-tasa-del-predial-ante-bloqueos-en-santander-4370202",
+        "published_date": "2026-04-13 19:09:03",
         "category": "Local Events"
     },
     {
-        "title": "Hitmen murdered a renowned merchant inside his premises in the heart of Ibagu\u00e9",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/sicarios-asesinan-a-reconocido-comerciante-dentro-de-su-local-en-pleno-centro-de-ibague-3547313",
-        "published_date": "2026-04-12 19:09:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "How will the new POT affect your neighborhood?Medell\u00edn opens a space for consultation to incorporate sustainability and risk management criteria",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/como-afectara-el-nuevo-pot-su-barrio-medellin-abre-espacio-de-concertacion-para-incorporar-criterios-de-sostenibilidad-y-gestion-del-riesgo-3547309",
-        "published_date": "2026-04-12 18:52:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Two clinics in Medell\u00edn suspend care for Nueva EPS patients due to millionaire debts",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/dos-clinicas-de-medellin-suspenden-atencion-a-pacientes-de-nueva-eps-por-millonarias-deudas-4369536",
-        "published_date": "2026-04-12 18:31:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "Leonardo de Jes\u00fas Acosta Bola\u00f1o, platform driver accused of abusing and robbing foreigners in Medell\u00edn, was sent to prison",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/a-prision-fue-enviado-leonardo-de-jesus-acosta-bolano-conductor-de-plataformas-senalado-de-abusar-y-robar-a-extranjeras-en-medellin-3547308",
-        "published_date": "2026-04-12 18:31:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "Viral video reveals recklessness behind the wheel: thus, a private vehicle damaged curbs, pavements and enclosures in the Obrero work, downtown Cali",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/video-viral-revela-imprudencia-al-volante-asi-un-vehiculo-particular-dano-bordillos-pavimentos-y-cerramientos-en-obra-del-obrero-centro-de-cali-3547304",
-        "published_date": "2026-04-12 18:22:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Trump orders blockade of the Strait of Hormuz and complicates negotiations with Iran",
+        "title": "Implementation of the Etis advances and they press for two more to be formalized",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/trump-ordena-bloqueo-del-estrecho-de-ormuz-y-enreda-negociaciones-con-iran/",
-        "published_date": "2026-04-12 18:06:06",
+        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/avanza-implementacion-de-las-etis-y-presionan-que-se-formalicen-otras-dos/",
+        "published_date": "2026-04-13 18:50:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mercosur agreement with the EU will be implemented in May, there are environmental doubts",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/acuerdo-de-mercosur-con-ue-se-implementara-en-mayo-hay-dudas-ambientales/",
+        "published_date": "2026-04-13 18:25:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "Productive sector loses $120,000 million daily due to blockades in Santander",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/sector-productivo-reporta-perdidas-de-120-000-millones-diarios-por-bloqueos-en-santander-4370129",
+        "published_date": "2026-04-13 18:21:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "They decree an emergency and hospital urgency in Medell\u00edn due to a crisis in the operation in the city: they denounce a debt of eight billion pesos to the network",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/decretan-emergencia-y-urgencia-hospitalaria-en-medellin-por-crisis-en-la-operacion-en-la-ciudad-denuncian-deuda-de-ocho-billones-de-pesos-a-la-red-3547599",
+        "published_date": "2026-04-13 18:14:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "Campaign diary: between threats, praise and endorsements of candidates",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/diario-de-campana-entre-amenazas-elogios-y-respaldos-a-candidatos/",
+        "published_date": "2026-04-13 18:10:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tax of $11,200 per cigarette pack increases smuggling income to $900,000 million",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/impuesto-de-11-200-por-cajetilla-de-cigarrillo-sube-rentas-de-contrabando-a-900-000-millones-4370110",
+        "published_date": "2026-04-13 17:47:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "Controversy in Quind\u00edo: they question Carlos Lehder's delivery of a sculpture of John Lennon to the Posada Alemana;'It cannot be that ex-narco is celebrated'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/polemica-en-quindio-cuestionan-homenaje-de-carlos-lehder-con-escultura-de-john-lennon-y-rechazan-que-exnarco-sea-recibido-como-benefactor-3547551",
+        "published_date": "2026-04-13 17:15:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Governors, mayors and congressmen propose legislative agenda to decentralize resources at the 'The Regions Propose' meeting",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/gobernadores-alcaldes-y-congresistas-plantean-agenda-legislativa-para-descentralizar-recursos-en-el-encuentro-las-regiones-proponen-3547546",
+        "published_date": "2026-04-13 17:12:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "A donkey that was suffering from animal abuse was rescued on an island in Cartagena: it was used as target shooting",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/rescatan-en-una-isla-de-cartagena-a-un-burro-que-sufria-maltrato-animal-lo-usaban-como-tiro-al-blanco-3547569",
+        "published_date": "2026-04-13 17:07:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "Macabre discovery of a body wrapped in bags in a parking lot near a hotel in Medell\u00edn: a resident of the sector alerted about a suspicious object",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/macabro-hallazgo-de-cuerpo-envuelto-en-bolsas-en-parqueadero-cercano-a-un-hotel-en-medellin-habitante-del-sector-alerto-sobre-un-objeto-sospechoso-3547560",
+        "published_date": "2026-04-13 17:01:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "Young man from El Santuario wins five medals and honorable mention in the International Astronomy and Astrophysics Olympics",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/joven-de-el-santuario-gana-cinco-medallas-y-mencion-de-honor-en-olimpiadas-internacionales-de-astronomia-y-astrofisica-3547564",
+        "published_date": "2026-04-13 16:59:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Minister of Health defended the increase in the UPC before the Constitutional Court",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/el-ministro-de-salud-defendio-el-aumento-de-la-upc-ante-la-corte-constitucional-4370030",
+        "published_date": "2026-04-13 15:23:32",
         "category": "Local Events"
     }
 ]
