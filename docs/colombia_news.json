@@ -231,6 +231,13 @@
         "category": "Military"
     },
     {
+        "title": "Petro lowered gasoline to help the Pact.Then came the war in Iran",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/petro-bajo-la-gasolina-para-ayudar-al-pacto-luego-llego-la-guerra-en-iran/",
+        "published_date": "2026-04-13 05:45:00",
+        "category": "Energy"
+    },
+    {
         "title": "Creg launches pilot to evaluate changes in the Liquefied Petroleum Gas market",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/creg-lanza-piloto-para-evaluar-cambios-en-el-mercado-de-gas-licuado-de-petroleo-4369338",
@@ -361,13 +368,6 @@
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/mayores-costos-de-gas-y-crudo-habrian-golpeado-a-la-refinacion-de-ecopetrol-en-2025-4365324",
         "published_date": "2026-04-07 14:03:49",
-        "category": "Energy"
-    },
-    {
-        "title": "MinMinas insists on the possibility of regional energy integration with Ecopetrol",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/palma-insiste-en-la-posibilidad-de-integracion-energetica-regional-a-traves-de-ecopetrol-4365161",
-        "published_date": "2026-04-07 12:07:19",
         "category": "Energy"
     },
     {
@@ -511,6 +511,55 @@
         "category": "Economy"
     },
     {
+        "title": "More than 11 million lives adrift: the move in the New EPS",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/mas-de-11-millones-de-vidas-a-la-deriva-la-jugada-en-la-nueva-eps/",
+        "published_date": "2026-04-13 12:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "With 10 million eggs trapped, the poultry sector faces delays in distribution",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/con-10-millones-de-huevos-represados-el-sector-avicola-enfrenta-retrasos-en-distribucion-4369759",
+        "published_date": "2026-04-13 11:35:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cThe new Northern Highway will benefit 10 million people from 2030\u201d",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/entrevista-con-juan-manuel-marino-gte-general-de-concesionaria-ruta-bogota-norte-sobre-los-detalles-del-proyecto-4368187",
+        "published_date": "2026-04-13 05:04:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Traditional breakfast is 23% more expensive compared to March of last year",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/desayuno-tradicional-esta-23-mas-caro-en-comparacion-con-marzo-del-ano-pasado-4368185",
+        "published_date": "2026-04-13 05:01:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "VIS housing starts completed 34 consecutive months of contractions",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/las-iniciaciones-de-vivienda-vis-completaron-34-meses-consecutivos-de-contracciones-4369682",
+        "published_date": "2026-04-13 05:00:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tremors reported in Boyac\u00e1 in the early morning of Monday, April 13: did you feel it?",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/reportan-temblor-en-boyaca-en-la-madrugada-del-lunes-13-de-abril-lo-sintio-3547352",
+        "published_date": "2026-04-13 01:46:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "Strong collision between buses in the center of Medell\u00edn leaves 10 injured and a driver in critical condition: they would have crossed a red light",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/fuerte-choque-entre-buses-en-el-centro-de-medellin-deja-10-heridos-y-un-conductor-en-estado-critico-habrian-cruzado-un-semaforo-en-rojo-3547350",
+        "published_date": "2026-04-12 23:08:42",
+        "category": "Local Events"
+    },
+    {
         "title": "\u201cInvading other people's land\u201d: Paloma Valencia and the reversal of history",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/red-de-expertos/red-etnica/invadir-la-tierra-de-otros-paloma-valencia-y-la-inversion-de-la-historia/",
@@ -546,10 +595,31 @@
         "category": "Local Events"
     },
     {
+        "title": "Road blockades in Santander are suspended after dialogue, but the strike due to the property increase continues pending government decisions",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/suspenden-bloqueos-de-vias-en-santander-tras-dialogo-pero-el-paro-por-el-aumento-del-predial-continua-a-la-espera-de-decisiones-del-gobierno-3547322",
+        "published_date": "2026-04-12 19:59:08",
+        "category": "Local Events"
+    },
+    {
         "title": "DNP asks to review property collections and requires mayors to correct settlements",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/dnp-pide-revisar-cobros-del-predial-y-exige-a-alcaldias-corregir-liquidaciones-que-superen-topes-legales-4369546",
         "published_date": "2026-04-12 19:29:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "Hitmen murdered a renowned merchant inside his premises in the heart of Ibagu\u00e9",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/sicarios-asesinan-a-reconocido-comerciante-dentro-de-su-local-en-pleno-centro-de-ibague-3547313",
+        "published_date": "2026-04-12 19:09:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "How will the new POT affect your neighborhood?Medell\u00edn opens a space for consultation to incorporate sustainability and risk management criteria",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/como-afectara-el-nuevo-pot-su-barrio-medellin-abre-espacio-de-concertacion-para-incorporar-criterios-de-sostenibilidad-y-gestion-del-riesgo-3547309",
+        "published_date": "2026-04-12 18:52:07",
         "category": "Local Events"
     },
     {
@@ -578,76 +648,6 @@
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/trump-ordena-bloqueo-del-estrecho-de-ormuz-y-enreda-negociaciones-con-iran/",
         "published_date": "2026-04-12 18:06:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "Nari\u00f1o asks the Government for urgent measures to stop the economic and commercial deterioration",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/narino-pide-al-gobierno-medidas-urgentes-para-frenar-el-deterioro-economico-y-comercial-4369527",
-        "published_date": "2026-04-12 17:08:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Barranquilla prepares JAC elections with a focus on citizen participation, youth and women to renew neighborhood leadership on April 26",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-alista-elecciones-de-jac-con-enfoque-en-participacion-ciudadana-jovenes-y-mujeres-para-renovar-liderazgo-barrial-el-26-de-abril-3547241",
-        "published_date": "2026-04-12 17:01:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "What Adam Smith Did Say About Power and Wages",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/lo-que-adam-smith-si-dijo-sobre-el-poder-y-los-salarios/",
-        "published_date": "2026-04-12 17:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Bus from the Omega company overturned on the C\u00facuta-Sardinata road, Norte de Santander: several people were injured",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/bus-de-la-empresa-omega-se-volco-en-la-via-cucuta-sardinata-norte-de-santander-hay-varios-heridos-3547294",
-        "published_date": "2026-04-12 16:53:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ideam confirms with \"absolute certainty\" that El Ni\u00f1o will occur in the second semester",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/ghisliane-echeverry-anticipa-un-segundo-semestre-con-fenomeno-de-el-nino-en-el-pais-4369496",
-        "published_date": "2026-04-12 16:33:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "After partying in Itag\u00fc\u00ed prison, leaders ask to reactivate dialogues",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/tras-parranda-en-carcel-de-itagui-cabecillas-piden-reactivar-dialogos/",
-        "published_date": "2026-04-12 16:31:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "They vandalize the headquarters of the Democratic Center in Bucaramanga",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/vandalizan-sede-del-centro-democratico-en-bucaramanga/",
-        "published_date": "2026-04-12 15:35:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Invasion of dairy farms in Nari\u00f1o leaves considerable material damage and widespread alarm among producers",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/invasion-a-fincas-lecheras-en-narino-deja-cuantiosos-danos-materiales-y-alarma-generalizada-entre-productores-3547286",
-        "published_date": "2026-04-12 15:25:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "Massacre in Maicao, La Guajira, leaves five dead and several injured: armed men shot at a group of young people",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/masacre-en-maicao-deja-cinco-muertos-y-reaviva-alarma-por-violencia-armada-en-la-guajira-en-medio-de-versiones-aun-en-verificacion-oficial-hoy-3547280",
-        "published_date": "2026-04-12 15:20:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "Atlantic|Baranoa calls for a march for peace and coexistence after recent acts of violence and calls on citizens to unite in defense of life",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/atlantico-baranoa-convoca-marcha-por-la-paz-y-convivencia-tras-recientes-hechos-de-violencia-y-llama-a-la-ciudadania-a-unirse-en-defensa-de-la-vida-3547234",
-        "published_date": "2026-04-12 15:01:00",
         "category": "Local Events"
     }
 ]
