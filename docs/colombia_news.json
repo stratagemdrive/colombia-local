@@ -1,5 +1,12 @@
 [
     {
+        "title": "Colombian Foreign Ministry asked Peru to clarify armed attack against ship",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/cancilleria-colombiana-le-solicito-a-peru-esclarecer-ataque-armado-contra-embarcacion-4370576",
+        "published_date": "2026-04-14 00:43:36",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Pablo Escobar's whim that became a plague: the monumental and chaotic history of the hippos in Antioquia",
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/medellin/el-capricho-de-pablo-escobar-que-se-volvio-plaga-la-monumental-y-caotica-historia-de-los-hipopotamos-en-antioquia-3547542",
@@ -88,13 +95,6 @@
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/galan-se-pronuncio-ante-las-protestas-por-la-construccion-del-corredor-carrera-septima-4364506",
         "published_date": "2026-04-06 14:58:11",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Fertilizers increase in price by 28% a month after tensions between Iran and the US.",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/fertilizantes-se-encarecen-en-28-un-mes-despues-de-tensiones-entre-iran-y-ee-uu-4364267",
-        "published_date": "2026-04-06 11:16:07",
         "category": "Diplomacy"
     },
     {
@@ -238,6 +238,20 @@
         "category": "Military"
     },
     {
+        "title": "50 years after the death of the President who founded the Caja Agraria, Icetex and La Rep\u00fablica",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/conmemoracion-de-los-50-anos-de-la-muerte-del-expresidente-mariano-ospina-perez-4370477",
+        "published_date": "2026-04-14 05:01:11",
+        "category": "Energy"
+    },
+    {
+        "title": "An accused and \u201cusual politicians\u201d in the De la Espriella campaign in Huila",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/un-imputado-y-politicos-de-siempre-en-campana-de-la-espriella-en-huila/",
+        "published_date": "2026-04-13 23:59:23",
+        "category": "Energy"
+    },
+    {
         "title": "XM warns about the need to expand thermal energy supply due to El Ni\u00f1o",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/xm-alerta-sobre-necesidad-de-ampliar-oferta-energetica-termica-con-llegada-de-el-nino-4370023",
@@ -361,20 +375,6 @@
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/otras-ciudades/videos-muestran-como-amanecen-las-diferentes-sedes-de-pasaportes-en-colombia-hay-largas-filas-y-miles-de-quejas-de-ciudadanos-3546478",
         "published_date": "2026-04-09 10:13:08",
-        "category": "Energy"
-    },
-    {
-        "title": "ISA shareholder asked Ecopetrol to confirm whether Roa's absence also applies to the subsidiary",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/accionista-de-isa-pidio-a-ecopetrol-confirmar-si-ausencia-de-roa-tambien-aplica-en-la-filial-4366638",
-        "published_date": "2026-04-08 18:56:16",
-        "category": "Energy"
-    },
-    {
-        "title": "Ecopetrol's Solomonic solution with Roa",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/la-solucion-salomonica-de-ecopetrol-con-roa/",
-        "published_date": "2026-04-08 12:00:00",
         "category": "Energy"
     },
     {
@@ -518,6 +518,125 @@
         "category": "Economy"
     },
     {
+        "title": "Inside the Aida minga: the indigenous and popular force that drives the Pact",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/dentro-de-la-minga-de-aida-la-fuerza-indigena-y-popular-que-impulsa-al-pacto/",
+        "published_date": "2026-04-14 07:04:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "Sixth day of strike in Santander: the road to Lebrija has been closed for more than 24 hours without intermittent passage, there are four more blockades",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/sexto-dia-de-paro-en-santander-mas-de-24-horas-lleva-cerrada-la-via-a-lebrija-sin-dar-paso-intermitente-hay-cuatro-dos-bloqueos-mas-3547659",
+        "published_date": "2026-04-14 06:19:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "Former Minister of Justice, \u00c1ngela Mar\u00eda Buitrago, revealed threats from a senator for enforcing rules in prisons: 'She said that I was an enemy of peace'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/justicia/investigacion/exministra-de-justicia-angela-maria-buitrago-revelo-amenazas-de-senadora-por-hacer-cumplir-normas-en-carceles-decia-que-yo-era-enemiga-de-la-paz-3547650",
+        "published_date": "2026-04-14 06:00:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Five out of every 10 workers are in the informal sector, despite the drop in the rate to 55.3%",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/informalidad-laboral-con-corte-a-febrero-de-2026-4370446",
+        "published_date": "2026-04-14 05:01:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "More than $25,000 million are lost every day due to 13 blockages on the main roads",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/perdidas-ocasionadas-por-los-bloqueos-viales-en-abril-de-2026-4369756",
+        "published_date": "2026-04-14 05:01:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "Reservoirs still do not have the recommended level to face the El Ni\u00f1o phenomenon",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/embalses-aun-no-tienen-el-nivel-recomendado-para-enfrentar-el-fenomeno-de-el-nino-4370543",
+        "published_date": "2026-04-14 05:01:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "Macrorrueda of the Americas will bring together more than 4,800 national and international businessmen",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/macrorrueda-de-las-americas-en-bogota-reunira-a-mas-de-4-800-empresarios-nacionales-e-internacionales-4370621",
+        "published_date": "2026-04-14 03:31:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "Be careful, driver!Peak and plaque in Bucaramanga for Tuesday, April 14, 2026",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/ojo-conductor-pico-y-placa-en-bucaramanga-para-el-martes-14-de-abril-de-2026-de-3547645",
+        "published_date": "2026-04-14 02:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Batteries, driver!Peak and plate in Pereira for Tuesday, April 14, 2026",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/pilas-conductor-pico-y-placa-en-pereira-para-el-martes-14-de-abril-de-3547644",
+        "published_date": "2026-04-14 02:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Avoid fines: peak and plate in Medell\u00edn for Tuesday, April 14, 2026",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/evite-multas-pico-y-placa-en-medellin-para-el-martes-14-de-abril-de-3547642",
+        "published_date": "2026-04-14 02:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Find out the details of the peak and plate in Cali for Tuesday, April 14, 2026",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/conozca-los-detalles-del-pico-y-placa-en-cali-para-el-martes-14-de-abril-de-3547641",
+        "published_date": "2026-04-14 02:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Pasto Mayor's Office requested to declare an economic emergency to address the border crisis",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/alcaldia-de-pasto-solicito-declarar-emergencia-economica-para-atender-crisis-fronteriza-4370603",
+        "published_date": "2026-04-14 02:27:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "Petro announced that there will be no 100% tariffs for imports from Ecuador",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/petro-estaria-dispuesto-a-negociar-envio-de-energia-a-ecuador-si-noboa-quita-aranceles-4370580",
+        "published_date": "2026-04-14 01:24:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "Fenalco asked the Government to take measures against protests over property tax increases",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/fenalco-pidio-al-gobierno-tomar-medidas-frente-a-las-protestas-por-incremento-del-predial-4370586",
+        "published_date": "2026-04-14 01:10:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Sleep informed with the keys for this April 13, 2026",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-claves-de-este-13-de-abril-de-2026/",
+        "published_date": "2026-04-14 00:09:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "Guatemala annulled arrest warrant against Vel\u00e1squez and prosecutor Camargo",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/guatemala-anulo-orden-de-captura-contra-velasquez-y-fiscal-camargo/",
+        "published_date": "2026-04-13 23:53:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "New auditor of Nueva EPS arrives with judicial problems: he is Jorge Iv\u00e1n Ospina, the former mayor prosecuted for alleged corruption in Cali",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/nuevo-interventor-de-nueva-eps-llega-con-lios-judiciales-el-es-jorge-ivan-ospina-el-exalcalde-enjuiciado-por-presunta-corrupcion-en-cali-3547590",
+        "published_date": "2026-04-13 23:24:19",
+        "category": "Local Events"
+    },
+    {
         "title": "After years of waiting, MinTransporte announces the start of works on Aerocaf\u00e9",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/tras-anos-de-espera-mintransporte-anuncia-inicio-de-obras-de-aerocafe/",
@@ -536,125 +655,6 @@
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/verdes-buscaran-acuerdos-con-cepeda-para-adherir-a-su-campana/",
         "published_date": "2026-04-13 22:14:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "A Colombian died after shots fired by the Peruvian Navy on the border",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/un-colombiano-murio-tras-disparos-de-la-marina-de-peru-en-la-frontera/",
-        "published_date": "2026-04-13 21:21:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "On a run through Soledad, Abelardo attacks Eduardo Pulgar",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/en-correria-por-soledad-abelardo-arremete-contra-eduardo-pulgar/",
-        "published_date": "2026-04-13 20:34:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "Before the Court, minSalud rejects contempt for UPC and defends its management",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/ante-la-corte-minsalud-rechaza-desacato-por-upc-y-defiende-su-gestion/",
-        "published_date": "2026-04-13 19:31:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Informality in February closed at 55.3%, equivalent to 13.3 million workers",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/informalidad-en-corte-a-febrero-cerro-en-55-3-equivalente-a-13-3-millones-de-trabajadores-4370213",
-        "published_date": "2026-04-13 19:21:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Petro assured that mayors must lower the property rate in the face of blockades in Santander",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/petro-aseguro-que-alcaldes-deben-bajar-tasa-del-predial-ante-bloqueos-en-santander-4370202",
-        "published_date": "2026-04-13 19:09:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "Implementation of the Etis advances and they press for two more to be formalized",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/avanza-implementacion-de-las-etis-y-presionan-que-se-formalicen-otras-dos/",
-        "published_date": "2026-04-13 18:50:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mercosur agreement with the EU will be implemented in May, there are environmental doubts",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/acuerdo-de-mercosur-con-ue-se-implementara-en-mayo-hay-dudas-ambientales/",
-        "published_date": "2026-04-13 18:25:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Productive sector loses $120,000 million daily due to blockades in Santander",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/sector-productivo-reporta-perdidas-de-120-000-millones-diarios-por-bloqueos-en-santander-4370129",
-        "published_date": "2026-04-13 18:21:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "They decree an emergency and hospital urgency in Medell\u00edn due to a crisis in the operation in the city: they denounce a debt of eight billion pesos to the network",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/decretan-emergencia-y-urgencia-hospitalaria-en-medellin-por-crisis-en-la-operacion-en-la-ciudad-denuncian-deuda-de-ocho-billones-de-pesos-a-la-red-3547599",
-        "published_date": "2026-04-13 18:14:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Campaign diary: between threats, praise and endorsements of candidates",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/diario-de-campana-entre-amenazas-elogios-y-respaldos-a-candidatos/",
-        "published_date": "2026-04-13 18:10:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tax of $11,200 per cigarette pack increases smuggling income to $900,000 million",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/impuesto-de-11-200-por-cajetilla-de-cigarrillo-sube-rentas-de-contrabando-a-900-000-millones-4370110",
-        "published_date": "2026-04-13 17:47:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "Controversy in Quind\u00edo: they question Carlos Lehder's delivery of a sculpture of John Lennon to the Posada Alemana;'It cannot be that ex-narco is celebrated'",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/polemica-en-quindio-cuestionan-homenaje-de-carlos-lehder-con-escultura-de-john-lennon-y-rechazan-que-exnarco-sea-recibido-como-benefactor-3547551",
-        "published_date": "2026-04-13 17:15:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Governors, mayors and congressmen propose legislative agenda to decentralize resources at the 'The Regions Propose' meeting",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/gobernadores-alcaldes-y-congresistas-plantean-agenda-legislativa-para-descentralizar-recursos-en-el-encuentro-las-regiones-proponen-3547546",
-        "published_date": "2026-04-13 17:12:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "A donkey that was suffering from animal abuse was rescued on an island in Cartagena: it was used as target shooting",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/rescatan-en-una-isla-de-cartagena-a-un-burro-que-sufria-maltrato-animal-lo-usaban-como-tiro-al-blanco-3547569",
-        "published_date": "2026-04-13 17:07:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "Macabre discovery of a body wrapped in bags in a parking lot near a hotel in Medell\u00edn: a resident of the sector alerted about a suspicious object",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/macabro-hallazgo-de-cuerpo-envuelto-en-bolsas-en-parqueadero-cercano-a-un-hotel-en-medellin-habitante-del-sector-alerto-sobre-un-objeto-sospechoso-3547560",
-        "published_date": "2026-04-13 17:01:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "Young man from El Santuario wins five medals and honorable mention in the International Astronomy and Astrophysics Olympics",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/joven-de-el-santuario-gana-cinco-medallas-y-mencion-de-honor-en-olimpiadas-internacionales-de-astronomia-y-astrofisica-3547564",
-        "published_date": "2026-04-13 16:59:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Minister of Health defended the increase in the UPC before the Constitutional Court",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/el-ministro-de-salud-defendio-el-aumento-de-la-upc-ante-la-corte-constitucional-4370030",
-        "published_date": "2026-04-13 15:23:32",
         "category": "Local Events"
     }
 ]
