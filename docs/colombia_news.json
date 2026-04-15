@@ -91,6 +91,13 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Barranquilla hosted a regional traffic meeting to reduce deaths on Caribbean roads, which recorded 1,863 deaths from road accidents in 2025",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/region-caribe-concentra-1-863-fallecidos-por-siniestros-viales-en-2025-y-atlantico-figura-entre-los-departamentos-con-mas-victimas-informa-la-ansv-3547944",
+        "published_date": "2026-04-14 22:57:03",
+        "category": "Military"
+    },
+    {
         "title": "Living Routes, the national strategy that seeks to reduce deaths due to wildlife being run over on roads and protect biodiversity in Colombia",
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/otras-ciudades/rutas-vivas-la-estrategia-nacional-que-busca-reducir-muertes-por-atropellamiento-de-fauna-en-vias-y-proteger-la-biodiversidad-en-colombia-3547841",
@@ -224,11 +231,18 @@
         "category": "Military"
     },
     {
-        "title": "Security proposals are not clear about financing or coordination",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/las-propuestas-en-seguridad-no-son-claras-sobre-financiacion-ni-coordinacion/",
-        "published_date": "2026-04-08 13:43:00",
-        "category": "Military"
+        "title": "The Comptroller's Office warned that, of every $100 of spending, $23 goes to debt service",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/contraloria-advirtio-que-de-cada-100-del-gasto-23-se-destinan-al-servicio-de-la-deuda-4371345",
+        "published_date": "2026-04-15 05:01:52",
+        "category": "Energy"
+    },
+    {
+        "title": "Residents of rural areas protest against illegal mining in the Farallones of Cali",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/habitantes-de-zona-rural-protestan-por-mineria-ilegal-en-los-farallones-de-cali-3547952",
+        "published_date": "2026-04-14 23:01:00",
+        "category": "Energy"
     },
     {
         "title": "Government defined guidelines to integrate energy storage systems",
@@ -354,20 +368,6 @@
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/entrevista-con-luz-stella-murgas-presidente-de-naturgas-hablo-del-sector-gasifero-en-colombia-4366715",
         "published_date": "2026-04-10 05:01:03",
-        "category": "Energy"
-    },
-    {
-        "title": "\"My decisions in the company are independent, my governing body is the Board of Directors\"",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/juan-carlos-hurtado-hizo-primera-presentacion-como-presidente-encargado-de-ecopetrol-4367420",
-        "published_date": "2026-04-09 16:03:07",
-        "category": "Energy"
-    },
-    {
-        "title": "Ecopetrol's profits fell 39%, while those of the Issuer registered a record",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/utilidades-de-ecopetrol-cayeron-39-mientras-las-del-emisor-registraron-record-en-2025-4367186",
-        "published_date": "2026-04-09 13:11:21",
         "category": "Energy"
     },
     {
@@ -511,6 +511,118 @@
         "category": "Economy"
     },
     {
+        "title": "Fecode leads 24-hour national strike in rejection of failures in the health system",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/fecode-lidera-paro-nacional-de-24-horas-en-rechazo-a-fallas-en-el-sistema-de-salud-4371576",
+        "published_date": "2026-04-15 11:42:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "National teachers' strike this April 15: here the roads affected in Colombia by the 24-hour day announced by Fecode",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/paro-nacional-de-docentes-este-15-de-abril-aqui-las-vias-afectadas-en-colombia-por-la-jornada-de-24-horas-anunciada-por-fecode-3547969",
+        "published_date": "2026-04-15 06:07:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "'My body is not the same'... 'one does not remain the same': the heartbreaking story of the survivors of the Antioquia high school after four months of the tragedy",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/mi-cuerpo-no-es-el-mismo-uno-no-queda-igual-el-desgarrador-relato-de-los-sobrevivientes-del-liceo-antioqueno-tras-cuatro-meses-de-la-tragedia-3547914",
+        "published_date": "2026-04-15 06:05:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Semana and Gilinski financed Vicky D\u00e1vila's campaign with $2.1 billion",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/semana-y-gilinski-financiaron-con-2-100-millones-la-campana-de-vicky-davila/",
+        "published_date": "2026-04-15 06:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ratification of suspension ruling has no effect on the increase in the minimum wage",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/ratificacion-de-fallo-de-suspension-del-consejo-de-estado-no-tiene-efectos-en-el-minimo-4371364",
+        "published_date": "2026-04-15 05:01:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Almost 800,000 people escaped multidimensional poverty during the last year",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/indice-de-pobreza-multidimensional-durante-2025-4371344",
+        "published_date": "2026-04-15 05:01:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cThere were more than 800 municipalities with a delay of between 10 and up to 30 years in their assessments\u201d",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/entrevista-con-gustavo-marulanda-director-del-igac-sobre-actualizacion-del-catastro-4370636",
+        "published_date": "2026-04-15 05:01:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tremor today in Colombia |They report an earthquake in the early morning of this April 15;epicenter, magnitude and depth",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/temblor-hoy-en-colombia-reportan-sismo-en-la-madrugada-de-este-15-de-abril-epicentro-magnitud-y-profundidad-3547962",
+        "published_date": "2026-04-15 04:31:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "Be careful, driver!Peak and plaque in Bucaramanga for Wednesday, April 15, 2026",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/ojo-conductor-pico-y-placa-en-bucaramanga-para-el-miercoles-15-de-abril-de-2026-de-3547947",
+        "published_date": "2026-04-15 02:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Be careful, driver!Peak and plaque in Pereira for Wednesday, April 15, 2026",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/cuidado-conductor-pico-y-placa-en-pereira-para-el-miercoles-15-de-abril-de-3547945",
+        "published_date": "2026-04-15 02:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "This will be the peak and plate in Medell\u00edn for Wednesday, April 15, 2026",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/asi-sera-el-pico-y-placa-en-medellin-para-el-miercoles-15-de-abril-de-3547943",
+        "published_date": "2026-04-15 02:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Avoid fines: peak and plate in Cali for Wednesday, April 15, 2026",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/evite-multas-pico-y-placa-en-cali-para-el-miercoles-15-de-abril-de-3547941",
+        "published_date": "2026-04-15 02:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "No survey has shown that Cepeda wins in the first round with 52%",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/ninguna-encuesta-ha-mostrado-que-cepeda-gana-en-primera-vuelta-con-52/",
+        "published_date": "2026-04-15 02:28:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "Bernardo Camacho resigned as Health Superintendent after five months",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/bernardo-camacho-renuncio-como-superintendente-de-salud-luego-de-seis-meses-4371412",
+        "published_date": "2026-04-15 01:48:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Sleep informed with the keys for this April 14, 2026",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-claves-de-este-14-de-abril-de-2026/",
+        "published_date": "2026-04-15 00:12:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "Bernardo Camacho sent Petro his letter of resignation from SuperSalud",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/bernardo-camacho-envio-a-petro-su-carta-de-renuncia-a-la-supersalud/",
+        "published_date": "2026-04-14 23:59:32",
+        "category": "Local Events"
+    },
+    {
         "title": "Image of Paola Holgu\u00edn with Escobar is a montage;original photo is from 1998",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/imagen-de-paola-holguin-con-escobar-es-un-montaje-foto-original-es-de-1998/",
@@ -536,118 +648,6 @@
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/silla-nacional/el-programa-de-paloma-toma-lo-social-de-la-coalicion-uribista-en-lo-demas/",
         "published_date": "2026-04-14 22:42:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "Government calls on Cneb to make commitments to finalize dialogues",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/gobierno-llama-a-cneb-a-concretar-compromisos-para-finalizar-dialogos/",
-        "published_date": "2026-04-14 21:56:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Government agrees to lift the strike for appraisals in Santanderes",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/gobierno-acuerda-levantar-en-los-santanderes-el-paro-por-avaluos/",
-        "published_date": "2026-04-14 21:36:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "The fracture continues in the Verde after the programmatic agreement towards Cepeda",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/sigue-la-fractura-en-el-verde-tras-el-acuerdo-programatico-hacia-cepeda/",
-        "published_date": "2026-04-14 20:14:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cocoa is a commitment to peace and development in Arauca",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-rural/el-cacao-es-una-apuesta-por-la-paz-y-el-desarrollo-en-arauca/",
-        "published_date": "2026-04-14 20:14:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ungrd: Supreme Court denies freedom to Iv\u00e1n Name and Andr\u00e9s Calle",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/ungrd-corte-suprema-niega-la-libertad-a-ivan-name-y-andres-calle/",
-        "published_date": "2026-04-14 19:16:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "Big Tech and the United States pressure digital regulation in Brazil",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-democracia-y-tecnologia/las-big-tech-y-estados-unidos-presionan-la-regulacion-digital-en-brasil/",
-        "published_date": "2026-04-14 18:59:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "Councilor of Medell\u00edn denounced alleged irregularities in the access minutes to the Itag\u00fc\u00ed prison on the day of Nelson Vel\u00e1squez's Vallenato party",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/concejal-de-medellin-expone-presuntas-irregularidades-en-la-minuta-de-acceso-a-la-carcel-de-itaguei-el-dia-de-la-parranda-vallenata-de-nelson-velasquez-3547879",
-        "published_date": "2026-04-14 18:30:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "ANI clarified that its budget execution in 2025 was 95% with $194,000 million",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/ani-aclaro-que-su-ejecucion-presupuestal-en-2025-fue-de-95-con-194-000-millones-4370915",
-        "published_date": "2026-04-14 18:22:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cardique's shock plan to protect Cartagena's water bodies from illegal filling",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/el-plan-de-choque-de-cardique-para-proteger-los-cuerpos-de-agua-de-cartagena-ante-los-rellenos-ilegales-3547882",
-        "published_date": "2026-04-14 18:00:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "\"Transitional increase in the minimum remains in force while the Council issues a decision\"",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/aumento-transitorio-del-minimo-sigue-vigente-mientras-el-consejo-emite-una-decision-4371070",
-        "published_date": "2026-04-14 17:57:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "The East of Antioquia defines its destiny: Registrar's Office sets a new date for the consultation of the Metropolitan Area of \u200b\u200bSan Nicol\u00e1s",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/el-oriente-antioqueno-define-su-destino-registraduria-fija-nueva-fecha-para-la-consulta-del-area-metropolitana-de-san-nicolas-3547878",
-        "published_date": "2026-04-14 17:19:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cartagena Como Vamos puts the magnifying glass on health so far in 2026: Dengue falls by 51%, but malnutrition in children under five years of age increased by 139%",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/cartagena-como-vamos-le-pone-la-lupa-a-la-salud-en-lo-que-va-del-2026-dengue-cae-un-51-pero-desnutricion-en-menores-de-cinco-anos-aumento-3547858",
-        "published_date": "2026-04-14 17:11:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "Threats against three schools in the southwest of Barranquilla would not be from 'Los Pepes': investigation turns towards conflict between students",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/amenazas-contra-tres-colegios-del-suroccidente-de-barranquilla-no-serian-de-los-pepes-investigacion-se-gira-hacia-conflicto-entre-estudiantes-3547880",
-        "published_date": "2026-04-14 17:10:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Igac authorized territorial directors to adjust increases in the cadastral valuation",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/igac-autorizo-a-directores-territoriales-para-ajustar-porcentajes-de-alza-del-avaluo-catastral-4371006",
-        "published_date": "2026-04-14 17:01:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Economic balance focused on budget, regional execution and decentralization",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/balance-economico-centra-discusion-en-presupuesto-descentralizacion-y-ejecucion-regional-4371008",
-        "published_date": "2026-04-14 16:41:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "University mental health in Colombia on alert: study reveals levels of depression, anxiety and regional gaps in young students",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/salud-mental-universitaria-en-colombia-en-alerta-estudio-revela-niveles-de-depresion-ansiedad-y-brechas-regionales-en-jovenes-estudiantes-3547863",
-        "published_date": "2026-04-14 16:38:33",
         "category": "Local Events"
     }
 ]
