@@ -1,5 +1,12 @@
 [
     {
+        "title": "The US warns of \u201cterrible punishment\u201d for those who attack candidates",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/ee-uu-advierte-terrible-castigo-para-los-que-atenten-contra-candidatos/",
+        "published_date": "2026-04-16 23:09:01",
+        "category": "Diplomacy"
+    },
+    {
         "title": "During Petro's civic day, the Chancellery will not provide any public service",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/por-dia-civico-de-petro-cancilleria-no-prestara-ningun-servicio-publico/",
@@ -82,6 +89,13 @@
         "url": "https://www.lasillavacia.com/en-vivo/cancilleria-detecto-amenaza-cibernetica-en-sistema-de-entrega-de-pasaportes/",
         "published_date": "2026-04-09 13:49:08",
         "category": "Diplomacy"
+    },
+    {
+        "title": "Sincelejo expects 30,000 tourists: it will host the first U-23 Softball World Cup organized in Colombia;12 international teams arrive",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/sincelejo-espera-30-000-turistas-sera-la-sede-del-primer-mundial-de-softbol-sub-23-organizado-en-colombia-llegan-12-selecciones-internacionales-3548195",
+        "published_date": "2026-04-16 16:40:17",
+        "category": "Military"
     },
     {
         "title": "Panic in Ibagu\u00e9 due to the detonation of a grenade in a park: the explosive device had been alerted by children who were playing in the area",
@@ -217,11 +231,32 @@
         "category": "Military"
     },
     {
-        "title": "Ecuador raises tariffs on products from Colombia from 50% to 100%",
+        "title": "Gasoline shipment grew 3.29% until March accompanied by price adjustment",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/ecuador-elevo-de-50-a-100-la-tasa-a-importaciones-desde-colombia-desde-el-1-de-mayo-4367817",
-        "published_date": "2026-04-09 22:40:39",
-        "category": "Military"
+        "url": "https://www.larepublica.co/economia/despacho-de-gasolina-crecio-3-29-hasta-marzo-acompanado-del-ajuste-de-precios-4373070",
+        "published_date": "2026-04-16 23:16:14",
+        "category": "Energy"
+    },
+    {
+        "title": "Abelardo spent $387 million on flights during signature collection",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/abelardo-gasto-387-millones-en-vuelos-durante-recoleccion-de-firmas/",
+        "published_date": "2026-04-16 21:51:40",
+        "category": "Energy"
+    },
+    {
+        "title": "Hurtado confirms board meeting but rules out extraordinary Ecopetrol meeting",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/hurtado-confirma-reunion-de-junta-de-ecopetrol-pero-descarta-asamblea-extraordinaria-4372813",
+        "published_date": "2026-04-16 17:23:55",
+        "category": "Energy"
+    },
+    {
+        "title": "Industrial production came out of negative territory and registered a variation of 0.0% in February",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/produccion-industrial-salio-de-terreno-negativo-y-registro-variacion-de-0-0-en-febrero-4372750",
+        "published_date": "2026-04-16 16:39:56",
+        "category": "Energy"
     },
     {
         "title": "Frontera Energy and Ecopetrol will regasify 40% of the gas demand in Puerto Bah\u00eda",
@@ -336,32 +371,11 @@
         "category": "Energy"
     },
     {
-        "title": "XM warns about the need to expand thermal energy supply due to El Ni\u00f1o",
+        "title": "The gross debt in February reached 62% of GDP and the net debt was 59.4% of GDP",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/xm-alerta-sobre-necesidad-de-ampliar-oferta-energetica-termica-con-llegada-de-el-nino-4370023",
-        "published_date": "2026-04-13 18:29:16",
-        "category": "Energy"
-    },
-    {
-        "title": "Cepeda proposes a gas \u201cnational agreement\u201d and his allies interpret it",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/cepeda-propone-un-acuerdo-nacional-gaseoso-y-sus-aliados-lo-interpretan/",
-        "published_date": "2026-04-13 18:28:07",
-        "category": "Energy"
-    },
-    {
-        "title": "Barranquilla: defense of Rams\u00e9s Vargas and Mineducaci\u00f3n appeal the return of Silvia Gette to the rectory of the Autonomous University of the Caribbean",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-defensa-de-ramses-vargas-y-mineducacion-apelan-restitucion-de-silvia-gette-en-la-rectoria-de-la-universidad-autonoma-del-caribe-3547579",
-        "published_date": "2026-04-13 17:54:18",
-        "category": "Energy"
-    },
-    {
-        "title": "Ministry of Energy, Education and Health are the portfolios with the greatest execution",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/ejecucion-presupuestal-acumulada-a-marzo-alcanzo-20-del-total-de-apropiaciones-4370105",
-        "published_date": "2026-04-13 17:18:24",
-        "category": "Energy"
+        "url": "https://www.larepublica.co/economia/la-deuda-bruta-en-febrero-llego-a-62-del-pib-y-la-neta-se-ubico-en-59-4-del-pib-4372522",
+        "published_date": "2026-04-16 13:06:32",
+        "category": "Economy"
     },
     {
         "title": "Dian confirmed that he will adopt measures to return emergency resources",
@@ -476,171 +490,143 @@
         "category": "Economy"
     },
     {
-        "title": "S&P downgraded Colombia's rating to BB- with stable outlook due to fiscal imbalances",
+        "title": "Profits of 150 private clinics went from $5.22 billion to $7.1 billion in one year",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/s-p-rebajo-calificacion-soberana-de-colombia-a-bb-negativo-por-desequilibrios-fiscales-4366774",
-        "published_date": "2026-04-08 21:15:26",
-        "category": "Economy"
+        "url": "https://www.larepublica.co/economia/utilidades-de-150-clinicas-privadas-pasaron-de-5-22-billones-a-7-1-billones-en-un-ano-4372996",
+        "published_date": "2026-04-16 23:36:59",
+        "category": "Local Events"
     },
     {
-        "title": "Former co-directors defend BanRep after breaking with the government",
+        "title": "Attend our third open mic with candidates",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/excodirectores-defienden-al-banrep-tras-ruptura-con-gobierno/",
-        "published_date": "2026-04-08 20:44:44",
-        "category": "Economy"
+        "url": "https://www.lasillavacia.com/en-vivo/asista-a-nuestro-tercer-microfono-abierto-con-candidatos/",
+        "published_date": "2026-04-16 23:10:00",
+        "category": "Local Events"
     },
     {
-        "title": "Ana Sof\u00eda's dream to live again without pain: she seeks help to travel to the United States and not lose her treatment against Ehlers-Danlos",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/el-sueno-de-ana-sofia-por-volver-a-vivir-sin-dolor-busca-ayuda-para-viajar-a-estados-unidos-y-no-perder-su-tratamiento-contra-el-ehlers-danlos-3546337",
-        "published_date": "2026-04-08 16:56:34",
-        "category": "Economy"
+        "title": "Igarap\u00e9 collects standards from Amazonian countries in gold, wood, livestock, land",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/igarape-recoge-normas-de-paises-amazonicos-en-oro-madera-ganado-tierra/",
+        "published_date": "2026-04-16 23:03:30",
+        "category": "Local Events"
     },
     {
-        "title": "A lawsuit was filed for a decree that prevents the Issuer from holding meetings without the Minister of Finance",
+        "title": "Chile begins mass deportations of irregular immigrants",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/chile-inicia-las-deportaciones-masivas-de-inmigrantes-irregulares/",
+        "published_date": "2026-04-16 23:00:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ungrd: Prosecutor's Office filed an indictment against Olmedo L\u00f3pez",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/ungrd-fiscalia-radico-escrito-de-acusacion-contra-olmedo-lopez/",
+        "published_date": "2026-04-16 22:51:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "The challenges of installing fiber optics in the Amazon",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/los-retos-de-instalar-la-fibra-optica-en-la-amazonia/",
+        "published_date": "2026-04-16 22:22:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "Andi pointed out that results from the manufacturing sector show that the industry is not taking off",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/ante-consejo-de-estado-se-radico-demanda-a-decreto-que-impide-al-emisor-sesionar-sin-el-ministro-4366394",
-        "published_date": "2026-04-08 14:41:32",
-        "category": "Economy"
+        "url": "https://www.larepublica.co/economia/andi-senalo-que-resultados-del-sector-manufactura-muestran-que-la-industria-no-despega-4373024",
+        "published_date": "2026-04-16 22:12:40",
+        "category": "Local Events"
     },
     {
-        "title": "Machado arrives in Madrid to meet again with the Venezuelan diaspora",
+        "title": "Colombia facing its greatest climate test: from Escaz\u00fa to the fossil transition",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/machado-llega-a-madrid-para-reencontrarse-con-la-diaspora-venezolana/",
-        "published_date": "2026-04-16 11:00:00",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-verde/colombia-ante-su-mayor-prueba-climatica-de-escazu-a-la-transicion-fosil/",
+        "published_date": "2026-04-16 21:56:19",
         "category": "Local Events"
     },
     {
-        "title": "From Barranquilla, Superservicios states that the energy crisis in the Caribbean is structural and requires a change in the model and not only in operators",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/desde-barranquilla-superservicios-plantea-que-la-crisis-energetica-del-caribe-es-estructural-y-requiere-un-cambio-de-modelo-y-no-solo-de-operadores-3548236",
-        "published_date": "2026-04-16 06:01:00",
+        "title": "Indigenous people alert ANT of possible overlaps with Peasant Reserve Zones",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/indigenas-alertan-a-ant-posibles-traslapes-con-zonas-de-reserva-campesina/",
+        "published_date": "2026-04-16 21:54:29",
         "category": "Local Events"
     },
     {
-        "title": "The NEET population fell by almost 70,000 in the last year and now totals more than 2.67 million",
+        "title": "Property collection can be fairer",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/el-recaudo-predial-si-puede-ser-mas-justo/",
+        "published_date": "2026-04-16 21:24:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Attorney General's Office inspects Supersalud for irregularities in the intervention of Nueva EPS",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/poblacion-de-ninis-bajo-en-casi-70-000-en-el-ultimo-ano-y-ahora-suman-2-67-millones-4372184",
-        "published_date": "2026-04-16 05:04:20",
+        "url": "https://www.larepublica.co/economia/procuraduria-hace-inspeccion-en-supersalud-por-irregularidades-en-intervencion-de-nueva-eps-4372940",
+        "published_date": "2026-04-16 19:47:03",
         "category": "Local Events"
     },
     {
-        "title": "Court overturned the cascade of taxes from the December economic emergency",
+        "title": "A Mexican tourist who is subject to an Interpol Red Notice for child pornography crimes is captured in Cartagena",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/capturan-en-cartagena-a-turista-mexicano-sobre-quien-pesa-circular-roja-de-la-interpol-por-los-delitos-de-pornografia-infantil-3548517",
+        "published_date": "2026-04-16 18:14:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "Real production of the manufacturing industry registered an increase of 1.4% in February",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/corte-tumbo-la-cascada-de-impuestos-de-la-emergencia-economica-de-diciembre-4372211",
-        "published_date": "2026-04-16 05:04:09",
+        "url": "https://www.larepublica.co/economia/produccion-real-de-la-industria-manufacturera-registro-un-aumento-de-1-4-en-febrero-4372791",
+        "published_date": "2026-04-16 17:53:17",
         "category": "Local Events"
     },
     {
-        "title": "Germ\u00e1n \u00c1vila and Leonardo Villar still do not agree on the rate increase",
+        "title": "Real income of the accommodation sector registered a reduction of 5.2% in February",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/german-avila-y-leonardo-villar-siguen-sin-ponerse-de-acuerdo-sobre-el-alza-de-tasas-4372219",
-        "published_date": "2026-04-16 05:01:10",
+        "url": "https://www.larepublica.co/economia/ingresos-reales-del-sector-de-alojamiento-registraron-reduccion-de-5-2-en-febrero-4372787",
+        "published_date": "2026-04-16 17:46:05",
         "category": "Local Events"
     },
     {
-        "title": "Cepeda's share in the failure of Total Peace",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/la-cuota-de-cepeda-en-el-fracaso-de-la-paz-total/",
-        "published_date": "2026-04-16 05:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tremor today in Colombia |They report an earthquake in the early morning of this April 16;epicenter, magnitude and depth",
+        "title": "Sincelejo authorities reactivate the PAE and promise its continuity until the end of the school year: 43,334 students will benefit",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-hoy-en-colombia-reportan-sismo-en-la-madrugada-de-este-16-de-abril-epicentro-magnitud-y-profundidad-3548296",
-        "published_date": "2026-04-16 04:25:34",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/autoridades-de-sincelejo-reactivan-el-pae-y-prometen-su-continuidad-hasta-el-final-del-ano-escolar-43-334-estudiantes-seran-beneficiados-3548486",
+        "published_date": "2026-04-16 17:32:18",
         "category": "Local Events"
     },
     {
-        "title": "Be careful, driver!Peak and plaque in Bucaramanga for Thursday, April 16, 2026",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/cuidado-conductor-pico-y-placa-en-bucaramanga-para-el-jueves-16-de-abril-de-2026-de-3548272",
-        "published_date": "2026-04-16 02:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "This will be the peak and plate in Pereira for Thursday, April 16, 2026",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/asi-sera-el-pico-y-placa-en-pereira-para-el-jueves-16-de-abril-de-3548271",
-        "published_date": "2026-04-16 02:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Find out the details of the peak and plate in Medell\u00edn for Thursday, April 16, 2026",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/conozca-los-detalles-del-pico-y-placa-en-medellin-para-el-jueves-16-de-abril-de-3548269",
-        "published_date": "2026-04-16 02:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Batteries, driver!Peak and plaque in Cali for Thursday, April 16, 2026",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/pilas-conductor-pico-y-placa-en-cali-para-el-jueves-16-de-abril-de-3548266",
-        "published_date": "2026-04-16 02:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sleep informed with the keys for this April 15, 2026",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-claves-de-este-15-de-abril-de-2026/",
-        "published_date": "2026-04-16 02:26:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Know the list of the 520 municipalities where the cadastral records were updated",
+        "title": "Between 2015 and 2025, 22,697 victims of commercial sexual exploitation were registered",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/conozca-el-listado-de-los-520-municipios-donde-se-actualizaron-los-avaluos-catastrales-4371973",
-        "published_date": "2026-04-15 23:52:17",
+        "url": "https://www.larepublica.co/economia/entre-2015-y-2025-se-registraron-22-697-victimas-de-explotacion-sexual-comercial-infantil-4372729",
+        "published_date": "2026-04-16 17:26:18",
         "category": "Local Events"
     },
     {
-        "title": "Members of the Inpec would have charged this for the admission of people to Nelson Vel\u00e1squez's party in the Itag\u00fc\u00ed prison: new complaints from the councilor",
+        "title": "'He got tangled, oh my God, grab the rope!': a man was left hanging and at risk of falling in the middle of gigantic ships in Buenaventura",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/esto-habrian-cobrado-miembros-del-inpec-para-el-ingreso-de-personas-a-parranda-de-nelson-velasquez-en-carcel-de-itaguei-nuevas-denuncias-de-concejal-3548275",
-        "published_date": "2026-04-15 23:50:42",
+        "url": "https://www.eltiempo.com/colombia/cali/se-enredo-ay-dios-mio-cojala-la-cuerda-un-hombre-quedo-colgando-y-en-riesgo-de-caer-en-medio-de-gigantescos-buques-en-buenaventura-3548495",
+        "published_date": "2026-04-16 17:25:57",
         "category": "Local Events"
     },
     {
-        "title": "They rehabilitated a section of El Poblado Avenue that had been closed due to immense undermining caused by heavy rains in Medell\u00edn",
+        "title": "Bol\u00edvar Administrative Court ordered the suspension of Coosalud's intervention",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/rehabilitaron-tramo-de-la-avenida-el-poblado-que-habia-sido-cerrado-por-inmensa-socavacion-causada-por-fuertes-lluvias-en-medellin-3548277",
-        "published_date": "2026-04-15 23:48:00",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/tribunal-administrativo-de-bolivar-ordeno-suspender-la-intervencion-de-coosalud-3548481",
+        "published_date": "2026-04-16 17:25:01",
         "category": "Local Events"
     },
     {
-        "title": "Argentina: victims ask to reopen case against Uribe due to false positives",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/argentina-victimas-piden-reabrir-caso-contra-uribe-por-falsos-positivos/",
-        "published_date": "2026-04-15 23:45:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "Alert for a grenade in a house located in the south of Cali: the explosive was detonated in a controlled manner in the Lili Valley area",
+        "title": "212 voices, a single purpose: Afro-descendants, young people, women and the LGBTIQ+ population are formed to transform Cali from their territories",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/alerta-por-una-granada-en-una-casa-ubicada-en-el-sur-de-cali-el-explosivo-fue-detonado-de-manera-controlada-en-zona-del-valle-del-lili-3548289",
-        "published_date": "2026-04-15 23:34:05",
+        "url": "https://www.eltiempo.com/colombia/cali/212-voces-un-solo-proposito-afrodescendientes-jovenes-mujeres-y-poblacion-lgbtiq-se-forman-para-transformar-cali-desde-sus-territorios-3548465",
+        "published_date": "2026-04-16 17:22:33",
         "category": "Local Events"
     },
     {
-        "title": "Former Mayor Daniel Quintero will be the Government's fifth Health Superintendent",
+        "title": "In February, retail sales grew 10.9% compared to the same month in 2025",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/el-exalcalde-de-medellin-daniel-quintero-se-convertira-en-superintendente-de-salud-4372201",
-        "published_date": "2026-04-15 23:00:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "The government's response to the strike strains legitimacy",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/la-respuesta-del-gobierno-frente-al-paro-tensiona-la-legitimidad/",
-        "published_date": "2026-04-15 22:42:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "Bogot\u00e1 Book Fair will have talks about the Amazon",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/feria-del-libro-de-bogota-tendra-conversatorios-sobre-la-amazonia/",
-        "published_date": "2026-04-15 22:05:04",
+        "url": "https://www.larepublica.co/economia/en-febrero-las-ventas-del-comercio-minorista-crecieron-10-9-frente-al-mismo-mes-de-2025-4372715",
+        "published_date": "2026-04-16 17:10:20",
         "category": "Local Events"
     }
 ]
