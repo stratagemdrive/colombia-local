@@ -84,11 +84,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Trump announces two-week ceasefire with Iran",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/trump-anuncia-un-alto-al-fuego-de-dos-semanas-con-iran/",
-        "published_date": "2026-04-07 23:58:34",
-        "category": "Diplomacy"
+        "title": "Panic in Ibagu\u00e9 due to the detonation of a grenade in a park: the explosive device had been alerted by children who were playing in the area",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/panico-en-ibague-por-la-detonacion-de-una-granada-en-un-parque-el-artefacto-explosivo-habia-sido-alertado-por-parte-de-ninos-que-jugaban-en-la-zona-3548298",
+        "published_date": "2026-04-16 06:47:40",
+        "category": "Military"
     },
     {
         "title": "Security not only lacks police, it lacks intelligence",
@@ -224,11 +224,18 @@
         "category": "Military"
     },
     {
-        "title": "Fewer homicides, but more violence in Latin America",
+        "title": "Frontera Energy and Ecopetrol will regasify 40% of the gas demand in Puerto Bah\u00eda",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/frontera-energy-y-ecopetrol-regasificaran-40-de-la-demanda-de-gas-en-puerto-bahia-4372257",
+        "published_date": "2026-04-16 05:01:29",
+        "category": "Energy"
+    },
+    {
+        "title": "Radical Change left free to support Paloma or Abelardo",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/menos-homicidios-pero-mas-violencia-en-latinoamerica/",
-        "published_date": "2026-04-09 13:50:00",
-        "category": "Military"
+        "url": "https://www.lasillavacia.com/en-vivo/cambio-radical-dejo-en-libertad-para-apoyar-a-paloma-o-abelardo/",
+        "published_date": "2026-04-16 00:14:06",
+        "category": "Energy"
     },
     {
         "title": "Members of the Ecopetrol Board meet with Petro in the Palace",
@@ -357,18 +364,11 @@
         "category": "Energy"
     },
     {
-        "title": "Ecopetrol and Frontera Energy launched the Quifua Solar Farm in Puerto Gait\u00e1n",
+        "title": "Dian confirmed that he will adopt measures to return emergency resources",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/ecopetrol-y-frontera-energy-pusieron-en-marcha-la-granja-solar-quifua-en-puerto-gaitan-4370096",
-        "published_date": "2026-04-13 17:04:09",
-        "category": "Energy"
-    },
-    {
-        "title": "Petro lowered gasoline to help the Pact.Then came the war in Iran",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/petro-bajo-la-gasolina-para-ayudar-al-pacto-luego-llego-la-guerra-en-iran/",
-        "published_date": "2026-04-13 05:45:00",
-        "category": "Energy"
+        "url": "https://www.larepublica.co/economia/dian-confirmo-que-adoptara-medidas-para-devolucion-de-recursos-de-la-emergencia-4372272",
+        "published_date": "2026-04-15 23:44:53",
+        "category": "Economy"
     },
     {
         "title": "Short-term securities rate was 13.3% in the last auction",
@@ -504,11 +504,123 @@
         "category": "Economy"
     },
     {
-        "title": "They file a lawsuit against the decree that prevents the BanRep from meeting without the Ministry of Finance",
+        "title": "Machado arrives in Madrid to meet again with the Venezuelan diaspora",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/radican-demanda-al-decreto-que-impide-sesionar-al-banrep-sin-minhacienda/",
-        "published_date": "2026-04-08 13:16:52",
-        "category": "Economy"
+        "url": "https://www.lasillavacia.com/red-de-expertos/machado-llega-a-madrid-para-reencontrarse-con-la-diaspora-venezolana/",
+        "published_date": "2026-04-16 11:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "From Barranquilla, Superservicios states that the energy crisis in the Caribbean is structural and requires a change in the model and not only in operators",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/desde-barranquilla-superservicios-plantea-que-la-crisis-energetica-del-caribe-es-estructural-y-requiere-un-cambio-de-modelo-y-no-solo-de-operadores-3548236",
+        "published_date": "2026-04-16 06:01:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The NEET population fell by almost 70,000 in the last year and now totals more than 2.67 million",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/poblacion-de-ninis-bajo-en-casi-70-000-en-el-ultimo-ano-y-ahora-suman-2-67-millones-4372184",
+        "published_date": "2026-04-16 05:04:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "Court overturned the cascade of taxes from the December economic emergency",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/corte-tumbo-la-cascada-de-impuestos-de-la-emergencia-economica-de-diciembre-4372211",
+        "published_date": "2026-04-16 05:04:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "Germ\u00e1n \u00c1vila and Leonardo Villar still do not agree on the rate increase",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/german-avila-y-leonardo-villar-siguen-sin-ponerse-de-acuerdo-sobre-el-alza-de-tasas-4372219",
+        "published_date": "2026-04-16 05:01:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cepeda's share in the failure of Total Peace",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/la-cuota-de-cepeda-en-el-fracaso-de-la-paz-total/",
+        "published_date": "2026-04-16 05:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tremor today in Colombia |They report an earthquake in the early morning of this April 16;epicenter, magnitude and depth",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-hoy-en-colombia-reportan-sismo-en-la-madrugada-de-este-16-de-abril-epicentro-magnitud-y-profundidad-3548296",
+        "published_date": "2026-04-16 04:25:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "Be careful, driver!Peak and plaque in Bucaramanga for Thursday, April 16, 2026",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/cuidado-conductor-pico-y-placa-en-bucaramanga-para-el-jueves-16-de-abril-de-2026-de-3548272",
+        "published_date": "2026-04-16 02:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "This will be the peak and plate in Pereira for Thursday, April 16, 2026",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/asi-sera-el-pico-y-placa-en-pereira-para-el-jueves-16-de-abril-de-3548271",
+        "published_date": "2026-04-16 02:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Find out the details of the peak and plate in Medell\u00edn for Thursday, April 16, 2026",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/conozca-los-detalles-del-pico-y-placa-en-medellin-para-el-jueves-16-de-abril-de-3548269",
+        "published_date": "2026-04-16 02:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Batteries, driver!Peak and plaque in Cali for Thursday, April 16, 2026",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/pilas-conductor-pico-y-placa-en-cali-para-el-jueves-16-de-abril-de-3548266",
+        "published_date": "2026-04-16 02:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Sleep informed with the keys for this April 15, 2026",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-claves-de-este-15-de-abril-de-2026/",
+        "published_date": "2026-04-16 02:26:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Know the list of the 520 municipalities where the cadastral records were updated",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/conozca-el-listado-de-los-520-municipios-donde-se-actualizaron-los-avaluos-catastrales-4371973",
+        "published_date": "2026-04-15 23:52:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "Members of the Inpec would have charged this for the admission of people to Nelson Vel\u00e1squez's party in the Itag\u00fc\u00ed prison: new complaints from the councilor",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/esto-habrian-cobrado-miembros-del-inpec-para-el-ingreso-de-personas-a-parranda-de-nelson-velasquez-en-carcel-de-itaguei-nuevas-denuncias-de-concejal-3548275",
+        "published_date": "2026-04-15 23:50:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "They rehabilitated a section of El Poblado Avenue that had been closed due to immense undermining caused by heavy rains in Medell\u00edn",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/rehabilitaron-tramo-de-la-avenida-el-poblado-que-habia-sido-cerrado-por-inmensa-socavacion-causada-por-fuertes-lluvias-en-medellin-3548277",
+        "published_date": "2026-04-15 23:48:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Argentina: victims ask to reopen case against Uribe due to false positives",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/argentina-victimas-piden-reabrir-caso-contra-uribe-por-falsos-positivos/",
+        "published_date": "2026-04-15 23:45:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "Alert for a grenade in a house located in the south of Cali: the explosive was detonated in a controlled manner in the Lili Valley area",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/alerta-por-una-granada-en-una-casa-ubicada-en-el-sur-de-cali-el-explosivo-fue-detonado-de-manera-controlada-en-zona-del-valle-del-lili-3548289",
+        "published_date": "2026-04-15 23:34:05",
+        "category": "Local Events"
     },
     {
         "title": "Former Mayor Daniel Quintero will be the Government's fifth Health Superintendent",
@@ -529,125 +641,6 @@
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/feria-del-libro-de-bogota-tendra-conversatorios-sobre-la-amazonia/",
         "published_date": "2026-04-15 22:05:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "Daniel Quintero will be the new Superintendent of Health",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/daniel-quintero-sera-el-nuevo-superintendente-de-salud/",
-        "published_date": "2026-04-15 22:02:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "\"Venezuela is not interested in selling Monomers due to current fertilizers\"",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/palabras-de-edwin-palma-ministro-de-minas-y-energia-sobre-el-panorama-energetico-actual-4372035",
-        "published_date": "2026-04-15 21:38:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "Without Antanas Mockus, Ariel \u00c1vila proposes rebuilding the Green Alliance",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/sin-antanas-mockus-ariel-avila-propone-reconstruir-la-alianza-verde/",
-        "published_date": "2026-04-15 21:35:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "Clarification about an image that circulates on networks",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/aclaracion-sobre-una-imagen-que-circula-en-redes/",
-        "published_date": "2026-04-15 21:35:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Federico Guti\u00e9rrez reacted to the appointment of former mayor Daniel Quintero as national superintendent of Health: 'This is unbelievable'",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/federico-gutierrez-reacciono-al-nombramiento-del-exalcalde-daniel-quintero-como-superintendente-nacional-de-salud-esto-es-de-no-creer-3548222",
-        "published_date": "2026-04-15 18:22:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Andi pointed out that free zones started the year with signs of international confidence",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/andi-senalo-que-zonas-francas-arrancaron-el-ano-con-senales-de-confianza-internacional-4371886",
-        "published_date": "2026-04-15 18:00:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "Anif warns of weakening of investor confidence due to rating downgrade",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/anif-advierte-sobre-debilitamiento-de-confianza-inversionista-por-rebaja-en-calificacion-4371848",
-        "published_date": "2026-04-15 17:53:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "'Shottas' response to the Government, after a new kidnapping: does the possibility of resuming peace talks with 'Espartanos' in Buenaventura waver?",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/la-respuesta-de-shottas-al-gobierno-tras-nuevo-secuestro-tambalea-la-posibilidad-de-retomar-los-dialogos-de-paz-con-espartanos-en-buenaventura-3548199",
-        "published_date": "2026-04-15 17:52:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "Outrage over a school that charges its students to enter the bathroom in Cartagena: parents denounce deterioration of the facilities",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/indignacion-por-colegio-que-cobra-a-sus-estudiantes-por-entrar-al-bano-en-cartagena-padres-denuncian-deterioro-de-las-instalaciones-3548191",
-        "published_date": "2026-04-15 17:02:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "On the trail of 'motothieves' who have plagued the south of Cali: they offer a reward of up to $5 million for information that leads to their capture",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/tras-la-pista-de-motoladrones-que-tienen-azotado-el-sur-de-cali-ofrecen-recompensa-de-hasta-5-millones-por-informacion-que-lleve-a-su-captura-3548181",
-        "published_date": "2026-04-15 16:55:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "The longest metrocable in Medell\u00edn: this will be the seventh aerial cable line that will connect San Antonio de Prado with the south of the Aburr\u00e1 Valley",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/el-metrocable-mas-largo-de-medellin-asi-sera-la-septima-linea-de-cable-aereo-que-conectara-a-san-antonio-de-prado-con-el-sur-del-valle-de-aburra-3548184",
-        "published_date": "2026-04-15 16:48:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "This is how a street dweller reacted when a fast food stand celebrated his birthday",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/asi-reacciono-un-habitante-de-calle-cuando-un-puesto-de-comidas-rapidas-le-celebro-su-cumpleanos-3548160",
-        "published_date": "2026-04-15 16:33:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "Court ordered to return $25,000 million from the emergency declared in December 2025",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/corte-ordeno-devolver-25-000-millones-recaudados-con-la-emergencia-economica-de-diciembre-4371820",
-        "published_date": "2026-04-15 16:14:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "Velez in the morning |Andr\u00e9s Tob\u00f3n denounced that Itag\u00fc\u00ed prison would operate as a 'prison hotel' after a party with vallenato, liquor and more than 80 women",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/velez-por-la-manana-andres-tobon-denuncio-que-carcel-de-itaguei-operaria-como-una-carcel-hotel-tras-fiesta-con-vallenato-licor-y-mas-de-80-mujeres-3548134",
-        "published_date": "2026-04-15 15:47:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "Villar and \u00c1vila are in political debate on monetary policy decisions",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/villar-y-avila-se-encuentran-en-debate-politico-sobre-decisiones-de-politica-monetaria-4371813",
-        "published_date": "2026-04-15 15:44:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "The CAR restricted the use of La Calera water to Indega and readjusted the concession",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/la-car-le-restringio-el-uso-del-agua-de-la-calera-a-indega-y-reajusto-la-concesion-4371748",
-        "published_date": "2026-04-15 14:59:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Consumer confidence in March increased 1 percentage point and stood at 19.3%",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/confianza-del-consumidor-en-marzo-aumento-1-punto-porcentual-y-se-ubico-en-19-3-4371745",
-        "published_date": "2026-04-15 14:30:34",
         "category": "Local Events"
     }
 ]
