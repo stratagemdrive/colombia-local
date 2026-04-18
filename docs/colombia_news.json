@@ -70,31 +70,17 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Petro ordered the Colombian ambassador to Ecuador to \"come immediately\" to the country",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/petro-ordeno-a-la-embajadora-de-colombia-en-ecuador-venir-de-inmediato-al-pais-4368193",
-        "published_date": "2026-04-10 11:24:47",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Politicized, without plan, or money: x-ray of the Foreign Ministry that Petro leaves",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/politizada-sin-plan-ni-plata-radiografia-a-la-cancilleria-que-deja-petro/",
-        "published_date": "2026-04-10 06:00:00",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Inpec spoke out after the attack against deputy directors of the Palogordo prison in Bucaramanga: 'Consequence of effective work'",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/inpec-se-pronuncio-frente-al-atentado-contra-subdirectores-de-la-carcel-de-palogordo-en-bucaramanga-consecuencia-del-trabajo-efectivo-3546763",
-        "published_date": "2026-04-10 05:56:54",
-        "category": "Diplomacy"
-    },
-    {
         "title": "Uribe points out the ELN for an alleged plan to attack Paloma Valencia",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/uribe-senala-al-eln-por-supuesto-plan-para-atentar-contra-paloma-valencia/",
         "published_date": "2026-04-17 22:18:06",
+        "category": "Military"
+    },
+    {
+        "title": "Vigilante shot a 17-year-old minor in the exclusive area of \u200b\u200bCartagena: authorities verify the facts and state of health of the injured teenager",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/ultima-hora-vigilante-le-disparo-a-un-menor-de-edad-en-exclusiva-zona-de-cartagena-3548877",
+        "published_date": "2026-04-17 21:50:00",
         "category": "Military"
     },
     {
@@ -224,11 +210,11 @@
         "category": "Military"
     },
     {
-        "title": "Barranquilla tightens controls on the taxi service after feminicide and announces an intelligent system to reinforce citizen security",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-endurece-controles-al-servicio-de-taxi-tras-feminicidio-y-anuncia-sistema-inteligente-para-reforzar-la-seguridad-ciudadana-3547076",
-        "published_date": "2026-04-11 16:01:00",
-        "category": "Military"
+        "title": "The teaching health model: the \u201cpilot\u201d that was left without a pilot",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/el-modelo-de-salud-del-magisterio-el-piloto-que-se-quedo-sin-piloto/",
+        "published_date": "2026-04-18 05:05:00",
+        "category": "Energy"
     },
     {
         "title": "Ecopetrol will develop three regasification projects over the next three years",
@@ -364,13 +350,6 @@
         "category": "Energy"
     },
     {
-        "title": "Residents of rural areas protest against illegal mining in the Farallones of Cali",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/habitantes-de-zona-rural-protestan-por-mineria-ilegal-en-los-farallones-de-cali-3547952",
-        "published_date": "2026-04-14 23:01:00",
-        "category": "Energy"
-    },
-    {
         "title": "Council of State will study presence of MinHacienda in Issuer board meetings",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/consejo-de-estado-estudiara-presencia-de-minhacienda-en-reuniones-de-junta-de-emisor-4373694",
@@ -455,150 +434,143 @@
         "category": "Economy"
     },
     {
-        "title": "Inflation rose in March 2026: it remains at 5.56%",
+        "title": "Attacking the Bank of the Republic is attacking democracy",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/la-inflacion-subio-en-marzo-2026-queda-en-556/",
-        "published_date": "2026-04-10 00:00:00",
-        "category": "Economy"
-    },
-    {
-        "title": "Coljuegos clarified that it did not authorize Santiago Botero's $25 million raffle",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/coljuegos-aclaro-que-no-autorizo-rifa-de-25-millones-de-santiago-botero/",
-        "published_date": "2026-04-17 21:07:00",
+        "url": "https://www.lasillavacia.com/red-de-expertos/el-banco-de-la-republica-y-la-democracia/",
+        "published_date": "2026-04-18 11:30:00",
         "category": "Local Events"
     },
     {
-        "title": "We reject President Petro's disrespect for La Silla Vac\u00eda",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/opinion/de-la-direccion/rechazamos-el-irrespeto-del-presidente-petro-a-la-silla-vacia/",
-        "published_date": "2026-04-17 21:06:09",
+        "title": "Tremor today in Colombia |They report a strong earthquake on the morning of this April 18;epicenter, magnitude and depth",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/temblor-hoy-en-colombia-reportan-fuerte-sismo-en-la-manana-de-este-18-de-abril-epicentro-magnitud-y-profundidad-3548919",
+        "published_date": "2026-04-18 06:21:05",
         "category": "Local Events"
     },
     {
-        "title": "In the Bahamas, Colombia will have to show progress in the Escaz\u00fa Agreement",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/en-bahamas-colombia-tendra-que-mostrar-avances-en-el-acuerdo-de-escazu/",
-        "published_date": "2026-04-17 21:05:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "Petro warns about possible attack against Iv\u00e1n Cepeda",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/petro-alerta-sobre-posible-atentado-contra-ivan-cepeda/",
-        "published_date": "2026-04-17 20:54:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "The problem is not the number of parties, it is their internal fragmentation",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/el-problema-no-es-el-numero-de-partidos-es-su-fragmentacion-interna/",
-        "published_date": "2026-04-17 20:34:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ask a question at our third open mic with candidates",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/haga-una-pregunta-en-nuestro-tercer-microfono-abierto-con-candidatos/",
-        "published_date": "2026-04-17 20:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The United States accused alias \u201cChiquito Malo\u201d of narcoterrorism",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/estados-unidos-acuso-a-alias-chiquito-malo-por-narcoterrorismo/",
-        "published_date": "2026-04-17 19:44:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "Government would impose tariffs of up to 75% on some Ecuadorian agricultural products",
+        "title": "\u201cCompanies that make up Caribe Exponential have a growth of up to 60%\u201d",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/ministerio-de-comercio-subiria-los-aranceles-hasta-75-a-productos-del-vecino-pais-4373675",
-        "published_date": "2026-04-17 19:02:39",
+        "url": "https://www.larepublica.co/economia/entrevista-con-daniel-rubio-director-de-caribe-exponencial-4373853",
+        "published_date": "2026-04-18 05:01:54",
         "category": "Local Events"
     },
     {
-        "title": "Revealing account of the survivor of the La Macarena massacre, Meta: three women were murdered during a family reunion",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/revelador-relato-del-sobreviviente-a-la-masacre-de-la-macarena-meta-tres-mujeres-fueron-asesinadas-con-machete-por-celos-en-plena-reunion-familiar-3548837",
-        "published_date": "2026-04-17 18:22:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Due to debt exceeding $3,000 million and illegal connections, Afinia disconnects service to Acuacor: two municipalities of Bol\u00edvar impacted",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/por-deuda-superior-a-los-3-000-millones-y-conexiones-ilegales-afinia-desconecta-servicio-a-acuacor-dos-municipios-de-bolivar-impactados-3548821",
-        "published_date": "2026-04-17 17:27:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "The beautiful story of two homeless people who were boyfriends, separated for several years and addiction and rehabilitation brought them together to get married",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/la-bella-historia-de-dos-habitantes-de-calle-que-fueron-novios-se-separaron-por-varios-anos-y-la-adiccion-y-rehabilitacion-los-unio-para-casarse-3548820",
-        "published_date": "2026-04-17 17:21:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "The controversial contract of more than $2.6 billion in Cali: 'They are ghost computers,' says councilor and Mayor's Office assures that he has not paid a peso",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/el-polemico-contrato-de-mas-de-2-600-millones-en-cali-son-computadores-fantasmas-dice-concejal-y-alcaldia-asegura-que-no-ha-pagado-un-peso-3548740",
-        "published_date": "2026-04-17 17:20:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "After the strike, Fomag and Fecode advance in the development of the health system",
+        "title": "Despite the alert for the El Ni\u00f1o phenomenon, heavy rains would persist until June",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/tras-paro-de-maestros-fomag-y-fecode-avanzan-en-implementacion-del-sistema-de-salud-4373557",
-        "published_date": "2026-04-17 17:02:14",
+        "url": "https://www.larepublica.co/economia/pese-a-alerta-por-el-fenomeno-de-el-nino-las-fuertes-lluvias-persistirian-hasta-junio-4373842",
+        "published_date": "2026-04-18 05:01:19",
         "category": "Local Events"
     },
     {
-        "title": "Extortion in Barranquilla overwhelmed: store closures show economic impact;Up to 80% of merchants do not report due to fear",
+        "title": "The story of the alleged diversion of accounts in Coosalud that Supersolidaria warns",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/la-historia-del-presunto-desvio-de-cuentas-en-coosalud-que-advierte-supersolidaria-4373897",
+        "published_date": "2026-04-18 05:00:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "Christianity, imperialism and resistance: the roots of the clash between the pope and Trump",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/cristianismo-imperialismo-y-resistencia-las-raices-del-choque-entre-el-papa-y-trump/",
+        "published_date": "2026-04-18 02:23:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "Detector: Petro did not graduate from his master's degree, but it is not a first",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/detector-de-mentiras/cierto-pero/detector-petro-no-se-graduo-de-su-maestria-pero-no-es-una-primicia/",
+        "published_date": "2026-04-18 02:16:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "Analdex expressed concern about flaws in the Dian operating system",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/analdex-mostro-preocupacion-por-fallas-presentadas-en-el-sistema-operativo-de-la-dian-4374136",
+        "published_date": "2026-04-18 02:02:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "ANI indicated that the Interoceanic Train is advancing in its structuring process",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/ani-senalo-que-proyecto-tren-interoceanico-avanza-en-su-proceso-de-estructuracion-tecnica-4374105",
+        "published_date": "2026-04-18 01:41:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "Outrage over video of dissidents in a school in the southwest of the country: macabre tactic to recruit with supplies and taking photos with children",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/extorsion-en-barranquilla-desbordada-cierres-de-tiendas-evidencian-impacto-economico-hasta-80-de-comerciantes-no-denuncia-por-miedo-3548803",
-        "published_date": "2026-04-17 16:39:57",
+        "url": "https://www.eltiempo.com/colombia/cali/indignacion-por-video-de-disidentes-en-un-colegio-del-suroccidente-del-pais-macabra-tactica-para-reclutar-con-utiles-y-tomandose-fotos-con-los-ninos-3548911",
+        "published_date": "2026-04-18 01:32:20",
         "category": "Local Events"
     },
     {
-        "title": "Palma defends support for the private sector in the development of new energy projects",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/palma-defiende-apoyo-al-sector-privado-en-desarrollo-de-nuevos-proyectos-energeticos-4373491",
-        "published_date": "2026-04-17 15:59:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Difference between being a paisa and being an Antioquia: although they are similar, they are not the same",
+        "title": "The first sugarcane agroindustry company in Colombia with European recognition is 108 years old: it works with the community and for water in Valle",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/diferencia-entre-ser-paisa-y-ser-antioqueno-aunque-tienen-similitud-no-son-lo-mismo-3548788",
-        "published_date": "2026-04-17 15:50:49",
+        "url": "https://www.eltiempo.com/colombia/cali/la-primera-empresa-de-la-agroindustria-de-la-cana-en-colombia-con-reconocimiento-europeo-tiene-108-anos-trabaja-con-comunidad-y-por-el-agua-en-valle-3548857",
+        "published_date": "2026-04-18 01:28:32",
         "category": "Local Events"
     },
     {
-        "title": "\"President Donald Trump is right that the United Nations no longer serves us\"",
+        "title": "Ungrd and the Mayor's Office of Bogot\u00e1 will work together against the possible arrival of El Ni\u00f1o",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/el-presidente-donald-trump-tiene-razon-en-que-las-naciones-unidas-ya-no-sirven-4373487",
-        "published_date": "2026-04-17 15:35:19",
+        "url": "https://www.larepublica.co/economia/ungrd-y-alcaldia-de-bogota-trabajaran-en-conjunto-ante-posible-llegada-de-el-nino-4374019",
+        "published_date": "2026-04-18 01:16:12",
         "category": "Local Events"
     },
     {
-        "title": "'Deaf and dumb': the controversial phrase against Governor Dilian Francisca Toro, which ignited the scuffle between two Cali councilors",
+        "title": "Sleep informed with the key moves of this April 17, 2026",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-movidas-clave-de-este-17-de-abril-de-2026/",
+        "published_date": "2026-04-18 00:31:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Again, a video created with AI uses Arturo Calle's image to scam",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/de-nuevo-un-video-creado-con-ia-usa-la-imagen-de-arturo-calle-para-estafar/",
+        "published_date": "2026-04-18 00:31:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Attorney General's Office ratifies disciplinary investigation and suspension of Inpec officials involved in the Vallenato party in the Itag\u00fc\u00ed prison",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/sorda-y-muda-la-polemica-frase-contra-la-gobernadora-dilian-francisca-toro-que-encendio-el-rifirrafe-entre-dos-concejales-de-cali-3548774",
-        "published_date": "2026-04-17 15:26:18",
+        "url": "https://www.eltiempo.com/colombia/medellin/procuraduria-ratifica-investigacion-disciplinaria-y-suspension-a-funcionarios-del-inpec-implicados-en-la-parranda-vallenata-en-la-carcel-de-itaguei-3548873",
+        "published_date": "2026-04-18 00:23:00",
         "category": "Local Events"
     },
     {
-        "title": "Gal\u00e1n announced that in July the lanes parallel to the South Highway will come into service",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/galan-anuncio-que-en-julio-entran-en-servicio-los-carriles-paralelos-a-la-autopista-sur-4373485",
-        "published_date": "2026-04-17 15:18:10",
+        "title": "Prosecutor's Office reopens case for Vallenata partying in Itag\u00fc\u00ed prison",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/procuraduria-reabre-caso-por-parranda-vallenata-en-carcel-de-itagui/",
+        "published_date": "2026-04-18 00:15:11",
         "category": "Local Events"
     },
     {
-        "title": "\"The issuer is called upon to make technical decisions to protect the stability of the country\"",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/emisor-esta-llamado-a-tomar-decisiones-tecnicas-para-proteger-la-estabilidad-del-pais-4373381",
-        "published_date": "2026-04-17 12:54:42",
+        "title": "From the Commuter Train to the Buenaventura dredging: the works that Valle del Cauca asks the next government to not be left behind",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/del-tren-de-cercanias-al-dragado-de-buenaventura-las-obras-que-el-valle-del-cauca-le-pide-al-proximo-gobierno-para-no-quedarse-atras-3548910",
+        "published_date": "2026-04-17 23:50:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Petro appreciates mention in Time magazine, but does not appear on the list",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/petro-agradece-mencion-en-revista-time-pero-no-aparece-en-la-lista/",
+        "published_date": "2026-04-17 23:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The accusations against the members of Inpec punctuated by the party of the bosses of the Itag\u00fc\u00ed prison and the parallel investigation of the directors",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/las-responsabilidades-de-los-miembros-del-inpec-salpicados-por-parranda-vallenata-en-la-carcel-de-itaguei-y-la-investigacion-paralela-a-los-directores-3548878",
+        "published_date": "2026-04-17 23:07:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The majority of those inadmissible for tourism for sexual exploitation are Americans;70% were rejected trying to enter Medell\u00edn",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/la-mayoria-de-inadmitidos-por-turismo-con-fines-de-explotacion-sexual-son-estadounidenses-el-70-fueron-rechazados-intentando-ingresar-a-medellin-3548812",
+        "published_date": "2026-04-17 23:04:00",
         "category": "Local Events"
     }
 ]
