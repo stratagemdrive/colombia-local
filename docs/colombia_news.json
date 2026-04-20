@@ -182,6 +182,20 @@
         "category": "Military"
     },
     {
+        "title": "Regasifying in Ballena from 2027 will reduce the cost of gas in the interior of the country by 20%",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/regasificar-en-ballena-desde-2027-reducira-en-20-costo-del-gas-en-el-interior-del-pais-4373933",
+        "published_date": "2026-04-20 05:01:25",
+        "category": "Energy"
+    },
+    {
+        "title": "'There is a new scenario of exploitation': leaders of Cali townships denounce the threat to drinking water due to illegal mining in the Farallones",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/si-no-actuamos-hoy-manana-sera-tarde-lideres-de-corregimientos-de-cali-denuncian-amenaza-al-agua-potable-por-mineria-ilegal-en-farallones-3549198",
+        "published_date": "2026-04-20 02:22:15",
+        "category": "Energy"
+    },
+    {
         "title": "USO proposes salary increases and new conditions in the midst of the Ecopetrol crisis",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/uso-plantea-aumentos-salariales-y-nuevas-condiciones-en-plena-crisis-de-ecopetrol-4374681",
@@ -308,18 +322,11 @@
         "category": "Energy"
     },
     {
-        "title": "\"We must enable all gas sources to face the El Ni\u00f1o phenomenon\"",
+        "title": "\u201cModifying the inflation target could erode the credibility of the Bank of the Republic\u201d",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/palabras-de-luz-stella-murgas-presidente-de-naturgas-sobre-el-panorama-de-gas-actual-con-la-coyuntura-4371888",
-        "published_date": "2026-04-15 18:13:43",
-        "category": "Energy"
-    },
-    {
-        "title": "Atl\u00e1ntico: pilot project seeks to generate energy with a turbine in the Magdalena River: technology would take advantage of the current without affecting the ecosystem",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/atlantico-proyecto-piloto-busca-generar-energia-con-turbina-en-el-rio-magdalena-tecnologia-aprovecharia-la-corriente-sin-afectar-el-ecosistema-3548198",
-        "published_date": "2026-04-15 17:27:39",
-        "category": "Energy"
+        "url": "https://www.larepublica.co/economia/entrevista-con-mauricio-villamizar-codirector-del-banco-de-la-republica-4373290",
+        "published_date": "2026-04-20 05:00:12",
+        "category": "Economy"
     },
     {
         "title": "Ministry of Finance presented project to attract sporting events in Bogot\u00e1",
@@ -385,6 +392,76 @@
         "category": "Economy"
     },
     {
+        "title": "Public officials in Iv\u00e1n Cepeda's digital strategy",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/funcionarios-publicos-en-la-estrategia-digital-de-ivan-cepeda/",
+        "published_date": "2026-04-20 12:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Bank of the Republic is the Nibor Dooh of the poor",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/el-banco-de-la-republica-es-el-nibor-dooh-de-los-pobres/",
+        "published_date": "2026-04-20 12:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Omar Alfredo's drama: he remains in the ICU due to heart failure awaiting a response from Nueva EPS;a judge ordered immediate intervention",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/el-drama-de-omar-alfredo-permanece-en-uci-por-una-falla-cardiaca-esperando-respuesta-de-nueva-eps-un-juez-ordeno-intervencion-inmediata-3549206",
+        "published_date": "2026-04-20 06:25:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Poll weighting: Cepeda loses advantage in second round",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/ponderador-de-encuestas-cepeda-pierde-la-ventaja-en-segunda-vuelta/",
+        "published_date": "2026-04-20 06:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Neighborhood stores fight against hard discount with more than 110,000 establishments",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/cuantas-tiendas-de-barrio-hay-en-colombia-en-2026-4374058",
+        "published_date": "2026-04-20 05:01:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Debt interest payments would reach a maximum in 2027 with the PGN draft",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/pago-de-intereses-de-deuda-alcanzaria-maximo-en-2027-con-anteproyecto-del-pgn-4373946",
+        "published_date": "2026-04-20 05:01:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "Batteries, driver!Pico y placa en Bucaramanga para el lunes 20 de abril de 2026",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/pilas-conductor-pico-y-placa-en-bucaramanga-para-el-lunes-20-de-abril-de-3549162",
+        "published_date": "2026-04-20 02:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Be careful, driver!Peak and plate in Cali for Monday, April 20, 2026",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/cuidado-conductor-pico-y-placa-en-cali-para-el-lunes-20-de-abril-de-3549153",
+        "published_date": "2026-04-20 02:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Penthouses, parking lots and premises: this is what the 11 luxury goods seized from drug trafficking in Valle del Cauca look like for $3.24 billion",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/penthouses-parqueaderos-y-locales-asi-lucen-los-11-bienes-de-lujo-incautados-a-narcotrafico-en-el-valle-del-cauca-por-3-240-millones-3549199",
+        "published_date": "2026-04-20 02:04:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "Corporinoquia denounces the takeover of the Paso de Fauna Home in Yopal by hooded men and warns of risk for more than 200 animals",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/corporinoquia-denuncia-toma-del-hogar-de-paso-de-fauna-en-yopal-y-alerta-por-riesgo-para-mas-de-200-animales-3549187",
+        "published_date": "2026-04-19 22:55:06",
+        "category": "Local Events"
+    },
+    {
         "title": "Thinking about the university from decolonial theory",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/red-de-expertos/pensar-sobre-la-universidad-desde-la-teoria-decolonial/",
@@ -392,10 +469,24 @@
         "category": "Local Events"
     },
     {
+        "title": "An earthquake of magnitude 3.2 is recorded in Los Santos, Santander during the night of this Sunday, April 19",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/sismo-de-magnitud-3-2-se-registra-en-los-santos-santander-3549171",
+        "published_date": "2026-04-19 21:01:10",
+        "category": "Local Events"
+    },
+    {
         "title": "Spend your Sunday afternoon with these recommended opinion columns",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/pase-la-tarde-del-domingo-con-estas-columnas-de-opinion-recomendadas/",
         "published_date": "2026-04-19 21:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mayors of the country react to the plan by criminal gangs to attack the life of Mayor Alejandro Char and his family",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/alerta-en-barranquilla-por-plan-de-bandas-criminales-para-atentar-contra-la-vida-del-alcalde-alejandro-char-y-su-familia-3549170",
+        "published_date": "2026-04-19 20:32:41",
         "category": "Local Events"
     },
     {
@@ -438,90 +529,6 @@
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/ya-se-envio-informacion-mindefensa-sobre-la-cia-y-atentado-contra-cepeda/",
         "published_date": "2026-04-19 15:23:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "Not just hippos: this is the list of invasive exotic species in Colombia",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/no-solo-hipopotamos-este-es-el-listado-de-especies-exoticas-invasoras-en-colombia-3549123",
-        "published_date": "2026-04-19 15:17:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "MinSalud confirmed a first case of mpox Clade Id, a variant of monkeypox",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/minsalud-confirmo-un-primer-caso-de-mpox-clado-id-variante-de-la-viruela-simica-4374533",
-        "published_date": "2026-04-19 15:09:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Barranquilla: tragedy shakes the La Sierrita neighborhood;26-year-old man dies after receiving an electric shock from a detached cable",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-tragedia-sacude-al-barrio-la-sierrita-joven-de-26-anos-muere-tras-recibir-descarga-electrica-de-un-cable-desprendido-3549116",
-        "published_date": "2026-04-19 14:29:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "Twist in the massacre of three women in La Macarena, Meta: key witness went from victim to main suspect due to a discovery that changes the investigation",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/giro-en-la-masacre-de-tres-mujeres-en-la-macarena-meta-testigo-clave-paso-de-victima-a-principal-sospechoso-por-hallazgo-que-cambia-la-investigacion-3549114",
-        "published_date": "2026-04-19 14:05:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "High complexity hospital in La Guajira, in doubt: project announced by President Gustavo Petro with the Arab Emirates faces technical obstacles",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/hospital-de-alta-complejidad-en-la-guajira-en-duda-proyecto-anunciado-por-el-presidente-gustavo-petro-con-emiratos-arabes-enfrenta-trabas-tecnicas-3549108",
-        "published_date": "2026-04-19 13:37:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "The clues to the kidnapping of a relative of the influencer Tatiana Zapata in Jamund\u00ed, Valle del Cauca: they deny an armed raid on her restaurant",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/las-pistas-del-secuestro-de-familiar-de-la-influencer-tatiana-zapata-en-jamundi-valle-del-cauca-desmienten-incursion-armada-en-su-restaurante-3549109",
-        "published_date": "2026-04-19 13:25:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "A Dominican citizen wanted by Interpol for homicide and disappearance is captured in a hotel in Cartagena",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/capturan-en-hotel-de-cartagena-a-ciudadano-dominicano-buscado-por-interpol-por-homicidio-y-desaparicion-3549104",
-        "published_date": "2026-04-19 13:08:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "Hitmen and witchcraft in Tolima: they investigate links of murders with groups of 'witches' in Ibagu\u00e9 and El Espinal, and possible link with the Sinaloa cartel",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/sicariatos-y-brujeria-en-tolima-investigan-vinculos-de-asesinatos-con-grupos-de-brujos-en-ibague-y-el-espinal-y-posible-nexo-con-cartel-de-sinaloa-3549098",
-        "published_date": "2026-04-19 12:45:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Medell\u00edn celebrates 200 years as the capital of Antioquia: this will be the celebration of this city that learned to reinvent itself",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/medellin-cumple-200-anos-como-capital-de-antioquia-asi-sera-la-celebracion-de-esta-ciudad-que-aprendio-a-reinventarse-3549083",
-        "published_date": "2026-04-19 12:38:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cueman\u00ed: the focus of deforestation of \u201cCalarc\u00e1\u201d that the State cannot stop",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/cuemani-el-foco-de-deforestacion-de-calarca-que-el-estado-no-logra-parar/",
-        "published_date": "2026-04-19 05:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Moving towards transformation: challenges of the Permanent Forum in guaranteeing the rights of Afro-descendants",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/avanzar-hacia-la-transformacion-desafios-del-foro-permanente-en-la-garantia-de-derechos-de-afrodescendientes/",
-        "published_date": "2026-04-19 02:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Video |This is the identity of the motorcyclist who died in an accident near the Naranjo tunnel, in Valle del Cauca",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/video-esta-es-la-identidad-del-motociclista-que-fallecio-en-accidente-cerca-del-tunel-del-naranjo-en-el-valle-del-cauca-3549044",
-        "published_date": "2026-04-19 00:43:49",
         "category": "Local Events"
     }
 ]
