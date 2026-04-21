@@ -1,5 +1,26 @@
 [
     {
+        "title": "UN insists on reinforcing guarantees for the elections in Colombia",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/onu-insiste-en-reforzar-garantias-para-las-elecciones-en-colombia/",
+        "published_date": "2026-04-21 19:00:00",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Amcham proposes promoting FDI, tourism and exports with the US.",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/amcham-propone-impulsar-la-ied-el-turismo-y-las-exportaciones-con-estados-unidos-4376194",
+        "published_date": "2026-04-21 18:55:13",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Campaign Diary: Cepeda and businessmen, DNI and card printing",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/diario-de-campana-cepeda-y-empresarios-dni-e-impresion-del-tarjeton/",
+        "published_date": "2026-04-21 18:25:09",
+        "category": "Diplomacy"
+    },
+    {
         "title": "La Guajira: armed strike in Riohacha leaves losses of $35 billion and hits commerce after three days of fear and uncertainty",
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/otras-ciudades/la-guajira-paro-armado-golpea-el-comercio-en-riohacha-perdidas-superan-los-35-mil-millones-en-tres-dias-3548966",
@@ -35,11 +56,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Pablo Escobar's whim that became a plague: the monumental and chaotic history of the hippos in Antioquia",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/el-capricho-de-pablo-escobar-que-se-volvio-plaga-la-monumental-y-caotica-historia-de-los-hipopotamos-en-antioquia-3547542",
-        "published_date": "2026-04-13 17:52:56",
-        "category": "Diplomacy"
+        "title": "Prisons: the test of seriousness of the candidates",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/las-carceles-la-prueba-de-seriedad-politica-de-los-candidatos/",
+        "published_date": "2026-04-21 20:32:47",
+        "category": "Military"
+    },
+    {
+        "title": "The Constitutional Court defends the justice of the Peace Agreement",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/la-corte-constitucional-defiende-la-justicia-del-acuerdo-de-paz/",
+        "published_date": "2026-04-21 19:31:00",
+        "category": "Military"
     },
     {
         "title": "Three soldiers died in a drone attack on the border with Ecuador",
@@ -165,20 +193,6 @@
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/otras-ciudades/sincelejo-espera-30-000-turistas-sera-la-sede-del-primer-mundial-de-softbol-sub-23-organizado-en-colombia-llegan-12-selecciones-internacionales-3548195",
         "published_date": "2026-04-16 16:40:17",
-        "category": "Military"
-    },
-    {
-        "title": "Panic in Ibagu\u00e9 due to the detonation of a grenade in a park: the explosive device had been alerted by children who were playing in the area",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/panico-en-ibague-por-la-detonacion-de-una-granada-en-un-parque-el-artefacto-explosivo-habia-sido-alertado-por-parte-de-ninos-que-jugaban-en-la-zona-3548298",
-        "published_date": "2026-04-16 06:47:40",
-        "category": "Military"
-    },
-    {
-        "title": "Security not only lacks police, it lacks intelligence",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/a-la-seguridad-no-solo-le-faltan-policias-le-falta-inteligencia/",
-        "published_date": "2026-04-15 21:45:31",
         "category": "Military"
     },
     {
@@ -322,6 +336,13 @@
         "category": "Energy"
     },
     {
+        "title": "MinHacienda estimates that rate hikes will increase debt interest payments by $1.8 trillion",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/siga-el-cubrimiento-en-vivo-del-foro-de-politica-monetaria-que-cito-el-minhacienda-4376065",
+        "published_date": "2026-04-21 14:57:00",
+        "category": "Economy"
+    },
+    {
         "title": "Leonardo Villar will not attend the economic policy forum of the Ministry of Finance",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/leonardo-villar-no-asistira-al-foro-de-politica-economica-del-ministerio-de-hacienda-4375696",
@@ -399,150 +420,143 @@
         "category": "Economy"
     },
     {
-        "title": "External debt in January reached US$253,168 million, which is equivalent to 55.2% of GDP",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/deuda-externa-con-corte-a-enero-de-2026-4370310",
-        "published_date": "2026-04-13 23:23:44",
-        "category": "Economy"
-    },
-    {
-        "title": "The \u201cusual\u201d politicians in Abelardo De La Espriella's campaign",
+        "title": "Petro uploaded (and deleted) Telemundo's impersonation of a criminal from Ecuador",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/los-politicos-de-siempre-en-la-campana-de-abelardo-de-la-espriella/",
-        "published_date": "2026-04-21 06:00:00",
+        "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/petro-subio-y-borro-suplantacion-de-telemundo-sobre-criminal-de-ecuador/",
+        "published_date": "2026-04-21 23:28:51",
         "category": "Local Events"
     },
     {
-        "title": "Living alone is more common for Colombians with 20% of single-person households",
+        "title": "Mayor of Medell\u00edn orders to cancel presentation of book on M19",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/alcalde-de-medellin-ordena-cancelar-presentacion-de-libro-sobre-m19/",
+        "published_date": "2026-04-21 23:23:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "A positive presentation of the bill on the Customs Penalty Regime was filed",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/vivir-solo-es-mas-comun-para-los-colombianos-con-20-de-hogares-unipersonales-4375666",
-        "published_date": "2026-04-21 05:04:01",
+        "url": "https://www.larepublica.co/economia/fue-radicada-ponencia-positiva-de-proyecto-de-ley-del-regimen-sancionatorio-aduanero-4376429",
+        "published_date": "2026-04-21 22:45:04",
         "category": "Local Events"
     },
     {
-        "title": "The average price of a hamburger is $18,181, almost 4% more than in January",
+        "title": "Supreme Court condemns former La U congressman for sexual abuse",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/corte-suprema-condena-a-excongresista-de-la-u-por-abuso-sexual/",
+        "published_date": "2026-04-21 22:43:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "Supersalud said that it is obliged to abide by the ruling to intervene in Coosalud",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/el-precio-promedio-de-una-hamburguesa-es-de-18-181-casi-4-mas-que-en-enero-4375726",
-        "published_date": "2026-04-21 05:03:42",
+        "url": "https://www.larepublica.co/economia/supersalud-dijo-que-esta-en-la-obligacion-de-acatar-el-fallo-de-intervencion-a-coosalud-4376372",
+        "published_date": "2026-04-21 21:55:12",
         "category": "Local Events"
     },
     {
-        "title": "Sinigan affected the mobility of 2,000 head of cattle after the first day with new software",
+        "title": "Intensify the transition, maintaining energy sovereignty: Cepeda",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/intensificar-la-transicion-manteniendo-la-soberania-energetica-cepeda/",
+        "published_date": "2026-04-21 21:40:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "\"Circular economy is leaving the logic of discarding to embrace that of care\"",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/sinigan-afecto-movilidad-de-2-000-cabezas-de-ganado-4375668",
-        "published_date": "2026-04-21 05:01:58",
+        "url": "https://www.larepublica.co/economia/discurso-de-apertura-de-la-cumbre-glocal-de-economia-circular-de-la-alcaldesa-johana-aranda-4376336",
+        "published_date": "2026-04-21 21:39:16",
         "category": "Local Events"
     },
     {
-        "title": "The Mayor's Office of Bogot\u00e1 will delimit areas and quotas for informal vendors",
+        "title": "In short, Cepeda closes the door to debate with the center",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/en-definitiva-cepeda-cierra-la-puerta-a-debatir-con-el-centro/",
+        "published_date": "2026-04-21 21:27:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "They confirm the death of young people kidnapped by dissidents in Jamund\u00ed",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/confirman-muerte-de-jovenes-secuestrados-por-disidencias-en-jamundi/",
+        "published_date": "2026-04-21 20:17:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "Creg leads inter-institutional coordination in the face of 171.3% growth in electric mobility",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/con-decreto-alcaldia-de-bogota-delimitara-zonas-y-cupos-para-vendedores-informales-4374814",
-        "published_date": "2026-04-21 05:01:21",
+        "url": "https://www.larepublica.co/economia/creg-lidera-articulacion-interinstitucional-ante-crecimiento-de-171-3-en-movilidad-electrica-4376229",
+        "published_date": "2026-04-21 19:25:33",
         "category": "Local Events"
     },
     {
-        "title": "Agriculture and hydrocarbons recorded their worst first two months since 2021",
+        "title": "Decree with tariffs for imports from Ecuador would go to signatures on Wednesday",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/los-sectores-de-agro-e-hidrocarburos-registraron-su-peor-primer-bimestre-desde-2021-4375651",
-        "published_date": "2026-04-21 05:00:29",
+        "url": "https://www.larepublica.co/economia/decreto-con-aranceles-para-importaciones-desde-ecuador-pasaria-a-firmas-el-miercoles-4376170",
+        "published_date": "2026-04-21 19:12:51",
         "category": "Local Events"
     },
     {
-        "title": "Be careful, driver!Peak and plate in Bucaramanga for Tuesday, April 21, 2026",
+        "title": "Huila achieves social milestone by reducing multidimensional poverty to a single digit",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/ojo-conductor-pico-y-placa-en-bucaramanga-para-el-martes-21-de-abril-de-3549515",
-        "published_date": "2026-04-21 02:30:00",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/huila-logra-hito-social-al-reducir-la-pobreza-multidimensional-a-un-solo-digito-3549789",
+        "published_date": "2026-04-21 18:24:58",
         "category": "Local Events"
     },
     {
-        "title": "This will be the peak and plate in Pereira for Tuesday, April 21, 2026",
+        "title": "Migration Colombia raises alarms due to non-admission of possible sexual predators in Medell\u00edn: the figure for 2026 is almost half of all of 2025",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/asi-sera-el-pico-y-placa-en-pereira-para-el-martes-21-de-abril-de-3549514",
-        "published_date": "2026-04-21 02:30:00",
+        "url": "https://www.eltiempo.com/colombia/medellin/migracion-colombia-prende-las-alarmas-por-inadmisiones-de-posibles-depredadores-sexuales-en-medellin-la-cifra-de-2026-es-casi-la-mitad-de-todo-3549783",
+        "published_date": "2026-04-21 18:08:01",
         "category": "Local Events"
     },
     {
-        "title": "Find out the details of the peak and plate in Medell\u00edn for Tuesday, April 21, 2026",
+        "title": "Medell\u00edn's master plan to stop overflows: the city builds the largest sustainable urban drainage system in the country",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/conozca-los-detalles-del-pico-y-placa-en-medellin-para-el-martes-21-de-abril-de-3549511",
-        "published_date": "2026-04-21 02:30:00",
+        "url": "https://www.eltiempo.com/colombia/medellin/el-plan-maestro-de-medellin-para-frenar-desbordamientos-la-ciudad-construye-el-sistema-urbano-de-drenaje-sostenible-mas-grande-del-pais-3549754",
+        "published_date": "2026-04-21 17:57:15",
         "category": "Local Events"
     },
     {
-        "title": "Avoid fines: peak and plate in Cali for Tuesday, April 21, 2026",
+        "title": "The four young people kidnapped by the 'Jaime Mart\u00ednez' dissident were found murdered in Cauca and Jamund\u00ed: these were three of the victims",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/evite-multas-pico-y-placa-en-cali-para-el-martes-21-de-abril-de-3549506",
-        "published_date": "2026-04-21 02:30:00",
+        "url": "https://www.eltiempo.com/colombia/cali/atencion-confirman-que-los-cuatro-cuerpos-encontrados-en-zona-rural-de-jamundi-corresponden-a-los-jovenes-que-fueron-secuestrados-por-las-disidencias-3549765",
+        "published_date": "2026-04-21 17:44:57",
         "category": "Local Events"
     },
     {
-        "title": "Sleep informed with the movements of this April 20, 2026",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-movidas-de-este-20-de-abril-de-2026/",
-        "published_date": "2026-04-21 00:31:05",
+        "title": "Deaf witness helped solve the femicide of a young woman in Monter\u00eda",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/testigo-sordo-ayudo-a-resolver-el-feminicidio-de-una-joven-en-monteria-3549764",
+        "published_date": "2026-04-21 17:15:04",
         "category": "Local Events"
     },
     {
-        "title": "Foreign Direct Investment totaled US$2,129 million in the quarter",
+        "title": "External purchases totaled US$5,741.4 million during the closing of the first two months",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/inversion-extranjera-directa-sumo-un-total-de-us-2-129-millones-en-el-primer-trimestre-4375614",
-        "published_date": "2026-04-21 00:14:28",
+        "url": "https://www.larepublica.co/economia/compras-externas-sumaron-us-5-741-4-millones-durante-el-cierre-del-primer-bimestre-4376118",
+        "published_date": "2026-04-21 16:58:06",
         "category": "Local Events"
     },
     {
-        "title": "\u201cI have no deals\u201d: \u200b\u200bPetro on alleged meeting with \u201cPap\u00e1 Smurf\u201d's lawyer",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/no-tengo-tratos-petro-sobre-supuesta-reunion-con-abogado-de-papa-pitufo/",
-        "published_date": "2026-04-20 23:41:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "A pregnant woman who survived an armed attack in La Guajira spoke when she was in the patio of her house: 'They were quite difficult days'",
+        "title": "Cartagena opens its first bilingual public school: The IE Cecilia Porras School promises to break the chains of educational exclusion",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/hablo-mujer-embarazada-que-sobrevivio-a-ataque-armado-en-la-guajira-cuando-se-encontraba-en-el-patio-de-su-casa-fueron-dias-bastante-dificiles-3549512",
-        "published_date": "2026-04-20 23:32:30",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/cartagena-abre-su-primer-colegio-publico-bilinguee-la-ie-cecilia-porras-school-promete-romper-las-cadenas-de-la-exclusion-educativa-3549756",
+        "published_date": "2026-04-21 16:55:07",
         "category": "Local Events"
     },
     {
-        "title": "They confirm the existence of ancient roads in the Brazilian Amazon",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/confirman-la-existencia-de-caminos-antiguos-en-la-amazonia-brasilena/",
-        "published_date": "2026-04-20 22:42:02",
+        "title": "The Sierra Nevada took over Santa Marta: farmers from 23 villages of Minca denounce that they are in the middle of the fire in operations against the ACSN",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/la-sierra-nevada-se-tomo-santa-marta-campesinos-de-23-veredas-de-minca-denuncian-que-estan-en-medio-del-fuego-en-operativos-contra-las-acsn-3549747",
+        "published_date": "2026-04-21 16:30:00",
         "category": "Local Events"
     },
     {
-        "title": "The candidates' environmental proposals are in the background",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/las-propuestas-ambientales-de-los-candidatos-estan-en-segundo-plano/",
-        "published_date": "2026-04-20 22:29:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "Iv\u00e1n Cepeda resumes contacts with the senior business community in the campaign",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/ivan-cepeda-retoma-contactos-con-el-alto-empresariado-en-campana/",
-        "published_date": "2026-04-20 22:25:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "62 countries will go to the Conference to eliminate fossil fuels",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/62-paises-iran-a-la-conferencia-para-eliminar-combustibles-fosiles/",
-        "published_date": "2026-04-20 22:22:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "62 countries will go to the Conference to eliminate fossil fuels",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/62-paises-iran-a-la-conferencia-para-eliminar-combustibles-fosiles/",
-        "published_date": "2026-04-20 22:22:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Minister of Health announced that there is a request for integration between Famisanar and Nueva EPS",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/ministro-de-salud-anuncio-que-existe-solicitud-de-integracion-entre-famisanar-y-nueva-eps-4375357",
-        "published_date": "2026-04-20 21:58:03",
+        "title": "The testimonies that led urologist Alberto Posada to prison, accused of sexually abusing women in Medell\u00edn for more than 10 years",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/los-testimonios-que-llevaron-a-prision-al-urologo-alberto-posada-senalado-de-abusar-sexualmente-de-mujeres-en-medellin-por-mas-de-10-anos-3549679",
+        "published_date": "2026-04-21 16:25:59",
         "category": "Local Events"
     }
 ]
