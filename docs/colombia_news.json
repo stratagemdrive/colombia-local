@@ -1,5 +1,12 @@
 [
     {
+        "title": "Gustavo Petro denies relationship with a member of the Executive after controversy over complaints",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/gustavo-petro-niega-relacion-con-integrante-del-ejecutivo-tras-polemica-por-denuncias-4378290",
+        "published_date": "2026-04-23 23:27:55",
+        "category": "Diplomacy"
+    },
+    {
         "title": "UN insists on reinforcing guarantees for the elections in Colombia",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/onu-insiste-en-reforzar-garantias-para-las-elecciones-en-colombia/",
@@ -42,11 +49,39 @@
         "category": "Diplomacy"
     },
     {
-        "title": "During Petro's civic day, the Chancellery will not provide any public service",
+        "title": "Acipet warned that self-sufficiency in crude oil and gas is key to energy security",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/acipet-advirtio-que-autosuficiencia-en-crudo-y-gas-es-clave-para-la-seguridad-energetica-4378257",
+        "published_date": "2026-04-23 23:02:13",
+        "category": "Military"
+    },
+    {
+        "title": "Ministry of Finance warned taxpayers of scams in the collection of property and vehicles",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/secretaria-de-hacienda-alerto-estafas-a-contribuyentes-en-el-cobro-de-predial-y-vehiculos-4378224",
+        "published_date": "2026-04-23 22:49:13",
+        "category": "Military"
+    },
+    {
+        "title": "If she reaches the Presidency, Paloma would start by revoking the peace managers",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/por-dia-civico-de-petro-cancilleria-no-prestara-ningun-servicio-publico/",
-        "published_date": "2026-04-15 20:25:29",
-        "category": "Diplomacy"
+        "url": "https://www.lasillavacia.com/en-vivo/de-llegar-a-la-presidencia-paloma-arrancaria-revocando-a-los-gestores-de-paz/",
+        "published_date": "2026-04-23 22:16:12",
+        "category": "Military"
+    },
+    {
+        "title": "Video |Brutal attack in Itag\u00fc\u00ed: elderly security guard ends up in surgery after being attacked by an observer at the Mobility Secretariat",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/video-brutal-ataque-en-itaguei-vigilante-adulto-mayor-termina-en-cirugia-tras-ser-agredido-por-un-veedor-en-la-secretaria-de-movilidad-3550381",
+        "published_date": "2026-04-23 16:09:52",
+        "category": "Military"
+    },
+    {
+        "title": "The triangulation between Colombian prisons and 'peons' in Santander for homicides and kidnappings: the revealing police report after the death of a woman",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/la-triangulacion-entre-carceles-de-colombia-y-peones-en-santander-para-homicidios-y-secuestros-el-revelador-informe-de-policia-tras-muerte-de-mujer-3550376",
+        "published_date": "2026-04-23 15:28:11",
+        "category": "Military"
     },
     {
         "title": "Shootout between retired police officer and criminals when they tried to rob him while he was in line at the Burger Master in El Poblado, in Medell\u00edn",
@@ -154,39 +189,53 @@
         "category": "Military"
     },
     {
-        "title": "Petro announces lawsuit against Daniel Noboa for accusations of links to drug trafficking",
+        "title": "\u201cColombia's leadership in renewables collides with its energy reality\u201d",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-academica/el-liderazgo-de-colombia-en-renovables-choca-con-su-realidad-energetica/",
+        "published_date": "2026-04-23 21:39:34",
+        "category": "Energy"
+    },
+    {
+        "title": "Chile and Brazil are among the top producers of solar and wind energy",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/chile-y-brasil-estan-en-el-top-de-productores-de-energia-solar-y-eolica/",
+        "published_date": "2026-04-23 21:22:02",
+        "category": "Energy"
+    },
+    {
+        "title": "Government proposes to the Creg to adjust rules so that Air-e ensures more energy",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/petro-anuncia-demanda-contra-noboa-por-calumnia-tras-acusaciones-de-vinculos-con-narcotrafico-4374534",
-        "published_date": "2026-04-19 14:57:38",
-        "category": "Military"
+        "url": "https://www.larepublica.co/economia/gobierno-propone-a-la-creg-ajustar-reglas-para-que-air-e-asegure-mas-energia-4378156",
+        "published_date": "2026-04-23 20:24:59",
+        "category": "Energy"
     },
     {
-        "title": "Government reinforces security measures for presidential formulas",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/gobierno-refuerza-medidas-de-seguridad-para-formulas-presidenciales/",
-        "published_date": "2026-04-18 22:38:19",
-        "category": "Military"
+        "title": "Ecopetrol signs agreement to acquire shareholding in Brava Energ\u00eda",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/ecopetrol-suscribe-acuerdo-para-adquirir-participacion-accionaria-en-brava-energia-4378050",
+        "published_date": "2026-04-23 17:53:28",
+        "category": "Energy"
     },
     {
-        "title": "Noboa rages against Petro and prefers Abelardo or Paloma to win",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/noboa-arrecia-contra-petro-y-prefiere-que-ganen-abelardo-o-paloma/",
-        "published_date": "2026-04-18 18:33:14",
-        "category": "Military"
-    },
-    {
-        "title": "Take note: these are the critical mobility points and road closures in Medell\u00edn for this Saturday and Sunday",
+        "title": "Government proposes to adjust regulations so that Air-e contracts more energy due to the risk of the El Ni\u00f1o phenomenon: they ask to review contracting rules",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/tome-nota-estos-son-los-puntos-criticos-de-movilidad-y-cierres-viales-en-medellin-para-este-sabado-y-domingo-3549002",
-        "published_date": "2026-04-18 16:55:33",
-        "category": "Military"
+        "url": "https://www.eltiempo.com/colombia/barranquilla/gobierno-propone-ajustar-regulacion-para-que-air-e-contrate-mas-energia-ante-riesgo-de-fenomeno-de-el-nino-piden-revisar-reglas-de-contratacion-3550383",
+        "published_date": "2026-04-23 15:40:10",
+        "category": "Energy"
     },
     {
-        "title": "Parents would have given their daughter to a 'gota a gota' as a guarantee of payment in Sabanalarga and the minor was returned pregnant: mayor exposed the case",
+        "title": "They thought he had died from an overdose, but an autopsy revealed a cruel murder in Antioquia",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/horror-en-sabanalarga-padres-habrian-entregado-a-su-hija-a-un-gota-a-gota-como-garantia-de-pago-la-menor-fue-devuelta-embarazada-3548941",
-        "published_date": "2026-04-18 10:32:39",
-        "category": "Military"
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/pensaron-que-habia-muerto-por-sobredosis-pero-necropsia-revelo-cruel-asesinato-en-antioquia-3550357",
+        "published_date": "2026-04-23 14:55:43",
+        "category": "Energy"
+    },
+    {
+        "title": "National Mining Agency launches platform for real-time tracking of gold",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/agencia-nacional-de-mineria-lanza-plataforma-para-el-rastreo-en-tiempo-real-del-oro-4377760",
+        "published_date": "2026-04-23 13:28:53",
+        "category": "Energy"
     },
     {
         "title": "Ministry of Mines bets on 15-year energy contracts starting in 2030",
@@ -280,53 +329,18 @@
         "category": "Energy"
     },
     {
-        "title": "The teaching health model: the \u201cpilot\u201d that was left without a pilot",
+        "title": "Economic dependence: Colombia's challenge in abandoning fossils",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/el-modelo-de-salud-del-magisterio-el-piloto-que-se-quedo-sin-piloto/",
-        "published_date": "2026-04-18 05:05:00",
-        "category": "Energy"
+        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/dependencia-economica-el-reto-de-colombia-al-dejar-los-fosiles/",
+        "published_date": "2026-04-23 22:16:39",
+        "category": "Economy"
     },
     {
-        "title": "Ecopetrol will develop three regasification projects over the next three years",
+        "title": "Petro attacks Carrasquilla and points out that he 'gets richer' with a rate increase",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/ecopetrol-desarrollara-tres-proyectos-de-regasificacion-durante-los-proximos-tres-anos-4373706",
-        "published_date": "2026-04-17 20:02:19",
-        "category": "Energy"
-    },
-    {
-        "title": "Carolina Arbel\u00e1ez, from the Vargasllerista wing, joins Paloma's campaign",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/carolina-arbelaez-del-ala-vargasllerista-se-suma-a-la-campana-de-paloma/",
-        "published_date": "2026-04-17 18:59:45",
-        "category": "Energy"
-    },
-    {
-        "title": "Petro affirmed that energy rates in the Caribbean rose during the Uribe and Duque governments",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/petro-afirmo-que-tarifas-de-energia-en-el-caribe-subieron-en-gobiernos-de-uribe-y-duque-4373636",
-        "published_date": "2026-04-17 18:43:50",
-        "category": "Energy"
-    },
-    {
-        "title": "Regions propose: From the Caribbean they propose that the State contribute 50 percent of the debt of users for energy services",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/regiones-proponen-desde-el-caribe-plantean-que-el-estado-aporte-el-50-por-ciento-de-la-deuda-de-usuarios-por-servicio-de-energia-3548773",
-        "published_date": "2026-04-17 16:26:42",
-        "category": "Energy"
-    },
-    {
-        "title": "Gasoline shipment grew 3.29% until March accompanied by price adjustment",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/despacho-de-gasolina-crecio-3-29-hasta-marzo-acompanado-del-ajuste-de-precios-4373070",
-        "published_date": "2026-04-16 23:16:14",
-        "category": "Energy"
-    },
-    {
-        "title": "Abelardo spent $387 million on flights during signature collection",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/abelardo-gasto-387-millones-en-vuelos-durante-recoleccion-de-firmas/",
-        "published_date": "2026-04-16 21:51:40",
-        "category": "Energy"
+        "url": "https://www.larepublica.co/economia/petro-arremete-contra-carrasquilla-y-senala-que-se-hace-mas-rico-con-subida-de-tasa-4377784",
+        "published_date": "2026-04-23 13:55:23",
+        "category": "Economy"
     },
     {
         "title": "The back-and-forth between Villar and \u00c1vila continues given the recent adjustments in monetary policy",
@@ -413,157 +427,143 @@
         "category": "Economy"
     },
     {
-        "title": "Dian confirmed that he will adopt measures to return emergency resources",
+        "title": "In Pereira, Cepeda attacks Paloma Valencia and the media",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/en-pereira-cepeda-ataca-a-paloma-valencia-y-a-medios-de-comunicacion/",
+        "published_date": "2026-04-23 23:30:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "The urgency of a gradual license for rookies in Colombia",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-cachaca/la-urgencia-de-licencia-gradual-para-novatos-en-colombia/",
+        "published_date": "2026-04-23 23:06:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Government delivers land in Magdalena Medio and announces subsidies for fertilizers",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/dian-confirmo-que-adoptara-medidas-para-devolucion-de-recursos-de-la-emergencia-4372272",
-        "published_date": "2026-04-15 23:44:53",
-        "category": "Economy"
+        "url": "https://www.larepublica.co/economia/gobierno-entrega-tierras-en-el-magdalena-medio-y-anuncia-subsidios-a-los-fertilizantes-4378232",
+        "published_date": "2026-04-23 22:55:11",
+        "category": "Local Events"
     },
     {
-        "title": "Short-term securities rate was 13.3% in the last auction",
+        "title": "Claudia L\u00f3pez's proposals for the Amazon at the La Silla microphone",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/las-propuestas-de-claudia-lopez-para-la-amazonia-en-el-microfono-de-la-silla/",
+        "published_date": "2026-04-23 21:53:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "Uribe case in Argentina: limits and scope of universal jurisdiction",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/caso-uribe-en-argentina-limites-y-alcances-de-la-jurisdiccion-universal/",
+        "published_date": "2026-04-23 21:19:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "Wadith Manzur resigned from the House Impeachment Commission",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/wadith-manzur-renuncio-a-la-comision-de-acusaciones-de-la-camara/",
+        "published_date": "2026-04-23 20:57:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "Women and books: path to equity in literature",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-las-mujeres/las-mujeres-y-los-libros-camino-a-la-equidad-en-la-literatura/",
+        "published_date": "2026-04-23 20:08:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "Coviandes explained that recovery is missing at km 58 for the operation of the Chirajara bridge",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/tasa-de-los-titulos-de-corto-plazo-se-ubico-en-13-3-en-la-ultima-subasta-del-minhacienda-4371692",
-        "published_date": "2026-04-15 13:49:51",
-        "category": "Economy"
-    },
-    {
-        "title": "Paloma in the shadows of Uribe: some recognition, a lot of denial",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/paloma-ante-las-sombras-de-uribe-algo-de-reconocimiento-mucha-negacion/",
-        "published_date": "2026-04-23 07:43:00",
+        "url": "https://www.larepublica.co/economia/coviandes-explico-que-falta-recuperacion-en-km-58-para-la-operacion-del-puente-chirajara-4378126",
+        "published_date": "2026-04-23 19:13:23",
         "category": "Local Events"
     },
     {
-        "title": "The challenges with which the Ministry of Equality and Equity ends",
+        "title": "'We wanted to know his last words': the painful face to face over the La Resbalosa massacre, which occurred more than 20 years ago in Urab\u00e1, Antioquia",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/los-desafios-con-los-que-termina-el-ministerio-de-igualdad-y-equidad-3549282",
-        "published_date": "2026-04-23 06:01:00",
+        "url": "https://www.eltiempo.com/colombia/medellin/queriamos-saber-sus-ultimas-palabras-el-doloroso-cara-a-cara-por-la-masacre-de-la-resbalosa-ocurrida-hace-mas-de-20-anos-en-el-uraba-antioqueno-3550428",
+        "published_date": "2026-04-23 18:31:31",
         "category": "Local Events"
     },
     {
-        "title": "A greater demand for meat increased the price per kilo until it reached $31,800",
+        "title": "The Retail of the Future 2026 closes, but leaves a commitment without an expiration date: to strengthen Colombian commerce against the consumer of the future",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/el-retail-del-futuro-2026-cierra-pero-deja-compromiso-sin-fecha-de-vencimiento-fortalecer-el-comercio-colombiano-frente-al-consumidor-del-futuro-3550431",
+        "published_date": "2026-04-23 18:15:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "Adres denies debt of $612,000 million with health providers after Achc report",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/una-mayor-demanda-de-carne-incremento-el-precio-del-kilo-hasta-llegar-a-31-800-4377520",
-        "published_date": "2026-04-23 05:00:57",
+        "url": "https://www.larepublica.co/economia/adres-niega-deuda-de-612-000-millones-con-prestadores-de-salud-tras-informe-de-achc-4378000",
+        "published_date": "2026-04-23 18:02:57",
         "category": "Local Events"
     },
     {
-        "title": "Leonardo Villar said that raising intervention rates harms the financial sector",
+        "title": "The university promised by Mineducaci\u00f3n para el Atl\u00e1ntico is an empty lot three months after laying the first stone",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/que-pasa-con-la-sede-de-la-universidad-del-atlantico-en-soledad-que-no-muestra-avances-visibles-pese-al-plan-anunciado-en-enero-asi-se-ve-la-obra-3550423",
+        "published_date": "2026-04-23 17:40:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Works to mitigate floods in La Mojana have been completed, according to director of the UNGRD, but communities say that water continues to enter through the 'cat's face'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/obras-para-mitigar-inundaciones-en-la-mojana-culminaron-segun-director-de-la-ungrd-pero-comunidades-dicen-que-sigue-entrando-agua-por-cara-de-gato-3550397",
+        "published_date": "2026-04-23 17:29:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "The subject accused of killing the dog 'Kira' in Bucaramanga was sent to a prison center, an event that was recorded on video and has caused commotion",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/a-centro-carcelario-enviaron-a-sujeto-senalado-de-matar-a-la-perrita-kira-en-bucaramanga-hecho-que-quedo-grabado-en-video-y-ha-causado-conmocion-3550391",
+        "published_date": "2026-04-23 17:18:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "OEI and Asocapitales signed a memorandum of understanding to promote sustainability",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/leonardo-villar-dijo-que-subir-las-tasas-de-intervencion-perjudica-al-sector-financiero-4377499",
-        "published_date": "2026-04-23 05:00:47",
+        "url": "https://www.larepublica.co/economia/oei-y-asocapitales-firmaron-memorando-de-entendimiento-para-impulsar-la-sostenibilidad-4377990",
+        "published_date": "2026-04-23 17:07:01",
         "category": "Local Events"
     },
     {
-        "title": "Tremor today in Colombia |They report an earthquake in the early morning of this April 23;epicenter, magnitude and depth",
+        "title": "Nearly $26,000 million collected, but unresolved gaps: the contradiction that questions the photomulta model in Cali",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/temblor-hoy-en-colombia-reportan-sismo-en-la-madrugada-de-este-23-de-abril-epicentro-magnitud-y-profundidad-3550177",
-        "published_date": "2026-04-23 03:55:00",
+        "url": "https://www.eltiempo.com/colombia/cali/cerca-de-26-000-millones-recaudados-pero-huecos-sin-arreglar-la-contradiccion-que-cuestiona-el-modelo-de-fotomultas-en-cali-3550395",
+        "published_date": "2026-04-23 16:25:13",
         "category": "Local Events"
     },
     {
-        "title": "At least 51 Americans have been denied admission to Colombia due to signs of sexual tourism: 'Inconsistencies were evident,' according to Migration",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/al-menos-51-estadounidenses-han-sido-inadmitidos-en-colombia-por-indicios-de-turismo-sexual-se-evidenciaron-inconsistencias-segun-migracion-3550176",
-        "published_date": "2026-04-23 02:45:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Be careful, driver!Peak and plaque in Bucaramanga for Thursday, April 23, 2026",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/ojo-conductor-pico-y-placa-en-bucaramanga-para-el-jueves-23-de-abril-de-3550147",
-        "published_date": "2026-04-23 02:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Be careful, driver!Peak and plate in Pereira for Thursday, April 23, 2026",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/tenga-cuidado-conductor-pico-y-placa-en-pereira-para-el-jueves-23-de-abril-de-3550145",
-        "published_date": "2026-04-23 02:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "This will be the peak and plate in Cali for Thursday, April 23, 2026",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/asi-sera-el-pico-y-placa-en-cali-para-el-jueves-23-de-abril-de-3550141",
-        "published_date": "2026-04-23 02:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Petro attacks former Minister Carrasquilla amid controversy over rates",
+        "title": "MinMinas prepares a surcharge of $8/kwH for upper strata due to the Air-e financial crisis",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/petro-arremete-en-contra-de-exministro-carrasquilla-en-medio-de-polemica-por-el-alza-de-las-tasas-4377538",
-        "published_date": "2026-04-23 01:00:39",
+        "url": "https://www.larepublica.co/economia/minminas-alista-sobretasa-de-8-kwh-a-estratos-altos-por-la-crisis-financiera-de-air-e-4377859",
+        "published_date": "2026-04-23 14:52:27",
         "category": "Local Events"
     },
     {
-        "title": "Sleep informed with the movements of this April 22, 2026",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-movidas-de-este-22-de-abril-de-2026/",
-        "published_date": "2026-04-23 00:18:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Seven out of ten travel agencies reported growth in sales",
+        "title": "OECD's Eighth Circular Economy Roundtable will meet for the first time in Ibagu\u00e9",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/siete-de-cada-diez-agencias-de-viaje-reportaron-un-crecimiento-en-ventas-hasta-marzo-4377160",
-        "published_date": "2026-04-23 00:15:13",
+        "url": "https://www.larepublica.co/economia/octava-mesa-de-economia-circular-de-la-ocde-sesionara-por-primera-vez-en-ibague-4377795",
+        "published_date": "2026-04-23 13:57:07",
         "category": "Local Events"
     },
     {
-        "title": "Viral: Chilean tourists denounce in video the harassment of informal vendors on the beaches of Bocagrande",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/viral-turistas-chilenos-denuncian-en-video-el-acoso-de-vendedores-informales-en-las-playas-de-bocagrande-3550167",
-        "published_date": "2026-04-23 00:01:00",
+        "title": "Public sector displaces agriculture and industry, and is now the second largest employer",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/sector-publico-desplaza-al-agro-y-la-industria-y-ahora-es-el-segundo-mayor-empleador-4377695",
+        "published_date": "2026-04-23 13:44:44",
         "category": "Local Events"
     },
     {
-        "title": "Court ratifies Congress' jurisdiction to investigate Petro for caps",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/corte-ratifica-competencia-del-congreso-para-investigar-a-petro-por-topes/",
-        "published_date": "2026-04-22 23:58:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tune in to our third open mic with candidates",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/conectese-a-nuestro-tercer-microfono-abierto-con-candidatos/",
-        "published_date": "2026-04-22 23:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "List the agenda of the summit against fossil fuels in Santa Marta",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/lista-la-agenda-de-la-cumbre-contra-combustibles-fosiles-en-santa-marta/",
-        "published_date": "2026-04-22 22:51:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "The invisible ecocide of the armed conflict in Colombia",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-verde/el-ecocidio-invisible-del-conflicto-armado-en-colombia/",
-        "published_date": "2026-04-22 22:35:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "From Cepeda to the right they ask to investigate complaints by Angie Rodr\u00edguez",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/desde-cepeda-hasta-la-derecha-piden-investigar-denuncias-de-angie-rodriguez/",
-        "published_date": "2026-04-22 22:33:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "Colombia needs a multilateral and participatory foreign policy",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/colombia-ante-la-necesidad-de-una-politica-exterior-incluyente-multilateral-y-participativa/",
-        "published_date": "2026-04-22 22:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Former Gustavo Bol\u00edvar officials rushed to deliver $33 billion to a \u201ccontractor\u201d",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/exfuncionarias-de-gustavo-bolivar-corrieron-para-entregar-33-mil-millones-a-un-contratadero/",
-        "published_date": "2026-04-22 21:26:32",
+        "title": "Proportion of Colombians with their own home reached a minimum of 34.8%",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/proporcion-de-colombianos-con-vivienda-propia-alcanzo-minimos-en-2025-con-34-8-4377653",
+        "published_date": "2026-04-23 12:37:35",
         "category": "Local Events"
     }
 ]
