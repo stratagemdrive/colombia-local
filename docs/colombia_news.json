@@ -49,6 +49,20 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Shootout between retired police officer and criminals when they tried to rob him while he was in line at the Burger Master in El Poblado, in Medell\u00edn",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/balacera-entre-policia-retirado-y-delincuentes-cuando-intentaron-robarlo-mientras-se-encontraba-en-fila-del-burger-master-en-el-poblado-en-medellin-3550174",
+        "published_date": "2026-04-23 06:18:31",
+        "category": "Military"
+    },
+    {
+        "title": "What is behind the departure of General Triana as Director of the Police?This is what Mayor Federico Guti\u00e9rrez said after Angie Rodr\u00edguez's accusation",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/que-hay-detras-de-la-salida-del-general-triana-como-director-de-la-policia-esto-dijo-alcalde-federico-gutierrez-tras-senalamiento-de-angie-rodriguez-3550131",
+        "published_date": "2026-04-22 21:12:31",
+        "category": "Military"
+    },
+    {
         "title": "The 'war' for control of Brice\u00f1o: the panorama experienced in the North of Antioquia in the midst of clashes between armed groups and the Army",
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/medellin/la-guerra-por-el-control-de-briceno-el-panorama-que-se-vive-en-el-norte-de-antioquia-en-medio-de-enfrentamientos-entre-grupos-armados-y-ejercito-3549717",
@@ -175,18 +189,18 @@
         "category": "Military"
     },
     {
-        "title": "Uribe points out the ELN for an alleged plan to attack Paloma Valencia",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/uribe-senala-al-eln-por-supuesto-plan-para-atentar-contra-paloma-valencia/",
-        "published_date": "2026-04-17 22:18:06",
-        "category": "Military"
+        "title": "Ministry of Mines bets on 15-year energy contracts starting in 2030",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/ministerio-de-minas-apuesta-por-contratos-de-energia-a-15-anos-a-partir-de-2030-4377334",
+        "published_date": "2026-04-23 05:04:27",
+        "category": "Energy"
     },
     {
-        "title": "Vigilante shot a 17-year-old minor in the exclusive area of \u200b\u200bCartagena: authorities verify the facts and state of health of the injured teenager",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/ultima-hora-vigilante-le-disparo-a-un-menor-de-edad-en-exclusiva-zona-de-cartagena-3548877",
-        "published_date": "2026-04-17 21:50:00",
-        "category": "Military"
+        "title": "The El Ni\u00f1o phenomenon has not arrived but the price of energy has already started to rise",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/el-fenomeno-de-el-nino-no-ha-llegado-pero-el-precio-de-la-energia-ya-empezo-a-subir-4376687",
+        "published_date": "2026-04-23 05:03:19",
+        "category": "Energy"
     },
     {
         "title": "ANI advances visits to advance with permits for regasification from Puerto Bah\u00eda",
@@ -315,20 +329,6 @@
         "category": "Energy"
     },
     {
-        "title": "Hurtado confirms board meeting but rules out extraordinary Ecopetrol meeting",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/hurtado-confirma-reunion-de-junta-de-ecopetrol-pero-descarta-asamblea-extraordinaria-4372813",
-        "published_date": "2026-04-16 17:23:55",
-        "category": "Energy"
-    },
-    {
-        "title": "Industrial production came out of negative territory and registered a variation of 0.0% in February",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/produccion-industrial-salio-de-terreno-negativo-y-registro-variacion-de-0-0-en-febrero-4372750",
-        "published_date": "2026-04-16 16:39:56",
-        "category": "Energy"
-    },
-    {
         "title": "The back-and-forth between Villar and \u00c1vila continues given the recent adjustments in monetary policy",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/continua-el-vaiven-entre-leonardo-villar-y-german-avila-por-aumento-de-la-tasa-de-interes-4376980",
@@ -427,6 +427,104 @@
         "category": "Economy"
     },
     {
+        "title": "Paloma in the shadows of Uribe: some recognition, a lot of denial",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/paloma-ante-las-sombras-de-uribe-algo-de-reconocimiento-mucha-negacion/",
+        "published_date": "2026-04-23 07:43:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The challenges with which the Ministry of Equality and Equity ends",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/los-desafios-con-los-que-termina-el-ministerio-de-igualdad-y-equidad-3549282",
+        "published_date": "2026-04-23 06:01:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "A greater demand for meat increased the price per kilo until it reached $31,800",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/una-mayor-demanda-de-carne-incremento-el-precio-del-kilo-hasta-llegar-a-31-800-4377520",
+        "published_date": "2026-04-23 05:00:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "Leonardo Villar said that raising intervention rates harms the financial sector",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/leonardo-villar-dijo-que-subir-las-tasas-de-intervencion-perjudica-al-sector-financiero-4377499",
+        "published_date": "2026-04-23 05:00:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tremor today in Colombia |They report an earthquake in the early morning of this April 23;epicenter, magnitude and depth",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/temblor-hoy-en-colombia-reportan-sismo-en-la-madrugada-de-este-23-de-abril-epicentro-magnitud-y-profundidad-3550177",
+        "published_date": "2026-04-23 03:55:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "At least 51 Americans have been denied admission to Colombia due to signs of sexual tourism: 'Inconsistencies were evident,' according to Migration",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/al-menos-51-estadounidenses-han-sido-inadmitidos-en-colombia-por-indicios-de-turismo-sexual-se-evidenciaron-inconsistencias-segun-migracion-3550176",
+        "published_date": "2026-04-23 02:45:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Be careful, driver!Peak and plaque in Bucaramanga for Thursday, April 23, 2026",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/ojo-conductor-pico-y-placa-en-bucaramanga-para-el-jueves-23-de-abril-de-3550147",
+        "published_date": "2026-04-23 02:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Be careful, driver!Peak and plate in Pereira for Thursday, April 23, 2026",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/tenga-cuidado-conductor-pico-y-placa-en-pereira-para-el-jueves-23-de-abril-de-3550145",
+        "published_date": "2026-04-23 02:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "This will be the peak and plate in Cali for Thursday, April 23, 2026",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/asi-sera-el-pico-y-placa-en-cali-para-el-jueves-23-de-abril-de-3550141",
+        "published_date": "2026-04-23 02:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Petro attacks former Minister Carrasquilla amid controversy over rates",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/petro-arremete-en-contra-de-exministro-carrasquilla-en-medio-de-polemica-por-el-alza-de-las-tasas-4377538",
+        "published_date": "2026-04-23 01:00:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Sleep informed with the movements of this April 22, 2026",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-movidas-de-este-22-de-abril-de-2026/",
+        "published_date": "2026-04-23 00:18:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Seven out of ten travel agencies reported growth in sales",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/siete-de-cada-diez-agencias-de-viaje-reportaron-un-crecimiento-en-ventas-hasta-marzo-4377160",
+        "published_date": "2026-04-23 00:15:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "Viral: Chilean tourists denounce in video the harassment of informal vendors on the beaches of Bocagrande",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/viral-turistas-chilenos-denuncian-en-video-el-acoso-de-vendedores-informales-en-las-playas-de-bocagrande-3550167",
+        "published_date": "2026-04-23 00:01:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Court ratifies Congress' jurisdiction to investigate Petro for caps",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/corte-ratifica-competencia-del-congreso-para-investigar-a-petro-por-topes/",
+        "published_date": "2026-04-22 23:58:58",
+        "category": "Local Events"
+    },
+    {
         "title": "Tune in to our third open mic with candidates",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/conectese-a-nuestro-tercer-microfono-abierto-con-candidatos/",
@@ -466,104 +564,6 @@
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/silla-nacional/exfuncionarias-de-gustavo-bolivar-corrieron-para-entregar-33-mil-millones-a-un-contratadero/",
         "published_date": "2026-04-22 21:26:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Democracy under tension: manual to avoid falling into the trap of authoritarian language",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-democracia-y-tecnologia/democracia-bajo-tension-manual-para-no-caer-en-la-trampa-del-lenguaje-autoritario/",
-        "published_date": "2026-04-22 21:21:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cI have never violated the law\u201d: De la Espriella after new photos with \u201cBoliche\u201d",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/jamas-he-violado-la-ley-de-la-espriella-tras-nuevas-fotos-con-boliche/",
-        "published_date": "2026-04-22 21:21:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "The capitalization of the New EPS will include an initial injection of $2 billion",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/la-capitalizacion-de-la-nueva-eps-incluira-una-inyeccion-inicial-por-un-monto-de-2-billones-4377145",
-        "published_date": "2026-04-22 20:36:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Multipurpose Cadastre, more than a fiscal measure, is a policy",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-rural/el-catastro-multiproposito-mas-que-una-medida-fiscal-es-politica/",
-        "published_date": "2026-04-22 20:35:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "JEP orders the creation of memory spaces for the takeover of the Palace of Justice",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/jep-ordena-crear-espacios-de-memoria-por-toma-de-palacio-de-justicia/",
-        "published_date": "2026-04-22 20:00:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Beyond mass euthanasia: the three routes that Antioquia proposes to save and control hippos",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/mas-alla-de-la-eutanasia-masiva-las-tres-rutas-que-propone-antioquia-para-salvar-y-controlar-a-los-hipopotamos-3550111",
-        "published_date": "2026-04-22 18:35:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "Maximum alert in Antioquia: the department leads the numbers of massacres and murders of social leaders in the first quarter of 2026",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/alerta-maxima-en-antioquia-el-departamento-lidera-las-cifras-de-masacres-y-asesinatos-de-lideres-sociales-en-el-primer-trimestre-de-3550096",
-        "published_date": "2026-04-22 17:50:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "Barranquilla-Ci\u00e9naga dual carriageway: the $2.7 billion, 50-kilometer mega-project begins;The social challenge is to relocate 500 families in Tasajera",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/doble-calzada-barranquilla-cienaga-inicia-la-megaobra-de-2-7-billones-y-50-kilometros-el-reto-social-es-reubicar-a-500-familias-en-tasajera-3550082",
-        "published_date": "2026-04-22 17:48:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "This is the virtual shopping center for entrepreneurs with which the Valley takes a digital leap: the platform was presented at Retail of the Future",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/asi-es-el-centro-comercial-virtual-para-emprendedores-con-el-que-el-valle-da-un-salto-digital-la-plataforma-fue-presentada-en-retail-del-futuro-3550087",
-        "published_date": "2026-04-22 17:30:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ibagu\u00e9 prepares the first circular economy free zone in Latin America: they promise 2,000 green jobs and investment from Portugal, Italy and China",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/ibague-alista-primera-zona-franca-de-economia-circular-de-america-latina-prometen-2-000-empleos-verdes-e-inversion-de-portugal-italia-y-china-3550094",
-        "published_date": "2026-04-22 17:25:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Serious complaint in Sincelejo: salaries of 20 regular teachers would make up 35% of the budget of the University of Sucre;there is indefinite unemployment",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/grave-denuncia-en-sincelejo-sueldos-de-20-docentes-de-planta-conformarian-el-35-del-presupuesto-de-la-universidad-de-sucre-hay-paro-indefinido-3550074",
-        "published_date": "2026-04-22 16:55:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The peaceful rebellion of scientists in the Valley: they fear for the stability of agricultural research in the department and in the country",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/la-rebelion-pacifica-de-cientificos-en-el-valle-temen-por-la-estabilidad-de-la-investigacion-agropecuaria-en-el-departamento-y-en-el-pais-3550073",
-        "published_date": "2026-04-22 16:45:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Barranquilla launches the first Doctorate in Artificial Intelligence in the Caribbean: Unisim\u00f3n is committed to applied research and productive development",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-estrena-el-primer-doctorado-en-inteligencia-artificial-del-caribe-unisimon-apuesta-por-investigacion-aplicada-y-desarrollo-productivo-3550071",
-        "published_date": "2026-04-22 16:32:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "'What happened in Cali is a tragedy': Mayor Alejandro Eder asks for urgent answers for the death of Juan David Ruiz, promise of skating",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/lo-que-ha-pasado-en-cali-es-una-tragedia-alcalde-alejandro-eder-pide-respuestas-urgentes-por-la-muerte-de-juan-david-ruiz-promesa-del-patinaje-3550047",
-        "published_date": "2026-04-22 15:49:26",
         "category": "Local Events"
     }
 ]
