@@ -70,6 +70,13 @@
         "category": "Military"
     },
     {
+        "title": "Jamund\u00ed mourns the murder of 4 of his young people",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/jamundi-llora-el-asesinato-de-4-de-sus-jovenes-3550471",
+        "published_date": "2026-04-23 20:46:53",
+        "category": "Military"
+    },
+    {
         "title": "Video |Brutal attack in Itag\u00fc\u00ed: elderly security guard ends up in surgery after being attacked by an observer at the Mobility Secretariat",
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/medellin/video-brutal-ataque-en-itaguei-vigilante-adulto-mayor-termina-en-cirugia-tras-ser-agredido-por-un-veedor-en-la-secretaria-de-movilidad-3550381",
@@ -182,11 +189,32 @@
         "category": "Military"
     },
     {
-        "title": "Restriction of grillers, millionaire rewards and captures of the 'most wanted': actions to recover security in Eastern Antioquia",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/restriccion-de-parrillero-millonarias-recompensas-y-capturas-de-los-mas-buscados-las-acciones-para-recuperar-la-seguridad-en-el-oriente-antioqueno-3549133",
-        "published_date": "2026-04-19 16:53:38",
-        "category": "Military"
+        "title": "Moody's Ratings downgraded the credit rating of the state-owned Ecopetrol from Ba1 to Ba2",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/moody-s-ratings-rebajo-la-calificacion-crediticia-de-la-estatal-ecopetrol-de-ba1-a-ba2-4378595",
+        "published_date": "2026-04-24 11:29:06",
+        "category": "Energy"
+    },
+    {
+        "title": "\u201cColombia can become a great clean energy hub for all of Latin America\u201d",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/edwin-palma-ministro-de-energia-hablo-acerca-de-la-transicion-energetica-4378342",
+        "published_date": "2026-04-24 05:01:55",
+        "category": "Energy"
+    },
+    {
+        "title": "Strata 4, 5 and 6 will have a more expensive energy bill due to a new surcharge",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/los-estratos-4-5-y-6-tendran-un-recibo-de-energia-mas-caro-por-una-nueva-sobretasa-4378441",
+        "published_date": "2026-04-24 05:01:16",
+        "category": "Energy"
+    },
+    {
+        "title": "Faced with the financial crisis of Air-e, the Minister of Energy defended his management in the Caribbean",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/ante-crisis-financiera-de-air-e-el-ministro-de-energia-defendio-su-gestion-en-el-caribe-4378387",
+        "published_date": "2026-04-24 00:28:05",
+        "category": "Energy"
     },
     {
         "title": "\u201cColombia's leadership in renewables collides with its energy reality\u201d",
@@ -301,32 +329,11 @@
         "category": "Energy"
     },
     {
-        "title": "'There is a new scenario of exploitation': leaders of Cali townships denounce the threat to drinking water due to illegal mining in the Farallones",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/si-no-actuamos-hoy-manana-sera-tarde-lideres-de-corregimientos-de-cali-denuncian-amenaza-al-agua-potable-por-mineria-ilegal-en-farallones-3549198",
-        "published_date": "2026-04-20 02:22:15",
-        "category": "Energy"
-    },
-    {
-        "title": "USO proposes salary increases and new conditions in the midst of the Ecopetrol crisis",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/uso-plantea-aumentos-salariales-y-nuevas-condiciones-en-plena-crisis-de-ecopetrol-4374681",
-        "published_date": "2026-04-19 22:35:13",
-        "category": "Energy"
-    },
-    {
-        "title": "Channel with \u201cPitufo\u201d would have started in a meeting between his lawyer and Petro",
+        "title": "Wife of MinHacienda would arrive at Caja Honor, which manages billions in Defense",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/canal-con-pitufo-habria-comenzado-en-reunion-entre-su-abogado-y-petro/",
-        "published_date": "2026-04-19 19:33:10",
-        "category": "Energy"
-    },
-    {
-        "title": "Minambiente announced a shock plan against illegal mining in the Farallones of Cali",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/minambiente-anuncio-plan-de-choque-contra-mineria-ilegal-en-los-farallones-de-cali-4374296",
-        "published_date": "2026-04-18 17:20:45",
-        "category": "Energy"
+        "url": "https://www.lasillavacia.com/en-vivo/esposa-de-minhacienda-llegaria-a-caja-honor-que-maneja-billones-en-defensa/",
+        "published_date": "2026-04-24 00:15:00",
+        "category": "Economy"
     },
     {
         "title": "Economic dependence: Colombia's challenge in abandoning fossils",
@@ -427,10 +434,129 @@
         "category": "Economy"
     },
     {
+        "title": "The magnifying glass on the candidates' proposals",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/la-lupa-a-las-propuestas-de-los-candidatos/",
+        "published_date": "2026-04-24 11:57:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "OECD warned that it is time to act in the transition to the circular economy",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/ocde-advirtio-que-es-momento-de-empezar-a-actuar-en-la-transicion-hacia-la-economia-circular-4378542",
+        "published_date": "2026-04-24 10:15:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "Without internal consensus, Colombia leads first global anti-fossil discussion",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-amazonia/sin-consenso-interno-colombia-lidera-primera-discusion-global-antifosiles/",
+        "published_date": "2026-04-24 08:08:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "Young man woke up two days after being drugged with scopolamine by a stranger in Medell\u00edn;I had planned appointment by app: 'I lost track'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/joven-desperto-dos-dias-despues-de-ser-drogado-con-escopolamina-por-un-desconocido-en-medellin-habia-planeado-cita-por-aplicacion-perdi-la-nocion-3550513",
+        "published_date": "2026-04-24 06:20:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "Dialogues with gangs in Barranquilla: experts warn of stagnation and risks;official roadmap defends progress and community work",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/dialogos-con-bandas-en-barranquilla-expertos-advierten-estancamiento-y-riesgos-hoja-de-ruta-oficial-defiende-avances-y-trabajo-comunitario-3550467",
+        "published_date": "2026-04-24 06:01:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "In the middle of the Petro - Rodr\u00edguez meeting, trade with Venezuela grew 600%",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/en-medio-de-reunion-petro-rodriguez-comercio-con-venezuela-crecio-600-en-tres-anos-4378311",
+        "published_date": "2026-04-24 05:01:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "Only 34.8% of the population has their own home, according to the Dane Quality of Life Survey",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/solo-34-8-de-la-poblacion-tiene-vivienda-propia-segun-encuesta-de-calidad-de-vida-4378448",
+        "published_date": "2026-04-24 05:01:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mourning in Palmira for the death of Edward Santos, renowned bodybuilding champion, trainer and DJ",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/luto-en-palmira-por-el-fallecimiento-de-edward-santos-reconocido-campeon-de-culturismo-entrenador-y-dj-3550508",
+        "published_date": "2026-04-24 04:11:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "Drive carefully!Peak and plaque in Bucaramanga for Friday, April 24, 2026",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/conduzca-con-cuidado-pico-y-placa-en-bucaramanga-para-el-viernes-24-de-abril-de-3550489",
+        "published_date": "2026-04-24 02:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Be careful, driver!Peak and plate in Pereira for Friday, April 24, 2026",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/cuidado-conductor-pico-y-placa-en-pereira-para-el-viernes-24-de-abril-de-3550487",
+        "published_date": "2026-04-24 02:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Avoid fines: peak and plate in Medell\u00edn for Friday, April 24, 2026",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/evite-multas-pico-y-placa-en-medellin-para-el-viernes-24-de-abril-de-3550484",
+        "published_date": "2026-04-24 02:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "This will be the peak and plate in Cali for Friday, April 24, 2026",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/asi-sera-el-pico-y-placa-en-cali-para-el-viernes-24-de-abril-de-3550482",
+        "published_date": "2026-04-24 02:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Detector: the appointment of Daniel Quintero in Supersalud has not been dropped",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/detector-no-se-ha-caido-el-nombramiento-de-daniel-quintero-en-la-supersalud/",
+        "published_date": "2026-04-24 02:00:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "The new director of the San Juan de Dios Hospital was made official via decree",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/via-decreto-se-oficializo-al-nuevo-director-del-hospital-san-juan-de-dios-y-materno-infantil-4378442",
+        "published_date": "2026-04-24 01:28:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Sleep informed with the movements of this April 23, 2026",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-movidas-de-este-23-de-abril-de-2026/",
+        "published_date": "2026-04-24 00:17:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "Attention: massacre in C\u00facuta leaves three dead after armed attack inside a home",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/atencion-masacre-en-cucuta-deja-tres-muertos-tras-ataque-armado-dentro-de-una-vivienda-3550493",
+        "published_date": "2026-04-23 23:58:15",
+        "category": "Local Events"
+    },
+    {
         "title": "In Pereira, Cepeda attacks Paloma Valencia and the media",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/en-pereira-cepeda-ataca-a-paloma-valencia-y-a-medios-de-comunicacion/",
         "published_date": "2026-04-23 23:30:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "The urgency of a gradual license for rookies in Colombia",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/la-urgencia-de-licencia-gradual-para-novatos-en-colombia/",
+        "published_date": "2026-04-23 23:06:47",
         "category": "Local Events"
     },
     {
@@ -445,125 +571,6 @@
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/gobierno-entrega-tierras-en-el-magdalena-medio-y-anuncia-subsidios-a-los-fertilizantes-4378232",
         "published_date": "2026-04-23 22:55:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "Claudia L\u00f3pez's proposals for the Amazon at the La Silla microphone",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/las-propuestas-de-claudia-lopez-para-la-amazonia-en-el-microfono-de-la-silla/",
-        "published_date": "2026-04-23 21:53:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Uribe case in Argentina: limits and scope of universal jurisdiction",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/caso-uribe-en-argentina-limites-y-alcances-de-la-jurisdiccion-universal/",
-        "published_date": "2026-04-23 21:19:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Wadith Manzur resigned from the House Impeachment Commission",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/wadith-manzur-renuncio-a-la-comision-de-acusaciones-de-la-camara/",
-        "published_date": "2026-04-23 20:57:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Women and books: path to equity in literature",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-las-mujeres/las-mujeres-y-los-libros-camino-a-la-equidad-en-la-literatura/",
-        "published_date": "2026-04-23 20:08:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Coviandes explained that recovery is missing at km 58 for the operation of the Chirajara bridge",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/coviandes-explico-que-falta-recuperacion-en-km-58-para-la-operacion-del-puente-chirajara-4378126",
-        "published_date": "2026-04-23 19:13:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "'We wanted to know his last words': the painful face to face over the La Resbalosa massacre, which occurred more than 20 years ago in Urab\u00e1, Antioquia",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/queriamos-saber-sus-ultimas-palabras-el-doloroso-cara-a-cara-por-la-masacre-de-la-resbalosa-ocurrida-hace-mas-de-20-anos-en-el-uraba-antioqueno-3550428",
-        "published_date": "2026-04-23 18:31:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Retail of the Future 2026 closes, but leaves a commitment without an expiration date: to strengthen Colombian commerce against the consumer of the future",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/el-retail-del-futuro-2026-cierra-pero-deja-compromiso-sin-fecha-de-vencimiento-fortalecer-el-comercio-colombiano-frente-al-consumidor-del-futuro-3550431",
-        "published_date": "2026-04-23 18:15:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "Adres denies debt of $612,000 million with health providers after Achc report",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/adres-niega-deuda-de-612-000-millones-con-prestadores-de-salud-tras-informe-de-achc-4378000",
-        "published_date": "2026-04-23 18:02:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "The university promised by Mineducaci\u00f3n para el Atl\u00e1ntico is an empty lot three months after laying the first stone",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/que-pasa-con-la-sede-de-la-universidad-del-atlantico-en-soledad-que-no-muestra-avances-visibles-pese-al-plan-anunciado-en-enero-asi-se-ve-la-obra-3550423",
-        "published_date": "2026-04-23 17:40:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Works to mitigate floods in La Mojana have been completed, according to director of the UNGRD, but communities say that water continues to enter through the 'cat's face'",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/obras-para-mitigar-inundaciones-en-la-mojana-culminaron-segun-director-de-la-ungrd-pero-comunidades-dicen-que-sigue-entrando-agua-por-cara-de-gato-3550397",
-        "published_date": "2026-04-23 17:29:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "The subject accused of killing the dog 'Kira' in Bucaramanga was sent to a prison center, an event that was recorded on video and has caused commotion",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/a-centro-carcelario-enviaron-a-sujeto-senalado-de-matar-a-la-perrita-kira-en-bucaramanga-hecho-que-quedo-grabado-en-video-y-ha-causado-conmocion-3550391",
-        "published_date": "2026-04-23 17:18:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "OEI and Asocapitales signed a memorandum of understanding to promote sustainability",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/oei-y-asocapitales-firmaron-memorando-de-entendimiento-para-impulsar-la-sostenibilidad-4377990",
-        "published_date": "2026-04-23 17:07:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "Nearly $26,000 million collected, but unresolved gaps: the contradiction that questions the photomulta model in Cali",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/cerca-de-26-000-millones-recaudados-pero-huecos-sin-arreglar-la-contradiccion-que-cuestiona-el-modelo-de-fotomultas-en-cali-3550395",
-        "published_date": "2026-04-23 16:25:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "MinMinas prepares a surcharge of $8/kwH for upper strata due to the Air-e financial crisis",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/minminas-alista-sobretasa-de-8-kwh-a-estratos-altos-por-la-crisis-financiera-de-air-e-4377859",
-        "published_date": "2026-04-23 14:52:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "OECD's Eighth Circular Economy Roundtable will meet for the first time in Ibagu\u00e9",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/octava-mesa-de-economia-circular-de-la-ocde-sesionara-por-primera-vez-en-ibague-4377795",
-        "published_date": "2026-04-23 13:57:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Public sector displaces agriculture and industry, and is now the second largest employer",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/sector-publico-desplaza-al-agro-y-la-industria-y-ahora-es-el-segundo-mayor-empleador-4377695",
-        "published_date": "2026-04-23 13:44:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Proportion of Colombians with their own home reached a minimum of 34.8%",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/proporcion-de-colombianos-con-vivienda-propia-alcanzo-minimos-en-2025-con-34-8-4377653",
-        "published_date": "2026-04-23 12:37:35",
         "category": "Local Events"
     }
 ]
