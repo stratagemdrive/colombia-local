@@ -1,5 +1,12 @@
 [
     {
+        "title": "Abelardo has donated $95,000 to Republican Party campaigns in the US.",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/abelardo-ha-donado-mas-de-90-mil-dolares-a-los-republicanos-en-ee-uu/",
+        "published_date": "2026-04-24 20:16:05",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Gustavo Petro denies relationship with a member of the Executive after controversy over complaints",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/gustavo-petro-niega-relacion-con-integrante-del-ejecutivo-tras-polemica-por-denuncias-4378290",
@@ -42,11 +49,25 @@
         "category": "Diplomacy"
     },
     {
-        "title": "The US warns of \u201cterrible punishment\u201d for those who attack candidates",
+        "title": "With border security agreements, bilateral Petro-Delcy concluded",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/ee-uu-advierte-terrible-castigo-para-los-que-atenten-contra-candidatos/",
-        "published_date": "2026-04-16 23:09:01",
-        "category": "Diplomacy"
+        "url": "https://www.lasillavacia.com/en-vivo/con-acuerdos-de-seguridad-en-frontera-concluyo-bilateral-petro-delcy/",
+        "published_date": "2026-04-24 23:17:19",
+        "category": "Military"
+    },
+    {
+        "title": "In four years, more than 20 people have died in at least 80 attacks by armed groups with cars and motorcycle bombs, as well as drones in Cali, Jamund\u00ed and Cauca",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/en-cuatro-anos-van-20-muertos-en-mas-de-80-ataques-de-grupos-armados-con-carros-y-motos-bomba-en-cali-jamundi-y-cauca-3550623",
+        "published_date": "2026-04-24 18:14:56",
+        "category": "Military"
+    },
+    {
+        "title": "There were already alerts for failures in the security of the Pichincha Battalion in Cali: attack in the south of the city reopens debate and internal questions",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/ya-habia-alertas-por-fallas-en-la-seguridad-del-batallon-pichincha-en-cali-atentado-en-el-sur-de-la-ciudad-reabre-debate-y-cuestionamientos-internos-3550693",
+        "published_date": "2026-04-24 15:45:42",
+        "category": "Military"
     },
     {
         "title": "Acipet warned that self-sufficiency in crude oil and gas is key to energy security",
@@ -168,25 +189,18 @@
         "category": "Military"
     },
     {
-        "title": "Barranquilla |These are the hypotheses that would explain the double murder of two young people in El Bosque: they were 18 and 19 years old",
+        "title": "From Ba1 to Ba2, Moody's lowered Ecopetrol's credit rating",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/de-ba1-a-ba2-moodys-bajo-la-calificacion-crediticia-de-ecopetrol/",
+        "published_date": "2026-04-24 19:50:29",
+        "category": "Energy"
+    },
+    {
+        "title": "Surprising blackout in Cartagena and northern Bol\u00edvar left 400,000 users without power this morning: traffic lights turned off and cell phones collapsed",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-estas-son-las-hipotesis-que-darian-explicacion-al-doble-asesinato-de-dos-jovenes-en-el-bosque-tenian-18-y-19-anos-3549444",
-        "published_date": "2026-04-20 17:29:44",
-        "category": "Military"
-    },
-    {
-        "title": "ELN falls third in Catatumbo;Ministry of Defense alerts retaliation",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/cae-tercero-del-eln-en-catatumbo-mindefensa-alerta-retaliacion/",
-        "published_date": "2026-04-19 22:59:55",
-        "category": "Military"
-    },
-    {
-        "title": "Psychosocial disability: between stigma and ignorance",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/discapacidad-psicosocial-entre-el-estigma-y-el-desconocimiento/",
-        "published_date": "2026-04-19 17:00:00",
-        "category": "Military"
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/sorpresivo-apagon-en-cartagena-y-norte-de-bolivar-dejo-sin-energia-a-casi-400-mil-usuarios-semaforos-apagados-y-telefonia-celular-colapsada-3550689",
+        "published_date": "2026-04-24 15:31:30",
+        "category": "Energy"
     },
     {
         "title": "Moody's Ratings downgraded the credit rating of the state-owned Ecopetrol from Ba1 to Ba2",
@@ -315,20 +329,6 @@
         "category": "Energy"
     },
     {
-        "title": "Acolgen warns that Colombia does not have enough energy for \"critical moments\"",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/acolgen-advierte-que-colombia-no-tiene-suficiente-energia-para-momentos-criticos-4374966",
-        "published_date": "2026-04-20 13:24:57",
-        "category": "Energy"
-    },
-    {
-        "title": "Regasifying in Ballena from 2027 will reduce the cost of gas in the interior of the country by 20%",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/regasificar-en-ballena-desde-2027-reducira-en-20-costo-del-gas-en-el-interior-del-pais-4373933",
-        "published_date": "2026-04-20 05:01:25",
-        "category": "Energy"
-    },
-    {
         "title": "Wife of MinHacienda would arrive at Caja Honor, which manages billions in Defense",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/esposa-de-minhacienda-llegaria-a-caja-honor-que-maneja-billones-en-defensa/",
@@ -427,150 +427,143 @@
         "category": "Economy"
     },
     {
-        "title": "The gross debt in February reached 62% of GDP and the net debt was 59.4% of GDP",
+        "title": "Committee to Protect Journalists condemns smear campaign against La Silla Vac\u00eda",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/comite-de-proteccion-de-periodistas-condena-campana-contra-la-silla-vacia/",
+        "published_date": "2026-04-24 22:48:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "Young people from 20 countries present proposals to abandon fossil fuels",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/jovenes-de-20-paises-presentan-propuestas-para-dejar-combustibles-fosiles/",
+        "published_date": "2026-04-24 22:32:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Obsolete statutes are the root of the property crisis",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/los-estatutos-obsoletos-son-la-raiz-de-la-crisis-del-predial/",
+        "published_date": "2026-04-24 22:01:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "Paloma says yes to fracking without pilots, despite environmental risks",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/paloma-dice-si-al-fracking-sin-pilotos-pese-a-riesgos-ambientales/",
+        "published_date": "2026-04-24 21:39:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "They reject Fico's order to cancel the presentation of a book on M-19",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/rechazan-orden-de-fico-de-cancelar-presentacion-de-libro-sobre-m-19/",
+        "published_date": "2026-04-24 21:30:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "Andi alerts due to the impact of new food labeling proposed by MinSalud",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/la-deuda-bruta-en-febrero-llego-a-62-del-pib-y-la-neta-se-ubico-en-59-4-del-pib-4372522",
-        "published_date": "2026-04-16 13:06:32",
-        "category": "Economy"
-    },
-    {
-        "title": "The magnifying glass on the candidates' proposals",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/la-lupa-a-las-propuestas-de-los-candidatos/",
-        "published_date": "2026-04-24 11:57:15",
+        "url": "https://www.larepublica.co/economia/andi-alerta-por-impacto-de-nuevo-etiquetado-de-alimentos-propuesto-por-minsalud-4379047",
+        "published_date": "2026-04-24 20:48:25",
         "category": "Local Events"
     },
     {
-        "title": "OECD warned that it is time to act in the transition to the circular economy",
+        "title": "It's official: the government has already appointed Daniel Quintero to Supersalud",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/es-oficial-gobierno-ya-nombro-a-daniel-quintero-en-la-supersalud/",
+        "published_date": "2026-04-24 20:19:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "Weaving the country from food",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-rural/tejer-el-pais-desde-el-alimento/",
+        "published_date": "2026-04-24 20:01:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "MinSalud regulated the handling and management of human corpses in hospitals and funeral homes",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/ocde-advirtio-que-es-momento-de-empezar-a-actuar-en-la-transicion-hacia-la-economia-circular-4378542",
-        "published_date": "2026-04-24 10:15:11",
+        "url": "https://www.larepublica.co/economia/minsalud-reglamento-manejo-y-gestion-de-cadaveres-humanos-en-hospitales-y-funerarias-4378996",
+        "published_date": "2026-04-24 19:58:55",
         "category": "Local Events"
     },
     {
-        "title": "Without internal consensus, Colombia leads first global anti-fossil discussion",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/sin-consenso-interno-colombia-lidera-primera-discusion-global-antifosiles/",
-        "published_date": "2026-04-24 08:08:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Young man woke up two days after being drugged with scopolamine by a stranger in Medell\u00edn;I had planned appointment by app: 'I lost track'",
+        "title": "Administrative Court of Antioquia ordered to suspend the intervention of the National Government on Savia Salud",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/joven-desperto-dos-dias-despues-de-ser-drogado-con-escopolamina-por-un-desconocido-en-medellin-habia-planeado-cita-por-aplicacion-perdi-la-nocion-3550513",
-        "published_date": "2026-04-24 06:20:59",
+        "url": "https://www.eltiempo.com/colombia/medellin/tribunal-administrativo-de-antioquia-ordeno-suspender-la-intervencion-del-gobierno-nacional-sobre-savia-salud-3550732",
+        "published_date": "2026-04-24 18:24:01",
         "category": "Local Events"
     },
     {
-        "title": "Dialogues with gangs in Barranquilla: experts warn of stagnation and risks;official roadmap defends progress and community work",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/dialogos-con-bandas-en-barranquilla-expertos-advierten-estancamiento-y-riesgos-hoja-de-ruta-oficial-defiende-avances-y-trabajo-comunitario-3550467",
-        "published_date": "2026-04-24 06:01:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "In the middle of the Petro - Rodr\u00edguez meeting, trade with Venezuela grew 600%",
+        "title": "This is how the meeting between President Gustavo Petro and Delcy Rodr\u00edguez in Caracas progresses",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/en-medio-de-reunion-petro-rodriguez-comercio-con-venezuela-crecio-600-en-tres-anos-4378311",
-        "published_date": "2026-04-24 05:01:35",
+        "url": "https://www.larepublica.co/economia/asi-avanza-el-encuentro-entre-el-presidente-gustavo-petro-y-delcy-rodriguez-4378942",
+        "published_date": "2026-04-24 18:17:35",
         "category": "Local Events"
     },
     {
-        "title": "Only 34.8% of the population has their own home, according to the Dane Quality of Life Survey",
+        "title": "They investigate a hitman against a Barranquilla merchant in Medell\u00edn: he was murdered with 14 shots to the head when he was leaving a dental appointment",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/investigan-sicariato-contra-comerciante-barranquillero-en-medellin-fue-asesinado-de-14-tiros-en-la-cabeza-cuando-salia-de-una-cita-odontologica-3550722",
+        "published_date": "2026-04-24 18:07:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "Santa Marta: the University of Magdalena rectifies claims against Francisco de la Hoz Rodr\u00edguez",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/santa-marta-la-universidad-del-magdalena-rectifica-afirmaciones-contra-francisco-de-la-hoz-rodriguez-3550725",
+        "published_date": "2026-04-24 17:53:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cali authorities deny curfew and peak and badge after attack with explosives in the Pichincha Battalion",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/autoridades-de-cali-desmienten-toque-de-queda-y-pico-y-placa-tras-atentado-con-explosivos-en-el-batallon-pichincha-3550720",
+        "published_date": "2026-04-24 17:40:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "1,108 million shares of Colombia Telecomunicaciones were awarded",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/solo-34-8-de-la-poblacion-tiene-vivienda-propia-segun-encuesta-de-calidad-de-vida-4378448",
-        "published_date": "2026-04-24 05:01:08",
+        "url": "https://www.larepublica.co/economia/bvc-informo-que-se-adjudicaron-1-108-millones-de-acciones-de-colombia-telecomunicaciones-4378891",
+        "published_date": "2026-04-24 17:03:55",
         "category": "Local Events"
     },
     {
-        "title": "Mourning in Palmira for the death of Edward Santos, renowned bodybuilding champion, trainer and DJ",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/luto-en-palmira-por-el-fallecimiento-de-edward-santos-reconocido-campeon-de-culturismo-entrenador-y-dj-3550508",
-        "published_date": "2026-04-24 04:11:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "Drive carefully!Peak and plaque in Bucaramanga for Friday, April 24, 2026",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/conduzca-con-cuidado-pico-y-placa-en-bucaramanga-para-el-viernes-24-de-abril-de-3550489",
-        "published_date": "2026-04-24 02:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Be careful, driver!Peak and plate in Pereira for Friday, April 24, 2026",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/cuidado-conductor-pico-y-placa-en-pereira-para-el-viernes-24-de-abril-de-3550487",
-        "published_date": "2026-04-24 02:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Avoid fines: peak and plate in Medell\u00edn for Friday, April 24, 2026",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/evite-multas-pico-y-placa-en-medellin-para-el-viernes-24-de-abril-de-3550484",
-        "published_date": "2026-04-24 02:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "This will be the peak and plate in Cali for Friday, April 24, 2026",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/asi-sera-el-pico-y-placa-en-cali-para-el-viernes-24-de-abril-de-3550482",
-        "published_date": "2026-04-24 02:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Detector: the appointment of Daniel Quintero in Supersalud has not been dropped",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/detector-no-se-ha-caido-el-nombramiento-de-daniel-quintero-en-la-supersalud/",
-        "published_date": "2026-04-24 02:00:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "The new director of the San Juan de Dios Hospital was made official via decree",
+        "title": "Petro gave government entities a week to publicize the achievements of his administration",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/via-decreto-se-oficializo-al-nuevo-director-del-hospital-san-juan-de-dios-y-materno-infantil-4378442",
-        "published_date": "2026-04-24 01:28:45",
+        "url": "https://www.larepublica.co/economia/petro-le-dio-una-semana-a-entidades-del-gobierno-para-publicitar-logros-de-su-gestion-4378888",
+        "published_date": "2026-04-24 16:56:31",
         "category": "Local Events"
     },
     {
-        "title": "Sleep informed with the movements of this April 23, 2026",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-movidas-de-este-23-de-abril-de-2026/",
-        "published_date": "2026-04-24 00:17:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "Attention: massacre in C\u00facuta leaves three dead after armed attack inside a home",
+        "title": "The reward for the perpetrators of the attack in Cali rises to $200 million: video captured the moment of the bus bomb explosion in front of the brigade",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/atencion-masacre-en-cucuta-deja-tres-muertos-tras-ataque-armado-dentro-de-una-vivienda-3550493",
-        "published_date": "2026-04-23 23:58:15",
+        "url": "https://www.eltiempo.com/colombia/cali/video-capta-explosion-de-buseta-bomba-frente-a-brigada-en-cali-mujer-que-iba-pasando-quedo-herida-y-autoridades-ofrecen-50-millones-de-recompensa-3550681",
+        "published_date": "2026-04-24 16:25:03",
         "category": "Local Events"
     },
     {
-        "title": "In Pereira, Cepeda attacks Paloma Valencia and the media",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/en-pereira-cepeda-ataca-a-paloma-valencia-y-a-medios-de-comunicacion/",
-        "published_date": "2026-04-23 23:30:55",
+        "title": "Cupcake |Hoteliers ask that the closure of the Tayrona park scheduled for the month of June be postponed;These are your arguments",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/magdalena-hoteleros-piden-que-se-aplace-el-cierre-del-parque-tayrona-programado-para-el-mes-de-junio-estos-son-sus-argumentos-3550695",
+        "published_date": "2026-04-24 15:45:00",
         "category": "Local Events"
     },
     {
-        "title": "The urgency of a gradual license for rookies in Colombia",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/la-urgencia-de-licencia-gradual-para-novatos-en-colombia/",
-        "published_date": "2026-04-23 23:06:47",
+        "title": "This is how alias 'Angelo', an alleged member of 'Los Pepes', captured in Galapa with drugs and weapons, fell and represents a hard blow to crime in the Atlantic",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/asi-cayo-alias-angelo-presunto-miembro-de-los-pepes-capturado-en-galapa-con-droga-armas-y-representa-un-duro-golpe-al-delito-en-el-atlantico-3550686",
+        "published_date": "2026-04-24 15:01:00",
         "category": "Local Events"
     },
     {
-        "title": "The urgency of a gradual license for rookies in Colombia",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-cachaca/la-urgencia-de-licencia-gradual-para-novatos-en-colombia/",
-        "published_date": "2026-04-23 23:06:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Government delivers land in Magdalena Medio and announces subsidies for fertilizers",
+        "title": "Superservicios fined Enel $2,847 million for price distortions",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/gobierno-entrega-tierras-en-el-magdalena-medio-y-anuncia-subsidios-a-los-fertilizantes-4378232",
-        "published_date": "2026-04-23 22:55:11",
+        "url": "https://www.larepublica.co/economia/superservicios-multo-a-enel-con-2-847-millones-por-distorsiones-a-precio-de-la-energia-4378723",
+        "published_date": "2026-04-24 13:23:23",
         "category": "Local Events"
     }
 ]
