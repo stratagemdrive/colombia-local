@@ -1,5 +1,12 @@
 [
     {
+        "title": "Dilian Francisca Toro, governor of Valle, spoke after the attack against the Agust\u00edn Codazzi battalion in Palmira: 'We are going to persecute them'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/dilian-francisca-toro-gobernadora-del-valle-se-pronuncio-tras-los-atentados-en-cali-y-palmira-los-vamos-a-perseguir-hasta-capturarlos-3550744",
+        "published_date": "2026-04-24 23:12:10",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Abelardo has donated $95,000 to Republican Party campaigns in the US.",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/silla-nacional/abelardo-ha-donado-mas-de-90-mil-dolares-a-los-republicanos-en-ee-uu/",
@@ -42,17 +49,45 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Sleep informed with the keys for this April 16, 2026",
+        "title": "Petro and Rodr\u00edguez project energy integration between Colombia and Venezuela",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/petro-y-rodriguez-proyectan-integracion-energetica-entre-colombia-y-venezuela-4379230",
+        "published_date": "2026-04-25 05:01:53",
+        "category": "Military"
+    },
+    {
+        "title": "Terrorist attacks with vehicle bombs, such as those against battalions in Cali and Palmira, and with drones leave more than 20 dead in 4 years",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/los-atentados-terroristas-con-vehiculos-bomba-como-los-ocurridos-contra-batallones-en-cali-y-palmira-y-con-drones-dejan-mas-de-20-muertos-en-4-anos-3550623",
+        "published_date": "2026-04-25 00:11:25",
+        "category": "Military"
+    },
+    {
+        "title": "ExFarc of the Caribbean Block recognized kidnappings and murder of La Cacica",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-claves-de-este-16-de-abril-de-2026/",
-        "published_date": "2026-04-17 00:10:30",
-        "category": "Diplomacy"
+        "url": "https://www.lasillavacia.com/en-vivo/exfarc-del-bloque-caribe-reconocieron-secuestros-y-asesinato-de-la-cacica/",
+        "published_date": "2026-04-24 23:50:37",
+        "category": "Military"
+    },
+    {
+        "title": "Ombudsman's Office denounces presence of armed groups in schools in Nari\u00f1o and Cauca: they warn about risks of recruitment and illegal occupation",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/defensoria-del-pueblo-denuncia-presencia-de-grupos-armados-en-escuelas-de-narino-y-cauca-advierten-sobre-riesgos-de-reclutamiento-y-ocupacion-ilegal-3550668",
+        "published_date": "2026-04-24 23:31:09",
+        "category": "Military"
     },
     {
         "title": "With border security agreements, bilateral Petro-Delcy concluded",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/con-acuerdos-de-seguridad-en-frontera-concluyo-bilateral-petro-delcy/",
         "published_date": "2026-04-24 23:17:19",
+        "category": "Military"
+    },
+    {
+        "title": "Yumbo activates maximum alert: authorities carry out joint operations that seek to stop crime",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/yumbo-activa-alerta-maxima-autoridades-realizan-operativos-conjuntos-que-buscan-frenar-la-criminalidad-3550745",
+        "published_date": "2026-04-24 20:01:16",
         "category": "Military"
     },
     {
@@ -154,39 +189,32 @@
         "category": "Military"
     },
     {
-        "title": "'The report was not received': educational authorities of Nari\u00f1o claimed to be unaware of the video of the FARC dissidents in a school in Policarpa",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/no-se-recibio-el-reporte-autoridades-educativas-de-narino-afirmaron-desconocer-el-video-de-las-disidencias-de-las-farc-en-una-escuela-de-policarpa-3549825",
-        "published_date": "2026-04-21 21:21:11",
-        "category": "Military"
+        "title": "New reduction in Ecopetrol's rating from Ba1 to Ba2 due to corporate tensions",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/nueva-rebaja-en-nota-de-ecopetrol-de-ba1-a-ba2-por-tensiones-de-gobierno-corporativo-4379295",
+        "published_date": "2026-04-25 05:01:24",
+        "category": "Energy"
     },
     {
-        "title": "Prisons: the test of seriousness of the candidates",
+        "title": "Government blamed Enel for the rise in March inflation due to distortion in energy prices",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/gobierno-culpo-a-enel-por-alza-en-la-inflacion-de-marzo-por-distorsion-en-precios-de-energia-4379268",
+        "published_date": "2026-04-25 05:01:12",
+        "category": "Energy"
+    },
+    {
+        "title": "Santa Marta Conference should not repeat Amazon oil history",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/las-carceles-la-prueba-de-seriedad-politica-de-los-candidatos/",
-        "published_date": "2026-04-21 20:32:47",
-        "category": "Military"
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-verde/conferencia-de-santa-marta-no-debe-repetir-historia-petrolera-de-amazonia/",
+        "published_date": "2026-04-25 00:52:46",
+        "category": "Energy"
     },
     {
-        "title": "The Constitutional Court defends the justice of the Peace Agreement",
+        "title": "R\u00f6ckstrom and Nobre lead the first scientific panel on energy transition",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/la-corte-constitucional-defiende-la-justicia-del-acuerdo-de-paz/",
-        "published_date": "2026-04-21 19:31:00",
-        "category": "Military"
-    },
-    {
-        "title": "Three soldiers died in a drone attack on the border with Ecuador",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/tres-soldados-murieron-en-ataque-con-drones-en-frontera-con-ecuador/",
-        "published_date": "2026-04-20 20:17:24",
-        "category": "Military"
-    },
-    {
-        "title": "Police helicopter attacked during transfer of an alleged dissident leader in Cauca: what is known about the case",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/atacan-helicoptero-de-la-policia-durante-traslado-de-presunto-cabecilla-de-disidencias-en-el-cauca-lo-que-se-sabe-del-caso-3549438",
-        "published_date": "2026-04-20 17:53:20",
-        "category": "Military"
+        "url": "https://www.lasillavacia.com/en-vivo/rockstrom-y-nobre-lideran-primer-panel-cientifico-de-transicion-energetica/",
+        "published_date": "2026-04-25 00:32:26",
+        "category": "Energy"
     },
     {
         "title": "From Ba1 to Ba2, Moody's lowered Ecopetrol's credit rating",
@@ -301,34 +329,6 @@
         "category": "Energy"
     },
     {
-        "title": "Government launched a long-term energy auction to protect the electrical system",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/gobierno-lanzo-una-subasta-de-energia-a-largo-plazo-para-blindar-el-sistema-electrico-4376872",
-        "published_date": "2026-04-22 14:57:27",
-        "category": "Energy"
-    },
-    {
-        "title": "Energy price in March rose 80% compared to February and stood at $223.78/kwH",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/el-precio-de-la-energia-en-bolsa-ha-subido-22-7-este-ano-y-se-ubica-en-763-2-kwh-4376734",
-        "published_date": "2026-04-22 13:07:32",
-        "category": "Energy"
-    },
-    {
-        "title": "Palma will participate in BloombergNEF Summit with advances in clean energy",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/palma-participara-en-el-bloombergnef-summit-para-presentar-avances-en-energias-limpias-4375362",
-        "published_date": "2026-04-20 19:08:19",
-        "category": "Energy"
-    },
-    {
-        "title": "Alert in Santander for Chagas disease: What is it and how does it affect the system in the body?They already report 54 cases in 2026",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/alerta-en-santander-por-el-mal-de-chagas-que-es-y-como-afecta-el-sistema-en-el-cuerpo-ya-reportan-54-casos-en-el-3549436",
-        "published_date": "2026-04-20 17:10:15",
-        "category": "Energy"
-    },
-    {
         "title": "Wife of MinHacienda would arrive at Caja Honor, which manages billions in Defense",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/esposa-de-minhacienda-llegaria-a-caja-honor-que-maneja-billones-en-defensa/",
@@ -427,6 +427,34 @@
         "category": "Economy"
     },
     {
+        "title": "Video |This is how dozens of people in a restaurant experienced the explosion near the Agust\u00edn Codazzi battalion in Palmira, Valle del Cauca",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/video-asi-fue-como-decenas-de-personas-en-un-restaurante-vivieron-la-explosion-en-contra-del-batallon-agustin-codazzi-en-palmira-valle-del-cauca-3550791",
+        "published_date": "2026-04-25 06:20:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ambidextrous democracy: what it means to be left or right",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/la-democracia-ambidiestra-que-significa-ser-de-izquierda-o-derecha/",
+        "published_date": "2026-04-25 05:05:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Sleep informed with the keys for this April 24, 2026",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-claves-de-este-24-de-abril-de-2026/",
+        "published_date": "2026-04-25 00:04:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "Attention |They report a car bomb attack against the Agust\u00edn Codazzi battalion in Palmira, Valle del Cauca: this is known",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/atencion-reportan-atentado-con-carro-bomba-contra-el-batallon-agustin-codazzi-en-palmira-valle-del-cauca-esto-se-sabe-3550774",
+        "published_date": "2026-04-24 23:14:19",
+        "category": "Local Events"
+    },
+    {
         "title": "Committee to Protect Journalists condemns smear campaign against La Silla Vac\u00eda",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/comite-de-proteccion-de-periodistas-condena-campana-contra-la-silla-vacia/",
@@ -441,10 +469,24 @@
         "category": "Local Events"
     },
     {
+        "title": "Videos of the attack in Palmira: strong explosion near the Agust\u00edn Codazzi battalion sowed panic and was recorded by witnesses in several sectors",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/videos-del-atentado-en-palmira-fuerte-explosion-cerca-del-batallon-agustin-codazzi-sembro-panico-y-quedo-grabada-por-testigos-en-varios-sectores-3550776",
+        "published_date": "2026-04-24 22:05:00",
+        "category": "Local Events"
+    },
+    {
         "title": "Obsolete statutes are the root of the property crisis",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/red-de-expertos/red-social/los-estatutos-obsoletos-son-la-raiz-de-la-crisis-del-predial/",
         "published_date": "2026-04-24 22:01:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "Scandal in Remedios (Antioquia): Secretary of Education responds to complaints of sexual harassment of a 17-year-old student",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/escandalo-en-remedios-antioquia-secretario-de-educacion-responde-a-denuncias-de-acoso-sexual-a-una-estudiante-de-17-anos-3550775",
+        "published_date": "2026-04-24 21:41:37",
         "category": "Local Events"
     },
     {
@@ -459,6 +501,13 @@
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/rechazan-orden-de-fico-de-cancelar-presentacion-de-libro-sobre-m-19/",
         "published_date": "2026-04-24 21:30:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "'Eradicate the illegal economy once and for all': the demand of Governor Dilian Francisca Toro, when requesting support from the National Government",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/erradicar-de-una-vez-por-todas-la-economia-ilegal-la-exigencia-de-la-gobernadora-dilian-francisca-toro-al-pedir-apoyo-del-gobierno-nacional-3550760",
+        "published_date": "2026-04-24 21:09:45",
         "category": "Local Events"
     },
     {
@@ -490,6 +539,13 @@
         "category": "Local Events"
     },
     {
+        "title": "Passage through the bridge over the Mulatos River is enabled: an important road corridor is reactivated in Urab\u00e1 Antioquia affected by the rains",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/habilitan-paso-por-el-puente-sobre-el-rio-mulatos-se-reactiva-un-importante-corredor-vial-en-el-uraba-antioqueno-afectado-por-las-lluvias-3550749",
+        "published_date": "2026-04-24 19:56:57",
+        "category": "Local Events"
+    },
+    {
         "title": "Administrative Court of Antioquia ordered to suspend the intervention of the National Government on Savia Salud",
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/medellin/tribunal-administrativo-de-antioquia-ordeno-suspender-la-intervencion-del-gobierno-nacional-sobre-savia-salud-3550732",
@@ -508,62 +564,6 @@
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/medellin/investigan-sicariato-contra-comerciante-barranquillero-en-medellin-fue-asesinado-de-14-tiros-en-la-cabeza-cuando-salia-de-una-cita-odontologica-3550722",
         "published_date": "2026-04-24 18:07:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "Santa Marta: the University of Magdalena rectifies claims against Francisco de la Hoz Rodr\u00edguez",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/santa-marta-la-universidad-del-magdalena-rectifica-afirmaciones-contra-francisco-de-la-hoz-rodriguez-3550725",
-        "published_date": "2026-04-24 17:53:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cali authorities deny curfew and peak and badge after attack with explosives in the Pichincha Battalion",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/autoridades-de-cali-desmienten-toque-de-queda-y-pico-y-placa-tras-atentado-con-explosivos-en-el-batallon-pichincha-3550720",
-        "published_date": "2026-04-24 17:40:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "1,108 million shares of Colombia Telecomunicaciones were awarded",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/bvc-informo-que-se-adjudicaron-1-108-millones-de-acciones-de-colombia-telecomunicaciones-4378891",
-        "published_date": "2026-04-24 17:03:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "Petro gave government entities a week to publicize the achievements of his administration",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/petro-le-dio-una-semana-a-entidades-del-gobierno-para-publicitar-logros-de-su-gestion-4378888",
-        "published_date": "2026-04-24 16:56:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "The reward for the perpetrators of the attack in Cali rises to $200 million: video captured the moment of the bus bomb explosion in front of the brigade",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/video-capta-explosion-de-buseta-bomba-frente-a-brigada-en-cali-mujer-que-iba-pasando-quedo-herida-y-autoridades-ofrecen-50-millones-de-recompensa-3550681",
-        "published_date": "2026-04-24 16:25:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cupcake |Hoteliers ask that the closure of the Tayrona park scheduled for the month of June be postponed;These are your arguments",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/magdalena-hoteleros-piden-que-se-aplace-el-cierre-del-parque-tayrona-programado-para-el-mes-de-junio-estos-son-sus-argumentos-3550695",
-        "published_date": "2026-04-24 15:45:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "This is how alias 'Angelo', an alleged member of 'Los Pepes', captured in Galapa with drugs and weapons, fell and represents a hard blow to crime in the Atlantic",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/asi-cayo-alias-angelo-presunto-miembro-de-los-pepes-capturado-en-galapa-con-droga-armas-y-representa-un-duro-golpe-al-delito-en-el-atlantico-3550686",
-        "published_date": "2026-04-24 15:01:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Superservicios fined Enel $2,847 million for price distortions",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/superservicios-multo-a-enel-con-2-847-millones-por-distorsiones-a-precio-de-la-energia-4378723",
-        "published_date": "2026-04-24 13:23:23",
         "category": "Local Events"
     }
 ]
