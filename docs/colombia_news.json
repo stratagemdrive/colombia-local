@@ -49,6 +49,48 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Without party, without counterweights",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/opinion/sin-partido-sin-contrapesos/",
+        "published_date": "2026-04-25 22:28:04",
+        "category": "Military"
+    },
+    {
+        "title": "In less than 24 hours there have been at least 7 attacks in Cauca and Valle del Cauca",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/en-menos-de-24-horas-van-al-menos-7-atentados-en-cauca-y-valle-del-cauca/",
+        "published_date": "2026-04-25 18:50:31",
+        "category": "Military"
+    },
+    {
+        "title": "Cauca leader, Patricia Mosquera, was one of the fatal victims of the dissident attack in Cajib\u00edo",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/lideresa-del-cauca-patricia-mosquera-fue-una-de-las-victimas-mortales-del-ataque-de-disidencias-en-cajibio-3550896",
+        "published_date": "2026-04-25 18:27:51",
+        "category": "Military"
+    },
+    {
+        "title": "Influencers, drop by drop and criminals: the criminal network behind the content creator who was captured for extortion in Barranquilla",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/influencers-gota-a-gota-y-criminales-el-entramado-delictivo-detras-del-creador-de-contenido-que-fue-capturado-por-extorsion-en-barranquilla-3550699",
+        "published_date": "2026-04-25 18:01:00",
+        "category": "Military"
+    },
+    {
+        "title": "Driver and passengers of two buses were injured after an attack on the Pan-American highway between Nari\u00f1o and Cauca: 'The guerrilla came out and detonated a bomb'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/conductor-y-pasajeros-de-dos-buses-salieron-heridos-tras-atentado-en-la-via-panamericana-entre-narino-y-cauca-la-guerrilla-salio-y-detono-una-bomba-3550849",
+        "published_date": "2026-04-25 12:50:11",
+        "category": "Military"
+    },
+    {
+        "title": "'El Valle is being the victim of a terrorist escalation': Governor Dilian Francisca Toro during security council with MinDefensa after attacks",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/el-valle-esta-siendo-victima-de-una-escalada-terrorista-gobernadora-dilian-francisca-toro-durante-consejo-de-seguridad-con-mindefensa-tras-ataques-3550828",
+        "published_date": "2026-04-25 12:15:32",
+        "category": "Military"
+    },
+    {
         "title": "Petro and Rodr\u00edguez project energy integration between Colombia and Venezuela",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/petro-y-rodriguez-proyectan-integracion-energetica-entre-colombia-y-venezuela-4379230",
@@ -147,46 +189,11 @@
         "category": "Military"
     },
     {
-        "title": "Shootout between retired police officer and criminals when they tried to rob him while he was in line at the Burger Master in El Poblado, in Medell\u00edn",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/balacera-entre-policia-retirado-y-delincuentes-cuando-intentaron-robarlo-mientras-se-encontraba-en-fila-del-burger-master-en-el-poblado-en-medellin-3550174",
-        "published_date": "2026-04-23 06:18:31",
-        "category": "Military"
-    },
-    {
-        "title": "What is behind the departure of General Triana as Director of the Police?This is what Mayor Federico Guti\u00e9rrez said after Angie Rodr\u00edguez's accusation",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/que-hay-detras-de-la-salida-del-general-triana-como-director-de-la-policia-esto-dijo-alcalde-federico-gutierrez-tras-senalamiento-de-angie-rodriguez-3550131",
-        "published_date": "2026-04-22 21:12:31",
-        "category": "Military"
-    },
-    {
-        "title": "The 'war' for control of Brice\u00f1o: the panorama experienced in the North of Antioquia in the midst of clashes between armed groups and the Army",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/la-guerra-por-el-control-de-briceno-el-panorama-que-se-vive-en-el-norte-de-antioquia-en-medio-de-enfrentamientos-entre-grupos-armados-y-ejercito-3549717",
-        "published_date": "2026-04-22 16:13:36",
-        "category": "Military"
-    },
-    {
-        "title": "The points that will be discussed in Friday's meeting between Gustavo Petro and Delcy Rodr\u00edguez",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/los-puntos-que-se-discutiran-en-la-reunion-entre-gustavo-petro-y-delcy-rodriguez-4376698",
-        "published_date": "2026-04-22 11:55:52",
-        "category": "Military"
-    },
-    {
-        "title": "Cepeda in the shadows of Petro: silences, excuses and signs of change",
+        "title": "\u201cI want the maximum global persecution against this narcoterrorist group\u201d: Petro",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/cepeda-ante-las-sombras-de-petro-silencios-excusas-y-senales-de-cambio/",
-        "published_date": "2026-04-22 06:00:00",
-        "category": "Military"
-    },
-    {
-        "title": "Petro accused Noboa of creating a narrative of insecurity on the border for electoral purposes",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/petro-acuso-a-noboa-de-crear-narrativa-de-inseguridad-en-frontera-con-fines-electorales-4376627",
-        "published_date": "2026-04-22 02:11:01",
-        "category": "Military"
+        "url": "https://www.lasillavacia.com/en-vivo/quiero-la-maxima-persecucion-mundial-contra-este-grupo-narcoterrorista-petro/",
+        "published_date": "2026-04-25 22:33:09",
+        "category": "Energy"
     },
     {
         "title": "New reduction in Ecopetrol's rating from Ba1 to Ba2 due to corporate tensions",
@@ -322,13 +329,6 @@
         "category": "Energy"
     },
     {
-        "title": "ANI advances visits to advance with permits for regasification from Puerto Bah\u00eda",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/ani-adelanta-visitas-para-avanzar-con-permisos-para-regasificacion-desde-puerto-bahia-4377411",
-        "published_date": "2026-04-22 23:23:16",
-        "category": "Energy"
-    },
-    {
         "title": "Wife of MinHacienda would arrive at Caja Honor, which manages billions in Defense",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/esposa-de-minhacienda-llegaria-a-caja-honor-que-maneja-billones-en-defensa/",
@@ -413,18 +413,116 @@
         "category": "Economy"
     },
     {
-        "title": "Council of State will study presence of MinHacienda in Issuer board meetings",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/consejo-de-estado-estudiara-presencia-de-minhacienda-en-reuniones-de-junta-de-emisor-4373694",
-        "published_date": "2026-04-17 19:17:27",
-        "category": "Economy"
+        "title": "At the event, Paloma Valencia calls Uribe to be her minister",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/en-evento-paloma-valencia-llama-a-uribe-a-ser-parte-de-su-ministro/",
+        "published_date": "2026-04-25 20:50:37",
+        "category": "Local Events"
     },
     {
-        "title": "National Union Council proposed suspending wealth tax decree",
+        "title": "Judge maintains firm euthanasia of hippos in Colombia",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/juez-mantiene-en-firme-eutanasia-de-hipopotamos-en-colombia/",
+        "published_date": "2026-04-25 20:08:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "Colombian pediatrics is in crisis: another debt to children",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/la-pediatria-colombiana-esta-en-crisis-otra-deuda-con-las-infancias/",
+        "published_date": "2026-04-25 20:02:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "How do the candidates say they are going to solve Colombia's problems?",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/opinion/como-dicen-los-candidatos-que-van-a-resolver-los-problemas-de-colombia/",
+        "published_date": "2026-04-25 19:56:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "Orb\u00e1n falls: defeat of the architect of illiberal democracy",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/opinion/cae-orban-derrota-del-arquitecto-de-la-democracia-iliberal/",
+        "published_date": "2026-04-25 19:33:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "Terrorist escalation in Cauca and Valle del Cauca leaves at least thirteen dead after a pipette attack on a bus in Cajib\u00edo: there are eleven attacks",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/escalada-terrorista-en-cauca-y-valle-del-cauca-deja-7-muertos-tras-ataque-con-pipeta-a-bus-en-cajibio-hay-afectaciones-en-un-corredor-clave-del-pais-3550864",
+        "published_date": "2026-04-25 17:36:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "Democratic Center alerts possible attack against Iv\u00e1n Cepeda",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/centro-democratico-alerta-posible-atentado-contra-ivan-cepeda/",
+        "published_date": "2026-04-25 17:26:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "Communication failures at the Jos\u00e9 Mar\u00eda C\u00f3rdova International Airport affected the arrival and departure of flights this Saturday",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/fallas-de-comunicacion-en-el-aeropuerto-internacional-jose-maria-cordova-afectaron-llegada-y-salida-de-vuelos-este-sabado-3550888",
+        "published_date": "2026-04-25 17:21:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "RTVC and media that crosses the line",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/opinion/rtvc-y-medios-que-cruzan-la-raya/",
+        "published_date": "2026-04-25 17:14:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "Aerocivil confirmed attack on the Santana radar in Cauca, leaving the station out of service",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/consejo-gremial-propuso-suspender-decreto-de-impuesto-al-patrimonio-en-personas-juridicas-4373600",
-        "published_date": "2026-04-17 18:17:46",
-        "category": "Economy"
+        "url": "https://www.larepublica.co/economia/aerocivil-confirmo-ataque-al-radar-santana-en-cauca-que-controla-el-espacio-aereo-del-sur-4379555",
+        "published_date": "2026-04-25 14:48:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "Video of the terrorist attack on the Pan-American highway that leaves at least seven people dead and more than 20 injured: cylinder fell on a bus in Cauca",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/video-terrorismo-en-la-via-panamericana-deja-10-personas-muertas-y-12-heridas-tras-ataque-con-cilindro-explosivo-a-un-bus-en-cajibio-cauca-3550863",
+        "published_date": "2026-04-25 14:44:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "MinAgricultura began an egg purchase program to reduce surpluses",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/minagricultura-comenzo-programa-de-compra-de-huevos-para-reducir-los-excedentes-4379551",
+        "published_date": "2026-04-25 14:11:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Eastern Plains once again lead the negative records in Regional Pulse 2026",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/los-llanos-orientales-vuelve-a-ser-la-economia-con-registros-negativos-en-pulso-regional-4379548",
+        "published_date": "2026-04-25 13:42:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "'The intervention model from Petro to the EPS practically fell': Governor of Antioquia after historic ruling against intervention to Savia Salud",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/practicamente-se-cayo-el-modelo-de-intervenciones-de-petro-a-las-eps-gobernador-de-antioquia-tras-fallo-historico-contra-intervencion-a-savia-salud-3550837",
+        "published_date": "2026-04-25 13:32:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Violent escalation in Cauca leaves attacks with explosives, drones and multiple damages: V\u00eda Panamericana scene of terror this Saturday",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/escalada-violenta-en-el-cauca-deja-ataques-con-explosivos-y-drones-y-multiples-afectaciones-via-panamericana-escenario-de-terror-este-sabado-3550853",
+        "published_date": "2026-04-25 13:28:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "Serious attack with explosives on the Pan-American highway between Cali and Popay\u00e1n: cylinder fell on a bus in Cajib\u00edo, Cauca, and 13 died",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/reportan-explosion-de-cilindro-que-cayo-sobre-una-buseta-en-cajibio-cauca-hay-danos-en-la-via-panamericana-entre-cali-y-popayan-3550856",
+        "published_date": "2026-04-25 13:15:55",
+        "category": "Local Events"
     },
     {
         "title": "Video |This is how dozens of people in a restaurant experienced the explosion near the Agust\u00edn Codazzi battalion in Palmira, Valle del Cauca",
@@ -452,118 +550,6 @@
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/otras-ciudades/atencion-reportan-atentado-con-carro-bomba-contra-el-batallon-agustin-codazzi-en-palmira-valle-del-cauca-esto-se-sabe-3550774",
         "published_date": "2026-04-24 23:14:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "Committee to Protect Journalists condemns smear campaign against La Silla Vac\u00eda",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/comite-de-proteccion-de-periodistas-condena-campana-contra-la-silla-vacia/",
-        "published_date": "2026-04-24 22:48:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Young people from 20 countries present proposals to abandon fossil fuels",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/jovenes-de-20-paises-presentan-propuestas-para-dejar-combustibles-fosiles/",
-        "published_date": "2026-04-24 22:32:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Videos of the attack in Palmira: strong explosion near the Agust\u00edn Codazzi battalion sowed panic and was recorded by witnesses in several sectors",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/videos-del-atentado-en-palmira-fuerte-explosion-cerca-del-batallon-agustin-codazzi-sembro-panico-y-quedo-grabada-por-testigos-en-varios-sectores-3550776",
-        "published_date": "2026-04-24 22:05:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Obsolete statutes are the root of the property crisis",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/los-estatutos-obsoletos-son-la-raiz-de-la-crisis-del-predial/",
-        "published_date": "2026-04-24 22:01:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "Scandal in Remedios (Antioquia): Secretary of Education responds to complaints of sexual harassment of a 17-year-old student",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/escandalo-en-remedios-antioquia-secretario-de-educacion-responde-a-denuncias-de-acoso-sexual-a-una-estudiante-de-17-anos-3550775",
-        "published_date": "2026-04-24 21:41:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "Paloma says yes to fracking without pilots, despite environmental risks",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/paloma-dice-si-al-fracking-sin-pilotos-pese-a-riesgos-ambientales/",
-        "published_date": "2026-04-24 21:39:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "They reject Fico's order to cancel the presentation of a book on M-19",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/rechazan-orden-de-fico-de-cancelar-presentacion-de-libro-sobre-m-19/",
-        "published_date": "2026-04-24 21:30:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "'Eradicate the illegal economy once and for all': the demand of Governor Dilian Francisca Toro, when requesting support from the National Government",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/erradicar-de-una-vez-por-todas-la-economia-ilegal-la-exigencia-de-la-gobernadora-dilian-francisca-toro-al-pedir-apoyo-del-gobierno-nacional-3550760",
-        "published_date": "2026-04-24 21:09:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Andi alerts due to the impact of new food labeling proposed by MinSalud",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/andi-alerta-por-impacto-de-nuevo-etiquetado-de-alimentos-propuesto-por-minsalud-4379047",
-        "published_date": "2026-04-24 20:48:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "It's official: the government has already appointed Daniel Quintero to Supersalud",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/es-oficial-gobierno-ya-nombro-a-daniel-quintero-en-la-supersalud/",
-        "published_date": "2026-04-24 20:19:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "Weaving the country from food",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-rural/tejer-el-pais-desde-el-alimento/",
-        "published_date": "2026-04-24 20:01:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "MinSalud regulated the handling and management of human corpses in hospitals and funeral homes",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/minsalud-reglamento-manejo-y-gestion-de-cadaveres-humanos-en-hospitales-y-funerarias-4378996",
-        "published_date": "2026-04-24 19:58:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "Passage through the bridge over the Mulatos River is enabled: an important road corridor is reactivated in Urab\u00e1 Antioquia affected by the rains",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/habilitan-paso-por-el-puente-sobre-el-rio-mulatos-se-reactiva-un-importante-corredor-vial-en-el-uraba-antioqueno-afectado-por-las-lluvias-3550749",
-        "published_date": "2026-04-24 19:56:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "Administrative Court of Antioquia ordered to suspend the intervention of the National Government on Savia Salud",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/tribunal-administrativo-de-antioquia-ordeno-suspender-la-intervencion-del-gobierno-nacional-sobre-savia-salud-3550732",
-        "published_date": "2026-04-24 18:24:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "This is how the meeting between President Gustavo Petro and Delcy Rodr\u00edguez in Caracas progresses",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/asi-avanza-el-encuentro-entre-el-presidente-gustavo-petro-y-delcy-rodriguez-4378942",
-        "published_date": "2026-04-24 18:17:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "They investigate a hitman against a Barranquilla merchant in Medell\u00edn: he was murdered with 14 shots to the head when he was leaving a dental appointment",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/investigan-sicariato-contra-comerciante-barranquillero-en-medellin-fue-asesinado-de-14-tiros-en-la-cabeza-cuando-salia-de-una-cita-odontologica-3550722",
-        "published_date": "2026-04-24 18:07:09",
         "category": "Local Events"
     }
 ]
