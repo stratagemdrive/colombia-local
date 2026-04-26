@@ -56,6 +56,13 @@
         "category": "Military"
     },
     {
+        "title": "The reward for alias 'Marlon' increases to $5,000 million: he is accused of being one of the masterminds of the recent attacks in Cauca",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/sube-la-recompensa-por-alias-marlon-a-5-000-millones-lo-senalan-de-ser-uno-de-los-cerebros-de-los-recientes-atentados-en-cauca-3550910",
+        "published_date": "2026-04-25 21:35:16",
+        "category": "Military"
+    },
+    {
         "title": "In less than 24 hours there have been at least 7 attacks in Cauca and Valle del Cauca",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/en-menos-de-24-horas-van-al-menos-7-atentados-en-cauca-y-valle-del-cauca/",
@@ -179,13 +186,6 @@
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/medellin/video-brutal-ataque-en-itaguei-vigilante-adulto-mayor-termina-en-cirugia-tras-ser-agredido-por-un-veedor-en-la-secretaria-de-movilidad-3550381",
         "published_date": "2026-04-23 16:09:52",
-        "category": "Military"
-    },
-    {
-        "title": "The triangulation between Colombian prisons and 'peons' in Santander for homicides and kidnappings: the revealing police report after the death of a woman",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/la-triangulacion-entre-carceles-de-colombia-y-peones-en-santander-para-homicidios-y-secuestros-el-revelador-informe-de-policia-tras-muerte-de-mujer-3550376",
-        "published_date": "2026-04-23 15:28:11",
         "category": "Military"
     },
     {
@@ -413,6 +413,41 @@
         "category": "Economy"
     },
     {
+        "title": "X-rays to the smear campaign against La Silla by those around Cepeda and De la Espriella",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/rayos-x-a-la-campana-de-desprestigio-contra-la-silla-por-el-entorno-de-cepeda-y-de-de-la-espriella/",
+        "published_date": "2026-04-26 09:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "This is how the Pan-American highway remained in the El T\u00fanel sector after a terrorist attack with a cylinder bomb that seriously affected the highway",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/asi-quedo-la-via-panamericana-en-el-sector-el-tunel-tras-atentado-terrorista-con-cilindro-bomba-que-afecto-gravemente-la-carretera-3550939",
+        "published_date": "2026-04-26 04:51:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tremor today in Colombia |They report an earthquake in the Bucaramanga Seismic Nest in the early hours of this April 26;epicenter, magnitude and depth",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/temblor-hoy-en-colombia-reportan-sismo-en-el-nido-sismico-de-bucaramanga-en-la-madrugada-de-este-26-de-abril-epicentro-magnitud-y-profundidad-3550941",
+        "published_date": "2026-04-26 03:36:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "On video, the moment in which a couple abandoned a puppy on a road in Caquet\u00e1 was captured: they reported the alleged perpetrator",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/en-video-quedo-captado-el-momento-en-el-que-pareja-abandono-a-perrito-en-una-via-en-caqueta-denunciaron-a-presunta-responsable-3550934",
+        "published_date": "2026-04-25 23:52:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "They attack a service station with an explosive element in Palmira, Valle del Cauca: six people are injured",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/atacan-estacion-de-servicio-con-elemento-explosivo-en-palmira-valle-del-cauca-hay-seis-personas-heridas-3550931",
+        "published_date": "2026-04-25 22:37:40",
+        "category": "Local Events"
+    },
+    {
         "title": "At the event, Paloma Valencia calls Uribe to be her minister",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/en-evento-paloma-valencia-llama-a-uribe-a-ser-parte-de-su-ministro/",
@@ -438,6 +473,13 @@
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/opinion/como-dicen-los-candidatos-que-van-a-resolver-los-problemas-de-colombia/",
         "published_date": "2026-04-25 19:56:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "The death toll rises to 14 after an attack in Cajib\u00edo, Cauca: hospital networks in the region are at their limit",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/asciende-a-14-el-numero-de-muertos-tras-atentado-en-cajibio-cauca-una-de-las-victimas-era-una-lider-comunitaria-de-el-patia-3550900",
+        "published_date": "2026-04-25 19:35:16",
         "category": "Local Events"
     },
     {
@@ -508,48 +550,6 @@
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/medellin/practicamente-se-cayo-el-modelo-de-intervenciones-de-petro-a-las-eps-gobernador-de-antioquia-tras-fallo-historico-contra-intervencion-a-savia-salud-3550837",
         "published_date": "2026-04-25 13:32:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Violent escalation in Cauca leaves attacks with explosives, drones and multiple damages: V\u00eda Panamericana scene of terror this Saturday",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/escalada-violenta-en-el-cauca-deja-ataques-con-explosivos-y-drones-y-multiples-afectaciones-via-panamericana-escenario-de-terror-este-sabado-3550853",
-        "published_date": "2026-04-25 13:28:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "Serious attack with explosives on the Pan-American highway between Cali and Popay\u00e1n: cylinder fell on a bus in Cajib\u00edo, Cauca, and 13 died",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/reportan-explosion-de-cilindro-que-cayo-sobre-una-buseta-en-cajibio-cauca-hay-danos-en-la-via-panamericana-entre-cali-y-popayan-3550856",
-        "published_date": "2026-04-25 13:15:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "Video |This is how dozens of people in a restaurant experienced the explosion near the Agust\u00edn Codazzi battalion in Palmira, Valle del Cauca",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/video-asi-fue-como-decenas-de-personas-en-un-restaurante-vivieron-la-explosion-en-contra-del-batallon-agustin-codazzi-en-palmira-valle-del-cauca-3550791",
-        "published_date": "2026-04-25 06:20:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ambidextrous democracy: what it means to be left or right",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/la-democracia-ambidiestra-que-significa-ser-de-izquierda-o-derecha/",
-        "published_date": "2026-04-25 05:05:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sleep informed with the keys for this April 24, 2026",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-claves-de-este-24-de-abril-de-2026/",
-        "published_date": "2026-04-25 00:04:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "Attention |They report a car bomb attack against the Agust\u00edn Codazzi battalion in Palmira, Valle del Cauca: this is known",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/atencion-reportan-atentado-con-carro-bomba-contra-el-batallon-agustin-codazzi-en-palmira-valle-del-cauca-esto-se-sabe-3550774",
-        "published_date": "2026-04-24 23:14:19",
         "category": "Local Events"
     }
 ]
