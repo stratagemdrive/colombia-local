@@ -42,11 +42,25 @@
         "category": "Diplomacy"
     },
     {
-        "title": "La Guajira: armed strike in Riohacha leaves losses of $35 billion and hits commerce after three days of fear and uncertainty",
+        "title": "After ultimatum, government resumes dialogues with the Bolivarian Army",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/tras-ultimatum-gobierno-reanuda-dialogos-con-el-ejercito-bolivariano/",
+        "published_date": "2026-04-26 22:54:50",
+        "category": "Military"
+    },
+    {
+        "title": "Ministry of Defense ordered investigations into illegal mines spread to the Army base",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/mindefensa-ordeno-investigaciones-por-mina-ilegal-extendida-a-base-del-ejercito/",
+        "published_date": "2026-04-26 18:26:19",
+        "category": "Military"
+    },
+    {
+        "title": "National Army recognizes the presence of more than 2,000 illegal miners in the territory of a military base in Antioquia after a revelation by the New York Times",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/la-guajira-paro-armado-golpea-el-comercio-en-riohacha-perdidas-superan-los-35-mil-millones-en-tres-dias-3548966",
-        "published_date": "2026-04-18 14:15:25",
-        "category": "Diplomacy"
+        "url": "https://www.eltiempo.com/colombia/medellin/ejercito-nacional-reconoce-la-presencia-de-mas-de-2-000-mineros-ilegales-en-territorio-de-base-militar-en-antioquia-tras-revelacion-del-new-york-times-3551022",
+        "published_date": "2026-04-26 17:05:35",
+        "category": "Military"
     },
     {
         "title": "Without party, without counterweights",
@@ -165,27 +179,6 @@
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/secretaria-de-hacienda-alerto-estafas-a-contribuyentes-en-el-cobro-de-predial-y-vehiculos-4378224",
         "published_date": "2026-04-23 22:49:13",
-        "category": "Military"
-    },
-    {
-        "title": "If she reaches the Presidency, Paloma would start by revoking the peace managers",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/de-llegar-a-la-presidencia-paloma-arrancaria-revocando-a-los-gestores-de-paz/",
-        "published_date": "2026-04-23 22:16:12",
-        "category": "Military"
-    },
-    {
-        "title": "Jamund\u00ed mourns the murder of 4 of his young people",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/jamundi-llora-el-asesinato-de-4-de-sus-jovenes-3550471",
-        "published_date": "2026-04-23 20:46:53",
-        "category": "Military"
-    },
-    {
-        "title": "Video |Brutal attack in Itag\u00fc\u00ed: elderly security guard ends up in surgery after being attacked by an observer at the Mobility Secretariat",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/video-brutal-ataque-en-itaguei-vigilante-adulto-mayor-termina-en-cirugia-tras-ser-agredido-por-un-veedor-en-la-secretaria-de-movilidad-3550381",
-        "published_date": "2026-04-23 16:09:52",
         "category": "Military"
     },
     {
@@ -329,6 +322,13 @@
         "category": "Energy"
     },
     {
+        "title": "Colombia is among the countries with the highest inflation in the OECD for February 2026",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/colombia-entre-los-de-mayor-inflacion-dentro-de-la-ocde-para-febrero-de-2026-4379833",
+        "published_date": "2026-04-26 21:56:52",
+        "category": "Economy"
+    },
+    {
         "title": "Wife of MinHacienda would arrive at Caja Honor, which manages billions in Defense",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/esposa-de-minhacienda-llegaria-a-caja-honor-que-maneja-billones-en-defensa/",
@@ -413,6 +413,125 @@
         "category": "Economy"
     },
     {
+        "title": "Defense Office: Attacks were also in Nari\u00f1o.Five people died",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/defensoria-ataques-tambien-fueron-en-narino-cinco-personas-murieron/",
+        "published_date": "2026-04-26 22:17:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cHe coordinated Cepeda's meetings\u201d: Uribe goes against Abelardo's advisor",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/coordino-las-reuniones-de-cepeda-uribe-se-va-contra-asesor-de-abelardo/",
+        "published_date": "2026-04-26 20:41:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "Santa Marta Conference: civil society expresses failure to participate",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/conferencia-de-santa-marta-sociedad-civil-expresa-fallas-para-participar/",
+        "published_date": "2026-04-26 20:13:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "Are there slavers left?175 years of the emancipation of slaves in Colombia",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/podcasts/quedan-esclavistas-175-anos-de-la-emancipacion-de-los-esclavos-en-colombia/",
+        "published_date": "2026-04-26 19:51:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "From Cepeda to Abelardo, candidates react to attacks in Valle and Cauca",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/de-cepeda-a-abelardo-candidatos-reaccionan-a-atentados-en-valle-y-cauca/",
+        "published_date": "2026-04-26 19:12:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "Two maternities, one failure: what Colombia really questioned",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-derecho-constitucional/dos-maternidades-un-fallo-lo-que-colombia-realmente-puso-en-cuestion/",
+        "published_date": "2026-04-26 19:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The crossing on the Pan-American Highway reopened, after the attack with explosives that left 20 dead, all civilians: older adults, among those victims",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/reabierto-el-paso-en-la-via-panamericana-tras-el-atentado-con-explosivos-que-dejo-20-muertos-todos-civiles-adultos-mayores-entre-esas-victimas-3551036",
+        "published_date": "2026-04-26 18:29:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "They were the victims of the attack on the Pan-American highway due to dissidents: there were farmers from a peace-building process and a leader of the CRC",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/ellas-eran-las-victimas-del-atentado-en-via-panamericana-por-disidencias-habia-campesinos-de-un-proceso-de-construccion-de-paz-y-una-lideresa-del-crc-3551017",
+        "published_date": "2026-04-26 18:29:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "These are the 17 critical points in Cundinamarca due to torrential rains: in April there are at least 3 deaths",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/hay-17-puntos-criticos-en-cundinamarca-por-lluvias-torrenciales-en-el-departamento-en-abril-van-al-menos-3-muertos-3551031",
+        "published_date": "2026-04-26 17:16:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "The illegal gold mine of the 'Gulf clan' on the land of a military base in Antioquia whose production is reaching the US Mint.",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/la-mina-de-oro-ilegal-del-clan-del-golfo-en-terreno-de-una-base-militar-de-antioquia-cuya-produccion-esta-llegando-a-la-casa-de-la-moneda-de-ee-uu-3551000",
+        "published_date": "2026-04-26 16:51:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "Governor confirms 20 deaths from terrorist attack in Cajib\u00edo, Cauca",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/gobernador-confirma-20-muertos-por-atentado-terrorista-en-cajibio-cauca/",
+        "published_date": "2026-04-26 16:12:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Armed group launched explosive devices with drones against military base, located on the road between Corinto and Miranda, Cauca",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/un-grupo-armado-lanzo-artefactos-explosivos-mediante-drones-contra-la-base-militar-en-via-entre-los-municipios-de-corinto-y-miranda-cauca-3551025",
+        "published_date": "2026-04-26 15:52:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "The governor of Cauca assured that 20 civilians died, most of them women, due to the ruthless attack by dissidents on the Pan-American highway.",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/el-gobernador-del-cauca-aseguro-que-murieron-20-civiles-la-mayoria-mujeres-por-el-despiadado-atentado-de-las-disidencias-en-via-panamericana-3551003",
+        "published_date": "2026-04-26 15:28:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "Start Sunday with this selection of opinion columns",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/arranque-el-domingo-con-esta-seleccion-de-columnas-de-opinion-27/",
+        "published_date": "2026-04-26 14:57:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "Video shows the moment of the serious explosion in Cajib\u00edo, Cauca, which leaves at least 19 dead: a truck recorded it",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/video-muestra-el-instante-de-la-grave-explosion-en-cajibio-cauca-que-deja-al-menos-19-muertos-lo-grabo-un-camion-3550971",
+        "published_date": "2026-04-26 13:01:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Attack by dissidents on the Pan-American highway, the second in a month with a crater 20 meters in diameter and paralysis: more than 20 dead, in both events",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/atentado-de-disidencias-en-via-panamericana-es-el-segundo-en-un-mes-que-deja-crater-de-20-metros-de-diametro-y-paralisis-20-muertos-en-ambos-hechos-3550980",
+        "published_date": "2026-04-26 12:33:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "She was the social leader Patricia Mosquera who died along with two cousins \u200b\u200bin the attack on the Pan-American highway, after burying a relative.",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/ella-era-la-lideresa-social-patricia-mosquera-que-murio-con-dos-primas-en-el-atentado-en-la-via-panamericana-luego-de-enterrar-a-un-familiar-3550948",
+        "published_date": "2026-04-26 11:16:29",
+        "category": "Local Events"
+    },
+    {
         "title": "X-rays to the smear campaign against La Silla by those around Cepeda and De la Espriella",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/silla-nacional/rayos-x-a-la-campana-de-desprestigio-contra-la-silla-por-el-entorno-de-cepeda-y-de-de-la-espriella/",
@@ -431,125 +550,6 @@
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/santander/temblor-hoy-en-colombia-reportan-sismo-en-el-nido-sismico-de-bucaramanga-en-la-madrugada-de-este-26-de-abril-epicentro-magnitud-y-profundidad-3550941",
         "published_date": "2026-04-26 03:36:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "On video, the moment in which a couple abandoned a puppy on a road in Caquet\u00e1 was captured: they reported the alleged perpetrator",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/en-video-quedo-captado-el-momento-en-el-que-pareja-abandono-a-perrito-en-una-via-en-caqueta-denunciaron-a-presunta-responsable-3550934",
-        "published_date": "2026-04-25 23:52:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "They attack a service station with an explosive element in Palmira, Valle del Cauca: six people are injured",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/atacan-estacion-de-servicio-con-elemento-explosivo-en-palmira-valle-del-cauca-hay-seis-personas-heridas-3550931",
-        "published_date": "2026-04-25 22:37:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "At the event, Paloma Valencia calls Uribe to be her minister",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/en-evento-paloma-valencia-llama-a-uribe-a-ser-parte-de-su-ministro/",
-        "published_date": "2026-04-25 20:50:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "Judge maintains firm euthanasia of hippos in Colombia",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/juez-mantiene-en-firme-eutanasia-de-hipopotamos-en-colombia/",
-        "published_date": "2026-04-25 20:08:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "Colombian pediatrics is in crisis: another debt to children",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/la-pediatria-colombiana-esta-en-crisis-otra-deuda-con-las-infancias/",
-        "published_date": "2026-04-25 20:02:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "How do the candidates say they are going to solve Colombia's problems?",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/opinion/como-dicen-los-candidatos-que-van-a-resolver-los-problemas-de-colombia/",
-        "published_date": "2026-04-25 19:56:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "The death toll rises to 14 after an attack in Cajib\u00edo, Cauca: hospital networks in the region are at their limit",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/asciende-a-14-el-numero-de-muertos-tras-atentado-en-cajibio-cauca-una-de-las-victimas-era-una-lider-comunitaria-de-el-patia-3550900",
-        "published_date": "2026-04-25 19:35:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Orb\u00e1n falls: defeat of the architect of illiberal democracy",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/opinion/cae-orban-derrota-del-arquitecto-de-la-democracia-iliberal/",
-        "published_date": "2026-04-25 19:33:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "Terrorist escalation in Cauca and Valle del Cauca leaves at least thirteen dead after a pipette attack on a bus in Cajib\u00edo: there are eleven attacks",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/escalada-terrorista-en-cauca-y-valle-del-cauca-deja-7-muertos-tras-ataque-con-pipeta-a-bus-en-cajibio-hay-afectaciones-en-un-corredor-clave-del-pais-3550864",
-        "published_date": "2026-04-25 17:36:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "Democratic Center alerts possible attack against Iv\u00e1n Cepeda",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/centro-democratico-alerta-posible-atentado-contra-ivan-cepeda/",
-        "published_date": "2026-04-25 17:26:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "Communication failures at the Jos\u00e9 Mar\u00eda C\u00f3rdova International Airport affected the arrival and departure of flights this Saturday",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/fallas-de-comunicacion-en-el-aeropuerto-internacional-jose-maria-cordova-afectaron-llegada-y-salida-de-vuelos-este-sabado-3550888",
-        "published_date": "2026-04-25 17:21:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "RTVC and media that crosses the line",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/opinion/rtvc-y-medios-que-cruzan-la-raya/",
-        "published_date": "2026-04-25 17:14:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "Aerocivil confirmed attack on the Santana radar in Cauca, leaving the station out of service",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/aerocivil-confirmo-ataque-al-radar-santana-en-cauca-que-controla-el-espacio-aereo-del-sur-4379555",
-        "published_date": "2026-04-25 14:48:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "Video of the terrorist attack on the Pan-American highway that leaves at least seven people dead and more than 20 injured: cylinder fell on a bus in Cauca",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/video-terrorismo-en-la-via-panamericana-deja-10-personas-muertas-y-12-heridas-tras-ataque-con-cilindro-explosivo-a-un-bus-en-cajibio-cauca-3550863",
-        "published_date": "2026-04-25 14:44:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "MinAgricultura began an egg purchase program to reduce surpluses",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/minagricultura-comenzo-programa-de-compra-de-huevos-para-reducir-los-excedentes-4379551",
-        "published_date": "2026-04-25 14:11:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Eastern Plains once again lead the negative records in Regional Pulse 2026",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/los-llanos-orientales-vuelve-a-ser-la-economia-con-registros-negativos-en-pulso-regional-4379548",
-        "published_date": "2026-04-25 13:42:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "'The intervention model from Petro to the EPS practically fell': Governor of Antioquia after historic ruling against intervention to Savia Salud",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/practicamente-se-cayo-el-modelo-de-intervenciones-de-petro-a-las-eps-gobernador-de-antioquia-tras-fallo-historico-contra-intervencion-a-savia-salud-3550837",
-        "published_date": "2026-04-25 13:32:50",
         "category": "Local Events"
     }
 ]
