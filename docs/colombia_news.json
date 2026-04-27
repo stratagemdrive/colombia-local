@@ -1,5 +1,12 @@
 [
     {
+        "title": "Roa leaves a legacy of politicization of Ecopetrol with a visible face in Cenit",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/roa-deja-un-legado-de-politizacion-de-ecopetrol-con-una-cara-visible-en-cenit/",
+        "published_date": "2026-04-27 05:05:00",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Dilian Francisca Toro, governor of Valle, spoke after the attack against the Agust\u00edn Codazzi battalion in Palmira: 'We are going to persecute them'",
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/dilian-francisca-toro-gobernadora-del-valle-se-pronuncio-tras-los-atentados-en-cali-y-palmira-los-vamos-a-perseguir-hasta-capturarlos-3550744",
@@ -42,10 +49,38 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Escalation of terrorist attacks in Cauca and Valle del Cauca: Army deactivated explosive on the Pan-American highway and maintains operational deployment",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/minuto-a-minuto-de-la-escalada-de-atentados-en-cauca-y-valle-del-cauca-ejercito-desactivo-explosivo-en-la-via-panamericana-tras-quema-de-un-camion-3551103",
+        "published_date": "2026-04-27 06:35:19",
+        "category": "Military"
+    },
+    {
+        "title": "Between 2024 and 2025, the perception of household insecurity stabilized at 20%",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/entre-2024-y-2025-la-percepcion-de-inseguridad-de-los-hogares-se-estabilizo-en-20-4379386",
+        "published_date": "2026-04-27 05:01:15",
+        "category": "Military"
+    },
+    {
+        "title": "The Army deactivated another explosive on the Pan-American highway, while troops were fighting in the rural area of \u200b\u200bJamund\u00ed, after a truck burned",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/atribuyen-quema-de-un-camion-con-pollos-en-un-puente-de-la-zona-rural-de-jamundi-valle-a-la-disidencia-jaime-martinez-de-ivan-mordisco-3551093",
+        "published_date": "2026-04-27 00:30:02",
+        "category": "Military"
+    },
+    {
         "title": "After ultimatum, government resumes dialogues with the Bolivarian Army",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/tras-ultimatum-gobierno-reanuda-dialogos-con-el-ejercito-bolivariano/",
         "published_date": "2026-04-26 22:54:50",
+        "category": "Military"
+    },
+    {
+        "title": "Video |Truck was crossed and set on fire on a key road in Jamund\u00ed, Valle del Cauca;this is known",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/video-camion-fue-atravesado-e-incendiado-en-via-clave-en-jamundi-valle-del-cauca-3551063",
+        "published_date": "2026-04-26 20:30:17",
         "category": "Military"
     },
     {
@@ -154,32 +189,18 @@
         "category": "Military"
     },
     {
-        "title": "In four years, more than 20 people have died in at least 80 attacks by armed groups with cars and motorcycle bombs, as well as drones in Cali, Jamund\u00ed and Cauca",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/en-cuatro-anos-van-20-muertos-en-mas-de-80-ataques-de-grupos-armados-con-carros-y-motos-bomba-en-cali-jamundi-y-cauca-3550623",
-        "published_date": "2026-04-24 18:14:56",
-        "category": "Military"
-    },
-    {
-        "title": "There were already alerts for failures in the security of the Pichincha Battalion in Cali: attack in the south of the city reopens debate and internal questions",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/ya-habia-alertas-por-fallas-en-la-seguridad-del-batallon-pichincha-en-cali-atentado-en-el-sur-de-la-ciudad-reabre-debate-y-cuestionamientos-internos-3550693",
-        "published_date": "2026-04-24 15:45:42",
-        "category": "Military"
-    },
-    {
-        "title": "Acipet warned that self-sufficiency in crude oil and gas is key to energy security",
+        "title": "Energy demand in March was 7,461 gigawatt-hours, 5.6% more than in 2025",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/acipet-advirtio-que-autosuficiencia-en-crudo-y-gas-es-clave-para-la-seguridad-energetica-4378257",
-        "published_date": "2026-04-23 23:02:13",
-        "category": "Military"
+        "url": "https://www.larepublica.co/economia/demanda-energetica-en-marzo-fue-de-7-461-gigavatios-hora-5-6-mas-que-en-2025-4379395",
+        "published_date": "2026-04-27 05:01:18",
+        "category": "Energy"
     },
     {
-        "title": "Ministry of Finance warned taxpayers of scams in the collection of property and vehicles",
+        "title": "\u201cDuring the critical phase of the El Ni\u00f1o phenomenon, energy would rise to $1,000 kilowatt hour\u201d",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/secretaria-de-hacienda-alerto-estafas-a-contribuyentes-en-el-cobro-de-predial-y-vehiculos-4378224",
-        "published_date": "2026-04-23 22:49:13",
-        "category": "Military"
+        "url": "https://www.larepublica.co/economia/entrevista-a-jose-david-montoya-presidente-de-termotasajero-sobre-precio-de-energia-4378575",
+        "published_date": "2026-04-27 05:01:03",
+        "category": "Energy"
     },
     {
         "title": "\u201cI want the maximum global persecution against this narcoterrorist group\u201d: Petro",
@@ -308,20 +329,6 @@
         "category": "Energy"
     },
     {
-        "title": "Ministry of Mines bets on 15-year energy contracts starting in 2030",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/ministerio-de-minas-apuesta-por-contratos-de-energia-a-15-anos-a-partir-de-2030-4377334",
-        "published_date": "2026-04-23 05:04:27",
-        "category": "Energy"
-    },
-    {
-        "title": "The El Ni\u00f1o phenomenon has not arrived but the price of energy has already started to rise",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/el-fenomeno-de-el-nino-no-ha-llegado-pero-el-precio-de-la-energia-ya-empezo-a-subir-4376687",
-        "published_date": "2026-04-23 05:03:19",
-        "category": "Energy"
-    },
-    {
         "title": "Colombia is among the countries with the highest inflation in the OECD for February 2026",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/colombia-entre-los-de-mayor-inflacion-dentro-de-la-ocde-para-febrero-de-2026-4379833",
@@ -413,6 +420,69 @@
         "category": "Economy"
     },
     {
+        "title": "Videos of the serious fire in commune one in Medell\u00edn, Antioquia, which consumed several houses in the sector: Mayor Federico Guti\u00e9rrez delivered a report",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/videos-asi-fue-el-grave-incendio-en-barrio-carpinelo-comuna-1-popular-en-medellin-la-conflagracion-consumio-varias-viviendas-del-sector-3551105",
+        "published_date": "2026-04-27 06:23:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "The financial market is preparing for a third rate increase of 50 basis points",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/el-mercado-financiero-se-alista-para-una-tercera-alza-de-tasas-por-parte-del-emisor-4379421",
+        "published_date": "2026-04-27 05:01:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "Six conclusions from the Invamer survey 5 weeks into the first round",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/seis-conclusiones-de-la-encuesta-invamer/",
+        "published_date": "2026-04-27 02:47:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "Be careful, driver!Peak and plate in Bucaramanga for Monday, April 27, 2026",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/ojo-conductor-pico-y-placa-en-bucaramanga-para-el-lunes-27-de-abril-de-3551098",
+        "published_date": "2026-04-27 02:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Be careful, driver!Peak and plate in Pereira for Monday, April 27, 2026",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/cuidado-conductor-pico-y-placa-en-pereira-para-el-lunes-27-de-abril-de-3551097",
+        "published_date": "2026-04-27 02:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Find out the details of the peak and plate in Medell\u00edn for Monday, April 27, 2026",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/conozca-los-detalles-del-pico-y-placa-en-medellin-para-el-lunes-27-de-abril-de-3551096",
+        "published_date": "2026-04-27 02:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "This will be the peak and plate in Cali for Monday, April 27, 2026",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/asi-sera-el-pico-y-placa-en-cali-para-el-lunes-27-de-abril-de-3551095",
+        "published_date": "2026-04-27 02:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Service station where there was a terrorist attack in Cauca was managed by the SAE: tenants had received extortion threats",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/estacion-de-servicio-donde-hubo-atentado-terrorista-en-el-cauca-era-administrada-por-la-sae-arrendatarios-habian-recibido-amenazas-extorsivas-3551070",
+        "published_date": "2026-04-26 23:35:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "Attention: serious structural fire reported in commune one of Medell\u00edn;homes have been affected by the flames",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/atencion-reportan-grave-incendio-en-la-comuna-uno-de-medellin-varias-viviendas-han-resultado-afectadas-por-las-llamas-3551090",
+        "published_date": "2026-04-26 22:31:52",
+        "category": "Local Events"
+    },
+    {
         "title": "Defense Office: Attacks were also in Nari\u00f1o.Five people died",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/defensoria-ataques-tambien-fueron-en-narino-cinco-personas-murieron/",
@@ -487,69 +557,6 @@
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/gobernador-confirma-20-muertos-por-atentado-terrorista-en-cajibio-cauca/",
         "published_date": "2026-04-26 16:12:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Armed group launched explosive devices with drones against military base, located on the road between Corinto and Miranda, Cauca",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/un-grupo-armado-lanzo-artefactos-explosivos-mediante-drones-contra-la-base-militar-en-via-entre-los-municipios-de-corinto-y-miranda-cauca-3551025",
-        "published_date": "2026-04-26 15:52:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "The governor of Cauca assured that 20 civilians died, most of them women, due to the ruthless attack by dissidents on the Pan-American highway.",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/el-gobernador-del-cauca-aseguro-que-murieron-20-civiles-la-mayoria-mujeres-por-el-despiadado-atentado-de-las-disidencias-en-via-panamericana-3551003",
-        "published_date": "2026-04-26 15:28:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "Start Sunday with this selection of opinion columns",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/arranque-el-domingo-con-esta-seleccion-de-columnas-de-opinion-27/",
-        "published_date": "2026-04-26 14:57:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "Video shows the moment of the serious explosion in Cajib\u00edo, Cauca, which leaves at least 19 dead: a truck recorded it",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/video-muestra-el-instante-de-la-grave-explosion-en-cajibio-cauca-que-deja-al-menos-19-muertos-lo-grabo-un-camion-3550971",
-        "published_date": "2026-04-26 13:01:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Attack by dissidents on the Pan-American highway, the second in a month with a crater 20 meters in diameter and paralysis: more than 20 dead, in both events",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/atentado-de-disidencias-en-via-panamericana-es-el-segundo-en-un-mes-que-deja-crater-de-20-metros-de-diametro-y-paralisis-20-muertos-en-ambos-hechos-3550980",
-        "published_date": "2026-04-26 12:33:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "She was the social leader Patricia Mosquera who died along with two cousins \u200b\u200bin the attack on the Pan-American highway, after burying a relative.",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/ella-era-la-lideresa-social-patricia-mosquera-que-murio-con-dos-primas-en-el-atentado-en-la-via-panamericana-luego-de-enterrar-a-un-familiar-3550948",
-        "published_date": "2026-04-26 11:16:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "X-rays to the smear campaign against La Silla by those around Cepeda and De la Espriella",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/rayos-x-a-la-campana-de-desprestigio-contra-la-silla-por-el-entorno-de-cepeda-y-de-de-la-espriella/",
-        "published_date": "2026-04-26 09:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "This is how the Pan-American highway remained in the El T\u00fanel sector after a terrorist attack with a cylinder bomb that seriously affected the highway",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/asi-quedo-la-via-panamericana-en-el-sector-el-tunel-tras-atentado-terrorista-con-cilindro-bomba-que-afecto-gravemente-la-carretera-3550939",
-        "published_date": "2026-04-26 04:51:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tremor today in Colombia |They report an earthquake in the Bucaramanga Seismic Nest in the early hours of this April 26;epicenter, magnitude and depth",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/temblor-hoy-en-colombia-reportan-sismo-en-el-nido-sismico-de-bucaramanga-en-la-madrugada-de-este-26-de-abril-epicentro-magnitud-y-profundidad-3550941",
-        "published_date": "2026-04-26 03:36:29",
         "category": "Local Events"
     }
 ]
