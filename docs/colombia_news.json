@@ -1,5 +1,19 @@
 [
     {
+        "title": "UN cuts put feminist diplomacy at risk",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-las-mujeres/los-recortes-de-la-onu-ponen-en-riesgo-la-diplomacia-feminista/",
+        "published_date": "2026-04-30 22:50:00",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Parents protest at a school in Polonuevo (Atl\u00e1ntico) due to the presence of nests, babies and bat excrement inside the school",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/padres-de-familia-protestan-en-colegio-de-polonuevo-atlantico-por-presencia-de-nidos-crias-y-excremento-de-murcielagos-al-interior-del-plantel-3552298",
+        "published_date": "2026-04-30 16:30:00",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Pope Leo XIV spoke after terrorist escalation in Cauca and Valle and expressed concern about episodes of violence: 'Serious loss of life'",
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/el-papa-leon-xiv-expreso-su-preocupacion-por-los-episodios-de-violencia-en-el-suroeste-de-colombia-con-dolor-y-preocupacion-3551758",
@@ -47,6 +61,13 @@
         "url": "https://www.larepublica.co/economia/gustavo-petro-niega-relacion-con-integrante-del-ejecutivo-tras-polemica-por-denuncias-4378290",
         "published_date": "2026-04-23 23:27:55",
         "category": "Diplomacy"
+    },
+    {
+        "title": "Movie chase in Medell\u00edn: two notable robbers who were recorded robbing on public roads fell, one had an Inpec bracelet",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/persecucion-de-pelicula-en-medellin-cayeron-dos-senalados-atracadores-que-fueron-grabados-atracando-en-via-publica-uno-tenia-brazalete-del-inpec-3552310",
+        "published_date": "2026-04-30 17:03:54",
+        "category": "Military"
     },
     {
         "title": "Terrorist attacks in Cauca, Valle del Cauca and Nari\u00f1o: Minister of Defense announced new security measures in the border area with Ecuador",
@@ -182,11 +203,46 @@
         "category": "Military"
     },
     {
-        "title": "Cauca leader, Patricia Mosquera, was one of the fatal victims of the dissident attack in Cajib\u00edo",
+        "title": "Government will call an extraordinary meeting of Ecopetrol to make adjustments to the board",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/gobierno-convocara-asamblea-extraordinaria-de-ecopetrol-para-hacer-ajustes-en-la-junta-4383356",
+        "published_date": "2026-04-30 22:49:46",
+        "category": "Energy"
+    },
+    {
+        "title": "Detector: Petro did not increase the deficit to $130 billion in the Gasoline Fund",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/detector-petro-no-subio-deficit-a-130-billones-en-el-fondo-de-la-gasolina/",
+        "published_date": "2026-04-30 22:20:42",
+        "category": "Energy"
+    },
+    {
+        "title": "Ministry of Finance confirmed increase of $400 in the price of gasoline in May",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/ministerio-de-hacienda-confirmo-aumento-de-400-en-el-precio-de-la-gasolina-en-mayo-4383195",
+        "published_date": "2026-04-30 18:51:28",
+        "category": "Energy"
+    },
+    {
+        "title": "Charges are brought against former queen and actress Yeimy Paola Vargas for alleged falsehood and embezzlement in a contract with IPCC in Cartagena: she did not accept responsibility",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/lideresa-del-cauca-patricia-mosquera-fue-una-de-las-victimas-mortales-del-ataque-de-disidencias-en-cajibio-3550896",
-        "published_date": "2026-04-25 18:27:51",
-        "category": "Military"
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/imputan-cargos-a-exreina-y-actriz-yeimy-paola-vargas-por-presunta-falsedad-y-peculado-en-contrato-con-ipcc-en-cartagena-no-acepto-responsabilidad-3552344",
+        "published_date": "2026-04-30 18:44:45",
+        "category": "Energy"
+    },
+    {
+        "title": "Oil production reached 740,812 barrels per day in the first quarter",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/produccion-de-petroleo-alcanzo-740-497-barriles-por-dia-a-cierre-del-primer-trimestre-4383064",
+        "published_date": "2026-04-30 17:14:03",
+        "category": "Energy"
+    },
+    {
+        "title": "For every US$1 that the brent rises, nearly $500,000 million enter Ecopetrol's profits",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/por-cada-us-1-que-sube-el-brent-entran-cerca-de-500-000-millones-a-utilidad-de-ecopetrol-4382788",
+        "published_date": "2026-04-30 13:21:47",
+        "category": "Energy"
     },
     {
         "title": "Government proposes possible divestment in 38 Ecopetrol assets in 2026 plan",
@@ -287,46 +343,18 @@
         "category": "Energy"
     },
     {
-        "title": "Ecopetrol Group added 951 MW of renewable energy capacity in 2025",
+        "title": "Banco de la Rep\u00fablica kept the interest rate unchanged at 11.25% for May",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/grupo-ecopetrol-incorporo-951-mw-de-capacidad-de-energia-renovable-al-cierre-de-2025-4380798",
-        "published_date": "2026-04-28 01:19:20",
-        "category": "Energy"
+        "url": "https://www.larepublica.co/economia/banco-de-la-republica-revelara-tasas-de-interes-4383060",
+        "published_date": "2026-04-30 17:09:27",
+        "category": "Economy"
     },
     {
-        "title": "Indigenous people define 15 proposals to leave fossil fuels behind",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/indigenas-definen-15-propuestas-para-dejar-atras-los-combustibles-fosiles/",
-        "published_date": "2026-04-28 01:07:06",
-        "category": "Energy"
-    },
-    {
-        "title": "President Petro insists on his attacks on La Silla Vac\u00eda",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/presidente-petro-insiste-en-sus-ataques-a-la-silla-vacia/",
-        "published_date": "2026-04-27 23:48:27",
-        "category": "Energy"
-    },
-    {
-        "title": "Agreement for US$3.48 million marks progress in energy relations with Venezuela",
+        "title": "Colombia faces risk of institutional crisis at the Issuer's rate meeting",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/firma-de-acuerdo-por-us-3-48-millones-marca-avance-en-relacion-energetica-con-venezuela-4380436",
-        "published_date": "2026-04-27 18:27:37",
-        "category": "Energy"
-    },
-    {
-        "title": "Cartagena |Yeimy Paola Vargas case: the keys to the file of the actress and former queen for alleged falsehood and what is at stake in the accusation",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/fiscalia-imputara-cargos-a-actriz-y-exreina-yeimy-vargas-por-presunta-falsedad-en-contrato-con-instituto-de-patrimonio-y-cultura-de-cartagena-en-3551357",
-        "published_date": "2026-04-27 18:20:22",
-        "category": "Energy"
-    },
-    {
-        "title": "Ecopetrol projects income of between $27 billion and $30 billion in the first quarter",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/ecopetrol-proyecta-ingresos-de-entre-27-billones-y-30-billones-en-el-primer-trimestre-4380277",
-        "published_date": "2026-04-27 16:48:58",
-        "category": "Energy"
+        "url": "https://www.larepublica.co/economia/colombia-enfrenta-riesgo-de-crisis-institucional-en-la-reunion-sobre-tasas-del-emisor-4382942",
+        "published_date": "2026-04-30 14:43:58",
+        "category": "Economy"
     },
     {
         "title": "Anif foresees an increase in interest rates of the Bank of the Republic of between 11.75% to 12%",
@@ -413,157 +441,143 @@
         "category": "Economy"
     },
     {
-        "title": "The back-and-forth between Villar and \u00c1vila continues given the recent adjustments in monetary policy",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/continua-el-vaiven-entre-leonardo-villar-y-german-avila-por-aumento-de-la-tasa-de-interes-4376980",
-        "published_date": "2026-04-22 17:20:53",
-        "category": "Economy"
+        "title": "Government sends request to India for possible transfer of hippos",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/gobierno-envia-peticion-a-india-para-posible-traslado-de-hipopotamos/",
+        "published_date": "2026-04-30 23:41:31",
+        "category": "Local Events"
     },
     {
-        "title": "In March, 66% of companies recorded lower sales than a year ago",
+        "title": "Uribe's phrase about \u201cbombing Colombia\u201d was taken out of context",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/detector-de-mentiras/enganoso/frase-de-uribe-sobre-bombardear-a-colombia-fue-sacada-de-contexto/",
+        "published_date": "2026-04-30 23:38:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "Global loss of primary tropical forests decreased by 36% in 2025",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/disminuyo-36-la-perdida-mundial-de-bosques-tropicales-primarios-en-2025/",
+        "published_date": "2026-04-30 23:18:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "After denying it, Petro confirms meeting with \u201cPap\u00e1 Smurf\u201d's lawyer",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/tras-negarlo-petro-confirma-reunion-con-abogado-de-papa-pitufo/",
+        "published_date": "2026-04-30 23:00:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "Dane: Unemployment in Colombia reached 8.8% in March 2026",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/dane-desempleo-en-colombia-llego-al-88-en-marzo-de-2026/",
+        "published_date": "2026-04-30 22:55:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "Close minds to win elections",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-democracia-y-tecnologia/cerrar-mentes-para-ganar-elecciones/",
+        "published_date": "2026-04-30 22:26:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Miguel Uribe's father anonymously rejected Uribe about the assassination of his son",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/miguel-uribe-papa-rechazo-anonimo-a-uribe-sobre-magnicidio-de-su-hijo/",
+        "published_date": "2026-04-30 22:10:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "New EPS agrees to payment to INC to guarantee service to patients",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/nueva-eps-acuerda-pago-a-inc-para-garantizar-servicio-a-pacientes/",
+        "published_date": "2026-04-30 22:06:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Banco de la Rep\u00fablica kept the interest rate unchanged and placed it at 11.25% in May",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/en-marzo-66-de-las-empresas-registraron-ventas-iguales-o-menores-que-hace-un-ano-4376921",
-        "published_date": "2026-04-22 15:50:29",
-        "category": "Economy"
+        "url": "https://www.larepublica.co/economia/banco-de-la-republica-mantuvo-inalterada-la-tasa-de-interes-y-la-ubico-en-11-25-4383137",
+        "published_date": "2026-04-30 18:34:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "Video: brutal fight in Manizales left a man unconscious in the middle of the road;Two attackers captured after fight over alleged traffic collision",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/video-brutal-rina-en-manizales-dejo-a-un-hombre-inconsciente-en-plena-via-capturan-a-dos-agresores-tras-pelea-por-presunto-choque-de-transito-3552303",
+        "published_date": "2026-04-30 18:30:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "Vallenato needs heritage actions to guarantee its traditional essence and ensure its permanence, say cultural managers",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/el-vallenato-necesita-acciones-de-patrimonializacion-para-garantizar-su-esencia-tradicional-y-asegurar-su-permanencia-aseguran-gestores-culturales-3552332",
+        "published_date": "2026-04-30 18:15:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Driver of van used by false police command that shot 'El Diablo' in Villavicencio fell: this revealed key video and facial analysis",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/cayo-conductor-de-furgoneta-usada-por-falso-comando-policial-que-acribillo-a-el-diablo-en-villavicencio-esto-revelo-video-clave-y-analisis-facial-3552299",
+        "published_date": "2026-04-30 17:45:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "JetSMART came to operate at the Palonegro international airport, in Bucaramanga: there are new routes with that airline",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/jetsmart-llego-a-operar-a-al-aeropuerto-internacional-palonegro-en-bucaramanga-hay-nuevas-rutas-con-esa-aerolinea-3552323",
+        "published_date": "2026-04-30 17:31:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "Barranquilla: Jorge Senior will defend his contract as rector of the Autonomous University of the Caribbean before the labor court",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-jorge-senior-defendera-ante-la-justicia-laboral-su-contrato-como-rector-en-propiedad-de-la-universidad-autonoma-del-caribe-3552312",
+        "published_date": "2026-04-30 17:27:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "Atlantic |Papyrus Toll: Council of State will define key appeal after ruling that recognized damage, but did not order the toll to be dismantled",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/atlantico-peaje-papiros-consejo-de-estado-definira-apelacion-clave-tras-fallo-que-reconocio-danos-pero-no-ordeno-desmontar-la-caseta-3552301",
+        "published_date": "2026-04-30 16:21:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "Alias \u200b\u200bTortugo and the machinery of the hitman: the capture that dismantles the armed wing of 'los Rastrojos - Nueva Generaci\u00f3n' in Valle del Cauca",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/alias-tortugo-y-la-maquinaria-del-sicariato-la-captura-que-desmantela-el-brazo-armado-de-los-rastrojos-nueva-generacion-en-el-valle-del-cauca-3552286",
+        "published_date": "2026-04-30 16:01:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "MinComercio issued a decree of tariffs on products from Ecuador with rates of up to 75%",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/mincomercio-expidio-decreto-de-aranceles-a-productos-ecuador-con-tasas-de-hasta-75-4382993",
+        "published_date": "2026-04-30 15:59:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "In March, 2.34 million unemployed people were registered, with a rate of 8.8%",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/tasa-de-desocupacion-con-corte-a-marzo-dada-por-el-dane-4382992",
+        "published_date": "2026-04-30 15:33:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "The unemployment rate in March was 8.8%, with 2.3 million unemployed",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/dane-presentara-las-cifras-de-mercado-laboral-con-corte-a-marzo-4382928",
+        "published_date": "2026-04-30 14:37:16",
+        "category": "Local Events"
     },
     {
         "title": "Paloma and Abelardo behind Trump's wink",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/paloma-y-abelardo-detras-del-guino-de-trump/",
         "published_date": "2026-04-30 12:02:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Breakfast informed with the movements of this April 30, 2026",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-movidas-de-este-30-de-abril-de-2026/",
-        "published_date": "2026-04-30 12:02:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "Minister \u00c1vila's attendance at the rate meeting with the Bank of the Republic remains in suspense",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/asistencia-del-minhacienda-a-la-junta-de-tasas-con-el-banco-de-la-republica-sigue-en-vilo-4382725",
-        "published_date": "2026-04-30 11:45:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cepeda in the first round?: four pieces of information that indicate that there will be a second round in Colombia",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/cepeda-en-primera-cuatro-datos-que-apuntan-a-que-habra-segunda-vuelta/",
-        "published_date": "2026-04-30 07:01:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tremor today in Colombia |Earthquake during the night of this Wednesday, April 29: epicenter, magnitude and depth",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-hoy-en-colombia-fuerte-sismo-durante-la-noche-de-este-miercoles-29-de-abril-epicentro-magnitud-y-profundidad-3552077",
-        "published_date": "2026-04-30 05:52:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "Companies in liquidation and IES will not have to pay wealth tax",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/empresas-en-liquidacion-y-universidades-no-pagaran-cuota-de-impuesto-al-patrimonio-4382592",
-        "published_date": "2026-04-30 05:01:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "Half of the reservoirs are below 80% full before the arrival of El Ni\u00f1o",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/la-mitad-de-los-embalses-esta-por-debajo-de-80-de-llenado-ante-llegada-de-el-nino-4381811",
-        "published_date": "2026-04-30 05:00:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Sena opens a store for Colombian farmers with an investment of 1,500 million pesos throughout the country",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/el-sena-abre-tienda-para-campesinos-colombianos-con-una-inversion-de-1-500-millones-de-pesos-en-todo-el-pais-3551799",
-        "published_date": "2026-04-30 04:55:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Colombian Military Forces confirmed the rescue of five people who were missing after a terrorist attack in Cauca: this is known",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/las-fuerzas-militares-de-colombia-confirmaron-el-hallazgo-de-cinco-personas-que-estaban-desaparecidas-tras-ataque-terrorista-en-el-cauca-esto-se-sabe-3552084",
-        "published_date": "2026-04-30 03:21:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "Be careful, driver!Peak and plaque in Bucaramanga for Thursday, April 30, 2026",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/cuidado-conductor-pico-y-placa-en-bucaramanga-para-el-jueves-30-de-abril-de-3552087",
-        "published_date": "2026-04-30 02:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Batteries, driver!Peak and plate in Pereira for Thursday, April 30, 2026",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/pilas-conductor-pico-y-placa-en-pereira-para-el-jueves-30-de-abril-de-3552086",
-        "published_date": "2026-04-30 02:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Find out the details of the peak and plate in Medell\u00edn for Thursday, April 30, 2026",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/conozca-los-detalles-del-pico-y-placa-en-medellin-para-el-jueves-30-de-abril-de-3552085",
-        "published_date": "2026-04-30 02:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Avoid fines: peak and plate in Cali for Thursday, April 30, 2026",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/evite-multas-pico-y-placa-en-cali-para-el-jueves-30-de-abril-de-3552082",
-        "published_date": "2026-04-30 02:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "MinSalud disavows the Cancer Institute's restriction on Nueva EPS patients",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/minsalud-desautoriza-restriccion-del-instituto-de-cancerologia-a-pacientes-de-nueva-eps-4382630",
-        "published_date": "2026-04-30 01:23:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fenalco assured that partial suspension does not stop tax damages",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/fenalco-aseguro-que-suspension-parcial-no-frena-consecuencias-del-impuesto-al-patrimonio-4382611",
-        "published_date": "2026-04-30 01:00:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sleep informed with the key of this April 29, 2026",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-lo-clave-de-este-29-de-abril-de-2026/",
-        "published_date": "2026-04-30 00:04:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "Santa Marta Antifossil Conference closes with announcement of an upcoming one",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/cierra-conferencia-antifosiles-de-santa-marta-con-anuncio-de-una-proxima/",
-        "published_date": "2026-04-29 23:49:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cThere is no prohibition, but it will not be a priority\u201d: Cepeda on constituent",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/no-hay-prohibicion-pero-no-sera-prioridad-cepeda-sobre-constituyente/",
-        "published_date": "2026-04-29 23:41:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "Noboa says that Petro ordered an armed incursion.Petro proposes dialogue",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/noboa-dice-que-petro-ordeno-incursion-armada-petro-propone-dialogo/",
-        "published_date": "2026-04-29 23:10:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "Petro attended the launch of the book 'Diary of a historical transition', written by Sheibaum",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/petro-asistio-al-lanzamiento-del-libro-diario-de-una-transicion-historica-escrito-por-sheibaum-4382425",
-        "published_date": "2026-04-29 23:01:50",
         "category": "Local Events"
     }
 ]
