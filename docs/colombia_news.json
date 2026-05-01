@@ -56,11 +56,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Gustavo Petro denies relationship with a member of the Executive after controversy over complaints",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/gustavo-petro-niega-relacion-con-integrante-del-ejecutivo-tras-polemica-por-denuncias-4378290",
-        "published_date": "2026-04-23 23:27:55",
-        "category": "Diplomacy"
+        "title": "The faces of the victims of the worst massacre in recent times in the country: 21 people murdered on the Pan-American Highway by an explosive",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/los-rostros-de-las-victimas-de-la-peor-masacre-en-los-ultimos-tiempos-del-pais-21-personas-asesinadas-en-la-via-panamericana-por-un-explosivo-3552461",
+        "published_date": "2026-05-01 16:32:12",
+        "category": "Military"
+    },
+    {
+        "title": "Without riots and with many political messages: this was the Labor Day demonstration in Barranquilla this May 1",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/sin-disturbios-y-con-muchos-mensajes-politicos-asi-fue-la-manifestacion-del-dia-del-trabajo-en-barranquilla-este-1-de-mayo-3552464",
+        "published_date": "2026-05-01 13:01:00",
+        "category": "Military"
     },
     {
         "title": "May 1: Petro covers up his worst defects to boost Cepeda",
@@ -186,20 +193,6 @@
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/tras-ultimatum-gobierno-reanuda-dialogos-con-el-ejercito-bolivariano/",
         "published_date": "2026-04-26 22:54:50",
-        "category": "Military"
-    },
-    {
-        "title": "Video |Truck was crossed and set on fire on a key road in Jamund\u00ed, Valle del Cauca;this is known",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/video-camion-fue-atravesado-e-incendiado-en-via-clave-en-jamundi-valle-del-cauca-3551063",
-        "published_date": "2026-04-26 20:30:17",
-        "category": "Military"
-    },
-    {
-        "title": "Ministry of Defense ordered investigations into illegal mines spread to the Army base",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/mindefensa-ordeno-investigaciones-por-mina-ilegal-extendida-a-base-del-ejercito/",
-        "published_date": "2026-04-26 18:26:19",
         "category": "Military"
     },
     {
@@ -434,157 +427,143 @@
         "category": "Economy"
     },
     {
-        "title": "Economic dependence: Colombia's challenge in abandoning fossils",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/dependencia-economica-el-reto-de-colombia-al-dejar-los-fosiles/",
-        "published_date": "2026-04-23 22:16:39",
-        "category": "Economy"
-    },
-    {
-        "title": "Petro attacks Carrasquilla and points out that he 'gets richer' with a rate increase",
+        "title": "Fedegan warns of \"illegality\" in the decree to set quotas for the export of live steers",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/petro-arremete-contra-carrasquilla-y-senala-que-se-hace-mas-rico-con-subida-de-tasa-4377784",
-        "published_date": "2026-04-23 13:55:23",
-        "category": "Economy"
+        "url": "https://www.larepublica.co/economia/fedegan-advierte-ilegalidad-en-decreto-para-fijar-cupos-a-la-exportacion-novillos-vivos-4383921",
+        "published_date": "2026-05-01 23:11:05",
+        "category": "Local Events"
     },
     {
-        "title": "Central Ganadera estimates losses of $12,000 million after 10 days of Sinigan failures",
+        "title": "Petro vs.Fico for the call in his speech in Medell\u00edn",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/petro-vs-fico-por-la-convocatoria-en-su-discurso-en-medellin/",
+        "published_date": "2026-05-01 22:17:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "Government began collecting signatures for the Constituent Assembly, needs to obtain 5 million",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/central-ganadera-estima-perdidas-por-12-000-millones-tras-10-dias-de-fallas-de-sinigan-4383383",
-        "published_date": "2026-05-01 05:01:35",
+        "url": "https://www.larepublica.co/economia/gobierno-inicio-recoleccion-de-firmas-para-la-constituyente-necesita-obtener-5-millones-4383901",
+        "published_date": "2026-05-01 21:46:52",
         "category": "Local Events"
     },
     {
-        "title": "Six out of every 10 new jobs created in the last year belong to the State",
+        "title": "An attack can turn an election",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/opinion/un-atentado-puede-voltear-una-eleccion/",
+        "published_date": "2026-05-01 21:28:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Without Hormuz agreement, there is danger of a global crisis",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/sin-acuerdo-de-ormuz-hay-peligro-de-una-crisis-mundial/",
+        "published_date": "2026-05-01 20:45:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cThe time has come to be a constituent power\u201d: Iv\u00e1n Cepeda",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/ha-llegado-el-tiempo-de-ser-poder-constituyente-ivan-cepeda/",
+        "published_date": "2026-05-01 19:48:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "The National Constituent Assembly will be officially presented on July 20",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/seis-de-cada-10-nuevos-empleos-creados-en-el-ultimo-ano-le-pertenecen-al-estado-4383511",
-        "published_date": "2026-05-01 05:01:24",
+        "url": "https://www.larepublica.co/economia/la-asamblea-nacional-constituyente-seria-presentada-oficialmente-el-proximo-20-de-julio-4383853",
+        "published_date": "2026-05-01 19:16:18",
         "category": "Local Events"
     },
     {
-        "title": "One in four products from Ecuador will have tariffs of up to 75%",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/uno-de-cada-cuatro-productos-provenientes-del-ecuador-tendran-arancele-de-hasta-75-4383414",
-        "published_date": "2026-05-01 05:00:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "Gustavo Petro announced that tomorrow he will convene the National Constituent Assembly",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/gustavo-petro-anuncio-que-manana-convocara-la-asamblea-nacional-constituyente-4383699",
-        "published_date": "2026-05-01 02:06:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "Abelardist attacks sow division and disorder in Paloma's campaign",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/ataques-de-abelardistas-siembran-division-y-desorden-en-la-campana-de-paloma/",
-        "published_date": "2026-05-01 00:25:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "Detector: Invamer survey did not place Paloma Valencia in second place",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/detector-encuesta-invamer-no-ubico-a-paloma-valencia-en-segundo-lugar/",
-        "published_date": "2026-05-01 00:10:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sleep informed with the key moves of this April 30, 2026",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-movidas-clave-de-este-30-de-abril-de-2026/",
-        "published_date": "2026-05-01 00:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Government sends request to India for possible transfer of hippos",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/gobierno-envia-peticion-a-india-para-posible-traslado-de-hipopotamos/",
-        "published_date": "2026-04-30 23:41:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "Uribe's phrase about \u201cbombing Colombia\u201d was taken out of context",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/detector-de-mentiras/enganoso/frase-de-uribe-sobre-bombardear-a-colombia-fue-sacada-de-contexto/",
-        "published_date": "2026-04-30 23:38:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "Global loss of primary tropical forests decreased by 36% in 2025",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/disminuyo-36-la-perdida-mundial-de-bosques-tropicales-primarios-en-2025/",
-        "published_date": "2026-04-30 23:18:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "After denying it, Petro confirms meeting with \u201cPap\u00e1 Smurf\u201d's lawyer",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/tras-negarlo-petro-confirma-reunion-con-abogado-de-papa-pitufo/",
-        "published_date": "2026-04-30 23:00:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Dane: Unemployment in Colombia reached 8.8% in March 2026",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/dane-desempleo-en-colombia-llego-al-88-en-marzo-de-2026/",
-        "published_date": "2026-04-30 22:55:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "Close minds to win elections",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-democracia-y-tecnologia/cerrar-mentes-para-ganar-elecciones/",
-        "published_date": "2026-04-30 22:26:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Miguel Uribe's father anonymously rejected Uribe about the assassination of his son",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/miguel-uribe-papa-rechazo-anonimo-a-uribe-sobre-magnicidio-de-su-hijo/",
-        "published_date": "2026-04-30 22:10:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "New EPS agrees to payment to INC to guarantee service to patients",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/nueva-eps-acuerda-pago-a-inc-para-garantizar-servicio-a-pacientes/",
-        "published_date": "2026-04-30 22:06:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Who decides today about the information on how you pay, save or access credit?Panorama of the Intersectoral Working Group on Financial Inclusion",
+        "title": "'Platform 2.0'?Mayor of Medell\u00edn says that bands would have financed logistics to bring people from other municipalities to march on Labor Day",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/quien-decide-hoy-sobre-la-informacion-de-como-paga-ahorra-o-accede-a-un-credito-panorama-de-mesa-de-trabajo-intersectorial-de-inclusion-financiera-3552370",
-        "published_date": "2026-04-30 20:27:00",
+        "url": "https://www.eltiempo.com/colombia/medellin/tarimazo-2-0-alcalde-de-medellin-dice-que-bandas-habrian-financiado-logistica-para-traer-gente-de-otros-municipios-a-marchar-el-dia-del-trabajo-3552492",
+        "published_date": "2026-05-01 18:25:54",
         "category": "Local Events"
     },
     {
-        "title": "Why did motorcycles become the main means of transportation in Cali over the MIO public buses?Survey revealed the factors",
+        "title": "The story of Samuel, the boy who relapsed due to lack of hemophilia medication: 'I could be left with that damaged leg'",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/por-que-las-motos-se-volvieron-el-principal-medio-de-transporte-en-cali-por-encima-de-los-buses-publicos-del-mio-encuesta-revelo-los-factores-3552356",
-        "published_date": "2026-04-30 20:01:22",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/la-historia-de-samuel-el-nino-que-recayo-por-falta-del-medicamento-para-la-hemofilia-puedo-quedar-con-esa-pierna-danada-3552465",
+        "published_date": "2026-05-01 18:04:17",
         "category": "Local Events"
     },
     {
-        "title": "On May 6 and 7 Perrenque Creativo 2026 returns to Barranquilla with the focus on global thinking, communication industry and female leadership",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/el-6-y-7-de-mayo-perrenque-creativo-2026-vuelve-a-barranquilla-con-el-foco-en-pensamiento-global-industria-comunicativa-y-liderazgo-femenino-3552362",
-        "published_date": "2026-04-30 20:01:00",
+        "title": "Zapateiro, investigated for sexual harassment, leaves the De La Espriella campaign",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/zapateiro-investigado-por-acoso-sexual-deja-la-campana-de-de-la-espriella/",
+        "published_date": "2026-05-01 17:53:30",
         "category": "Local Events"
     },
     {
-        "title": "Doubts about a precautionary measure for Emcali to include in the invoice a charge that would be additional to 154,000 users for a third party: 'Be careful with double billing'",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/dudas-por-medida-cautelar-para-que-emcali-incluya-en-factura-cobro-que-seria-adicional-a-154-000-usuarios-para-un-tercero-ojo-con-doble-facturacion-3552334",
-        "published_date": "2026-04-30 19:03:24",
+        "title": "Unfair assessments and unpayable taxes affect rural women the most",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-las-mujeres/avaluos-injustos-e-impuesto-impagables-afectan-mas-a-las-mujeres-rurales/",
+        "published_date": "2026-05-01 17:31:20",
         "category": "Local Events"
     },
     {
-        "title": "Banco de la Rep\u00fablica kept the interest rate unchanged and placed it at 11.25% in May",
+        "title": "Losses to intermunicipal transportation in the south of the country exceed $4,000 million",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/banco-de-la-republica-mantuvo-inalterada-la-tasa-de-interes-y-la-ubico-en-11-25-4383137",
-        "published_date": "2026-04-30 18:34:30",
+        "url": "https://www.larepublica.co/economia/las-perdidas-al-transporte-intermunicipal-en-el-sur-del-pais-superan-4-000-millones-4383813",
+        "published_date": "2026-05-01 17:15:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cumbia for goodbye: this was the emotional last tribute to the childhood King Momo who was murdered in the southeast of Barranquilla",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/cumbia-para-el-adios-asi-fue-el-emotivo-ultimo-homenaje-al-rey-momo-infantil-que-fue-asesinado-en-el-suroriente-de-barranquilla-3552486",
+        "published_date": "2026-05-01 17:01:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The day of demonstrations for International Labor Day began",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/inicio-la-jornada-de-manifestaciones-a-nivel-nacional-por-el-dia-internacional-del-trabajo-4383802",
+        "published_date": "2026-05-01 16:52:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "Atlantic |22 motorcycles immobilized in Puerto Colombia in an operation against illegal pickets: citizens had been making the claim",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/atlantico-22-motocicletas-inmovilizadas-en-puerto-colombia-en-un-operativo-contra-los-piques-ilegales-la-ciudadania-venia-haciendo-el-reclamo-3552485",
+        "published_date": "2026-05-01 16:07:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "CNE opens investigation against Cepeda for irregular financing",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/cne-abre-indagacion-contra-cepeda-por-financiacion-irregular/",
+        "published_date": "2026-05-01 16:06:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "It's not you, it's algorithmic design",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-democracia-y-tecnologia/no-eres-tu-es-el-diseno-algoritmico/",
+        "published_date": "2026-05-01 15:16:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cepeda celebrates support from workers' confederations, a leader opposes",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/cepeda-celebra-apoyo-de-centrales-de-trabajadores-un-dirigente-se-opone/",
+        "published_date": "2026-05-01 14:21:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "Petro announced that he will convene the national constituent assembly from Medell\u00edn",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/petro-anuncio-que-convocara-la-asamblea-nacional-constituyente-desde-medellin-4383781",
+        "published_date": "2026-05-01 14:07:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "Aida Quilcu\u00e9 and Francia M\u00e1rquez participate in the Labor Day march in Cali: the mobilization arrived in Puerto Rellena",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/aida-quilcue-y-francia-marquez-participan-en-la-marcha-del-dia-del-trabajo-en-cali-la-movilizacion-llego-a-puerto-rellena-3552459",
+        "published_date": "2026-05-01 14:03:02",
         "category": "Local Events"
     }
 ]
