@@ -56,6 +56,13 @@
         "category": "Diplomacy"
     },
     {
+        "title": "The ELN attacks a police station in Choc\u00f3 with drones again: two police officers are injured and tension increases in the area",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/el-eln-vuelve-a-atacar-con-drones-una-estacion-de-policia-en-choco-hay-dos-policias-heridos-y-aumenta-la-tension-en-la-zona-3552520",
+        "published_date": "2026-05-01 22:53:45",
+        "category": "Military"
+    },
+    {
         "title": "The faces of the victims of the worst massacre in recent times in the country: 21 people murdered on the Pan-American Highway by an explosive",
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/cali/los-rostros-de-las-victimas-de-la-peor-masacre-en-los-ultimos-tiempos-del-pais-21-personas-asesinadas-en-la-via-panamericana-por-un-explosivo-3552461",
@@ -186,13 +193,6 @@
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/cali/atribuyen-quema-de-un-camion-con-pollos-en-un-puente-de-la-zona-rural-de-jamundi-valle-a-la-disidencia-jaime-martinez-de-ivan-mordisco-3551093",
         "published_date": "2026-04-27 00:30:02",
-        "category": "Military"
-    },
-    {
-        "title": "After ultimatum, government resumes dialogues with the Bolivarian Army",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/tras-ultimatum-gobierno-reanuda-dialogos-con-el-ejercito-bolivariano/",
-        "published_date": "2026-04-26 22:54:50",
         "category": "Military"
     },
     {
@@ -420,11 +420,25 @@
         "category": "Economy"
     },
     {
-        "title": "Wife of MinHacienda would arrive at Caja Honor, which manages billions in Defense",
+        "title": "Imputation to \u201cCalarc\u00e1\u201d: a late correction to total peace without conditions",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/esposa-de-minhacienda-llegaria-a-caja-honor-que-maneja-billones-en-defensa/",
-        "published_date": "2026-04-24 00:15:00",
-        "category": "Economy"
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/imputacion-a-calarca-una-correccion-tardia-a-una-paz-total-sin-condiciones/",
+        "published_date": "2026-05-02 05:05:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Simulating rain on the asphalt: technical evaluation of the gravity irrigation system under the Estadio station of the Medell\u00edn Metro",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/simulando-la-lluvia-en-el-asfalto-evaluacion-tecnica-del-sistema-de-riego-por-gravedad-bajo-la-estacion-estadio-del-metro-de-medellin-3552528",
+        "published_date": "2026-05-02 01:05:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "They reveal hypotheses of the serious accident in the Chicamocha Canyon, near Panachi Park, which left one person dead: 'He came alone'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/revelan-hipotesis-del-grave-accidente-en-el-canon-del-chicamocha-a-la-altura-del-parque-panachi-que-dejo-una-persona-fallecida-venia-solo-3552506",
+        "published_date": "2026-05-02 00:18:48",
+        "category": "Local Events"
     },
     {
         "title": "Fedegan warns of \"illegality\" in the decree to set quotas for the export of live steers",
@@ -462,6 +476,13 @@
         "category": "Local Events"
     },
     {
+        "title": "Are you going on a festive long weekend in Valle del Cauca?Take note of the points of attention and the device of the authorities for a safe trip",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/se-va-de-puente-festivo-en-el-valle-del-cauca-tome-nota-de-los-puntos-de-atencion-y-el-dispositivo-de-las-autoridades-para-un-viaje-seguro-3552503",
+        "published_date": "2026-05-01 20:29:51",
+        "category": "Local Events"
+    },
+    {
         "title": "\u201cThe time has come to be a constituent power\u201d: Iv\u00e1n Cepeda",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/ha-llegado-el-tiempo-de-ser-poder-constituyente-ivan-cepeda/",
@@ -473,6 +494,13 @@
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/la-asamblea-nacional-constituyente-seria-presentada-oficialmente-el-proximo-20-de-julio-4383853",
         "published_date": "2026-05-01 19:16:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "Truck fell into the abyss of the Chicamocha Canyon, near Panachi Park, rolling 400 meters: the driver died",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/camioneta-se-cayo-por-el-abismo-del-canon-del-chicamocha-a-la-altura-del-parque-panachi-rodo-400-metros-el-conductor-murio-3552500",
+        "published_date": "2026-05-01 18:58:42",
         "category": "Local Events"
     },
     {
@@ -529,41 +557,6 @@
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/barranquilla/atlantico-22-motocicletas-inmovilizadas-en-puerto-colombia-en-un-operativo-contra-los-piques-ilegales-la-ciudadania-venia-haciendo-el-reclamo-3552485",
         "published_date": "2026-05-01 16:07:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "CNE opens investigation against Cepeda for irregular financing",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/cne-abre-indagacion-contra-cepeda-por-financiacion-irregular/",
-        "published_date": "2026-05-01 16:06:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "It's not you, it's algorithmic design",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-democracia-y-tecnologia/no-eres-tu-es-el-diseno-algoritmico/",
-        "published_date": "2026-05-01 15:16:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cepeda celebrates support from workers' confederations, a leader opposes",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/cepeda-celebra-apoyo-de-centrales-de-trabajadores-un-dirigente-se-opone/",
-        "published_date": "2026-05-01 14:21:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "Petro announced that he will convene the national constituent assembly from Medell\u00edn",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/petro-anuncio-que-convocara-la-asamblea-nacional-constituyente-desde-medellin-4383781",
-        "published_date": "2026-05-01 14:07:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Aida Quilcu\u00e9 and Francia M\u00e1rquez participate in the Labor Day march in Cali: the mobilization arrived in Puerto Rellena",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/aida-quilcue-y-francia-marquez-participan-en-la-marcha-del-dia-del-trabajo-en-cali-la-movilizacion-llego-a-puerto-rellena-3552459",
-        "published_date": "2026-05-01 14:03:02",
         "category": "Local Events"
     }
 ]
