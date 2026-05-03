@@ -42,6 +42,13 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Drone attacks, riots and complex geography: the 'perfect storm' that delays the construction of the High Mountain Battalion in Jamund\u00ed",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/ataques-con-drones-asonadas-y-geografia-compleja-la-tormenta-perfecta-que-retrasa-la-construccion-del-batallon-de-alta-montana-en-jamundi-3552665",
+        "published_date": "2026-05-03 00:32:12",
+        "category": "Military"
+    },
+    {
         "title": "Do you have an idea to improve Medell\u00edn?FutuMed invites you to apply for your technological project until May 30 in Ruta N",
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/medellin/tiene-una-idea-para-mejorar-medellin-futumed-invita-a-postular-su-proyecto-tecnologico-hasta-el-30-de-mayo-en-ruta-n-3552628",
@@ -172,13 +179,6 @@
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/santander/buscan-en-todo-el-pais-a-alias-julito-adolescente-senalado-de-cometer-15-homicidios-y-que-se-fugo-de-una-correccional-en-bogota-hay-recompensa-3551304",
         "published_date": "2026-04-27 16:35:14",
-        "category": "Military"
-    },
-    {
-        "title": "The New York Times denounced the Clan del Golfo gold mine that operates on a military base",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/the-new-york-times-denuncio-mina-de-oro-del-clan-del-golfo-que-opera-en-base-militar-4380065",
-        "published_date": "2026-04-27 12:24:11",
         "category": "Military"
     },
     {
@@ -406,6 +406,27 @@
         "category": "Economy"
     },
     {
+        "title": "Between historical debt and bureaucracy: behind the increase in Petro's contracting with Cric",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/detras-del-aumento-en-la-contratacion-de-petro-con-el-cric/",
+        "published_date": "2026-05-03 06:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tremor today in Colombia |Earthquake during the early hours of this Sunday, May 3: epicenter, magnitude and depth",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-hoy-en-colombia-sismo-durante-la-madrugada-e-de-este-domingo-03-de-mayo-epicentro-magnitud-y-profundidad-3552670",
+        "published_date": "2026-05-03 03:24:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "'Valentina Mor' is detained in Medell\u00edn for alleged theft from a foreigner: police intervention prevented community attacks",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/retienen-a-valentina-mor-en-medellin-por-presunto-hurto-a-extranjero-intervencion-policial-evito-ataques-de-la-comunidad-3552666",
+        "published_date": "2026-05-03 00:07:08",
+        "category": "Local Events"
+    },
+    {
         "title": "Laura Mois\u00e1, co-director of the Issuer, calls for rethinking the global economic model",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/laura-moisa-codirectora-del-banco-de-la-republica-en-el-festival-de-economias-para-la-vida-4384092",
@@ -424,6 +445,13 @@
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/segundo-panel-en-el-festival-de-economias-para-la-vida-4384034",
         "published_date": "2026-05-02 21:45:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "The 21 lives that an explosive took on the Pan-American highway, in Cajib\u00edo: a dozen victims lived in a town in Cauca hit by other massacres",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/las-21-vidas-que-un-explosivo-arrebato-en-la-via-panamericana-en-cajibio-docena-de-victimas-vivian-en-un-pueblo-del-cauca-azotado-por-otras-masacres-3552633",
+        "published_date": "2026-05-02 21:26:58",
         "category": "Local Events"
     },
     {
@@ -452,6 +480,13 @@
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/pese-a-mejoras-a-nivel-nacional-57-de-los-municipios-aun-tienen-avances-limitados-4384047",
         "published_date": "2026-05-02 20:08:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tragedy in Vijes (Valle): a woman is murdered in front of her mother after armed men break into her home",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/tragedia-en-vijes-valle-asesinan-a-una-mujer-frente-a-su-madre-tras-irrupcion-de-hombres-armados-en-su-vivienda-3552636",
+        "published_date": "2026-05-02 19:40:44",
         "category": "Local Events"
     },
     {
@@ -508,41 +543,6 @@
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/inicio-el-festival-de-economias-para-la-vida-evento-para-discutir-un-modelo-economico-progresista-4383972",
         "published_date": "2026-05-02 16:07:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "Daniel Quintero opens an investigation into Fomag after Petro's order",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/daniel-quintero-abre-investigacion-al-fomag-tras-orden-de-petro/",
-        "published_date": "2026-05-02 15:04:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "Another fatal accident in Santander: truck overturned and rolled into a 100-meter abyss in Piedecuesta, driver died",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/otro-accidente-fatal-en-santander-camioneta-se-volco-y-rodo-a-un-abismo-de-100-metros-en-piedecuesta-conductor-murio-3552609",
-        "published_date": "2026-05-02 14:42:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Electoral Stories: Faith in the Ciro of Colombia",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/relatos-electorales-la-fe-en-el-ciro-de-colombia/",
-        "published_date": "2026-05-02 14:32:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Colombian soldier who traveled to Ukraine and died from the impact of a drone without fulfilling his dream of giving his mother a house",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/el-soldado-colombiano-que-viajo-a-ucrania-y-murio-por-el-impacto-de-un-dron-sin-cumplir-su-sueno-de-darle-una-casa-a-su-madre-3552604",
-        "published_date": "2026-05-02 14:23:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Oracles of an old world",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/opinion/oraculos-de-un-mundo-viejo/",
-        "published_date": "2026-05-02 13:55:58",
         "category": "Local Events"
     }
 ]
