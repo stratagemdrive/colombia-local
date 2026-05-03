@@ -42,6 +42,27 @@
         "category": "Diplomacy"
     },
     {
+        "title": "'They robbed me': Representative Mafe Carrascal reported having been a victim of theft in Cali hours before a public event with Iv\u00e1n Cepeda",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/me-robaron-la-representante-mafe-carrascal-denuncio-haber-sido-victima-de-hurto-en-cali-horas-antes-de-evento-publico-con-ivan-cepeda-3552757",
+        "published_date": "2026-05-03 16:49:14",
+        "category": "Military"
+    },
+    {
+        "title": "Success in the Cali Marathon: more than 40,000 attendees, security operations without incidents and a strong impact on the Cali economy",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/exito-en-la-maraton-de-cali-mas-de-40-000-asistentes-operativos-de-seguridad-sin-incidentes-y-un-fuerte-impacto-en-la-economia-calena-3552724",
+        "published_date": "2026-05-03 14:33:51",
+        "category": "Military"
+    },
+    {
+        "title": "Police allegedly murdered his close childhood friend over a debt of 20 million pesos: the victim's mother witnessed the death of her son",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/policia-habria-asesinado-a-su-amigo-intimo-de-la-infancia-por-una-deuda-de-20-millones-de-pesos-la-madre-de-la-victima-presencio-la-muerte-de-su-hijo-3552719",
+        "published_date": "2026-05-03 12:40:21",
+        "category": "Military"
+    },
+    {
         "title": "Drone attacks, riots and complex geography: the 'perfect storm' that delays the construction of the High Mountain Battalion in Jamund\u00ed",
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/cali/ataques-con-drones-asonadas-y-geografia-compleja-la-tormenta-perfecta-que-retrasa-la-construccion-del-batallon-de-alta-montana-en-jamundi-3552665",
@@ -158,27 +179,6 @@
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/no-hay-encuesta-que-diga-que-el-80-ve-a-cepeda-como-heredero-de-las-farc/",
         "published_date": "2026-04-28 23:00:00",
-        "category": "Military"
-    },
-    {
-        "title": "The attacks in Cauca reveal the limits of total peace",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/los-atentados-en-cauca-revelan-los-limites-de-la-paz-total/",
-        "published_date": "2026-04-28 22:30:00",
-        "category": "Military"
-    },
-    {
-        "title": "Bogot\u00e1: Bench of councilors asked for the departure of the Secretary of Security",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/bogota-bancada-de-concejales-pidio-salida-del-secretario-de-seguridad/",
-        "published_date": "2026-04-27 22:13:19",
-        "category": "Military"
-    },
-    {
-        "title": "They are searching throughout the country for alias 'Julito', a teenager accused of committing 15 homicides and who escaped from a correctional facility in Bogot\u00e1: there is a reward",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/buscan-en-todo-el-pais-a-alias-julito-adolescente-senalado-de-cometer-15-homicidios-y-que-se-fugo-de-una-correccional-en-bogota-hay-recompensa-3551304",
-        "published_date": "2026-04-27 16:35:14",
         "category": "Military"
     },
     {
@@ -322,6 +322,20 @@
         "category": "Energy"
     },
     {
+        "title": "\"Banks cannot focus on controlling inflation above other objectives\"",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/daniel-rojas-ministro-de-educacion-en-el-festival-de-economias-para-la-vida-4384200",
+        "published_date": "2026-05-03 16:54:50",
+        "category": "Economy"
+    },
+    {
+        "title": "Minister Germ\u00e1n \u00c1vila promotes a new debate on the global economic order",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/german-avila-ministro-de-hacienda-en-el-festival-de-economias-para-la-vida-4384190",
+        "published_date": "2026-05-03 16:32:02",
+        "category": "Economy"
+    },
+    {
         "title": "There was no empty chair at the Bank of the Republic and interest rates remained at 11.25%",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/no-hubo-silla-vacia-en-el-banco-de-la-republica-y-las-tasas-de-interes-se-mantuvieron-4382298",
@@ -406,6 +420,125 @@
         "category": "Economy"
     },
     {
+        "title": "District reached $41,987 million in the first auction of construction rights",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/alcaldia-de-bogota-alcanzo-41-987-millones-en-subasta-de-certificados-de-derechos-de-construccion-4384296",
+        "published_date": "2026-05-03 23:21:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cColombia's peace program is being sabotaged\u201d: Petro raises tension with Noboa",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/se-sabotea-el-programa-de-paz-de-colombia-petro-sube-tension-con-noboa/",
+        "published_date": "2026-05-03 22:43:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Global South Economists Call for Independent Industrial Policy",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/economistas-del-sur-global-hacen-llamado-por-una-politica-industrial-independiente-4384260",
+        "published_date": "2026-05-03 22:00:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cepeda defends total peace and says he will evaluate dialogues if he is president",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/cepeda-defiende-paz-total-y-dice-que-evaluara-dialogos-si-es-presidente/",
+        "published_date": "2026-05-03 20:38:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "They reveal hypotheses of the serious accident of a giant 'Monster Truck' that ran over at least 20 people: 'It couldn't be stopped'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/revelan-hipotesis-del-grave-accidente-de-camioneta-gigante-monster-truck-que-atropello-al-menos-a-20-personas-no-se-podia-frenar-3552764",
+        "published_date": "2026-05-03 18:35:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "On video |Tragedy in Popay\u00e1n: driver of a giant 'Monster Truck' truck ran over 15 people at an exhibition event, a girl died",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/tragedia-en-popayan-conductora-de-camioneta-gigante-monster-truck-atropello-al-menos-a-15-personas-en-evento-de-exhibicion-3552759",
+        "published_date": "2026-05-03 18:34:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "Video of the exact moment when the 'Monster Truck' driver lost control of the vehicle and ran over at least 20 people in Popay\u00e1n",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/video-del-momento-exacto-cuando-conductora-de-monster-truck-perdio-control-del-vehiculo-y-atropello-a-al-menos-15-personas-en-evento-en-popayan-3552760",
+        "published_date": "2026-05-03 18:32:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "CNE opens process to study whether to revoke De la Espriella's candidacy",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/cne-abre-proceso-para-estudiar-si-revoca-candidatura-de-de-la-espriella/",
+        "published_date": "2026-05-03 18:00:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "Weaving peace from the voices of ethnic women",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-etnica/tejer-la-paz-desde-la-voz-de-las-mujeres-etnicas/",
+        "published_date": "2026-05-03 18:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Enjoy this Sunday, May 3, 2026 with this selection of columns",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/disfrute-este-domingo-3-de-mayo-de-2026-con-esta-seleccion-columnas/",
+        "published_date": "2026-05-03 16:59:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "Spectacular accident in Cartagena: driver was injured after leaving the road and overturned on the V\u00eda al Mar, between Crespo and La Boquilla",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/aparatoso-accidente-en-cartagena-conductor-resulto-herido-tras-salirse-de-la-via-y-quedar-volcado-en-la-via-al-mar-entre-crespo-y-la-boquilla-3552756",
+        "published_date": "2026-05-03 16:15:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Thanks to you, friends, La Silla feels surrounded",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/opinion/gracias-a-ustedes-amigos-la-silla-se-siente-rodeada/",
+        "published_date": "2026-05-03 15:20:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "They capture 'Triple 7', a man accused of multiple robberies and who had hit the north of Barranquilla: he has 18 judicial notes",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/capturan-a-triple-7-hombre-senalado-de-multiples-robos-y-que-tenia-azotado-el-norte-de-barranquilla-cuenta-con-18-anotaciones-judiciales-3552745",
+        "published_date": "2026-05-03 15:01:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "CNC: Cepeda remains at the top and De la Espriella gains momentum on the right",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/cnc-cepeda-sigue-en-la-cima-y-de-la-espriella-gana-pulso-en-la-derecha/",
+        "published_date": "2026-05-03 14:56:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ageism: aging without data is aging without public policies",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/edadismo-envejecer-sin-datos-es-envejecer-sin-politicas-publicas/",
+        "published_date": "2026-05-03 13:06:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The water that is stolen every day in the Atlantic would be enough to cover the daily consumption of 12,000 people, reports the Government",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/el-agua-que-se-roban-cada-dia-en-el-atlantico-alcanzaria-para-cubrir-el-consumo-diario-de-12-000-personas-informa-la-gobernacion-3552723",
+        "published_date": "2026-05-03 12:40:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Sixth case of measles in Colombia raises health alerts: a 25-year-old young man was diagnosed in Cartagena",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/sexto-caso-de-sarampion-en-colombia-prende-alertas-sanitarias-un-joven-de-25-anos-fue-diagnosticado-en-cartagena-3552706",
+        "published_date": "2026-05-03 11:21:21",
+        "category": "Local Events"
+    },
+    {
         "title": "Between historical debt and bureaucracy: behind the increase in Petro's contracting with Cric",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/silla-nacional/detras-del-aumento-en-la-contratacion-de-petro-con-el-cric/",
@@ -424,125 +557,6 @@
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/medellin/retienen-a-valentina-mor-en-medellin-por-presunto-hurto-a-extranjero-intervencion-policial-evito-ataques-de-la-comunidad-3552666",
         "published_date": "2026-05-03 00:07:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "Laura Mois\u00e1, co-director of the Issuer, calls for rethinking the global economic model",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/laura-moisa-codirectora-del-banco-de-la-republica-en-el-festival-de-economias-para-la-vida-4384092",
-        "published_date": "2026-05-02 23:05:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "\"More resources are requested, but when the Government tries to obtain them, a blockade appears\"",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/cesar-giraldo-codirector-del-banco-de-la-republica-en-el-festival-de-economias-para-la-vida-4384078",
-        "published_date": "2026-05-02 22:18:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "\"Economic growth must translate into higher levels of income for the poorest\"",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/segundo-panel-en-el-festival-de-economias-para-la-vida-4384034",
-        "published_date": "2026-05-02 21:45:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "The 21 lives that an explosive took on the Pan-American highway, in Cajib\u00edo: a dozen victims lived in a town in Cauca hit by other massacres",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/las-21-vidas-que-un-explosivo-arrebato-en-la-via-panamericana-en-cajibio-docena-de-victimas-vivian-en-un-pueblo-del-cauca-azotado-por-otras-masacres-3552633",
-        "published_date": "2026-05-02 21:26:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "According to polls, this is how the presidential race is going",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/opinion/segun-las-encuestas-asi-va-la-carrera-presidencial/",
-        "published_date": "2026-05-02 21:16:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "President Gustavo Petro criticizes the possibility of military aggression against Cuba",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/son-los-cubanos-y-cubanas-los-unicos-duenos-de-su-pais-dijo-petro-sobre-posible-intervencion-4384069",
-        "published_date": "2026-05-02 21:10:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "More than 250 public figures reject attacks against La Silla Vac\u00eda",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/mas-de-250-personas-rechazan-ataques-contra-la-silla-vacia/",
-        "published_date": "2026-05-02 21:05:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "Despite improvements at the national level, 57% of municipalities still have limited progress",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/pese-a-mejoras-a-nivel-nacional-57-de-los-municipios-aun-tienen-avances-limitados-4384047",
-        "published_date": "2026-05-02 20:08:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tragedy in Vijes (Valle): a woman is murdered in front of her mother after armed men break into her home",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/tragedia-en-vijes-valle-asesinan-a-una-mujer-frente-a-su-madre-tras-irrupcion-de-hombres-armados-en-su-vivienda-3552636",
-        "published_date": "2026-05-02 19:40:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Medell\u00edn Mayor's Office presented recusal against Daniel Quintero",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/alcaldia-de-medellin-presento-recusacion-contra-daniel-quintero/",
-        "published_date": "2026-05-02 19:37:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "This is what Dimar said about the extensive copper stain that stained the bay of Cartagena: laboratory analyzes are underway",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/esto-dijo-dimar-sobre-la-extensa-mancha-cobriza-que-tino-la-bahia-de-cartagena-se-adelantan-los-analisis-de-laboratorio-3552632",
-        "published_date": "2026-05-02 17:50:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "Turn in garbage mess in Cali: Emcali's commercial manager is suspended, lawsuit against district and doubts about Emsirva and citizenship payments for cleaning",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/giro-en-lio-de-basuras-en-cali-suspenden-al-gerente-comercial-de-emcali-demanda-contra-distrito-y-dudas-por-emsirva-y-pagos-de-ciudadania-por-aseo-3552557",
-        "published_date": "2026-05-02 17:42:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Petro sets July 20 to file its Constituent proposal",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/petro-fija-el-20-de-julio-para-radicar-su-propuesta-de-constituyente/",
-        "published_date": "2026-05-02 17:20:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Valledupar says goodbye to the Vallenato 2026 Festival with the tribute to the Binomio de Oro and Israel Romero and a concert with J Balvin",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/valledupar-despide-al-festival-vallenato-2026-con-el-homenaje-al-binomio-de-oro-e-israel-romero-y-concierto-con-j-balvin-3552630",
-        "published_date": "2026-05-02 17:20:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "\"Agriculture, the energy transition and industry must be the pillars of a new model\"",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/panel-en-el-festival-de-economias-para-la-vida-4383985",
-        "published_date": "2026-05-02 16:46:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "Supersalud orders a special inspection of the teaching health model",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/la-supersalud-ordena-una-inspeccion-especial-al-modelo-de-salud-del-magisterio-4383986",
-        "published_date": "2026-05-02 16:35:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Festival of Economies for Life began, an event to discuss a new model",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/inicio-el-festival-de-economias-para-la-vida-evento-para-discutir-un-modelo-economico-progresista-4383972",
-        "published_date": "2026-05-02 16:07:21",
         "category": "Local Events"
     }
 ]
