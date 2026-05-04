@@ -1,5 +1,12 @@
 [
     {
+        "title": "Mother's Day generates more than US$430 million in flower exports",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/el-dia-de-las-madres-genera-mas-de-us-430-millones-en-las-exportaciones-de-flores-4382305",
+        "published_date": "2026-05-04 05:01:35",
+        "category": "Diplomacy"
+    },
+    {
         "title": "UN cuts put feminist diplomacy at risk",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/red-de-expertos/red-de-las-mujeres/los-recortes-de-la-onu-ponen-en-riesgo-la-diplomacia-feminista/",
@@ -182,6 +189,13 @@
         "category": "Military"
     },
     {
+        "title": "Villavicencio is the city with the most expensive gasoline after the recent increase of $400",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/villavicencio-es-la-ciudad-con-la-gasolina-mas-cara-tras-el-reciente-incremento-de-400-4383659",
+        "published_date": "2026-05-04 05:01:20",
+        "category": "Energy"
+    },
+    {
         "title": "Colombia pulls the world away from oil and other Amazon news",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/colombia-jala-al-mundo-lejos-del-petroleo-y-otras-noticias-amazonicas/",
@@ -315,11 +329,11 @@
         "category": "Energy"
     },
     {
-        "title": "MinEnerg\u00eda requested to monitor that marketers comply with clean energy quotas",
+        "title": "Market analysts predict that April inflation will rise and stand at 5.64%",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/minenergia-solicito-vigilar-que-comercializadoras-cumplan-cuota-de-energias-limpias-4381409",
-        "published_date": "2026-04-28 21:11:19",
-        "category": "Energy"
+        "url": "https://www.larepublica.co/economia/los-analistas-del-mercado-preven-que-la-inflacion-de-abril-suba-y-se-ubique-en-5-64-4383584",
+        "published_date": "2026-05-04 05:01:45",
+        "category": "Economy"
     },
     {
         "title": "\"Banks cannot focus on controlling inflation above other objectives\"",
@@ -420,6 +434,111 @@
         "category": "Economy"
     },
     {
+        "title": "Invima denied confrontation with the Ministry of Health over food labeling",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/invima-nego-enfrentamiento-en-el-ministerio-de-salud-por-etiquetado-de-alimentos-4384467",
+        "published_date": "2026-05-04 12:00:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "In the Chiva of the Pact in Bogot\u00e1",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/en-la-chiva-del-pacto-en-bogota/",
+        "published_date": "2026-05-04 12:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Venezuela announced closure of the Francisco de Paula Santander bridge for 15 days for works",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/venezuela-anuncio-cierre-por-15-dias-el-puente-francisco-de-paula-santander-por-obras-4384446",
+        "published_date": "2026-05-04 11:37:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "She is the driver of the giant 'Monster Truck' that ran over at least 41 people and left three dead in Popay\u00e1n",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/ella-es-la-conductora-de-la-camioneta-gigante-monster-truck-que-atropello-al-menos-a-41-personas-y-dejo-tres-fallecidos-en-popayan-3552826",
+        "published_date": "2026-05-04 07:06:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "These are the four people from the same family who died in a serious accident in Paratebueno, Cundinamarca: a car collided head-on with a bus",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/bogota/grave-accidente-en-el-que-murieron-cuatro-integrantes-de-una-misma-familia-en-paratebueno-cundinamarca-chocaron-de-frente-contra-un-bus-3552823",
+        "published_date": "2026-05-04 07:04:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "These are the three victims of the accident of a giant 'Monster Truck' in Popay\u00e1n: there are another 40 people injured",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/estas-son-las-tres-victimas-del-accidente-de-una-camioneta-gigante-monster-truck-en-popayan-hay-otras-40-personas-heridas-3552825",
+        "published_date": "2026-05-04 07:03:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "Driver of giant 'Monster Truck' truck ran over at least 41 people: hypothesis, injuries and deaths after tragedy in Popay\u00e1n",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/conductora-de-camioneta-gigante-monster-truck-atropello-al-menos-a-41-personas-hipotesis-heridos-y-muertos-que-dejo-esta-tragedia-en-popayan-3552822",
+        "published_date": "2026-05-04 06:05:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "Survey weighting one month before the first round of 2026",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/ponderador-de-encuestas-a-un-mes-de-la-primera-vuelta-de-2026/",
+        "published_date": "2026-05-04 06:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Estate tax collection did not meet the goal imposed in the economic emergency",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/recaudo-de-impuesto-al-patrimonio-no-cumplio-la-meta-impuesta-en-la-emergencia-4384213",
+        "published_date": "2026-05-04 05:01:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "Be careful, driver!Peak and plate in Bucaramanga for Monday, May 4, 2026",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/cuidado-conductor-pico-y-placa-en-bucaramanga-para-el-lunes-4-de-mayo-de-3552087",
+        "published_date": "2026-05-04 02:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Batteries, driver!Peak and plate in Pereira for Monday, May 4, 2026",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/pilas-conductor-pico-y-placa-en-pereira-para-el-lunes-4-de-mayo-de-3552086",
+        "published_date": "2026-05-04 02:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Find out the details of the peak and plate in Medell\u00edn for Monday, May 4, 2026",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/conozca-los-detalles-del-pico-y-placa-en-medellin-para-el-lunes-4-de-mayo-de-3552085",
+        "published_date": "2026-05-04 02:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Avoid fines: peak and plate in Cali for Monday, May 4, 2026",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/evite-multas-pico-y-placa-en-cali-para-el-lunes-4-de-mayo-de-3552082",
+        "published_date": "2026-05-04 02:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The gear lever that revealed alleged money launderers on Via del Valle: this was the inspection of a vehicle that hid $170 million",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/la-palanca-de-cambios-que-delato-a-dos-presuntos-lavadores-de-activos-en-via-del-valle-asi-fue-la-inspeccion-a-un-vehiculo-que-ocultaba-170-millones-3552816",
+        "published_date": "2026-05-04 01:23:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Governor of Choc\u00f3, Nubia C\u00f3rdoba, alerts crisis at the San Francisco de As\u00eds Hospital: serious leaks deepen the collapse",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/gobernadora-del-choco-nubia-cordoba-alerta-crisis-en-el-hospital-san-francisco-de-asis-graves-filtraciones-profundizan-el-colapso-3552812",
+        "published_date": "2026-05-03 23:46:26",
+        "category": "Local Events"
+    },
+    {
         "title": "District reached $41,987 million in the first auction of construction rights",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/alcaldia-de-bogota-alcanzo-41-987-millones-en-subasta-de-certificados-de-derechos-de-construccion-4384296",
@@ -452,111 +571,6 @@
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/otras-ciudades/revelan-hipotesis-del-grave-accidente-de-camioneta-gigante-monster-truck-que-atropello-al-menos-a-20-personas-no-se-podia-frenar-3552764",
         "published_date": "2026-05-03 18:35:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "On video |Tragedy in Popay\u00e1n: driver of a giant 'Monster Truck' truck ran over 15 people at an exhibition event, a girl died",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/tragedia-en-popayan-conductora-de-camioneta-gigante-monster-truck-atropello-al-menos-a-15-personas-en-evento-de-exhibicion-3552759",
-        "published_date": "2026-05-03 18:34:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Video of the exact moment when the 'Monster Truck' driver lost control of the vehicle and ran over at least 20 people in Popay\u00e1n",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/video-del-momento-exacto-cuando-conductora-de-monster-truck-perdio-control-del-vehiculo-y-atropello-a-al-menos-15-personas-en-evento-en-popayan-3552760",
-        "published_date": "2026-05-03 18:32:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "CNE opens process to study whether to revoke De la Espriella's candidacy",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/cne-abre-proceso-para-estudiar-si-revoca-candidatura-de-de-la-espriella/",
-        "published_date": "2026-05-03 18:00:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Weaving peace from the voices of ethnic women",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-etnica/tejer-la-paz-desde-la-voz-de-las-mujeres-etnicas/",
-        "published_date": "2026-05-03 18:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Enjoy this Sunday, May 3, 2026 with this selection of columns",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/disfrute-este-domingo-3-de-mayo-de-2026-con-esta-seleccion-columnas/",
-        "published_date": "2026-05-03 16:59:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "Spectacular accident in Cartagena: driver was injured after leaving the road and overturned on the V\u00eda al Mar, between Crespo and La Boquilla",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/aparatoso-accidente-en-cartagena-conductor-resulto-herido-tras-salirse-de-la-via-y-quedar-volcado-en-la-via-al-mar-entre-crespo-y-la-boquilla-3552756",
-        "published_date": "2026-05-03 16:15:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Thanks to you, friends, La Silla feels surrounded",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/opinion/gracias-a-ustedes-amigos-la-silla-se-siente-rodeada/",
-        "published_date": "2026-05-03 15:20:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "They capture 'Triple 7', a man accused of multiple robberies and who had hit the north of Barranquilla: he has 18 judicial notes",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/capturan-a-triple-7-hombre-senalado-de-multiples-robos-y-que-tenia-azotado-el-norte-de-barranquilla-cuenta-con-18-anotaciones-judiciales-3552745",
-        "published_date": "2026-05-03 15:01:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "CNC: Cepeda remains at the top and De la Espriella gains momentum on the right",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/cnc-cepeda-sigue-en-la-cima-y-de-la-espriella-gana-pulso-en-la-derecha/",
-        "published_date": "2026-05-03 14:56:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ageism: aging without data is aging without public policies",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/edadismo-envejecer-sin-datos-es-envejecer-sin-politicas-publicas/",
-        "published_date": "2026-05-03 13:06:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The water that is stolen every day in the Atlantic would be enough to cover the daily consumption of 12,000 people, reports the Government",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/el-agua-que-se-roban-cada-dia-en-el-atlantico-alcanzaria-para-cubrir-el-consumo-diario-de-12-000-personas-informa-la-gobernacion-3552723",
-        "published_date": "2026-05-03 12:40:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sixth case of measles in Colombia raises health alerts: a 25-year-old young man was diagnosed in Cartagena",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/sexto-caso-de-sarampion-en-colombia-prende-alertas-sanitarias-un-joven-de-25-anos-fue-diagnosticado-en-cartagena-3552706",
-        "published_date": "2026-05-03 11:21:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "Between historical debt and bureaucracy: behind the increase in Petro's contracting with Cric",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/detras-del-aumento-en-la-contratacion-de-petro-con-el-cric/",
-        "published_date": "2026-05-03 06:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tremor today in Colombia |Earthquake during the early hours of this Sunday, May 3: epicenter, magnitude and depth",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-hoy-en-colombia-sismo-durante-la-madrugada-e-de-este-domingo-03-de-mayo-epicentro-magnitud-y-profundidad-3552670",
-        "published_date": "2026-05-03 03:24:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "'Valentina Mor' is detained in Medell\u00edn for alleged theft from a foreigner: police intervention prevented community attacks",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/retienen-a-valentina-mor-en-medellin-por-presunto-hurto-a-extranjero-intervencion-policial-evito-ataques-de-la-comunidad-3552666",
-        "published_date": "2026-05-03 00:07:08",
         "category": "Local Events"
     }
 ]
