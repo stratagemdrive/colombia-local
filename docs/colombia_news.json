@@ -49,6 +49,41 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Government of Ecuador reduced tariffs on imports from Colombia from 100% to 75%",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/gobierno-de-ecuador-redujo-de-100-a-75-aranceles-a-importaciones-desde-colombia-4384965",
+        "published_date": "2026-05-04 22:01:44",
+        "category": "Military"
+    },
+    {
+        "title": "ELN insists on its proposal for a \u201cnational agreement\u201d with the next government",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/eln-insiste-en-su-propuesta-de-acuerdo-nacional-con-el-proximo-gobierno/",
+        "published_date": "2026-05-04 21:38:40",
+        "category": "Military"
+    },
+    {
+        "title": "The Government of Antioquia delivered five anti-drone systems to the National Army with the Security Rate: FF.MM.They also received 75 motorcycles",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/gobernacion-de-antioquia-le-entrego-cinco-sistemas-antidrones-al-ejercito-nacional-con-la-tasa-de-seguridad-ff-mm-tambien-recibieron-75-motocicletas-3553003",
+        "published_date": "2026-05-04 18:19:24",
+        "category": "Military"
+    },
+    {
+        "title": "The Antioquia Development Plan is at 52%: this is the progress in school feeding, housing, security and mega infrastructure works",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/el-plan-de-desarrollo-de-antioquia-va-en-el-52-asi-es-el-avance-en-alimentacion-escolar-vivienda-seguridad-y-megaobras-de-infraestructura-3553059",
+        "published_date": "2026-05-04 18:11:56",
+        "category": "Military"
+    },
+    {
+        "title": "Authorities captured a subject in Antioquia who had abused a little girl for days: the victim's brave escape was key to his arrest",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/autoridades-capturaron-en-antioquia-a-sujeto-que-habria-abusado-de-una-pequena-por-dias-el-valiente-escape-de-la-victima-fue-clave-para-su-arresto-3553049",
+        "published_date": "2026-05-04 17:39:16",
+        "category": "Military"
+    },
+    {
         "title": "'They robbed me': Representative Mafe Carrascal reported having been a victim of theft in Cali hours before a public event with Iv\u00e1n Cepeda",
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/cali/me-robaron-la-representante-mafe-carrascal-denuncio-haber-sido-victima-de-hurto-en-cali-horas-antes-de-evento-publico-con-ivan-cepeda-3552757",
@@ -154,39 +189,32 @@
         "category": "Military"
     },
     {
-        "title": "Terrorist attacks in Cauca, Valle del Cauca and Nari\u00f1o: Minister of Defense announced new security measures in the border area with Ecuador",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/atentados-terroristas-en-cauca-valle-del-cauca-y-narino-ministro-de-defensa-anuncio-nuevas-medidas-de-seguridad-en-la-zona-de-frontera-con-ecuador-3552093",
-        "published_date": "2026-04-30 04:41:07",
-        "category": "Military"
+        "title": "\"Raising rates does not help, it only reduces people's real income and makes credit more expensive\"",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/entrevista-con-jayati-ghosh-economista-y-profesora-de-la-university-of-massachusetts-amherst-sobre-el-modelo-de-inflacion-meta-4384919",
+        "published_date": "2026-05-04 21:43:19",
+        "category": "Energy"
     },
     {
-        "title": "Minister of Defense announced new security measures in the border area with Ecuador to neutralize 'threats' after attacks in the country",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/ministro-de-defensa-anuncio-nuevas-medidas-de-seguridad-en-la-zona-de-frontera-con-ecuador-para-neutralizar-amenazas-tras-atentados-en-el-pais-3552092",
-        "published_date": "2026-04-30 02:58:41",
-        "category": "Military"
+        "title": "Government seeks to reduce spending on service provision and eliminate it in arbitration agreements",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/gobierno-busca-reducir-pago-en-prestacion-de-servicios-y-eliminar-gasto-en-pactos-arbitrales-4384793",
+        "published_date": "2026-05-04 19:49:55",
+        "category": "Energy"
     },
     {
-        "title": "Alert in Colombia for camouflage of more than 60 new drugs in everyday products: criminals use technology and chemistry to evade the law",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/alerta-en-colombia-por-camuflaje-de-mas-de-60-nuevas-drogas-en-productos-cotidianos-criminales-usan-tecnologia-y-quimica-para-evadir-la-ley-3551986",
-        "published_date": "2026-04-29 23:38:54",
-        "category": "Military"
+        "title": "Superservicios begins comprehensive evaluation of EPM on operation and provision of services",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/superservicios-inicia-evaluacion-integral-a-epm-sobre-operacion-y-prestacion-de-servicios-4384733",
+        "published_date": "2026-05-04 17:18:36",
+        "category": "Energy"
     },
     {
-        "title": "The house of the mayor of Dosquebradas is robbed: the thieves entered the warehouse and took objects worth more than $20 million;Police investigate",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/roban-la-casa-del-alcalde-de-dosquebradas-los-ladrones-habrian-entrado-a-la-bodega-y-se-llevaron-objetos-por-mas-de-20-millones-3552012",
-        "published_date": "2026-04-29 17:45:00",
-        "category": "Military"
-    },
-    {
-        "title": "There is no survey that says that 80% see Cepeda as \u201cheir to the FARC\u201d",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/no-hay-encuesta-que-diga-que-el-80-ve-a-cepeda-como-heredero-de-las-farc/",
-        "published_date": "2026-04-28 23:00:00",
-        "category": "Military"
+        "title": "Anif predicts that the net debt of the Central National Government could exceed 71% of GDP",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/anif-preve-que-deuda-neta-del-gobierno-nacional-central-podria-superar-71-del-pib-en-tres-anos-4384700",
+        "published_date": "2026-05-04 16:16:52",
+        "category": "Energy"
     },
     {
         "title": "Villavicencio is the city with the most expensive gasoline after the recent increase of $400",
@@ -301,32 +329,25 @@
         "category": "Energy"
     },
     {
-        "title": "President Petro affirmed that social spending cannot be sacrificed to seek fiscal balance",
+        "title": "Bogot\u00e1's GDP grew 4.6% in the third quarter of 2025, driven by the trade sector",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/presidente-petro-afirmo-que-no-se-puede-sacrificar-el-gasto-social-para-buscar-un-equilibrio-fiscal-4381839",
-        "published_date": "2026-04-29 12:07:33",
-        "category": "Energy"
+        "url": "https://www.larepublica.co/economia/pib-de-bogota-crecio-4-6-en-tercer-trimestre-de-2025-impulsado-por-comercio-y-servicios-4384684",
+        "published_date": "2026-05-04 16:09:49",
+        "category": "Economy"
     },
     {
-        "title": "Another attack by Petro on La Silla: now for the energy matrix",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/otro-ataque-de-petro-a-la-silla-ahora-por-la-matriz-energetica/",
-        "published_date": "2026-04-28 23:48:18",
-        "category": "Energy"
-    },
-    {
-        "title": "Ecopetrol will release its first quarter financial results on May 12",
+        "title": "Surprise decision to maintain interest rates helps avoid volatility",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/ecopetrol-dara-a-conocer-sus-resultados-financieros-del-primer-trimestre-el-12-de-mayo-4381499",
-        "published_date": "2026-04-28 22:57:17",
-        "category": "Energy"
+        "url": "https://www.larepublica.co/economia/la-sorpresiva-decision-sobre-mantener-las-tasas-de-interes-ayuda-a-evitar-la-volatilidad-4384608",
+        "published_date": "2026-05-04 14:16:03",
+        "category": "Economy"
     },
     {
-        "title": "\u201cWe are not a large emitter, but we want to set an example\u201d, Petro in Santa Marta",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/no-somos-un-gran-emisor-pero-queremos-dar-ejemplo-petro-en-santa-marta/",
-        "published_date": "2026-04-28 22:39:08",
-        "category": "Energy"
+        "title": "Farmers have been waiting for the formalization of the Las Catas property for 20 years",
+        "source": "Verdad Abierta",
+        "url": "https://verdadabierta.com/campesinos-esperan-desde-hace-20-anos-la-formalizacion-del-predio-las-catas/",
+        "published_date": "2026-05-04 13:31:53",
+        "category": "Economy"
     },
     {
         "title": "Market analysts predict that April inflation will rise and stand at 5.64%",
@@ -427,150 +448,143 @@
         "category": "Economy"
     },
     {
-        "title": "Colombia is among the countries with the highest inflation in the OECD for February 2026",
+        "title": "Line 1 of the Bogot\u00e1 Metro will be extended to Calle 100 with three more stations",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/colombia-entre-los-de-mayor-inflacion-dentro-de-la-ocde-para-febrero-de-2026-4379833",
-        "published_date": "2026-04-26 21:56:52",
-        "category": "Economy"
-    },
-    {
-        "title": "Invima denied confrontation with the Ministry of Health over food labeling",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/invima-nego-enfrentamiento-en-el-ministerio-de-salud-por-etiquetado-de-alimentos-4384467",
-        "published_date": "2026-05-04 12:00:15",
+        "url": "https://www.larepublica.co/economia/linea-1-del-metro-de-bogota-se-extendera-hasta-la-calle-100-con-tres-estaciones-mas-4385086",
+        "published_date": "2026-05-04 23:33:27",
         "category": "Local Events"
     },
     {
-        "title": "In the Chiva of the Pact in Bogot\u00e1",
+        "title": "Noboa speaks with Paloma and reduces the rate on Colombian imports to 75%",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/en-la-chiva-del-pacto-en-bogota/",
-        "published_date": "2026-05-04 12:00:00",
+        "url": "https://www.lasillavacia.com/en-vivo/noboa-habla-con-paloma-y-reduce-al-75-la-tasa-a-importaciones-colombianas/",
+        "published_date": "2026-05-04 23:18:03",
         "category": "Local Events"
     },
     {
-        "title": "Venezuela announced closure of the Francisco de Paula Santander bridge for 15 days for works",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/venezuela-anuncio-cierre-por-15-dias-el-puente-francisco-de-paula-santander-por-obras-4384446",
-        "published_date": "2026-05-04 11:37:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "She is the driver of the giant 'Monster Truck' that ran over at least 41 people and left three dead in Popay\u00e1n",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/ella-es-la-conductora-de-la-camioneta-gigante-monster-truck-que-atropello-al-menos-a-41-personas-y-dejo-tres-fallecidos-en-popayan-3552826",
-        "published_date": "2026-05-04 07:06:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "These are the four people from the same family who died in a serious accident in Paratebueno, Cundinamarca: a car collided head-on with a bus",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/bogota/grave-accidente-en-el-que-murieron-cuatro-integrantes-de-una-misma-familia-en-paratebueno-cundinamarca-chocaron-de-frente-contra-un-bus-3552823",
-        "published_date": "2026-05-04 07:04:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "These are the three victims of the accident of a giant 'Monster Truck' in Popay\u00e1n: there are another 40 people injured",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/estas-son-las-tres-victimas-del-accidente-de-una-camioneta-gigante-monster-truck-en-popayan-hay-otras-40-personas-heridas-3552825",
-        "published_date": "2026-05-04 07:03:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "Driver of giant 'Monster Truck' truck ran over at least 41 people: hypothesis, injuries and deaths after tragedy in Popay\u00e1n",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/conductora-de-camioneta-gigante-monster-truck-atropello-al-menos-a-41-personas-hipotesis-heridos-y-muertos-que-dejo-esta-tragedia-en-popayan-3552822",
-        "published_date": "2026-05-04 06:05:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Survey weighting one month before the first round of 2026",
+        "title": "Harassment in newsrooms does not disappear when it stops being a trend",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/ponderador-de-encuestas-a-un-mes-de-la-primera-vuelta-de-2026/",
-        "published_date": "2026-05-04 06:00:00",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-las-mujeres/el-acoso-en-redacciones-no-desaparece-cuando-deja-de-ser-tendencia/",
+        "published_date": "2026-05-04 23:06:29",
         "category": "Local Events"
     },
     {
-        "title": "Estate tax collection did not meet the goal imposed in the economic emergency",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/recaudo-de-impuesto-al-patrimonio-no-cumplio-la-meta-impuesta-en-la-emergencia-4384213",
-        "published_date": "2026-05-04 05:01:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Be careful, driver!Peak and plate in Bucaramanga for Monday, May 4, 2026",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/cuidado-conductor-pico-y-placa-en-bucaramanga-para-el-lunes-4-de-mayo-de-3552087",
-        "published_date": "2026-05-04 02:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Batteries, driver!Peak and plate in Pereira for Monday, May 4, 2026",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/pilas-conductor-pico-y-placa-en-pereira-para-el-lunes-4-de-mayo-de-3552086",
-        "published_date": "2026-05-04 02:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Find out the details of the peak and plate in Medell\u00edn for Monday, May 4, 2026",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/conozca-los-detalles-del-pico-y-placa-en-medellin-para-el-lunes-4-de-mayo-de-3552085",
-        "published_date": "2026-05-04 02:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Avoid fines: peak and plate in Cali for Monday, May 4, 2026",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/evite-multas-pico-y-placa-en-cali-para-el-lunes-4-de-mayo-de-3552082",
-        "published_date": "2026-05-04 02:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The gear lever that revealed alleged money launderers on Via del Valle: this was the inspection of a vehicle that hid $170 million",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/la-palanca-de-cambios-que-delato-a-dos-presuntos-lavadores-de-activos-en-via-del-valle-asi-fue-la-inspeccion-a-un-vehiculo-que-ocultaba-170-millones-3552816",
-        "published_date": "2026-05-04 01:23:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Governor of Choc\u00f3, Nubia C\u00f3rdoba, alerts crisis at the San Francisco de As\u00eds Hospital: serious leaks deepen the collapse",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/gobernadora-del-choco-nubia-cordoba-alerta-crisis-en-el-hospital-san-francisco-de-asis-graves-filtraciones-profundizan-el-colapso-3552812",
-        "published_date": "2026-05-03 23:46:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "District reached $41,987 million in the first auction of construction rights",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/alcaldia-de-bogota-alcanzo-41-987-millones-en-subasta-de-certificados-de-derechos-de-construccion-4384296",
-        "published_date": "2026-05-03 23:21:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cColombia's peace program is being sabotaged\u201d: Petro raises tension with Noboa",
+        "title": "Government sent a message of insistence on the agrarian jurisdiction project",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/se-sabotea-el-programa-de-paz-de-colombia-petro-sube-tension-con-noboa/",
-        "published_date": "2026-05-03 22:43:44",
+        "url": "https://www.lasillavacia.com/en-vivo/gobierno-radico-mensaje-de-insistencia-a-proyecto-de-jurisdiccion-agraria/",
+        "published_date": "2026-05-04 22:38:00",
         "category": "Local Events"
     },
     {
-        "title": "Global South Economists Call for Independent Industrial Policy",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/economistas-del-sur-global-hacen-llamado-por-una-politica-industrial-independiente-4384260",
-        "published_date": "2026-05-03 22:00:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cepeda defends total peace and says he will evaluate dialogues if he is president",
+        "title": "Let us not forget that the discussion about hippos, in addition to being scientific, is ethical.",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/cepeda-defiende-paz-total-y-dice-que-evaluara-dialogos-si-es-presidente/",
-        "published_date": "2026-05-03 20:38:47",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-verde/respuesta-la-eutanasia-a-hipopotamos-tambien-es-un-dilema-moral-no-solo-cientifico/",
+        "published_date": "2026-05-04 21:00:00",
         "category": "Local Events"
     },
     {
-        "title": "They reveal hypotheses of the serious accident of a giant 'Monster Truck' that ran over at least 20 people: 'It couldn't be stopped'",
+        "title": "MeToo: movement collects 260 complaints of harassment in newsrooms",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/metoo-movimiento-recoge-260-denuncias-de-acoso-en-salas-de-redaccion/",
+        "published_date": "2026-05-04 20:29:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "\"Degrowth is not immediately necessary in some countries like Colombia\"",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/entrevista-con-kohei-saito-filosofo-y-profesor-de-la-university-of-tokyo-sobre-el-decrecimiento-4384832",
+        "published_date": "2026-05-04 20:21:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "In coordination with indigenous people, CDA prepares a management plan for La Lindosa",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/en-coordinacion-con-indigenas-cda-alista-plan-de-manejo-de-la-lindosa/",
+        "published_date": "2026-05-04 20:19:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "Indigenous people in Putumayo reject carbon credit projects",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/indigenas-en-putumayo-rechazan-proyectos-de-bonos-de-carbono/",
+        "published_date": "2026-05-04 20:01:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "Juan Manuel Gal\u00e1n reported the case of minor Kevin Acosta to the IACHR",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/juan-manuel-galan-denuncio-ante-la-cidh-caso-del-menor-kevin-acosta/",
+        "published_date": "2026-05-04 19:16:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "Conservatives from C\u00f3rdoba go with Paloma, but part of their bases with Abelardo",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/conservadores-de-cordoba-van-con-paloma-pero-parte-de-sus-bases-con-abelardo/",
+        "published_date": "2026-05-04 19:01:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "Attention!These are the sectors that will be left without electricity this Tuesday, May 5 due to Air-e maintenance in Soledad, Salgar, Luruaco and Barranquilla",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/revelan-hipotesis-del-grave-accidente-de-camioneta-gigante-monster-truck-que-atropello-al-menos-a-20-personas-no-se-podia-frenar-3552764",
-        "published_date": "2026-05-03 18:35:54",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/atencion-estos-son-los-sectores-que-se-quedaran-sin-luz-este-martes-5-de-mayo-por-mantenimiento-de-air-e-en-soledad-salgar-luruaco-y-barranquilla-3553068",
+        "published_date": "2026-05-04 18:25:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tremor today in Colombia |Earthquake reported on the afternoon of this Monday, May 4: epicenter, magnitude, depth and details",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/temblor-hoy-en-colombia-reportan-sismo-la-tarde-de-este-lunes-4-de-mayo-epicentro-magnitud-profundidad-y-detalles-3553063",
+        "published_date": "2026-05-04 18:07:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "The message from Sonia Segura, driver of 'Monster Truck', before the accident in Popay\u00e1n",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/el-mensaje-de-sonia-segura-conductora-de-monster-truck-antes-del-accidente-en-popayan-3553053",
+        "published_date": "2026-05-04 18:00:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "Kenyan athlete Ezra Kipketer denies that he fell in the Cali marathon because of a hole in the road: 'I suffered a tear'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/atleta-keniano-ezra-kipketer-desmiente-que-se-haya-caido-en-maraton-de-cali-por-culpa-de-un-hueco-en-la-via-sufri-un-desgarre-3553029",
+        "published_date": "2026-05-04 17:50:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "'A week ago we were a city where bombs were placed': Mayor Alejandro Eder, after the success of the Cali Marathon and controversy over the fall of an athlete",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/hace-una-semana-eramos-una-ciudad-donde-se-ponian-bombas-alcalde-alejandro-eder-tras-exito-de-la-maraton-de-cali-y-polemica-por-la-caida-de-atleta-3553037",
+        "published_date": "2026-05-04 17:45:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cupcake |Death of a tourist driver at a police checkpoint sparks protests and aggravates tension in the Tayrona park jurisdiction",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/magdalena-muerte-de-conductor-turistico-en-reten-policial-desata-protestas-y-agrava-tension-en-jurisdiccion-del-parque-tayrona-3553022",
+        "published_date": "2026-05-04 17:40:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Atlantic |Sanctions are withdrawn against the mayor of Soledad after compliance with guardianship of the vulnerable population in Finca Los \u00c1ngeles is proven",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/atlantico-retiran-sanciones-contra-la-alcaldesa-de-soledad-tras-acreditarse-cumplimiento-de-tutela-a-poblacion-vulnerable-en-finca-los-angeles-3553043",
+        "published_date": "2026-05-04 17:29:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "Dane reported 1.1 million economic units with sociodemographic data in the country",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/dane-reporto-mas-de-1-1-millones-de-unidades-economicas-con-datos-sociodemograficos-4384649",
+        "published_date": "2026-05-04 15:35:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "Armando Benedetti announced mega reconstruction of the Ernesto Cortissoz airport",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/armando-benedetti-anuncio-megarreconstruccion-del-aeropuerto-ernesto-cortissoz-4384579",
+        "published_date": "2026-05-04 14:22:28",
         "category": "Local Events"
     }
 ]
