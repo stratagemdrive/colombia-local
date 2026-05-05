@@ -182,6 +182,13 @@
         "category": "Military"
     },
     {
+        "title": "Gasoline price rose more than 40% in major cities from 2022",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/precio-de-la-gasolina-incremento-mas-de-40-en-las-principales-ciudades-desde-2022-4385306",
+        "published_date": "2026-05-05 12:20:30",
+        "category": "Energy"
+    },
+    {
         "title": "Cali and Villavicencio are the cities with the most expensive Acpm with an increase of $121 per gallon",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/cali-y-villavicencio-las-ciudades-con-el-acpm-mas-caro-con-aumento-de-121-al-galon-4385287",
@@ -315,11 +322,11 @@
         "category": "Energy"
     },
     {
-        "title": "Canacol Energy asks to cancel gas contracts in the country in the midst of its reorganization",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/canacol-energy-pide-cancelar-contratos-de-gas-en-el-pais-en-medio-de-su-reorganizacion-4382687",
-        "published_date": "2026-04-30 01:58:18",
-        "category": "Energy"
+        "title": "Campaign Diary: GAD3 suspends polls and Paloma debates are frustrated",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/diario-de-campana-gad3-suspende-encuestas-y-se-frustran-debates-de-paloma/",
+        "published_date": "2026-05-05 18:03:18",
+        "category": "Economy"
     },
     {
         "title": "\"There should be a debate about the inflation target, the tolerance range could be expanded\"",
@@ -448,157 +455,143 @@
         "category": "Economy"
     },
     {
-        "title": "BanRep: political expediency costs more than the interest rate",
+        "title": "Plebiscite and opposition: this is how the pulse on the right escalates due to the debates",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/banrep-la-conveniencia-politica-cuesta-mas-que-la-tasa-de-interes/",
-        "published_date": "2026-04-27 22:00:00",
-        "category": "Economy"
+        "url": "https://www.lasillavacia.com/en-vivo/plebiscito-y-oposicion-asi-escala-el-pulso-en-la-derecha-por-los-debates/",
+        "published_date": "2026-05-05 23:38:40",
+        "category": "Local Events"
     },
     {
-        "title": "Minhacienda Bill proposes addition to the budget for the Icbf",
+        "title": "Supersalud will deliver the first deliverable of audit results to Fomag in 15 days",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/proyecto-de-ley-del-minhacienda-propone-adicion-presupuestal-con-destino-al-icbf-4380490",
-        "published_date": "2026-04-27 19:27:51",
-        "category": "Economy"
+        "url": "https://www.larepublica.co/economia/supersalud-entregara-primer-entregable-de-resultados-de-auditoria-al-fomag-en-15-dias-4385933",
+        "published_date": "2026-05-05 23:26:46",
+        "category": "Local Events"
     },
     {
-        "title": "The presidential race of the polls",
+        "title": "Mauricio G\u00f3mez leaves the Senate and the Liberal Party to support Abelardo",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/la-carrera-presidencial-de-las-encuestas/",
-        "published_date": "2026-05-05 12:00:00",
+        "url": "https://www.lasillavacia.com/en-vivo/mauricio-gomez-se-va-del-senado-y-del-partido-liberal-para-apoyar-a-abelardo/",
+        "published_date": "2026-05-05 22:12:44",
         "category": "Local Events"
     },
     {
-        "title": "What happens when a minor is caught committing a crime in Barranquilla?The judicial route that fails to stop recidivism or youth recruitment",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/que-pasa-cuando-un-menor-es-capturado-delinquiendo-en-barranquilla-la-ruta-judicial-que-no-logra-frenar-la-reincidencia-ni-el-reclutamiento-juvenil-3553109",
-        "published_date": "2026-05-05 06:01:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Petrouribismo: the coordinated narrative of Abelardo and his digital pack",
+        "title": "Cepeda denounces pressure from armed groups to influence the elections",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/petrouribismo-la-narrativa-coordinada-de-abelardo-y-su-manada-digital/",
-        "published_date": "2026-05-05 06:00:00",
+        "url": "https://www.lasillavacia.com/en-vivo/cepeda-denuncia-presiones-de-grupos-armados-para-incidir-en-las-elecciones/",
+        "published_date": "2026-05-05 21:22:08",
         "category": "Local Events"
     },
     {
-        "title": "Of every 10 businesses in the national territory, six are led by a woman",
+        "title": "The goat and Petro's achievements: this is how Iv\u00e1n Cepeda seeks to conquer Bogot\u00e1",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/la-chiva-y-los-logros-de-petro-asi-busca-ivan-cepeda-conquistar-a-bogota/",
+        "published_date": "2026-05-05 20:46:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "The war in the Middle East is already affecting the pockets of Latin America",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/la-guerra-en-medio-oriente-ya-toca-el-bolsillo-en-america-latina/",
+        "published_date": "2026-05-05 20:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The attacks continue: Abelardo's followers seek to suspend Benedetti",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/siguen-los-ataques-seguidores-de-abelardo-buscan-suspender-a-benedetti/",
+        "published_date": "2026-05-05 20:16:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "Bogot\u00e1 left the Regiotram del Norte co-financing scheme after the new Conpes",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/de-cada-10-negocios-que-hay-en-el-territorio-nacional-seis-son-liderados-por-una-mujer-4385143",
-        "published_date": "2026-05-05 05:01:50",
+        "url": "https://www.larepublica.co/economia/bogota-salio-del-esquema-de-cofinanciacion-del-regiotram-del-norte-tras-nuevo-conpes-4385755",
+        "published_date": "2026-05-05 19:17:23",
         "category": "Local Events"
     },
     {
-        "title": "The last thing that Second Lieutenant Jenyfer Marciales said before being found dead at Providencia station: 'If something happens to me, look for this friend'",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/lo-ultimo-que-dijo-la-subteniente-jenyfer-marciales-antes-de-ser-hallada-sin-vida-en-estacion-de-providencia-si-me-pasa-algo-busca-a-este-amigo-3553117",
-        "published_date": "2026-05-05 04:20:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "Batteries, driver!Peak and plaque in Bucaramanga for Tuesday, May 5, 2026",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/pilas-conductor-pico-y-placa-en-bucaramanga-para-el-martes-5-de-mayo-de-3553114",
-        "published_date": "2026-05-05 02:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Find out the details of the peak and plate in Pereira for Tuesday, May 5, 2026",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/conozca-los-detalles-del-pico-y-placa-en-pereira-para-el-martes-5-de-mayo-de-3553113",
-        "published_date": "2026-05-05 02:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Be careful, driver!Peak and plate in Medell\u00edn for Tuesday, May 5, 2026",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/ojo-conductor-pico-y-placa-en-medellin-para-el-martes-5-de-mayo-de-3553112",
-        "published_date": "2026-05-05 02:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "This will be the peak and plate in Cali for Tuesday, May 5, 2026",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/asi-sera-el-pico-y-placa-en-cali-para-el-martes-5-de-mayo-de-3553111",
-        "published_date": "2026-05-05 02:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Government has transferred more than $416,000 million to the National Cancer Institute",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/gobierno-ha-girado-mas-de-416-000-millones-al-instituto-nacional-de-cancerologia-4385229",
-        "published_date": "2026-05-05 01:32:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "Controversy over logistical failures and critical delays in the programming of the La Solar Festival in Medell\u00edn: artists could not appear",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/polemica-por-incumplimientos-logisticos-y-retrasos-criticos-en-la-programacion-del-festival-la-solar-en-medellin-artistas-no-se-pudieron-presentar-3553073",
-        "published_date": "2026-05-05 01:08:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "MSMEs affected by rains could access credit for up to $210.1 million",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/mipyme-afectadas-por-lluvias-podrian-acceder-a-credito-por-hasta-210-1-millones-4385195",
-        "published_date": "2026-05-05 01:04:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Line 1 of the Bogot\u00e1 Metro will be extended to Calle 100 with three more stations",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/linea-1-del-metro-de-bogota-se-extendera-hasta-la-calle-100-con-tres-estaciones-mas-4385086",
-        "published_date": "2026-05-04 23:33:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "Noboa speaks with Paloma and reduces the rate on Colombian imports to 75%",
+        "title": "\u201cIt does not reflect reality\u201d: MinSalud on crisis in Choc\u00f3 hospital",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/noboa-habla-con-paloma-y-reduce-al-75-la-tasa-a-importaciones-colombianas/",
-        "published_date": "2026-05-04 23:18:03",
+        "url": "https://www.lasillavacia.com/en-vivo/no-refleja-la-realidad-minsalud-sobre-crisis-en-hospital-de-choco/",
+        "published_date": "2026-05-05 19:12:51",
         "category": "Local Events"
     },
     {
-        "title": "Harassment in newsrooms does not disappear when it stops being a trend",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-las-mujeres/el-acoso-en-redacciones-no-desaparece-cuando-deja-de-ser-tendencia/",
-        "published_date": "2026-05-04 23:06:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Mayor's Office of Ch\u00eda opens a special day to process new passports: there will be 1,450 places available;requirements and everything you need to know",
+        "title": "'The sky fell and the water ran through the streets to the houses': about 80 homes affected by overflowing streams in the north of the Valley",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/la-alcaldia-de-chia-abre-jornada-especial-para-tramitar-nuevos-pasaportes-habra-1-450-cupos-disponibles-requisitos-y-todo-lo-que-debe-saber-3552982",
-        "published_date": "2026-05-04 23:04:14",
+        "url": "https://www.eltiempo.com/colombia/cali/el-cielo-se-descolgo-y-el-agua-corrio-por-las-calles-hasta-las-casas-unas-80-viviendas-afectadas-por-desbordamiento-de-quebradas-en-norte-del-valle-3553369",
+        "published_date": "2026-05-05 18:36:23",
         "category": "Local Events"
     },
     {
-        "title": "Government sent a message of insistence on the agrarian jurisdiction project",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/gobierno-radico-mensaje-de-insistencia-a-proyecto-de-jurisdiccion-agraria/",
-        "published_date": "2026-05-04 22:38:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "8 out of 10: the figure that reveals the silent cost of political violence against women in Colombia",
+        "title": "Video and images of the serious bus accident on the Girardota-Barbosa road, near Medell\u00edn, which left at least 21 injured: this is the company involved",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/8-de-cada-10-la-cifra-que-revela-el-costo-silencioso-de-la-violencia-politica-contra-las-mujeres-en-colombia-3553102",
-        "published_date": "2026-05-04 22:25:27",
+        "url": "https://www.eltiempo.com/colombia/medellin/video-e-imagenes-del-grave-accidente-de-bus-en-via-girardota-barbosa-cerca-a-medellin-que-dejo-al-menos-21-heridos-esta-es-la-empresa-involucrada-3553383",
+        "published_date": "2026-05-05 18:33:07",
         "category": "Local Events"
     },
     {
-        "title": "Let us not forget that the discussion about hippos, in addition to being scientific, is ethical.",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-verde/respuesta-la-eutanasia-a-hipopotamos-tambien-es-un-dilema-moral-no-solo-cientifico/",
-        "published_date": "2026-05-04 21:00:00",
+        "title": "Emergency in Antioquia: serious bus accident in Girardota leaves at least 21 injured",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/emergencia-en-antioquia-grave-accidente-de-bus-en-girardota-deja-al-menos-20-heridos-3553379",
+        "published_date": "2026-05-05 18:25:08",
         "category": "Local Events"
     },
     {
-        "title": "MeToo: movement collects 260 complaints of harassment in newsrooms",
+        "title": "Video: What is missing for the second Eastern Tunnel?X-ray of the progress of this mega-project that will speed up mobility between Medell\u00edn and the airport",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/video-que-falta-para-el-segundo-tunel-de-oriente-radiografia-del-avance-de-esta-megaobra-que-agilizara-la-movilidad-entre-medellin-y-el-aeropuerto-3553373",
+        "published_date": "2026-05-05 18:15:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "Between protocols and responsibilities: the investigation route after the collapse of a wall at the Pablo Neruda educational headquarters in Cali",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/entre-protocolos-y-responsabilidades-la-ruta-de-la-investigacion-tras-el-colapso-de-un-muro-en-la-sede-educativa-pablo-neruda-en-cali-3553355",
+        "published_date": "2026-05-05 17:53:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Who enunciates the power of black women?",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/metoo-movimiento-recoge-260-denuncias-de-acoso-en-salas-de-redaccion/",
-        "published_date": "2026-05-04 20:29:11",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-etnica/quien-enuncia-el-poder-de-las-mujeres-negras/",
+        "published_date": "2026-05-05 17:48:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "Government sends plea for suspension of transfer of pension savings",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/gobierno-envia-suplica-por-suspension-de-traslado-de-ahorro-pensional/",
+        "published_date": "2026-05-05 17:41:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cartagena shields its identity and cultural legacy: The November 11th Festival is now District Heritage",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/cartagena-blinda-su-identidad-y-legado-cultural-las-fiestas-del-11-de-noviembre-ya-son-patrimonio-distrital-3553356",
+        "published_date": "2026-05-05 17:38:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "The 34-year-old man identified as the murderer of Rey Momo Infantil 2024 in southeastern Barranquilla is captured in the El Carmen neighborhood",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/capturan-en-el-barrio-el-carmen-al-hombre-de-34-anos-senalado-como-homicida-del-rey-momo-infantil-2024-del-suroriente-de-barranquilla-3553350",
+        "published_date": "2026-05-05 17:20:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "La Marina Park in Cartagena: District and Navy agree to comprehensive renovation with public plaza and no private commercial use",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/parque-de-la-marina-en-cartagena-distrito-y-armada-acuerdan-renovacion-integral-con-plaza-publica-y-sin-uso-comercial-privado-3553345",
+        "published_date": "2026-05-05 17:10:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "What does the 'Heroic Anchor' plan consist of?The new strategy of the District of Cartagena and the National Navy to combat crime",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/distrito-de-cartagena-y-armada-nacional-prometen-mayor-seguridad-con-el-plan-ancla-heroica-con-la-presencia-permanente-de-infanteria-de-marina-3553324",
+        "published_date": "2026-05-05 17:02:47",
         "category": "Local Events"
     }
 ]
