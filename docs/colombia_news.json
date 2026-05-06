@@ -1,5 +1,12 @@
 [
     {
+        "title": "Young man died in Soledad waiting for authorization from the Nueva EPS to be transferred: 'A single mockery with us'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/joven-murio-en-soledad-esperando-autorizacion-de-la-nueva-eps-para-ser-trasladado-una-sola-burla-con-nosotros-3553698",
+        "published_date": "2026-05-06 18:44:17",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Mother's Day generates more than US$430 million in flower exports",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/el-dia-de-las-madres-genera-mas-de-us-430-millones-en-las-exportaciones-de-flores-4382305",
@@ -28,11 +35,25 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Atl\u00e1ntico: losses due to water theft amount to $2,000 million: 33 illegal connections are detected on farms in the municipality of Manat\u00ed",
+        "title": "The candidates include violence against women, but do not prioritize it",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-las-mujeres/los-candidatos-incluyen-la-violencia-contra-las-mujeres-pero-no-la-priorizan/",
+        "published_date": "2026-05-06 20:00:00",
+        "category": "Military"
+    },
+    {
+        "title": "Asoenerg\u00eda warned about energy insecurity due to lack of gas from Canacol",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/asoenergia-alerto-sobre-inseguridad-energetica-ante-falta-de-suministro-de-gas-de-canacol-4386667",
+        "published_date": "2026-05-06 19:04:00",
+        "category": "Military"
+    },
+    {
+        "title": "Medellin |The gang that terrorized tourists in El Poblado fell: this is how they operated in the exclusive areas of Provenza and Parque Lleras",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/atlantico-perdidas-por-robo-de-agua-ascienden-a-2-000-millones-detectan-33-conexiones-ilegales-en-fincas-del-municipio-de-manati-3551676",
-        "published_date": "2026-04-28 18:28:32",
-        "category": "Diplomacy"
+        "url": "https://www.eltiempo.com/colombia/medellin/medellin-cayo-la-banda-que-aterrorizaba-a-turistas-en-el-poblado-asi-operaban-en-las-exclusivas-zonas-de-provenza-y-el-parque-lleras-3553620",
+        "published_date": "2026-05-06 16:09:19",
+        "category": "Military"
     },
     {
         "title": "11,570 tables, 3.79 million voters: the logistical machinery behind the presidential elections in Valle del Cauca",
@@ -154,25 +175,25 @@
         "category": "Military"
     },
     {
-        "title": "May 1: Petro covers up his worst defects to boost Cepeda",
+        "title": "Gaia Amazonas launches book on Western and indigenous visions of gold",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/1-de-mayo-petro-cubre-sus-peores-defectos-para-impulsar-a-cepeda/",
-        "published_date": "2026-05-01 05:00:38",
-        "category": "Military"
+        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/gaia-amazonas-lanza-libro-sobre-las-visiones-occidental-e-indigena-del-oro/",
+        "published_date": "2026-05-06 20:39:03",
+        "category": "Energy"
     },
     {
-        "title": "The controlled detonation of five cylinders with high explosive capacity in a sewer on the Pan-American Highway in Cauca was recorded on video.",
+        "title": "Atlantic |Pital de Megua invites food lovers to taste the IV Gastronomic Festival of Flavors next Saturday, May 17",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/en-video-quedo-registrada-la-detonacion-controlada-de-cinco-cilindros-con-alta-capacidad-explosiva-en-una-alcantarilla-de-la-via-panamericana-en-cauca-3552355",
-        "published_date": "2026-04-30 22:05:59",
-        "category": "Military"
+        "url": "https://www.eltiempo.com/colombia/barranquilla/atlantico-pital-de-megua-invita-a-los-amantes-de-la-comida-a-degustar-el-iv-festival-gastronomico-de-sabores-el-proximo-sabado-17-de-mayo-3553601",
+        "published_date": "2026-05-06 15:30:00",
+        "category": "Energy"
     },
     {
-        "title": "The dissidents attempted a new attack like on the Pan-American highway, in Cajib\u00edo, hiding five cylinders in a sewer: this time, in Piendam\u00f3",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/los-disidentes-de-las-farc-de-nuevo-ocultaron-mas-cilindros-en-una-alcantarilla-como-en-la-via-panamericana-en-cajibio-esta-vez-en-paso-a-piendamo-3552384",
-        "published_date": "2026-04-30 21:59:42",
-        "category": "Military"
+        "title": "Superservicios and XM review measures to guarantee energy before the arrival of El Ni\u00f1o",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/superservicios-y-xm-revisan-medidas-para-garantizar-energia-ante-llegada-de-el-nino-4386352",
+        "published_date": "2026-05-06 13:26:57",
+        "category": "Energy"
     },
     {
         "title": "Tanking a vehicle with gasoline increased more than 40% during the last four years",
@@ -291,27 +312,6 @@
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/ministerio-de-hacienda-confirmo-aumento-de-400-en-el-precio-de-la-gasolina-en-mayo-4383195",
         "published_date": "2026-04-30 18:51:28",
-        "category": "Energy"
-    },
-    {
-        "title": "Charges are brought against former queen and actress Yeimy Paola Vargas for alleged falsehood and embezzlement in a contract with IPCC in Cartagena: she did not accept responsibility",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/imputan-cargos-a-exreina-y-actriz-yeimy-paola-vargas-por-presunta-falsedad-y-peculado-en-contrato-con-ipcc-en-cartagena-no-acepto-responsabilidad-3552344",
-        "published_date": "2026-04-30 18:44:45",
-        "category": "Energy"
-    },
-    {
-        "title": "Oil production reached 740,812 barrels per day in the first quarter",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/produccion-de-petroleo-alcanzo-740-497-barriles-por-dia-a-cierre-del-primer-trimestre-4383064",
-        "published_date": "2026-04-30 17:14:03",
-        "category": "Energy"
-    },
-    {
-        "title": "For every US$1 that the brent rises, nearly $500,000 million enter Ecopetrol's profits",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/por-cada-us-1-que-sube-el-brent-entran-cerca-de-500-000-millones-a-utilidad-de-ecopetrol-4382788",
-        "published_date": "2026-04-30 13:21:47",
         "category": "Energy"
     },
     {
@@ -455,143 +455,143 @@
         "category": "Economy"
     },
     {
-        "title": "Have an informed breakfast with the keys to this May 6, 2026",
+        "title": "CNE loses budget autonomy and remains under the shadow of the Registrar's Office",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-claves-de-este-5-de-mayo-de-2026-2/",
-        "published_date": "2026-05-06 12:17:44",
+        "url": "https://www.lasillavacia.com/en-vivo/cne-pierde-autonomia-presupuestal-y-queda-bajo-la-sombra-de-registraduria/",
+        "published_date": "2026-05-06 22:36:02",
         "category": "Local Events"
     },
     {
-        "title": "The candidates' promises under the magnifying glass of experts",
+        "title": "This was the meeting in which the Bank of the Republic gave in to political pressure from Petro",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/las-promesas-de-los-candidatos-bajo-la-lupa-de-expertos/",
-        "published_date": "2026-05-06 12:00:00",
+        "url": "https://www.lasillavacia.com/silla-nacional/asi-fue-la-junta-en-la-que-el-banco-de-la-republica-cedio-a-la-presion-politica-de-petro/",
+        "published_date": "2026-05-06 22:05:13",
         "category": "Local Events"
     },
     {
-        "title": "Government prepares debt service payments in May for more than $5 billion",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/gobierno-alista-pagos-del-servicio-de-la-deuda-en-mayo-por-mas-de-5-billones-4386208",
-        "published_date": "2026-05-06 11:57:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "The film that followed five families for 14 years to understand poverty and inequality",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/la-pelicula-que-siguio-a-cinco-familias-por-14-anos-para-entender-la-pobreza-y-la-desigualdad-4386157",
-        "published_date": "2026-05-06 11:17:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "Expert evaluation of the proposals of the presidential candidates",
+        "title": "SuperSalud creates conciliation table between Nueva EPS and hospital in Choc\u00f3",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/evaluacion-de-expertos-a-las-propuestas-de-los-candidatos-presidenciales/",
-        "published_date": "2026-05-06 06:00:00",
+        "url": "https://www.lasillavacia.com/en-vivo/supersalud-crea-mesa-de-conciliacion-entre-nueva-eps-y-hospital-en-choco/",
+        "published_date": "2026-05-06 21:50:27",
         "category": "Local Events"
     },
     {
-        "title": "CEJ asked the MinSalud to archive draft resolution on new food labeling",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/cej-pidio-al-minsalud-archivar-proyecto-de-resolucion-de-nuevo-etiquetado-de-alimentos-4386151",
-        "published_date": "2026-05-06 05:15:03",
+        "title": "Sandra Su\u00e1rez, advisor to Revista Semana, joins Abelardo's campaign",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/sandra-suarez-asesora-de-revista-semana-se-adhiere-a-la-campana-de-abelardo/",
+        "published_date": "2026-05-06 20:46:26",
         "category": "Local Events"
     },
     {
-        "title": "Ministry of Agriculture projects that meat will drop 10% with a brake on exports",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/ministerio-de-agricultura-proyecta-que-la-carne-baje-10-con-frenazo-a-exportaciones-4386075",
-        "published_date": "2026-05-06 05:01:55",
+        "title": "Historical Pact questions guarantees to audit electoral software",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/pacto-historico-cuestiona-garantias-para-auditar-el-software-electoral/",
+        "published_date": "2026-05-06 20:24:38",
         "category": "Local Events"
     },
     {
-        "title": "Coal boosted exports in the first quarter despite a drop in production",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/datos-de-las-exportaciones-del-primer-trimestre-de-2026-4386046",
-        "published_date": "2026-05-06 05:01:33",
+        "title": "Laje criticizes Oviedo for Lgtbiq+ and the abelardists amplify it",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/laje-critica-a-oviedo-por-lgtbiq-y-los-abelardistas-lo-amplifican/",
+        "published_date": "2026-05-06 19:27:13",
         "category": "Local Events"
     },
     {
-        "title": "\u201cDegrowth is not necessary in developing countries like Colombia\u201d",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/entrevista-con-kohei-saito-filosofo-y-profesor-de-la-universidad-de-tokio-sobre-decrecimiento-economico-4386079",
-        "published_date": "2026-05-06 05:01:06",
+        "title": "Companies financed representative Cuenca convicted of buying votes",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/empresas-apoyaron-a-representante-cuenca-condenado-por-compra-de-votos/",
+        "published_date": "2026-05-06 19:13:11",
         "category": "Local Events"
     },
     {
-        "title": "Gabriel Enrique Arenas Herazo, a student at the University of Antioquia reported missing in Caucasia since April, is found dead",
+        "title": "The first pediatric liver autotransplant in the country was performed at the San Vicente Fundaci\u00f3n Hospital in Medell\u00edn: this was the procedure",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/encuentran-sin-vida-a-gabriel-enrique-arenas-herazo-estudiante-de-la-universidad-de-antioquia-reportado-como-desaparecido-en-caucasia-desde-abril-3553440",
-        "published_date": "2026-05-06 04:40:00",
+        "url": "https://www.eltiempo.com/colombia/medellin/el-primer-autotrasplante-de-higado-pediatrico-en-el-pais-se-realizo-en-el-hospital-san-vicente-fundacion-de-medellin-asi-fue-el-procedimiento-3553690",
+        "published_date": "2026-05-06 18:40:02",
         "category": "Local Events"
     },
     {
-        "title": "Batteries, driver!Peak and plaque in Bucaramanga for Wednesday, May 6, 2026",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/pilas-conductor-pico-y-placa-en-bucaramanga-para-el-miercoles-6-de-mayo-de-3553435",
-        "published_date": "2026-05-06 02:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Be careful, driver!Peak and plate in Pereira for Wednesday, May 6, 2026",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/tenga-cuidado-conductor-pico-y-placa-en-pereira-para-el-miercoles-6-de-mayo-de-3553434",
-        "published_date": "2026-05-06 02:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Avoid fines: peak and plate in Medell\u00edn for Wednesday, May 6, 2026",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/evite-multas-pico-y-placa-en-medellin-para-el-miercoles-6-de-mayo-de-3553433",
-        "published_date": "2026-05-06 02:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Find out the details of the peak and plate in Cali for Wednesday, May 6, 2026",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/conozca-los-detalles-del-pico-y-placa-en-cali-para-el-miercoles-6-de-mayo-de-3553432",
-        "published_date": "2026-05-06 02:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Massacre in Yotoco, Valle del Cauca: three people were murdered with knives and firearms on invaded SAE property",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/masacre-en-yotoco-valle-del-cauca-tres-personas-fueron-asesinadas-con-arma-blanca-y-de-fuego-en-predio-invadido-de-la-sae-3553436",
-        "published_date": "2026-05-06 02:02:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Scientists prepare protocol to certify companies that do not deforest",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/cientificos-alistan-protocolo-para-certificar-a-empresas-que-no-deforestan/",
-        "published_date": "2026-05-06 01:13:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sleep informed with the key moves of this May 5, 2026",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-movidas-clave-de-este-5-de-mayo-de-2026/",
-        "published_date": "2026-05-06 00:47:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "Luis Gilberto Murillo would renounce his candidacy to join Cepeda",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/luis-gilberto-murillo-renunciaria-a-su-candidatura-para-sumarse-a-cepeda/",
-        "published_date": "2026-05-06 00:30:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Plebiscite and opposition: this is how the pulse on the right escalates due to the debates",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/plebiscito-y-oposicion-asi-escala-el-pulso-en-la-derecha-por-los-debates/",
-        "published_date": "2026-05-05 23:38:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Supersalud will deliver the first deliverable of audit results to Fomag in 15 days",
+        "title": "Court overturned decree that established a 2.5% charge on the profits of generating companies",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/supersalud-entregara-primer-entregable-de-resultados-de-auditoria-al-fomag-en-15-dias-4385933",
-        "published_date": "2026-05-05 23:26:46",
+        "url": "https://www.larepublica.co/economia/corte-tumbo-decreto-que-establecio-cobro-de-2-5-sobre-las-utilidades-a-generadoras-4386649",
+        "published_date": "2026-05-06 18:37:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mayor's Office enabled the Mi Casa program in Bogot\u00e1 with 9,000 spaces for own housing",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/alcaldia-habilito-programa-mi-casa-en-bogota-con-mas-de-9-000-cupos-para-vivienda-propia-4386595",
+        "published_date": "2026-05-06 18:33:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "\"After the elections we will have a calmer scenario to decide\"",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/intervencion-de-leonardo-villar-gerente-del-emisor-en-el-congreso-de-la-republica-4386624",
+        "published_date": "2026-05-06 18:28:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "Campaign Diary: Murillo leaves with Cepeda and the Char with Abelardo",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/diario-de-campana-murillo-se-va-con-cepeda-y-los-char-con-abelardo/",
+        "published_date": "2026-05-06 18:11:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "Six out of 10 motorcyclists do not respect speed limits in Cali: in the last year 327 people died, so the prevention campaign returns",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/seis-de-cada-10-motociclistas-no-respetan-limites-de-velocidad-en-cali-en-el-ultimo-ano-murieron-327-personas-por-lo-que-vuelve-campana-de-prevencion-3553681",
+        "published_date": "2026-05-06 17:53:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "Council of State suspended the decree that reorganized the EPS in the municipalities",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/consejo-de-estado-suspendio-provisionalmente-el-decreto-que-reorganizaba-a-las-eps-4386594",
+        "published_date": "2026-05-06 17:42:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "Archdiocese of Cali responds after 'Rasputin' attack on the emblematic La Ermita church and closes the temple: 'An iconoclastic act against faith'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/arquidiocesis-de-cali-responde-tras-ataque-de-rasputin-a-emblematica-iglesia-la-ermita-y-cierra-el-templo-un-acto-iconoclasta-en-contra-de-la-fe-3553671",
+        "published_date": "2026-05-06 17:15:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "The key element that led a judge to release the man who brutally attacked the worker of a hotel in the center of Medell\u00edn",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/el-elemento-clave-que-llevo-a-un-juez-a-dejar-en-libertad-al-hombre-que-agredio-brutalmente-a-la-trabajadora-de-un-hotel-del-centro-de-medellin-3553605",
+        "published_date": "2026-05-06 17:04:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Eye!They scam you in Bucaramanga with an alleged call for scholarships: The Ministry of Education says it is false and will only be through official channels",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/ojo-lo-estafan-en-bucaramanga-con-supuesta-convocatoria-de-becas-secretaria-de-educacion-dice-que-es-falso-y-solo-sera-por-canales-oficiales-3553672",
+        "published_date": "2026-05-06 17:01:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "More and more women support households in Barranquilla: female headship rises to 42%;wage and labor gaps persist",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/cada-vez-mas-mujeres-sostienen-los-hogares-en-barranquilla-jefatura-femenina-sube-al-42-persisten-brechas-salariales-y-laborales-3553664",
+        "published_date": "2026-05-06 16:44:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "They dismantle an illegal complex that produced 200 kilos of coca per month in Santander: Clan del Golfo would have lost 500 million pesos per month",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/desmantelan-complejo-ilegal-que-producia-200-kilos-de-coca-mensuales-en-santander-clan-del-golfo-habria-perdido-500-millones-de-pesos-al-mes-3553649",
+        "published_date": "2026-05-06 16:08:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "MinSalud regulated the prohibition of animal testing for cosmetics",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/ministerio-de-salud-reglamento-la-prohibicion-de-pruebas-en-animales-para-cosmeticos-4386483",
+        "published_date": "2026-05-06 14:55:48",
         "category": "Local Events"
     }
 ]
