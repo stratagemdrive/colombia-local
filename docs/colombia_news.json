@@ -1,5 +1,19 @@
 [
     {
+        "title": "Former ambassador Fernando Sanclemente was acquitted in drug trafficking case",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/exembajador-fernando-sanclemente-fue-absuelto-en-caso-de-narcofinca/",
+        "published_date": "2026-05-07 20:15:07",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Gold gains ground on the dollar and US Treasury bonds as a safe haven asset",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/el-oro-le-gana-terreno-al-dolar-y-a-los-bonos-del-tesoro-de-ee-uu-como-activo-refugio-4387445",
+        "published_date": "2026-05-07 17:53:45",
+        "category": "Diplomacy"
+    },
+    {
         "title": "\u201cIt is not a vassal country\u201d: Cepeda outlines relationship with the US in eventual government",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/no-es-un-pais-vasallo-cepeda-perfila-relacion-con-ee-uu-en-eventual-gobierno/",
@@ -33,6 +47,34 @@
         "url": "https://www.eltiempo.com/colombia/barranquilla/padres-de-familia-protestan-en-colegio-de-polonuevo-atlantico-por-presencia-de-nidos-crias-y-excremento-de-murcielagos-al-interior-del-plantel-3552298",
         "published_date": "2026-04-30 16:30:00",
         "category": "Diplomacy"
+    },
+    {
+        "title": "Authorities report the murder of Mileidy Villada, councilor of the Democratic Center in Obando, Valle del Cauca",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/atencion-autoridades-reportan-el-asesinato-de-una-concejal-en-obando-valle-del-cauca-la-edil-habria-sido-ultimada-en-un-restaurante-3553932",
+        "published_date": "2026-05-07 18:19:32",
+        "category": "Military"
+    },
+    {
+        "title": "This is the man who said he was the 'Devil' and destroyed seven images in the La Ermita church in Cali: he was born on a day of Catholic celebration",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/este-es-el-hombre-que-dijo-ser-el-diablo-y-destruyo-siete-imagenes-en-la-iglesia-la-ermita-de-cali-nacio-en-un-dia-de-celebracion-de-los-catolicos-3553859",
+        "published_date": "2026-05-07 18:01:00",
+        "category": "Military"
+    },
+    {
+        "title": "'The president said during the campaign that he would end the ELN in three months and he did not comply': Governor of Santander after kidnapping and trial of officials",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/el-presidente-dijo-en-campana-que-en-tres-meses-acababa-con-el-eln-y-no-cumplio-gobernador-de-santander-tras-secuestro-y-juicio-de-funcionarios-3553960",
+        "published_date": "2026-05-07 17:31:06",
+        "category": "Military"
+    },
+    {
+        "title": "Police agent in Bol\u00edvar who extorted a merchant falls: the modus operandi was the threat and the judicial setup",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/cae-agente-de-la-policia-en-bolivar-que-extorsionaba-a-comerciante-el-modus-operandi-era-la-amenaza-y-el-montaje-judicial-3553916",
+        "published_date": "2026-05-07 16:01:52",
+        "category": "Military"
     },
     {
         "title": "Barranquilla: 11 tons of stolen food valued at $65 million are recovered;They were ready to be taken out through the Magdalena River",
@@ -147,32 +189,39 @@
         "category": "Military"
     },
     {
-        "title": "Drone attacks, riots and complex geography: the 'perfect storm' that delays the construction of the High Mountain Battalion in Jamund\u00ed",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/ataques-con-drones-asonadas-y-geografia-compleja-la-tormenta-perfecta-que-retrasa-la-construccion-del-batallon-de-alta-montana-en-jamundi-3552665",
-        "published_date": "2026-05-03 00:32:12",
-        "category": "Military"
+        "title": "GDP lower than expected and inflation above expectation would explain monetary policy",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/pib-crecio-menos-de-lo-esperado-inflacion-por-encima-de-la-expectativa-informa-el-emisor-4387699",
+        "published_date": "2026-05-07 22:23:15",
+        "category": "Energy"
     },
     {
-        "title": "Do you have an idea to improve Medell\u00edn?FutuMed invites you to apply for your technological project until May 30 in Ruta N",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/tiene-una-idea-para-mejorar-medellin-futumed-invita-a-postular-su-proyecto-tecnologico-hasta-el-30-de-mayo-en-ruta-n-3552628",
-        "published_date": "2026-05-02 17:33:09",
-        "category": "Military"
-    },
-    {
-        "title": "Success on the opening day of the Cali Marathon: more than 10,000 runners and a security device without incidents",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/exito-en-la-jornada-inaugural-de-la-maraton-de-cali-mas-de-10-000-corredores-y-un-dispositivo-de-seguridad-sin-incidentes-3552613",
-        "published_date": "2026-05-02 15:04:17",
-        "category": "Military"
-    },
-    {
-        "title": "Governor confirms terrorist attack in R\u00edo Ir\u00f3, Choc\u00f3",
+        "title": "Abelardo $32 billion;Paloma $15 billion: this is how the financing goes",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/gobernador-confirma-atentado-terrorista-en-cajibio-cauca/",
-        "published_date": "2026-05-02 14:20:17",
-        "category": "Military"
+        "url": "https://www.lasillavacia.com/en-vivo/abelardo-32-mil-millones-paloma-15-mil-millones-asi-va-la-financiacion/",
+        "published_date": "2026-05-07 22:18:10",
+        "category": "Energy"
+    },
+    {
+        "title": "National Government approves TGI megaproject for regasification in La Guajira",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/gobierno-nacional-aprueba-megaproyecto-de-tgi-para-regasificacion-en-la-guajira-4387515",
+        "published_date": "2026-05-07 17:57:25",
+        "category": "Energy"
+    },
+    {
+        "title": "Analdex warned of effects for Colombian companies due to tension in the Strait of Hormuz",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/analdex-advirtio-efectos-para-empresas-colombianas-por-tension-en-estrecho-de-ormuz-4387332",
+        "published_date": "2026-05-07 14:18:54",
+        "category": "Energy"
+    },
+    {
+        "title": "Ecopetrol hired a third ship for exclusive time to transport fuels",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/ecopetrol-contrato-un-tercer-buque-por-tiempo-exclusivo-para-transportar-combustibles-4387314",
+        "published_date": "2026-05-07 13:55:17",
+        "category": "Energy"
     },
     {
         "title": "The El Ni\u00f1o phenomenon has not arrived and imported gas covered 25% of the demand",
@@ -280,39 +329,11 @@
         "category": "Energy"
     },
     {
-        "title": "Villavicencio is the city with the most expensive gasoline after the recent increase of $400",
+        "title": "Carf updated trend GDP projections to 2.6% between 2026 and 2037",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/villavicencio-es-la-ciudad-con-la-gasolina-mas-cara-tras-el-reciente-incremento-de-400-4383659",
-        "published_date": "2026-05-04 05:01:20",
-        "category": "Energy"
-    },
-    {
-        "title": "Colombia pulls the world away from oil and other Amazon news",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/colombia-jala-al-mundo-lejos-del-petroleo-y-otras-noticias-amazonicas/",
-        "published_date": "2026-05-02 14:00:00",
-        "category": "Energy"
-    },
-    {
-        "title": "Villavicencio, Cali and Bogot\u00e1, the cities with the most expensive gasoline after a new increase",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/villavicencio-cali-y-bogota-las-ciudades-con-la-gasolina-mas-cara-tras-nuevo-alza-4383553",
-        "published_date": "2026-05-01 05:00:14",
-        "category": "Energy"
-    },
-    {
-        "title": "Government will call an extraordinary meeting of Ecopetrol to make adjustments to the board",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/gobierno-convocara-asamblea-extraordinaria-de-ecopetrol-para-hacer-ajustes-en-la-junta-4383356",
-        "published_date": "2026-04-30 22:49:46",
-        "category": "Energy"
-    },
-    {
-        "title": "Detector: Petro did not increase the deficit to $130 billion in the Gasoline Fund",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/detector-petro-no-subio-deficit-a-130-billones-en-el-fondo-de-la-gasolina/",
-        "published_date": "2026-04-30 22:20:42",
-        "category": "Energy"
+        "url": "https://www.larepublica.co/economia/carf-preve-que-crecimiento-anual-del-pib-se-mantendra-entre-2-6-y-2-7-hasta-2037-4387561",
+        "published_date": "2026-05-07 19:28:10",
+        "category": "Economy"
     },
     {
         "title": "\u201cIn April, Bogot\u00e1 reached 50% of the collection goal of $16.8 billion for this year\u201d",
@@ -434,18 +455,130 @@
         "category": "Economy"
     },
     {
-        "title": "CARF forecasts primary deficit of 3.7% of GDP for the end of the year, setting a new record",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/carf-estima-un-deficit-primario-de-3-7-del-pib-al-cierre-del-ano-1-6-del-pib-mas-que-en-2025-4382373",
-        "published_date": "2026-04-29 22:58:06",
-        "category": "Economy"
+        "title": "Armando Novoa asked the government to \u201cclose a definitive agreement\u201d with the Cneb",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/armando-novoa-pidio-al-gobierno-cerrar-un-acuerdo-definitivo-con-la-cneb/",
+        "published_date": "2026-05-07 23:36:40",
+        "category": "Local Events"
     },
     {
-        "title": "MinHacienda reported repurchase of global bonds in dollars for US$4.56 billion",
+        "title": "Caquet\u00e1 ranchers are concerned with the livestock traceability law",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/ganaderos-de-caqueta-estan-preocupados-con-ley-de-trazabilidad-ganadera/",
+        "published_date": "2026-05-07 23:14:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "The livestock traceability law was reconciled, all that remains is for Petro to sign",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/se-concilio-la-ley-de-trazabilidad-ganadera-solo-falta-que-firme-petro/",
+        "published_date": "2026-05-07 23:06:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "The challenge of Paloma and Oviedo in Bogot\u00e1: adding without scaring away opposing votes",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/el-reto-de-paloma-y-oviedo-en-bogota-sumar-sin-espantar-votos-opuestos/",
+        "published_date": "2026-05-07 22:54:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mileidy Villada, councilor of the Democratic Center, murdered in Obando",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/asesinan-a-mileidy-villada-concejal-del-centro-democratico-en-obando/",
+        "published_date": "2026-05-07 21:56:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "The transformation of the Amazon is getting closer: study",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/la-transformacion-de-la-amazonia-esta-cada-vez-mas-cerca-estudio/",
+        "published_date": "2026-05-07 20:59:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cThat is not going to happen\u201d: registrar insists that it will not deliver source code",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/eso-no-va-a-ocurrir-registrador-insiste-en-que-no-entregara-codigo-fuente/",
+        "published_date": "2026-05-07 20:40:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "Registrar's Office gives way to Fajardo's anti-constituent committee",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/registraduria-da-via-libre-a-comite-anticonstituyente-de-fajardo/",
+        "published_date": "2026-05-07 19:03:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Barranquilla and the Caribbean Region enter a critical phase due to the heat wave: Ideam warns of weeks with extreme temperatures in the Caribbean",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-y-la-region-caribe-entran-en-una-fase-critica-por-la-ola-de-calor-ideam-advierte-semanas-con-temperaturas-extremas-en-el-caribe-3553996",
+        "published_date": "2026-05-07 18:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "'Fear is constant': the odyssey of the more than 200 passengers on the Cartagena-Madrid route who are trapped in Venezuela in a diplomatic 'limbo'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/la-odisea-de-mas-de-200-pasajeros-de-la-ruta-cartagena-madrid-atrapados-en-el-aeropuerto-de-maiquetia-venezuela-en-un-limbo-diplomatico-y-tecnico-3553981",
+        "published_date": "2026-05-07 18:14:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "Obando councilor Mileidy Villada, who was murdered by hitmen, would have received death threats: a pamphlet circulated on social networks",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/la-concejal-de-obando-mileidy-villada-que-fue-asesinada-por-sicarios-habria-sido-amenazada-de-muerte-en-la-ultima-semana-circulo-un-panfleto-3553937",
+        "published_date": "2026-05-07 18:06:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ombudsman launches campaign against the stigmatization of social leaders",
+        "source": "Verdad Abierta",
+        "url": "https://verdadabierta.com/defensoria-lanza-campana-contra-la-estigmatizacion-de-lideres-sociales/",
+        "published_date": "2026-05-07 18:02:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "More than 15 days without a drop of water: the human drama in Pueblo Viejo behind the constant blockades on the Ci\u00e9naga - Barranquilla road",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/mas-de-15-dias-sin-una-gota-de-agua-el-drama-humano-en-pueblo-viejo-que-provocan-los-constantes-bloqueos-en-la-via-cienaga-barranquilla-3553980",
+        "published_date": "2026-05-07 18:01:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Driver stabbed and dragged a traffic officer in Armenia on the hood of his car after receiving a summons: violent attack was caught on video",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/conductor-apunalo-y-arrastro-sobre-el-capo-de-su-carro-a-un-agente-de-transito-en-armenia-tras-recibir-un-comparendo-violenta-agresion-quedo-en-video-3553976",
+        "published_date": "2026-05-07 17:34:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "171 species and counting: Barranquilla joins Global Big Day 2026 as an emerging destination, the largest bird count in the world",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/171-especies-y-contando-barranquilla-se-suma-como-destino-emergente-al-global-big-day-2026-el-mayor-conteo-de-aves-del-mundo-3553950",
+        "published_date": "2026-05-07 16:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "\"Infrastructure must be the central axis of growth and the fight against poverty\"",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/minhacienda-informo-recompra-de-bonos-globales-en-dolares-por-us-4-560-millones-4381911",
-        "published_date": "2026-04-29 13:25:56",
-        "category": "Economy"
+        "url": "https://www.larepublica.co/economia/foro-sobre-infraestructura-como-eje-del-crecimiento-en-el-iv-encuentro-de-infraestructura-4387376",
+        "published_date": "2026-05-07 16:00:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "Conpes of the Regiotram del Norte opened differences between the Government and the Mayor's Office of Bogot\u00e1",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/conpes-del-regiotram-del-norte-abrio-diferencias-entre-gobierno-y-alcaldia-de-bogota-4387256",
+        "published_date": "2026-05-07 13:41:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "Threats to Cric, amid dissident 'veto' to the Ombudsman's Office",
+        "source": "Verdad Abierta",
+        "url": "https://verdadabierta.com/amenazas-al-cric-en-medio-de-veto-de-disidencia-a-la-defensoria/",
+        "published_date": "2026-05-07 13:07:26",
+        "category": "Local Events"
     },
     {
         "title": "Invima warned of health risk due to the marketing of fraudulent fresh cheeses",
@@ -459,132 +592,6 @@
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-claves-de-este-7-de-mayo-de-2026/",
         "published_date": "2026-05-07 12:20:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "MinSalud said that, to date, there is no alert for the presence of hantavirus in Colombia",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/minsalud-confirmo-que-no-existe-alerta-por-presencia-de-hantavirus-en-colombia-4387178",
-        "published_date": "2026-05-07 12:05:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Petro's constituent in the final stretch of the campaign",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/la-constituyente-de-petro-en-la-recta-final-de-la-campana/",
-        "published_date": "2026-05-07 12:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "It is not enough to be a woman: I am looking for a feminist",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-las-mujeres/no-es-suficiente-ser-mujer-yo-busco-una-feminista/",
-        "published_date": "2026-05-07 12:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Third fire of the year in the forgotten and abandoned station of the Gir\u00f3n Metrol\u00ednea transport system alarms authorities",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/tercer-incendio-del-ano-en-la-estacion-olvidada-y-abandonada-de-sistema-de-transporte-metrolinea-de-giron-alarma-a-autoridades-3553764",
-        "published_date": "2026-05-07 06:58:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "This is the constituent that Petro wants to do politics beyond 2026",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/asi-es-la-constituyente-que-quiere-petro-para-hacer-politica-mas-alla-del-2026/",
-        "published_date": "2026-05-07 06:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "During the last year, the average price of roast chicken went from $38,406 to $44,144",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/indice-del-pollo-asado-durante-abril-de-2026-4386171",
-        "published_date": "2026-05-07 05:01:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "The film from the University of Los Andes that shows \u201cthat the poor are not poor because they want to\u201d",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/la-pelicula-de-la-u-de-los-andes-que-muestra-que-el-pobre-no-es-pobre-porque-quiere-4386999",
-        "published_date": "2026-05-07 05:01:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "Be careful, driver!Peak and plaque in Bucaramanga for Thursday, May 7, 2026",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/cuidado-conductor-pico-y-placa-en-bucaramanga-para-el-jueves-7-de-mayo-de-3553743",
-        "published_date": "2026-05-07 02:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Avoid fines: peak and plate in Pereira for Thursday, May 7, 2026",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/evite-multas-pico-y-placa-en-pereira-para-el-jueves-7-de-mayo-de-3553742",
-        "published_date": "2026-05-07 02:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Find out the details of the peak and plate in Medell\u00edn for Thursday, May 7, 2026",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/conozca-los-detalles-del-pico-y-placa-en-medellin-para-el-jueves-7-de-mayo-de-3553741",
-        "published_date": "2026-05-07 02:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "This will be the peak and plate in Cali for Thursday, May 7, 2026",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/asi-sera-el-pico-y-placa-en-cali-para-el-jueves-7-de-mayo-de-3553738",
-        "published_date": "2026-05-07 02:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Although they supported the 11.25% rate, four co-directors of the Issuer aimed to raise it",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/aunque-respaldaron-tasa-de-11-25-cuatro-codirectores-del-emisor-apuntaba-a-subirla-4387055",
-        "published_date": "2026-05-07 01:38:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "Quintero deceives by pointing out a pharmacist for delay in a girl's medication",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/detector-de-mentiras/enganoso/quintero-engana-al-senalar-a-farmaceutica-por-demora-en-medicamento-de-una-nina/",
-        "published_date": "2026-05-07 00:16:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sleep informed with the movements of this May 6, 2026",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-movidas-de-este-6-de-mayo-de-2026/",
-        "published_date": "2026-05-07 00:14:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "CNE loses budget autonomy and remains under the shadow of the Registrar's Office",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/cne-pierde-autonomia-presupuestal-y-queda-bajo-la-sombra-de-registraduria/",
-        "published_date": "2026-05-06 22:36:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "This was the meeting in which the Bank of the Republic gave in to political pressure from Petro",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/asi-fue-la-junta-en-la-que-el-banco-de-la-republica-cedio-a-la-presion-politica-de-petro/",
-        "published_date": "2026-05-06 22:05:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "Alias \u200b\u200bRasput\u00edn, the face behind the destruction of property and heritage of cultural interest in the La Ermita church, in the center of Cali",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/alias-rasputin-la-cara-detras-de-la-destruccion-de-bienes-y-patrimonio-de-interes-cultural-en-la-iglesia-la-ermita-en-el-centro-de-cali-3553722",
-        "published_date": "2026-05-06 22:00:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "SuperSalud creates conciliation table between Nueva EPS and hospital in Choc\u00f3",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/supersalud-crea-mesa-de-conciliacion-entre-nueva-eps-y-hospital-en-choco/",
-        "published_date": "2026-05-06 21:50:27",
         "category": "Local Events"
     }
 ]
