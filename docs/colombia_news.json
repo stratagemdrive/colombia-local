@@ -49,6 +49,20 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Abelardo reflects the radicalization of retired soldiers against Petro",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/abelardo-recoge-la-radicalizacion-de-militares-retirados-contra-petro/",
+        "published_date": "2026-05-08 06:00:00",
+        "category": "Military"
+    },
+    {
+        "title": "This is the armed group that would be behind the drone with explosives found near El Dorado and Catam, in Bogot\u00e1: what the National Army revealed",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/grupos-armados-estarian-detras-del-dron-con-explosivos-hallado-cerca-de-el-dorado-y-catam-segun-el-ejercito-nacional-3554054",
+        "published_date": "2026-05-08 05:15:38",
+        "category": "Military"
+    },
+    {
         "title": "Authorities report the murder of Mileidy Villada, councilor of the Democratic Center in Obando, Valle del Cauca",
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/cali/atencion-autoridades-reportan-el-asesinato-de-una-concejal-en-obando-valle-del-cauca-la-edil-habria-sido-ultimada-en-un-restaurante-3553932",
@@ -175,18 +189,25 @@
         "category": "Military"
     },
     {
-        "title": "Success in the Cali Marathon: more than 40,000 attendees, security operations without incidents and a strong impact on the Cali economy",
+        "title": "In the early morning and morning of this Saturday, May 9, about 24 neighborhoods in Barranquilla and Puerto Colombia will be without power: know which ones they are",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/exito-en-la-maraton-de-cali-mas-de-40-000-asistentes-operativos-de-seguridad-sin-incidentes-y-un-fuerte-impacto-en-la-economia-calena-3552724",
-        "published_date": "2026-05-03 14:33:51",
-        "category": "Military"
+        "url": "https://www.eltiempo.com/colombia/barranquilla/en-la-madrugada-y-la-manana-de-este-sabado-9-de-mayo-cerca-de-24-barrios-en-barranquilla-y-puerto-colombia-estaran-sin-energia-conozca-cuales-son-3554006",
+        "published_date": "2026-05-08 06:01:00",
+        "category": "Energy"
     },
     {
-        "title": "Police allegedly murdered his close childhood friend over a debt of 20 million pesos: the victim's mother witnessed the death of her son",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/policia-habria-asesinado-a-su-amigo-intimo-de-la-infancia-por-una-deuda-de-20-millones-de-pesos-la-madre-de-la-victima-presencio-la-muerte-de-su-hijo-3552719",
-        "published_date": "2026-05-03 12:40:21",
-        "category": "Military"
+        "title": "\u201cWe are making progress in financing new renewable energy projects\u201d",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/entrevista-con-rafael-simon-herz-stenberg-presidente-e-de-la-financiera-de-desarrollo-nacional-4387602",
+        "published_date": "2026-05-08 05:01:44",
+        "category": "Energy"
+    },
+    {
+        "title": "Half of the Caribbean gas is at risk if Canacol cancels supply contracts",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/la-mitad-del-gas-del-caribe-esta-en-riesgo-si-canacol-cancela-contratos-de-suministro-4387847",
+        "published_date": "2026-05-08 05:01:00",
+        "category": "Energy"
     },
     {
         "title": "GDP lower than expected and inflation above expectation would explain monetary policy",
@@ -308,25 +329,11 @@
         "category": "Energy"
     },
     {
-        "title": "Government seeks to reduce spending on service provision and eliminate it in arbitration agreements",
+        "title": "Government and Cundinamarca made official the addition of $1.95 billion for Regiotram del Norte",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/gobierno-busca-reducir-pago-en-prestacion-de-servicios-y-eliminar-gasto-en-pactos-arbitrales-4384793",
-        "published_date": "2026-05-04 19:49:55",
-        "category": "Energy"
-    },
-    {
-        "title": "Superservicios begins comprehensive evaluation of EPM on operation and provision of services",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/superservicios-inicia-evaluacion-integral-a-epm-sobre-operacion-y-prestacion-de-servicios-4384733",
-        "published_date": "2026-05-04 17:18:36",
-        "category": "Energy"
-    },
-    {
-        "title": "Anif predicts that the net debt of the Central National Government could exceed 71% of GDP",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/anif-preve-que-deuda-neta-del-gobierno-nacional-central-podria-superar-71-del-pib-en-tres-anos-4384700",
-        "published_date": "2026-05-04 16:16:52",
-        "category": "Energy"
+        "url": "https://www.larepublica.co/economia/gobierno-y-cundinamarca-oficializaron-adicion-de-1-95-billones-para-regiotram-del-norte-4387882",
+        "published_date": "2026-05-08 00:42:57",
+        "category": "Economy"
     },
     {
         "title": "Carf updated trend GDP projections to 2.6% between 2026 and 2037",
@@ -448,17 +455,87 @@
         "category": "Economy"
     },
     {
-        "title": "Anif foresees an increase in interest rates of the Bank of the Republic of between 11.75% to 12%",
+        "title": "The bid for the vote of retired military personnel",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/la-puja-por-el-voto-de-los-militares-retirados/",
+        "published_date": "2026-05-08 12:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "ICA responded to Fedegan in the face of the livestock crisis and the failures in Sinigan V6",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/anif-preve-alza-en-tasas-de-interes-del-banco-de-la-republica-de-entre-11-75-a-12-4382565",
-        "published_date": "2026-04-30 05:00:47",
-        "category": "Economy"
+        "url": "https://www.larepublica.co/economia/ica-le-respondio-a-fedegan-frente-a-la-crisis-ganadera-y-las-fallas-en-la-plataforma-sinigan-4388038",
+        "published_date": "2026-05-08 11:21:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "Be careful, driver!Peak and plaque in Bucaramanga for Friday, May 8, 2026",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/tenga-cuidado-conductor-pico-y-placa-en-bucaramanga-para-el-viernes-8-de-mayo-de-3554058",
+        "published_date": "2026-05-08 02:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Be careful, driver!Peak and plate in Pereira for Friday, May 8, 2026",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/ojo-conductor-pico-y-placa-en-pereira-para-el-viernes-8-de-mayo-de-3554057",
+        "published_date": "2026-05-08 02:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "This will be the peak and plate in Medell\u00edn for Friday, May 8, 2026",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/asi-sera-el-pico-y-placa-en-medellin-para-el-viernes-8-de-mayo-de-3554056",
+        "published_date": "2026-05-08 02:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Find out the details of the peak and plate in Cali for Friday, May 8, 2026",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/conozca-los-detalles-del-pico-y-placa-en-cali-para-el-viernes-8-de-mayo-de-3554055",
+        "published_date": "2026-05-08 02:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Los Intocables, the Cali band that takes regional Mexican music to another level, will be live in the center of Cali",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/los-intocables-la-banda-calena-que-lleva-la-musica-regional-mexicana-a-otro-nivel-estara-en-vivo-en-el-centro-de-cali-3554061",
+        "published_date": "2026-05-08 01:29:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "Articles of the Decree are suspended to advance payment of withholding at source",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/suspenden-articulos-del-decreto-para-adelantar-pago-de-retencion-en-la-fuente-4387987",
+        "published_date": "2026-05-08 01:23:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "The authorities' plan to prevent Mother's Day from being the most violent date in Cali and Valle del Cauca",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/el-plan-de-las-autoridades-para-evitar-que-el-dia-de-la-madre-sea-la-fecha-mas-violenta-en-cali-y-el-valle-del-cauca-3554059",
+        "published_date": "2026-05-08 00:14:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "Sleep informed with the movements of this May 7, 2026",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-movidas-de-este-7-de-mayo-de-2026/",
+        "published_date": "2026-05-08 00:05:06",
+        "category": "Local Events"
     },
     {
         "title": "Armando Novoa asked the government to \u201cclose a definitive agreement\u201d with the Cneb",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/armando-novoa-pidio-al-gobierno-cerrar-un-acuerdo-definitivo-con-la-cneb/",
         "published_date": "2026-05-07 23:36:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "The fall of the sister of the founder of the Aragua Train and the signs of the operation of the transnational criminal structure in the heart of Medell\u00edn",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/la-caida-de-la-hermana-de-fundador-del-tren-de-aragua-y-los-indicios-de-la-operacion-de-la-estructura-criminal-transnacional-en-el-corazon-de-medellin-3553714",
+        "published_date": "2026-05-07 23:22:58",
         "category": "Local Events"
     },
     {
@@ -504,94 +581,17 @@
         "category": "Local Events"
     },
     {
+        "title": "'The Government continues to neglect Colombians': Paloma Valencia, after the murder of the councilor of the Democratic Center Mileidy Villada in Obando",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/el-gobierno-sigue-descuidando-a-los-colombianos-paloma-valencia-tras-el-asesinato-de-la-concejal-del-centro-democratico-mileidy-villada-en-obando-3554029",
+        "published_date": "2026-05-07 20:36:55",
+        "category": "Local Events"
+    },
+    {
         "title": "Registrar's Office gives way to Fajardo's anti-constituent committee",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/registraduria-da-via-libre-a-comite-anticonstituyente-de-fajardo/",
         "published_date": "2026-05-07 19:03:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Barranquilla and the Caribbean Region enter a critical phase due to the heat wave: Ideam warns of weeks with extreme temperatures in the Caribbean",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-y-la-region-caribe-entran-en-una-fase-critica-por-la-ola-de-calor-ideam-advierte-semanas-con-temperaturas-extremas-en-el-caribe-3553996",
-        "published_date": "2026-05-07 18:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "'Fear is constant': the odyssey of the more than 200 passengers on the Cartagena-Madrid route who are trapped in Venezuela in a diplomatic 'limbo'",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/la-odisea-de-mas-de-200-pasajeros-de-la-ruta-cartagena-madrid-atrapados-en-el-aeropuerto-de-maiquetia-venezuela-en-un-limbo-diplomatico-y-tecnico-3553981",
-        "published_date": "2026-05-07 18:14:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Obando councilor Mileidy Villada, who was murdered by hitmen, would have received death threats: a pamphlet circulated on social networks",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/la-concejal-de-obando-mileidy-villada-que-fue-asesinada-por-sicarios-habria-sido-amenazada-de-muerte-en-la-ultima-semana-circulo-un-panfleto-3553937",
-        "published_date": "2026-05-07 18:06:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ombudsman launches campaign against the stigmatization of social leaders",
-        "source": "Verdad Abierta",
-        "url": "https://verdadabierta.com/defensoria-lanza-campana-contra-la-estigmatizacion-de-lideres-sociales/",
-        "published_date": "2026-05-07 18:02:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "More than 15 days without a drop of water: the human drama in Pueblo Viejo behind the constant blockades on the Ci\u00e9naga - Barranquilla road",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/mas-de-15-dias-sin-una-gota-de-agua-el-drama-humano-en-pueblo-viejo-que-provocan-los-constantes-bloqueos-en-la-via-cienaga-barranquilla-3553980",
-        "published_date": "2026-05-07 18:01:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Driver stabbed and dragged a traffic officer in Armenia on the hood of his car after receiving a summons: violent attack was caught on video",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/conductor-apunalo-y-arrastro-sobre-el-capo-de-su-carro-a-un-agente-de-transito-en-armenia-tras-recibir-un-comparendo-violenta-agresion-quedo-en-video-3553976",
-        "published_date": "2026-05-07 17:34:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "171 species and counting: Barranquilla joins Global Big Day 2026 as an emerging destination, the largest bird count in the world",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/171-especies-y-contando-barranquilla-se-suma-como-destino-emergente-al-global-big-day-2026-el-mayor-conteo-de-aves-del-mundo-3553950",
-        "published_date": "2026-05-07 16:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "\"Infrastructure must be the central axis of growth and the fight against poverty\"",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/foro-sobre-infraestructura-como-eje-del-crecimiento-en-el-iv-encuentro-de-infraestructura-4387376",
-        "published_date": "2026-05-07 16:00:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "Conpes of the Regiotram del Norte opened differences between the Government and the Mayor's Office of Bogot\u00e1",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/conpes-del-regiotram-del-norte-abrio-diferencias-entre-gobierno-y-alcaldia-de-bogota-4387256",
-        "published_date": "2026-05-07 13:41:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Threats to Cric, amid dissident 'veto' to the Ombudsman's Office",
-        "source": "Verdad Abierta",
-        "url": "https://verdadabierta.com/amenazas-al-cric-en-medio-de-veto-de-disidencia-a-la-defensoria/",
-        "published_date": "2026-05-07 13:07:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "Invima warned of health risk due to the marketing of fraudulent fresh cheeses",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/invima-advirtio-riesgo-sanitario-por-comercializacion-de-quesos-frescos-fraudulentos-4387233",
-        "published_date": "2026-05-07 12:33:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "Have an informed breakfast with the keys to this May 7, 2026",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-claves-de-este-7-de-mayo-de-2026/",
-        "published_date": "2026-05-07 12:20:07",
         "category": "Local Events"
     }
 ]
