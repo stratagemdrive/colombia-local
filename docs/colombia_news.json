@@ -49,6 +49,27 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Farc dissidents attack the Police substation of the Potrerito district, in Jamund\u00ed, Valle: a uniformed officer was injured",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/atencion-disidentes-de-las-farc-atacan-la-subestacion-del-corregimiento-de-potrerito-en-jamundi-valle-3554426",
+        "published_date": "2026-05-09 17:55:46",
+        "category": "Military"
+    },
+    {
+        "title": "'The Public Force regained control in Potrerito, Jamund\u00ed, after 4 attacks with explosives from drones on the Police': Mayor proposes tables to the Government",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/la-fuerza-publica-retomo-control-en-potrerito-jamundi-tras-4-ataques-con-explosivos-desde-drones-a-la-policia-alcaldesa-propone-mesas-al-gobierno-3554493",
+        "published_date": "2026-05-09 17:54:44",
+        "category": "Military"
+    },
+    {
+        "title": "'You don't kill the truth by killing journalists': journalism professionals from Antioquia met to reject the murder of Mateo P\u00e9rez Rueda",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/no-se-mata-la-verdad-matando-periodistas-profesionales-del-periodismo-de-antioquia-se-reunieron-para-rechazar-el-asesinato-de-mateo-perez-rueda-3554476",
+        "published_date": "2026-05-09 16:34:19",
+        "category": "Military"
+    },
+    {
         "title": "The change in US anti-drug strategy changes the rules for Colombia",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/el-cambio-de-estrategia-antidrogas-de-ee-uu-cambia-las-reglas-para-colombia/",
@@ -168,25 +189,32 @@
         "category": "Military"
     },
     {
-        "title": "11,570 tables, 3.79 million voters: the logistical machinery behind the presidential elections in Valle del Cauca",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/11-570-mesas-3-79-millones-de-votantes-la-maquinaria-logistica-detras-de-las-elecciones-presidenciales-en-el-valle-del-cauca-3553399",
-        "published_date": "2026-05-05 20:03:26",
-        "category": "Military"
-    },
-    {
-        "title": "Sleep informed with the movements of this May 4, 2026",
+        "title": "Vigil for Germ\u00e1n Vargas Lleras begins at the San Carlos Palace",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-movidas-de-este-4-de-mayo-de-2026/",
-        "published_date": "2026-05-05 00:46:19",
-        "category": "Military"
+        "url": "https://www.lasillavacia.com/en-vivo/empieza-velacion-de-german-vargas-lleras-en-el-palacio-san-carlos/",
+        "published_date": "2026-05-09 19:51:32",
+        "category": "Energy"
     },
     {
-        "title": "Government of Ecuador reduced tariffs on imports from Colombia from 100% to 75%",
+        "title": "Ministry of Mines presented draft decree to strengthen gas supply",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/gobierno-de-ecuador-redujo-de-100-a-75-aranceles-a-importaciones-desde-colombia-4384965",
-        "published_date": "2026-05-04 22:01:44",
-        "category": "Military"
+        "url": "https://www.larepublica.co/economia/ministerio-de-minas-presento-borrador-de-decreto-para-fortalecer-la-oferta-de-gas-natural-4389149",
+        "published_date": "2026-05-09 19:13:35",
+        "category": "Energy"
+    },
+    {
+        "title": "Chaos and panic due to a raging fire that raised a gigantic column of smoke in the heart of Medell\u00edn: videos reflect the dimension of the emergency",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/caos-y-panico-por-voraz-incendio-en-pleno-centro-de-medellin-videos-reflejan-la-dimension-de-la-emergencia-3554501",
+        "published_date": "2026-05-09 18:42:55",
+        "category": "Energy"
+    },
+    {
+        "title": "Leaders from all shores react to the death of Vargas Lleras",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/lideres-de-todas-las-orillas-reaccionan-a-la-muerte-de-vargas-lleras/",
+        "published_date": "2026-05-09 15:44:32",
+        "category": "Energy"
     },
     {
         "title": "Germ\u00e1n Vargas Lleras, former vice president of Colombia and leader of Cambio Radical, died",
@@ -301,32 +329,11 @@
         "category": "Energy"
     },
     {
-        "title": "Superservicios and XM review measures to guarantee energy before the arrival of El Ni\u00f1o",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/superservicios-y-xm-revisan-medidas-para-garantizar-energia-ante-llegada-de-el-nino-4386352",
-        "published_date": "2026-05-06 13:26:57",
-        "category": "Energy"
-    },
-    {
-        "title": "Tanking a vehicle with gasoline increased more than 40% during the last four years",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/cuanto-ha-subido-la-gasolina-en-los-ultimos-cuatro-anos-4386060",
-        "published_date": "2026-05-06 05:01:33",
-        "category": "Energy"
-    },
-    {
-        "title": "Gasoline price rose more than 40% in major cities from 2022",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/precio-de-la-gasolina-incremento-mas-de-40-en-las-principales-ciudades-desde-2022-4385306",
-        "published_date": "2026-05-05 12:20:30",
-        "category": "Energy"
-    },
-    {
-        "title": "Cali and Villavicencio are the cities with the most expensive Acpm with an increase of $121 per gallon",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/cali-y-villavicencio-las-ciudades-con-el-acpm-mas-caro-con-aumento-de-121-al-galon-4385287",
-        "published_date": "2026-05-05 11:41:17",
-        "category": "Energy"
+        "title": "The cost of living in Colombian cities in recent years: transportation, food, housing and public services hit homes",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/el-costo-de-vivir-en-las-ciudades-colombianas-durante-los-ultimos-anos-transporte-alimentos-vivienda-y-servicios-publicos-golpearon-hogares-3554502",
+        "published_date": "2026-05-09 18:24:12",
+        "category": "Economy"
     },
     {
         "title": "Senator Jota Pe Hern\u00e1ndez denounced the dissidents' plan to assassinate him",
@@ -462,6 +469,97 @@
         "category": "Economy"
     },
     {
+        "title": "Expectations grow for a possible return of the El Ni\u00f1o phenomenon and its effects",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/crecen-las-expectativas-por-un-posible-regreso-del-fenomeno-de-el-nino-y-sus-efectos-4389223",
+        "published_date": "2026-05-09 23:39:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "What is Petro looking for with a Constituent Assembly?",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/opinion/que-busca-petro-con-una-constituyente/",
+        "published_date": "2026-05-09 22:06:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "De la Espriella denounces a sniper attack plan against him",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/de-la-espriella-denuncia-plan-de-atentado-con-francotirador-en-su-contra/",
+        "published_date": "2026-05-09 21:13:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "The final stretch",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/opinion/la-recta-final/",
+        "published_date": "2026-05-09 17:58:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "The things that happen",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/opinion/las-cosas-que-pasan/",
+        "published_date": "2026-05-09 17:45:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "'President Petro, Chal\u00e1 is a hitman for 'Calarc\u00e1', the murderer of Mateo P\u00e9rez and you persist in defending criminals,' says governor of Antioquia",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/presidente-petro-chala-es-sicario-de-calarca-el-asesino-de-mateo-perez-y-usted-persiste-en-defender-a-criminales-dice-gobernador-de-antioquia-3554478",
+        "published_date": "2026-05-09 16:52:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "20 years of abortion as a right",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/opinion/20-anos-del-aborto-como-derecho/",
+        "published_date": "2026-05-09 14:40:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Antioquia Assembly rejected the murders of journalist Mateo P\u00e9rez Rueda and the president of the Council of Obando, Valle, Mileidy Villada",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/la-asamblea-de-antioquia-rechazo-los-asesinatos-del-periodista-mateo-perez-rueda-y-de-la-presidenta-del-concejo-de-obando-valle-mileidy-villada-3554469",
+        "published_date": "2026-05-09 14:37:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "The question that progressivism has pending",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/opinion/la-pregunta-que-el-progresismo-tiene-pendiente/",
+        "published_date": "2026-05-09 14:32:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mateo P\u00e9rez, son of Professor Gloria and Don Carlos, from the Yarumal cafeteria: story of the murdered journalist whose body was rescued",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/mateo-perez-hijo-de-la-profesora-gloria-y-de-don-carlos-de-la-cafeteria-de-yarumal-historia-del-periodista-asesinado-cuyo-cuerpo-fue-rescatado-3554404",
+        "published_date": "2026-05-09 14:20:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "Recipe for a civil war",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/opinion/receta-para-una-guerra-civil/",
+        "published_date": "2026-05-09 14:16:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "Strong explosion in Popay\u00e1n: a man detonated a firecracker in a commercial establishment in a sector where spare parts for motorcycles and bicycles are sold",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/fuerte-explosion-en-popayan-por-un-artefacto-en-un-local-comercial-3554405",
+        "published_date": "2026-05-09 09:40:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cartagena: Acuacar decrees sectorized water rationing in the midst of a supply crisis, while protests persist in the neighborhoods",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/cartagena-acuacar-decreta-racionamiento-de-agua-sectorizado-en-medio-de-una-crisis-de-abastecimiento-mientras-en-los-barrios-persisiten-protestas-3554397",
+        "published_date": "2026-05-09 08:55:48",
+        "category": "Local Events"
+    },
+    {
         "title": "Jaime Gilinski received an honorary doctorate from the Georgia Institute of Technology and asked young people to 'dream big';this was his speech",
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/jaime-gilinski-recibio-doctorado-honoris-causa-de-georgia-institute-of-technology-y-pidio-a-los-jovenes-sonar-en-grande-este-fue-su-discurso-3554384",
@@ -508,97 +606,6 @@
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-movidas-de-este-8-de-mayo-de-2026/",
         "published_date": "2026-05-09 00:27:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "Flip confirms murder of missing journalist in Antioquia",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/flip-confirma-asesinato-de-periodista-desaparecido-en-antioquia/",
-        "published_date": "2026-05-08 22:54:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "La Dian confirmed the return of previous rates after the suspension of Decree 572",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/la-dian-confirmo-el-regreso-de-tarifas-anteriores-tras-la-suspension-del-decreto-572-4388615",
-        "published_date": "2026-05-08 22:11:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "MinAmbiente prepares carbon credit decree: opinions differ",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/minambiente-alista-decreto-de-creditos-de-carbono-las-opiniones-difieren/",
-        "published_date": "2026-05-08 22:10:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "MinAmbiente prepares carbon credit decree: opinions differ",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/minambiente-alista-decreto-de-garantias-sociales-para-proyectos-de-carbono/",
-        "published_date": "2026-05-08 22:10:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cordoba |'He took my three companions': the heartbreaking cry of a child after the release of the man who drove the car that killed his family",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/cordoba-se-llevo-a-mis-tres-companeros-el-desgarrador-clamor-de-un-nino-tras-liberacion-del-hombre-que-conducia-el-carro-que-mato-a-su-familia-3554354",
-        "published_date": "2026-05-08 21:38:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Peasants obtain concession to take advantage of the jungle while taking care of it",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/campesinos-logran-concesion-para-aprovechar-la-selva-mientras-la-cuidan/",
-        "published_date": "2026-05-08 21:17:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Peasants obtain concession to take advantage of the jungle while taking care of it",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/campesinos-logran-concesion-para-aprovechar-la-selva-mientras-la-cuidan/",
-        "published_date": "2026-05-08 21:17:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cMy interlocutor is the people\u201d: Cepeda responds to absence in the last debate",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/mi-interlocutor-es-el-pueblo-cepeda-responde-a-ausencia-en-ultimo-debate/",
-        "published_date": "2026-05-08 21:14:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "From the Metropolitan Opera to the USC Arena: tenor Jos\u00e9 Carreras, living legend of music, will sing in Cali on his farewell tour",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/del-metropolitan-opera-a-la-arena-usc-el-tenor-jose-carreras-leyenda-viva-de-la-musica-cantara-en-cali-en-su-gira-de-despedida-3554346",
-        "published_date": "2026-05-08 21:04:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Knowledge about Indigenous Peoples changes if who does the research changes",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-etnica/el-conocimiento-sobre-pueblos-indigenas-cambia-si-cambia-quien-investiga/",
-        "published_date": "2026-05-08 20:52:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Presidential illnesses",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/podcasts/las-enfermedades-presidenciales/",
-        "published_date": "2026-05-08 20:33:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Four years, four recognitions: Dilian Francisca Toro's path on Forbes' 100 most powerful women list",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/cuatro-anos-cuatro-reconocimientos-la-ruta-de-dilian-francisca-toro-en-el-listado-de-las-100-mujeres-mas-poderosas-de-forbes-3554333",
-        "published_date": "2026-05-08 20:27:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Indictment begins against Ricardo Roa for violation of electoral limits",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/arranca-imputacion-contra-ricardo-roa-por-violacion-de-topes-electorales/",
-        "published_date": "2026-05-08 19:52:55",
         "category": "Local Events"
     }
 ]
