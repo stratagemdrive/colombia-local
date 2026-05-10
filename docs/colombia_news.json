@@ -49,6 +49,13 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Bus and two tractor-trailers incinerated in rural area of \u200b\u200bValdivia, Antioquia: authorities found ELN flag",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/incineran-bus-y-dos-tractocamiones-en-zona-rural-de-valdivia-antioquia-autoridades-hallaron-bandera-del-eln-3554549",
+        "published_date": "2026-05-10 06:28:22",
+        "category": "Military"
+    },
+    {
         "title": "Farc dissidents attack the Police substation of the Potrerito district, in Jamund\u00ed, Valle: a uniformed officer was injured",
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/cali/atencion-disidentes-de-las-farc-atacan-la-subestacion-del-corregimiento-de-potrerito-en-jamundi-valle-3554426",
@@ -179,13 +186,6 @@
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/asoenergia-alerto-sobre-inseguridad-energetica-ante-falta-de-suministro-de-gas-de-canacol-4386667",
         "published_date": "2026-05-06 19:04:00",
-        "category": "Military"
-    },
-    {
-        "title": "Medellin |The gang that terrorized tourists in El Poblado fell: this is how they operated in the exclusive areas of Provenza and Parque Lleras",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/medellin-cayo-la-banda-que-aterrorizaba-a-turistas-en-el-poblado-asi-operaban-en-las-exclusivas-zonas-de-provenza-y-el-parque-lleras-3553620",
-        "published_date": "2026-05-06 16:09:19",
         "category": "Military"
     },
     {
@@ -469,6 +469,20 @@
         "category": "Economy"
     },
     {
+        "title": "Paloma's secret: the move that diverted the harshest debate against the establishment",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/el-secreto-de-paloma-la-jugada-que-desvio-el-debate-mas-duro-contra-el-establecimiento/",
+        "published_date": "2026-05-10 06:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tragedy confirmed at Las Quintas de Cucunub\u00e1 mine: four miners trapped after explosion died",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/confirman-tragedia-en-mina-las-quintas-de-cucunuba-fallecieron-los-cuatro-mineros-atrapados-tras-explosion-3554548",
+        "published_date": "2026-05-10 05:51:31",
+        "category": "Local Events"
+    },
+    {
         "title": "Expectations grow for a possible return of the El Ni\u00f1o phenomenon and its effects",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/crecen-las-expectativas-por-un-posible-regreso-del-fenomeno-de-el-nino-y-sus-efectos-4389223",
@@ -592,20 +606,6 @@
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/los-precios-de-los-fertilizantes-han-tenido-aumentos-que-sobrepasan-hasta-50-4387656",
         "published_date": "2026-05-09 05:01:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "\"We are going to review possible price distortions during the El Ni\u00f1o phenomenon\"",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/entrevista-con-felipe-duran-superintendente-de-servicios-publicos-sobre-energia-durante-el-nino-4387658",
-        "published_date": "2026-05-09 05:01:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sleep informed with the movements of this May 8, 2026",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-movidas-de-este-8-de-mayo-de-2026/",
-        "published_date": "2026-05-09 00:27:41",
         "category": "Local Events"
     }
 ]
