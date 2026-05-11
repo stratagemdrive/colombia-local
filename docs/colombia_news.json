@@ -1,5 +1,12 @@
 [
     {
+        "title": "\u201cThe OECD has insisted in several countries on implementing a spending review system\u201d",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/la-ocde-ha-insistido-en-varios-paises-en-implementar-un-sistema-de-revision-del-gasto-4387955",
+        "published_date": "2026-05-11 05:01:38",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Cepeda condemns murder of journalist and conditions peace talks",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/cepeda-condena-asesinato-de-periodista-y-condiciona-dialogos-de-paz/",
@@ -54,6 +61,13 @@
         "url": "https://www.larepublica.co/economia/el-dia-de-las-madres-genera-mas-de-us-430-millones-en-las-exportaciones-de-flores-4382305",
         "published_date": "2026-05-04 05:01:35",
         "category": "Diplomacy"
+    },
+    {
+        "title": "Attention: Army recovered the motorcycle of Mateo P\u00e9rez Rueda, a journalist murdered in Antioquia",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/atencion-ejercito-recupero-la-motocicleta-de-mateo-perez-rueda-periodista-asesinado-en-antioquia-3554714",
+        "published_date": "2026-05-11 08:38:21",
+        "category": "Military"
     },
     {
         "title": "From a movie, video of how armed motorcyclists were going to rob another on the streets of Medell\u00edn and the Police prevented it: the mayor presented the recording",
@@ -189,11 +203,25 @@
         "category": "Military"
     },
     {
-        "title": "Violent reaction to operation against illegal mining in Ataco, Tolima: Police vehicle set on fire and troops attacked",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/violenta-reaccion-a-operativo-contra-mineria-ilegal-en-ataco-tolima-incendiaron-vehiculo-de-la-policia-y-atacaron-tropas-3553745",
-        "published_date": "2026-05-07 01:30:00",
-        "category": "Military"
+        "title": "MinEnerg\u00eda asked public entities to reinforce energy saving measures due to El Ni\u00f1o",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/minenergia-pidio-a-entidades-publicas-reforzar-medidas-de-ahorro-energetico-por-el-nino-4389616",
+        "published_date": "2026-05-11 13:06:59",
+        "category": "Energy"
+    },
+    {
+        "title": "Breakfast informed with the movements of this May 11, 2026",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-movidas-de-este-11-de-mayo-de-2026/",
+        "published_date": "2026-05-11 12:35:29",
+        "category": "Energy"
+    },
+    {
+        "title": "Stories by Germ\u00e1n Vargas Lleras: smell, impatience and the legacy of power",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/cuentos-de-german-vargas-lleras/",
+        "published_date": "2026-05-11 05:00:00",
+        "category": "Energy"
     },
     {
         "title": "Vigil for Germ\u00e1n Vargas continues: Abelardo, Paloma and Duque attend",
@@ -312,27 +340,6 @@
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/gobierno-nacional-aprueba-megaproyecto-de-tgi-para-regasificacion-en-la-guajira-4387515",
         "published_date": "2026-05-07 17:57:25",
-        "category": "Energy"
-    },
-    {
-        "title": "Analdex warned of effects for Colombian companies due to tension in the Strait of Hormuz",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/analdex-advirtio-efectos-para-empresas-colombianas-por-tension-en-estrecho-de-ormuz-4387332",
-        "published_date": "2026-05-07 14:18:54",
-        "category": "Energy"
-    },
-    {
-        "title": "Ecopetrol hired a third ship for exclusive time to transport fuels",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/ecopetrol-contrato-un-tercer-buque-por-tiempo-exclusivo-para-transportar-combustibles-4387314",
-        "published_date": "2026-05-07 13:55:17",
-        "category": "Energy"
-    },
-    {
-        "title": "The El Ni\u00f1o phenomenon has not arrived and imported gas covered 25% of the demand",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/el-fenomeno-de-el-nino-no-ha-llegado-y-el-gas-importado-cubrio-25-de-la-demanda-4386958",
-        "published_date": "2026-05-07 05:01:05",
         "category": "Energy"
     },
     {
@@ -476,10 +483,115 @@
         "category": "Economy"
     },
     {
+        "title": "Audits ask the CNE to suspend AtlasIntel operations in Colombia",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/auditorias-piden-al-cne-suspender-operacion-de-atlasintel-en-colombia/",
+        "published_date": "2026-05-11 13:44:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "Dian expects to raise $27.8 billion with income tax returns from legal entities",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/la-dian-espera-recaudar-27-8-billones-con-declaracion-de-renta-de-personas-juridicas-4389568",
+        "published_date": "2026-05-11 13:41:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "Comptroller's Office alerts risks in the provision of health services of the intervened EPS",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/contraloria-alerta-riesgos-en-la-prestacion-de-servicio-de-salud-de-las-eps-intervenidas-4389560",
+        "published_date": "2026-05-11 13:34:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "A country of four regions and a State to govern them",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/un-pais-de-cuatro-regiones-y-un-estado-para-gobernarlas/",
+        "published_date": "2026-05-11 13:13:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "Fiscal policy must be designed with a long-term vision",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/la-politica-fiscal-debe-disenarse-con-una-vision-de-largo-plazo/",
+        "published_date": "2026-05-11 13:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Paloma's secret: how did she get the video of the tulas?",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/el-secreto-de-paloma-como-consiguio-el-video-de-las-tulas/",
+        "published_date": "2026-05-11 12:30:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "New details about the sexual exploitation of girls, adolescents and young people by the 'Shottas' and 'Espartanos' gangs in Buenaventura",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/nuevos-detalles-sobre-la-explotacion-sexual-a-ninas-adolescentes-y-a-jovenes-por-parte-de-las-bandas-shottas-y-espartanos-en-buenaventura-3554709",
+        "published_date": "2026-05-11 08:38:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "In Barranquilla, Cae alias Young with nine black market firearms;hard blow to criminal networks in Atl\u00e1ntico",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-cae-alias-young-con-nueve-armas-duro-golpe-a-las-redes-que-surten-el-delito-en-el-atlantico-3554701",
+        "published_date": "2026-05-11 08:06:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "Debate based on the words of Senator Isabel Zuleta, of the Historical Pact, at the marijuana march in Medell\u00edn: 'Feel like heroes'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/debate-por-palabras-de-senadora-isabel-zuleta-del-pacto-historico-en-marcha-de-la-marihuana-en-medellin-sientanse-unos-heroes-3554679",
+        "published_date": "2026-05-11 06:53:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "Colombia became the riskiest country compared to economies like Chile, Peru and Brazil",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/colombia-se-volvio-el-pais-mas-riesgoso-frente-a-economias-como-chile-peru-y-brasil-4388889",
+        "published_date": "2026-05-11 05:01:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "Vegetables, potatoes and fruits, what has increased the most in price on the market so far this year",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/verdura-papa-y-frutas-lo-que-mas-subio-de-precio-del-mercado-en-lo-corrido-del-ano-4389006",
+        "published_date": "2026-05-11 05:01:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "Growth in the building sector fell 7.5% and completed two years in negative territory",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/crecimiento-de-sector-de-edificaciones-cayo-7-5-y-completo-dos-anos-en-terreno-negativo-4388997",
+        "published_date": "2026-05-11 05:01:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "Energy well-being goes beyond the transition",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-verde/transicion-energetica-diversificacion-de-la-matriz-energetica-e-impacto-a-los-grupos-de-interes/",
+        "published_date": "2026-05-11 01:50:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "Video |Juliana Guerrero, booed in the middle of Iv\u00e1n Cepeda's campaign event in Valledupar: 'Get out!'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/video-juliana-guerrero-abucheada-en-pleno-evento-de-campana-de-ivan-cepeda-en-valledupar-fuera-3554647",
+        "published_date": "2026-05-10 21:55:47",
+        "category": "Local Events"
+    },
+    {
         "title": "Opinion columns for Sunday, May 10",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/columnas-de-opinion-del-domingo-10-de-mayo/",
         "published_date": "2026-05-10 21:38:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tremor in Colombia today, May 10, 'Mother's Day', had a magnitude of 3.9: know all the details",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-en-colombia-hoy-10-de-mayo-dia-de-la-madre-tuvo-una-magnitud-de-3-9-conozca-todos-los-detalles-3554646",
+        "published_date": "2026-05-10 20:39:17",
         "category": "Local Events"
     },
     {
@@ -508,111 +620,6 @@
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/cabal-pide-votar-por-una-derecha-real-y-no-menciona-a-paloma/",
         "published_date": "2026-05-10 16:25:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "That Forever War: A Complete History of the Thousand Day War.",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/podcasts/aquella-guerra-eterna-una-historia-completa-de-la-guerra-de-los-mil-dias/",
-        "published_date": "2026-05-10 14:59:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ideam warned of warmer conditions than usual at the beginning of May",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/ideam-alerto-por-condiciones-mas-calidas-de-lo-habitual-en-la-primera-semana-de-mayo-4389293",
-        "published_date": "2026-05-10 14:58:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Vijagual River overflowed in Apartad\u00f3, Antioquia: they analyze declaring a public calamity due to flooding in neighborhoods of the El Reposo district",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/se-desbordo-el-rio-vijagual-en-apartado-antioquia-analizan-declarar-la-calamidad-publica-por-inundaciones-en-barrios-del-corregimiento-el-reposo-3554602",
-        "published_date": "2026-05-10 14:53:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "The design of the consultation card could lead to error",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/el-diseno-del-tarjeton-de-las-consultas-pudo-inducir-al-error/",
-        "published_date": "2026-05-10 14:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Five facts about the murdered journalist Mateo P\u00e9rez",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/cinco-datos-del-periodista-asesinado-mateo-perez/",
-        "published_date": "2026-05-10 14:29:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sign up for \u201cLie Detectors: fact-checking laboratory for young people\u201d",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/inscribase-en-detectores-de-mentiras-laboratorio-de-fact-checking-para-jovenes/",
-        "published_date": "2026-05-10 14:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The farewell to Mateo P\u00e9rez Rueda in Yarumal, Antioquia: sad Mother's Day for his family among tributes to the journalist murdered by violent men",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/la-despedida-a-mateo-perez-rueda-en-yarumal-antioquia-triste-dia-de-la-madre-para-su-familia-entre-homenajes-al-periodista-asesinado-por-violentos-3554574",
-        "published_date": "2026-05-10 13:58:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "She was the Colombian murdered by multiple shots on a street in Chile: clues for a mysterious case, while her family waits for answers",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/ella-era-la-colombiana-asesinada-por-multiples-disparos-en-una-calle-de-chile-pistas-por-misterioso-caso-mientras-su-familia-espera-respuestas-3554590",
-        "published_date": "2026-05-10 13:36:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ash emissions from the Purac\u00e9 volcano maintain the yellow alert in Cauca",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/emisiones-de-ceniza-en-el-volcan-purace-mantiene-la-alerta-amarilla-en-el-cauca-4389256",
-        "published_date": "2026-05-10 13:09:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tremor today in Colombia |Earthquake was recorded in Cucunub\u00e1, Cundinamarca during the morning of this Sunday",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-hoy-en-colombia-sismo-de-magnitud-3-1-se-registro-en-cucunuba-cundinamarca-durante-la-manana-de-este-domingo-3554583",
-        "published_date": "2026-05-10 11:32:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "'We will not rest until we capture vandals from seven MIO stations in Cali and the first one has already fallen': damage affected the mobility of 40,000 people",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/no-descansaremos-hasta-capturar-a-vandalos-de-siete-estaciones-del-mio-en-cali-y-ya-cayo-el-primero-danos-afectaron-la-movilidad-de-40-000-personas-3554569",
-        "published_date": "2026-05-10 10:36:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Massacre in Magdalena left four dead and two injured before Mother's Day: men shot in the middle of a public street",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/noche-de-horror-en-magdalena-masacre-dejo-cuatro-muertos-y-dos-heridos-y-apago-la-vispera-del-dia-de-las-madres-en-pueblo-viejo-3554557",
-        "published_date": "2026-05-10 08:55:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "Paloma's secret: the move that diverted the harshest debate against the establishment",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/el-secreto-de-paloma-la-jugada-que-desvio-el-debate-mas-duro-contra-el-establecimiento/",
-        "published_date": "2026-05-10 06:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tragedy confirmed at Las Quintas de Cucunub\u00e1 mine: four miners trapped after explosion died",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/confirman-tragedia-en-mina-las-quintas-de-cucunuba-fallecieron-los-cuatro-mineros-atrapados-tras-explosion-3554548",
-        "published_date": "2026-05-10 05:51:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "Expectations grow for a possible return of the El Ni\u00f1o phenomenon and its effects",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/crecen-las-expectativas-por-un-posible-regreso-del-fenomeno-de-el-nino-y-sus-efectos-4389223",
-        "published_date": "2026-05-09 23:39:38",
         "category": "Local Events"
     }
 ]
