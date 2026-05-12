@@ -1,5 +1,12 @@
 [
     {
+        "title": "Police spoke about the case of a uniformed officer who shot and killed a dog during a procedure in Rionegro, Antioquia: he gave an account of the attack",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/policia-se-pronuncio-sobre-caso-de-uniformado-que-mato-de-un-disparo-a-perro-durante-procedimiento-en-rionegro-antioquia-dio-version-sobre-el-ataque-3554957",
+        "published_date": "2026-05-11 21:16:21",
+        "category": "Diplomacy"
+    },
+    {
         "title": "\u201cThe OECD has insisted in several countries on implementing a spending review system\u201d",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/la-ocde-ha-insistido-en-varios-paises-en-implementar-un-sistema-de-revision-del-gasto-4387955",
@@ -56,11 +63,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Mother's Day generates more than US$430 million in flower exports",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/el-dia-de-las-madres-genera-mas-de-us-430-millones-en-las-exportaciones-de-flores-4382305",
-        "published_date": "2026-05-04 05:01:35",
-        "category": "Diplomacy"
+        "title": "Justice for 'Tigre': in Rionegro they held a vigil and a protest after the death of a dog at the hands of the Police",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/justicia-por-tigre-en-rionegro-realizaron-una-velaton-y-una-protesta-tras-la-muerte-de-un-perro-a-manos-de-la-policia-3555031",
+        "published_date": "2026-05-12 07:59:38",
+        "category": "Military"
     },
     {
         "title": "Cepeda agitates the 2016 plebiscite campaign to attack Uribism",
@@ -196,11 +203,11 @@
         "category": "Military"
     },
     {
-        "title": "This is the armed group that would be behind the drone with explosives found near El Dorado and Catam, in Bogot\u00e1: what the National Army revealed",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/grupos-armados-estarian-detras-del-dron-con-explosivos-hallado-cerca-de-el-dorado-y-catam-segun-el-ejercito-nacional-3554054",
-        "published_date": "2026-05-08 05:15:38",
-        "category": "Military"
+        "title": "Today Ecopetrol will present its financial results for the first quarter of the year",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/hoy-ecopetrol-presentara-sus-resultados-financieros-del-primer-trimestre-del-ano-4390491",
+        "published_date": "2026-05-12 12:07:45",
+        "category": "Energy"
     },
     {
         "title": "Ricardo Roa did not accept charges for alleged violation of electoral limits",
@@ -336,13 +343,6 @@
         "category": "Energy"
     },
     {
-        "title": "\u201cWe are making progress in financing new renewable energy projects\u201d",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/entrevista-con-rafael-simon-herz-stenberg-presidente-e-de-la-financiera-de-desarrollo-nacional-4387602",
-        "published_date": "2026-05-08 05:01:44",
-        "category": "Energy"
-    },
-    {
         "title": "Increase in interest rates would put pressure on excess securitization margins",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/aumento-en-las-tasas-de-interes-presionaria-margenes-excedentes-de-titularizaciones-4390047",
@@ -469,11 +469,130 @@
         "category": "Economy"
     },
     {
-        "title": "Market analysts predict that April inflation will rise and stand at 5.64%",
+        "title": "Caja de la Naci\u00f3n reached a total amount of $7.5 billion by the end of April",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/los-analistas-del-mercado-preven-que-la-inflacion-de-abril-suba-y-se-ubique-en-5-64-4383584",
-        "published_date": "2026-05-04 05:01:45",
-        "category": "Economy"
+        "url": "https://www.larepublica.co/economia/caja-de-la-nacion-llego-a-un-monto-total-de-7-5-billones-para-el-cierre-de-abril-4390520",
+        "published_date": "2026-05-12 12:56:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "Breakfast informed with the movements of this May 12, 2026",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-movidas-de-este-12-de-mayo-de-2026/",
+        "published_date": "2026-05-12 12:33:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "Inside Abelardo's campaign in Bogot\u00e1",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/dentro-de-la-campana-de-abelardo-en-bogota/",
+        "published_date": "2026-05-12 12:30:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "From \u201cAtoms for Peace\u201d to nuclear suspicions",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/de-atoms-for-peace-a-las-sospechas-nucleares/",
+        "published_date": "2026-05-12 11:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The writer Gustavo \u00c1lvarez Gardeaz\u00e1bal reported an alleged kidnapping attempt on his farm",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/el-escritor-gustavo-alvarez-gardeazabal-denuncio-un-presunto-intento-de-secuestro-en-su-finca-3555027",
+        "published_date": "2026-05-12 07:44:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "Metrocali requests exemplary measures against MIO vandals, similar to those applied against 'Epa Colombia' for attacking TransMilenio in Bogot\u00e1",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/metrocali-pide-medidas-ejemplares-contra-vandalos-del-mio-similares-a-las-aplicadas-contra-epa-colombia-por-atacar-transmilenio-en-bogota-3555003",
+        "published_date": "2026-05-12 07:25:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "Six voters talk about their emotions three weeks before the first round",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/seis-votantes-hablan-de-sus-emociones-a-tres-semanas-de-la-primera-vuelta/",
+        "published_date": "2026-05-12 06:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cThe new Development Plan should encourage more own resources for the capitals\u201d",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/entrevista-con-andres-santamaria-director-de-asocapitales-sobre-nuevo-pnd-4389528",
+        "published_date": "2026-05-12 05:01:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "Of every 10 heads of cattle, three are slaughtered in clandestine and illegal plants",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/de-cada-10-cabezas-de-ganado-tres-son-sacrificadas-en-plantas-clandestinas-e-ilegales-4389526",
+        "published_date": "2026-05-12 05:01:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "Dissatisfaction with the health service reached maximum levels with more than two million complaints",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/insatisfaccion-del-servicio-de-salud-llego-a-maximos-con-mas-de-dos-millones-de-quejas-4390185",
+        "published_date": "2026-05-12 05:01:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "There is a 61% probability that El Ni\u00f1o will settle between the end of May and June, according to Ideam",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/hay-61-de-probabilidad-de-que-el-nino-se-instale-entre-finales-de-mayo-y-junio-4390301",
+        "published_date": "2026-05-12 05:00:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "Be careful, driver!Peak and plaque in Bucaramanga for Tuesday, May 12, 2026",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/ojo-conductor-pico-y-placa-en-bucaramanga-para-el-martes-12-de-mayo-de-3554827",
+        "published_date": "2026-05-12 02:35:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Avoid fines!This is how the peak and plate operates in Cali for Tuesday, May 12, 2026",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/evite-multas-asi-opera-el-pico-y-placa-en-cali-para-el-martes-12-de-mayo-de-3554770",
+        "published_date": "2026-05-12 02:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "This is how the peak and plate operates in Medell\u00edn for Tuesday, May 12, 2026: schedules and recommendations for drivers",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/asi-opera-el-pico-y-placa-en-medellin-para-el-martes-12-de-mayo-de-2026-horarios-y-recomendaciones-para-conductores-3554815",
+        "published_date": "2026-05-12 02:25:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Batteries to mobility restrictions!Peak and plate in Pereira for Tuesday, May 12, 2026",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/pilas-a-las-restricciones-de-movilidad-pico-y-placa-en-pereira-para-el-martes-12-de-mayo-de-3554821",
+        "published_date": "2026-05-12 02:24:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "From Betulia to Harvard: L\u00eda Patricia Gallo-Urrego, the dentist from Antioquia whose medical application with AI seeks to help patients around the world",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/de-betulia-a-harvard-lia-patricia-gallo-urrego-la-odontologa-antioquena-cuyo-proyecto-medico-con-ia-busca-ayudar-a-pacientes-en-todo-el-mundo-3554980",
+        "published_date": "2026-05-12 01:00:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "Sleep informed with the keys to this May 11, 2026",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-claves-de-este-11-de-mayo-de-2026/",
+        "published_date": "2026-05-12 00:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "They capture a psychologist from the Mayor's Office of Bello for an alleged international child sexual exploitation network in Antioquia",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/capturan-a-psicologa-de-la-alcaldia-de-bello-por-presunta-red-de-explotacion-sexual-infantil-internacional-en-antioquia-3554985",
+        "published_date": "2026-05-11 23:16:25",
+        "category": "Local Events"
     },
     {
         "title": "ICA Director explained that Sinigan's problems had been accumulating for two decades",
@@ -487,132 +606,6 @@
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/contraloria-intervenciones-estatales-a-eps-no-superan-crisis-de-salud/",
         "published_date": "2026-05-11 22:48:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "Colombia hopes to maintain leadership in bird watching",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/colombia-espera-mantener-el-liderazgo-en-avistamiento-de-aves/",
-        "published_date": "2026-05-11 22:17:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "William Abel Mercado Redondo was appointed as Executive Director (e) of the Creg",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/william-abel-mercado-redondo-fue-designado-como-director-ejecutivo-e-de-la-creg-4390149",
-        "published_date": "2026-05-11 22:06:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "Delegates from the Ministry of the Interior talk with Misak indigenous people in Bogot\u00e1",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/delegados-del-mininterior-dialogan-con-indigenas-misak-en-bogota/",
-        "published_date": "2026-05-11 21:59:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Electoral toad swallower: which toads are swallowed with their vote in the 2026 presidential elections",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/traga-sapos-electoral-cuales-sapos-se-traga-con-su-voto-en-las-presidenciales-2026/",
-        "published_date": "2026-05-11 21:58:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "Elections in Colombia: architecture of uncertainty",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/elecciones-en-colombia-arquitectura-de-una-incertidumbre/",
-        "published_date": "2026-05-11 20:07:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cneb Front raids El Plateado and kills two people",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/frente-de-la-cneb-incursiona-en-el-plateado-y-mata-a-dos-personas/",
-        "published_date": "2026-05-11 19:52:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "After the scandalous fall of the Russian mayor of Tunja, they ask that Roy Barreras' shortlist be returned to the Mayor's Office due to alleged inability of candidates",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/tras-la-escandalosa-caida-del-alcalde-ruso-de-tunja-piden-devolver-la-terna-de-roy-barreras-a-la-alcaldia-por-presuntas-inhabilidades-de-candidatas-3554933",
-        "published_date": "2026-05-11 18:25:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Why are the nights in Medell\u00edn so hot?The phenomenon that explains the night heat",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/por-que-las-noches-en-medellin-estan-tan-calientes-el-fenomeno-que-explica-el-calor-nocturno-3554929",
-        "published_date": "2026-05-11 17:59:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "BIOMIG is installed at the Palonegro International Airport in Bucaramanga",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/instalan-biomig-en-el-aeropuerto-internacional-palonegro-en-bucaramanga-3554927",
-        "published_date": "2026-05-11 17:55:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "The novel continues in the Chamber of Commerce of Tunja: now the judge sanctioned the board of directors for not complying with the ruling to reinstate the former president",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/sigue-la-novela-en-la-camara-de-comercio-de-tunja-ahora-juez-sanciono-a-la-junta-directiva-por-no-cumplir-fallo-de-reincorporar-al-expresidente-3554918",
-        "published_date": "2026-05-11 17:45:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cali achieved approval in the first debate of a project that modernizes its tax structure",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/cali-logro-aprobacion-en-primer-debate-de-proyecto-que-moderniza-su-estructura-tributaria-4389921",
-        "published_date": "2026-05-11 17:42:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "In photos: this is how they dismantled the old Armenian railway station;The bars, doors and even parts of abandoned vehicles were stolen",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/en-fotos-asi-desmantelaron-la-antigua-estacion-del-ferrocarril-de-armenia-se-robaron-las-rejas-puertas-y-hasta-partes-de-vehiculos-abandonados-3554912",
-        "published_date": "2026-05-11 17:05:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The new data on the crime of Mateo P\u00e9rez Rueda, a journalist murdered by the '36th front' of the alias Calarc\u00e1 dissidents: the young man's father spoke",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/los-nuevos-datos-del-crimen-de-mateo-perez-rueda-periodista-asesinado-por-el-frente-36-de-las-disidencias-de-alias-calarca-hablo-papa-del-joven-3554881",
-        "published_date": "2026-05-11 16:38:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "Spec maintenance will be done at the end of July to anticipate the arrival of El Ni\u00f1o",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/mantenimiento-de-spec-se-hara-a-finales-de-julio-para-anticipar-llegada-de-el-nino-4389815",
-        "published_date": "2026-05-11 15:38:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Audits ask the CNE to suspend AtlasIntel operations in Colombia",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/auditorias-piden-al-cne-suspender-operacion-de-atlasintel-en-colombia/",
-        "published_date": "2026-05-11 13:44:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Dian expects to raise $27.8 billion with income tax returns from legal entities",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/la-dian-espera-recaudar-27-8-billones-con-declaracion-de-renta-de-personas-juridicas-4389568",
-        "published_date": "2026-05-11 13:41:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Comptroller's Office alerts risks in the provision of health services of the intervened EPS",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/contraloria-alerta-riesgos-en-la-prestacion-de-servicio-de-salud-de-las-eps-intervenidas-4389560",
-        "published_date": "2026-05-11 13:34:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "A country of four regions and a State to govern them",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/un-pais-de-cuatro-regiones-y-un-estado-para-gobernarlas/",
-        "published_date": "2026-05-11 13:13:07",
         "category": "Local Events"
     }
 ]
