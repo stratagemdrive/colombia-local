@@ -63,6 +63,20 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Uribe and Paloma denounce alleged pressure from armed men in favor of Cepeda",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/uribe-y-paloma-denuncian-supuestas-presiones-de-armados-a-favor-de-cepeda/",
+        "published_date": "2026-05-13 21:15:37",
+        "category": "Military"
+    },
+    {
+        "title": "Extortion, burning of buses and electoral risk |The security challenge that Santander faces: 'We will not allow bandits to establish themselves'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/extorsion-quema-de-buses-y-riesgo-electoral-el-reto-de-seguridad-que-tiene-santander-no-permitiremos-que-los-bandidos-se-establezcan-3555549",
+        "published_date": "2026-05-13 18:27:32",
+        "category": "Military"
+    },
+    {
         "title": "Reward, captures and technology: the triple security strategy implemented by Valle del Cauca against organized crime",
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/cali/recompensa-capturas-y-tecnologia-la-triple-estrategia-de-seguridad-que-implementa-el-valle-del-cauca-frente-al-crimen-organizado-3555259",
@@ -186,20 +200,6 @@
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/cali/cayeron-cuatro-hombres-que-habrian-participado-en-atentados-terroristas-en-narino-guardaban-panfletos-alusivos-a-las-farc-3554304",
         "published_date": "2026-05-08 18:13:30",
-        "category": "Military"
-    },
-    {
-        "title": "Gifts, projections and security measures: everything you need to know for the celebration of Mother's Day in Medell\u00edn",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/regalos-proyecciones-y-medidas-de-seguridad-todo-lo-que-debe-saber-para-la-celebracion-del-dia-de-la-madre-en-medellin-3554287",
-        "published_date": "2026-05-08 17:26:31",
-        "category": "Military"
-    },
-    {
-        "title": "Road safety: In Monter\u00eda they awarded the regions with best road safety practices",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/seguridad-vial-en-monteria-premiaron-a-la-regiones-con-mejores-practicas-de-seguridad-vial-3554273",
-        "published_date": "2026-05-08 16:46:57",
         "category": "Military"
     },
     {
@@ -343,6 +343,20 @@
         "category": "Energy"
     },
     {
+        "title": "MinHacienda presented bill to raise Icbf budget",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/minhacienda-llevo-al-congreso-proyecto-de-ley-para-incrementar-presupuesto-del-icbf-4391851",
+        "published_date": "2026-05-13 18:17:18",
+        "category": "Economy"
+    },
+    {
+        "title": "Barranquilla and Atl\u00e1ntico lead the attraction of foreign investment: 144 projects generate employment;exports mark the route",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-y-atlantico-lideran-la-atraccion-de-inversion-extranjera-144-proyectos-generan-empleo-exportaciones-marcan-la-ruta-3555522",
+        "published_date": "2026-05-13 17:20:15",
+        "category": "Economy"
+    },
+    {
         "title": "External debt rose almost US$30,000 million in 12 months and is equivalent to 55% of GDP",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/deuda-subio-casi-us-30-000-millones-en-el-ultimo-ano-y-ahora-equivale-a-55-del-pib-4391243",
@@ -434,150 +448,143 @@
         "category": "Economy"
     },
     {
-        "title": "Campaign Diary: GAD3 suspends polls and Paloma debates are frustrated",
+        "title": "NGOs ask the Senate to approve a bill against female genital mutilation",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/diario-de-campana-gad3-suspende-encuestas-y-se-frustran-debates-de-paloma/",
-        "published_date": "2026-05-05 18:03:18",
-        "category": "Economy"
+        "url": "https://www.lasillavacia.com/en-vivo/ong-piden-al-senado-aprobar-proyecto-contra-mutilacion-genital-femenina/",
+        "published_date": "2026-05-13 23:05:35",
+        "category": "Local Events"
     },
     {
-        "title": "New issuance of short-term securities was awarded at a cut-off rate of 13.480%",
+        "title": "MinVivienda will invest $46,000 million in the reconstruction of homes in C\u00f3rdoba",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/nueva-emision-de-titulos-de-corto-plazo-se-adjudico-a-una-tasa-de-corte-de-13-480-4391549",
-        "published_date": "2026-05-13 13:01:10",
+        "url": "https://www.larepublica.co/economia/minvivienda-invertira-46-000-millones-en-reconstruccion-de-viviendas-en-cordoba-4392122",
+        "published_date": "2026-05-13 22:46:37",
         "category": "Local Events"
     },
     {
-        "title": "Adres budget for the health system reaches $114.8 billion in 2026",
+        "title": "Flip: Colombia is late in adopting a policy to protect journalists",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/flip-colombia-esta-demorada-en-adoptar-politica-para-proteger-periodistas/",
+        "published_date": "2026-05-13 22:33:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Abelardo campaign denounces presence of alleged false escort at event",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/campana-de-abelardo-denuncia-presencia-de-presunto-falso-escolta-en-evento/",
+        "published_date": "2026-05-13 22:15:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "Crosses with the microdata of the surveys: there are still 28% undecided",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/cruces-con-los-microdatos-de-las-encuestas-aun-hay-un-28-de-indecisos/",
+        "published_date": "2026-05-13 22:01:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "In ruling, Supreme Court indicates that prostitution is sexual exploitation",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/en-fallo-corte-suprema-senala-que-prostitucion-es-explotacion-sexual/",
+        "published_date": "2026-05-13 20:45:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "Due to possible irregularities in the 2025 survey, CNE investigates Invamer",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/por-posibles-irregularidades-en-encuesta-de-2025-cne-investiga-a-invamer/",
+        "published_date": "2026-05-13 20:44:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "Petro signed the act of starting the double carriageway between Popay\u00e1n and El Estanquillo",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/presupuesto-de-la-adres-para-el-sistema-de-salud-alcanza-114-8-billones-en-2026-4391459",
-        "published_date": "2026-05-13 12:50:21",
+        "url": "https://www.larepublica.co/economia/petro-firmo-el-acta-de-inicio-de-la-doble-calzada-entre-popayan-y-el-estanquillo-4391975",
+        "published_date": "2026-05-13 20:27:52",
         "category": "Local Events"
     },
     {
-        "title": "Paloma on the right and Oviedo in the center: this is how he seeks votes in Bogot\u00e1",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/paloma-a-la-derecha-y-oviedo-al-centro-asi-busca-votos-en-bogota/",
-        "published_date": "2026-05-13 12:39:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Breakfast informed with the movements of this May 13, 2026",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-movidas-de-este-13-de-mayo-de-2026/",
-        "published_date": "2026-05-13 12:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "They capture the alleged feminicide from Yal\u00ed (Antioquia): he would have murdered his wife and injured his children, ages 3 and 13",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/capturan-al-presunto-feminicida-de-yali-antioquia-habria-asesinado-a-su-esposa-y-herido-a-sus-hijos-de-3-y-13-anos-3555342",
-        "published_date": "2026-05-13 07:46:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "Capture of the mayor of Villa de Leyva for luxurious San Cayetano property sparks protests: these are the arguments for and against V\u00edctor Gamboa",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/captura-del-alcalde-de-villa-de-leyva-por-lujoso-predio-san-cayetano-desata-protestas-estos-son-los-argumentos-a-favor-y-en-contra-de-victor-gamboa-3555331",
-        "published_date": "2026-05-13 07:05:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Key clue that allowed the identification of the boxer Yeiner G\u00f3mez, found dismembered in Soledad: the last traces of the young man before being murdered",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/pista-clave-que-permitio-identificar-al-boxeador-yeiner-gomez-hallado-desmembrado-en-soledad-los-ultimos-rastros-del-joven-antes-de-ser-asesinado-3555330",
-        "published_date": "2026-05-13 06:58:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cThe section between Facatativ\u00e1 and Fontib\u00f3n of the Western Regiotram will be ready in 2027\u201d",
+        "title": "Colombia sells US$1.6 billion in record local bond auction",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/entrevista-con-maria-fernanda-rojas-ministra-de-transporte-sobre-los-avances-de-los-proyectos-ferreos-del-pais-4391292",
-        "published_date": "2026-05-13 05:04:31",
+        "url": "https://www.larepublica.co/economia/colombia-vende-us-1-600-millones-en-una-subasta-de-bonos-locales-record-4391961",
+        "published_date": "2026-05-13 20:03:55",
         "category": "Local Events"
     },
     {
-        "title": "Paloma carries the logos, but in the games few are adding to it",
+        "title": "Informality remained at 55.3% in March, equivalent to 13.21 million people",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/informalidad-se-mantuvo-en-55-3-en-marzo-equivalente-a-13-21-millones-de-personas-4391916",
+        "published_date": "2026-05-13 19:58:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "The health crisis needs answers in the first 100 days of office",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/paloma-carga-con-los-logos-pero-en-los-partidos-pocos-le-estan-sumando/",
-        "published_date": "2026-05-13 05:00:00",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-ciencia-e-innovacion/que-revelo-el-debate-de-las-campanas-sobre-la-crisis-de-la-salud/",
+        "published_date": "2026-05-13 19:38:50",
         "category": "Local Events"
     },
     {
-        "title": "Be careful, driver!Peak and plaque in Bucaramanga for Wednesday, May 13, 2026",
+        "title": "Wife of the governor of Antioquia was on a tour of Oviedo",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/esposa-de-gobernador-de-antioquia-estuvo-en-recorrido-con-oviedo/",
+        "published_date": "2026-05-13 19:38:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "Colombia will preside over the first Ibero-American network of artistic and cultural training",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/colombia-presidira-la-primera-red-iberoamericana-de-formacion-artistica-y-cultural-4391879",
+        "published_date": "2026-05-13 19:10:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cepeda said that his state of health was \u201cverifiable.\u201dSo far, it is not.",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/cepeda-dijo-que-su-estado-de-salud-era-verificable-hasta-ahora-no-lo-es/",
+        "published_date": "2026-05-13 19:04:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "Medell\u00edn defeats the 'giants' of the region: the secret behind the city with the most startups in Latin America",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/cuidado-conductor-pico-y-placa-en-bucaramanga-para-el-miercoles-13-de-mayo-de-3555309",
-        "published_date": "2026-05-13 02:30:00",
+        "url": "https://www.eltiempo.com/colombia/medellin/medellin-derrota-a-los-gigantes-de-la-region-el-secreto-detras-de-la-ciudad-con-mas-startups-de-latinoamerica-3555553",
+        "published_date": "2026-05-13 18:33:11",
         "category": "Local Events"
     },
     {
-        "title": "This will be the peak and plate in Pereira for Wednesday, May 13, 2026",
+        "title": "Find out how the temporary changes work at stops at the Capri station, in the south of Cali: the district will carry out aqueduct works in the area",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/asi-sera-el-pico-y-placa-en-pereira-para-el-miercoles-13-de-mayo-de-3555308",
-        "published_date": "2026-05-13 02:30:00",
+        "url": "https://www.eltiempo.com/colombia/cali/conozca-como-funcionan-los-cambios-temporales-en-paradas-de-la-estacion-capri-en-el-sur-de-cali-el-distrito-realizara-obras-de-acueducto-en-la-zona-3555548",
+        "published_date": "2026-05-13 18:28:51",
         "category": "Local Events"
     },
     {
-        "title": "Find out the details of the peak and plate in Medell\u00edn for Wednesday, May 13, 2026",
+        "title": "The Attorney General's Office supports a lawsuit that calls for prohibiting the use of horses in tourist activities throughout the country: Cartagena and its electric cars, an example",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/conozca-los-detalles-del-pico-y-placa-en-medellin-para-el-miercoles-13-de-mayo-de-3555306",
-        "published_date": "2026-05-13 02:30:00",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/procuraduria-respalda-demanda-que-pide-prohibir-uso-de-caballos-en-actividades-turisticas-de-todo-el-pais-cartagena-y-sus-carros-electricos-ejemplo-3555543",
+        "published_date": "2026-05-13 18:25:18",
         "category": "Local Events"
     },
     {
-        "title": "Be careful, driver!Peak and plate in Cali for Wednesday, May 13, 2026",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/ojo-conductor-pico-y-placa-en-cali-para-el-miercoles-13-de-mayo-de-3555304",
-        "published_date": "2026-05-13 02:30:00",
+        "title": "MinMinas establishes guidelines for projects with white hydrogen",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/minminas-establece-lineamientos-para-exploracion-de-proyectos-con-hidrogeno-blanco-4391826",
+        "published_date": "2026-05-13 18:22:39",
         "category": "Local Events"
     },
     {
-        "title": "This photo of Uribe and Noboa is from 2024, months before the crisis with Ecuador",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/esta-foto-de-uribe-y-noboa-es-de-2024-meses-antes-de-la-crisis-con-ecuador/",
-        "published_date": "2026-05-13 00:53:01",
+        "title": "Not only for young people nor for elites: the challenge of higher education",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/ni-solo-para-jovenes-ni-para-elites-el-desafio-de-la-educacion-superior-4391832",
+        "published_date": "2026-05-13 17:48:48",
         "category": "Local Events"
     },
     {
-        "title": "Sleep informed with the key of this May 12, 2026",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-lo-clave-de-este-12-de-mayo-de-2026/",
-        "published_date": "2026-05-13 00:19:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "For the first time in 90 days, Cepeda loses first place in Google Trends",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/por-primera-vez-en-90-dias-cepeda-pierde-primer-lugar-en-google-trends/",
-        "published_date": "2026-05-13 00:00:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cepeda receives support from liberals close to Cristo and Jaramillo",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/cepeda-recibe-respaldo-de-liberales-cercanos-a-cristo-y-jaramillo/",
-        "published_date": "2026-05-12 23:48:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cepeda receives support from liberals close to Cristo and Jaramillo",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/cepeda-recibe-respaldo-de-liberales-disidentes-cercanos-a-jaramillo/",
-        "published_date": "2026-05-12 23:48:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "Immigration records Epstein leaving Colombia in 2002",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/migracion-registra-una-salida-de-epstein-en-colombia-en-2002/",
-        "published_date": "2026-05-12 23:25:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "Paloma filed a project that exempts motorcycles less than 250cc from paying Soat",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/paloma-radico-proyecto-que-exime-de-pagar-soat-a-motos-de-menos-de-250cc/",
-        "published_date": "2026-05-12 23:25:32",
+        "title": "FTA with the United States facilitated exports for US$186,051 million since 2012",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/tlc-con-estados-unidos-facilito-exportaciones-por-us-186-051-millones-desde-2012-4391722",
+        "published_date": "2026-05-13 17:34:54",
         "category": "Local Events"
     }
 ]
