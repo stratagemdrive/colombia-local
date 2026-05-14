@@ -1,5 +1,12 @@
 [
     {
+        "title": "Sleep informed with the keys for this May 13, 2026",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-claves-de-este-13-de-mayo-de-2026/",
+        "published_date": "2026-05-14 00:25:30",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Police spoke about the case of a uniformed officer who shot and killed a dog during a procedure in Rionegro, Antioquia: he gave an account of the attack",
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/medellin/policia-se-pronuncio-sobre-caso-de-uniformado-que-mato-de-un-disparo-a-perro-durante-procedimiento-en-rionegro-antioquia-dio-version-sobre-el-ataque-3554957",
@@ -61,6 +68,13 @@
         "url": "https://www.eltiempo.com/colombia/otras-ciudades/joven-murio-en-soledad-esperando-autorizacion-de-la-nueva-eps-para-ser-trasladado-una-sola-burla-con-nosotros-3553698",
         "published_date": "2026-05-06 18:44:17",
         "category": "Diplomacy"
+    },
+    {
+        "title": "The Catholic Church won the legal fight against the 'rebel priest' of Santa Marta: they took him out of the cemetery with the Police and now he could go to prison",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/iglesia-catolica-le-gano-la-pelea-juridica-al-cura-rebelde-de-santa-marta-lo-sacaron-con-la-policia-del-cementerio-y-ahora-podria-ir-a-prision-3555589",
+        "published_date": "2026-05-13 21:20:00",
+        "category": "Military"
     },
     {
         "title": "Uribe and Paloma denounce alleged pressure from armed men in favor of Cepeda",
@@ -193,13 +207,6 @@
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/general-r-zapateiro-no-acepto-cargos-por-presunto-acoso-sexual/",
         "published_date": "2026-05-08 22:10:30",
-        "category": "Military"
-    },
-    {
-        "title": "Four men who had participated in terrorist attacks in Nari\u00f1o fell: they kept pamphlets alluding to the FARC",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/cayeron-cuatro-hombres-que-habrian-participado-en-atentados-terroristas-en-narino-guardaban-panfletos-alusivos-a-las-farc-3554304",
-        "published_date": "2026-05-08 18:13:30",
         "category": "Military"
     },
     {
@@ -434,18 +441,95 @@
         "category": "Economy"
     },
     {
-        "title": "Banco de la Rep\u00fablica projects that inflation would accelerate to 6.4% by December",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/resultados-del-informe-de-politica-monetaria-del-banco-de-la-republica-de-abril-de-2026-4385991",
-        "published_date": "2026-05-06 00:45:39",
-        "category": "Economy"
+        "title": "'Women are not willing to take a single step back', Florence Thomas",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/las-mujeres-no-estan-dispuestas-a-dar-un-solo-paso-atras-florence-thomas-3555512",
+        "published_date": "2026-05-14 07:12:53",
+        "category": "Local Events"
     },
     {
-        "title": "MinHacienda confirmed placement of short-term securities for $900,000 million",
+        "title": "National Government describes as \"illegal\" the decision of the Council of State on the AFP",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/minhacienda-confirmo-colocacion-de-titulos-a-corto-plazo-por-900-000-millones-4386072",
-        "published_date": "2026-05-06 00:43:22",
-        "category": "Economy"
+        "url": "https://www.larepublica.co/economia/petro-anuncia-nuevos-decretos-tras-decision-del-consejo-de-estado-sobre-las-afp-4392328",
+        "published_date": "2026-05-14 05:03:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "This year's El Ni\u00f1o could become the strongest in three decades",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/el-fenomeno-de-el-nino-de-este-ano-podria-ser-el-mas-fuerte-en-tres-decadas-4392176",
+        "published_date": "2026-05-14 05:01:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "In the last year, almost 136,000 workers stopped being informally employed",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/en-el-ultimo-ano-casi-136-000-trabajadores-dejaron-de-ser-ocupados-informales-4392178",
+        "published_date": "2026-05-14 05:01:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Colombia has exported US$186 billion to the United States in 14 years of FTA",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/colombia-ha-exportado-us-186-000-millones-a-estados-unidos-en-14-anos-de-tlc-4392241",
+        "published_date": "2026-05-14 05:01:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "The useful vote is Paloma's new strategy to beat Abelardo",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/el-voto-util-es-la-nueva-estrategia-de-paloma-para-ganarle-a-abelardo/",
+        "published_date": "2026-05-14 05:01:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Be careful, driver!Peak and plaque in Bucaramanga for Thursday, May 14, 2026",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/tenga-cuidado-conductor-pico-y-placa-en-bucaramanga-para-el-jueves-14-de-mayo-de-3555608",
+        "published_date": "2026-05-14 02:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Avoid fines: peak and plate in Pereira for Thursday, May 14, 2026",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/evite-multas-pico-y-placa-en-pereira-para-el-jueves-14-de-mayo-de-3555605",
+        "published_date": "2026-05-14 02:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "This will be the peak and plate in Medell\u00edn for Thursday, May 14, 2026",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/asi-sera-el-pico-y-placa-en-medellin-para-el-jueves-14-de-mayo-de-3555603",
+        "published_date": "2026-05-14 02:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Batteries, driver!Peak and plate in Cali for Thursday, May 14, 2026",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/pilas-conductor-pico-y-placa-en-cali-para-el-jueves-14-de-mayo-de-3555601",
+        "published_date": "2026-05-14 02:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Clip reveals victims and effects of gringo bombings in the Caribbean and Pacific",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/clip-revela-victimas-y-efectos-de-bombardeos-gringos-en-caribe-y-pacifico/",
+        "published_date": "2026-05-14 00:10:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "In squares and pavilions, Cepeda and Abelardo will close campaigns for the Presidency",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/en-plazas-y-pabellon-cepeda-y-abelardo-cierran-campanas-a-la-presidencia/",
+        "published_date": "2026-05-14 00:04:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "Violence against the LGBTIQ+ community in Colombia reached alarming levels: one murder every 32 hours in 2025, according to a new report",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/violencia-contra-la-comunidad-lgbtiq-en-colombia-alcanzo-niveles-alarmantes-un-asesinato-cada-32-horas-en-2025-segun-nuevo-informe-3555604",
+        "published_date": "2026-05-13 23:09:29",
+        "category": "Local Events"
     },
     {
         "title": "NGOs ask the Senate to approve a bill against female genital mutilation",
@@ -455,10 +539,24 @@
         "category": "Local Events"
     },
     {
+        "title": "The hypothesis of the crime of a mother and her son who were found buried in their home in Florida, Valle del Cauca: this is the person responsible",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/la-hipotesis-del-crimen-de-madre-y-su-hijo-que-fueron-encontrados-enterrados-en-su-casa-en-florida-valle-del-cauca-este-es-el-senalado-responsable-3555567",
+        "published_date": "2026-05-13 22:52:11",
+        "category": "Local Events"
+    },
+    {
         "title": "MinVivienda will invest $46,000 million in the reconstruction of homes in C\u00f3rdoba",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/minvivienda-invertira-46-000-millones-en-reconstruccion-de-viviendas-en-cordoba-4392122",
         "published_date": "2026-05-13 22:46:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "Two women are murdered on Cali's Oriente Boulevard: 'Today, the city once again feels the weight of violence that takes our lives'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/asesinan-a-dos-mujeres-en-el-bulevar-del-oriente-de-cali-hoy-la-ciudad-vuelve-a-sentir-el-peso-de-una-violencia-que-nos-arrebata-vidas-3555607",
+        "published_date": "2026-05-13 22:36:17",
         "category": "Local Events"
     },
     {
@@ -476,115 +574,10 @@
         "category": "Local Events"
     },
     {
-        "title": "Crosses with the microdata of the surveys: there are still 28% undecided",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/cruces-con-los-microdatos-de-las-encuestas-aun-hay-un-28-de-indecisos/",
-        "published_date": "2026-05-13 22:01:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "In ruling, Supreme Court indicates that prostitution is sexual exploitation",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/en-fallo-corte-suprema-senala-que-prostitucion-es-explotacion-sexual/",
-        "published_date": "2026-05-13 20:45:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "Due to possible irregularities in the 2025 survey, CNE investigates Invamer",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/por-posibles-irregularidades-en-encuesta-de-2025-cne-investiga-a-invamer/",
-        "published_date": "2026-05-13 20:44:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "Petro signed the act of starting the double carriageway between Popay\u00e1n and El Estanquillo",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/petro-firmo-el-acta-de-inicio-de-la-doble-calzada-entre-popayan-y-el-estanquillo-4391975",
-        "published_date": "2026-05-13 20:27:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Colombia sells US$1.6 billion in record local bond auction",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/colombia-vende-us-1-600-millones-en-una-subasta-de-bonos-locales-record-4391961",
-        "published_date": "2026-05-13 20:03:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "Informality remained at 55.3% in March, equivalent to 13.21 million people",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/informalidad-se-mantuvo-en-55-3-en-marzo-equivalente-a-13-21-millones-de-personas-4391916",
-        "published_date": "2026-05-13 19:58:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "The health crisis needs answers in the first 100 days of office",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-ciencia-e-innovacion/que-revelo-el-debate-de-las-campanas-sobre-la-crisis-de-la-salud/",
-        "published_date": "2026-05-13 19:38:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Wife of the governor of Antioquia was on a tour of Oviedo",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/esposa-de-gobernador-de-antioquia-estuvo-en-recorrido-con-oviedo/",
-        "published_date": "2026-05-13 19:38:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "Colombia will preside over the first Ibero-American network of artistic and cultural training",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/colombia-presidira-la-primera-red-iberoamericana-de-formacion-artistica-y-cultural-4391879",
-        "published_date": "2026-05-13 19:10:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cepeda said that his state of health was \u201cverifiable.\u201dSo far, it is not.",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/cepeda-dijo-que-su-estado-de-salud-era-verificable-hasta-ahora-no-lo-es/",
-        "published_date": "2026-05-13 19:04:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "Medell\u00edn defeats the 'giants' of the region: the secret behind the city with the most startups in Latin America",
+        "title": "A 23-year-old man was captured in Medell\u00edn for the alleged femicide of his 18-year-old girlfriend after an argument: he confessed to having attacked her",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/medellin-derrota-a-los-gigantes-de-la-region-el-secreto-detras-de-la-ciudad-con-mas-startups-de-latinoamerica-3555553",
-        "published_date": "2026-05-13 18:33:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "Find out how the temporary changes work at stops at the Capri station, in the south of Cali: the district will carry out aqueduct works in the area",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/conozca-como-funcionan-los-cambios-temporales-en-paradas-de-la-estacion-capri-en-el-sur-de-cali-el-distrito-realizara-obras-de-acueducto-en-la-zona-3555548",
-        "published_date": "2026-05-13 18:28:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Attorney General's Office supports a lawsuit that calls for prohibiting the use of horses in tourist activities throughout the country: Cartagena and its electric cars, an example",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/procuraduria-respalda-demanda-que-pide-prohibir-uso-de-caballos-en-actividades-turisticas-de-todo-el-pais-cartagena-y-sus-carros-electricos-ejemplo-3555543",
-        "published_date": "2026-05-13 18:25:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "MinMinas establishes guidelines for projects with white hydrogen",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/minminas-establece-lineamientos-para-exploracion-de-proyectos-con-hidrogeno-blanco-4391826",
-        "published_date": "2026-05-13 18:22:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Not only for young people nor for elites: the challenge of higher education",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/ni-solo-para-jovenes-ni-para-elites-el-desafio-de-la-educacion-superior-4391832",
-        "published_date": "2026-05-13 17:48:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "FTA with the United States facilitated exports for US$186,051 million since 2012",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/tlc-con-estados-unidos-facilito-exportaciones-por-us-186-051-millones-desde-2012-4391722",
-        "published_date": "2026-05-13 17:34:54",
+        "url": "https://www.eltiempo.com/colombia/medellin/un-hombre-de-23-anos-fue-capturado-en-medellin-por-el-presunto-feminicidio-de-su-novia-de-18-anos-luego-de-una-discusion-confeso-haberla-agredido-3555597",
+        "published_date": "2026-05-13 22:10:49",
         "category": "Local Events"
     }
 ]
