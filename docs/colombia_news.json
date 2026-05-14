@@ -63,11 +63,39 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Young man died in Soledad waiting for authorization from the Nueva EPS to be transferred: 'A single mockery with us'",
+        "title": "Benedetti and CNE magistrate clash over guarantees in elections",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/benedetti-y-magistrado-del-cne-chocan-por-garantias-en-elecciones/",
+        "published_date": "2026-05-14 20:29:41",
+        "category": "Military"
+    },
+    {
+        "title": "At least six alleged FARC dissidents die in combat with the Army in Cauca: among the deceased would be the leader 'Fernando G\u00f3mez'",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/joven-murio-en-soledad-esperando-autorizacion-de-la-nueva-eps-para-ser-trasladado-una-sola-burla-con-nosotros-3553698",
-        "published_date": "2026-05-06 18:44:17",
-        "category": "Diplomacy"
+        "url": "https://www.eltiempo.com/colombia/cali/mueren-al-menos-seis-presuntos-disidentes-de-farc-en-combates-con-el-ejercito-en-el-cauca-entre-los-fallecidos-estaria-el-cabecilla-fernando-gomez-3555866",
+        "published_date": "2026-05-14 18:10:54",
+        "category": "Military"
+    },
+    {
+        "title": "ExpoProBarranquilla: the Caribbean leads energy security;investment of US$750 million in gas and exports boost regional development",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/expoprobarranquilla-el-caribe-lidera-seguridad-energetica-inversion-de-us-750-millones-en-gas-y-exportaciones-impulsan-el-desarrollo-regional-3555842",
+        "published_date": "2026-05-14 17:34:56",
+        "category": "Military"
+    },
+    {
+        "title": "The strange circumstances surrounding the death of an engineer in the Marmato gold mine, Caldas: family asks for answers: 'No one has told us anything'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/las-extranas-circunstancias-que-rodean-la-muerte-de-un-ingeniero-en-mina-de-oro-de-marmato-caldas-familia-pide-respuestas-nadie-les-dice-que-paso-3555852",
+        "published_date": "2026-05-14 17:15:00",
+        "category": "Military"
+    },
+    {
+        "title": "The Colombian Amazon, in the eye of the criminal storm",
+        "source": "Verdad Abierta",
+        "url": "https://verdadabierta.com/la-amazonia-colombiana-en-el-ojo-de-la-tormenta-criminal/",
+        "published_date": "2026-05-14 14:47:35",
+        "category": "Military"
     },
     {
         "title": "The Catholic Church won the legal fight against the 'rebel priest' of Santa Marta: they took him out of the cemetery with the Police and now he could go to prison",
@@ -175,39 +203,25 @@
         "category": "Military"
     },
     {
-        "title": "Farc dissidents attack the Police substation of the Potrerito district, in Jamund\u00ed, Valle: a uniformed officer was injured",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/atencion-disidentes-de-las-farc-atacan-la-subestacion-del-corregimiento-de-potrerito-en-jamundi-valle-3554426",
-        "published_date": "2026-05-09 17:55:46",
-        "category": "Military"
+        "title": "Energy sector presented route to develop the national hydrocarbon sector",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/sector-energetico-presento-documento-hidrocarburos-para-el-desarrollo-de-colombia-4392815",
+        "published_date": "2026-05-14 18:33:28",
+        "category": "Energy"
     },
     {
-        "title": "'The Public Force regained control in Potrerito, Jamund\u00ed, after 4 attacks with explosives from drones on the Police': Mayor proposes tables to the Government",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/la-fuerza-publica-retomo-control-en-potrerito-jamundi-tras-4-ataques-con-explosivos-desde-drones-a-la-policia-alcaldesa-propone-mesas-al-gobierno-3554493",
-        "published_date": "2026-05-09 17:54:44",
-        "category": "Military"
+        "title": "MinMinas and Superservicios insist on distortions in the secondary gas market",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/minminas-y-superservicios-insisten-en-distorsiones-en-el-mercado-secundario-del-gas-4392657",
+        "published_date": "2026-05-14 15:21:30",
+        "category": "Energy"
     },
     {
-        "title": "'You don't kill the truth by killing journalists': journalism professionals from Antioquia met to reject the murder of Mateo P\u00e9rez Rueda",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/no-se-mata-la-verdad-matando-periodistas-profesionales-del-periodismo-de-antioquia-se-reunieron-para-rechazar-el-asesinato-de-mateo-perez-rueda-3554476",
-        "published_date": "2026-05-09 16:34:19",
-        "category": "Military"
-    },
-    {
-        "title": "The change in US anti-drug strategy changes the rules for Colombia",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/el-cambio-de-estrategia-antidrogas-de-ee-uu-cambia-las-reglas-para-colombia/",
-        "published_date": "2026-05-09 05:03:00",
-        "category": "Military"
-    },
-    {
-        "title": "General (r) Zapateiro did not accept charges for alleged sexual harassment",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/general-r-zapateiro-no-acepto-cargos-por-presunto-acoso-sexual/",
-        "published_date": "2026-05-08 22:10:30",
-        "category": "Military"
+        "title": "Superservices alert due to unusual rise in energy prices from hydroelectric plants",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/superservicios-alerta-por-subida-inusual-de-precios-de-la-energia-de-hidroelectricas-4392543",
+        "published_date": "2026-05-14 14:15:04",
+        "category": "Energy"
     },
     {
         "title": "\u201cLa Guajira's energy potential depends on making Way\u00fau communities members\u201d",
@@ -329,27 +343,6 @@
         "category": "Energy"
     },
     {
-        "title": "Vigil for Germ\u00e1n Vargas continues: Abelardo, Paloma and Duque attend",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/continua-velacion-a-german-vargas-asisten-abelardo-paloma-y-duque/",
-        "published_date": "2026-05-10 22:26:27",
-        "category": "Energy"
-    },
-    {
-        "title": "One of the largest drug seizures in the Pacific: the Navy seized more than 5.8 tons and captured six foreigners",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/una-de-las-mas-grandes-incautaciones-de-drogas-en-el-pacifico-la-armada-decomiso-mas-de-5-8-toneladas-y-capturo-a-seis-extranjeros-3554623",
-        "published_date": "2026-05-10 17:21:39",
-        "category": "Energy"
-    },
-    {
-        "title": "Vigil for Germ\u00e1n Vargas Lleras begins at the San Carlos Palace",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/empieza-velacion-de-german-vargas-lleras-en-el-palacio-san-carlos/",
-        "published_date": "2026-05-09 19:51:32",
-        "category": "Energy"
-    },
-    {
         "title": "MinHacienda presented bill to raise Icbf budget",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/minhacienda-llevo-al-congreso-proyecto-de-ley-para-incrementar-presupuesto-del-icbf-4391851",
@@ -441,143 +434,143 @@
         "category": "Economy"
     },
     {
-        "title": "'Women are not willing to take a single step back', Florence Thomas",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/las-mujeres-no-estan-dispuestas-a-dar-un-solo-paso-atras-florence-thomas-3555512",
-        "published_date": "2026-05-14 07:12:53",
+        "title": "State apologizes to U'wa indigenous people for violating their rights in Cocuy",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/estado-pide-perdon-a-indigenas-uwa-por-violar-sus-derechos-en-el-cocuy/",
+        "published_date": "2026-05-14 23:49:43",
         "category": "Local Events"
     },
     {
-        "title": "National Government describes as \"illegal\" the decision of the Council of State on the AFP",
+        "title": "Uribe denounces alleged pressure in favor of Cepeda in La Guajira",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/uribe-denuncia-supuestas-presiones-a-favor-de-cepeda-en-la-guajira/",
+        "published_date": "2026-05-14 23:32:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "Now, Cabal must rectify the UP's statement on genocide",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/ahora-si-cabal-debera-rectificar-declaracion-sobre-genocidio-de-la-up/",
+        "published_date": "2026-05-14 22:29:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "After a question about xenophobia, Claudia went against a Venezuelan journalist",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/tras-pregunta-sobre-xenofobia-claudia-se-fue-contra-periodista-venezolana/",
+        "published_date": "2026-05-14 21:40:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "Andi asked Congress to review and issue the new customs sanctioning regime",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/petro-anuncia-nuevos-decretos-tras-decision-del-consejo-de-estado-sobre-las-afp-4392328",
-        "published_date": "2026-05-14 05:03:16",
+        "url": "https://www.larepublica.co/economia/andi-pidio-al-congreso-revisar-y-expedir-el-nuevo-regimen-sancionatorio-aduanero-4392981",
+        "published_date": "2026-05-14 21:36:28",
         "category": "Local Events"
     },
     {
-        "title": "This year's El Ni\u00f1o could become the strongest in three decades",
+        "title": "The effects of El Ni\u00f1o in the Amazon will be varied: Germ\u00e1n Poveda",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/los-efectos-de-el-nino-en-la-amazonia-seran-variados-german-poveda/",
+        "published_date": "2026-05-14 21:29:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "This is how total peace influenced the strengthening of armed groups in Colombia",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/asi-influyo-la-paz-total-en-fortalecimiento-de-grupos-armados-en-colombia/",
+        "published_date": "2026-05-14 21:21:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "Even with the climate crisis, candidates do not prioritize risk management",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-verde/aun-con-la-crisis-climatica-los-candidatos-no-priorizan-la-gestion-del-riesgo/",
+        "published_date": "2026-05-14 21:02:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "Sign up for \u201cLie Detectors: fact-checking laboratory for young people\u201d",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/inscribase-en-detectores-de-mentiras-laboratorio-de-fact-checking-para-jovenes-5/",
+        "published_date": "2026-05-14 20:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "With low leadership from Colombia, discussion of the forest roadmap begins",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/al-lado-de-fosiles-liderazgo-de-colombia-es-aun-pobre-en-ruta-de-bosques/",
+        "published_date": "2026-05-14 19:51:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "This is the tax calendar for natural and legal persons to declare income",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/el-fenomeno-de-el-nino-de-este-ano-podria-ser-el-mas-fuerte-en-tres-decadas-4392176",
-        "published_date": "2026-05-14 05:01:55",
+        "url": "https://www.larepublica.co/economia/este-es-el-calendario-tributario-para-personas-naturales-y-juridicas-para-declarar-renta-4392822",
+        "published_date": "2026-05-14 19:41:47",
         "category": "Local Events"
     },
     {
-        "title": "In the last year, almost 136,000 workers stopped being informally employed",
+        "title": "Attention travelers!They extend the night closure on the La Pintada \u2013 Medell\u00edn road until August: these are the reasons",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/atencion-viajeros-extienden-cierre-nocturno-en-la-via-la-pintada-medellin-hasta-agosto-estas-son-las-razones-3555880",
+        "published_date": "2026-05-14 18:42:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "Electrical overheating and drought increase the risk of domestic and forest fires in Barranquilla and the Atl\u00e1ntico;authorities activate alerts",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/recalentamiento-electrico-y-sequia-elevan-riesgo-de-incendios-domesticos-y-forestales-en-barranquilla-y-el-atlantico-autoridades-activan-las-alertas-3555871",
+        "published_date": "2026-05-14 18:15:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "School route with 30 children suffered a serious accident on the highway in Norte de Santander: several students were injured",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/ruta-escolar-con-30-ninos-sufrio-grave-accidente-en-carretera-de-norte-de-santander-hay-varios-estudiantes-heridos-3555862",
+        "published_date": "2026-05-14 18:01:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Colfecar reported 247 road blockages as of April that left losses of $1.8 billion",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/en-el-ultimo-ano-casi-136-000-trabajadores-dejaron-de-ser-ocupados-informales-4392178",
-        "published_date": "2026-05-14 05:01:49",
+        "url": "https://www.larepublica.co/economia/colfecar-reporto-247-bloqueos-viales-a-abril-que-dejaron-perdidas-por-1-8-billones-4392738",
+        "published_date": "2026-05-14 17:57:05",
         "category": "Local Events"
     },
     {
-        "title": "Colombia has exported US$186 billion to the United States in 14 years of FTA",
+        "title": "Public Credit would seek to diversify external debt with Asian currencies",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/colombia-ha-exportado-us-186-000-millones-a-estados-unidos-en-14-anos-de-tlc-4392241",
-        "published_date": "2026-05-14 05:01:47",
+        "url": "https://www.larepublica.co/economia/credito-publico-buscaria-diversificar-la-deuda-externa-con-monedas-asiaticas-4392783",
+        "published_date": "2026-05-14 17:56:56",
         "category": "Local Events"
     },
     {
-        "title": "The useful vote is Paloma's new strategy to beat Abelardo",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/el-voto-util-es-la-nueva-estrategia-de-paloma-para-ganarle-a-abelardo/",
-        "published_date": "2026-05-14 05:01:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Be careful, driver!Peak and plaque in Bucaramanga for Thursday, May 14, 2026",
+        "title": "They murdered the mother of a Cali model who disappeared 5 years ago in Cartagena: the crime happened in the Jamund\u00ed area, where they killed two men before",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/tenga-cuidado-conductor-pico-y-placa-en-bucaramanga-para-el-jueves-14-de-mayo-de-3555608",
-        "published_date": "2026-05-14 02:30:00",
+        "url": "https://www.eltiempo.com/colombia/cali/asesinaron-a-la-mama-de-modelo-calena-desaparecida-hace-5-anos-en-cartagena-el-crimen-sucedio-en-zona-de-jamundi-donde-mataron-a-dos-hombres-antes-3555841",
+        "published_date": "2026-05-14 17:48:36",
         "category": "Local Events"
     },
     {
-        "title": "Avoid fines: peak and plate in Pereira for Thursday, May 14, 2026",
+        "title": "Health Superintendent, Daniel Quintero, arrived in Bucaramanga to inspect dispensaries: he denounces storage of medicines",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/evite-multas-pico-y-placa-en-pereira-para-el-jueves-14-de-mayo-de-3555605",
-        "published_date": "2026-05-14 02:30:00",
+        "url": "https://www.eltiempo.com/colombia/santander/superintendente-de-salud-daniel-quintero-llego-a-bucaramanga-a-hacer-intervencion-en-dispensarios-denuncia-ocultamiento-de-medicamentos-en-cafam-3555845",
+        "published_date": "2026-05-14 17:35:12",
         "category": "Local Events"
     },
     {
-        "title": "This will be the peak and plate in Medell\u00edn for Thursday, May 14, 2026",
+        "title": "The painful farewell of the four Boyac\u00e1 miners killed in the Cucunub\u00e1 explosion: one was saving to get married this year and they were all family",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/asi-sera-el-pico-y-placa-en-medellin-para-el-jueves-14-de-mayo-de-3555603",
-        "published_date": "2026-05-14 02:30:00",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/la-dolorosa-despedida-de-los-cuatro-mineros-de-boyaca-muertos-en-la-explosion-de-cucunuba-uno-ahorraba-para-casarse-este-ano-y-todos-eran-familia-3555837",
+        "published_date": "2026-05-14 16:33:22",
         "category": "Local Events"
     },
     {
-        "title": "Batteries, driver!Peak and plate in Cali for Thursday, May 14, 2026",
+        "title": "The National Government's debt with the 80 Metro project is approaching one billion pesos: is the construction of the mega-project at risk?",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/pilas-conductor-pico-y-placa-en-cali-para-el-jueves-14-de-mayo-de-3555601",
-        "published_date": "2026-05-14 02:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Clip reveals victims and effects of gringo bombings in the Caribbean and Pacific",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/clip-revela-victimas-y-efectos-de-bombardeos-gringos-en-caribe-y-pacifico/",
-        "published_date": "2026-05-14 00:10:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "In squares and pavilions, Cepeda and Abelardo will close campaigns for the Presidency",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/en-plazas-y-pabellon-cepeda-y-abelardo-cierran-campanas-a-la-presidencia/",
-        "published_date": "2026-05-14 00:04:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "Violence against the LGBTIQ+ community in Colombia reached alarming levels: one murder every 32 hours in 2025, according to a new report",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/violencia-contra-la-comunidad-lgbtiq-en-colombia-alcanzo-niveles-alarmantes-un-asesinato-cada-32-horas-en-2025-segun-nuevo-informe-3555604",
-        "published_date": "2026-05-13 23:09:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "NGOs ask the Senate to approve a bill against female genital mutilation",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/ong-piden-al-senado-aprobar-proyecto-contra-mutilacion-genital-femenina/",
-        "published_date": "2026-05-13 23:05:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "The hypothesis of the crime of a mother and her son who were found buried in their home in Florida, Valle del Cauca: this is the person responsible",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/la-hipotesis-del-crimen-de-madre-y-su-hijo-que-fueron-encontrados-enterrados-en-su-casa-en-florida-valle-del-cauca-este-es-el-senalado-responsable-3555567",
-        "published_date": "2026-05-13 22:52:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "MinVivienda will invest $46,000 million in the reconstruction of homes in C\u00f3rdoba",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/minvivienda-invertira-46-000-millones-en-reconstruccion-de-viviendas-en-cordoba-4392122",
-        "published_date": "2026-05-13 22:46:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "Two women are murdered on Cali's Oriente Boulevard: 'Today, the city once again feels the weight of violence that takes our lives'",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/asesinan-a-dos-mujeres-en-el-bulevar-del-oriente-de-cali-hoy-la-ciudad-vuelve-a-sentir-el-peso-de-una-violencia-que-nos-arrebata-vidas-3555607",
-        "published_date": "2026-05-13 22:36:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "Flip: Colombia is late in adopting a policy to protect journalists",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/flip-colombia-esta-demorada-en-adoptar-politica-para-proteger-periodistas/",
-        "published_date": "2026-05-13 22:33:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Abelardo campaign denounces presence of alleged false escort at event",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/campana-de-abelardo-denuncia-presencia-de-presunto-falso-escolta-en-evento/",
-        "published_date": "2026-05-13 22:15:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "A 23-year-old man was captured in Medell\u00edn for the alleged femicide of his 18-year-old girlfriend after an argument: he confessed to having attacked her",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/un-hombre-de-23-anos-fue-capturado-en-medellin-por-el-presunto-feminicidio-de-su-novia-de-18-anos-luego-de-una-discusion-confeso-haberla-agredido-3555597",
-        "published_date": "2026-05-13 22:10:49",
+        "url": "https://www.eltiempo.com/colombia/medellin/deuda-del-gobierno-nacional-con-el-proyecto-metro-de-la-80-se-acerca-al-billon-de-pesos-esta-en-riesgo-la-construccion-de-la-megaobra-3555807",
+        "published_date": "2026-05-14 15:54:54",
         "category": "Local Events"
     }
 ]
