@@ -196,6 +196,20 @@
         "category": "Military"
     },
     {
+        "title": "Colombia should choose whoever answers how they are going to pay the bill",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/colombia-deberia-elegir-a-quien-responda-como-va-a-pagar-la-cuenta/",
+        "published_date": "2026-05-16 05:21:57",
+        "category": "Energy"
+    },
+    {
+        "title": "State, health and commerce marked the 2.2% growth of GDP in the first quarter",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/estado-salud-y-comercio-jalonaron-el-crecimiento-de-2-2-del-pib-del-primer-trimestre-4394173",
+        "published_date": "2026-05-16 05:01:11",
+        "category": "Energy"
+    },
+    {
         "title": "\u201cDon't mess with my daughter\u201d: Paloma clashes with Abelardo over publication",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/con-mi-hija-no-se-metan-paloma-choca-con-abelardo-por-publicacion/",
@@ -214,6 +228,13 @@
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/inversion-extranjera-directa-en-abril-sumo-un-total-de-us-921-millones-se-redujo-en-8-7-4393803",
         "published_date": "2026-05-15 19:31:24",
+        "category": "Energy"
+    },
+    {
+        "title": "Will there be rationing?The urgent solutions proposed by Antioquia to guarantee energy in the country",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/habra-racionamiento-las-soluciones-urgentes-que-plantea-antioquia-para-garantizar-la-energia-en-el-pais-3556123",
+        "published_date": "2026-05-15 19:01:00",
         "category": "Energy"
     },
     {
@@ -312,27 +333,6 @@
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/minenergia-activo-hoja-de-ruta-con-50-acciones-para-preparar-al-pais-ante-llega-de-el-nino-4391029",
         "published_date": "2026-05-12 20:29:58",
-        "category": "Energy"
-    },
-    {
-        "title": "Ecopetrol reported profits of $2.8 billion at the end of the first quarter",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/ecopetrol-reporto-utilidades-de-2-8-billones-al-cierre-del-primer-trimestre-de-2026-4390988",
-        "published_date": "2026-05-12 20:20:21",
-        "category": "Energy"
-    },
-    {
-        "title": "Juan Gonzalo Casta\u00f1o resigned from the board of directors of Ecopetrol after three months in office",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/juan-gonzalo-castano-renuncio-a-la-junta-directiva-de-ecopetrol-tras-tres-meses-en-el-cargo-4390965",
-        "published_date": "2026-05-12 19:21:52",
-        "category": "Energy"
-    },
-    {
-        "title": "Ecopetrol Board would be left with eight members in the event of the eventual departure of Juan Gonzalo Casta\u00f1o",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/junta-de-ecopetrol-quedaria-con-ocho-miembros-ante-eventual-salida-de-juan-gonzalo-castano-4390654",
-        "published_date": "2026-05-12 15:04:39",
         "category": "Energy"
     },
     {
@@ -441,11 +441,53 @@
         "category": "Economy"
     },
     {
-        "title": "Government and Cundinamarca made official the addition of $1.95 billion for Regiotram del Norte",
+        "title": "The governor of Boyac\u00e1, Carlos Amaya, reported that atypical elections will be held in Tunja after an agreement with the registrar Hern\u00e1n Penagos",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/el-gobernador-de-boyaca-carlos-amaya-informo-que-se-realizaran-elecciones-atipicas-en-tunja-tras-un-acuerdo-con-el-registrador-hernan-penagos-3556214",
+        "published_date": "2026-05-16 06:37:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The audacity, the epic, the zero sum",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/opinion/la-audacia-la-epica-la-suma-cero/",
+        "published_date": "2026-05-16 06:05:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The stories that captivate us",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/opinion/los-relatos-que-nos-atrapan/",
+        "published_date": "2026-05-16 06:02:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Electoral reality",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/opinion/reality-electoral/",
+        "published_date": "2026-05-16 06:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The probability of an El Ni\u00f1o phenomenon increases to 82% starting this month",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/gobierno-y-cundinamarca-oficializaron-adicion-de-1-95-billones-para-regiotram-del-norte-4387882",
-        "published_date": "2026-05-08 00:42:57",
-        "category": "Economy"
+        "url": "https://www.larepublica.co/economia/se-incrementa-la-probabilidad-de-un-fenomeno-de-el-nino-a-82-a-partir-de-este-mes-4392958",
+        "published_date": "2026-05-16 05:03:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Short-term TES bond rates hit highs in more than two decades",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/las-tasas-de-los-bonos-tes-de-corto-plazo-alcanzaron-maximos-de-mas-de-dos-decadas-4394066",
+        "published_date": "2026-05-16 05:03:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "Sleep informed with the keys for this May 15, 2026",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-claves-de-este-15-de-mayo-de-2026/",
+        "published_date": "2026-05-16 00:00:00",
+        "category": "Local Events"
     },
     {
         "title": "Court ruling confirms that the Etis will be able to access more resources",
@@ -455,10 +497,24 @@
         "category": "Local Events"
     },
     {
+        "title": "Expotatuajes 2026 broke its silence and spoke after the mysterious death of a young man who tattooed his leg at the fair: 'Ready to collaborate'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/expotatuajes-2026-rompio-su-silencio-y-hablo-tras-la-misteriosa-muerte-de-joven-que-se-tatuo-una-pierna-en-la-feria-prestos-a-colaborar-3556200",
+        "published_date": "2026-05-15 23:09:23",
+        "category": "Local Events"
+    },
+    {
         "title": "Leaders from 11 countries will meet in Caquet\u00e1 to talk about bioeconomy",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/lideres-de-11-paises-se-reuniran-en-caqueta-para-hablar-de-bioeconomia/",
         "published_date": "2026-05-15 22:36:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tremor today |They report a strong earthquake that shook northern Colombia this Friday, May 15;epicenter, magnitude, depth and details",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-hoy-reportan-fuerte-sismo-que-sacudio-al-norte-de-colombia-este-viernes-15-de-mayo-epicentro-magnitud-profundidad-y-detalles-3556166",
+        "published_date": "2026-05-15 22:34:47",
         "category": "Local Events"
     },
     {
@@ -504,6 +560,13 @@
         "category": "Local Events"
     },
     {
+        "title": "'Never stop dreaming': this was Kapo's emotional visit to the Terr\u00f3n Colorado neighborhood prior to his concert in Cali",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/nunca-dejen-de-sonar-asi-fue-la-emotiva-visita-de-kapo-al-barrio-terron-colorado-previo-a-su-concierto-en-cali-3556172",
+        "published_date": "2026-05-15 20:25:02",
+        "category": "Local Events"
+    },
+    {
         "title": "Council of State denied nullity in the election of Altus Baquero in CNE",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/consejo-de-estado-nego-nulidad-en-la-eleccion-de-altus-baquero-en-cne/",
@@ -515,76 +578,6 @@
         "source": "Verdad Abierta",
         "url": "https://verdadabierta.com/el-prejuicio-como-arma-la-violencia-contra-personas-lgbtiq-sigue-marcando-los-territorios-del-conflicto/",
         "published_date": "2026-05-15 20:22:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Dane reported 13.4% growth in retail sales in March",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/dane-reporto-crecimiento-de-13-4-en-ventas-del-comercio-minorista-en-marzo-4393801",
-        "published_date": "2026-05-15 20:08:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "Councilor Andr\u00e9s Tob\u00f3n stigmatized the May Day mobilization in Medell\u00edn",
-        "source": "Verdad Abierta",
-        "url": "https://verdadabierta.com/concejal-andres-tobon-estigmatizo-la-movilizacion-del-primero-de-mayo-en-medellin/",
-        "published_date": "2026-05-15 18:53:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Clues and new details about the man who killed two minors with his accomplice, outside a bakery on Bulevar del Oriente in Cali",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/pistas-y-nuevos-detalles-sobre-el-hombre-que-mato-a-dos-menores-con-su-complice-afuera-de-una-panaderia-en-el-bulevar-del-oriente-en-cali-3556143",
-        "published_date": "2026-05-15 18:30:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "Photos |Truck loaded with beer lost control and overturned on an important road in Bello, Antioquia;several people stole the cargo",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/fotos-camion-cargado-de-cerveza-perdio-el-control-y-se-volco-en-importante-via-de-bello-antioquia-ciudadanos-saquearon-la-carga-3556106",
-        "published_date": "2026-05-15 18:16:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Under guardianship, guards and inmates at the Ternera prison in Cartagena cry out for attention due to a tuberculosis outbreak: 12 inmates are infected",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/con-tutela-guardias-y-reclusos-de-la-carcel-de-ternera-en-cartagena-claman-atencion-por-brote-de-tuberculosis-hay-12-internos-contagiados-3556139",
-        "published_date": "2026-05-15 18:13:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "Serious traffic accident on the Cajamarca \u2013 Ibagu\u00e9 road left two people trapped in a vehicle: this is what is known",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/grave-accidente-de-transito-en-la-via-cajamarca-ibague-dejo-a-dos-personas-atrapadas-en-un-vehiculo-esto-es-lo-que-se-sabe-3556113",
-        "published_date": "2026-05-15 18:09:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "The future of Colombian pediatrics is debated at the Casa del Ni\u00f1o in Cartagena: experts will put the magnifying glass on medicine specialized in childhood",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/el-futuro-de-la-pediatria-colombiana-se-debate-en-la-casa-del-nino-de-cartagena-expertos-pondran-la-lupa-a-la-medicina-especializada-en-la-infancia-3556132",
-        "published_date": "2026-05-15 17:23:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "Education, Health and Equality led the execution of the Budget to April",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/educacion-salud-e-igualdad-encabezaron-la-ejecucion-del-presupuesto-a-abril-4393737",
-        "published_date": "2026-05-15 17:21:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Be careful when paying your Air-e bill: they warn about a false page that appears in search engines and would have left users scammed in Barranquilla and the Caribbean",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/ojo-al-pagar-su-recibo-de-air-e-alertan-sobre-pagina-falsa-que-aparece-en-buscadores-y-habria-dejado-usuarios-estafados-en-barranquilla-y-el-caribe-3556134",
-        "published_date": "2026-05-15 17:20:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "Forceful operations in Bucaramanga: immobilized motorcycles, weapons found, attacks on officials and even people with an Interpol circular",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/contundentes-operativos-en-bucaramanga-motos-inmovilizadas-hallazgos-de-armas-agresiones-a-funcionarios-y-hasta-personas-con-circular-de-interpol-3556120",
-        "published_date": "2026-05-15 16:55:29",
         "category": "Local Events"
     }
 ]
