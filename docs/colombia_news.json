@@ -49,11 +49,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "'What a pain this, Petro's Total Peace killed him': mayor of Medell\u00edn, Federico Guti\u00e9rrez, after confirmation of the murder of journalist Mateo P\u00e9rez",
+        "title": "Barranquilla activates security and surveillance plan for presidential elections with PMU and military reinforcement in all local voting stations",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/que-dolor-esto-lo-mato-la-paz-total-de-petro-alcalde-de-medellin-federico-gutierrez-tras-confirmacion-del-asesinato-del-periodista-mateo-perez-3554283",
-        "published_date": "2026-05-08 17:56:12",
-        "category": "Diplomacy"
+        "url": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-activa-plan-de-seguridad-y-vigilancia-para-elecciones-presidenciales-con-pmu-y-refuerzo-militar-en-todos-los-puestos-de-votacion-locales-3556273",
+        "published_date": "2026-05-16 16:01:00",
+        "category": "Military"
+    },
+    {
+        "title": "They prosecute alias 'Emerardo', a FARC dissident accused of ambushing the Army in Tulu\u00e1, Valle",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/judicializan-a-alias-emerardo-disidente-de-las-farc-senalado-de-emboscar-al-ejercito-en-tulua-valle-3556257",
+        "published_date": "2026-05-16 12:21:30",
+        "category": "Military"
     },
     {
         "title": "He arrived, spoke and returned with a hitman: the deadly sequence that ended with the murder of two 17-year-olds in eastern Cali",
@@ -182,18 +189,11 @@
         "category": "Military"
     },
     {
-        "title": "From a movie, video of how armed motorcyclists were going to rob another on the streets of Medell\u00edn and the Police prevented it: the mayor presented the recording",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/de-pelicula-video-de-como-motociclistas-armados-iban-a-robar-a-otro-en-las-calles-de-medellin-y-la-policia-lo-evito-el-alcalde-presento-la-grabacion-3554629",
-        "published_date": "2026-05-10 18:08:52",
-        "category": "Military"
-    },
-    {
-        "title": "The ELN incinerated a bus and two trucks and installed an explosive on the road between Medell\u00edn and the Caribbean coast: this is how the passage through this road corridor is",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/el-eln-incinero-un-bus-y-dos-camiones-e-instalo-un-explosivo-en-la-via-entre-medellin-y-costa-caribe-asi-esta-el-paso-por-este-corredor-vial-3554553",
-        "published_date": "2026-05-10 08:42:55",
-        "category": "Military"
+        "title": "Petro questions Ecopetrol for maintaining high demand for gas in the midst of the \u201cmegani\u00f1o\u201d",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/petro-cuestiona-a-ecopetrol-por-mantener-alta-demanda-de-gas-en-medio-del-meganino-4394575",
+        "published_date": "2026-05-16 21:35:00",
+        "category": "Energy"
     },
     {
         "title": "Colombia should choose whoever answers how they are going to pay the bill",
@@ -329,13 +329,6 @@
         "category": "Energy"
     },
     {
-        "title": "MinEnerg\u00eda activated a roadmap with 50 actions to prepare the country for the arrival of El Ni\u00f1o",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/minenergia-activo-hoja-de-ruta-con-50-acciones-para-preparar-al-pais-ante-llega-de-el-nino-4391029",
-        "published_date": "2026-05-12 20:29:58",
-        "category": "Energy"
-    },
-    {
         "title": "Mac Master warned that the country \u201closes positioning\u201d after 2.2% GDP growth",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/andi-alerto-que-colombia-pierde-posicionamiento-tras-crecimiento-de-2-2-del-pib-4393939",
@@ -420,164 +413,143 @@
         "category": "Economy"
     },
     {
-        "title": "April inflation continues to rise and reached 5.68%",
+        "title": "Alex Saab, Maduro's alleged figurehead, was deported to the United States",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/la-inflacion-de-abril-sigue-subiendo-y-llego-a-568/",
-        "published_date": "2026-05-08 23:32:47",
-        "category": "Economy"
+        "url": "https://www.lasillavacia.com/en-vivo/alex-saab-senalado-testaferro-de-maduro-fue-deportado-estados-unidos/",
+        "published_date": "2026-05-16 23:20:00",
+        "category": "Local Events"
     },
     {
-        "title": "Dane revealed that the inflation data corresponding to April went from 5.56% to 5.68%",
+        "title": "Political interior decoration: culture at Casa Valencia",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/opinion/decoracion-politica-de-interiores-la-cultura-en-la-casa-valencia/",
+        "published_date": "2026-05-16 22:47:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "Meta calls council for murder of Abelardo campaign members",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/meta-convoca-consejo-por-asesinato-de-miembroes-de-campana-de-abelardo/",
+        "published_date": "2026-05-16 20:55:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "Anla granted license for the El Alacr\u00e1n copper project located in the south of C\u00f3rdoba",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/dane-revelo-que-el-dato-de-inflacion-correspondiente-a-abril-paso-de-5-56-a-5-68-4388716",
-        "published_date": "2026-05-08 23:14:10",
-        "category": "Economy"
+        "url": "https://www.larepublica.co/economia/licencia-para-de-la-anla-para-proyecto-de-cobre-el-alacran-4394504",
+        "published_date": "2026-05-16 19:19:48",
+        "category": "Local Events"
     },
     {
-        "title": "Dane revealed that the inflation data corresponding to April went from 5.56% to 5.68%",
+        "title": "Fall of alias 'Cali': the master blow to the pocket of the Clan del Golfo in the northeast of Antioquia",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/caida-de-alias-cali-el-golpe-maestro-al-bolsillo-del-clan-del-golfo-en-el-nordeste-de-antioquia-3556286",
+        "published_date": "2026-05-16 17:23:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "Anla gives the green light to a copper mine in C\u00f3rdoba",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/anla-da-luz-verde-a-mina-de-cobre-en-cordoba/",
+        "published_date": "2026-05-16 16:54:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "MinMinas asks Creg for regulatory adjustments to meet energy demand in El Ni\u00f1o",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/dane-revelo-que-el-dato-de-inflacion-correspondiente-a-abril-paso-de-5-56-a-5-68-4388619",
-        "published_date": "2026-05-08 22:22:25",
-        "category": "Economy"
+        "url": "https://www.larepublica.co/economia/minminas-pide-a-creg-ajustes-regulatorios-para-atender-demanda-energetica-en-el-nino-4394426",
+        "published_date": "2026-05-16 16:13:58",
+        "category": "Local Events"
     },
     {
-        "title": "The governor of Boyac\u00e1, Carlos Amaya, reported that atypical elections will be held in Tunja after an agreement with the registrar Hern\u00e1n Penagos",
+        "title": "Ombudsman alerts for violence after murder of Abelardo campaign member",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/defensoria-alerta-por-violencia-tras-asesinato-de-miembro-de-campana-de-abelardo/",
+        "published_date": "2026-05-16 15:33:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "Campaign aesthetics: democracy is a matter of style",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/opinion/esteticas-de-las-campanas-la-democracia-es-cuestion-de-estilo/",
+        "published_date": "2026-05-16 15:08:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "Letter to the ICT Minister: at risk a unique opportunity to protect girls and adolescents",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-democracia-y-tecnologia/carta-a-la-ministra-tic-en-riesgo-una-oportunidad-unica-para-proteger-a-ninas-y-adolescentes/",
+        "published_date": "2026-05-16 15:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "De la Espriella campaign coordinator murdered in Meta",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/asesinado-coordinador-de-campana-de-de-la-espriella-en-meta/",
+        "published_date": "2026-05-16 14:55:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "El Ni\u00f1o phenomenon puts pressure on the electrical system: they warn of the risk of rationing in the Caribr region due to falls in reservoirs",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/el-gobernador-de-boyaca-carlos-amaya-informo-que-se-realizaran-elecciones-atipicas-en-tunja-tras-un-acuerdo-con-el-registrador-hernan-penagos-3556214",
-        "published_date": "2026-05-16 06:37:00",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/fenomeno-de-el-nino-pone-presion-al-sistema-electrico-alertan-riesgo-de-racionamiento-por-caida-en-embalses-3556253",
+        "published_date": "2026-05-16 14:01:00",
         "category": "Local Events"
     },
     {
-        "title": "The audacity, the epic, the zero sum",
+        "title": "Candidates talk nonsense about coca and other Amazon news",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/opinion/la-audacia-la-epica-la-suma-cero/",
-        "published_date": "2026-05-16 06:05:00",
+        "url": "https://www.lasillavacia.com/en-vivo/candidatos-hablan-paja-sobre-la-coca-y-otras-noticias-amazonicas/",
+        "published_date": "2026-05-16 14:00:00",
         "category": "Local Events"
     },
     {
-        "title": "The stories that captivate us",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/opinion/los-relatos-que-nos-atrapan/",
-        "published_date": "2026-05-16 06:02:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Electoral reality",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/opinion/reality-electoral/",
-        "published_date": "2026-05-16 06:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The probability of an El Ni\u00f1o phenomenon increases to 82% starting this month",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/se-incrementa-la-probabilidad-de-un-fenomeno-de-el-nino-a-82-a-partir-de-este-mes-4392958",
-        "published_date": "2026-05-16 05:03:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Short-term TES bond rates hit highs in more than two decades",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/las-tasas-de-los-bonos-tes-de-corto-plazo-alcanzaron-maximos-de-mas-de-dos-decadas-4394066",
-        "published_date": "2026-05-16 05:03:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sleep informed with the keys for this May 15, 2026",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-claves-de-este-15-de-mayo-de-2026/",
-        "published_date": "2026-05-16 00:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Court ruling confirms that the Etis will be able to access more resources",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/sentencia-de-la-corte-ratifica-que-las-etis-podran-acceder-a-mas-recursos/",
-        "published_date": "2026-05-15 23:30:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "Expotatuajes 2026 broke its silence and spoke after the mysterious death of a young man who tattooed his leg at the fair: 'Ready to collaborate'",
+        "title": "Atlantic |Assassin attack on the beaches of Salgar (Puerto Colombia) left one dead and one injured: the incident occurred this Saturday among tourists",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/expotatuajes-2026-rompio-su-silencio-y-hablo-tras-la-misteriosa-muerte-de-joven-que-se-tatuo-una-pierna-en-la-feria-prestos-a-colaborar-3556200",
-        "published_date": "2026-05-15 23:09:23",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/atlantico-ataque-sicarial-en-playas-de-salgar-dejo-un-muerto-y-un-herido-en-medio-de-turistas-este-sabado-en-puerto-colombia-3556267",
+        "published_date": "2026-05-16 13:17:12",
         "category": "Local Events"
     },
     {
-        "title": "Leaders from 11 countries will meet in Caquet\u00e1 to talk about bioeconomy",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/lideres-de-11-paises-se-reuniran-en-caqueta-para-hablar-de-bioeconomia/",
-        "published_date": "2026-05-15 22:36:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tremor today |They report a strong earthquake that shook northern Colombia this Friday, May 15;epicenter, magnitude, depth and details",
+        "title": "Tension in Bajo Cauca, Antioquia: Blockades and trucks used as 'shields' after mining operations",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-hoy-reportan-fuerte-sismo-que-sacudio-al-norte-de-colombia-este-viernes-15-de-mayo-epicentro-magnitud-profundidad-y-detalles-3556166",
-        "published_date": "2026-05-15 22:34:47",
+        "url": "https://www.eltiempo.com/colombia/medellin/tension-en-el-bajo-cauca-antioqueno-bloqueos-y-camiones-usados-como-escudos-tras-operativos-mineros-3556265",
+        "published_date": "2026-05-16 13:03:27",
         "category": "Local Events"
     },
     {
-        "title": "Cepeda says that Paloma and Abelardo are leading a dirty campaign against him",
+        "title": "Carbon again",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/cepeda-dice-que-paloma-y-abelardo-lideran-campana-sucia-en-su-contra/",
-        "published_date": "2026-05-15 22:10:41",
+        "url": "https://www.lasillavacia.com/opinion/otra-vez-el-carbono/",
+        "published_date": "2026-05-16 13:00:00",
         "category": "Local Events"
     },
     {
-        "title": "Miguel Uribe's family rejected possible pre-agreement between the Prosecutor's Office and \u201cEl Coste\u00f1o\u201d",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/familia-de-miguel-uribe-rechazo-posible-preacuerdo-fiscalia-el-costeno/",
-        "published_date": "2026-05-15 21:53:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "Official: Fujimori and S\u00e1nchez will compete for the presidency of Peru",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/oficial-fujimori-y-sanchez-se-disputaran-la-presidencia-de-peru/",
-        "published_date": "2026-05-15 21:45:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "Candidates talk nonsense about coca with improbable promises",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/candidatos-hablan-paja-sobre-la-coca-con-promesas-improbables/",
-        "published_date": "2026-05-15 21:03:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Congress prepares public hearing with candidates for comptroller general",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/congreso-alista-audiencia-publica-con-candidatos-a-contralor-general/",
-        "published_date": "2026-05-15 21:03:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "For the third consecutive year, Colombia wins the world bird record",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/por-tercer-ano-consecutivo-colombia-gana-en-registro-mundial-de-aves/",
-        "published_date": "2026-05-15 20:52:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "'Never stop dreaming': this was Kapo's emotional visit to the Terr\u00f3n Colorado neighborhood prior to his concert in Cali",
+        "title": "Alert for tuberculosis in Cartagena prison: 12 inmates are isolated and alarm grows due to the risk of massive contagion in Ternera prison",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/nunca-dejen-de-sonar-asi-fue-la-emotiva-visita-de-kapo-al-barrio-terron-colorado-previo-a-su-concierto-en-cali-3556172",
-        "published_date": "2026-05-15 20:25:02",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/alerta-por-tuberculosis-en-carcel-de-cartagena-aislan-12-reclusos-y-crece-alarma-por-riesgo-de-contagio-masivo-en-penal-de-ternera-3556261",
+        "published_date": "2026-05-16 12:28:56",
         "category": "Local Events"
     },
     {
-        "title": "Council of State denied nullity in the election of Altus Baquero in CNE",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/consejo-de-estado-nego-nulidad-en-la-eleccion-de-altus-baquero-en-cne/",
-        "published_date": "2026-05-15 20:24:43",
+        "title": "Attention |With machetes they try to damage tolls on roads in the Coffee Region: community demands an end to charges",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/atencion-con-machetes-intentan-danar-peajes-en-vias-del-eje-cafetero-comunidad-exige-el-cese-de-los-cobros-3556258",
+        "published_date": "2026-05-16 12:16:16",
         "category": "Local Events"
     },
     {
-        "title": "Prejudice as a weapon: violence against LGBTIQ+ people continues to mark the territories of the conflict",
-        "source": "Verdad Abierta",
-        "url": "https://verdadabierta.com/el-prejuicio-como-arma-la-violencia-contra-personas-lgbtiq-sigue-marcando-los-territorios-del-conflicto/",
-        "published_date": "2026-05-15 20:22:58",
+        "title": "Riots and violence in Cali during a soccer match left three people injured",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/disturbios-y-desmanes-en-cali-durante-partido-de-futbol-dejo-un-saldo-de-tres-personas-heridas-3556255",
+        "published_date": "2026-05-16 12:06:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "Correxquilla 2026 will cause road closures in Barranquilla this weekend: routes, detours and schedules of the athletic race",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/correxquilla-2026-provocara-cierres-viales-en-barranquilla-este-fin-de-semana-rutas-desvios-y-horarios-de-la-carrera-atletica-3556251",
+        "published_date": "2026-05-16 12:01:00",
         "category": "Local Events"
     }
 ]
