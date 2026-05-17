@@ -42,13 +42,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "The UN condemned the murder of journalist Mateo P\u00e9rez in Antioquia and asked to investigate those responsible for the crime that occurred in Brice\u00f1o",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/onu-condeno-asesinato-del-periodista-mateo-perez-en-antioquia-y-pidio-investigar-a-responsables-del-crimen-ocurrido-en-briceno-3554361",
-        "published_date": "2026-05-09 05:45:19",
-        "category": "Diplomacy"
-    },
-    {
         "title": "Barranquilla activates security and surveillance plan for presidential elections with PMU and military reinforcement in all local voting stations",
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-activa-plan-de-seguridad-y-vigilancia-para-elecciones-presidenciales-con-pmu-y-refuerzo-militar-en-todos-los-puestos-de-votacion-locales-3556273",
@@ -406,11 +399,46 @@
         "category": "Economy"
     },
     {
-        "title": "Senator Jota Pe Hern\u00e1ndez denounced the dissidents' plan to assassinate him",
+        "title": "Iv\u00e1n Cepeda, truth as power",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/senador-jota-pe-hernandez-denuncio-plan-de-las-disidencias-para-asesinarlo/",
-        "published_date": "2026-05-09 00:20:41",
-        "category": "Economy"
+        "url": "https://www.lasillavacia.com/silla-nacional/ivan-cepeda-la-verdad-como-poder/",
+        "published_date": "2026-05-17 06:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Claudia L\u00f3pez, the candidate from a center with character",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/claudia-lopez-la-candidata-de-un-centro-con-caracter/",
+        "published_date": "2026-05-17 05:05:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tremor today in Colombia |Earthquake during the early hours of this Sunday, May 17: epicenter, magnitude and depth",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-hoy-en-colombia-sismo-durante-la-madrugada-de-este-domingo-17-de-mayo-epicentro-magnitud-y-profundidad-3556338",
+        "published_date": "2026-05-17 02:47:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "Clic Air plane that covered the Bucaramanga-Arauca route presented technical failures before takeoff: this is what is known",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/avion-de-clic-air-que-cubria-la-ruta-bucaramanga-arauca-presento-fallas-tecnicas-antes-del-despegue-esto-es-lo-que-se-sabe-3556334",
+        "published_date": "2026-05-17 00:18:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "What the surveys say inside",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/opinion/lo-que-dicen-las-encuestas-por-dentro/",
+        "published_date": "2026-05-17 00:12:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Hondurasgate comes from an opaque source with a history of inauthenticity",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/el-hondurasgate-viene-de-una-fuente-opaca-y-con-historial-de-inauntenticidad/",
+        "published_date": "2026-05-17 00:05:00",
+        "category": "Local Events"
     },
     {
         "title": "Alex Saab, Maduro's alleged figurehead, was deported to the United States",
@@ -424,6 +452,13 @@
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/opinion/decoracion-politica-de-interiores-la-cultura-en-la-casa-valencia/",
         "published_date": "2026-05-16 22:47:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tragic accident between two motorcycles leaves two dead on the San Gil-Socorro road: this is what is known",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/tragico-accidente-entre-dos-motocicletas-deja-dos-muertos-en-la-via-san-gil-socorro-esto-es-lo-que-se-sabe-3556326",
+        "published_date": "2026-05-16 21:53:24",
         "category": "Local Events"
     },
     {
@@ -501,55 +536,6 @@
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/candidatos-hablan-paja-sobre-la-coca-y-otras-noticias-amazonicas/",
         "published_date": "2026-05-16 14:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Atlantic |Assassin attack on the beaches of Salgar (Puerto Colombia) left one dead and one injured: the incident occurred this Saturday among tourists",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/atlantico-ataque-sicarial-en-playas-de-salgar-dejo-un-muerto-y-un-herido-en-medio-de-turistas-este-sabado-en-puerto-colombia-3556267",
-        "published_date": "2026-05-16 13:17:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tension in Bajo Cauca, Antioquia: Blockades and trucks used as 'shields' after mining operations",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/tension-en-el-bajo-cauca-antioqueno-bloqueos-y-camiones-usados-como-escudos-tras-operativos-mineros-3556265",
-        "published_date": "2026-05-16 13:03:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "Carbon again",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/opinion/otra-vez-el-carbono/",
-        "published_date": "2026-05-16 13:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Alert for tuberculosis in Cartagena prison: 12 inmates are isolated and alarm grows due to the risk of massive contagion in Ternera prison",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/alerta-por-tuberculosis-en-carcel-de-cartagena-aislan-12-reclusos-y-crece-alarma-por-riesgo-de-contagio-masivo-en-penal-de-ternera-3556261",
-        "published_date": "2026-05-16 12:28:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "Attention |With machetes they try to damage tolls on roads in the Coffee Region: community demands an end to charges",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/atencion-con-machetes-intentan-danar-peajes-en-vias-del-eje-cafetero-comunidad-exige-el-cese-de-los-cobros-3556258",
-        "published_date": "2026-05-16 12:16:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Riots and violence in Cali during a soccer match left three people injured",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/disturbios-y-desmanes-en-cali-durante-partido-de-futbol-dejo-un-saldo-de-tres-personas-heridas-3556255",
-        "published_date": "2026-05-16 12:06:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Correxquilla 2026 will cause road closures in Barranquilla this weekend: routes, detours and schedules of the athletic race",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/correxquilla-2026-provocara-cierres-viales-en-barranquilla-este-fin-de-semana-rutas-desvios-y-horarios-de-la-carrera-atletica-3556251",
-        "published_date": "2026-05-16 12:01:00",
         "category": "Local Events"
     }
 ]
