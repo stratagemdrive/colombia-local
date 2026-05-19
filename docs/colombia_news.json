@@ -1,5 +1,12 @@
 [
     {
+        "title": "New accusation against \u00c1lex Saab in the US for money laundering",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/nueva-acusacion-contra-alex-saab-en-ee-uu-por-lavado-de-dinero/",
+        "published_date": "2026-05-19 13:31:45",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Bolivian Foreign Ministry asks Petro not to get involved in its internal politics",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/cancilleria-de-bolivia-pide-a-petro-no-meterse-en-su-politica-interna/",
@@ -35,11 +42,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "\u201cThe OECD has insisted in several countries on implementing a spending review system\u201d",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/la-ocde-ha-insistido-en-varios-paises-en-implementar-un-sistema-de-revision-del-gasto-4387955",
-        "published_date": "2026-05-11 05:01:38",
-        "category": "Diplomacy"
+        "title": "Government guarantees security to Abelardo after new reports of threats",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/gobierno-garantiza-seguridad-a-abelardo-tras-nuevas-denuncias-de-amenazas/",
+        "published_date": "2026-05-19 13:37:08",
+        "category": "Military"
     },
     {
         "title": "Ombudsman warns of electoral risks due to armed groups in Putumayo and Caquet\u00e1",
@@ -175,11 +182,11 @@
         "category": "Military"
     },
     {
-        "title": "Uribe and Paloma denounce alleged pressure from armed men in favor of Cepeda",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/uribe-y-paloma-denuncian-supuestas-presiones-de-armados-a-favor-de-cepeda/",
-        "published_date": "2026-05-13 21:15:37",
-        "category": "Military"
+        "title": "MinEnerg\u00eda prepares plan to guarantee gas supply during Spec maintenance",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/minenergia-prepara-plan-para-garantizar-suministro-de-gas-durante-mantenimiento-de-spec-4395232",
+        "published_date": "2026-05-19 12:32:44",
+        "category": "Energy"
     },
     {
         "title": "Colombia collects more and spends worse, that is the root of the fiscal problem",
@@ -315,13 +322,6 @@
         "category": "Energy"
     },
     {
-        "title": "MinMinas and Superservicios insist on distortions in the secondary gas market",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/minminas-y-superservicios-insisten-en-distorsiones-en-el-mercado-secundario-del-gas-4392657",
-        "published_date": "2026-05-14 15:21:30",
-        "category": "Energy"
-    },
-    {
         "title": "Monetary and fiscal coordination goes beyond elections",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/red-de-expertos/red-social/la-coordinacion-monetaria-y-fiscal-va-mas-alla-de-las-elecciones/",
@@ -399,143 +399,143 @@
         "category": "Economy"
     },
     {
-        "title": "Cepeda in RCN: national dialogue, peace policy and meeting with unions",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/cepeda-en-rcn-dialogo-nacional-politica-de-paz-y-reunion-con-gremios/",
-        "published_date": "2026-05-18 23:23:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "He was Rogers Devia, former mayor of Abelardo's campaign murdered in Meta",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/el-era-rogers-devia-exalcalde-de-la-campana-de-abelardo-asesinado-en-meta/",
-        "published_date": "2026-05-18 22:07:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "AMA Fair exceeds $1,000 million in sales and consolidates Barranquilla as a showcase for artisanal luxury in the Caribbean",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/feria-ama-supera-los-1-000-millones-en-ventas-y-consolida-a-barranquilla-como-vitrina-del-lujo-artesanal-del-caribe-3556527",
-        "published_date": "2026-05-18 17:01:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Justice for Valentina!Millionaire reward and a sea of \u200b\u200btears in the last goodbye to the young woman murdered in Antioquia",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/justicia-para-valentina-millonaria-recompensa-y-un-mar-de-lagrimas-en-el-ultimo-adios-a-la-joven-asesinada-en-antioquia-3556522",
-        "published_date": "2026-05-18 16:01:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "Petro reacts to a poll related to the government that gives it 50% favorability",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/petro-reacciona-a-encuesta-afin-al-gobierno-que-le-da-50-de-favorabilidad/",
-        "published_date": "2026-05-18 15:46:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "Atlantic |Soledad and Malambo wage a territorial dispute over areas of the Ernesto Cortissoz airport and millionaire airport resources",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/atlantico-soledad-y-malambo-libran-disputa-territorial-por-zonas-del-aeropuerto-ernesto-cortissoz-y-millonarios-recursos-aeroportuarios-3556492",
-        "published_date": "2026-05-18 15:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "MinAgricultura moves resources for $146,000 million to face the effects of El Ni\u00f1o",
+        "title": "Dian clarified rate change in consolidated industry and commerce tax",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/minagricultura-anuncio-inversiones-por-146-000-millones-para-enfrentar-el-nino-4394893",
-        "published_date": "2026-05-18 14:37:08",
+        "url": "https://www.larepublica.co/economia/dian-aclaro-detalles-del-aumento-en-tarifa-del-impuesto-de-industria-y-comercio-consolidado-4395296",
+        "published_date": "2026-05-19 13:33:43",
         "category": "Local Events"
     },
     {
-        "title": "Paloma Valencia, the most fervent graduate of Uribism",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/paloma-valencia-la-graduada-mas-fervorosa-del-uribismo/",
-        "published_date": "2026-05-18 13:56:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Atlantic |Man wanted for extortion and conspiracy to commit a crime captured at Ernesto Cortissoz airport",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/atlantico-capturan-en-aeropuerto-ernesto-cortissoz-a-hombre-requerido-por-extorsion-y-concierto-para-delinquir-3556501",
-        "published_date": "2026-05-18 13:01:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Hitman attack in Barranquilla billiards left seven injured: they investigate possible adjustment linked to 'drop by drop' charges",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/ataque-sicarial-en-billar-de-barranquilla-dejo-siete-heridos-investigan-posible-ajuste-ligado-a-cobros-gota-a-gota-3556490",
-        "published_date": "2026-05-18 11:34:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Blow to child abuse: six alleged child abusers fall in Antioquia",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/golpe-al-abuso-infantil-caen-seis-presuntos-agresores-de-menores-en-antioquia-3556488",
-        "published_date": "2026-05-18 11:20:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "The urgent call from the Cali Personer\u00eda to stop deaths on the new Bicentenario road: they propose installing photomult cameras and reducers",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/el-urgente-llamado-de-la-personeria-de-cali-para-frenar-las-muertes-en-la-nueva-via-bicentenario-proponen-instalar-camaras-de-fotomultas-y-reductores-3556484",
-        "published_date": "2026-05-18 10:45:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "Controversial Russian citizen who tormented residents of El Poblado for noisy parties is expelled from the country for the second time: he was trying to return to Medell\u00edn",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/expulsan-del-pais-por-segunda-vez-a-polemico-ciudadano-ruso-que-atormentaba-a-vecinos-de-el-poblado-por-ruidosas-fiestas-intentaba-volver-a-medellin-3556475",
-        "published_date": "2026-05-18 09:22:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sergio Fajardo, the candidate for whom the means justify the end",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/sergio-fajardo-el-candidato-para-el-que-los-medios-justifican-el-fin/",
-        "published_date": "2026-05-18 05:05:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cepeda seeks the LGBTQ+ vote and Valencia that of women",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/cepeda-busca-el-voto-lgbtq-y-valencia-el-de-las-mujeres/",
-        "published_date": "2026-05-17 22:17:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "Due to gender violence, the Ombudsman asks to veto Villa from the National Team",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/por-violencia-de-genero-defensoria-pide-vetar-a-villa-de-la-seleccion/",
-        "published_date": "2026-05-17 20:51:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "Economics needs to talk again with the other social sciences",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/la-economia-necesita-volver-a-conversar-con-las-otras-ciencias-sociales/",
-        "published_date": "2026-05-17 20:20:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Spend your Sunday afternoon with these opinion columns",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/pase-la-tarde-de-domingo-con-estas-columnas-de-opinion-2/",
-        "published_date": "2026-05-17 19:40:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "President Petro blamed former Minister Ocampo for the fiscal deficit",
+        "title": "Icetex will allocate $259,000 million to disburse subsidies and forgiveness",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/petro-responsabilizo-al-exministro-jose-antonio-ocampo-por-el-actual-deficit-fiscal-4394762",
-        "published_date": "2026-05-17 19:04:13",
+        "url": "https://www.larepublica.co/economia/icetex-destinara-mas-de-259-000-millones-a-desembolso-de-subsidios-y-condonaciones-4395273",
+        "published_date": "2026-05-19 13:10:00",
         "category": "Local Events"
     },
     {
-        "title": "The Purac\u00e9 volcano in Cauca continues to be active, but the yellow alert remains in place",
+        "title": "The candidates in an environmental key",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/los-candidatos-en-clave-ambiental/",
+        "published_date": "2026-05-19 12:31:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "Breakfast informed with the movements of this May 19, 2026",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-movidas-de-este-19-de-mayo-de-2026/",
+        "published_date": "2026-05-19 12:31:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Comptroller's Office warned that the fiscal deficit goal is compromised due to the level of public debt",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/el-volcan-purace-en-cauca-continua-en-actividad-pero-se-mantiene-la-alerta-amarilla-4394750",
-        "published_date": "2026-05-17 18:40:35",
+        "url": "https://www.larepublica.co/economia/contraloria-advirtio-que-meta-de-deficit-fiscal-esta-comprometida-por-nivel-de-deuda-4395186",
+        "published_date": "2026-05-19 12:21:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "You can't dance without light",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/no-se-baila-sin-luz/",
+        "published_date": "2026-05-19 11:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Video |These were the last moments of the two young women murdered in a commercial establishment in eastern Cali",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/video-estos-fueron-los-ultimos-momentos-de-las-dos-jovenes-asesinadas-en-un-establecimiento-comercial-del-oriente-de-cali-3556604",
+        "published_date": "2026-05-19 08:03:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "In video: pedestrian bridge fell on top of two motorcyclists after a mule collided with the structure and collapsed it in Gir\u00f3n, this is known",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/en-video-puente-peatonal-en-giron-cayo-encima-de-dos-motociclistas-luego-de-que-mula-colisionara-contra-la-estructura-y-la-derrumbara-esto-se-sabe-3556591",
+        "published_date": "2026-05-19 08:01:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "False alarm or criminal warning?Suspicious objects forced the closure of the Cordialidad bridge due to the threat of explosives in Barranquilla",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/falsa-alarma-o-advertencia-criminal-objetos-sospechosos-forzaron-el-cierre-en-puente-de-la-cordialidad-por-amenaza-de-explosivos-en-barranquilla-3556610",
+        "published_date": "2026-05-19 08:01:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "What do the green spots on the car where Yulixa Toloza was taken and which was found in C\u00facuta mean?",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/que-significan-las-manchas-verdes-en-el-carro-donde-llevaron-a-yulixa-toloza-y-que-fue-encontrado-en-cucuta-3556584",
+        "published_date": "2026-05-19 06:39:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "Weather in Colombia for this May 19: these are the hottest areas of the country",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/clima-en-colombia-para-este-19-de-mayo-estas-son-las-zonas-mas-calurosas-del-pais-3556580",
+        "published_date": "2026-05-19 06:23:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "The bomb proposals of Iv\u00e1n Cepeda's program",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/las-propuestas-bomba-del-programa-de-ivan-cepeda/",
+        "published_date": "2026-05-19 06:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tremor today in Colombia |Earthquake during the early hours of this Tuesday, May 19: epicenter, magnitude and depth",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-hoy-en-colombia-sismo-durante-la-madrugada-de-este-martes-19-de-mayo-epicentro-magnitud-y-profundidad-3556579",
+        "published_date": "2026-05-19 05:27:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "90,000 million pesos in motion: this is how the Giro de Rigo projects Valle del Cauca as a global sports destination",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/90-000-millones-de-pesos-en-movimiento-asi-es-como-el-giro-de-rigo-proyecta-al-valle-del-cauca-como-destino-deportivo-global-3556574",
+        "published_date": "2026-05-19 05:26:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Fl\u00f3rez presents report to revive health reform in the First Senate Commission",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/florez-presenta-informe-para-revivir-reforma-a-la-salud-en-comision-primera-de-senado-4393864",
+        "published_date": "2026-05-19 05:03:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "Who is who within the meatpacking industry with bovine slaughter plants?",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/quien-es-quien-en-la-industria-de-los-frigorificos-con-plantas-de-sacrificio-bovino-4392967",
+        "published_date": "2026-05-19 05:01:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "Production of coffee with cut until April had a drop of 28.3% according to Corficolombiana",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/produccion-del-cafe-con-corte-hasta-abril-tuvo-caida-de-28-3-segun-corficolombiana-4394239",
+        "published_date": "2026-05-19 05:00:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "The posts that support the Amazon",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/opinion/los-postes-que-sostienen-la-amazonia/",
+        "published_date": "2026-05-19 04:29:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "Batteries to mobility restrictions!Peak and plate in Pereira for Tuesday, May 19, 2026",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/pilas-a-las-restricciones-de-movilidad-pico-y-placa-en-pereira-para-el-martes-19-de-mayo-de-3556508",
+        "published_date": "2026-05-19 02:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Be careful, driver!Peak and plaque in Bucaramanga for Tuesday, May 19, 2026",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/ojo-conductor-pico-y-placa-en-bucaramanga-para-el-martes-19-de-mayo-de-2026-3556506",
+        "published_date": "2026-05-19 02:30:00",
         "category": "Local Events"
     }
 ]
