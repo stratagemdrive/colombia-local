@@ -1,5 +1,12 @@
 [
     {
+        "title": "Bolivian Foreign Ministry asks Petro not to get involved in its internal politics",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/cancilleria-de-bolivia-pide-a-petro-no-meterse-en-su-politica-interna/",
+        "published_date": "2026-05-18 16:56:40",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Sleep informed with the keys for this May 14, 2026",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-claves-de-este-14-de-mayo-de-2026/",
@@ -35,11 +42,25 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Cepeda condemns murder of journalist and conditions peace talks",
+        "title": "Ombudsman warns of electoral risks due to armed groups in Putumayo and Caquet\u00e1",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/cepeda-condena-asesinato-de-periodista-y-condiciona-dialogos-de-paz/",
-        "published_date": "2026-05-10 17:43:41",
-        "category": "Diplomacy"
+        "url": "https://www.lasillavacia.com/en-vivo/defensoria-alerta-riesgos-electorales-por-armados-en-putumayo-y-caqueta/",
+        "published_date": "2026-05-18 19:47:54",
+        "category": "Military"
+    },
+    {
+        "title": "This is how the return plan for this bridge within the main roads is developed",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/plan-retorno-puente-de-mayo-4394911",
+        "published_date": "2026-05-18 15:46:56",
+        "category": "Military"
+    },
+    {
+        "title": "Hits against drug trafficking: more than 2.5 tons of cocaine are seized in false facades and cargo vehicles",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/golpes-al-narcotrafico-incautan-mas-de-2-5-toneladas-de-cocaina-en-falsas-fachadas-y-vehiculos-de-carga-3556516",
+        "published_date": "2026-05-18 14:01:41",
+        "category": "Military"
     },
     {
         "title": "This is the dissident close to alias 'Calarc\u00e1' and terror of merchants, ranchers and coffee growers in Tolima",
@@ -161,25 +182,18 @@
         "category": "Military"
     },
     {
-        "title": "Extortion, burning of buses and electoral risk |The security challenge that Santander faces: 'We will not allow bandits to establish themselves'",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/extorsion-quema-de-buses-y-riesgo-electoral-el-reto-de-seguridad-que-tiene-santander-no-permitiremos-que-los-bandidos-se-establezcan-3555549",
-        "published_date": "2026-05-13 18:27:32",
-        "category": "Military"
+        "title": "Colombia collects more and spends worse, that is the root of the fiscal problem",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/colombia-recauda-mas-y-gasta-peor-ahi-esta-la-raiz-del-problema-fiscal/",
+        "published_date": "2026-05-18 19:00:00",
+        "category": "Energy"
     },
     {
-        "title": "Reward, captures and technology: the triple security strategy implemented by Valle del Cauca against organized crime",
+        "title": "Power outages this Tuesday, May 19, will affect neighborhoods of Barranquilla and municipalities of Atl\u00e1ntico due to work on substations and electrical networks",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/recompensa-capturas-y-tecnologia-la-triple-estrategia-de-seguridad-que-implementa-el-valle-del-cauca-frente-al-crimen-organizado-3555259",
-        "published_date": "2026-05-12 18:27:14",
-        "category": "Military"
-    },
-    {
-        "title": "Justice for 'Tigre': in Rionegro they held a vigil and a protest after the death of a dog at the hands of the Police",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/justicia-por-tigre-en-rionegro-realizaron-una-velaton-y-una-protesta-tras-la-muerte-de-un-perro-a-manos-de-la-policia-3555031",
-        "published_date": "2026-05-12 07:59:38",
-        "category": "Military"
+        "url": "https://www.eltiempo.com/colombia/barranquilla/cortes-de-energia-este-martes-19-de-mayo-afectaran-barrios-de-barranquilla-y-municipios-del-atlantico-por-trabajos-en-subestaciones-y-redes-electricas-3556530",
+        "published_date": "2026-05-18 18:01:00",
+        "category": "Energy"
     },
     {
         "title": "The paradox of public investment: the short term beats the future",
@@ -308,20 +322,6 @@
         "category": "Energy"
     },
     {
-        "title": "Superservices alert due to unusual rise in energy prices from hydroelectric plants",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/superservicios-alerta-por-subida-inusual-de-precios-de-la-energia-de-hidroelectricas-4392543",
-        "published_date": "2026-05-14 14:15:04",
-        "category": "Energy"
-    },
-    {
-        "title": "\u201cLa Guajira's energy potential depends on making Way\u00fau communities members\u201d",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/palabras-del-ministro-de-minas-y-energia-edwin-palma-sobre-el-involucramiento-de-las-comunidades-wayuu-4391489",
-        "published_date": "2026-05-13 12:33:57",
-        "category": "Energy"
-    },
-    {
         "title": "Monetary and fiscal coordination goes beyond elections",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/red-de-expertos/red-social/la-coordinacion-monetaria-y-fiscal-va-mas-alla-de-las-elecciones/",
@@ -399,10 +399,94 @@
         "category": "Economy"
     },
     {
+        "title": "Cepeda in RCN: national dialogue, peace policy and meeting with unions",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/cepeda-en-rcn-dialogo-nacional-politica-de-paz-y-reunion-con-gremios/",
+        "published_date": "2026-05-18 23:23:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "He was Rogers Devia, former mayor of Abelardo's campaign murdered in Meta",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/el-era-rogers-devia-exalcalde-de-la-campana-de-abelardo-asesinado-en-meta/",
+        "published_date": "2026-05-18 22:07:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "AMA Fair exceeds $1,000 million in sales and consolidates Barranquilla as a showcase for artisanal luxury in the Caribbean",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/feria-ama-supera-los-1-000-millones-en-ventas-y-consolida-a-barranquilla-como-vitrina-del-lujo-artesanal-del-caribe-3556527",
+        "published_date": "2026-05-18 17:01:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Justice for Valentina!Millionaire reward and a sea of \u200b\u200btears in the last goodbye to the young woman murdered in Antioquia",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/justicia-para-valentina-millonaria-recompensa-y-un-mar-de-lagrimas-en-el-ultimo-adios-a-la-joven-asesinada-en-antioquia-3556522",
+        "published_date": "2026-05-18 16:01:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "Petro reacts to a poll related to the government that gives it 50% favorability",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/petro-reacciona-a-encuesta-afin-al-gobierno-que-le-da-50-de-favorabilidad/",
+        "published_date": "2026-05-18 15:46:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "Atlantic |Soledad and Malambo wage a territorial dispute over areas of the Ernesto Cortissoz airport and millionaire airport resources",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/atlantico-soledad-y-malambo-libran-disputa-territorial-por-zonas-del-aeropuerto-ernesto-cortissoz-y-millonarios-recursos-aeroportuarios-3556492",
+        "published_date": "2026-05-18 15:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "MinAgricultura moves resources for $146,000 million to face the effects of El Ni\u00f1o",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/minagricultura-anuncio-inversiones-por-146-000-millones-para-enfrentar-el-nino-4394893",
+        "published_date": "2026-05-18 14:37:08",
+        "category": "Local Events"
+    },
+    {
         "title": "Paloma Valencia, the most fervent graduate of Uribism",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/silla-nacional/paloma-valencia-la-graduada-mas-fervorosa-del-uribismo/",
         "published_date": "2026-05-18 13:56:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Atlantic |Man wanted for extortion and conspiracy to commit a crime captured at Ernesto Cortissoz airport",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/atlantico-capturan-en-aeropuerto-ernesto-cortissoz-a-hombre-requerido-por-extorsion-y-concierto-para-delinquir-3556501",
+        "published_date": "2026-05-18 13:01:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Hitman attack in Barranquilla billiards left seven injured: they investigate possible adjustment linked to 'drop by drop' charges",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/ataque-sicarial-en-billar-de-barranquilla-dejo-siete-heridos-investigan-posible-ajuste-ligado-a-cobros-gota-a-gota-3556490",
+        "published_date": "2026-05-18 11:34:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Blow to child abuse: six alleged child abusers fall in Antioquia",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/golpe-al-abuso-infantil-caen-seis-presuntos-agresores-de-menores-en-antioquia-3556488",
+        "published_date": "2026-05-18 11:20:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "The urgent call from the Cali Personer\u00eda to stop deaths on the new Bicentenario road: they propose installing photomult cameras and reducers",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/el-urgente-llamado-de-la-personeria-de-cali-para-frenar-las-muertes-en-la-nueva-via-bicentenario-proponen-instalar-camaras-de-fotomultas-y-reductores-3556484",
+        "published_date": "2026-05-18 10:45:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "Controversial Russian citizen who tormented residents of El Poblado for noisy parties is expelled from the country for the second time: he was trying to return to Medell\u00edn",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/expulsan-del-pais-por-segunda-vez-a-polemico-ciudadano-ruso-que-atormentaba-a-vecinos-de-el-poblado-por-ruidosas-fiestas-intentaba-volver-a-medellin-3556475",
+        "published_date": "2026-05-18 09:22:16",
         "category": "Local Events"
     },
     {
@@ -452,90 +536,6 @@
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/el-volcan-purace-en-cauca-continua-en-actividad-pero-se-mantiene-la-alerta-amarilla-4394750",
         "published_date": "2026-05-17 18:40:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "Exclusive: the Government of Antioquia has sent 60 letters to the National Government requesting military intervention in Brice\u00f1o from 2024",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/exclusivo-la-gobernacion-de-antioquia-ha-enviado-60-oficios-al-gobierno-nacional-solicitando-intervencion-militar-en-briceno-desde-3555887",
-        "published_date": "2026-05-17 18:07:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "Caribbean ranchers warn of crisis due to El Ni\u00f1o phenomenon: small producers would be the most affected by drought and rising costs",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/ganaderos-del-caribe-alertan-crisis-por-fenomeno-de-el-nino-pequenos-productores-serian-los-mas-afectados-por-sequia-y-alza-de-costos-3556410",
-        "published_date": "2026-05-17 17:01:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Massacre in Antioquia: four people murdered in Marinilla",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/masacre-en-antioquia-cuatro-personas-asesinadas-en-marinilla/",
-        "published_date": "2026-05-17 15:55:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "Emsa: better indicators, same problems",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/emsa-mejores-indicadores-mismos-problemas/",
-        "published_date": "2026-05-17 15:21:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "Atlantic |Extortion and theft of motorcycles generate fear in Soledad: drivers report illegal charges and threats from gangs",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/atlantico-extorsiones-y-robo-de-motocarros-generan-miedo-en-soledad-conductores-denuncian-cobros-ilegales-y-amenazas-de-bandas-3556378",
-        "published_date": "2026-05-17 15:01:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Behind the scenes of 'Climate Week': How did Medell\u00edn manage to win this important environmental summit in 2026?",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/detras-de-bambalinas-de-la-climate-week-como-logro-medellin-quedarse-con-esta-importante-cumbre-ambiental-en-3556405",
-        "published_date": "2026-05-17 14:05:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cI hope \u00c1lex Saab does not hire a lawyer candidate\u201d: Paloma",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/ojala-alex-saab-no-contrate-un-candidato-de-abogado-paloma/",
-        "published_date": "2026-05-17 14:02:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Government proposes ending the Autopistas del Caf\u00e9 concession after ending the contract",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/gobierno-propone-acabar-concesion-de-autopistas-del-cafe-tras-finalizacion-de-contrato-4394689",
-        "published_date": "2026-05-17 14:02:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "The questions that Santa Marta left about a fair energy transition",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-verde/las-preguntas-que-dejo-santa-marta-sobre-una-transicion-energetica-justa/",
-        "published_date": "2026-05-17 14:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Supersalud registered more than 87,000 complaints from users with high blood pressure",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/supersalud-registro-mas-de-87-000-reclamos-de-usuarios-con-hipertension-arterial-4394685",
-        "published_date": "2026-05-17 13:33:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Valle del Cauca: deputy mayor who attacked a patrol vehicle in Cartago is dismissed and disqualified for 12 years",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/valle-del-cauca-destituyen-e-inhabilitan-por-12-anos-a-subintendente-que-agredio-a-una-patrullera-en-cartago-3556401",
-        "published_date": "2026-05-17 13:27:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Peasants call for a national march after scuffle between Petro and Supreme Court over functions of the ANT: these are the concentration points",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/campesinos-convocan-a-marcha-nacional-tras-rifirrafe-entre-petro-y-corte-suprema-por-funciones-de-la-ant-estos-son-los-puntos-de-concentracion-3556388",
-        "published_date": "2026-05-17 12:44:01",
         "category": "Local Events"
     }
 ]
