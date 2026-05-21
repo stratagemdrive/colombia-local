@@ -1,5 +1,12 @@
 [
     {
+        "title": "Petro joins the block that promotes Michelle Bachelet for the UN",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/petro-se-suma-al-bloque-que-impulsa-a-michelle-bachelet-para-la-onu/",
+        "published_date": "2026-05-20 21:07:15",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Bolivia expels Colombian ambassador due to Petro's interference",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/bolivia-expulsa-a-embajadora-de-colombia-por-injerencia-de-petro/",
@@ -61,6 +68,13 @@
         "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-claves-de-este-13-de-mayo-de-2026/",
         "published_date": "2026-05-14 00:25:30",
         "category": "Diplomacy"
+    },
+    {
+        "title": "The security plan so that 5.4 million Antioque\u00f1os vote without fear on May 31 for the presidential elections",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/el-plan-de-seguridad-para-que-5-4-millones-de-antioquenos-voten-sin-miedo-el-31-de-mayo-para-las-elecciones-presidenciales-3557134",
+        "published_date": "2026-05-20 17:32:05",
+        "category": "Military"
     },
     {
         "title": "After leaving the Cepeda event, Alex L\u00f3pez suffered an attack in Cauca",
@@ -196,11 +210,18 @@
         "category": "Military"
     },
     {
-        "title": "They prosecute alias 'Emerardo', a FARC dissident accused of ambushing the Army in Tulu\u00e1, Valle",
+        "title": "The keys to the economy left by 'For a growing Colombia 2026-2045'",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/las-claves-para-la-economia-que-dejo-por-una-colombia-en-crecimiento-2026-2045-4396424",
+        "published_date": "2026-05-20 19:28:45",
+        "category": "Energy"
+    },
+    {
+        "title": "The creation of a mining company for the extraction of gold ignites the debate in Nari\u00f1o: 'It intends to transform informal mining into a legal economy'",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/judicializan-a-alias-emerardo-disidente-de-las-farc-senalado-de-emboscar-al-ejercito-en-tulua-valle-3556257",
-        "published_date": "2026-05-16 12:21:30",
-        "category": "Military"
+        "url": "https://www.eltiempo.com/colombia/cali/la-creacion-de-una-empresa-minera-para-la-extraccion-de-oro-enciende-el-debate-en-narino-pretende-transformar-la-mineria-informal-en-economia-legal-3557125",
+        "published_date": "2026-05-20 17:24:02",
+        "category": "Energy"
     },
     {
         "title": "Ecopetrol announced that it is advancing in the acquisition of the Jemeiwaa Ka'l wind cluster",
@@ -329,18 +350,11 @@
         "category": "Energy"
     },
     {
-        "title": "Foreign Direct Investment in April totaled US$921 million, fell 8.7%",
+        "title": "Minhacienda regulated the non-accrual of the tax on single-use plastics",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/inversion-extranjera-directa-en-abril-sumo-un-total-de-us-921-millones-se-redujo-en-8-7-4393803",
-        "published_date": "2026-05-15 19:31:24",
-        "category": "Energy"
-    },
-    {
-        "title": "Will there be rationing?The urgent solutions proposed by Antioquia to guarantee energy in the country",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/habra-racionamiento-las-soluciones-urgentes-que-plantea-antioquia-para-garantizar-la-energia-en-el-pais-3556123",
-        "published_date": "2026-05-15 19:01:00",
-        "category": "Energy"
+        "url": "https://www.larepublica.co/economia/minhacienda-reglamento-la-no-causacion-del-impuesto-a-plasticos-de-un-solo-uso-4396410",
+        "published_date": "2026-05-20 17:53:57",
+        "category": "Economy"
     },
     {
         "title": "Monetary and fiscal coordination goes beyond elections",
@@ -406,150 +420,143 @@
         "category": "Economy"
     },
     {
-        "title": "External debt in February reached US$252,168 million, which is equivalent to 55% of GDP",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/deuda-externa-en-febrero-llego-a-us-252-168-millones-lo-que-equivale-a-55-del-pib-4390578",
-        "published_date": "2026-05-12 14:53:52",
-        "category": "Economy"
-    },
-    {
-        "title": "Have an informed breakfast with the keys for this May 20, 2026",
+        "title": "The creation of a global action plan to stop deforestation advances",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-claves-de-este-20-de-mayo-de-2026/",
-        "published_date": "2026-05-20 12:21:54",
+        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/avanza-la-creacion-de-plan-de-accion-mundial-para-detener-la-deforestacion/",
+        "published_date": "2026-05-20 23:43:46",
         "category": "Local Events"
     },
     {
-        "title": "Iv\u00e1n Cepeda and Morena's mirror",
+        "title": "CNE measure that stopped Atlas Intel surveys falls",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/ivan-cepeda-y-el-espejo-de-morena/",
-        "published_date": "2026-05-20 12:00:00",
+        "url": "https://www.lasillavacia.com/en-vivo/se-cae-medida-del-cne-que-frenaba-encuestas-de-atlas-intel/",
+        "published_date": "2026-05-20 23:11:14",
         "category": "Local Events"
     },
     {
-        "title": "The five proposals of the communities of Turbaco (Bol\u00edvar) to definitively eradicate the toll, which they consider arbitrary",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/las-cinco-propuestas-de-las-comunidades-de-turbaco-bolivar-para-erradicar-definitivamente-el-peaje-que-consideran-una-arbitrariedad-3556941",
-        "published_date": "2026-05-20 08:18:32",
+        "title": "\"Regulations hold us back a lot from developing things that are competitive\"",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/la-normatividad-nos-frena-mucho-para-desarrollar-cosas-que-sean-competitivas-4396676",
+        "published_date": "2026-05-20 22:19:30",
         "category": "Local Events"
     },
     {
-        "title": "Tremor in the department of Choc\u00f3 during the early hours of this Wednesday, May 20: epicenter, magnitude and details",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/temblor-en-el-departamento-del-choco-durante-la-madrugada-de-este-miercoles-20-de-mayo-epicentro-magnitud-y-detalles-3556910",
-        "published_date": "2026-05-20 07:57:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The feared Pan-American highway, after the attempted kidnapping of a senator and the theft of the truck of the mayor of Santander de Quilichao, at a checkpoint in Cauca",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/la-temida-via-panamericana-tras-intento-de-secuestro-de-un-senador-y-el-robo-de-la-camioneta-del-alcalde-de-santander-de-quilichao-en-reten-en-cauca-3556918",
-        "published_date": "2026-05-20 07:06:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "Public debt breaks the 15% barrier two weeks before the elections",
+        "title": "Wilmer Castellanos resigned from the House of Representatives",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/la-deuda-publica-rompe-la-barrera-del-15-a-dos-semanas-de-las-elecciones/",
-        "published_date": "2026-05-20 06:00:00",
+        "url": "https://www.lasillavacia.com/en-vivo/wilmer-castellanos-renuncio-a-la-camara-de-representantes/",
+        "published_date": "2026-05-20 22:04:02",
         "category": "Local Events"
     },
     {
-        "title": "One in three foreign purchases comes from China driven by the arrival of cars",
+        "title": "ANI announced differential rates in three tolls of the Autopistas del Caf\u00e9 concession",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/una-de-cada-tres-compras-externas-vienen-de-china-impulsado-por-llegada-de-vehiculos-4395866",
-        "published_date": "2026-05-20 05:01:47",
+        "url": "https://www.larepublica.co/economia/ani-anuncio-tarifas-diferenciales-en-tres-peajes-de-la-concesion-autopistas-del-cafe-4396657",
+        "published_date": "2026-05-20 22:01:07",
         "category": "Local Events"
     },
     {
-        "title": "One hour of blackout due to the El Ni\u00f1o phenomenon could cost up to $204 billion",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/una-hora-de-apagon-por-fenomeno-de-el-nino-costaria-hasta-204-000-millones-4395934",
-        "published_date": "2026-05-20 05:01:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Comptroller's Office warns that the fiscal deficit goal of 5.1% at the end of the year will not be met",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/contraloria-advierte-que-no-se-cumplira-meta-de-deficit-fiscal-de-5-1-al-cierre-del-ano-4395829",
-        "published_date": "2026-05-20 05:00:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Avoid fines!This is how the peak and plate operates in Cali for Wednesday, May 20, 2026",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/evite-multas-asi-opera-el-pico-y-placa-en-cali-para-el-miercoles-20-de-mayo-de-3556503",
-        "published_date": "2026-05-20 02:33:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Petro asked to advance the tariff decree to \"defend Colombia's industry\"",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/implementacion-de-aranceles-de-gustavo-petro-4396057",
-        "published_date": "2026-05-20 02:31:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "Follow the mobility measure!Peak and plaque in Bucaramanga for Wednesday, May 20, 2026",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/siga-la-medida-de-movilidad-pico-y-placa-en-bucaramanga-para-el-miercoles-20-de-mayo-de-2026-3556721",
-        "published_date": "2026-05-20 02:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Be careful, driver!Peak and plaque in Pereira for Wednesday, May 20, 2026",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/ojo-conductor-pico-y-placa-en-pereira-para-el-miercoles-20-de-mayo-de-3556713",
-        "published_date": "2026-05-20 02:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Batteries!Peak and plate in Medell\u00edn for Wednesday, May 20, 2026: know the schedules and recommendations for drivers",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/pilas-pico-y-placa-en-medellin-para-el-miercoles-20-de-mayo-de-2026-conozca-los-horarios-y-recomendaciones-para-conductores-3556511",
-        "published_date": "2026-05-20 02:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The creation of value in the internationalization of university academic processes",
+        "title": "The top 10 finalists are ready for the election of the next comptroller",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-educacion/la-creacion-de-valor-en-la-internacionalizacion-de-los-procesos-academicos-universitarios/",
-        "published_date": "2026-05-20 00:41:09",
+        "url": "https://www.lasillavacia.com/en-vivo/listo-el-top-10-de-finalistas-para-la-eleccion-del-proximo-contralor/",
+        "published_date": "2026-05-20 21:47:01",
         "category": "Local Events"
     },
     {
-        "title": "Bogot\u00e1-Region grew 5.3% in foreign investment and entered the top three in Latin America",
+        "title": "National Government published for comments the Conpes of railway modernization",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/bogota-region-crecio-5-3-en-inversion-extranjera-y-entro-al-top-tres-de-america-latina-4395994",
-        "published_date": "2026-05-20 00:25:13",
+        "url": "https://www.larepublica.co/economia/gobierno-nacional-publico-para-comentarios-el-conpes-de-modernizacion-ferroviaria-4396572",
+        "published_date": "2026-05-20 21:09:53",
         "category": "Local Events"
     },
     {
-        "title": "Sleep informed with the keys for this May 19, 2026",
+        "title": "Rising temperatures would risk habitats of terrestrial animals",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-claves-de-este-19-de-mayo-de-2026/",
-        "published_date": "2026-05-20 00:15:59",
+        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/aumento-de-temperaturas-arriesgaria-habitats-de-animales-terrestres/",
+        "published_date": "2026-05-20 21:01:06",
         "category": "Local Events"
     },
     {
-        "title": "The Habitat Secretariat will lead the Bogot\u00e1 agenda at the World Urban Forum",
+        "title": "It's already done: the United States charged Ra\u00fal Castro",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/ya-esta-hecho-estados-unidos-imputo-a-raul-castro/",
+        "published_date": "2026-05-20 19:50:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ideam presented its conclusions on Colombia from the WMO state of the climate report",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/la-secretaria-de-habitat-liderara-la-agenda-de-bogota-en-el-foro-urbano-mundial-4395908",
-        "published_date": "2026-05-20 00:04:52",
+        "url": "https://www.larepublica.co/economia/ideam-presento-conclusiones-del-informe-del-estado-del-clima-de-la-omm-en-2025-4396481",
+        "published_date": "2026-05-20 18:47:46",
         "category": "Local Events"
     },
     {
-        "title": "More than 15,000 Bogota residents received a commemorative Metro card for a voluntary contribution",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/mas-de-15-000-bogotanos-recibieron-tarjeta-conmemorativa-del-metro-por-aporte-voluntario-4395973",
-        "published_date": "2026-05-19 23:58:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "'It can't stay like this': woman attacked by app transport driver in Cali raises her voice after a brutal beating that lasted more than 4 minutes",
+        "title": "School transporter was murdered in Barranquilla when he was leaving his granddaughter at home: crime revives alert due to pressure in the driver sector",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/no-puede-quedar-asi-mujer-agredida-por-conductor-de-transporte-por-aplicacion-en-cali-alza-la-voz-tras-una-brutal-golpiza-de-mas-de-4-minutos-3556891",
-        "published_date": "2026-05-19 23:33:46",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/transportador-escolar-fue-asesinado-en-barranquilla-cuando-dejaba-a-su-nieta-en-casa-crimen-reaviva-alerta-por-presion-en-el-sector-de-los-choferes-3557160",
+        "published_date": "2026-05-20 18:40:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Velez in the morning |Gustavo G\u00f3mez C\u00f3rdoba analyzes what is coming for the elections: 'They are united by the defense of institutions'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/velez-por-la-manana-gustavo-gomez-cordoba-analiza-lo-que-viene-para-las-elecciones-nos-une-la-defensa-de-la-institucionalidad-3557151",
+        "published_date": "2026-05-20 18:32:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "Campaign Diary: Petro talks about his future after the elections",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/diario-de-campana-petro-habla-de-su-futuro-tras-las-elecciones/",
+        "published_date": "2026-05-20 18:16:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "What actions are they taking in Cali, following the decision of the Ministry of Transportation to invalidate photo fines in Colombia for alleged irregularities?",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/que-acciones-toman-en-cali-tras-la-decision-de-mintransporte-de-invalidar-fotomultas-en-colombia-por-presuntas-irregularidades-3557146",
+        "published_date": "2026-05-20 18:13:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "CAF requested more financial structuring for biodiversity and conservation projects",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/caf-pidio-mayor-estructuracion-financiera-para-proyectos-de-biodiversidad-y-conservacion-4396449",
+        "published_date": "2026-05-20 18:13:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cepeda demands forgiveness from Paloma for land dispossession in Cauca",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/cepeda-exige-perdon-de-paloma-por-despojo-de-tierras-en-cauca/",
+        "published_date": "2026-05-20 18:08:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tension in Caldas (Antioquia): citizens protest with garbage in front of the Mayor's Office due to controversial waste plant",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/tension-en-caldas-antioquia-ciudadanos-protestan-con-basura-frente-a-la-alcaldia-por-polemica-planta-de-residuos-3557152",
+        "published_date": "2026-05-20 18:06:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "The bomb proposals of Abelardo De La Espriella's program",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/las-propuestas-bomba-de-abelardo-de-la-espriella/",
+        "published_date": "2026-05-20 18:00:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "167 families, 1,481 hectares and three decades of struggle: the National Land Agency gives title to the Afro community of Buenaventura",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/167-familias-1-481-hectareas-y-tres-decadas-de-lucha-la-agencia-nacional-de-tierras-entrega-titulo-a-comunidad-afro-de-buenaventura-3557140",
+        "published_date": "2026-05-20 17:58:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "Outrage over the murder of a 31-year-old man at the hands of a teenager in P\u00e1ramo, Santander: a fight led to an act of intolerance",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/indignacion-por-homicidio-de-un-hombre-de-31-anos-en-manos-de-un-adolescente-en-paramo-santander-una-rina-genero-el-acto-de-intolerancia-en-el-menor-3557141",
+        "published_date": "2026-05-20 17:57:32",
         "category": "Local Events"
     }
 ]
