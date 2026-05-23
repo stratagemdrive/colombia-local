@@ -70,13 +70,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Sleep informed with the keys for this May 14, 2026",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-claves-de-este-14-de-mayo-de-2026/",
-        "published_date": "2026-05-15 00:14:16",
-        "category": "Diplomacy"
-    },
-    {
         "title": "They report strong fighting between the Army and FARC dissidents: they are investigating whether alias Chal\u00e1, accused of the murder of journalist Mateo P\u00e9rez, was killed",
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/medellin/reportan-fuertes-combates-entre-ejercito-y-disidencias-farc-investigan-si-fue-abatido-alias-chala-senalado-del-homicidio-del-periodista-mateo-perez-3557762",
@@ -217,6 +210,27 @@
         "category": "Military"
     },
     {
+        "title": "Hydroelectric plants accumulate $48 billion in reliability charge payments",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/generadoras-hidroelectricas-acumulan-48-billones-en-pagos-por-cargo-por-confiabilidad-4398714",
+        "published_date": "2026-05-23 05:00:03",
+        "category": "Energy"
+    },
+    {
+        "title": "We will not give up the voice",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/no-vamos-a-entregar-la-voz/",
+        "published_date": "2026-05-23 01:33:44",
+        "category": "Energy"
+    },
+    {
+        "title": "The Creg energy auction generated 15 projects for nearly $16 billion",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/la-subasta-de-energia-de-la-creg-genero-15-proyectos-por-cerca-de-16-billones-4398795",
+        "published_date": "2026-05-23 00:52:38",
+        "category": "Energy"
+    },
+    {
         "title": "At the end of Cepeda's campaign, signatures are collected for the Constituent Assembly",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/en-cierre-de-campana-de-cepeda-se-recogen-firmas-para-la-constituyente/",
@@ -336,27 +350,6 @@
         "category": "Energy"
     },
     {
-        "title": "Anif warned that due to the arrival of the El Ni\u00f1o phenomenon, inflation could reach 7%",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/anif-alerto-que-por-la-llegada-de-el-fenomeno-de-el-nino-la-inflacion-podria-llegar-a-7-4395635",
-        "published_date": "2026-05-19 23:13:18",
-        "category": "Energy"
-    },
-    {
-        "title": "Influencer charged with alleged mistreatment of wild animals",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/imputan-a-influencer-por-presunto-maltrato-a-animales-silvestres/",
-        "published_date": "2026-05-19 23:01:30",
-        "category": "Energy"
-    },
-    {
-        "title": "Accumulated fiscal spending as of April remains at levels above average",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/gasto-fiscal-acumulado-a-abril-se-mantiene-en-niveles-superiores-al-promedio-4395799",
-        "published_date": "2026-05-19 22:50:41",
-        "category": "Energy"
-    },
-    {
         "title": "MinHacienda again refused to lower the VAT on aircraft fuel from 19% to 5%",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/minhacienda-se-nego-otra-vez-a-bajar-de-19-a-5-el-iva-a-combustibles-para-avion-4398452",
@@ -413,24 +406,73 @@
         "category": "Economy"
     },
     {
-        "title": "Markets project that GDP at the end of the first quarter will be between 1.9% and 2.5%",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/mercado-proyecta-que-el-pib-a-cierre-del-primer-trimestre-sera-de-entre-1-9-y-2-5-4393024",
-        "published_date": "2026-05-15 05:01:59",
-        "category": "Economy"
+        "title": "There was closure at the Valledupar airport after a failure in an Aerospace Force helicopter: this is known",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/hubo-cierre-en-el-aeropuerto-de-valledupar-tras-falla-en-un-helicoptero-de-la-fuerza-aeroespacial-3557835",
+        "published_date": "2026-05-23 06:43:54",
+        "category": "Local Events"
     },
     {
-        "title": "Public Credit will seek to diversify external debt with Asian currencies",
+        "title": "The crisis of the Colombian health system cannot be cured with ideologies",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/la-crisis-del-sistema-de-salud-colombiano-no-se-cura-con-ideologias/",
+        "published_date": "2026-05-23 05:05:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cSinigan's next phase will include poultry and pork sectors for traceability\u201d",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/direccion-de-credito-publico-buscara-diversificar-la-deuda-externa-con-monedas-asiaticas-4393045",
-        "published_date": "2026-05-15 05:01:08",
-        "category": "Economy"
+        "url": "https://www.larepublica.co/economia/entrevista-con-la-gerente-general-del-ica-paula-andrea-cepeda-sobre-el-sistema-sinigan-4397862",
+        "published_date": "2026-05-23 05:01:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "Paloma fills the square in Barranquilla with politicians and vallenato singer",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/paloma-llena-plaza-en-barranquilla-con-politicos-y-cantante-vallenato/",
+        "published_date": "2026-05-23 02:09:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "Sleep informed with the movements of this May 22, 2026",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-movidas-de-este-22-de-mayo-de-2026/",
+        "published_date": "2026-05-23 01:45:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "Andi joined the wave of unions that have expressed their concern about blockades",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/andi-se-sumo-a-la-ola-de-gremios-que-han-manifiestado-su-preocupacion-por-bloqueos-en-buenaventura-4398877",
+        "published_date": "2026-05-23 01:28:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "Atlas Intel: Cepeda and Abelardo arrive in a technical tie in the first round",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/atlas-intel-cepeda-y-abelardo-llegan-en-empate-tecnico-en-primera-vuelta/",
+        "published_date": "2026-05-23 00:50:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "Fenavi warned that blockades in Buenaventura increased costs by up to 240%",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/fenavi-alerto-que-bloqueos-en-buenaventura-incrementaron-costos-en-hasta-240-4398784",
+        "published_date": "2026-05-23 00:18:54",
+        "category": "Local Events"
     },
     {
         "title": "Finally, Cabal apologizes for statements about UP genocide",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/finalmente-cabal-pide-disculpas-por-declaraciones-sobre-genocidiola-up/",
         "published_date": "2026-05-23 00:04:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Atlas Intel black box overestimates abelardo before each vote",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/caja-negra-de-atlas-intel-infla-a-abelardo-antes-de-cada-votacion/",
+        "published_date": "2026-05-22 23:55:35",
         "category": "Local Events"
     },
     {
@@ -441,10 +483,24 @@
         "category": "Local Events"
     },
     {
+        "title": "Fajardo accepts the red wine from Paloma, but does not move in the first round",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/fajardo-le-acepta-el-tinto-a-paloma-pero-no-se-mueve-en-primera-vuelta/",
+        "published_date": "2026-05-22 23:17:16",
+        "category": "Local Events"
+    },
+    {
         "title": "Fajardo accepts Paloma's red wine, but does not move first",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/fajardo-le-acepta-el-tinto-a-paloma-pero-no-se-mueve-de-primera/",
         "published_date": "2026-05-22 23:17:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "Revelations from the Misak authority of the Guamb\u00eda reservation, after clashes with Nasa indigenous people: ANT specifies the situation of the disputed property",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/las-revelaciones-de-autoridad-del-resguardo-de-guambia-tras-violentos-enfrentamientos-con-indigenas-nasas-ant-precisa-situacion-de-predio-en-disputa-3557811",
+        "published_date": "2026-05-22 22:57:10",
         "category": "Local Events"
     },
     {
@@ -459,6 +515,13 @@
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/computadores-para-educar-confirmo-recepcion-de-41-259-portatiles-con-fallas-operativas-4398592",
         "published_date": "2026-05-22 22:42:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "Four days of tension, a route of commitments: the balance of the voluntary uprising of the Minga Cali sit-in after days of consultation",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/cuatro-dias-de-tension-una-ruta-de-compromisos-el-balance-del-levantamiento-voluntario-del-planton-de-la-minga-cali-tras-jornadas-de-concertacion-3557823",
+        "published_date": "2026-05-22 22:41:39",
         "category": "Local Events"
     },
     {
@@ -480,90 +543,6 @@
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/colfecar-abirtio-que-en-el-ano-ya-van-17-en-la-via-a-buenaventura-y-exigio-medidas-4398476",
         "published_date": "2026-05-22 21:12:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Petro constituent is the largest red line in the center in front of Cepeda",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/la-constituyente-de-petro-es-la-mayor-linea-roja-del-centro-frente-a-cepeda/",
-        "published_date": "2026-05-22 21:11:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "After clash with Uribism, senator from Abelardo apologizes to Uribe",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/tras-choque-con-el-uribismo-senador-de-abelardo-se-disculpa-con-uribe/",
-        "published_date": "2026-05-22 20:25:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Train of Line 1 of the Bogot\u00e1 Metro makes its first test leaving the viaduct",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/tren-de-la-linea-1-del-metro-de-bogota-hace-su-primera-prueba-saliendo-al-viaducto-4398411",
-        "published_date": "2026-05-22 19:18:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "More details are known about the state in which one of the missing tourists in Buenaventura would have been found: they offer a million-dollar reward",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/se-conocen-mas-detalles-del-estado-en-el-que-habria-sido-encontrado-uno-de-los-turistas-desaparecidos-en-buenaventura-ofrecen-millonaria-recompensa-3557778",
-        "published_date": "2026-05-22 18:56:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "The stories behind deaths due to irregular aesthetic procedures that have shocked Barranquilla: garage clinics, the guilty constant",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/las-historias-detras-de-muertes-por-procedimientos-esteticos-irregulares-que-han-conmocionado-a-barranquilla-clinicas-de-garaje-la-constante-culposa-3557765",
-        "published_date": "2026-05-22 18:50:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "On the eve of the presidential elections, the Registry warns that in more than 100 municipalities there is social control by illegal groups",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/en-visperas-de-las-elecciones-presidenciales-desde-la-registraduria-se-alerta-que-en-mas-de-100-municipios-hay-control-social-de-grupos-ilegales-3557772",
-        "published_date": "2026-05-22 18:13:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "Anla will have a technical table with Hidroituango to guarantee that it operates at the maximum level",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/anla-tendra-mesa-tecnica-con-hidroituango-para-garantizar-que-opere-a-nivel-maximo-4398366",
-        "published_date": "2026-05-22 18:12:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Machinery to advance works of the Western Regiotram arrived in Barranquilla",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/maquinaria-para-avance-de-obras-del-regiotram-de-occidente-llego-a-barranquilla-4398329",
-        "published_date": "2026-05-22 18:10:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "The story of the teacher who came to Cartagena to teach Palenquero: Gleidis Paola Salgado will teach the language that was born with the African diaspora",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/la-historia-de-la-profesora-que-llego-a-cartagena-para-ensenar-palenquero-gleidis-paola-salgado-dictara-la-lengua-que-nacio-con-la-diaspora-africana-3557759",
-        "published_date": "2026-05-22 18:04:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Attorney General's Office requested an assessment of 19 months of intervention by Air-e from Superservicios",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/procuraduria-pidio-balance-financiero-de-19-meses-de-intervencion-de-air-e-a-la-superservicios-4398345",
-        "published_date": "2026-05-22 17:56:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "'They are not problems of the Valley, they are of the entire country': Dilian Francisca Toro demands that the National Government intervene in blocking the road to Buenaventura",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/no-son-problemas-del-valle-son-de-todo-el-pais-dilian-francisca-toro-exige-al-gobierno-nacional-que-intervenga-en-bloqueo-de-la-via-a-buenaventura-3557757",
-        "published_date": "2026-05-22 17:49:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Harsh offensive against vehicle washes that stole water and polluted the environment in Santa Marta: nine are captured",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/dura-ofensiva-contra-lavaderos-de-vehiculos-que-robaban-agua-y-contaminaban-el-medio-ambiente-en-santa-marta-hay-nueve-capturados-3557761",
-        "published_date": "2026-05-22 17:42:28",
         "category": "Local Events"
     }
 ]
