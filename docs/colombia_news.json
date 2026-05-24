@@ -70,6 +70,13 @@
         "category": "Diplomacy"
     },
     {
+        "title": "A 17-year-old minor died in the midst of fighting between the public force and the dissidents of alias Chal\u00e1 in Brice\u00f1o, Antioquia",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/un-menor-de-17-anos-murio-en-medio-de-combates-entre-la-fuerza-publica-y-las-disidencias-de-alias-chala-en-briceno-antioquia-3557933",
+        "published_date": "2026-05-23 20:15:33",
+        "category": "Military"
+    },
+    {
         "title": "The value of life should not be less than money",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/red-de-expertos/red-de-las-mujeres/el-valor-de-la-vida-no-deberia-estar-por-debajo-del-dinero/",
@@ -200,13 +207,6 @@
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/las-cuatro-propuestas-que-entrego-colombia-progresa-2630-para-el-sistema-energetico-4395521",
         "published_date": "2026-05-19 19:40:29",
-        "category": "Military"
-    },
-    {
-        "title": "The key clues that the Police found in the place where they found Yulixa Toloza, in Apulo, after disappearing in a beauty salon in Bogot\u00e1",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/las-pistas-clave-que-encontro-la-policia-en-el-lugar-donde-encontraron-a-yulixa-toloza-en-apulo-tras-desaparecer-en-una-estetica-de-bogota-3556815",
-        "published_date": "2026-05-19 17:56:58",
         "category": "Military"
     },
     {
@@ -385,6 +385,20 @@
         "category": "Economy"
     },
     {
+        "title": "Advertising on popular radio: Cepeda and Paloma sound more",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/la-publicidad-en-radio-popular-cepeda-y-paloma-suenan-mas/",
+        "published_date": "2026-05-24 06:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Petro sent Minister Palma to investigate subcontracting that ISA has in Peru",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/petro-envia-al-ministro-de-energia-palma-a-investigar-subcontrataciones-de-isa-en-peru-4399274",
+        "published_date": "2026-05-24 00:53:48",
+        "category": "Local Events"
+    },
+    {
         "title": "The country changed",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/opinion/el-pais-cambio/",
@@ -424,6 +438,13 @@
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/red-de-expertos/todos-hablan-nadie-escucha/",
         "published_date": "2026-05-23 19:55:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Barranquilla Carnival arrives at the Teatro Mayor in Bogot\u00e1: 120 artists will bring the Caribbean festival, tradition and dance will take the stage",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/el-carnaval-de-barranquilla-llega-al-teatro-mayor-de-bogota-120-artistas-llevaran-la-fiesta-del-caribe-tradicion-y-danza-subiran-al-escenario-3557926",
+        "published_date": "2026-05-23 19:48:24",
         "category": "Local Events"
     },
     {
@@ -501,27 +522,6 @@
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/medellin/inadmitieron-a-estadounidense-senalado-de-realizar-fiestas-privadas-de-inmersion-para-extranjeros-en-medellin-indagan-nexos-con-trata-de-personas-3557862",
         "published_date": "2026-05-23 11:11:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "'We have not denied anything to this road': Eduardo Verano highlights progress made by Gran V\u00eda and its commitment to digital connectivity",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/no-le-hemos-negado-nada-a-esta-via-eduardo-verano-destaca-avances-de-la-gran-via-y-su-apuesta-por-la-conectividad-digital-3557856",
-        "published_date": "2026-05-23 11:01:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "V\u00eda a Buenaventura already adjusts five days of blockades: Andi issues a warning;There are multimillion-dollar losses and they request the presence of the MinMinas",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/via-a-buenaventura-ya-ajusta-cinco-dias-de-bloqueos-andi-lanza-advertencia-hay-perdidas-multimillonarias-y-solicitan-la-presencia-del-minminas-3557858",
-        "published_date": "2026-05-23 10:34:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "There was closure at the Valledupar airport after a failure in an Aerospace Force helicopter: this is known",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/hubo-cierre-en-el-aeropuerto-de-valledupar-tras-falla-en-un-helicoptero-de-la-fuerza-aeroespacial-3557835",
-        "published_date": "2026-05-23 06:43:54",
         "category": "Local Events"
     }
 ]
