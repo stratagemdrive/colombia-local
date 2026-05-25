@@ -1,5 +1,19 @@
 [
     {
+        "title": "Petro asks to send surplus Colombian rice to Cuba after donation from China",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/petro-pide-enviar-excedentes-de-arroz-colombiano-a-cuba-tras-donacion-hecha-por-china-4399466",
+        "published_date": "2026-05-24 23:01:43",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Federico Guti\u00e9rrez, mayor of Medell\u00edn, rejected the resumption of the Itag\u00fc\u00ed prison table: 'Those who make war instrumentalize peace'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/federico-gutierrez-alcalde-de-medellin-rechazo-la-reanudacion-de-la-mesa-de-la-carcel-de-itaguei-instrumentalizan-la-paz-los-que-hacen-la-guerra-3558057",
+        "published_date": "2026-05-24 18:37:19",
+        "category": "Diplomacy"
+    },
+    {
         "title": "UN Supports responsibility of countries in climate change",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/onu-aprueba-responsabilidades-de-los-paises-con-el-cambio-climatico/",
@@ -68,6 +82,20 @@
         "url": "https://www.lasillavacia.com/en-vivo/cancilleria-de-bolivia-pide-a-petro-no-meterse-en-su-politica-interna/",
         "published_date": "2026-05-18 16:56:40",
         "category": "Diplomacy"
+    },
+    {
+        "title": "Drone attack in Catatumbo left one soldier dead and seven more injured: ELN would have generated the attack due to alleged retaliation",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/ataque-con-drones-en-catatumbo-dejo-un-militar-muerto-y-siete-mas-heridos-eln-habria-generado-el-atentado-por-supuestas-retaliaciones-3558047",
+        "published_date": "2026-05-24 17:18:41",
+        "category": "Military"
+    },
+    {
+        "title": "Alias \u200b\u200bP\u00e9rez, leader of 'Los Espartanos' in Buenaventura, fell;In the operation, 10 members of criminal groups were captured",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/cayo-alias-perez-cabecilla-de-los-espartanos-en-buenaventura-en-el-operativo-fueron-capturados-10-integrantes-de-grupos-delincuenciales-3558023",
+        "published_date": "2026-05-24 14:25:00",
+        "category": "Military"
     },
     {
         "title": "A 17-year-old minor died in the midst of fighting between the public force and the dissidents of alias Chal\u00e1 in Brice\u00f1o, Antioquia",
@@ -193,20 +221,6 @@
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/programa-colombia-sostenible-beneficio-a-mas-de-36-000-familias-rurales-desde-2019-4395131",
         "published_date": "2026-05-20 05:01:40",
-        "category": "Military"
-    },
-    {
-        "title": "Attorney asks Petro to create a \u201cclimate of peace and security\u201d in elections",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/procurador-pide-a-petro-crear-un-clima-de-paz-y-seguridad-en-elecciones/",
-        "published_date": "2026-05-19 23:55:06",
-        "category": "Military"
-    },
-    {
-        "title": "The four proposals that Colombia Progresa 2630 delivered for the energy system",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/las-cuatro-propuestas-que-entrego-colombia-progresa-2630-para-el-sistema-energetico-4395521",
-        "published_date": "2026-05-19 19:40:29",
         "category": "Military"
     },
     {
@@ -350,6 +364,20 @@
         "category": "Energy"
     },
     {
+        "title": "Between 2014 and 2015, De la Espriella benefited from Alex Saab transactions",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/entre-2014-y-2015-de-la-espriella-se-beneficio-de-transacciones-de-alex-saab/",
+        "published_date": "2026-05-24 21:05:31",
+        "category": "Economy"
+    },
+    {
+        "title": "Cepeda blames BanRep for \u201csuffocating the government's economic policy\u201d",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/cepeda-culpa-al-banrep-de-asfixiar-la-politica-economica-del-gobierno/",
+        "published_date": "2026-05-24 16:34:29",
+        "category": "Economy"
+    },
+    {
         "title": "MinHacienda again refused to lower the VAT on aircraft fuel from 19% to 5%",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/minhacienda-se-nego-otra-vez-a-bajar-de-19-a-5-el-iva-a-combustibles-para-avion-4398452",
@@ -385,6 +413,111 @@
         "category": "Economy"
     },
     {
+        "title": "Abelardo remains the most searched candidate in Google Trends",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/de-la-espriella-se-mantiene-como-el-candidato-mas-buscado-en-google-trends/",
+        "published_date": "2026-05-24 23:00:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "El Heraldo said in an editorial that it supports Abelardo de la Espriella",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/el-heraldo-dijo-en-editorial-que-apoya-a-abelardo-de-la-espriella/",
+        "published_date": "2026-05-24 22:45:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "This is how the closing of Paloma Valencia's campaign in Bogot\u00e1 progresses",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/asi-avanza-el-cierre-de-campana-de-paloma-valencia-en-bogota/",
+        "published_date": "2026-05-24 21:09:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "Petro and Fico Guti\u00e9rrez clash over ISA Peru contracts",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/petro-y-fico-gutierrez-chocan-por-contratos-de-isa-peru/",
+        "published_date": "2026-05-24 18:41:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "The problem is not voting, but voting without being informed",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/el-problema-no-es-votar-sino-votar-sin-informarse/",
+        "published_date": "2026-05-24 18:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Barranquilla is preparing for months of extreme heat and possible emergencies: they warn about fires, drought and the effects of El Ni\u00f1o",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-se-alista-para-meses-de-calor-extremo-y-posibles-emergencias-alertan-por-incendios-sequia-y-efectos-de-el-nino-3558048",
+        "published_date": "2026-05-24 17:37:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Atl\u00e1ntico: Court rules in favor of Triple A in Soledad;aqueduct networks and users will not pass to the municipality",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/atlantico-tribunal-le-da-la-razon-a-triple-a-en-soledad-redes-y-usuarios-de-acueducto-no-pasaran-al-municipio-3558043",
+        "published_date": "2026-05-24 16:47:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "Two women were murdered in an attack in Gir\u00f3n, Santander: this is what is known about the case",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/dos-mujeres-fueron-asesinadas-en-ataque-armado-en-giron-mientras-se-movilizaban-hacia-un-apartamento-fueron-victimas-de-un-atentado-3558016",
+        "published_date": "2026-05-24 15:56:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "Attention: relatives of L\u00e9o Hamel, the Frenchman who disappeared in Ituango, Antioquia, confirmed that the foreigner has already been located safely",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/atencion-familiares-del-leo-hamel-el-frances-desaparecido-en-ituango-antioquia-confirmaron-que-el-extranjero-ya-fue-ubicado-a-salvo-3558036",
+        "published_date": "2026-05-24 15:45:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "CNC survey: De la Espriella ties with Cepeda and Valencia sinks",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/encuesta-cnc-de-la-espriella-empata-con-cepeda-y-paloma-se-hunde/",
+        "published_date": "2026-05-24 14:24:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "The inspiration that the serious injury left to Fabry Castro, Atl\u00e9tico Bucaramanga player, and that turned it into an enterprise",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/la-inspiracion-que-le-dejo-la-grave-lesion-a-fabry-castro-jugador-del-atletico-bucaramanga-y-que-lo-convirtio-en-un-emprendimiento-3558024",
+        "published_date": "2026-05-24 14:07:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "Start your Sunday with these opinion columns",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/empiece-el-domingo-con-estas-columnas-de-opinion-3/",
+        "published_date": "2026-05-24 14:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ethics and law: between the legitimate and the legal",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-derecho-constitucional/la-etica-y-el-derecho-entre-lo-legitimo-y-lo-legal/",
+        "published_date": "2026-05-24 13:57:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "L\u00ednea Negra unleashes territorial clash in La Guajira: black and Wayuu communities announce protests;Government defends decree",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/linea-negra-desata-choque-territorial-en-la-guajira-comunidades-negras-y-wayuu-anuncian-protestas-gobierno-defiende-decreto-3558020",
+        "published_date": "2026-05-24 13:27:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tremor today in Colombia |Colombian Geological Service reported an earthquake this May 24: epicenter, magnitude and details",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-hoy-en-colombia-servicio-geologico-colombiano-reporto-un-sismo-este-24-de-mayo-epicentro-magnitud-y-detalles-3558005",
+        "published_date": "2026-05-24 11:45:00",
+        "category": "Local Events"
+    },
+    {
         "title": "Advertising on popular radio: Cepeda and Paloma sound more",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/silla-nacional/la-publicidad-en-radio-popular-cepeda-y-paloma-suenan-mas/",
@@ -417,111 +550,6 @@
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/opinion/con-realidades-distintas-los-electores-deciden-su-voto/",
         "published_date": "2026-05-23 22:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cEven the dog and the cat must vote\u201d: Minister Jaramillo on official visit",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/hasta-el-perro-y-el-gato-deben-salir-a-votar-ministro-jaramillo-en-evento-oficial/",
-        "published_date": "2026-05-23 21:19:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "Benedetti and Alexander L\u00f3pez clash over possible role in Cepeda's government",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/benedetti-y-alexander-lopez-chocan-por-posible-rol-en-gobierno-de-cepeda/",
-        "published_date": "2026-05-23 20:25:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "Everyone talks, no one listens",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/todos-hablan-nadie-escucha/",
-        "published_date": "2026-05-23 19:55:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Barranquilla Carnival arrives at the Teatro Mayor in Bogot\u00e1: 120 artists will bring the Caribbean festival, tradition and dance will take the stage",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/el-carnaval-de-barranquilla-llega-al-teatro-mayor-de-bogota-120-artistas-llevaran-la-fiesta-del-caribe-tradicion-y-danza-subiran-al-escenario-3557926",
-        "published_date": "2026-05-23 19:48:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "Barranquilla: new section of the Alameda del R\u00edo road interchange is enabled;They seek to decongest the Circunvalar and improve mobility",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-habilitan-nuevo-tramo-del-intercambiador-vial-de-alameda-del-rio-buscan-descongestionar-la-circunvalar-y-mejorar-la-movilidad-3557921",
-        "published_date": "2026-05-23 18:44:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "Why vote for Abelardo?",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/opinion/por-que-votar-por-abelardo/",
-        "published_date": "2026-05-23 18:19:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Miners unblocked Zaragoza and dialogue continues in other areas of Buenaventura",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/mineros-desbloquearon-zaragoza-y-siguen-dialogos-en-otros-sectores-de-buenaventura-4399120",
-        "published_date": "2026-05-23 18:15:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mauricio C\u00e1rdenas did not write viral text against Paloma Valencia's campaign",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/mauricio-cardenas-no-escribio-texto-viral-contra-la-campana-de-paloma-valencia/",
-        "published_date": "2026-05-23 18:10:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "Misak and NASA reach first agreements prior to meeting with Petro",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/vientos-de-acuerdo-entre-misak-y-nasa-tras-6-muertos-y-100-heridos/",
-        "published_date": "2026-05-23 17:32:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "They are looking for the BMW driver who ran over and left a renowned gymnast dead on the highway between Floridablanca and Piedecuesta: family demands justice",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/buscan-a-conductor-de-bmw-que-arrollo-y-dejo-muerta-a-gimnasta-reconocida-en-autopista-entre-floridablanca-y-piedecuesta-familia-clama-justicia-3557889",
-        "published_date": "2026-05-23 16:28:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "Attention: Governor of Valle del Cauca announced partial unblocking on the road to Buenaventura after the installation of a dialogue table",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/atencion-gobernadora-del-valle-del-cauca-anuncio-desbloqueo-parcial-en-la-via-a-buenaventura-tras-instalacion-de-mesa-de-dialogo-3557892",
-        "published_date": "2026-05-23 14:56:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mysterious death of two men who were cremated on a farm in Quind\u00edo: micro-trafficking disputes ruled out",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/misteriosa-muerte-de-dos-hombres-que-fueron-incinerados-en-una-finca-del-quindio-descartan-disputas-de-microtrafico-3557893",
-        "published_date": "2026-05-23 14:45:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "The maneuvers that 'Chala' made, accused of murdering journalist Mateo P\u00e9rez, to flee wounded to Puerto Valdivia after a military operation in Antioquia",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/las-maniobras-que-hizo-chala-senalado-de-asesinar-a-periodista-mateo-perez-para-huir-herido-a-puerto-valdivia-tras-operacion-militar-en-antioquia-3557875",
-        "published_date": "2026-05-23 12:40:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "This was the modus operandi of brothers and friends who allegedly scammed through networks selling trips in Bucaramanga: they kept 500 million",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/asi-fue-el-modus-operandi-de-hermanos-y-amigo-que-habrian-estafado-a-traves-de-redes-vendiendo-viajes-en-bucaramanga-se-quedaron-con-500-millones-3557869",
-        "published_date": "2026-05-23 11:34:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "An American accused of holding 'private immersion parties' for foreigners in Medell\u00edn was inadmissible: links to human trafficking are being investigated",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/inadmitieron-a-estadounidense-senalado-de-realizar-fiestas-privadas-de-inmersion-para-extranjeros-en-medellin-indagan-nexos-con-trata-de-personas-3557862",
-        "published_date": "2026-05-23 11:11:14",
         "category": "Local Events"
     }
 ]
