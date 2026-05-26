@@ -1,5 +1,12 @@
 [
     {
+        "title": "UN Forum launches urgent message to stop deforestation",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/foro-de-la-onu-lanza-mensaje-de-urgencia-para-detener-la-deforestacion/",
+        "published_date": "2026-05-26 00:21:41",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Environmental sector asks candidates to speak before the first round",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/sector-ambiental-pide-a-candidatos-pronunciarse-antes-de-la-primera-vuelta/",
@@ -96,6 +103,20 @@
         "url": "https://www.lasillavacia.com/en-vivo/cancilleria-de-bolivia-pide-a-petro-no-meterse-en-su-politica-interna/",
         "published_date": "2026-05-18 16:56:40",
         "category": "Diplomacy"
+    },
+    {
+        "title": "Shooting, persecution and capture: authorities detain an adult and a minor accused of an alleged hitman in Palmira",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/balacera-persecucion-y-captura-autoridades-detienen-a-un-adulto-y-a-un-menor-senalados-de-un-presunto-sicariato-en-palmira-3558388",
+        "published_date": "2026-05-26 07:20:07",
+        "category": "Military"
+    },
+    {
+        "title": "They reveal who the boyfriend of one of the women murdered in Gir\u00f3n is: he belonged to a criminal gang and they are investigating links to the case",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/destapan-quien-es-el-novio-de-una-de-las-mujeres-asesinadas-en-giron-pertenecia-a-una-banda-criminal-e-investigan-relacion-con-el-caso-3558377",
+        "published_date": "2026-05-25 23:36:15",
+        "category": "Military"
     },
     {
         "title": "What happened in the north of Barranquilla?The hypotheses behind the failed attack with weapons of war on Ra\u00fal Montes, former right-hand man of alias 'La Gata'",
@@ -224,18 +245,25 @@
         "category": "Military"
     },
     {
-        "title": "After leaving the Cepeda event, Alex L\u00f3pez suffered an attack in Cauca",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/tras-salir-de-evento-de-cepeda-alex-lopez-sufrio-atentado-en-cauca/",
-        "published_date": "2026-05-20 13:12:14",
-        "category": "Military"
+        "title": "Ecopetrol launched a public offer in Brazil to acquire 25% of Brava Energ\u00eda S.A.",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/ecopetrol-lanzo-una-oferta-publica-en-brasil-para-adquirir-25-de-brava-energia-4400552",
+        "published_date": "2026-05-26 11:38:28",
+        "category": "Energy"
     },
     {
-        "title": "Drone attack in Su\u00e1rez, Cauca, leaves a second lieutenant dead and six soldiers injured",
+        "title": "Emcali announces water and power cuts for maintenance this Tuesday, May 26: is your neighborhood on the list?",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/ataque-con-drones-en-suarez-cauca-deja-un-subteniente-muerto-y-seis-soldados-heridos-3556947",
-        "published_date": "2026-05-20 08:21:40",
-        "category": "Military"
+        "url": "https://www.eltiempo.com/colombia/cali/emcali-anuncia-cortes-de-agua-y-energia-por-mantenimiento-este-martes-26-de-mayo-su-barrio-esta-en-la-lista-3558412",
+        "published_date": "2026-05-26 08:09:03",
+        "category": "Energy"
+    },
+    {
+        "title": "Gas in Colombia was priced 199% above the international reference",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/gas-en-colombia-llego-a-cotizarse-199-por-encima-de-la-referencia-internacional-4400374",
+        "published_date": "2026-05-26 05:04:59",
+        "category": "Energy"
     },
     {
         "title": "Ecopetrol and Frontera Energy will regasify up to 300 Gbtud of gas starting in December",
@@ -357,25 +385,11 @@
         "category": "Energy"
     },
     {
-        "title": "Government seeks alliance with Venezuela to stabilize fertilizer prices",
+        "title": "Agricultural GDP grew 4.8% in two years, at a faster rate than manufacturing and construction",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/gobierno-busca-habilitar-alianza-con-venezuela-para-estabilizar-precios-de-fertilizantes-4398251",
-        "published_date": "2026-05-22 16:17:32",
-        "category": "Energy"
-    },
-    {
-        "title": "Superservicios concluded that Enel distorted price formation with Betania",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/superservicios-concluyo-que-enel-distorsiono-formacion-de-precios-con-betania-4398100",
-        "published_date": "2026-05-22 13:35:42",
-        "category": "Energy"
-    },
-    {
-        "title": "Palma questioned the use of $48 billion paid for the reliability charge to hydroelectric plants",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/el-ministro-palma-cuestiono-nuevamente-el-esquema-de-cargo-por-confiabilidad-4398023",
-        "published_date": "2026-05-22 12:14:11",
-        "category": "Energy"
+        "url": "https://www.larepublica.co/economia/pib-del-agro-crecio-4-8-en-dos-anos-a-mayor-ritmo-que-manufacturas-y-construccion-4400332",
+        "published_date": "2026-05-26 01:29:17",
+        "category": "Economy"
     },
     {
         "title": "Gross debt of the National Government reached 65.1% of GDP in the first quarter of 2026",
@@ -427,143 +441,143 @@
         "category": "Economy"
     },
     {
+        "title": "Odinsa said it has not been notified of the toll scheme in Eje Cafetero",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/odinsa-dijo-que-no-ha-sido-notificado-de-esquema-diferencial-de-peajes-en-eje-cafetero-4400657",
+        "published_date": "2026-05-26 13:16:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "The historical moment requires us to go to the polls in peace, in electoral peace",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/el-momento-historico-nos-exige-acudir-a-las-urnas-en-paz-en-paz-electoral-4400590",
+        "published_date": "2026-05-26 13:12:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cepeda filled the venue in Sincelejo.Campaign says it was a private event",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/cepeda-lleno-recinto-en-sincelejo-campana-dice-que-fue-evento-privado/",
+        "published_date": "2026-05-26 13:09:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "Until April, air traffic increased 7.7% with around 19.6 million people",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/hasta-abril-trafico-aereo-aumento-7-7-con-alrededor-de-19-6-millones-de-personas-4400571",
+        "published_date": "2026-05-26 12:26:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "Have an informed breakfast with the keys for this May 26, 2026",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-claves-de-este-26-de-mayo-de-2026/",
+        "published_date": "2026-05-26 12:17:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "By the end of the campaign you will know them",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/por-su-cierre-de-campana-los-conocereis/",
+        "published_date": "2026-05-26 12:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Experts evaluate candidates' proposals for the environment",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-verde/expertos-evaluan-las-propuestas-de-los-candidatos-para-el-medio-ambiente/",
+        "published_date": "2026-05-26 12:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The UIAF learned to process reports.Crime learned to move money.",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/donde-aparece-el-dinero/",
+        "published_date": "2026-05-26 10:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The ARC Guajira, a UNGRD humanitarian ship destined for emergencies in the country, arrived in Cartagena: it is commanded and crewed by women",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/recalo-en-cartagena-el-arc-guajira-buque-humanitario-de-la-ungrd-destinado-a-emergencias-en-el-pais-es-comandada-y-tripulada-por-mujeres-3558415",
+        "published_date": "2026-05-26 08:36:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "Diomedes' numbers are played again this Tuesday, May 26: the birthday of the 'Cacique' revives faith, luck and cabalas",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/los-numeros-de-diomedes-vuelven-a-jugarse-este-martes-26-de-mayo-el-cumpleanos-del-cacique-revive-la-fe-la-suerte-y-las-cabalas-3558407",
+        "published_date": "2026-05-26 08:05:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "They are looking for a 22-year-old tourist who jumped into the El Pe\u00f1ol reservoir - Guatap\u00e9, Antioquia, during a party on a planch\u00f3n;He was not wearing a life jacket.",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/buscan-turista-de-22-anos-que-se-lanzo-al-embalse-de-el-penol-guatape-antioquia-durante-una-fiesta-en-un-planchon-no-portaba-chaleco-salvavidas-3558399",
+        "published_date": "2026-05-26 07:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Stopping tourism for sexual exploitation in Medell\u00edn: 12 Americans were not admitted in a single weekend",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/freno-al-turismo-con-fines-de-explotacion-sexual-en-medellin-12-estadounidenses-fueron-inadmitidos-en-un-solo-fin-de-semana-3558397",
+        "published_date": "2026-05-26 07:06:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "The country's risk skyrocketed less than six days before the 2026 presidential elections",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/el-riesgo-pais-se-disparo-a-menos-de-una-semana-de-las-elecciones-presidenciales-4400255",
+        "published_date": "2026-05-26 05:04:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "Due to the El Ni\u00f1o phenomenon, almost half of the reservoirs are below 70%",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/ad-portas-del-fenomeno-el-nino-casi-la-mitad-de-los-embalses-estan-por-debajo-de-70-4400308",
+        "published_date": "2026-05-26 05:01:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tax collection in April totaled $22.8 billion and $103.9 billion so far this year",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/recaudo-tributario-en-abril-sumo-22-8-billones-y-103-9-billones-en-lo-corrido-del-ano-4400464",
+        "published_date": "2026-05-26 01:56:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "Sleep informed with the keys for this May 25, 2026",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-claves-de-este-25-de-mayo-de-2026/",
+        "published_date": "2026-05-26 00:27:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "Alleged partial results abroad are false, the registrar said",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/supuestos-resultados-parciales-en-el-exterior-son-falsos-dijo-el-registrador/",
+        "published_date": "2026-05-26 00:16:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "Answers to the most important questions about the elections made to the SillaIA",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/respuestas-a-las-preguntas-mas-importantes-hechas-a-la-sillaia/",
+        "published_date": "2026-05-26 00:10:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "Outrage over alleged mistreatment of a horse in Tayrona Park, Santa Marta: they report that the animal suffered serious injuries",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/indignacion-por-presunto-maltrato-animal-a-un-caballo-en-el-parque-tayrona-santa-marta-denuncian-que-un-caballo-resulto-gravemente-herido-3558368",
+        "published_date": "2026-05-25 23:59:56",
+        "category": "Local Events"
+    },
+    {
         "title": "Giovanni Celis, director of Red+, removed from office after complaints of harassment",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/giovanni-celis-director-de-red-apartado-del-cargo-tras-denuncias-de-acoso/",
         "published_date": "2026-05-25 23:46:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "Literature has more serious problems than AI",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-democracia-y-tecnologia/la-literatura-tiene-problemas-mas-graves-que-la-ia/",
-        "published_date": "2026-05-25 22:32:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Guarantees Commission: Claudia denounced attacks by Petro against her campaign",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/comision-de-garantias-claudia-denuncio-ataques-de-petro-contra-su-campana/",
-        "published_date": "2026-05-25 21:55:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "Colombia reaches extreme Ni\u00f1o with little rain due to the climate anomaly",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/colombia-llega-al-nino-extremo-con-pocas-lluvias-por-la-anomalia-climatica/",
-        "published_date": "2026-05-25 20:47:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "This is how Paloma, Abelardo and Cepeda measured themselves in the streets of Barranquilla",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/asi-se-midieron-paloma-abelardo-y-cepeda-en-las-calles-de-barranquilla/",
-        "published_date": "2026-05-25 20:41:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "Poll weighting: Cepeda and Abelardo with one foot in the second round",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/ponderador-de-encuestas-cepeda-y-abelardo-con-un-pie-en-segunda-vuelta/",
-        "published_date": "2026-05-25 20:38:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "Andromeda Case: Ex-military accused of spying on the peace process acquitted",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/caso-andromeda-absuelto-exmilitar-senalado-de-espiar-proceso-de-paz/",
-        "published_date": "2026-05-25 20:02:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fabio Mauricio Gallego, colonel of the Sij\u00edn, revealed that they gave up taking Yulixa Toloza to a hospital after the phrase: 'Without a body there is no crime'",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/fabio-mauricio-gallego-coronel-de-la-sijin-revelo-que-desistieron-de-llevar-a-yulixa-toloza-a-un-hospital-tras-la-frase-sin-cuerpo-no-hay-delito-3558305",
-        "published_date": "2026-05-25 18:40:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "Campaign Diary: Caicedo in first and Roy in second sing support for Cepeda",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/diario-de-campana-caicedo-en-primera-y-roy-en-segunda-cantan-apoyo-a-cepeda/",
-        "published_date": "2026-05-25 18:28:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "1.5 million citizens are authorized in Bol\u00edvar to exercise their right to vote in the first presidential round this Sunday",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/1-5-millones-de-ciudadanos-estan-habilitados-en-bolivar-para-ejercer-su-derecho-al-voto-en-la-primera-vuelta-presidencial-este-fin-domingo-3558306",
-        "published_date": "2026-05-25 18:03:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "Garbage mess gets tangled in Cali: Super of Industry and Commerce ordered precautionary measures related to the 4 operators that came with Emsirva",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/se-enreda-lio-de-basuras-en-cali-superintendencia-de-industria-y-comercio-ordeno-medidas-cautelares-contra-los-4-operadores-que-venian-con-emsirva-3558281",
-        "published_date": "2026-05-25 17:38:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "Acemi estimates that an additional $9.57 billion is needed to stabilize the health system",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/acemi-estima-que-se-necesitan-9-57-billones-adicionales-para-estabilizar-sistema-de-salud-4399892",
-        "published_date": "2026-05-25 17:25:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "In Barichara, a loan was requested to save the 'most beautiful town in Colombia' from the water crisis that has been without a solution for years",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/en-barichara-se-solicito-un-emprestito-para-salvar-al-pueblo-mas-bonito-de-colombia-de-la-crisis-del-agua-que-lleva-anos-sin-solucion-3558288",
-        "published_date": "2026-05-25 17:17:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Police offensive in Cali achieved 41 arrests, while murder cases claimed 12 lives in the same weekend",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/ofensiva-policial-en-cali-logro-41-capturas-mientras-hechos-de-sicariato-cobraron-12-vidas-en-un-mismo-fin-de-semana-3558283",
-        "published_date": "2026-05-25 16:55:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "'In Colombia there are no risks due to software or source code in an electoral process that is eminently manual', Registrar Hern\u00e1n Penagos",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/en-colombia-no-hay-riesgos-por-software-ni-por-codigo-fuente-en-un-proceso-electoral-que-es-eminentemente-manual-registrador-hernan-penagos-3558218",
-        "published_date": "2026-05-25 16:25:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "A 52-year-old swimming teacher was captured for inappropriately touching his underage students at a school in Medell\u00edn",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/un-profesor-de-natacion-de-52-anos-fue-capturado-por-realizar-tocamientos-indebidos-a-sus-estudiantes-menores-de-edad-en-un-colegio-de-medellin-3558253",
-        "published_date": "2026-05-25 15:25:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "Body found inside a sack in the northeast of Cali: authorities are carrying out investigations to establish identity and causes of death",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/cuerpo-hallado-dentro-de-un-costal-en-el-nororiente-de-cali-autoridades-adelantan-investigaciones-para-establecer-identidad-y-causas-de-la-muerte-3558267",
-        "published_date": "2026-05-25 15:19:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "Government is $125 billion more indebted than Colombians to the financial system",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/gobierno-esta-125-billones-mas-endeudado-que-los-colombianos-con-el-sistema-financiero-4399856",
-        "published_date": "2026-05-25 15:07:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fajardo on meeting with Paloma: \u201cI have no problem with her\u201d",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/fajardo-sobre-reunion-con-paloma-no-tengo-problema-con-ella/",
-        "published_date": "2026-05-25 14:00:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "Learn how democracy works in Colombia",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/aprenda-como-funciona-la-democracia-en-colombia/",
-        "published_date": "2026-05-25 14:00:00",
         "category": "Local Events"
     }
 ]
