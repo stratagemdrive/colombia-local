@@ -1,5 +1,12 @@
 [
     {
+        "title": "They release Brayan Forero C\u00e1rdenas, the young businessman who was kidnapped more than a year ago in the Catatumbo region, south of Cesar",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/liberan-a-brayan-forero-cardenas-el-joven-empresario-que-fue-secuestrado-hace-mas-de-un-ano-en-la-region-del-catatumbo-al-sur-del-cesar-3559313",
+        "published_date": "2026-05-29 08:30:00",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Chancellor guarantees voting abroad regardless of immigration status",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/canciller-garantiza-voto-en-el-exterior-sin-importar-situacion-migratoria/",
@@ -49,18 +56,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "For \u201creciprocity\u201d, Colombia expels the person in charge of the Bolivian Embassy",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/por-reciprocidad-colombia-expulsa-a-encargado-de-embajada-de-bolivia/",
-        "published_date": "2026-05-21 13:07:50",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Sleep informed with the movements of this May 20, 2026",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-movidas-de-este-20-de-mayo-de-2026/",
-        "published_date": "2026-05-21 00:29:17",
-        "category": "Diplomacy"
+        "title": "20 million pesos a week: the illicit finances of 'the Monarchs' that the Police and Prosecutor's Office managed to intervene in Cali, Jamund\u00ed and Yumbo",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/20-millones-de-pesos-semanales-las-finanzas-ilicitas-de-los-monarcas-que-la-policia-y-fiscalia-lograron-intervenir-en-cali-jamundi-y-yumbo-3559289",
+        "published_date": "2026-05-29 06:52:52",
+        "category": "Military"
     },
     {
         "title": "ELN took responsibility for the kidnapping of the son of the former mayor of Tame, Arauca",
@@ -196,11 +196,25 @@
         "category": "Military"
     },
     {
-        "title": "A 17-year-old minor died in the midst of fighting between the public force and the dissidents of alias Chal\u00e1 in Brice\u00f1o, Antioquia",
+        "title": "Union Council warned that debt must be paid with thermals to face El Ni\u00f1o",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/consejo-gremial-advirtio-que-se-debe-pagar-deuda-con-termicas-para-enfrentar-el-nino-4403285",
+        "published_date": "2026-05-29 12:29:42",
+        "category": "Energy"
+    },
+    {
+        "title": "Is your neighborhood on the list?Emcali schedules water and power cuts for maintenance work in Cali this Friday, May 29",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/un-menor-de-17-anos-murio-en-medio-de-combates-entre-la-fuerza-publica-y-las-disidencias-de-alias-chala-en-briceno-antioquia-3557933",
-        "published_date": "2026-05-23 20:15:33",
-        "category": "Military"
+        "url": "https://www.eltiempo.com/colombia/cali/su-barrio-esta-en-la-lista-emcali-programa-cortes-de-agua-y-energia-por-trabajos-de-mantenimiento-en-cali-este-viernes-29-de-mayo-3559299",
+        "published_date": "2026-05-29 07:38:59",
+        "category": "Energy"
+    },
+    {
+        "title": "\u201cEPM will generate 17% of the national energy when it operates in the heart of Hidroituango\u201d",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/entrevista-con-john-maya-salazar-gerente-general-de-epm-sobre-la-actualidad-y-planes-para-hidroituango-4402386",
+        "published_date": "2026-05-29 05:03:52",
+        "category": "Energy"
     },
     {
         "title": "Superservicios began monitoring Celsia's electrical service in Valle del Cauca and Tolima",
@@ -322,25 +336,11 @@
         "category": "Energy"
     },
     {
-        "title": "The wear and tear of pride: reflections on some trills",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/el-desgaste-de-la-soberbia-lo-que-revela-la-agresividad-de-algunos-comentaristas-en-redes-sociales/",
-        "published_date": "2026-05-25 00:33:08",
-        "category": "Energy"
-    },
-    {
-        "title": "After allocation auction, 4,069 MW will be added to the System in December 2029",
+        "title": "Global fall of the dollar against the peso explained part of the reduction in external debt",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/tras-subasta-de-asignacion-se-sumaran-4-069-mw-al-sistema-en-diciembre-de-2029-4399119",
-        "published_date": "2026-05-23 19:59:27",
-        "category": "Energy"
-    },
-    {
-        "title": "The Ministry of Mines and Energy ruled out a blackout during the El Ni\u00f1o phenomenon",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/el-ministerio-de-minas-y-energia-descarto-un-apagon-durante-el-fenomeno-de-el-nino-4399063",
-        "published_date": "2026-05-23 16:42:25",
-        "category": "Energy"
+        "url": "https://www.larepublica.co/economia/caida-global-del-dolar-frente-al-peso-explico-parte-de-la-reduccion-de-la-deuda-externa-4402941",
+        "published_date": "2026-05-29 05:01:14",
+        "category": "Economy"
     },
     {
         "title": "External debt falls US$10 billion but public debt remains at 61% of GDP",
@@ -406,18 +406,130 @@
         "category": "Economy"
     },
     {
-        "title": "This is how a network operated within the Foundation Registry (Magdalena) that sold Colombian identities for migrant trafficking",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/asi-operaba-red-dentro-de-la-registraduria-de-fundacion-magdalena-que-vendia-identidades-colombianas-para-el-trafico-de-migrantes-3557257",
-        "published_date": "2026-05-21 08:50:59",
-        "category": "Economy"
+        "title": "Bioeconomy and conservation marked the Governors' Meeting at the GCF",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/bioeconomia-y-conservacion-marcaron-encuentro-de-gobernadores-en-el-gcf-4403344",
+        "published_date": "2026-05-29 13:27:54",
+        "category": "Local Events"
     },
     {
-        "title": "Minhacienda held a new auction in TES UVR for an amount of $801,000 million",
+        "title": "Bogot\u00e1 enters dry law from six in the afternoon for the presidential elections",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/bogota-entra-en-ley-seca-desde-las-seis-de-la-tarde-por-las-presidenciales/",
+        "published_date": "2026-05-29 13:23:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "ANH carried out field verification of Canacol Energy activities",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/minhacienda-realizo-nueva-subasta-en-tes-uvr-por-un-monto-de-801-000-millones-4396906",
-        "published_date": "2026-05-21 01:41:25",
-        "category": "Economy"
+        "url": "https://www.larepublica.co/economia/anh-verifico-en-campo-actividades-de-canacol-energy-asociada-a-inversion-de-us-178-millones-4403312",
+        "published_date": "2026-05-29 12:50:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Half a billion pesos executed before the first round",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/medio-billon-de-pesos-ejecutados-antes-de-la-primera-vuelta/",
+        "published_date": "2026-05-29 12:38:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "The platforms in Barranquilla and the final stretch of the campaign",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/los-tarimazos-en-barranquilla-y-la-recta-final-de-la-campana/",
+        "published_date": "2026-05-29 12:36:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "There is more agricultural credit, but less investment",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-rural/hay-mas-credito-agropecuario-pero-menos-inversion/",
+        "published_date": "2026-05-29 12:29:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "Breakfast informed with the movements of this May 29, 2026",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-movidas-de-este-29-de-mayo-de-2026/",
+        "published_date": "2026-05-29 12:25:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Alias \u200b\u200bNegrito, alleged leader of the 'Ad\u00e1n Izquierdo' front, fell: he extorted peasants and social leaders in Geneva, Valle del Cauca",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/cayo-alias-negrito-presunto-cabecilla-del-frente-adan-izquierdo-extorsionaba-a-campesinos-y-lideres-sociales-en-ginebra-valle-del-cauca-3559311",
+        "published_date": "2026-05-29 08:42:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "The evidence of the family against the ambulance company in which a doctor from Barranquilla died after an accident in one of their vehicles",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/las-evidencias-de-la-familia-contra-de-empresa-de-ambulancias-en-la-que-fallecio-una-doctora-de-barranquilla-tras-accidentarse-en-uno-de-sus-vehiculos-3559305",
+        "published_date": "2026-05-29 08:01:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Video |Man unleashes criticism after abandoning his partner in attempted robbery in Cali",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/video-hombre-desata-criticas-tras-abandonar-a-su-pareja-en-intento-de-hurto-en-cali-3559293",
+        "published_date": "2026-05-29 07:24:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "El Ni\u00f1o phenomenon in Colombia: this is the Government's new plan for possible forest fires, water shortages and environmental impacts",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/fenomeno-de-el-nino-en-colombia-este-es-el-nuevo-plan-preventivo-por-riesgos-de-incendios-forestales-escasez-de-agua-y-afectaciones-ambientales-3559286",
+        "published_date": "2026-05-29 06:50:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Abelardo de la Espriella, an imported brand for the time",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/abelardo-de-la-espriella-una-marca-importada-para-la-epoca/",
+        "published_date": "2026-05-29 06:16:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "Riohacha launches urban public transportation after more than two decades without an organized system;This is how the service started working",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/riohacha-estrena-transporte-publico-urbano-tras-mas-de-dos-decadas-sin-un-sistema-organizado-asi-entro-a-funcionar-el-servicio-3559285",
+        "published_date": "2026-05-29 06:00:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "Energy sector calls to deregulate prices and promote more investment in the country",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/sector-energetico-llama-a-desregular-los-precios-y-promover-mas-inversion-en-el-pais-4402983",
+        "published_date": "2026-05-29 05:01:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tremor today in Colombia |Earthquake during the early hours of this Friday, May 29: epicenter, magnitude and depth",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-hoy-en-colombia-sismo-durante-la-madrugada-de-este-viernes-29-de-mayo-epicentro-magnitud-y-profundidad-3559283",
+        "published_date": "2026-05-29 03:51:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "Attention, drivers!Peak and plate in Pereira for Friday, May 29, 2026",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/atentos-conductores-pico-y-placa-en-pereira-para-el-viernes-29-de-mayo-de-3559144",
+        "published_date": "2026-05-29 03:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "MinAmbiente establishes 10 guidelines for addressing the El Ni\u00f1o phenomenon",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/minambiente-establece-10-lineamientos-para-la-atencion-del-fenomeno-de-el-nino-4403108",
+        "published_date": "2026-05-29 00:57:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "Miguel Uribe Londo\u00f1o did not resign nor join Iv\u00e1n Cepeda, image is IA",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/miguel-uribe-londono-no-renuncio-ni-se-unio-a-ivan-cepeda-imagen-es-ia/",
+        "published_date": "2026-05-29 00:26:23",
+        "category": "Local Events"
     },
     {
         "title": "Sleep informed with the keys for this May 28, 2026",
@@ -431,132 +543,6 @@
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/para-2025-brasil-reporta-la-cifra-mas-baja-de-deforestacion-desde-2019/",
         "published_date": "2026-05-28 23:43:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "Microdata from the surveys before the first: there are still 20% undecided",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/microdatos-de-las-encuestas-antes-de-primera-aun-hay-20-de-indecisos/",
-        "published_date": "2026-05-28 23:23:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "Council of State orders Petro not to spread electoral propaganda",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/consejo-de-estado-ordena-a-petro-que-no-difunda-propaganda-electoral/",
-        "published_date": "2026-05-28 22:45:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "What does not exist is not distributed: analysis of the proposals for the economy",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/no-se-reparte-lo-que-no-existe-analisis-de-las-propuestas-para-la-economia/",
-        "published_date": "2026-05-28 22:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Uribe questions whether Cepeda wants Vel\u00e1squez in his cabinet",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/uribe-cuestiona-que-cepeda-quiera-a-velasquez-en-su-gabinete/",
-        "published_date": "2026-05-28 21:42:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "A third of the cabinet is investigated for participation in politics",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/un-tercio-del-gabinete-esta-investigado-por-participacion-en-politica/",
-        "published_date": "2026-05-28 21:33:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "The right is risking its face in the second round and also its leader of the future",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/la-derecha-se-juega-su-cara-en-segunda-vuelta-y-tambien-a-su-lider-del-futuro/",
-        "published_date": "2026-05-28 21:03:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "Councilor who revealed the party at the party in the Itag\u00fc\u00ed prison reported alleged harassment and overflights of her home with a drone",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/concejala-que-develo-la-parranda-en-la-parranda-en-la-carcel-de-itaguei-denuncio-presuntos-hostigamientos-y-sobrevuelos-a-su-vivienda-con-un-dron-3559190",
-        "published_date": "2026-05-28 18:55:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "Weapons hidden in toys and appliances: the type of postal traffic that supplied criminals in Cali and Valle del Cauca",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/armas-ocultas-en-juguetes-y-electrodomesticos-la-modalidad-de-trafico-postal-que-abastecia-a-criminales-de-cali-y-el-valle-del-cauca-3559197",
-        "published_date": "2026-05-28 17:20:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "Why is it so difficult for us to vote?In Medell\u00edn and Antioquia they launch an incentive plan to overcome apathy at the polls this May 31",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/por-que-nos-cuesta-tanto-votar-en-medellin-y-antioquia-lanzan-plan-de-incentivos-para-vencer-la-apatia-en-las-urnas-este-31-de-mayo-3559192",
-        "published_date": "2026-05-28 17:17:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "'Three months of anguish that I can't stand anymore': the heartbreaking message of the mother who is intensely searching for her son who disappeared in the Atlantic",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/tres-meses-de-angustia-que-ya-no-soporto-mas-el-desgarrador-mensaje-de-la-madre-que-busca-intensamente-a-su-hijo-que-desaparecio-en-el-atlantico-3559207",
-        "published_date": "2026-05-28 17:01:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Colombian-Venezuelan Chamber will lead Integration and Investment Mission from June 2 to 4",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/camara-colombo-venezolana-liderara-mision-de-integracion-e-inversion-del-2-al-4-de-junio-4402665",
-        "published_date": "2026-05-28 16:06:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Court: Forensic Medicine cannot deliver a report on Kevin Acosta",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/medicina-legal-no-puede-entregar-informe-sobre-kevin-acosta-tribunal/",
-        "published_date": "2026-05-28 14:31:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "Benedetti says that Iv\u00e1n Cepeda's campaign left the Caribbean",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/benedetti-dice-que-campana-de-ivan-cepeda-abandono-el-caribe/",
-        "published_date": "2026-05-28 13:41:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "The relationship between the productive sector, business and university in a knowledge-based society",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-educacion/la-relacion-entre-sector-productivo-negocios-y-universidad-en-una-sociedad-basada-en-conocimiento/",
-        "published_date": "2026-05-28 13:17:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "Pigeon vs.Abelardo: the war for the new leadership of the right",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/paloma-vs-abelardo-la-guerra-por-el-nuevo-liderazgo-de-la-derecha/",
-        "published_date": "2026-05-28 12:39:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "MinAgricultura will enable $67,272 million in subsidies for agricultural insurance",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/minagricultura-habilitara-67-272-millones-en-subsidios-para-seguros-agropecuarios-4402460",
-        "published_date": "2026-05-28 12:38:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Breakfast informed with the movements of this May 28, 2026",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-movidas-de-este-28-de-mayo-de-2026/",
-        "published_date": "2026-05-28 12:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "These are the proposals for health made by the leading candidates",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/estas-son-las-propuestas-para-la-salud-que-hacen-los-candidatos-punteros/",
-        "published_date": "2026-05-28 12:00:00",
         "category": "Local Events"
     }
 ]
