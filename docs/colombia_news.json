@@ -56,6 +56,27 @@
         "category": "Diplomacy"
     },
     {
+        "title": "ELN freed Iv\u00e1n Alfredo Guzm\u00e1n, son of the former mayor of Tame, Arauca",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/eln-libero-a-ivan-alfredo-guzman-hijo-del-exalcalde-de-tame-arauca/",
+        "published_date": "2026-05-29 22:57:06",
+        "category": "Military"
+    },
+    {
+        "title": "The Democracy Plan in Bol\u00edvar will guard the election day with 1,600 police officers, and special attention in Montes de Mar\u00eda and the south of the department",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/el-plan-democracia-en-bolivar-custodiara-la-jornada-electoral-con-1-600-policias-y-especial-atencion-en-montes-de-maria-y-el-sur-del-departamento-3559528",
+        "published_date": "2026-05-29 18:17:41",
+        "category": "Military"
+    },
+    {
+        "title": "The Eastern Tunnel will launch an automatic closing system in its entrances from June 1: this is how it will work",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/el-tunel-de-oriente-estrenara-sistema-de-cerramiento-automatico-en-sus-ingresos-desde-el-1-de-junio-asi-funcionara-3559501",
+        "published_date": "2026-05-29 17:03:38",
+        "category": "Military"
+    },
+    {
         "title": "20 million pesos a week: the illicit finances of 'the Monarchs' that the Police and Prosecutor's Office managed to intervene in Cali, Jamund\u00ed and Yumbo",
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/cali/20-millones-de-pesos-semanales-las-finanzas-ilicitas-de-los-monarcas-que-la-policia-y-fiscalia-lograron-intervenir-en-cali-jamundi-y-yumbo-3559289",
@@ -172,27 +193,6 @@
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/santander/destapan-quien-es-el-novio-de-una-de-las-mujeres-asesinadas-en-giron-pertenecia-a-una-banda-criminal-e-investigan-relacion-con-el-caso-3558377",
         "published_date": "2026-05-25 23:36:15",
-        "category": "Military"
-    },
-    {
-        "title": "What happened in the north of Barranquilla?The hypotheses behind the failed attack with weapons of war on Ra\u00fal Montes, former right-hand man of alias 'La Gata'",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/que-paso-en-el-norte-de-barranquilla-las-hipotesis-detras-del-fallido-atentado-con-armas-de-guerra-a-raul-montes-ex-mano-derecha-de-alias-la-gata-3558320",
-        "published_date": "2026-05-25 18:45:00",
-        "category": "Military"
-    },
-    {
-        "title": "Drone attack in Catatumbo left one soldier dead and seven more injured: ELN would have generated the attack due to alleged retaliation",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/ataque-con-drones-en-catatumbo-dejo-un-militar-muerto-y-siete-mas-heridos-eln-habria-generado-el-atentado-por-supuestas-retaliaciones-3558047",
-        "published_date": "2026-05-24 17:18:41",
-        "category": "Military"
-    },
-    {
-        "title": "Alias \u200b\u200bP\u00e9rez, leader of 'Los Espartanos' in Buenaventura, fell;In the operation, 10 members of criminal groups were captured",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/cayo-alias-perez-cabecilla-de-los-espartanos-en-buenaventura-en-el-operativo-fueron-capturados-10-integrantes-de-grupos-delincuenciales-3558023",
-        "published_date": "2026-05-24 14:25:00",
         "category": "Military"
     },
     {
@@ -336,6 +336,13 @@
         "category": "Energy"
     },
     {
+        "title": "Food inflation was driven by heavy rains, road blockages and costs",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/inflacion-de-alimentos-estuvo-impulsada-por-lluvias-bloqueos-viales-y-costos-laborales-4403443",
+        "published_date": "2026-05-29 17:02:17",
+        "category": "Economy"
+    },
+    {
         "title": "Global fall of the dollar against the peso explained part of the reduction in external debt",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/caida-global-del-dolar-frente-al-peso-explico-parte-de-la-reduccion-de-la-deuda-externa-4402941",
@@ -406,143 +413,143 @@
         "category": "Economy"
     },
     {
-        "title": "Bioeconomy and conservation marked the Governors' Meeting at the GCF",
+        "title": "Sleep informed with the keys for this May 29, 2026",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-claves-de-este-29-de-mayo-de-2026/",
+        "published_date": "2026-05-30 00:07:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Again, the pens at the voting stations are not erasable",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/otra-vez-los-lapiceros-en-los-puestos-de-votacion-no-son-borrables/",
+        "published_date": "2026-05-30 00:04:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "Dane: Unemployment in Colombia remained at 8.8% in April 2026",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/dane-desempleo-en-colombia-se-mantuvo-en-88-en-abril-de-2026/",
+        "published_date": "2026-05-29 23:48:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "Abelardo did not say that he supports fracking in moors, video was manipulated",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/detector-de-mentiras/enganoso/abelardo-no-dijo-que-apoya-el-fracking-en-paramos-video-fue-manipulado/",
+        "published_date": "2026-05-29 23:40:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Petro will meet with Zohran Mamdani, the mayor of New York",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/petro-se-reunira-con-zohran-mamdani-el-alcalde-de-nueva-york/",
+        "published_date": "2026-05-29 22:19:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Caquet\u00e1 votes under armed pressure and tired of extortion",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-amazonia/el-caqueta-vota-bajo-presion-armada-y-cansado-de-la-extorsion/",
+        "published_date": "2026-05-29 22:16:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Detector: Petro did not return allowance 14 to all pensioners",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/detector-petro-no-devolvio-la-mesada-14-a-todos-los-pensionados/",
+        "published_date": "2026-05-29 22:06:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "Animalists and environmentalists move the networks days before elections",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/animalistas-y-ambientalistas-mueven-las-redes-dias-antes-de-elecciones/",
+        "published_date": "2026-05-29 21:47:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "Campaigns do not prioritize sexual and reproductive rights",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-las-mujeres/los-colombianos-guardan-silencio-sobre-derechos-sexuales-y-reproductivos/",
+        "published_date": "2026-05-29 21:44:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "Strong dispute between the Government of Antioquia and Inv\u00edas: the unpublished photos of the Toyo Tunnel teams that have been gathering dust in Itag\u00fc\u00ed for a year",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/la-disputa-de-la-gobernacion-de-antioquia-y-el-invias-y-las-fotos-ineditas-de-los-equipos-del-tunel-del-toyo-que-llevan-un-ano-empolvandose-en-itaguei-3559520",
+        "published_date": "2026-05-29 18:49:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "Bucaramanga loan approved: these are the mega works in which more than 538,000 million pesos will be invested",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/aprueban-emprestito-de-bucaramanga-estas-son-las-megaobras-que-le-daran-crecimiento-y-desarrollo-a-la-ciudad-con-la-inversion-de-538-000-millones-3559438",
+        "published_date": "2026-05-29 18:43:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "Bogot\u00e1 Metro trains are already beginning to roll autonomously on the viaduct",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/bioeconomia-y-conservacion-marcaron-encuentro-de-gobernadores-en-el-gcf-4403344",
-        "published_date": "2026-05-29 13:27:54",
+        "url": "https://www.larepublica.co/economia/trenes-del-metro-de-bogota-ya-empiezan-a-rodar-de-manera-autonoma-en-el-viaducto-4403548",
+        "published_date": "2026-05-29 18:41:27",
         "category": "Local Events"
     },
     {
-        "title": "Bogot\u00e1 enters dry law from six in the afternoon for the presidential elections",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/bogota-entra-en-ley-seca-desde-las-seis-de-la-tarde-por-las-presidenciales/",
-        "published_date": "2026-05-29 13:23:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "ANH carried out field verification of Canacol Energy activities",
+        "title": "Nearly 6,000 kilometers of new fiber optics transform connectivity",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/anh-verifico-en-campo-actividades-de-canacol-energy-asociada-a-inversion-de-us-178-millones-4403312",
-        "published_date": "2026-05-29 12:50:45",
+        "url": "https://www.larepublica.co/economia/cerca-de-6-000-kilometros-de-nueva-fibra-optica-transforman-la-conectividad-del-pais-4403547",
+        "published_date": "2026-05-29 18:33:58",
         "category": "Local Events"
     },
     {
-        "title": "Half a billion pesos executed before the first round",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/medio-billon-de-pesos-ejecutados-antes-de-la-primera-vuelta/",
-        "published_date": "2026-05-29 12:38:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "The platforms in Barranquilla and the final stretch of the campaign",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/los-tarimazos-en-barranquilla-y-la-recta-final-de-la-campana/",
-        "published_date": "2026-05-29 12:36:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "There is more agricultural credit, but less investment",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-rural/hay-mas-credito-agropecuario-pero-menos-inversion/",
-        "published_date": "2026-05-29 12:29:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "Breakfast informed with the movements of this May 29, 2026",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-movidas-de-este-29-de-mayo-de-2026/",
-        "published_date": "2026-05-29 12:25:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Alias \u200b\u200bNegrito, alleged leader of the 'Ad\u00e1n Izquierdo' front, fell: he extorted peasants and social leaders in Geneva, Valle del Cauca",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/cayo-alias-negrito-presunto-cabecilla-del-frente-adan-izquierdo-extorsionaba-a-campesinos-y-lideres-sociales-en-ginebra-valle-del-cauca-3559311",
-        "published_date": "2026-05-29 08:42:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "The evidence of the family against the ambulance company in which a doctor from Barranquilla died after an accident in one of their vehicles",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/las-evidencias-de-la-familia-contra-de-empresa-de-ambulancias-en-la-que-fallecio-una-doctora-de-barranquilla-tras-accidentarse-en-uno-de-sus-vehiculos-3559305",
-        "published_date": "2026-05-29 08:01:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Video |Man unleashes criticism after abandoning his partner in attempted robbery in Cali",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/video-hombre-desata-criticas-tras-abandonar-a-su-pareja-en-intento-de-hurto-en-cali-3559293",
-        "published_date": "2026-05-29 07:24:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "El Ni\u00f1o phenomenon in Colombia: this is the Government's new plan for possible forest fires, water shortages and environmental impacts",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/fenomeno-de-el-nino-en-colombia-este-es-el-nuevo-plan-preventivo-por-riesgos-de-incendios-forestales-escasez-de-agua-y-afectaciones-ambientales-3559286",
-        "published_date": "2026-05-29 06:50:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Abelardo de la Espriella, an imported brand for the time",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/abelardo-de-la-espriella-una-marca-importada-para-la-epoca/",
-        "published_date": "2026-05-29 06:16:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "Riohacha launches urban public transportation after more than two decades without an organized system;This is how the service started working",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/riohacha-estrena-transporte-publico-urbano-tras-mas-de-dos-decadas-sin-un-sistema-organizado-asi-entro-a-funcionar-el-servicio-3559285",
-        "published_date": "2026-05-29 06:00:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Energy sector calls to deregulate prices and promote more investment in the country",
+        "title": "Upit recommends resuming the concession idea for the future of Autopistas del Caf\u00e9",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/sector-energetico-llama-a-desregular-los-precios-y-promover-mas-inversion-en-el-pais-4402983",
-        "published_date": "2026-05-29 05:01:03",
+        "url": "https://www.larepublica.co/economia/upit-recomienda-retomar-idea-de-concesion-para-futuro-de-autopistas-del-cafe-4403466",
+        "published_date": "2026-05-29 18:17:34",
         "category": "Local Events"
     },
     {
-        "title": "Tremor today in Colombia |Earthquake during the early hours of this Friday, May 29: epicenter, magnitude and depth",
+        "title": "Will Prohibition last until the Colombia vs. Costa Rica National Team match?These are the official liquor restriction times in the country",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-hoy-en-colombia-sismo-durante-la-madrugada-de-este-viernes-29-de-mayo-epicentro-magnitud-y-profundidad-3559283",
-        "published_date": "2026-05-29 03:51:17",
+        "url": "https://www.eltiempo.com/colombia/la-ley-seca-durara-hasta-el-partido-de-la-seleccion-colombia-vs-costa-rica-estos-son-los-horarios-oficiales-de-la-restriccion-de-licores-en-el-pais-3559460",
+        "published_date": "2026-05-29 18:10:10",
         "category": "Local Events"
     },
     {
-        "title": "Attention, drivers!Peak and plate in Pereira for Friday, May 29, 2026",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/atentos-conductores-pico-y-placa-en-pereira-para-el-viernes-29-de-mayo-de-3559144",
-        "published_date": "2026-05-29 03:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "MinAmbiente establishes 10 guidelines for addressing the El Ni\u00f1o phenomenon",
+        "title": "Aerocivil launched a new arrivals area for the Ernesto Cortissoz",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/minambiente-establece-10-lineamientos-para-la-atencion-del-fenomeno-de-el-nino-4403108",
-        "published_date": "2026-05-29 00:57:31",
+        "url": "https://www.larepublica.co/economia/aeronautica-civil-puso-en-marcha-nueva-zona-de-llegadas-nacionales-del-ernesto-cortissoz-4403500",
+        "published_date": "2026-05-29 17:59:42",
         "category": "Local Events"
     },
     {
-        "title": "Miguel Uribe Londo\u00f1o did not resign nor join Iv\u00e1n Cepeda, image is IA",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/miguel-uribe-londono-no-renuncio-ni-se-unio-a-ivan-cepeda-imagen-es-ia/",
-        "published_date": "2026-05-29 00:26:23",
+        "title": "Cartagena promises to protect the Chambac\u00fa mangroves with eco-trails and ecological corridor in new complex: District promises zero logging",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/ecosenderos-en-nuevo-chambacu-la-apuesta-ambiental-con-la-que-ecartagena-busca-despejar-dudas-sobre-el-futuro-de-los-manglares-3559529",
+        "published_date": "2026-05-29 17:49:08",
         "category": "Local Events"
     },
     {
-        "title": "Sleep informed with the keys for this May 28, 2026",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-claves-de-este-28-de-mayo-de-2026/",
-        "published_date": "2026-05-28 23:57:20",
+        "title": "Blockade completes a week on the Cerrej\u00f3n railway line and company warns of risks for operation, employment and exports",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/bloqueo-completa-una-semana-en-linea-ferrea-de-cerrejon-y-empresa-advierte-riesgos-para-operacion-empleo-y-exportaciones-3559515",
+        "published_date": "2026-05-29 17:16:15",
         "category": "Local Events"
     },
     {
-        "title": "By 2025, Brazil reports the lowest deforestation figure since 2019",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/para-2025-brasil-reporta-la-cifra-mas-baja-de-deforestacion-desde-2019/",
-        "published_date": "2026-05-28 23:43:22",
+        "title": "The Government rejected a new concession for the Coffee Axis, although in a report from the Ministry of Transport it recommended continuing with this model: this is the document",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/gobierno-rechazo-nueva-concesion-del-eje-cafetero-aunque-en-un-informe-del-mintransporte-recomendaba-seguir-con-este-modelo-este-es-el-documento-3559511",
+        "published_date": "2026-05-29 17:13:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "Air-e crisis escalates: Government questions Comptroller's report while doubts grow about the company's viability",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/crisis-de-air-e-escala-gobierno-cuestiona-informe-de-la-contraloria-mientras-crecen-dudas-sobre-la-viabilidad-de-la-empresa-3559507",
+        "published_date": "2026-05-29 16:56:50",
         "category": "Local Events"
     }
 ]
