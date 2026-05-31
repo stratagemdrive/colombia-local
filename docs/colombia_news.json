@@ -1,5 +1,26 @@
 [
     {
+        "title": "Colombia accuses Ecuador of interfering in presidential elections with tariff war",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/colombia-acusa-a-ecuador-injerir-en-comicios-presidenciales-con-guerra-arancelaria-4404343",
+        "published_date": "2026-05-30 21:04:04",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "The Foreign Ministry announces that it will repeal economic measures against Ecuador",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/la-cancilleria-anuncia-que-derogara-medidas-economicas-contra-ecuador/",
+        "published_date": "2026-05-30 16:21:43",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Foreign Ministry said that reversal of Ecuador's tariffs is due to the CAN resolution",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/cancilleria-dijo-que-reversion-de-aranceles-de-ecuador-se-debe-a-la-resolucion-de-can-4404223",
+        "published_date": "2026-05-30 13:54:59",
+        "category": "Diplomacy"
+    },
+    {
         "title": "They release Brayan Forero C\u00e1rdenas, the young businessman who was kidnapped more than a year ago in the Catatumbo region, south of Cesar",
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/otras-ciudades/liberan-a-brayan-forero-cardenas-el-joven-empresario-que-fue-secuestrado-hace-mas-de-un-ano-en-la-region-del-catatumbo-al-sur-del-cesar-3559313",
@@ -49,11 +70,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "UN Supports responsibility of countries in climate change",
+        "title": "MinAmbiente issued a decree with protection measures for the S\u00e1bana de Bogot\u00e1",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/minambiente-expidio-decreto-con-medidas-de-proteccion-para-la-sabana-de-bogota-4403910",
+        "published_date": "2026-05-30 13:54:28",
+        "category": "Military"
+    },
+    {
+        "title": "Colombia will choose the country it wants to be",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/onu-aprueba-responsabilidades-de-los-paises-con-el-cambio-climatico/",
-        "published_date": "2026-05-22 20:16:31",
-        "category": "Diplomacy"
+        "url": "https://www.lasillavacia.com/opinion/colombia-elegira-el-pais-que-quiere-ser/",
+        "published_date": "2026-05-30 12:38:49",
+        "category": "Military"
     },
     {
         "title": "Trade and border mark the Gross Domestic Product of Norte de Santander",
@@ -182,18 +210,18 @@
         "category": "Military"
     },
     {
-        "title": "Destroyed bedrooms and devastated military zones: this is how the battalion attacked with explosives in La Guajira left twelve soldiers injured",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/dormitorios-destruidos-y-zonas-militares-devastadas-asi-quedo-el-batallon-atacado-con-explosivos-en-la-guajira-que-dejo-doce-soldados-heridos-3558725",
-        "published_date": "2026-05-27 07:47:49",
-        "category": "Military"
+        "title": "Government says that Colombia will once again help Ecuador with energy if it has availability",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/gobierno-dice-que-colombia-volvera-a-ayudar-a-ecuador-con-energia-si-tiene-disponibilidad-4404292",
+        "published_date": "2026-05-30 18:01:30",
+        "category": "Energy"
     },
     {
-        "title": "The fear of reporting extortion would be hiding the true magnitude of the phenomenon in Barranquilla: under-registration could make it seven times greater",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/el-miedo-a-denunciar-extorsion-estaria-escondiendo-la-verdadera-magnitud-del-fenomeno-en-barranquilla-el-subregistro-podria-hacerlo-siete-veces-mayor-3558692",
-        "published_date": "2026-05-27 06:10:00",
-        "category": "Military"
+        "title": "Choosing is never easy, but it is a practical matter in democracy",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/elegir-nunca-es-facil-pero-es-un-asunto-practico-en-la-democracia/",
+        "published_date": "2026-05-30 13:00:00",
+        "category": "Energy"
     },
     {
         "title": "No one is saved: there are wineries with De la Espriella, Paloma and Cepeda",
@@ -322,20 +350,6 @@
         "category": "Energy"
     },
     {
-        "title": "Government adjusted Foes financing scheme amid El Ni\u00f1o alerts",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/gobierno-ajusta-esquema-de-financiacion-del-foes-en-medio-de-alertas-por-el-nino-4399799",
-        "published_date": "2026-05-25 14:28:00",
-        "category": "Energy"
-    },
-    {
-        "title": "Petro called the gas-fired thermal project assigned in the energy auction \u201cbetrayal\u201d",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/petro-tildo-de-traicion-el-proyecto-termico-a-gas-asignado-en-subasta-energetica-4399789",
-        "published_date": "2026-05-25 14:03:30",
-        "category": "Energy"
-    },
-    {
         "title": "Businesses in C\u00facuta are energized by dollarization and open borders",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/negocios-en-cucuta-se-dinamizan-por-la-dolarizacion-y-la-frontera-abierta-con-venezuela-4403905",
@@ -413,150 +427,143 @@
         "category": "Economy"
     },
     {
-        "title": "MinHacienda again refused to lower the VAT on aircraft fuel from 19% to 5%",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/minhacienda-se-nego-otra-vez-a-bajar-de-19-a-5-el-iva-a-combustibles-para-avion-4398452",
-        "published_date": "2026-05-22 20:30:25",
-        "category": "Economy"
-    },
-    {
-        "title": "0% tariffs between Daniel Noboa and the candidate Abelardo De La Espriella",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/aranceles-de-0-entre-daniel-noboa-y-el-candidato-abelardo-de-la-espriella-4404170",
-        "published_date": "2026-05-30 05:04:16",
+        "title": "Cepeda and Abelardo compete for first place in Google Trends",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/cepeda-y-abelardo-se-disputan-el-primer-lugar-en-google-trends/",
+        "published_date": "2026-05-30 23:37:59",
         "category": "Local Events"
     },
     {
-        "title": "The Supersociedades establishes measures so that Canacol continues with its operations",
+        "title": "The USO urged that the elections be voted \"prioritizing the energy future\"",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/supersociedades-fija-medidas-para-que-canacol-continue-con-sus-operaciones-4403852",
-        "published_date": "2026-05-30 05:03:47",
+        "url": "https://www.larepublica.co/economia/la-uso-insto-a-acudir-a-elecciones-presidenciales-priorizando-el-futuro-energetico-4404411",
+        "published_date": "2026-05-30 23:35:35",
         "category": "Local Events"
     },
     {
-        "title": "C\u00facuta brings together a network of almost 45,000 companies, especially in commerce and manufacturing.",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/cucuta-agrupa-un-tejido-de-casi-45-000-empresas-especialmente-en-comercio-y-manufactura-4403931",
-        "published_date": "2026-05-30 05:01:25",
+        "title": "Cepeda reaches the first round without revealing his economic advisors",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/cepeda-llega-a-primera-vuelta-sin-revelar-sus-asesores-economicos/",
+        "published_date": "2026-05-30 22:26:12",
         "category": "Local Events"
     },
     {
-        "title": "Dane revealed that April had 67,000 more unemployed people than those registered a year ago",
+        "title": "Iv\u00e1n Cepeda invites businessmen to join his presidential campaign",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/dane-revelo-que-abril-tuvo-67-000-desocupados-mas-que-los-registrados-hace-un-ano-4403870",
-        "published_date": "2026-05-30 05:01:17",
+        "url": "https://www.larepublica.co/economia/ivan-cepeda-invita-a-que-los-empresarios-se-sumen-a-su-campana-presidencial-4404313",
+        "published_date": "2026-05-30 18:56:44",
         "category": "Local Events"
     },
     {
-        "title": "The two drug traffickers in war who have escaped prison by saying they are indigenous: 'Chinga Pipe' and what he has done to avoid being behind bars",
+        "title": "Paloma's last campaign act will be an interview with Mr Stiven TC",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/el-ultimo-acto-de-campana-de-paloma-sera-una-entrevista-con-mr-stiven-tc/",
+        "published_date": "2026-05-30 18:54:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "From walks in the countryside to sustainable innovation: the story of Fungalic, the project that transforms waste into solutions with mushrooms",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/los-dos-narcos-en-guerra-que-han-evadido-la-carcel-diciendo-que-son-indigenas-chinga-pipe-y-lo-que-ha-hecho-para-no-estar-tras-las-rejas-3559587",
-        "published_date": "2026-05-30 02:01:20",
+        "url": "https://www.eltiempo.com/colombia/medellin/de-caminatas-en-el-campo-a-innovacion-sostenible-la-historia-de-fungalic-el-proyecto-que-transforma-residuos-en-soluciones-con-hongos-3559692",
+        "published_date": "2026-05-30 18:31:59",
         "category": "Local Events"
     },
     {
-        "title": "Detector: Marking two candidates on the card nullifies the vote",
+        "title": "Violence increased due to armed conflict before elections: Cerac",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/detector-marcar-dos-candidatos-en-el-tarjeton-anula-el-voto/",
-        "published_date": "2026-05-30 01:17:47",
+        "url": "https://www.lasillavacia.com/en-vivo/aumento-la-violencia-por-conflicto-armado-antes-de-elecciones-cerac/",
+        "published_date": "2026-05-30 18:31:48",
         "category": "Local Events"
     },
     {
-        "title": "The agenda that the university sets for the next president",
+        "title": "Exclusive: wife of presidential candidate Santiago Botero, evicted in Cartagena due to alleged case of domestic violence, speaks",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/exclusivo-habla-esposa-del-candidato-presidencial-santiago-botero-desalojado-en-cartagena-por-violencia-intrafamiliar-a-horas-de-abrirse-las-urnas-3559682",
+        "published_date": "2026-05-30 17:59:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "109 lives lost in 2026: this is how Medell\u00edn accompanies families who face grief due to traffic accidents",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/109-vidas-perdidas-en-2026-asi-acompana-medellin-a-las-familias-que-enfrentan-el-duelo-por-accidentes-de-transito-3559687",
+        "published_date": "2026-05-30 17:48:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "The brother-in-law of alias 'Castor' died after more than two months hospitalized: he was injured from the shooting outside a pool hall in the north of Barranquilla",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/fallecio-el-cunado-de-alias-castor-tras-mas-de-dos-meses-hospitalizado-estaba-herido-desde-la-balacera-afuera-de-billar-en-el-norte-de-barranquilla-3559688",
+        "published_date": "2026-05-30 17:40:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tragedy on the Santa Marta-Palomino highway: a passenger fell when she was trying to get on the bus and was killed by the same vehicle",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/tragedia-en-la-via-santa-marta-palomino-una-pasajera-se-cayo-cuando-intentaba-subirse-a-la-buseta-y-murio-arrollada-por-el-mismo-vehiculo-3559683",
+        "published_date": "2026-05-30 17:15:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Captured in flagrante delicto: man with a history of sexual violence is arrested in Cali after kidnapping a 4-year-old minor",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/capturado-en-flagrancia-hombre-con-antecedentes-por-violencia-sexual-es-detenido-en-cali-tras-secuestrar-a-una-menor-de-4-anos-3559657",
+        "published_date": "2026-05-30 15:26:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cIt's not about whether I have a jaguar and someone else has a tiger\u201d: Petro",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-academica/la-agenda-que-la-universidad-le-pone-al-proximo-presidente/",
-        "published_date": "2026-05-30 01:06:55",
+        "url": "https://www.lasillavacia.com/en-vivo/no-se-trata-de-si-yo-tengo-un-jaguar-y-otro-tiene-un-tigre-petro/",
+        "published_date": "2026-05-30 14:52:09",
         "category": "Local Events"
     },
     {
-        "title": "Noboa speaks with Abelardo and announces that he will remove tariffs on June 1",
+        "title": "With the increase in force in Nari\u00f1o, more than a million inhabitants prepare to go to the polls in peace",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/con-el-incremento-del-pie-de-fuerza-en-narino-mas-de-un-millon-de-habitantes-se-preparan-para-ir-a-las-urnas-en-paz-3559663",
+        "published_date": "2026-05-30 14:48:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Barranquilla opens national luggage area at the Ernesto Cortissoz airport and announces additional investment to complete its modernization",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-estrena-zona-de-equipajes-nacionales-en-el-aeropuerto-ernesto-cortissoz-y-anuncian-inversion-adicional-para-completar-su-modernizacion-3559655",
+        "published_date": "2026-05-30 14:01:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Caquet\u00e1 votes under armed pressure and tired of extortion and other news",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/noboa-habla-con-abelardo-y-anuncia-que-quitara-aranceles-el-1-de-junio/",
-        "published_date": "2026-05-30 00:40:25",
+        "url": "https://www.lasillavacia.com/en-vivo/caqueta-vota-bajo-presion-armada-y-cansado-de-la-extorsion-y-otras-noticias/",
+        "published_date": "2026-05-30 14:00:00",
         "category": "Local Events"
     },
     {
-        "title": "These videos of \u201cerasable\u201d pens abroad are fake and old",
+        "title": "A teacher who stays",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/estos-videos-de-esferos-borrables-en-el-exterior-son-falsos-y-viejos/",
-        "published_date": "2026-05-30 00:34:09",
+        "url": "https://www.lasillavacia.com/red-de-expertos/una-maestra-que-se-queda/",
+        "published_date": "2026-05-30 13:42:01",
         "category": "Local Events"
     },
     {
-        "title": "Fenalco assured that there is a stagnation in the market recovery",
+        "title": "Petro attributed \u00c1lvaro Uribe with the promotion of tariffs between Ecuador and Colombia",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/fenalco-aseguro-que-hay-un-estancamiento-en-la-recuperacion-del-mercado-laboral-4403856",
-        "published_date": "2026-05-30 00:24:20",
+        "url": "https://www.larepublica.co/economia/petro-atribuyo-a-alvaro-uribe-la-promocion-de-los-aranceles-entre-ecuador-y-colombia-4404221",
+        "published_date": "2026-05-30 13:35:33",
         "category": "Local Events"
     },
     {
-        "title": "Noboa announced the elimination of tariffs on Colombia starting in June",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/ecuador-eliminara-los-aranceles-a-exportaciones-colombianas-desde-el-1-de-junio-4403904",
-        "published_date": "2026-05-30 00:23:42",
+        "title": "Is there a relationship between the crime of Marcela G\u00f3mez, found in a sack on a road divider, and that of the woman found in a lot south of Cali?",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/existe-relacion-entre-el-crimen-de-marcela-gomez-hallada-en-un-costal-en-un-separador-vial-y-el-de-la-mujer-encontrada-en-un-lote-al-sur-de-cali-3559621",
+        "published_date": "2026-05-30 13:30:16",
         "category": "Local Events"
     },
     {
-        "title": "Sleep informed with the keys for this May 29, 2026",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-claves-de-este-29-de-mayo-de-2026/",
-        "published_date": "2026-05-30 00:07:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Again, the pens at the voting stations are not erasable",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/otra-vez-los-lapiceros-en-los-puestos-de-votacion-no-son-borrables/",
-        "published_date": "2026-05-30 00:04:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cepeda did not ask for a \u201csecond chance\u201d for Mateo P\u00e9rez's murderers",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/cepeda-no-pidio-una-segunda-oportunidad-para-asesinos-de-mateo-perez/",
-        "published_date": "2026-05-30 00:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Dane: Unemployment in Colombia remained at 8.8% in April 2026",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/dane-desempleo-en-colombia-se-mantuvo-en-88-en-abril-de-2026/",
-        "published_date": "2026-05-29 23:48:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Abelardo did not say that he supports fracking in moors, video was manipulated",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/detector-de-mentiras/enganoso/abelardo-no-dijo-que-apoya-el-fracking-en-paramos-video-fue-manipulado/",
-        "published_date": "2026-05-29 23:40:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Petro will meet with Zohran Mamdani, the mayor of New York",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/petro-se-reunira-con-zohran-mamdani-el-alcalde-de-nueva-york/",
-        "published_date": "2026-05-29 22:19:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Caquet\u00e1 votes under armed pressure and tired of extortion",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/el-caqueta-vota-bajo-presion-armada-y-cansado-de-la-extorsion/",
-        "published_date": "2026-05-29 22:16:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Detector: Petro did not return allowance 14 to all pensioners",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/detector-petro-no-devolvio-la-mesada-14-a-todos-los-pensionados/",
-        "published_date": "2026-05-29 22:06:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "Animalists and environmentalists move the networks days before elections",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/animalistas-y-ambientalistas-mueven-las-redes-dias-antes-de-elecciones/",
-        "published_date": "2026-05-29 21:47:08",
+        "title": "Presidential candidate Santiago Botero denies allegations of domestic violence and alludes to a 'political attack' after an eviction operation in Cartagena",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/candidato-presidencial-santiago-botero-niega-denuncias-de-violencia-intrafamiliar-y-alude-ataque-politico-tras-operativo-de-desalojo-en-cartagena-3559648",
+        "published_date": "2026-05-30 13:25:00",
         "category": "Local Events"
     }
 ]
