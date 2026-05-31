@@ -70,6 +70,20 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Governor Dilian Francisca Toro proposes a political pact with the National Government to prioritize security, health and infrastructure in the Pacific",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/gobernadora-dilian-francisca-toro-propone-pacto-politico-con-el-gobierno-nacional-para-priorizar-seguridad-salud-e-infraestructura-en-el-pacifico-3559721",
+        "published_date": "2026-05-31 02:29:00",
+        "category": "Military"
+    },
+    {
+        "title": "Nari\u00f1o authorities investigate threats from an armed group against farmers prior to presidential elections: 'Electoral certificate will be required'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/autoridades-de-narino-investigan-amenazas-de-grupo-armado-contra-campesinos-previo-a-elecciones-presidenciales-se-va-a-exigir-certificado-electoral-3559695",
+        "published_date": "2026-05-30 19:00:10",
+        "category": "Military"
+    },
+    {
         "title": "MinAmbiente issued a decree with protection measures for the S\u00e1bana de Bogot\u00e1",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/minambiente-expidio-decreto-con-medidas-de-proteccion-para-la-sabana-de-bogota-4403910",
@@ -193,20 +207,6 @@
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/medellin/atencion-tropas-de-la-septima-division-del-ejercito-adelantaron-detonacion-controlada-de-explosivos-instalados-por-el-eln-en-valdivia-antioquia-3559202",
         "published_date": "2026-05-28 17:50:51",
-        "category": "Military"
-    },
-    {
-        "title": "Videos |What is known about workers who were trapped after part of the construction in a Floridablanca residential complex collapsed: 'Collapse'",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/videos-lo-que-se-sabe-de-obreros-que-quedaron-atrapados-tras-desplome-de-parte-de-construccion-en-conjunto-residencial-de-floridablanca-colapsa-3559193",
-        "published_date": "2026-05-28 16:57:40",
-        "category": "Military"
-    },
-    {
-        "title": "3,100 police officers will guard elections in Barranquilla and its metropolitan area: there will be drones, helicopters and real-time monitoring",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/3-100-policias-custodiaran-elecciones-en-barranquilla-y-su-area-metropolitana-habra-drones-helicoptero-y-monitoreo-en-tiempo-real-3558990",
-        "published_date": "2026-05-28 07:17:31",
         "category": "Military"
     },
     {
@@ -427,6 +427,27 @@
         "category": "Economy"
     },
     {
+        "title": "Key data to read the first presidential round of 2026",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/datos-clave-para-leer-la-primera-vuelta-presidencial-de-2026/",
+        "published_date": "2026-05-31 01:34:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cepeda will give his last interview to Coronell",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/cepeda-dara-su-ultima-entrevista-a-coronell/",
+        "published_date": "2026-05-31 00:10:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mar\u00eda Fernanda Cabal distances herself from Uribism",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/maria-fernanda-cabal-se-distancia-del-uribismo/",
+        "published_date": "2026-05-31 00:04:40",
+        "category": "Local Events"
+    },
+    {
         "title": "Cepeda and Abelardo compete for first place in Google Trends",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/cepeda-y-abelardo-se-disputan-el-primer-lugar-en-google-trends/",
@@ -438,6 +459,20 @@
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/la-uso-insto-a-acudir-a-elecciones-presidenciales-priorizando-el-futuro-energetico-4404411",
         "published_date": "2026-05-30 23:35:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "The hidden war in the Guaviare jungle and the map of the area in which 48 dissidents were killed in bloody combats: 'There are no results'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/la-guerra-oculta-en-la-selva-del-guaviare-y-el-mapa-de-la-zona-en-la-que-48-disidentes-fueron-asesinados-en-sangrientos-combates-no-hay-resultados-3559694",
+        "published_date": "2026-05-30 23:32:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "Assault on the headquarters of the Historical Pact in Cali: common theft or political intimidation a few hours before the presidential elections?",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/asalto-a-sede-del-pacto-historico-en-cali-hurto-comun-o-intimidacion-politica-a-pocas-horas-de-las-elecciones-presidenciales-3559718",
+        "published_date": "2026-05-30 22:56:04",
         "category": "Local Events"
     },
     {
@@ -529,41 +564,6 @@
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-estrena-zona-de-equipajes-nacionales-en-el-aeropuerto-ernesto-cortissoz-y-anuncian-inversion-adicional-para-completar-su-modernizacion-3559655",
         "published_date": "2026-05-30 14:01:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Caquet\u00e1 votes under armed pressure and tired of extortion and other news",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/caqueta-vota-bajo-presion-armada-y-cansado-de-la-extorsion-y-otras-noticias/",
-        "published_date": "2026-05-30 14:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "A teacher who stays",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/una-maestra-que-se-queda/",
-        "published_date": "2026-05-30 13:42:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "Petro attributed \u00c1lvaro Uribe with the promotion of tariffs between Ecuador and Colombia",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/petro-atribuyo-a-alvaro-uribe-la-promocion-de-los-aranceles-entre-ecuador-y-colombia-4404221",
-        "published_date": "2026-05-30 13:35:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "Is there a relationship between the crime of Marcela G\u00f3mez, found in a sack on a road divider, and that of the woman found in a lot south of Cali?",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/existe-relacion-entre-el-crimen-de-marcela-gomez-hallada-en-un-costal-en-un-separador-vial-y-el-de-la-mujer-encontrada-en-un-lote-al-sur-de-cali-3559621",
-        "published_date": "2026-05-30 13:30:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Presidential candidate Santiago Botero denies allegations of domestic violence and alludes to a 'political attack' after an eviction operation in Cartagena",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/candidato-presidencial-santiago-botero-niega-denuncias-de-violencia-intrafamiliar-y-alude-ataque-politico-tras-operativo-de-desalojo-en-cartagena-3559648",
-        "published_date": "2026-05-30 13:25:00",
         "category": "Local Events"
     }
 ]
