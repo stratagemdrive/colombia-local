@@ -70,6 +70,13 @@
         "category": "Diplomacy"
     },
     {
+        "title": "On the day of the 2026 presidential elections, explosions with ELN drones are reported near Tib\u00fa, Norte de Santander",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/en-pleno-dia-de-las-elecciones-presidenciales-de-2026-reportan-explosiones-con-drones-cerca-de-tibu-norte-de-santander-3560923",
+        "published_date": "2026-05-31 18:53:47",
+        "category": "Military"
+    },
+    {
         "title": "Governor Dilian Francisca Toro proposes a political pact with the National Government to prioritize security, health and infrastructure in the Pacific",
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/cali/gobernadora-dilian-francisca-toro-propone-pacto-politico-con-el-gobierno-nacional-para-priorizar-seguridad-salud-e-infraestructura-en-el-pacifico-3559721",
@@ -203,11 +210,18 @@
         "category": "Military"
     },
     {
-        "title": "Attention: troops of the Seventh Division of the Army carried out controlled detonation of explosives installed by the ELN in Valdivia, Antioquia",
+        "title": "Colombia is going to a second round between two exclusive projects",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/colombia-va-a-una-segunda-vuelta-entre-dos-proyectos-excluyentes/",
+        "published_date": "2026-05-31 23:19:52",
+        "category": "Energy"
+    },
+    {
+        "title": "Given the lack of energy service, the community of Islagrande, in the island area of \u200b\u200bCartagena, was on the verge of not casting a single vote",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/atencion-tropas-de-la-septima-division-del-ejercito-adelantaron-detonacion-controlada-de-explosivos-instalados-por-el-eln-en-valdivia-antioquia-3559202",
-        "published_date": "2026-05-28 17:50:51",
-        "category": "Military"
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/ante-la-falta-de-servicio-de-energia-comunidad-de-islagrande-en-zona-insular-de-cartagena-estuvo-a-punto-de-no-depositar-un-solo-voto-3560890",
+        "published_date": "2026-05-31 14:56:37",
+        "category": "Energy"
     },
     {
         "title": "Government says that Colombia will once again help Ecuador with energy if it has availability",
@@ -336,20 +350,6 @@
         "category": "Energy"
     },
     {
-        "title": "Ecopetrol and Frontera Energy will regasify up to 300 Gbtud of gas starting in December",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/ecopetrol-y-frontera-energy-regasificara-hasta-300-gbtud-de-gas-a-partir-de-diciembre-4400132",
-        "published_date": "2026-05-25 20:51:15",
-        "category": "Energy"
-    },
-    {
-        "title": "Villa del Mar will light up your nights: this is the new field illuminated with solar energy that benefits about 7,000 people in Barranquilla",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/villa-del-mar-encendera-sus-noches-esta-es-la-nueva-cancha-iluminada-con-energia-solar-que-beneficia-a-cerca-de-7000-personas-en-barranquilla-3558275",
-        "published_date": "2026-05-25 15:20:00",
-        "category": "Energy"
-    },
-    {
         "title": "Businesses in C\u00facuta are energized by dollarization and open borders",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/negocios-en-cucuta-se-dinamizan-por-la-dolarizacion-y-la-frontera-abierta-con-venezuela-4403905",
@@ -427,6 +427,132 @@
         "category": "Economy"
     },
     {
+        "title": "This is how the polls fared in the first presidential round of 2026",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/asi-le-fue-a-las-encuestas-en-la-primera-vuelta-presidencial-de-2026/",
+        "published_date": "2026-06-01 00:06:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Paloma accepts defeat and, together with Uribe, will support De la Espriella",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/paloma-acepta-la-derrota-y-junto-a-uribe-apoyara-a-de-la-espriella/",
+        "published_date": "2026-05-31 23:54:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "Fajardo celebrates his million votes in the first round",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/fajardo-celebra-su-millon-de-votos-en-primera-vuelta/",
+        "published_date": "2026-05-31 23:30:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "Abelardo celebrates victory in first class from Barranquilla",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/abelardo-celebra-triunfo-en-primera-desde-barranquilla/",
+        "published_date": "2026-05-31 23:15:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "Paloma changes venue after its failure in the first round",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/paloma-cambia-de-sede-tras-su-fracaso-en-la-primera-vuelta/",
+        "published_date": "2026-05-31 23:05:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "Detector: Fajardo did not vote for De la Espriella;image is altered",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/detector-fajardo-no-voto-por-de-la-espriella-imagen-esta-alterada/",
+        "published_date": "2026-05-31 23:00:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "Silence in Cepeda's campaign: his worst scenario occurred",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/silencio-en-la-campana-de-cepeda-su-peor-escenario-se-dio/",
+        "published_date": "2026-05-31 22:34:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cPosuribismo began\u201d: Abelardo's beating of Paloma and Uribe is announced",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/empezo-el-posuribismo-se-anuncia-paliza-de-abelardo-a-paloma-y-uribe/",
+        "published_date": "2026-05-31 22:10:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "There will be a second round: Abelardo and Cepeda will face each other on June 21",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/habra-segunda-vuelta-abelardo-y-cepeda-se-enfrentaran-el-21-de-junio/",
+        "published_date": "2026-05-31 22:08:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "Comptroller's Office warns Superservicios for decapitalization of Air-e",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/contraloria-advierte-a-superservicios-por-descapitalizacion-de-80-en-air-e-4404587",
+        "published_date": "2026-05-31 18:41:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "Antioquia experienced an election day without setbacks: this is the final balance of the votes on May 31",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/antioquia-vivio-una-jornada-electoral-sin-contratiempos-este-es-el-balance-final-de-las-votaciones-del-31-de-mayo-3560951",
+        "published_date": "2026-05-31 18:32:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "Presidential elections 2026: this is how Atl\u00e1ntico and Barranquilla voted;the trend reflected a close dispute",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/elecciones-presidenciales-2026-asi-voto-el-atlantico-y-barranquilla-la-tendencia-reflejo-una-disputa-cerrada-3560941",
+        "published_date": "2026-05-31 18:27:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "This is how political power moved in Medell\u00edn and Antioquia this May 31: De la Espriella swept and Iv\u00e1n Cepeda got more votes than Paloma Valencia",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/asi-se-movio-el-poder-politico-en-medellin-y-antioquia-este-31-de-mayo-de-la-espriella-barrio-e-ivan-cepeda-saco-mas-votos-que-paloma-valencia-3560922",
+        "published_date": "2026-05-31 18:17:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "Unexpected: woman who was reported missing in Colombia was found while voting in Santander",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/inesperado-mujer-que-estaba-reportada-como-desaparecida-en-colombia-fue-hallada-al-ejercer-el-voto-en-santander-3560903",
+        "published_date": "2026-05-31 15:33:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "Char responds to Petro in the middle of election day: there is a clash over PAE resources;questions national investment and defends educational management",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/char-responde-a-petro-en-plena-jornada-electoral-mantiene-choque-por-recursos-del-pae-cuestiona-inversion-nacional-defiende-gestion-educativa-3560896",
+        "published_date": "2026-05-31 15:15:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "Peace at the polls: Valle del Cauca authorities report normality and massive participation in the presidential elections",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/paz-en-las-urnas-autoridades-del-valle-del-cauca-reportan-normalidad-y-participacion-masiva-en-las-elecciones-presidenciales-3560897",
+        "published_date": "2026-05-31 15:01:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "Alias \u200b\u200b'Chal\u00eda', the feared leader of the Gulf Clan who spread terror among indigenous leaders of Choc\u00f3, falls",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/cae-alias-chalia-el-temido-cabecilla-del-clan-del-golfo-que-sembraba-el-terror-entre-lideres-indigenas-del-choco-3560887",
+        "published_date": "2026-05-31 14:00:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "'I fear for my family': DJ Coco breaks the silence after being linked to the tragedy at the El Pe\u00f1ol reservoir in which Alex\u00e1nder Avenda\u00f1o died",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/temo-por-mi-familia-dj-coco-rompe-el-silencio-tras-ser-vinculado-a-la-tragedia-en-el-embalse-de-el-penol-en-la-que-murio-alexander-avendano-3560882",
+        "published_date": "2026-05-31 13:21:36",
+        "category": "Local Events"
+    },
+    {
         "title": "Key data to read the first presidential round of 2026",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/silla-nacional/datos-clave-para-leer-la-primera-vuelta-presidencial-de-2026/",
@@ -438,132 +564,6 @@
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/cepeda-dara-su-ultima-entrevista-a-coronell/",
         "published_date": "2026-05-31 00:10:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mar\u00eda Fernanda Cabal distances herself from Uribism",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/maria-fernanda-cabal-se-distancia-del-uribismo/",
-        "published_date": "2026-05-31 00:04:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cepeda and Abelardo compete for first place in Google Trends",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/cepeda-y-abelardo-se-disputan-el-primer-lugar-en-google-trends/",
-        "published_date": "2026-05-30 23:37:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "The USO urged that the elections be voted \"prioritizing the energy future\"",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/la-uso-insto-a-acudir-a-elecciones-presidenciales-priorizando-el-futuro-energetico-4404411",
-        "published_date": "2026-05-30 23:35:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "The hidden war in the Guaviare jungle and the map of the area in which 48 dissidents were killed in bloody combats: 'There are no results'",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/la-guerra-oculta-en-la-selva-del-guaviare-y-el-mapa-de-la-zona-en-la-que-48-disidentes-fueron-asesinados-en-sangrientos-combates-no-hay-resultados-3559694",
-        "published_date": "2026-05-30 23:32:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "Assault on the headquarters of the Historical Pact in Cali: common theft or political intimidation a few hours before the presidential elections?",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/asalto-a-sede-del-pacto-historico-en-cali-hurto-comun-o-intimidacion-politica-a-pocas-horas-de-las-elecciones-presidenciales-3559718",
-        "published_date": "2026-05-30 22:56:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cepeda reaches the first round without revealing his economic advisors",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/cepeda-llega-a-primera-vuelta-sin-revelar-sus-asesores-economicos/",
-        "published_date": "2026-05-30 22:26:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "Iv\u00e1n Cepeda invites businessmen to join his presidential campaign",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/ivan-cepeda-invita-a-que-los-empresarios-se-sumen-a-su-campana-presidencial-4404313",
-        "published_date": "2026-05-30 18:56:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Paloma's last campaign act will be an interview with Mr Stiven TC",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/el-ultimo-acto-de-campana-de-paloma-sera-una-entrevista-con-mr-stiven-tc/",
-        "published_date": "2026-05-30 18:54:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "From walks in the countryside to sustainable innovation: the story of Fungalic, the project that transforms waste into solutions with mushrooms",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/de-caminatas-en-el-campo-a-innovacion-sostenible-la-historia-de-fungalic-el-proyecto-que-transforma-residuos-en-soluciones-con-hongos-3559692",
-        "published_date": "2026-05-30 18:31:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "Violence increased due to armed conflict before elections: Cerac",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/aumento-la-violencia-por-conflicto-armado-antes-de-elecciones-cerac/",
-        "published_date": "2026-05-30 18:31:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Exclusive: wife of presidential candidate Santiago Botero, evicted in Cartagena due to alleged case of domestic violence, speaks",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/exclusivo-habla-esposa-del-candidato-presidencial-santiago-botero-desalojado-en-cartagena-por-violencia-intrafamiliar-a-horas-de-abrirse-las-urnas-3559682",
-        "published_date": "2026-05-30 17:59:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "109 lives lost in 2026: this is how Medell\u00edn accompanies families who face grief due to traffic accidents",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/109-vidas-perdidas-en-2026-asi-acompana-medellin-a-las-familias-que-enfrentan-el-duelo-por-accidentes-de-transito-3559687",
-        "published_date": "2026-05-30 17:48:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "The brother-in-law of alias 'Castor' died after more than two months hospitalized: he was injured from the shooting outside a pool hall in the north of Barranquilla",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/fallecio-el-cunado-de-alias-castor-tras-mas-de-dos-meses-hospitalizado-estaba-herido-desde-la-balacera-afuera-de-billar-en-el-norte-de-barranquilla-3559688",
-        "published_date": "2026-05-30 17:40:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tragedy on the Santa Marta-Palomino highway: a passenger fell when she was trying to get on the bus and was killed by the same vehicle",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/tragedia-en-la-via-santa-marta-palomino-una-pasajera-se-cayo-cuando-intentaba-subirse-a-la-buseta-y-murio-arrollada-por-el-mismo-vehiculo-3559683",
-        "published_date": "2026-05-30 17:15:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Captured in flagrante delicto: man with a history of sexual violence is arrested in Cali after kidnapping a 4-year-old minor",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/capturado-en-flagrancia-hombre-con-antecedentes-por-violencia-sexual-es-detenido-en-cali-tras-secuestrar-a-una-menor-de-4-anos-3559657",
-        "published_date": "2026-05-30 15:26:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cIt's not about whether I have a jaguar and someone else has a tiger\u201d: Petro",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/no-se-trata-de-si-yo-tengo-un-jaguar-y-otro-tiene-un-tigre-petro/",
-        "published_date": "2026-05-30 14:52:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "With the increase in force in Nari\u00f1o, more than a million inhabitants prepare to go to the polls in peace",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/con-el-incremento-del-pie-de-fuerza-en-narino-mas-de-un-millon-de-habitantes-se-preparan-para-ir-a-las-urnas-en-paz-3559663",
-        "published_date": "2026-05-30 14:48:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Barranquilla opens national luggage area at the Ernesto Cortissoz airport and announces additional investment to complete its modernization",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-estrena-zona-de-equipajes-nacionales-en-el-aeropuerto-ernesto-cortissoz-y-anuncian-inversion-adicional-para-completar-su-modernizacion-3559655",
-        "published_date": "2026-05-30 14:01:00",
         "category": "Local Events"
     }
 ]
