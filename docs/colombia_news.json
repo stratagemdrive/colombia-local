@@ -1,5 +1,12 @@
 [
     {
+        "title": "Attorney General's Office suspends Ambassador Saade for participation in politics",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/procuraduria-suspende-a-embajador-saade-por-participacion-en-politica/",
+        "published_date": "2026-06-02 12:59:13",
+        "category": "Diplomacy"
+    },
+    {
         "title": "MinTransporte spoke out after the death of Alexander Avenda\u00f1o in the Guatap\u00e9 reservoir and warned of possible sanctions: 'Protection must be guaranteed'",
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/medellin/mintransporte-se-pronuncio-sobre-la-tragedia-en-el-embalse-de-guatape-y-advirtio-posibles-sanciones-la-proteccion-de-la-vida-debe-garantizarse-3561122",
@@ -61,6 +68,27 @@
         "url": "https://www.lasillavacia.com/en-vivo/procurador-pide-denuncias-contra-petro-sobre-participacion-en-politica/",
         "published_date": "2026-05-25 20:12:33",
         "category": "Diplomacy"
+    },
+    {
+        "title": "Some 200 families remain confined due to the attack with explosives that dissidents launched with drones in Cauca: six children and one adult injured",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/unas-200-familias-se-mantienen-confinadas-por-el-ataque-con-explosivos-que-disidentes-de-las-farc-lanzaron-utilizando-drones-en-suarez-cauca-3561388",
+        "published_date": "2026-06-02 09:31:32",
+        "category": "Military"
+    },
+    {
+        "title": "This is the condition of six children and one injured adult, after the fierce attack in Cauca: 'They violated IHL by throwing explosives at the population'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/violaron-el-dih-al-lanzar-explosivos-contra-la-poblacion-la-mayoria-ninos-este-es-el-estado-de-seis-menores-y-un-adulto-heridos-en-cauca-3561408",
+        "published_date": "2026-06-02 09:25:12",
+        "category": "Military"
+    },
+    {
+        "title": "More than 1,000 police officers will guard the Junior-National first leg final match: drones, controls and special surveillance at the Romelio Mart\u00ednez stadium",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/mas-de-1-000-policias-blindaran-partido-de-la-final-de-ida-junior-nacional-drones-controles-y-vigilancia-especial-en-el-estadio-romelio-martinez-3561368",
+        "published_date": "2026-06-02 06:31:56",
+        "category": "Military"
     },
     {
         "title": "MinTransporte warned of possible non-compliance on the Guatap\u00e9 vessel",
@@ -182,25 +210,25 @@
         "category": "Military"
     },
     {
-        "title": "Security: what the candidates promise and what they are not explaining",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/seguridad-lo-que-las-candidaturas-prometen-y-lo-que-no-estan-explicando/",
-        "published_date": "2026-05-28 20:54:40",
-        "category": "Military"
+        "title": "Ecopetrol Board met with the National Government, C\u00e9sar Loza could leave",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/junta-de-ecopetrol-se-reunio-con-el-gobierno-nacional-cesar-loza-podria-salir-4405905",
+        "published_date": "2026-06-02 13:00:42",
+        "category": "Energy"
     },
     {
-        "title": "Eln claimed responsibility for the kidnapping of the son of the former mayor of Tame, Arauca, and issued a warning about a possible release",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/eln-se-atribuyo-el-secuestro-del-hijo-del-exalcalde-de-tame-arauca-y-lanzo-una-advertencia-ante-una-posible-liberacion-3559221",
-        "published_date": "2026-05-28 18:53:13",
-        "category": "Military"
+        "title": "June opens with the highest energy price of the year on the stock market with $833.3 per kilowatt hour",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/junio-abre-con-el-mayor-precio-de-energia-en-bolsa-del-ano-con-833-3-por-kilovatio-hora-4405718",
+        "published_date": "2026-06-02 05:01:45",
+        "category": "Energy"
     },
     {
-        "title": "Triple homicide in a house in Ipiales, on the border with Ecuador: 'Armed men were in a red car, they got out, shot and then fled'",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/masacre-en-una-casa-del-municipio-de-ipiales-en-la-frontera-con-ecuador-hombres-armados-iban-en-un-carro-rojo-bajaron-dispararon-y-luego-huyeron-3559218",
-        "published_date": "2026-05-28 18:49:04",
-        "category": "Military"
+        "title": "National oil production in April was 724,910 barrels per day",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/produccion-nacional-de-petroleo-en-abril-fue-de-724-910-barriles-por-dia-cayo-2-10-4405779",
+        "published_date": "2026-06-02 00:35:48",
+        "category": "Energy"
     },
     {
         "title": "Anla delivered the fifth regasification permit to the Chuchupa-Ballena project",
@@ -322,27 +350,6 @@
         "category": "Energy"
     },
     {
-        "title": "Water and power outages in Cali: check if your neighborhood is on the list of works scheduled by Emcali for this Thursday, May 28",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/cortes-de-agua-y-energia-en-cali-revise-si-su-barrio-esta-en-la-lista-de-trabajos-programados-por-emcali-para-este-jueves-28-de-mayo-3559018",
-        "published_date": "2026-05-28 09:01:17",
-        "category": "Energy"
-    },
-    {
-        "title": "Coal consumption rose 47.9% and gas consumption rose 65.1% due to the risk of El Ni\u00f1o phenomenon",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/consumo-de-carbon-subio-47-9-y-de-gas-65-1-ante-riesgo-de-fenomeno-de-el-nino-4401519",
-        "published_date": "2026-05-28 05:03:18",
-        "category": "Energy"
-    },
-    {
-        "title": "With 25% of Brava shares, Ecopetrol would increase international production to 20%",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/con-25-de-las-acciones-de-brava-ecopetrol-elevaria-produccion-internacional-a-20-4397876",
-        "published_date": "2026-05-27 05:01:34",
-        "category": "Energy"
-    },
-    {
         "title": "After Abelardo's victory, debt rates and the price of the dollar fell",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/tras-victoria-de-abelardo-bajaron-tasas-de-deuda-y-precio-del-dolar/",
@@ -427,143 +434,143 @@
         "category": "Economy"
     },
     {
-        "title": "Sleep informed with the keys for this June 1, 2026",
+        "title": "Five immigration decisions that the next president must make",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-claves-de-este-1-de-junio-de-2026/",
-        "published_date": "2026-06-02 00:00:00",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/cinco-decisiones-migratorias-que-debera-tomar-el-proximo-presidente/",
+        "published_date": "2026-06-02 14:49:07",
         "category": "Local Events"
     },
     {
-        "title": "Confidence came out of the electoral chat",
+        "title": "The State exacerbates the problem of cargo transportation",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-democracia-y-tecnologia/la-confianza-salio-del-chat-electoral/",
-        "published_date": "2026-06-01 23:45:37",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-ciencia-e-innovacion/el-estado-agudiza-el-problema-del-transporte-de-carga/",
+        "published_date": "2026-06-02 14:45:20",
         "category": "Local Events"
     },
     {
-        "title": "Cepeda did not have an advantage in municipalities with \u201crisk of criminal control\u201d",
+        "title": "Kpopers enter the campaign to promote Cepeda",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/cepeda-no-tuvo-ventaja-en-municipios-con-riesgo-de-control-criminal/",
-        "published_date": "2026-06-01 23:40:52",
+        "url": "https://www.lasillavacia.com/en-vivo/kpopers-entran-a-la-campana-para-impulsar-a-cepeda/",
+        "published_date": "2026-06-02 14:45:06",
         "category": "Local Events"
     },
     {
-        "title": "The first round in data: this is how the surprise of the Abelardist right occurred",
+        "title": "Petro says he has evidence of fraud and changes in the electoral roll",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/la-primera-vuelta-en-datos-asi-se-dio-la-sorpresa-de-la-derecha-abelardista/",
-        "published_date": "2026-06-01 23:24:51",
+        "url": "https://www.lasillavacia.com/en-vivo/petro-dice-tener-pruebas-de-fraude-y-cambios-en-el-censo-electoral/",
+        "published_date": "2026-06-02 14:22:02",
         "category": "Local Events"
     },
     {
-        "title": "The first half of the second round",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/opinion/el-primer-tiempo-de-la-segunda-vuelta/",
-        "published_date": "2026-06-01 23:03:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "Four years after its creation, herbarium in Putumayo has no fixed headquarters",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/cuatro-anos-despues-de-su-creacion-herbario-en-putumayo-no-tiene-sede-fija/",
-        "published_date": "2026-06-01 23:01:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "One in every three drops in the Magdalena River comes from the Amazon River",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/una-de-cada-tres-gotas-en-el-rio-magdalena-vienen-del-rio-amazonas/",
-        "published_date": "2026-06-01 22:56:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cepeda's campaign is already looking for coffees with the center for the second round",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/campana-de-cepeda-ya-busca-cafes-con-el-centro-para-segunda-vuelta/",
-        "published_date": "2026-06-01 22:49:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "Profits of the Issuer already total $3.4 billion, fell by 42% compared to April 2025",
+        "title": "Relief for 175,000 taxpayers left $2.59 billion during emergency",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/utilidades-del-emisor-ya-suman-3-4-billones-cayeron-en-42-frente-a-abril-de-2025-4405653",
-        "published_date": "2026-06-01 22:38:37",
+        "url": "https://www.larepublica.co/economia/alivios-de-175-000-contribuyentes-dejaron-2-59-billones-durante-emergencia-4406029",
+        "published_date": "2026-06-02 12:54:23",
         "category": "Local Events"
     },
     {
-        "title": "La Silla Vac\u00eda invites the two candidates for Open Microphone",
+        "title": "WMO said that there is an 80% probability that El Ni\u00f1o will arrive between June and August",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/omm-dijo-que-hay-80-de-probabilidad-que-el-nino-llegue-entre-junio-y-agosto-4406028",
+        "published_date": "2026-06-02 12:42:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "Have an informed breakfast with the keys for this June 2, 2026",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/la-silla-vacia-invita-a-los-dos-candidatos-a-microfono-abierto/",
-        "published_date": "2026-06-01 22:21:43",
+        "url": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-claves-de-este-2-de-junio-de-2026/",
+        "published_date": "2026-06-02 12:18:27",
         "category": "Local Events"
     },
     {
-        "title": "Who was Jennifer Guevara, murdered in the south of Cali?: 'She went out to work and did not return,' said her sister, while authorities have a hypothesis",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/quien-era-jennifer-guevara-asesinada-en-el-sur-de-cali-salio-a-trabajar-y-no-regreso-dijo-su-hermana-mientras-autoridades-tienen-una-hipotesis-3561297",
-        "published_date": "2026-06-01 18:37:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "This is the package of four strategic projects with which the Mayor's Office seeks to 'continue recovering Cali'",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/asi-es-el-paquete-de-cuatro-proyectos-estrategicos-con-los-que-la-alcaldia-busca-seguir-recuperando-a-cali-3561301",
-        "published_date": "2026-06-01 18:37:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "Air crash on the Villavicencio-La Macarena route leaves four dead",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/accidente-aereo-en-la-ruta-villavicencio-la-macarena-deja-cuatro-fallecidos-4405374",
-        "published_date": "2026-06-01 17:26:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "Analdex asked to fully restore free trade conditions with Ecuador",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/analdex-pidio-restablecer-plenamente-condiciones-de-libre-comercio-con-ecuador-4405385",
-        "published_date": "2026-06-01 17:22:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "The expansion of the Calle 187 and TransMilenio Terminal stations is ready",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/esta-lista-la-ampliacion-de-las-estaciones-calle-187-y-terminal-de-la-troncal-autopista-norte-4405357",
-        "published_date": "2026-06-01 17:20:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "Atl\u00e1ntico escalates in violence: 108 murders in May and there are already 502 so far this year;Barranquilla and Soledad concentrate 81 crimes",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/atlantico-escala-en-violencia-108-asesinatos-en-mayo-y-ya-son-502-en-lo-corrido-del-ano-barranquilla-y-soledad-concentran-81-crimenes-3561289",
-        "published_date": "2026-06-01 17:20:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cartagena Mayor's Office broke relations with Veolia, operating partner of Acuacar",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/alcaldia-de-cartagena-rompio-relaciones-con-veolia-socio-operador-de-acuacar-4405383",
-        "published_date": "2026-06-01 17:19:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "From mullet rice to the laboratory: the scientific race to save an emblematic fish of the Caribbean;They seek to protect food and employment of fishermen",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/del-arroz-de-lisa-al-laboratorio-la-carrera-cientifica-para-salvar-un-pez-emblematico-del-caribe-buscan-proteger-alimento-y-empleo-de-pescadores-3561262",
-        "published_date": "2026-06-01 16:46:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "In Floridablanca is the first shopping center in Colombia with a waste bioconversion model to convert it into oil, flour and fertilizer",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/en-floridablanca-esta-el-primer-centro-comercial-de-colombia-con-un-modelo-de-bioconversion-de-residuos-para-convertirlos-en-aceite-harina-y-abono-3561256",
-        "published_date": "2026-06-01 16:44:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Parties begin landing operation towards Abelardo",
+        "title": "Cepeda tries the comeback operation",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/partidos-inician-operacion-aterrizaje-hacia-abelardo/",
-        "published_date": "2026-06-01 16:38:22",
+        "url": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/cepeda-intenta-la-operacion-remontada/",
+        "published_date": "2026-06-02 12:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "USO workers announced the start of a 24-hour stoppage of operations",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/trabajadores-de-uso-anunciaron-inicio-de-paro-de-operaciones-por-24-horas-4405942",
+        "published_date": "2026-06-02 11:33:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cerrej\u00f3n reactivated operations in La Guajira because the community agreed to lift the blockade on the railway line",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/anuncio-de-suspension-de-operaciones-de-cerrejon-acelero-intervenciones-que-permitieron-levantar-el-bloqueo-en-la-linea-ferrea-y-reactivar-operacion-3561407",
+        "published_date": "2026-06-02 09:31:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cousin of Alexander Avenda\u00f1o, the young man who drowned in the Guatap\u00e9 reservoir, told why he was partying on a planch\u00f3n: 'It's unfair'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/prima-de-alexander-avendano-el-joven-que-murio-ahogado-en-el-embalse-de-guatape-conto-por-que-estaban-de-fiesta-en-un-planchon-es-injusto-3561391",
+        "published_date": "2026-06-02 09:28:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "The invisible borders that fuel youth violence in some neighborhoods of Barranquilla and the municipalities of the metropolitan area",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/las-fronteras-invisibles-que-alimentan-la-violencia-juvenil-en-algunos-barrios-de-barranquilla-y-los-municipios-del-area-metropolitana-3561387",
+        "published_date": "2026-06-02 09:04:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "Detector: again, E-14 forms with errors do not prove fraud",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/detector-de-mentiras/detector-otra-vez-formularios-e-14-con-errores-no-prueban-fraude/",
+        "published_date": "2026-06-02 07:57:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "Young university student, mother of a six-month-old baby, was found dead in Bogot\u00e1: this is the main hypothesis",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/joven-universitaria-madre-de-una-bebe-de-seis-meses-fue-hallada-sin-vida-en-bogota-esta-es-la-principal-hipotesis-3561379",
+        "published_date": "2026-06-02 07:47:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "As of April, there were 144,000 more domestic employees than a year ago",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/con-corte-a-abril-habia-144-000-empleados-domesticos-mas-que-hace-un-ano-4405650",
+        "published_date": "2026-06-02 05:01:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Global and local 10-year bonds appreciated after the first presidential round",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/bonos-globales-y-locales-a-10-anos-se-valorizaron-tras-primera-vuelta-presidencial-4405713",
+        "published_date": "2026-06-02 05:00:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "The country risk falls 36 basis points after the first round of the presidential elections",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/riesgo-pais-cae-36-puntos-basicos-tras-el-primer-round-de-las-presidenciales-4405730",
+        "published_date": "2026-06-02 05:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Serious high-end car accident left five injured in Dosquebradas: driver would be in a state of drunkenness",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/grave-accidente-de-carro-de-alta-gama-dejo-cinco-heridos-en-dosquebradas-conductor-estaria-en-estado-de-embriaguez-3561362",
+        "published_date": "2026-06-02 03:00:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "Drivers attention!Peak and plaque in Pereira for Tuesday, June 2, 2026: this is how the measure will govern",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/atencion-conductores-pico-y-placa-en-pereira-para-el-martes-2-de-junio-de-2026-asi-regira-la-medida-3561352",
+        "published_date": "2026-06-02 02:40:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "This is how the peak and plate operates in Bucaramanga for Tuesday, June 2, 2026",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/asi-opera-el-pico-y-placa-en-bucaramanga-para-el-martes-2-de-junio-de-3561351",
+        "published_date": "2026-06-02 02:30:00",
         "category": "Local Events"
     }
 ]
