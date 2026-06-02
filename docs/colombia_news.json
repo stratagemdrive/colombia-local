@@ -63,20 +63,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Petro asks to send surplus Colombian rice to Cuba after donation from China",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/petro-pide-enviar-excedentes-de-arroz-colombiano-a-cuba-tras-donacion-hecha-por-china-4399466",
-        "published_date": "2026-05-24 23:01:43",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Federico Guti\u00e9rrez, mayor of Medell\u00edn, rejected the resumption of the Itag\u00fc\u00ed prison table: 'Those who make war instrumentalize peace'",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/federico-gutierrez-alcalde-de-medellin-rechazo-la-reanudacion-de-la-mesa-de-la-carcel-de-itaguei-instrumentalizan-la-paz-los-que-hacen-la-guerra-3558057",
-        "published_date": "2026-05-24 18:37:19",
-        "category": "Diplomacy"
-    },
-    {
         "title": "MinTransporte warned of possible non-compliance on the Guatap\u00e9 vessel",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/mintransporte-alerto-posibles-incumplimientos-en-embarcacion-de-guatape-4405332",
@@ -217,6 +203,20 @@
         "category": "Military"
     },
     {
+        "title": "Anla delivered the fifth regasification permit to the Chuchupa-Ballena project",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/anla-entrego-quinto-permiso-de-regasificacion-a-proyecto-chuchupa-ballena-4405607",
+        "published_date": "2026-06-01 21:01:54",
+        "category": "Energy"
+    },
+    {
+        "title": "A young mother who had been burned after being doused with gasoline by her ex-partner died: 'I only ask that justice be done,' said the victim's mother",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/murio-joven-madre-que-habia-sido-quemada-tras-ser-rociada-con-gasolina-por-su-expareja-solo-pido-que-se-haga-justicia-dijo-la-mama-de-la-victima-3561310",
+        "published_date": "2026-06-01 18:16:17",
+        "category": "Energy"
+    },
+    {
         "title": "The reasons why in Santander they voted 58% to the right. Which political party lost heavily in the region?",
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/santander/las-razones-por-las-que-en-santander-votaron-con-tendencia-a-la-derecha-en-un-58-que-partido-politico-perdio-fuertemente-en-la-region-3561087",
@@ -343,18 +343,11 @@
         "category": "Energy"
     },
     {
-        "title": "Superservicios reached an agreement to return $8.7 billion to natural gas users",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/superservicios-logra-acuerdo-para-devolver-8-700-millones-a-usuarios-de-gas-natural-4400660",
-        "published_date": "2026-05-26 13:58:36",
-        "category": "Energy"
-    },
-    {
-        "title": "Ecopetrol launched a public offer in Brazil to acquire 25% of Brava Energ\u00eda S.A.",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/ecopetrol-lanzo-una-oferta-publica-en-brasil-para-adquirir-25-de-brava-energia-4400552",
-        "published_date": "2026-05-26 11:38:28",
-        "category": "Energy"
+        "title": "After Abelardo's victory, debt rates and the price of the dollar fell",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/tras-victoria-de-abelardo-bajaron-tasas-de-deuda-y-precio-del-dolar/",
+        "published_date": "2026-06-01 22:25:15",
+        "category": "Economy"
     },
     {
         "title": "Dane will report inflation data for May;In April it stood at 5.68%",
@@ -434,150 +427,143 @@
         "category": "Economy"
     },
     {
-        "title": "Between 2014 and 2015, De la Espriella benefited from Alex Saab transactions",
+        "title": "Sleep informed with the keys for this June 1, 2026",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/entre-2014-y-2015-de-la-espriella-se-beneficio-de-transacciones-de-alex-saab/",
-        "published_date": "2026-05-24 21:05:31",
-        "category": "Economy"
+        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-claves-de-este-1-de-junio-de-2026/",
+        "published_date": "2026-06-02 00:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Confidence came out of the electoral chat",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-democracia-y-tecnologia/la-confianza-salio-del-chat-electoral/",
+        "published_date": "2026-06-01 23:45:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cepeda did not have an advantage in municipalities with \u201crisk of criminal control\u201d",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/cepeda-no-tuvo-ventaja-en-municipios-con-riesgo-de-control-criminal/",
+        "published_date": "2026-06-01 23:40:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "The first round in data: this is how the surprise of the Abelardist right occurred",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/la-primera-vuelta-en-datos-asi-se-dio-la-sorpresa-de-la-derecha-abelardista/",
+        "published_date": "2026-06-01 23:24:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "The first half of the second round",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/opinion/el-primer-tiempo-de-la-segunda-vuelta/",
+        "published_date": "2026-06-01 23:03:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "Four years after its creation, herbarium in Putumayo has no fixed headquarters",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/cuatro-anos-despues-de-su-creacion-herbario-en-putumayo-no-tiene-sede-fija/",
+        "published_date": "2026-06-01 23:01:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "One in every three drops in the Magdalena River comes from the Amazon River",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/una-de-cada-tres-gotas-en-el-rio-magdalena-vienen-del-rio-amazonas/",
+        "published_date": "2026-06-01 22:56:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cepeda's campaign is already looking for coffees with the center for the second round",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/campana-de-cepeda-ya-busca-cafes-con-el-centro-para-segunda-vuelta/",
+        "published_date": "2026-06-01 22:49:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "Profits of the Issuer already total $3.4 billion, fell by 42% compared to April 2025",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/utilidades-del-emisor-ya-suman-3-4-billones-cayeron-en-42-frente-a-abril-de-2025-4405653",
+        "published_date": "2026-06-01 22:38:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "La Silla Vac\u00eda invites the two candidates for Open Microphone",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/la-silla-vacia-invita-a-los-dos-candidatos-a-microfono-abierto/",
+        "published_date": "2026-06-01 22:21:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Who was Jennifer Guevara, murdered in the south of Cali?: 'She went out to work and did not return,' said her sister, while authorities have a hypothesis",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/quien-era-jennifer-guevara-asesinada-en-el-sur-de-cali-salio-a-trabajar-y-no-regreso-dijo-su-hermana-mientras-autoridades-tienen-una-hipotesis-3561297",
+        "published_date": "2026-06-01 18:37:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "This is the package of four strategic projects with which the Mayor's Office seeks to 'continue recovering Cali'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/asi-es-el-paquete-de-cuatro-proyectos-estrategicos-con-los-que-la-alcaldia-busca-seguir-recuperando-a-cali-3561301",
+        "published_date": "2026-06-01 18:37:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "Air crash on the Villavicencio-La Macarena route leaves four dead",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/accidente-aereo-en-la-ruta-villavicencio-la-macarena-deja-cuatro-fallecidos-4405374",
+        "published_date": "2026-06-01 17:26:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "Analdex asked to fully restore free trade conditions with Ecuador",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/analdex-pidio-restablecer-plenamente-condiciones-de-libre-comercio-con-ecuador-4405385",
+        "published_date": "2026-06-01 17:22:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "The expansion of the Calle 187 and TransMilenio Terminal stations is ready",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/esta-lista-la-ampliacion-de-las-estaciones-calle-187-y-terminal-de-la-troncal-autopista-norte-4405357",
+        "published_date": "2026-06-01 17:20:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "Atl\u00e1ntico escalates in violence: 108 murders in May and there are already 502 so far this year;Barranquilla and Soledad concentrate 81 crimes",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/atlantico-escala-en-violencia-108-asesinatos-en-mayo-y-ya-son-502-en-lo-corrido-del-ano-barranquilla-y-soledad-concentran-81-crimenes-3561289",
+        "published_date": "2026-06-01 17:20:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cartagena Mayor's Office broke relations with Veolia, operating partner of Acuacar",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/alcaldia-de-cartagena-rompio-relaciones-con-veolia-socio-operador-de-acuacar-4405383",
+        "published_date": "2026-06-01 17:19:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "From mullet rice to the laboratory: the scientific race to save an emblematic fish of the Caribbean;They seek to protect food and employment of fishermen",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/del-arroz-de-lisa-al-laboratorio-la-carrera-cientifica-para-salvar-un-pez-emblematico-del-caribe-buscan-proteger-alimento-y-empleo-de-pescadores-3561262",
+        "published_date": "2026-06-01 16:46:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "In Floridablanca is the first shopping center in Colombia with a waste bioconversion model to convert it into oil, flour and fertilizer",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/en-floridablanca-esta-el-primer-centro-comercial-de-colombia-con-un-modelo-de-bioconversion-de-residuos-para-convertirlos-en-aceite-harina-y-abono-3561256",
+        "published_date": "2026-06-01 16:44:50",
+        "category": "Local Events"
     },
     {
         "title": "Parties begin landing operation towards Abelardo",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/partidos-inician-operacion-aterrizaje-hacia-abelardo/",
         "published_date": "2026-06-01 16:38:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cepeda names delegates for debate with De La Espriella",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/cepeda-nombra-compromisarios-para-debate-con-de-la-espriella/",
-        "published_date": "2026-06-01 16:21:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "First round x-rays",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-etnica/radiografias-de-primera-vuelta/",
-        "published_date": "2026-06-01 16:11:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cepeda complains because Abelardo wears the Colombian National Team shirt",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/cepeda-se-queja-porque-abelardo-usa-la-camiseta-de-la-seleccion-colombia/",
-        "published_date": "2026-06-01 15:26:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "AI changes journalism, but does not replace it",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-ciencia-e-innovacion/la-ia-cambia-el-periodismo-pero-no-lo-reemplaza/",
-        "published_date": "2026-06-01 15:25:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "Orderly, transparent and without incident: the balance of the European Union",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/ordenada-transparente-y-sin-incidentes-el-balance-de-la-union-europea/",
-        "published_date": "2026-06-01 15:02:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cepeda challenged Abelardo to debate, who conditions him to accept results",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/cepeda-reto-a-debate-a-abelardo-quien-lo-condiciona-a-que-acepte-resultados/",
-        "published_date": "2026-06-01 13:33:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "After the results of the first presidential round, the country's bonds soared",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/tras-resultados-de-primera-vuelta-presidencial-bonos-del-pais-se-dispararon-4405122",
-        "published_date": "2026-06-01 13:06:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "Breakfast informed with the movements of this June 1, 2026",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-movidas-de-este-1-de-junio-de-2026/",
-        "published_date": "2026-06-01 12:40:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "Abelard vs.Cepeda: the bid for the second round",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/abelardo-vs-cepeda-la-puja-por-la-segunda-vuelta/",
-        "published_date": "2026-06-01 12:36:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "Guilds reacted after Gustavo Petro's non-acceptance of the pre-count",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/gremios-reaccionaron-tras-la-no-aceptacion-del-preconteo-por-parte-de-petro-4405095",
-        "published_date": "2026-06-01 12:11:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Alexander Avenda\u00f1o case in Guatap\u00e9: while the family said goodbye to the young man, one of those involved broke the silence and gave her version of the events",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/caso-alexander-avendano-en-guatape-mientras-la-familia-despidio-al-joven-una-de-las-implicadas-rompio-el-silencio-y-dio-su-version-de-los-hechos-3561132",
-        "published_date": "2026-06-01 11:26:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Aerocivil reveals details of the small plane accident in Villavicencio that was covering the route to La Macarena: the pilot and three passengers died",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/aerocivil-revela-detalles-del-accidente-de-avioneta-en-villavicencio-que-cubria-ruta-hacia-la-macarena-murieron-el-piloto-y-tres-pasajeros-3561151",
-        "published_date": "2026-06-01 11:25:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "In Valledupar they capture a teacher, designated as a voting jury, for alleged fraudulent voting: she would have incurred double voting",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/en-valledupar-capturan-a-docente-designada-como-jurado-de-votacion-por-presunto-voto-fraudulento-habria-incurrido-en-doble-votacion-3561097",
-        "published_date": "2026-06-01 11:12:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "X-ray of the polls on Sunday in Cartagena: abstention, political advertising and logistical failures in the first round of presidential elections",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/radiografia-de-las-urnas-el-domingo-en-cartagena-abstencion-publicidad-politica-y-fallas-logisticas-en-primera-vuelta-de-elecciones-presidenciales-3561121",
-        "published_date": "2026-06-01 11:10:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "Attention: pilot and three crew members die in a plane crash when a Cessna plane was taking off from the airport in Villavicencio",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/atencion-en-accidente-aereo-mueren-piloto-y-tres-tripulantes-cuando-una-avioneta-cessna-despegaba-del-aeropuerto-en-villavicencio-3561138",
-        "published_date": "2026-06-01 11:05:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Federico Guti\u00e9rrez attacks President Petro for questioning the electoral results: 'Airs of a dictator'",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/politica/partidos-politicos/federico-gutierrez-arremete-contra-el-presidente-petro-por-cuestionar-los-resultados-electorales-aires-de-dictador-3561092",
-        "published_date": "2026-06-01 11:04:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Why were two soldiers captured during the presidential elections in Nari\u00f1o and what is their judicial situation?",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/por-que-dos-militares-fueron-capturados-durante-las-elecciones-presidenciales-en-narino-y-cual-es-su-situacion-judicial-3561091",
-        "published_date": "2026-06-01 09:35:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "These are the 10 macroeconomic data that the next National Government will receive",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/estos-son-los-10-datos-macroeconomicos-que-recibira-el-proximo-gobierno-4404126",
-        "published_date": "2026-06-01 05:02:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "Dane will reveal how much time Colombians over 10 years of age spend per activity",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/dane-revelara-cuanto-tiempo-dedican-los-colombianos-de-mas-de-10-anos-por-actividad-4403745",
-        "published_date": "2026-06-01 05:01:44",
         "category": "Local Events"
     }
 ]
