@@ -91,10 +91,24 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Atl\u00e1ntico: Verano asks for more police and strengthening security for the second presidential round;tension grows over elections",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/atlantico-verano-pide-mas-policias-y-fortalecer-la-seguridad-para-la-segunda-vuelta-presidencial-crece-la-tension-por-elecciones-3562001",
+        "published_date": "2026-06-04 07:01:00",
+        "category": "Military"
+    },
+    {
         "title": "This is the ABC plan, for the environment and communities of De la Espriella",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/este-es-el-plan-abc-para-medio-ambiente-y-comunidades-de-de-la-espriella/",
         "published_date": "2026-06-03 22:35:28",
+        "category": "Military"
+    },
+    {
+        "title": "'It is time for the National Government to set its eyes on the region': this is what the productive sector of Valle del Cauca asks of the new president",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/es-hora-de-que-el-gobierno-nacional-fije-sus-ojos-en-la-region-esto-es-lo-que-el-sector-productivo-del-valle-del-cauca-le-pide-al-nuevo-presidente-3561979",
+        "published_date": "2026-06-03 22:28:32",
         "category": "Military"
     },
     {
@@ -217,18 +231,11 @@
         "category": "Military"
     },
     {
-        "title": "MinAmbiente issued a decree with protection measures for the S\u00e1bana de Bogot\u00e1",
+        "title": "Oil, gold and chemical manufactures, which are driving exports",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/minambiente-expidio-decreto-con-medidas-de-proteccion-para-la-sabana-de-bogota-4403910",
-        "published_date": "2026-05-30 13:54:28",
-        "category": "Military"
-    },
-    {
-        "title": "Colombia will choose the country it wants to be",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/opinion/colombia-elegira-el-pais-que-quiere-ser/",
-        "published_date": "2026-05-30 12:38:49",
-        "category": "Military"
+        "url": "https://www.larepublica.co/economia/petroleo-oro-y-manufacturas-quimicas-los-que-estan-jalonando-las-exportaciones-4407398",
+        "published_date": "2026-06-04 05:01:03",
+        "category": "Energy"
     },
     {
         "title": "The Superindustry is studying the integration between Ecopetrol and Parex",
@@ -364,11 +371,18 @@
         "category": "Energy"
     },
     {
-        "title": "Is your neighborhood on the list?Emcali schedules water and power cuts for maintenance work in Cali this Friday, May 29",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/su-barrio-esta-en-la-lista-emcali-programa-cortes-de-agua-y-energia-por-trabajos-de-mantenimiento-en-cali-este-viernes-29-de-mayo-3559299",
-        "published_date": "2026-05-29 07:38:59",
-        "category": "Energy"
+        "title": "Inflation in May could reach 6.02%, the highest since August 2024",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/inflacion-en-mayo-podria-llegar-a-6-02-la-mas-alta-desde-agosto-de-2024-4407719",
+        "published_date": "2026-06-04 13:56:02",
+        "category": "Economy"
+    },
+    {
+        "title": "Rice, banana and sugarcane, the most vulnerable crops with the El Ni\u00f1o phenomenon",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/arroz-platano-y-cana-los-cultivos-mas-vulnerables-con-fenomeno-de-el-nino-4407408",
+        "published_date": "2026-06-04 05:04:21",
+        "category": "Economy"
     },
     {
         "title": "Minhacienda set budget addition for drinking water program in La Guajira",
@@ -448,6 +462,104 @@
         "category": "Economy"
     },
     {
+        "title": "Petro ordered to lower the promoting committee of the constituent",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/petro-ordeno-bajar-el-comite-promotor-de-la-constituyente/",
+        "published_date": "2026-06-04 13:18:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "Military Forces bombed \u201cMordisco\u201d dissidents in Guaviare",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/fuerzas-militares-bombardearon-a-disidencias-de-mordisco-en-guaviare/",
+        "published_date": "2026-06-04 13:02:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "Have an informed breakfast with the keys for this June 4, 2026",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-claves-de-este-4-de-junio-de-2026/",
+        "published_date": "2026-06-04 12:16:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Donald Trump entered the Colombian presidential campaign",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/donald-trump-entro-a-la-campana-presidencial-de-colombia/",
+        "published_date": "2026-06-04 12:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "One of the six children injured in an attack by dissidents in Cauca remains in intensive care in a Cali clinic: 'He was playing with his friends in the park'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/uno-de-los-seis-ninos-heridos-por-ataque-de-disidentes-en-cauca-sigue-en-cuidados-intensivos-en-clinica-de-cali-jugaba-con-sus-amigos-en-el-parque-3562024",
+        "published_date": "2026-06-04 08:52:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "Gaula coup against 'Los Coste\u00f1os' and 'Los Pepes': 11 captured for extortion and micro-trafficking;They seize money, drugs and pamphlets in Barranquilla",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/golpe-del-gaula-a-los-costenos-y-los-pepes-11-capturados-por-extorsion-y-microtrafico-incautan-dinero-droga-y-panfletos-en-barranquilla-3562004",
+        "published_date": "2026-06-04 08:01:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Traffic officers were attacked with stones when they tried to control a car that ran out of brakes in western Cali",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/agentes-de-transito-fueron-atacados-con-piedras-cuando-trataban-de-controlar-una-emergencia-por-un-carro-que-se-quedo-sin-frenos-en-el-oeste-de-cali-3562008",
+        "published_date": "2026-06-04 07:41:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "The confusion of Cepeda's campaign now has Petro as a burden",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/el-desconcierto-de-la-campana-de-cepeda-ahora-tiene-a-petro-como-lastre/",
+        "published_date": "2026-06-04 06:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The blockades on the main roads are already being felt in the price of roast chicken",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/los-bloqueos-en-las-principales-vias-ya-se-sienten-en-el-precio-del-pollo-asado-4402831",
+        "published_date": "2026-06-04 05:03:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "The sectors that would take advantage of Donald Trump's new tariffs on metals",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/los-sectores-que-le-sacarian-el-jugo-a-los-nuevos-aranceles-de-donald-trump-4407407",
+        "published_date": "2026-06-04 05:01:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "Be careful with the restrictions!Peak and plate in Pereira for Thursday, June 4, 2026",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/ojo-con-las-restricciones-pico-y-placa-en-pereira-para-el-jueves-4-de-junio-de-3561984",
+        "published_date": "2026-06-04 02:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Be careful, driver!Peak and plate in Medell\u00edn for Thursday, June 4, 2026: check restrictions",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/ojo-conductor-pico-y-placa-en-medellin-para-el-jueves-4-de-junio-de-2026-consulte-las-restricciones-3561983",
+        "published_date": "2026-06-04 02:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "This is how the peak and plate operates in Bucaramanga for Thursday, June 4, 2026",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/asi-opera-el-pico-y-placa-en-bucaramanga-para-el-jueves-4-de-junio-de-3561982",
+        "published_date": "2026-06-04 02:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Avoid fines!Peak and plate in Cali for Thursday, June 4, 2026: this is how the measure operates",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/evite-multas-pico-y-placa-en-cali-para-el-jueves-4-de-junio-de-2026-asi-opera-la-medida-3561981",
+        "published_date": "2026-06-04 02:30:00",
+        "category": "Local Events"
+    },
+    {
         "title": "Sleep informed with the movements of this June 3, 2026",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-movidas-de-este-3-de-junio-de-2026/",
@@ -487,104 +599,6 @@
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-educacion/la-meritocracia-sin-puerta-de-entrada-termina-en-mas-desempleo-juvenil/",
         "published_date": "2026-06-03 20:44:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "V\u00e9lez in the Morning |Michael Shifter said that Trump's support for De la Espriella fits with his strategy to strengthen influence in Latin America",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/velez-por-la-manana-michael-shifter-respaldo-de-donald-trump-a-de-la-espriella-encaja-con-su-estrategia-para-reforzar-influencia-en-america-latina-3561885",
-        "published_date": "2026-06-03 20:23:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "According to Fenalco, only 32% of merchants reported higher sales in April",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/segun-fenalco-solo-32-de-comerciantes-reporto-mayores-ventas-en-abril-4407275",
-        "published_date": "2026-06-03 19:54:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Atlantic |Two children, ages 3 and 7, remain in the ICU after ingesting rat poison in Soledad: authorities issue a warning to homes",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/atlantico-dos-ninos-de-3-y-7-anos-permanecen-en-uci-tras-ingerir-veneno-para-ratas-en-soledad-autoridades-hacen-llamado-de-alerta-a-los-hogares-3561945",
-        "published_date": "2026-06-03 19:10:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Banana growers reject President Petro's plan to cut crops due to water crisis and warn of a blow to employment in Magdalena",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/bananeros-rechazan-plan-del-presidente-petro-para-recortar-cultivos-por-crisis-de-agua-y-advierten-golpe-al-empleo-en-magdalena-3561938",
-        "published_date": "2026-06-03 18:45:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Video |Maximum alert in Andes!Sudden flood in the Santa B\u00e1rbara ravine forces urgent evacuations",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/video-alerta-maxima-en-andes-creciente-subita-en-la-quebrada-santa-barbara-obliga-a-evacuaciones-urgentes-3561939",
-        "published_date": "2026-06-03 18:43:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "'Boquita Sal\u00e1' by Pacho Gal\u00e1n is reborn in a modern version 50 years after its original recording: the video clip was filmed in Soledad and Puerto Colombia",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/boquita-sala-de-pacho-galan-renace-en-una-version-moderna-a-50-anos-de-su-grabacion-original-el-videoclip-fue-rodado-en-soledad-y-puerto-colombia-3561934",
-        "published_date": "2026-06-03 18:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "280 kilometers in 15 minutes: the power of the new Tesla superchargers that already work in Medell\u00edn",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/280-kilometros-en-15-minutos-el-poder-de-los-nuevos-supercargadores-tesla-que-ya-funcionan-en-medellin-3561933",
-        "published_date": "2026-06-03 18:19:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "From classrooms to neighborhoods: project seeks to train youth leaders in Bonda to promote social and environmental changes in Santa Marta",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/de-las-aulas-a-los-barrios-proyecto-busca-formar-lideres-juveniles-en-bonda-para-impulsar-cambios-sociales-y-ambientales-en-santa-marta-3561921",
-        "published_date": "2026-06-03 17:57:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "This was the 24-year-old young man who was summoned by telephone and then murdered in the Santo Domingo neighborhood of Barranquilla: he received five bullet wounds",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/este-era-el-joven-de-24-anos-que-fue-citado-por-telefono-y-luego-asesinado-en-el-barrio-santo-domingo-de-barranquilla-recibio-cinco-impactos-de-bala-3561888",
-        "published_date": "2026-06-03 17:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Anif warned that the Nation's cash was well below the 2015-2025 average",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/anif-advirtio-que-caja-de-la-nacion-se-situo-muy-por-debajo-del-promedio-2015-2025-4407144",
-        "published_date": "2026-06-03 17:23:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "Acipet celebrated ruling that eliminates hiring quotas for specialized positions",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/acipet-celebro-fallo-que-elimina-cuotas-de-contratacion-local-para-cargos-especializados-4407035",
-        "published_date": "2026-06-03 16:55:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Exports total US$18.4 billion so far this year, with an increase of 14.5%",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/exportaciones-suman-us-18-400-millones-en-lo-que-va-del-ano-con-un-alza-de-14-5-4407111",
-        "published_date": "2026-06-03 16:20:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fall in 10-year TES rates brought the market closer to the monetary policy rate",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/caida-en-tasas-de-tes-a-10-anos-acerco-al-mercado-a-la-tasa-de-politica-monetaria-4407060",
-        "published_date": "2026-06-03 15:53:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "New Liberalism releases its militants for the second round",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/nuevo-liberalismo-deja-en-libertad-a-sus-militantes-para-segunda-vuelta/",
-        "published_date": "2026-06-03 15:26:56",
         "category": "Local Events"
     }
 ]
