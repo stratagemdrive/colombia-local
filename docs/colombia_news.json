@@ -1,5 +1,19 @@
 [
     {
+        "title": "Poll Law: Court topples rules on timing",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/ley-de-encuestas-corte-tumba-reglas-sobre-tiempos-y-seleccion-de-muestras/",
+        "published_date": "2026-06-03 23:17:54",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "The US promises to guarantee a \u201cfair and free election\u201d in Colombia",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/ee-uu-promete-garantizar-una-eleccion-justa-y-libre-en-colombia/",
+        "published_date": "2026-06-03 21:39:15",
+        "category": "Diplomacy"
+    },
+    {
         "title": "After US tariffs, exports worth US$161 million could benefit",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/tras-aranceles-de-ee-uu-exportaciones-por-us-161-millones-podrian-beneficiarse-4407005",
@@ -75,6 +89,27 @@
         "url": "https://www.lasillavacia.com/en-vivo/canciller-garantiza-voto-en-el-exterior-sin-importar-situacion-migratoria/",
         "published_date": "2026-05-27 21:09:32",
         "category": "Diplomacy"
+    },
+    {
+        "title": "This is the ABC plan, for the environment and communities of De la Espriella",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/este-es-el-plan-abc-para-medio-ambiente-y-comunidades-de-de-la-espriella/",
+        "published_date": "2026-06-03 22:35:28",
+        "category": "Military"
+    },
+    {
+        "title": "There are 11 minors among those killed by dissident clashes",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/hay-11-menores-entre-los-fallecidos-por-enfrentamientos-de-disidencias/",
+        "published_date": "2026-06-03 21:30:43",
+        "category": "Military"
+    },
+    {
+        "title": "They denounce an alleged plan to attack Cali ahead of the second round of elections, while the mayor prepares to travel to a summit in Singapore",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/denuncian-presunto-plan-para-atacar-a-cali-de-cara-a-la-segunda-vuelta-electoral-mientras-el-alcalde-se-alista-para-viajar-a-una-cumbre-en-singapur-3561953",
+        "published_date": "2026-06-03 20:21:05",
+        "category": "Military"
     },
     {
         "title": "Alert in Cesar: The ELN revives the 'miraculous fishing' with a kidnapping of drivers on the Caribbean Trunk",
@@ -196,25 +231,18 @@
         "category": "Military"
     },
     {
-        "title": "Trade and border mark the Gross Domestic Product of Norte de Santander",
+        "title": "The Superindustry is studying the integration between Ecopetrol and Parex",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/comercio-y-frontera-jalonan-el-producto-interno-bruto-de-norte-de-santander-4403909",
-        "published_date": "2026-05-30 05:03:09",
-        "category": "Military"
+        "url": "https://www.larepublica.co/economia/superindustria-estudia-una-integracion-empresarial-entre-ecopetrol-y-parex-4407226",
+        "published_date": "2026-06-03 19:12:09",
+        "category": "Energy"
     },
     {
-        "title": "Claudia Romero, representative to the Chamber for Bogot\u00e1, reported that she was threatened with a funeral wreath: 'They are not going to silence me'",
+        "title": "Outrage over a man who wanted to transport two squirrels under the influence of drugs: he tried to take them out of the country",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/bogota/claudia-romero-representante-a-la-camara-por-bogota-denuncio-que-fue-amenazada-con-una-corona-funebre-no-me-van-a-silenciar-3559584",
-        "published_date": "2026-05-29 23:35:29",
-        "category": "Military"
-    },
-    {
-        "title": "ELN freed Iv\u00e1n Alfredo Guzm\u00e1n, son of the former mayor of Tame, Arauca",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/eln-libero-a-ivan-alfredo-guzman-hijo-del-exalcalde-de-tame-arauca/",
-        "published_date": "2026-05-29 22:57:06",
-        "category": "Military"
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/indignacion-por-hombre-que-quiso-transportar-a-dos-ardillas-bajo-efectos-de-drogas-intento-sacarlas-del-pais-3561873",
+        "published_date": "2026-06-03 18:45:08",
+        "category": "Energy"
     },
     {
         "title": "Imported gas in April totaled 216 Mcfd and is equivalent to 22% of that sold",
@@ -343,20 +371,6 @@
         "category": "Energy"
     },
     {
-        "title": "\u201cEPM will generate 17% of the national energy when it operates in the heart of Hidroituango\u201d",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/entrevista-con-john-maya-salazar-gerente-general-de-epm-sobre-la-actualidad-y-planes-para-hidroituango-4402386",
-        "published_date": "2026-05-29 05:03:52",
-        "category": "Energy"
-    },
-    {
-        "title": "Superservicios began monitoring Celsia's electrical service in Valle del Cauca and Tolima",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/superservicios-inicio-vigilancia-de-servicio-electrico-de-celsia-en-valle-del-cauca-y-tolima-4402675",
-        "published_date": "2026-05-28 16:11:39",
-        "category": "Energy"
-    },
-    {
         "title": "Minhacienda set budget addition for drinking water program in La Guajira",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/minhacienda-fijo-adicion-presupuestal-para-programa-de-agua-potable-en-la-guajira-4406841",
@@ -434,157 +448,143 @@
         "category": "Economy"
     },
     {
-        "title": "Council of State suspended rule that prohibited the Issuer from meeting without the Ministry of Finance",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/consejo-de-estado-suspendio-norma-que-prohibia-al-emisor-sesionar-sin-el-minhacienda-4401305",
-        "published_date": "2026-05-26 23:21:18",
-        "category": "Economy"
+        "title": "Sleep informed with the movements of this June 3, 2026",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-movidas-de-este-3-de-junio-de-2026/",
+        "published_date": "2026-06-04 00:37:28",
+        "category": "Local Events"
     },
     {
-        "title": "Council of State allows BanRep to meet without the Ministry of Finance",
+        "title": "Attorney General's Office suspends Felipe Harman due to delays in the judicial process",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/consejo-de-estado-permite-al-banrep-sesionar-sin-el-minhacienda/",
-        "published_date": "2026-05-26 22:35:35",
-        "category": "Economy"
+        "url": "https://www.lasillavacia.com/en-vivo/procuraduria-suspende-a-felipe-harman-por-demoras-en-proceso-judicial/",
+        "published_date": "2026-06-04 00:08:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Abelardo won the middle class: voting data position by position",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/abelardo-se-gano-la-clase-media-datos-de-la-votacion-puesto-a-puesto/",
+        "published_date": "2026-06-03 22:59:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "2022 campaign: two congressmen ask to call Petro for investigation",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/campana-2022-dos-congresistas-piden-llamar-a-petro-a-indagatoria/",
+        "published_date": "2026-06-03 22:30:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "Fajardo raises his red lines after accession proposals",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/fajardo-plantea-sus-lineas-rojas-tras-propuestas-de-adhesion/",
+        "published_date": "2026-06-03 21:45:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Meritocracy without a door of entry ends in more youth unemployment",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-educacion/la-meritocracia-sin-puerta-de-entrada-termina-en-mas-desempleo-juvenil/",
+        "published_date": "2026-06-03 20:44:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "V\u00e9lez in the Morning |Michael Shifter said that Trump's support for De la Espriella fits with his strategy to strengthen influence in Latin America",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/velez-por-la-manana-michael-shifter-respaldo-de-donald-trump-a-de-la-espriella-encaja-con-su-estrategia-para-reforzar-influencia-en-america-latina-3561885",
+        "published_date": "2026-06-03 20:23:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "According to Fenalco, only 32% of merchants reported higher sales in April",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/segun-fenalco-solo-32-de-comerciantes-reporto-mayores-ventas-en-abril-4407275",
+        "published_date": "2026-06-03 19:54:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "Atlantic |Two children, ages 3 and 7, remain in the ICU after ingesting rat poison in Soledad: authorities issue a warning to homes",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/atlantico-dos-ninos-de-3-y-7-anos-permanecen-en-uci-tras-ingerir-veneno-para-ratas-en-soledad-autoridades-hacen-llamado-de-alerta-a-los-hogares-3561945",
+        "published_date": "2026-06-03 19:10:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Banana growers reject President Petro's plan to cut crops due to water crisis and warn of a blow to employment in Magdalena",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/bananeros-rechazan-plan-del-presidente-petro-para-recortar-cultivos-por-crisis-de-agua-y-advierten-golpe-al-empleo-en-magdalena-3561938",
+        "published_date": "2026-06-03 18:45:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Video |Maximum alert in Andes!Sudden flood in the Santa B\u00e1rbara ravine forces urgent evacuations",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/video-alerta-maxima-en-andes-creciente-subita-en-la-quebrada-santa-barbara-obliga-a-evacuaciones-urgentes-3561939",
+        "published_date": "2026-06-03 18:43:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "'Boquita Sal\u00e1' by Pacho Gal\u00e1n is reborn in a modern version 50 years after its original recording: the video clip was filmed in Soledad and Puerto Colombia",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/boquita-sala-de-pacho-galan-renace-en-una-version-moderna-a-50-anos-de-su-grabacion-original-el-videoclip-fue-rodado-en-soledad-y-puerto-colombia-3561934",
+        "published_date": "2026-06-03 18:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "280 kilometers in 15 minutes: the power of the new Tesla superchargers that already work in Medell\u00edn",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/280-kilometros-en-15-minutos-el-poder-de-los-nuevos-supercargadores-tesla-que-ya-funcionan-en-medellin-3561933",
+        "published_date": "2026-06-03 18:19:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "From classrooms to neighborhoods: project seeks to train youth leaders in Bonda to promote social and environmental changes in Santa Marta",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/de-las-aulas-a-los-barrios-proyecto-busca-formar-lideres-juveniles-en-bonda-para-impulsar-cambios-sociales-y-ambientales-en-santa-marta-3561921",
+        "published_date": "2026-06-03 17:57:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "This was the 24-year-old young man who was summoned by telephone and then murdered in the Santo Domingo neighborhood of Barranquilla: he received five bullet wounds",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/este-era-el-joven-de-24-anos-que-fue-citado-por-telefono-y-luego-asesinado-en-el-barrio-santo-domingo-de-barranquilla-recibio-cinco-impactos-de-bala-3561888",
+        "published_date": "2026-06-03 17:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Anif warned that the Nation's cash was well below the 2015-2025 average",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/anif-advirtio-que-caja-de-la-nacion-se-situo-muy-por-debajo-del-promedio-2015-2025-4407144",
+        "published_date": "2026-06-03 17:23:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "Acipet celebrated ruling that eliminates hiring quotas for specialized positions",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/acipet-celebro-fallo-que-elimina-cuotas-de-contratacion-local-para-cargos-especializados-4407035",
+        "published_date": "2026-06-03 16:55:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Exports total US$18.4 billion so far this year, with an increase of 14.5%",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/exportaciones-suman-us-18-400-millones-en-lo-que-va-del-ano-con-un-alza-de-14-5-4407111",
+        "published_date": "2026-06-03 16:20:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Fall in 10-year TES rates brought the market closer to the monetary policy rate",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/caida-en-tasas-de-tes-a-10-anos-acerco-al-mercado-a-la-tasa-de-politica-monetaria-4407060",
+        "published_date": "2026-06-03 15:53:27",
+        "category": "Local Events"
     },
     {
         "title": "New Liberalism releases its militants for the second round",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/nuevo-liberalismo-deja-en-libertad-a-sus-militantes-para-segunda-vuelta/",
         "published_date": "2026-06-03 15:26:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "Yah\u00edr Acu\u00f1a went to the World Cup with permission from the Sincelejo Council",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/yahir-acuna-se-fue-al-mundial-con-permiso-del-concejo-de-sincelejo/",
-        "published_date": "2026-06-03 15:23:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "In the second round, Cepeda is better than the violent extreme right",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/opinion/en-segunda-vuelta-mejor-cepeda-que-la-ultraderecha-violenta/",
-        "published_date": "2026-06-03 14:54:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "Abelardo doubled the right-wing vote in 2022 in the United States",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/abelardo-duplico-votacion-de-la-derecha-del-2022-en-estados-unidos/",
-        "published_date": "2026-06-03 14:39:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "Registrar's Office denies Petro for accusations of fraud in the first round",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/registraduria-desmiente-a-petro-por-acusaciones-de-fraude-en-primera-vuelta/",
-        "published_date": "2026-06-03 14:23:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Students in Univalle go on strike due to election results",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/estudiantes-en-univalle-se-van-a-paro-por-resultado-electoral/",
-        "published_date": "2026-06-03 14:01:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Social Prosperity will begin the third cycle of Citizen Income",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/prosperidad-social-iniciara-el-tercer-ciclo-de-renta-ciudadana-y-devolucion-del-iva-4406963",
-        "published_date": "2026-06-03 13:34:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "The next president was already chosen by arithmetic",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/el-proximo-presidente-ya-fue-elegido-por-la-aritmetica/",
-        "published_date": "2026-06-03 13:24:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "No hospital in Cundinamarca was classified in the risk category",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/ningun-hospital-de-cundinamarca-fue-clasificado-en-categoria-de-riesgo-por-minsalud-4406925",
-        "published_date": "2026-06-03 13:16:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Council of State reactivated decree on withholding and self-withholding rates at source",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/consejo-de-estado-reactivo-el-decreto-que-fija-tarifas-de-retencion-y-autorretencion-en-la-fuente-4406932",
-        "published_date": "2026-06-03 13:16:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cFreedom dies\u201d: Petro rejects Trump's support for Abelardo",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/muere-la-libertad-petro-rechaza-respaldo-de-trump-a-abelardo/",
-        "published_date": "2026-06-03 13:14:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Learn to vote on a platform without rules",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-democracia-y-tecnologia/aprender-a-votar-en-una-plataforma-sin-reglas/",
-        "published_date": "2026-06-03 13:14:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Have an informed breakfast with the keys for this June 3, 2026",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-claves-de-este-3-de-junio-de-2026/",
-        "published_date": "2026-06-03 12:15:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Electrical storm in Santander left a serious loss of banking in San Vicente de Chucur\u00ed: there are at least 50 homes affected on their roofs",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/tormenta-electrica-en-santander-dejo-grave-perdida-de-banca-en-san-vicente-de-chucuri-hay-al-menos-50-viviendas-afectadas-en-sus-techos-3561738",
-        "published_date": "2026-06-03 09:59:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Video |This was the fatal moment when a truck crashed into a store in Barrag\u00e1n, Quind\u00edo: one person died and two were injured",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/video-este-fue-el-momento-fatal-cuando-una-camioneta-choco-contra-una-tienda-en-barragan-quindio-una-persona-murio-y-dos-resultaron-heridas-3561685",
-        "published_date": "2026-06-03 09:51:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "Communities of public and private universities in Medell\u00edn came together to summon Iv\u00e1n Cepeda and Abelardo de la Espriella to a debate: will they accept?",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/comunidades-de-universidades-publicas-y-privadas-de-medellin-se-unieron-para-citar-a-ivan-cepeda-y-abelardo-de-la-espriella-a-un-debate-aceptaran-3561711",
-        "published_date": "2026-06-03 08:58:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Romelio was a single party: songs, flags and red-and-white euphoria marked an unforgettable night in Barranquilla",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/el-romelio-fue-una-sola-fiesta-canticos-banderas-y-euforia-rojiblanca-marcaron-una-noche-inolvidable-en-barranquilla-3561706",
-        "published_date": "2026-06-03 08:40:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Video |Shocking traffic accident: a garbage collection truck lost control and almost crushed several people",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/video-impactante-accidente-de-transito-un-camion-recolector-de-basura-perdio-el-control-y-por-poco-aplasta-a-varias-personas-3561683",
-        "published_date": "2026-06-03 07:45:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cPalm oil is opening new export markets in Africa and Asia\u201d",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/entrevista-con-nicolas-perez-marulanda-presidente-ejecutivo-de-fedepalma-sobre-exportaciones-de-aceite-de-palma-4405954",
-        "published_date": "2026-06-03 05:01:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Women work almost 16 hours a day between housework and office work, according to Dane",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/las-mujeres-trabajan-casi-16-horas-al-dia-entre-labores-de-la-casa-y-la-oficina-4405959",
-        "published_date": "2026-06-03 05:01:27",
         "category": "Local Events"
     }
 ]
