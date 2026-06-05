@@ -1,5 +1,12 @@
 [
     {
+        "title": "Fertilizer prices fall by 17%, after having registered a peak in April",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/precios-de-los-fertilizantes-caen-en-17-despues-de-haber-registrado-pico-en-abril-4408679",
+        "published_date": "2026-06-05 13:37:28",
+        "category": "Diplomacy"
+    },
+    {
         "title": "AmCham warned of trade risks due to US investigation into forced labor",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/amcham-alerto-riesgos-a-comercio-por-investigacion-de-ee-uu-por-trabajo-forzoso-4407909",
@@ -89,6 +96,20 @@
         "url": "https://www.eltiempo.com/colombia/otras-ciudades/liberan-a-brayan-forero-cardenas-el-joven-empresario-que-fue-secuestrado-hace-mas-de-un-ano-en-la-region-del-catatumbo-al-sur-del-cesar-3559313",
         "published_date": "2026-05-29 08:30:00",
         "category": "Diplomacy"
+    },
+    {
+        "title": "How did a gang of 11 people dedicated to drugs in the Valley fall?: a year ago it was dismantled and reorganized, facing 'Pantera' to the death",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/como-cayo-banda-de-11-personas-dedicadas-a-las-drogas-en-el-valle-hace-un-ano-fue-desmantelada-y-se-reorganizo-enfrentandose-a-muerte-a-pantera-3562311",
+        "published_date": "2026-06-05 08:44:38",
+        "category": "Military"
+    },
+    {
+        "title": "False police officers came to a house to rob and murdered a woman in the Valley: a uniformed man who was from the Public Force confronted them",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/falsos-policias-llegaron-a-una-casa-a-robar-y-asesinaron-a-una-mujer-en-el-valle-un-uniformado-que-si-era-de-la-fuerza-publica-los-enfrento-3562302",
+        "published_date": "2026-06-05 08:13:28",
+        "category": "Military"
     },
     {
         "title": "This was found in the house of alias 'Cuervo': the key piece that connects the ELN with the violent riots at the University of Antioquia",
@@ -217,18 +238,11 @@
         "category": "Military"
     },
     {
-        "title": "The Attorney General's Office asks to analyze El Ni\u00f1o from food and energy security",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/procuraduria-pide-analizar-el-nino-desde-la-seguridad-alimentaria-y-energetica-4405138",
-        "published_date": "2026-06-01 12:51:16",
-        "category": "Military"
-    },
-    {
-        "title": "On the day of the 2026 presidential elections, explosions with ELN drones are reported near Tib\u00fa, Norte de Santander",
+        "title": "Cartagena: the District's commitments to the community of Isla Grande, in the island area, which was on the verge of not voting due to the lack of energy",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/en-pleno-dia-de-las-elecciones-presidenciales-de-2026-reportan-explosiones-con-drones-cerca-de-tibu-norte-de-santander-3560923",
-        "published_date": "2026-05-31 18:53:47",
-        "category": "Military"
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/cartagena-los-compromisos-del-distrito-con-la-comunidad-de-isla-grande-en-zona-insular-que-estuvo-a-punto-de-no-votar-ante-la-falta-de-energia-3562287",
+        "published_date": "2026-06-05 07:05:27",
+        "category": "Energy"
     },
     {
         "title": "Camilo S\u00e1nchez was ratified as president of Andesco for two more years",
@@ -364,13 +378,6 @@
         "category": "Energy"
     },
     {
-        "title": "No one is saved: there are wineries with De la Espriella, Paloma and Cepeda",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/ninguno-se-salva-hay-bodegas-con-de-la-espriella-paloma-y-cepeda/",
-        "published_date": "2026-05-30 06:26:42",
-        "category": "Energy"
-    },
-    {
         "title": "Inflation in May could reach 6.02%, the highest since August 2024",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/inflacion-en-mayo-podria-llegar-a-6-02-la-mas-alta-desde-agosto-de-2024-4407719",
@@ -448,6 +455,132 @@
         "category": "Economy"
     },
     {
+        "title": "Petro asks to calm spirits in campaigns after attack on Abelardo's headquarters",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/petro-pide-calmar-animos-en-campanas-tras-ataque-a-sede-de-abelardo/",
+        "published_date": "2026-06-05 13:04:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "Have an informed breakfast this June 5, 2026",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/desayune-informado-este-5-de-junio-de-2026/",
+        "published_date": "2026-06-05 12:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cepeda, the constituent and the center votes",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/cepeda-la-constituyente-y-los-votos-de-centro/",
+        "published_date": "2026-06-05 11:57:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "The DIMAR assumes investigations into the explosion in Cartagena that left four dead and suspends operations at the shipyard located in Pasacaballos",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/la-dimar-asume-investigaciones-por-explosion-en-cartagena-que-dejo-cuatro-muertos-y-suspende-operaciones-en-astillero-ubicado-en-pasacaballos-3562303",
+        "published_date": "2026-06-05 08:18:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ideam warns of rain in much of Colombia: these regions will have more rainfall in the next 24 hours",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/ideam-alerta-por-lluvias-en-gran-parte-de-colombia-estas-regiones-tendran-mas-precipitaciones-en-las-proximas-24-horas-3562304",
+        "published_date": "2026-06-05 08:07:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "Man received electric shock and fell 10 meters high: he fled after a fight with his neighbors in Medell\u00edn",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/hombre-recibio-descarga-electrica-y-cayo-de-10-metros-de-altura-huia-tras-una-rina-con-sus-vecinos-en-medellin-3562294",
+        "published_date": "2026-06-05 07:41:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "The circle of power of Abelardo de La Espriella",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/el-circulo-de-poder-de-abelardo-de-la-espriella/",
+        "published_date": "2026-06-05 05:46:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Remittances have been almost double the external sales of coffee and charcoal combined",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/las-remesas-han-sido-casi-el-doble-que-las-ventas-externas-de-cafe-y-carbon-4408421",
+        "published_date": "2026-06-05 05:04:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "The work week is already 40 hours if you take into account the 19 holidays that there will be this year",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/la-semana-laboral-ya-es-de-40-horas-con-los-19-festivos-que-habran-este-ano-4407621",
+        "published_date": "2026-06-05 05:04:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "TRM and international price are dragging down the bad start of the coffee sector",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/tasa-de-cambio-y-referencia-internacional-arrastran-el-mal-inicio-cafetero-4408380",
+        "published_date": "2026-06-05 05:03:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "The book that brings together the voices of 65 experts to draw up the country's roadmap towards 2050",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/el-libro-que-reune-las-voces-de-65-expertos-para-trazar-el-camino-hacia-2050-4408545",
+        "published_date": "2026-06-05 04:48:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "Fito P\u00e1ez, one of the 'jewels' of rock in Spanish, is getting ready to start his 'Sale el sol' concert tour in Cali",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/fito-paez-una-de-las-joyas-del-rock-en-espanol-se-alista-para-empezar-en-cali-su-gira-de-conciertos-sale-el-sol-3562278",
+        "published_date": "2026-06-05 02:37:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "Drivers attention!Peak and plaque in Medell\u00edn for Friday, June 5, 2026: this is how the measure will work",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/atencion-conductores-pico-y-placa-en-medellin-para-el-viernes-5-de-junio-de-2026-asi-funcionara-la-medida-3562151",
+        "published_date": "2026-06-05 02:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Avoid sanctions!Peak and plaque in Bucaramanga for Friday, June 5, 2026: check restrictions",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/evite-sanciones-pico-y-placa-en-bucaramanga-para-el-viernes-5-de-junio-de-2026-consulte-las-restricciones-3562147",
+        "published_date": "2026-06-05 02:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Drivers beware!Peak and plate in Pereira for Friday, June 5, 2026: check restrictions",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/ojo-conductores-pico-y-placa-en-pereira-para-el-viernes-5-de-junio-de-2026-consulte-las-restricciones-3562145",
+        "published_date": "2026-06-05 02:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Sleep informed with the movements of this June 4, 2026",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-movidas-de-este-4-de-junio-de-2026/",
+        "published_date": "2026-06-05 01:00:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "US threatens to withdraw visas due to electoral interference",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/ee-uu-amenaza-con-retirar-visas-por-interferencia-electoral/",
+        "published_date": "2026-06-05 00:42:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Acrip views informality and hiring of apprentices with concern Sena",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/acrip-ve-con-preocupacion-informalidad-y-contratacion-de-aprendices-sena-4408450",
+        "published_date": "2026-06-05 00:26:23",
+        "category": "Local Events"
+    },
+    {
         "title": "Another of the Laras will also vote for Abelardo de la Espriella",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/otro-de-los-lara-tambien-votara-por-abelardo-de-la-espriella/",
@@ -459,132 +592,6 @@
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/procuraduria-investiga-a-hollman-morris-por-rtvc-petro-habla-de-censura/",
         "published_date": "2026-06-04 23:17:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "What the withdrawal of the Constituent Assembly represents for the indigenous people",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/lo-que-representa-para-los-indigenas-el-retiro-de-la-constituyente/",
-        "published_date": "2026-06-04 22:48:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Petro rejected first round results with unfounded complaints",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/petro-rechazo-con-denuncias-infundadas-resultados-de-primera-vuelta/",
-        "published_date": "2026-06-04 22:11:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Supreme Court confirms conviction of Santiago Uribe for paramilitarism",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/corte-suprema-confirma-condena-a-santiago-uribe-por-paramilitarismo/",
-        "published_date": "2026-06-04 21:55:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "Abelardo's formula goes on a media tour to show moderation",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/la-formula-de-abelardo-hace-gira-de-medios-para-mostrar-moderacion/",
-        "published_date": "2026-06-04 21:50:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "Colombia's problem is not the Constitution",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-derecho-constitucional/el-problema-de-colombia-no-es-la-constitucion/",
-        "published_date": "2026-06-04 20:36:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "With a \u201cpupitrazo\u201d from Congress, the holiday Monday of July 13 was born",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/con-un-pupitrazo-del-congreso-nacio-el-lunes-festivo-del-13-de-julio/",
-        "published_date": "2026-06-04 20:33:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "Losada joins the support of the environmental bench of Congress for Cepeda",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/losada-se-suma-a-los-apoyos-de-la-bancada-ambiental-de-congreso-a-cepeda/",
-        "published_date": "2026-06-04 20:22:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "Afros ask that MinAmbiente consult them for resolution of the Amazon",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/afros-piden-que-minambiente-los-consulte-para-resolucion-de-la-amazonia/",
-        "published_date": "2026-06-04 20:13:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "MinMinas called on actors in the energy sector to develop savings campaigns",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/minminas-llamo-a-actores-del-sector-energetico-a-desarrollar-campanas-de-ahorro-4408036",
-        "published_date": "2026-06-04 19:11:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "Apolo Park revives in Cartagena after years of abandonment and becomes a new green and cultural lung of the tourist area in El Cabrero",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/parque-apolo-revive-en-cartagena-tras-anos-de-abandono-y-se-convierte-en-nuevo-pulmon-verde-y-cultural-de-el-cabrero-3562224",
-        "published_date": "2026-06-04 18:50:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "'Compromiso Valle' was born as an 18-month initiative and completed five years of transforming life projects: there are more than 80,000 beneficiaries",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/compromiso-valle-nacio-como-una-iniciativa-de-18-meses-y-completo-cinco-anos-de-transformacion-de-proyectos-de-vida-son-mas-de-80-000-beneficiarios-3562182",
-        "published_date": "2026-06-04 18:49:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Andi requests precautionary measures from the IACHR to guarantee the electoral process and warns about statements by President Gustavo Petro",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/andi-solicita-a-la-cidh-medidas-cautelares-para-garantizar-el-proceso-electoral-y-advierte-sobre-declaraciones-del-presidente-gustavo-petro-3562194",
-        "published_date": "2026-06-04 18:49:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fact Check |The alleged decree that prohibits the entry and circulation of Barranquilla residents in Medell\u00edn for the second leg of the league final is false",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/fact-check-es-falso-el-supuesto-decreto-que-prohibe-el-ingreso-y-circulacion-de-barranquilleros-en-medellin-por-partido-vuelta-de-la-final-de-liga-3562193",
-        "published_date": "2026-06-04 18:10:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The key story that would explain what sparked the fight that led Alexander Avenda\u00f1o to jump from a slab into the Guatap\u00e9 reservoir, Antioquia",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/el-relato-clave-que-explicaria-lo-que-desato-la-rina-que-llevo-a-alexander-avendano-a-lanzarse-desde-un-planchon-al-embalse-de-guatape-antioquia-3562163",
-        "published_date": "2026-06-04 18:08:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Video |An oceanic dolphin measuring more than three meters is rescued on the beaches of Tasajera: experts evaluate its condition and look for the causes of the stranding",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/magdalena-rescatan-en-playas-de-tasajera-un-delfin-oceanico-de-mas-de-tres-metros-expertos-evaluan-su-estado-y-buscan-causas-del-varamiento-3562198",
-        "published_date": "2026-06-04 17:25:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "They rescue more than 300 overcrowded dogs in precarious conditions inside a home in Cundinamarca",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/rescatan-a-mas-de-300-perritos-hacinados-y-en-precarias-condiciones-dentro-de-una-vivienda-en-cundinamarca-3562143",
-        "published_date": "2026-06-04 17:11:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "Government sanctions law for a new national holiday on July 13, there will be 19 in 2026",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/gobierno-sanciona-ley-que-convierte-el-9-de-julio-en-nuevo-festivo-nacional-4407935",
-        "published_date": "2026-06-04 16:25:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Acsc asked to clarify the status of the Ihce before modifying Resolution 1888",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/acsc-pidio-aclarar-estado-de-la-ihce-antes-de-modificar-la-resolucion-1888-4407830",
-        "published_date": "2026-06-04 14:31:02",
         "category": "Local Events"
     }
 ]
