@@ -91,25 +91,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Colombia accuses Ecuador of interfering in presidential elections with tariff war",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/colombia-acusa-a-ecuador-injerir-en-comicios-presidenciales-con-guerra-arancelaria-4404343",
-        "published_date": "2026-05-30 21:04:04",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "The Foreign Ministry announces that it will repeal economic measures against Ecuador",
+        "title": "Everything that is known about the assassination of Miguel Uribe, a year later",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/la-cancilleria-anuncia-que-derogara-medidas-economicas-contra-ecuador/",
-        "published_date": "2026-05-30 16:21:43",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Foreign Ministry said that reversal of Ecuador's tariffs is due to the CAN resolution",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/cancilleria-dijo-que-reversion-de-aranceles-de-ecuador-se-debe-a-la-resolucion-de-can-4404223",
-        "published_date": "2026-05-30 13:54:59",
-        "category": "Diplomacy"
+        "url": "https://www.lasillavacia.com/silla-nacional/todo-lo-que-se-sabe-del-magnicidio-de-miguel-uribe-un-ano-despues/",
+        "published_date": "2026-06-07 15:00:00",
+        "category": "Military"
     },
     {
         "title": "The messages of journalist Cristian Herrera about a senator before being murdered and the permission he gave to his security scheme: the new clues",
@@ -245,11 +231,11 @@
         "category": "Military"
     },
     {
-        "title": "The 'La Europa' file and the collective lawsuit filed by the URT to restore 1,245 hectares of land to communities in the Montes de Mar\u00eda",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/el-expediente-de-la-europa-y-la-demanda-colectiva-que-radico-la-urt-para-restituir-1-245-hectareas-de-tierra-a-comunidades-en-los-montes-de-maria-3561708",
-        "published_date": "2026-06-03 09:05:04",
-        "category": "Military"
+        "title": "Ministry of Mines and Energy will reactivate Puerto Voluntad starting next July 1",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/ministerio-de-minas-y-energia-reactivara-puerto-voluntad-a-partir-del-1-de-julio-4409894",
+        "published_date": "2026-06-07 15:55:05",
+        "category": "Energy"
     },
     {
         "title": "Alert for deficit of regasification plants due to possible increase in gas imports",
@@ -385,13 +371,6 @@
         "category": "Energy"
     },
     {
-        "title": "Given the lack of energy service, the community of Islagrande, in the island area of \u200b\u200bCartagena, was on the verge of not casting a single vote",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/ante-la-falta-de-servicio-de-energia-comunidad-de-islagrande-en-zona-insular-de-cartagena-estuvo-a-punto-de-no-depositar-un-solo-voto-3560890",
-        "published_date": "2026-05-31 14:56:37",
-        "category": "Energy"
-    },
-    {
         "title": "This is Brandon, the young man from Barranquilla who wants to save manatees with artificial intelligence and won a National Geographic award",
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/barranquilla/este-es-brandon-el-joven-barranquillero-que-quiere-salvar-a-los-manaties-con-inteligencia-artificial-y-gano-un-premio-de-national-geographic-3562630",
@@ -476,143 +455,143 @@
         "category": "Economy"
     },
     {
-        "title": "Petro Government lost the drive to monetize biodiversity",
+        "title": "24 Petro trills: against Westcol, media and Abelardo's formula",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/gobierno-petro-perdio-el-impulso-de-monetizar-la-biodiversidad/",
-        "published_date": "2026-06-07 05:04:00",
+        "url": "https://www.lasillavacia.com/en-vivo/24-trinos-de-petro-contra-westcol-medios-y-formula-de-abelardo/",
+        "published_date": "2026-06-07 21:28:42",
         "category": "Local Events"
     },
     {
-        "title": "Here are some activities you can schedule to do over the next three holidays",
+        "title": "Warm, warm, like a center that is silent",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/opinion/tibio-tibio-como-un-centro-que-calla/",
+        "published_date": "2026-06-07 19:32:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "Video of Petro supporting constituent is prior to the dismantling of the committee",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/video-de-petro-apoyando-constituyente-es-anterior-al-desmonte-del-comite/",
+        "published_date": "2026-06-07 19:23:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "Heavy rains generate flash floods and flooding in several sectors of Villavicencio",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/fuertes-lluvias-generan-crecientes-subitas-e-inundaciones-en-varios-sectores-de-villavicencio-3562786",
+        "published_date": "2026-06-07 18:51:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "IRONMAN 70.3 made Barranquilla vibrate: 1,200 athletes from 27 countries and two South American champions in a historic day",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/ironman-70-3-hizo-vibrar-a-barranquilla-1-200-atletas-de-27-paises-y-dos-campeones-sudamericanos-en-una-jornada-historica-3562777",
+        "published_date": "2026-06-07 18:01:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Petro is right about racism, but doubts the art that denounces it",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-etnica/petro-tiene-razon-sobre-el-racismo-pero-duda-del-arte-que-lo-denuncia/",
+        "published_date": "2026-06-07 18:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Rain emergencies in Santander: crops affected, roads closed and communities on alert",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/emergencias-por-lluvias-en-santander-cultivos-afectados-vias-cerradas-y-comunidades-en-alerta-3562781",
+        "published_date": "2026-06-07 17:44:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cepeda invites the center to dialogue: \u201cI understand the criticism\u201d",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/cepeda-invita-a-dialogar-al-centro-comprendo-las-criticas/",
+        "published_date": "2026-06-07 17:40:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "Atl\u00e1ntico: he tried to bring marijuana hidden in a package of cookies into the Malambo jails and ended up captured",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/atlantico-intento-ingresar-marihuana-oculta-en-un-paquete-de-galletas-a-las-carceletas-de-malambo-y-termino-capturado-3562772",
+        "published_date": "2026-06-07 17:12:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "This is how two of the most wanted men in Cali fell: alias Mico changed his appearance and was a 'drop by drop' lender in the east and south of the city",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/asi-cayeron-dos-de-los-hombres-mas-buscados-en-cali-alias-mico-cambiaba-de-apariencia-y-era-prestamista-gota-a-gota-en-oriente-y-sur-de-la-ciudad-3562769",
+        "published_date": "2026-06-07 17:01:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "The story of food and red wine sellers who open new houses a year after the earthquake that shook Paratebueno and Medina",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/la-historia-de-vendedoras-de-comidas-y-de-tintos-que-estrenan-casas-un-ano-despues-del-temblor-que-sacudio-a-paratebueno-y-medina-3562767",
+        "published_date": "2026-06-07 16:52:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "'Recruited girls and adolescents become cooks, nurses or sexual slaves of armed groups': panorama in the southwest of the country",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/ninas-y-adolescentes-reclutadas-se-vuelven-cocineras-enfermeras-o-esclavas-sexuales-de-grupos-armados-panorama-en-el-suroccidente-del-pais-3562763",
+        "published_date": "2026-06-07 16:33:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "Opinion columns for the undecided in the second round",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/columnas-de-opinion-para-los-indecisos-en-segunda-vuelta/",
+        "published_date": "2026-06-07 15:43:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Find out where there will be giant screens arranged by the Mayor's Office of Medell\u00edn in the city to enjoy the soccer final between Nacional and Junior",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/conozca-donde-habra-pantallas-gigantes-dispuestas-por-la-alcaldia-de-medellin-en-la-ciudad-para-disfrutar-la-final-de-futbol-entre-nacional-y-junior-3562760",
+        "published_date": "2026-06-07 15:39:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "It is expected that 563,000 vehicles will be mobilized on Sunday at the Cundinamarca exits",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/estos-son-algunos-planes-que-puede-realizar-en-los-proximos-tres-festivos-4409796",
-        "published_date": "2026-06-07 05:00:08",
+        "url": "https://www.larepublica.co/economia/cerca-de-463-000-vehiculos-han-salido-de-la-capital-durante-el-fin-de-semana-4409882",
+        "published_date": "2026-06-07 15:32:24",
         "category": "Local Events"
     },
     {
-        "title": "The national fracture",
+        "title": "Democracy, elections and misinformation: a practical guide",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/la-fractura-nacional/",
-        "published_date": "2026-06-07 02:55:02",
+        "url": "https://www.lasillavacia.com/en-vivo/democracia-elecciones-y-desinformacion-una-guia-practica/",
+        "published_date": "2026-06-07 15:00:00",
         "category": "Local Events"
     },
     {
-        "title": "Cepeda's own goal",
+        "title": "The escape plan for alias Tito, alleging pain from cancer: members of Inpec are being investigated, fear grows among communities and there are risks for dialogue",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/el-plan-de-fuga-de-alias-tito-aduciendo-dolor-por-cancer-investigan-a-miembros-de-inpec-crece-temor-entre-comunidades-y-hay-riesgos-para-dialogos-3562731",
+        "published_date": "2026-06-07 14:56:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "They denounce a serious situation of abandonment and malnutrition of dogs and cats in the Barranquilla market: 'Hell'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/denuncian-grave-situacion-de-abandono-y-desnutricion-de-perros-y-gatos-en-el-mercado-de-barranquilla-el-infierno-3562752",
+        "published_date": "2026-06-07 14:52:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "Controversy over Petro's tweet about Yerry Mina and \u00c1lvaro Uribe",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/opinion/el-autogol-de-cepeda/",
-        "published_date": "2026-06-07 01:55:12",
+        "url": "https://www.lasillavacia.com/en-vivo/polemica-por-trino-de-petro-sobre-yerry-mina-y-alvaro-uribe/",
+        "published_date": "2026-06-07 14:47:25",
         "category": "Local Events"
     },
     {
-        "title": "The most wanted Black Friday 2026 deals: technology, travel and sports lead",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/las-ofertas-mas-buscadas-del-black-friday-2026-tecnologia-viajes-y-deportes-lideran-3562441",
-        "published_date": "2026-06-07 01:01:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "They plant 1,000 frailejones in the Los Nevados National Park, in Murillo, Tolima, during an environmental day",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/siembran-1-000-frailejones-en-el-parque-nacional-los-nevados-en-murillo-tolima-durnate-jornada-ambiental-3562671",
-        "published_date": "2026-06-07 00:08:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Liberals release their militants, but give a nod to Abelardo",
+        "title": "The rhetoric of grievance: hate speech and technological sovereignty",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/liberales-dejan-en-libertad-a-sus-militantes-pero-dan-guino-a-abelardo/",
-        "published_date": "2026-06-06 23:11:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "The \u201cIA\u201d candidate: Abelardo de la Espriella",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/opinion/el-candidato-de-la-ia-abelardo-de-la-espriella/",
-        "published_date": "2026-06-06 22:36:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cepeda asks Rtvc, Caracol and RCN to organize a debate with Abelardo",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/cepeda-pide-a-rtvc-caracol-y-rcn-que-organicen-debate-con-abelardo/",
-        "published_date": "2026-06-06 21:39:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cWith enthusiasm and without hesitation\u201d: letter of support from Timochenko to Iv\u00e1n Cepeda",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/con-entusiasmo-y-sin-ambages-carta-de-apoyo-de-timochenko-a-ivan-cepeda/",
-        "published_date": "2026-06-06 20:34:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "This was the life of Cristian Herrera, a judicial journalist in C\u00facuta who was murdered: he spoke without fear about drug trafficking, politicians and corruption",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/asi-fue-la-vida-de-cristian-herrera-periodista-judicial-en-cucuta-que-fue-asesinado-hablaba-sin-miedo-de-narcotrafico-politicos-y-corrupcion-3562665",
-        "published_date": "2026-06-06 18:47:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "A nurse died after undergoing a cosmetic procedure in a 'garage clinic' in Cauca: the case recalled that of Yulixa Toloza",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/una-enfermera-murio-presuntamente-tras-un-procedimiento-estetico-en-una-clinica-de-garaje-en-el-cauca-el-caso-recordo-el-de-yulixa-toloza-3562602",
-        "published_date": "2026-06-06 18:40:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Profile of Abelardo de la Espriella: an imported brand for the time",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/opinion/perfil-a-abelardo-de-la-espriella-una-marca-importada-para-la-epoca/",
-        "published_date": "2026-06-06 18:21:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "On video |Roof of a renowned shopping center in Medell\u00edn collapsed: Mayor Federico Guti\u00e9rrez reports at least 10 people injured",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/en-video-techo-de-reconocido-centro-comercial-de-medellin-se-desplomo-alcalde-federico-gutierrez-reporta-al-menos-10-personas-lesionadas-3562668",
-        "published_date": "2026-06-06 18:15:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Abelardo spoke with Keiko Fujimori, right-wing candidate in Peru",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/abelardo-hablo-con-keiko-fujimori-candidata-de-la-derecha-en-peru/",
-        "published_date": "2026-06-06 17:53:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "An older adult and a teacher from a school in Medell\u00edn who offered money to students for pornographic material fell: a pimp is also captured",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/cayo-adulto-mayor-y-profesor-de-un-colegio-de-medellin-que-ofrecia-dinero-a-estudiantes-por-material-pornografico-tambien-capturan-a-una-proxeneta-3562663",
-        "published_date": "2026-06-06 17:38:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "SuperTransporte tightened surveillance of river transport during the holiday weekend",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/supertransporte-endurecio-vigilancia-al-transporte-fluvial-durante-puente-festivo-4409657",
-        "published_date": "2026-06-06 16:48:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "Exact video is known in which Cristian Herrera, a renowned judicial journalist from C\u00facuta, is murdered: it happened in front of his family",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/se-conoce-video-exacto-en-el-que-asesinan-a-cristian-herrera-reconocido-periodista-judicial-de-cucuta-sucedio-delante-de-su-familia-3562642",
-        "published_date": "2026-06-06 16:25:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "Dane presented his statistical team in World mode in the \"Danini\" style",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/dane-presento-a-su-equipo-estadistico-en-modo-mundial-al-estilo-danini-4409647",
-        "published_date": "2026-06-06 15:54:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "A client killed his barber after arguing about a haircut in the Valley: this was the victim who attended his establishment in the municipality of Restrepo",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/un-cliente-mato-a-su-barbero-tras-alegar-con-la-victima-por-el-corte-de-cabello-en-el-valle-lo-que-se-sabe-sobre-el-asesinato-ocurrido-en-restrepo-3562638",
-        "published_date": "2026-06-06 15:47:20",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-democracia-y-tecnologia/la-retorica-del-agravio-discursos-de-odio-y-soberania-tecnologica/",
+        "published_date": "2026-06-07 14:00:00",
         "category": "Local Events"
     }
 ]
