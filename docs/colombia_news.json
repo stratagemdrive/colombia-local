@@ -217,6 +217,13 @@
         "category": "Military"
     },
     {
+        "title": "R\u00edo C\u00f3rdoba Multipurpose Port Terminal received license from Anla",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/terminal-portuario-multiproposito-rio-cordoba-recibio-licencia-ambiental-por-parte-de-la-anla-4413097",
+        "published_date": "2026-06-12 11:26:02",
+        "category": "Energy"
+    },
+    {
         "title": "Minenerg\u00eda officially opened the process for assigning electrical projects",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/minenergia-abrio-oficialmente-proceso-para-asignacion-de-proyectos-electricos-4412179",
@@ -350,13 +357,6 @@
         "category": "Energy"
     },
     {
-        "title": "Camilo S\u00e1nchez was ratified as president of Andesco for two more years",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/camilo-sanchez-fue-ratificado-en-la-presidencia-de-andesco-por-dos-anos-mas-4408070",
-        "published_date": "2026-06-04 19:19:48",
-        "category": "Energy"
-    },
-    {
         "title": "Nairo, Borja and El Pibe: Abelardo adds sports endorsements to his campaign",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/nairo-borja-y-el-pibe-abelardo-suma-adhesiones-deportivas-a-su-campana/",
@@ -427,157 +427,143 @@
         "category": "Economy"
     },
     {
-        "title": "Inflation in May could reach 6.02%, the highest since August 2024",
+        "title": "Council of State leaves firm candidacy of Abelardo de la Espriella",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/consejo-de-estado-deja-en-firme-candidatura-de-abelardo-de-la-espriella/",
+        "published_date": "2026-06-12 13:18:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "Perimetral of Oriente de Cundinamarca will be reverted and will pass into the hands of Inv\u00edas",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/inflacion-en-mayo-podria-llegar-a-6-02-la-mas-alta-desde-agosto-de-2024-4407719",
-        "published_date": "2026-06-04 13:56:02",
-        "category": "Economy"
+        "url": "https://www.larepublica.co/economia/perimetral-de-oriente-de-cundinamarca-sera-revertida-y-pasara-a-manos-del-invias-4413179",
+        "published_date": "2026-06-12 12:52:07",
+        "category": "Local Events"
     },
     {
-        "title": "Rice, banana and sugarcane, the most vulnerable crops with the El Ni\u00f1o phenomenon",
+        "title": "Breakfast informed with the movements of this June 12, 2026",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-movidas-de-este-12-de-junio-de-2026/",
+        "published_date": "2026-06-12 12:31:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "Upme updated terms of transportation capacity to generation projects",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/arroz-platano-y-cana-los-cultivos-mas-vulnerables-con-fenomeno-de-el-nino-4407408",
-        "published_date": "2026-06-04 05:04:21",
-        "category": "Economy"
-    },
-    {
-        "title": "El Ni\u00f1o officially arrived in Colombia three months ahead of schedule",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/el-nino-llego-oficialmente-a-colombia-tres-meses-antes-de-lo-previsto/",
-        "published_date": "2026-06-11 23:32:00",
+        "url": "https://www.larepublica.co/economia/con-circular-upme-actualizo-terminos-de-capacidad-de-transporte-a-proyectos-de-generacion-4413149",
+        "published_date": "2026-06-12 12:27:33",
         "category": "Local Events"
     },
     {
-        "title": "Road blockages represent $1.3 billion in losses and 5,128 hours lost",
+        "title": "A World Cup for Donald Trump",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/un-mundial-para-donald-trump/",
+        "published_date": "2026-06-12 12:22:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cepeda did not curse the Santander people, video was altered with AI",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/cepeda-no-maldijo-al-pueblo-santandereano-video-fue-alterado-con-ia/",
+        "published_date": "2026-06-12 12:15:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "Delivery of the Western RegioTram was brought forward to the second half of 2027",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/bloqueos-de-corredores-viales-representan-1-3-billones-en-perdidas-y-5-128-horas-perdidas-4412935",
-        "published_date": "2026-06-11 23:29:43",
+        "url": "https://www.larepublica.co/economia/entrega-del-regiotram-de-occidente-se-adelanto-para-segundo-semestre-de-2027-4413118",
+        "published_date": "2026-06-12 11:53:59",
         "category": "Local Events"
     },
     {
-        "title": "Time is ticking and Cepeda remains bogged down in his conquest of the center",
+        "title": "This will be the celebration of the 121 years of the department of Atl\u00e1ntico: illustrious people, emblematic settings and works in the commemoration",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/asi-sera-la-celebracion-de-los-121-anos-del-departamento-del-atlantico-personajes-ilustres-escenarios-emblematicos-y-obras-en-la-conmemoracion-3563854",
+        "published_date": "2026-06-12 08:27:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tremor in Colombia today: Colombian Geological Service reported an earthquake on the morning of this June 12, 2026;these are the details",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-en-colombia-hoy-servicio-geologico-colombiano-reporto-un-sismo-en-la-manana-de-este-12-de-junio-de-2026-estos-son-los-detalles-3563834",
+        "published_date": "2026-06-12 08:24:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "On the brink of tragedy: they capture a woman who pushed the MIO guard towards the exclusive road where the system's buses travel in Cali",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/al-borde-de-la-tragedia-capturan-a-mujer-que-empujo-a-guarda-del-mio-hacia-la-via-exclusiva-por-donde-transitan-los-buses-del-sistema-en-cali-3563840",
+        "published_date": "2026-06-12 07:46:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cepeda does not shake off the strategic errors of the first round",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/el-tiempo-corre-y-cepeda-sigue-empantanado-en-su-conquista-del-centro/",
-        "published_date": "2026-06-11 23:15:10",
+        "url": "https://www.lasillavacia.com/silla-nacional/cepeda-no-se-sacude-de-los-errores-estrategicos-de-la-primera-vuelta/",
+        "published_date": "2026-06-12 06:00:00",
         "category": "Local Events"
     },
     {
-        "title": "Detector: De la Espriella did not say that he will lower the minimum wage to $1,450,000",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/detector-de-la-espriella-no-dijo-que-bajara-el-salario-minimo-a-1-450-000/",
-        "published_date": "2026-06-11 22:58:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "This is how Cepeda and De la Espriella dispute the votes on social networks",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-democracia-y-tecnologia/asi-se-disputan-cepeda-y-de-la-espriella-los-votos-en-redes-sociales/",
-        "published_date": "2026-06-11 22:44:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ten days before the second round, Cepeda publishes his government plan",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/a-diez-dias-para-la-segunda-vuelta-cepeda-publica-su-plan-de-gobierno/",
-        "published_date": "2026-06-11 22:42:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Council of State confirms the election of H\u00e9ctor Carvajal to the Court",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/consejo-de-estado-deja-en-firme-eleccion-de-hector-carvajal-en-la-corte/",
-        "published_date": "2026-06-11 21:59:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "Agricultural exports in the first quarter grew by 21.1% compared to 2025",
+        "title": "Who is among the best ports in the Container Port Performance Index 2025?",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/exportaciones-agropecuarias-del-primer-cuatrimestre-crecieron-en-21-1-frente-a-2025-4412706",
-        "published_date": "2026-06-11 21:44:54",
+        "url": "https://www.larepublica.co/economia/quien-es-quien-entres-los-puertos-del-container-port-performance-index-2025-4412949",
+        "published_date": "2026-06-12 05:01:14",
         "category": "Local Events"
     },
     {
-        "title": "MinAmbiente presents draft decree to regulate carbon credits",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/minambiente-presenta-proyecto-de-decreto-para-reglamentar-bonos-de-carbono/",
-        "published_date": "2026-06-11 21:30:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "The \u201cberraco avenger\u201d: this is how Abelardo triumphed in the right-wing laboratory",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/el-vengador-berraco-asi-triunfo-abelardo-en-el-laboratorio-de-la-derecha/",
-        "published_date": "2026-06-11 21:09:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "Video |Hitman shoots and kills a motorcyclist in Soledad (Atl\u00e1ntico) when he was preparing to provide transportation for a pregnant woman",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/video-sicario-asesina-a-tiros-a-motocarrista-en-soledad-atlantico-cuando-se-disponia-a-hacer-el-servicio-de-transporte-a-mujer-embarazada-3563770",
-        "published_date": "2026-06-11 19:01:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tragedy during a trip in San Andr\u00e9s: two tourists died after a serious collision between a boat and a pontoon;This is known about the accident",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/dos-turistas-fallecieron-tras-recorrido-en-lancha-que-transportaba-a-14-personas-en-san-andres-detalles-del-accidente-y-estado-de-salud-de-pasajeros-3563748",
-        "published_date": "2026-06-11 18:51:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "Avianca responds to a complaint about theft of luggage from Sof\u00eda M\u00e9ndez, wife of the mayor of Sincelejo, during a trip to Mexico: they carry out an investigation",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/avianca-responde-a-denuncia-por-robo-de-equipaje-de-sofia-mendez-esposa-del-alcalde-de-sincelejo-durante-viaje-a-mexico-llevan-a-cabo-investigacion-3563762",
-        "published_date": "2026-06-11 18:45:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "A young woman accused of murdering her mother for not giving her the Wi-Fi password for her home in Risaralda surrendered: she reached a preliminary agreement with the authorities",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/joven-que-asesino-a-su-mama-por-no-dejarla-conectar-al-internet-de-la-casa-se-entrego-en-pereira-llego-a-un-preacuerdo-con-las-autoridades-3563755",
-        "published_date": "2026-06-11 18:40:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "Barranquilla recovers nearly 2 million square meters of public space with 367 parks and green areas",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-recupera-cerca-de-2-millones-de-metros-cuadrados-de-espacio-publico-con-367-parques-y-zonas-verdes-3563758",
-        "published_date": "2026-06-11 18:16:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "Atl\u00e1ntico: bidding for $11,000 million is opened to bring permanent water to Luruaco and its towns",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/atlantico-abren-licitacion-por-11-000-millones-para-llevar-agua-permanente-a-luruaco-y-sus-corregimientos-3563746",
-        "published_date": "2026-06-11 17:28:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "Crisis due to the terrible water service in Cartagena: Andesco calls for dialogue to guarantee continuity and quality of public services",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/crisis-por-el-pesimo-servicio-de-agua-en-cartagena-andesco-hace-un-llamado-al-dialogo-para-garantizar-continuidad-y-calidad-de-los-servicios-publicos-3563735",
-        "published_date": "2026-06-11 17:00:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Motel used for sexual exploitation of minors by criminal networks in Medell\u00edn was affected with a domain forfeiture measure",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/motel-utilizado-para-explotacion-sexual-de-menores-de-edad-por-parte-de-redes-delictivas-en-medellin-fue-afectado-con-medida-de-extincion-de-dominio-3563722",
-        "published_date": "2026-06-11 16:13:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Asobares projects additional income of $656,806 million from the World Cup",
+        "title": "\u201cVery strong\u201d El Ni\u00f1o would extend until February after the consolidation of the phenomenon",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/asobares-proyecta-ingresos-adicionales-de-656-806-en-la-temporada-del-mundial-4412303",
-        "published_date": "2026-06-11 14:47:18",
+        "url": "https://www.larepublica.co/economia/el-nino-muy-fuerte-se-extenderia-hasta-febrero-tras-consolidacion-del-fenomeno-4412171",
+        "published_date": "2026-06-12 05:01:12",
         "category": "Local Events"
     },
     {
-        "title": "The digitality of affects in the second round",
+        "title": "The Superintendency of Transportation fines Precoltur $4,215 million for irregularities found after an accident that left 17 dead in Antioquia",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/la-superintendencia-de-transporte-multa-con-4-215-millones-a-precoltur-por-irregularidades-halladas-tras-accidente-que-dejo-17-muertos-en-antioquia-3563822",
+        "published_date": "2026-06-12 04:08:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "A blow to crime or a wash of warm water in the Valley?Minor recruiters would face up to 50 years in prison with a project advancing in Congress",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/golpe-al-crimen-o-pano-de-agua-tibia-en-el-valle-reclutadores-de-menores-enfrentarian-hasta-50-anos-de-carcel-con-proyecto-que-avanza-en-el-congreso-3563796",
+        "published_date": "2026-06-12 03:56:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Avoid setbacks!Peak and plaque in Bucaramanga for Friday, June 12, 2026",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/evite-contratiempos-pico-y-placa-en-bucaramanga-para-el-viernes-12-de-junio-de-3563806",
+        "published_date": "2026-06-12 02:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Drivers attention!Peak and plate in Pereira for Friday, June 12, 2026: this is how the measure will govern",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/atencion-conductores-pico-y-placa-en-pereira-para-el-viernes-12-de-junio-de-2026-asi-regira-la-medida-3563803",
+        "published_date": "2026-06-12 02:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Avoid fines!Peak and plate in Cali for Friday, June 12, 2026: this is how the measure operates",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/evite-multas-pico-y-placa-en-cali-para-el-viernes-12-de-junio-de-2026-asi-opera-la-medida-3563802",
+        "published_date": "2026-06-12 02:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Follow the mobility measure!Peak and plate in Medell\u00edn for Friday, June 12, 2026: this is how the restriction works",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/siga-la-medida-de-movilidad-pico-y-placa-en-medellin-para-el-viernes-12-de-junio-de-2026-asi-funciona-la-restriccion-3563800",
+        "published_date": "2026-06-12 02:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Video of Fujimori asking Petro not to put \u201chis red nose in Peru\u201d is from 2023",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-democracia-y-tecnologia/la-digitalidad-de-los-afectos-en-la-segunda-vuelta/",
-        "published_date": "2026-06-11 13:58:10",
+        "url": "https://www.lasillavacia.com/detector-de-mentiras/enganoso/video-de-fujimori-pidiendo-a-petro-no-meter-su-nariz-roja-en-peru-es-de-2023/",
+        "published_date": "2026-06-12 01:40:26",
         "category": "Local Events"
     }
 ]
