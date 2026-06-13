@@ -70,6 +70,27 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Cepeda's inheritance: the Agreement and total peace",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/las-herencias-de-cepeda-el-acuerdo-y-la-paz-total/",
+        "published_date": "2026-06-13 05:05:00",
+        "category": "Military"
+    },
+    {
+        "title": "Why will Cali be the most monitored city in the country on June 21?The keys to the security operation announced by the National Government",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/por-que-cali-sera-la-ciudad-mas-vigilada-del-pais-el-21-de-junio-las-claves-del-operativo-de-seguridad-que-anuncia-el-gobierno-nacional-3564099",
+        "published_date": "2026-06-13 03:39:04",
+        "category": "Military"
+    },
+    {
+        "title": "The most wanted of the 4th front of the FARC dissidents: this is alias Samantha, the 'communicator' of the structure in the Northeast of Antioquia",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/los-mas-buscados-del-frente-4-de-las-disidencias-de-las-farc-esta-es-alias-samantha-la-comunicadora-de-la-estructura-en-el-nordeste-de-antioquia-3564070",
+        "published_date": "2026-06-12 22:29:09",
+        "category": "Military"
+    },
+    {
         "title": "More than 3,000 uniformed personnel are ready to guarantee road safety during one of the festive weekends with the highest traffic flow in the Valley",
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/cali/mas-de-3-000-uniformados-estan-listos-para-garantizar-la-seguridad-vial-durante-uno-de-los-puentes-festivos-con-mayor-flujo-vehicular-en-el-valle-3564035",
@@ -186,27 +207,6 @@
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/otras-ciudades/entre-velas-y-flores-blancas-asi-fue-el-sentido-adios-de-cristian-herrera-periodista-judicial-amenazado-y-asesinado-en-cucuta-3562917",
         "published_date": "2026-06-08 17:45:00",
-        "category": "Military"
-    },
-    {
-        "title": "The country's energy security is also disputed in the second round",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-verde/la-seguridad-energetica-del-pais-tambien-se-disputa-en-la-segunda-vuelta/",
-        "published_date": "2026-06-08 17:30:00",
-        "category": "Military"
-    },
-    {
-        "title": "Cepeda and De la Espriella accuse each other of planning self-attacks",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/cepeda-y-de-la-espriella-se-acusan-mutuamente-de-planear-autoatentados/",
-        "published_date": "2026-06-08 17:19:01",
-        "category": "Military"
-    },
-    {
-        "title": "Five Navy soldiers were injured by the ELN attack with explosives launched by drones in Choc\u00f3: they are in a clinic in Buenaventura, Valle",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/cinco-militares-de-la-armada-quedaron-heridos-por-ataque-del-eln-con-explosivos-lanzados-por-drones-en-choco-estan-en-clinica-de-buenaventura-valle-3562904",
-        "published_date": "2026-06-08 16:13:59",
         "category": "Military"
     },
     {
@@ -350,6 +350,13 @@
         "category": "Energy"
     },
     {
+        "title": "Greater fiscal deficit and more inflation, the accounts that remain for the next Government",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/mayor-deficit-fiscal-y-mas-inflacion-las-cuentas-que-le-quedan-al-proximo-gobierno-4414191",
+        "published_date": "2026-06-13 05:01:26",
+        "category": "Economy"
+    },
+    {
         "title": "The latest Fiscal Framework expects to close 2026 with a higher interest payment",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/el-ultimo-marco-fiscal-espera-cerrar-2026-con-un-mayor-pago-de-intereses/",
@@ -441,6 +448,62 @@
         "category": "Economy"
     },
     {
+        "title": "The Inventory",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/opinion/el-inventario/",
+        "published_date": "2026-06-13 08:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Do\u00f1a Cleotilde on the death row of the Nueva EPS",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/opinion/dona-cleotilde-en-el-corredor-de-la-muerte-de-la-nueva-eps/",
+        "published_date": "2026-06-13 07:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The centrifugal country",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/opinion/el-pais-centrifugo/",
+        "published_date": "2026-06-13 06:02:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "tragic realism",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/opinion/realismo-tragico/",
+        "published_date": "2026-06-13 06:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "More than 14.4 million Colombians survive on less than $482,000 each month",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/mas-de-14-4-millones-de-colombianos-sobreviven-con-menos-de-482-000-cada-mes-4414164",
+        "published_date": "2026-06-13 05:01:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "El Ni\u00f1o phenomenon would add 4\u00b0C to normal city temperatures",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/fenomeno-de-el-nino-le-pondria-4c-mas-a-las-temperaturas-normales-de-las-ciudades-4414148",
+        "published_date": "2026-06-13 05:01:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "Petro highlighted that in his Government he managed to make monetary poverty the lowest",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/petro-destaco-que-en-su-gobierno-logro-que-la-pobreza-monetaria-sea-la-mas-baja-del-siglo-4414213",
+        "published_date": "2026-06-13 02:03:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "Sleep informed with the movements of this June 12, 2026",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-movidas-de-este-12-de-junio-de-2026/",
+        "published_date": "2026-06-13 00:23:55",
+        "category": "Local Events"
+    },
+    {
         "title": "Cepeda rides the World Cup wave and says that Colombia can host it",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/cepeda-se-monta-a-la-ola-mundialista-y-dice-que-colombia-puede-ser-sede/",
@@ -462,6 +525,13 @@
         "category": "Local Events"
     },
     {
+        "title": "Survivor provides details of the dramatic maritime accident in San Andr\u00e9s that left mother and daughter dead: 'That's when I knew she was also dead'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/sobreviviente-entrega-detalles-del-dramatico-accidente-maritimo-en-san-andres-que-dejo-a-madre-e-hija-fallecidas-ahi-supe-que-tambien-estaba-muerta-3564091",
+        "published_date": "2026-06-12 23:15:00",
+        "category": "Local Events"
+    },
+    {
         "title": "More than half of Colombia is still a forest: this is its new relief map",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/mas-de-media-colombia-todavia-es-bosque-asi-es-su-nuevo-mapa-de-relieve/",
@@ -473,6 +543,13 @@
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/petro-vuelve-a-rayar-la-participacion-en-politica-en-canal-de-whatsapp/",
         "published_date": "2026-06-12 22:19:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cali is World Cup: these are the places where the district's Mayor's Office will place giant screens to enjoy the planet's soccer festival",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/cali-es-mundial-estos-son-los-sitios-donde-la-alcaldia-del-distrito-ubicara-pantallas-gigantes-para-gozar-la-fiesta-futbolera-del-planeta-3564058",
+        "published_date": "2026-06-12 20:46:37",
         "category": "Local Events"
     },
     {
@@ -497,87 +574,17 @@
         "category": "Local Events"
     },
     {
+        "title": "Hitmen on a motorcycle and in a car murder a contractor from the Government of Valle: the victim had denounced differences with a politician in a video",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/sicarios-en-moto-y-en-carro-asesinan-a-un-contratista-de-la-gobernacion-del-valle-la-victima-habia-denunciado-en-un-video-diferencias-con-un-politico-3564042",
+        "published_date": "2026-06-12 19:42:16",
+        "category": "Local Events"
+    },
+    {
         "title": "As of April, six out of every 10 informal workers are self-employed",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/con-corte-a-abril-seis-de-cada-10-informales-son-trabajadores-por-cuenta-propia-4413688",
         "published_date": "2026-06-12 19:41:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "There will be suspense to find out if Blessd and D\u00edmelo Jara go to jail for alleged kidnapping for ransom: What happened at the hearing?",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/en-suspenso-quedo-la-decision-de-una-posible-medida-de-aseguramiento-contra-blessd-y-dimelo-jara-por-presunto-secuestro-extorsivo-que-sucedio-3564027",
-        "published_date": "2026-06-12 18:48:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "Return to traditional: the Sandiego shopping center voting station returns to its historic location in Medell\u00edn",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/vuelve-a-lo-tradicional-el-puesto-de-votacion-del-centro-comercial-sandiego-regresa-a-su-ubicacion-historica-en-medellin-3564032",
-        "published_date": "2026-06-12 17:54:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "Alert in Popay\u00e1n: the Personer\u00eda warns of a structural crisis due to the expansion of armed groups in rural areas",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/alerta-en-popayan-la-personeria-advierte-crisis-estructural-por-expansion-de-grupos-armados-en-zona-rural-3564023",
-        "published_date": "2026-06-12 17:14:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Superservicios puts the magnifying glass on 598 companies to evaluate non-compliance",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/superservicios-pone-la-lupa-sobre-598-empresas-para-evaluar-cumplimiento-en-registros-4413504",
-        "published_date": "2026-06-12 17:13:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "This is how the illegal armed group that will sit down with the Government in Tierralta in search of 'Total Peace' commits crimes in C\u00f3rdoba: there is an alert in 5 municipalities",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/asi-delinque-en-cordoba-la-banda-criminal-que-se-sentara-con-el-gobierno-nacional-en-tierralta-en-busca-de-la-paz-total-hay-alerta-en-5-municipios-3564015",
-        "published_date": "2026-06-12 17:12:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Santa Marta |National Government pulled back desalination plant in Taganga after citizen rejection: they will only build one for the water crisis",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/santa-marta-gobierno-nacional-echo-para-atras-planta-desalinizadora-en-taganga-tras-rechazo-ciudadano-solo-construiran-una-para-la-crisis-del-agua-3564014",
-        "published_date": "2026-06-12 16:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "A person was in a situation of monetary poverty if they lived with less than $482,041 per month",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/una-persona-estuvo-en-situacion-de-pobreza-monetaria-si-vivio-con-menos-de-482-041-4413352",
-        "published_date": "2026-06-12 15:37:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "Council of State leaves firm candidacy of Abelardo de la Espriella",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/consejo-de-estado-deja-en-firme-candidatura-de-abelardo-de-la-espriella/",
-        "published_date": "2026-06-12 13:18:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "Perimetral of Oriente de Cundinamarca will be reverted and will pass into the hands of Inv\u00edas",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/perimetral-de-oriente-de-cundinamarca-sera-revertida-y-pasara-a-manos-del-invias-4413179",
-        "published_date": "2026-06-12 12:52:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Breakfast informed with the movements of this June 12, 2026",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-movidas-de-este-12-de-junio-de-2026/",
-        "published_date": "2026-06-12 12:31:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "Upme updated terms of transportation capacity to generation projects",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/con-circular-upme-actualizo-terminos-de-capacidad-de-transporte-a-proyectos-de-generacion-4413149",
-        "published_date": "2026-06-12 12:27:33",
         "category": "Local Events"
     }
 ]
