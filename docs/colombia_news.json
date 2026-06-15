@@ -322,13 +322,6 @@
         "category": "Energy"
     },
     {
-        "title": "Ministry of Mines and Energy will reactivate Puerto Voluntad starting next July 1",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/ministerio-de-minas-y-energia-reactivara-puerto-voluntad-a-partir-del-1-de-julio-4409894",
-        "published_date": "2026-06-07 15:55:05",
-        "category": "Energy"
-    },
-    {
         "title": "Greater fiscal deficit and more inflation, the accounts that remain for the next Government",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/mayor-deficit-fiscal-y-mas-inflacion-las-cuentas-que-le-quedan-al-proximo-gobierno-4414191",
@@ -392,17 +385,80 @@
         "category": "Economy"
     },
     {
-        "title": "The Treasury has until Monday to present the Medium Term Fiscal Framework",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/hacienda-tiene-hasta-el-lunes-para-presentar-el-marco-fiscal-de-mediano-plazo-4409645",
-        "published_date": "2026-06-07 05:03:15",
-        "category": "Economy"
+        "title": "Cepeda links De La Espriella with alleged crimes in the health sector",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/cepeda-vincula-a-de-la-espriella-con-supuestos-delitos-en-sector-salud/",
+        "published_date": "2026-06-15 15:47:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "The fiction of both extremes",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/la-ficcion-de-los-dos-extremos/",
+        "published_date": "2026-06-15 15:30:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Court recognized care as a task of the State, it needs to be financed",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/la-corte-reconocio-el-cuidado-solo-falta-como-financiarlo/",
+        "published_date": "2026-06-15 13:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "They offer a millionaire reward for those responsible for the murder of the contractor Jes\u00fas C\u00e9spedes in Cali",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/ofrecen-millonaria-recompensa-por-los-responsables-del-homicidio-del-contratista-jesus-cespedes-en-cali-3564370",
+        "published_date": "2026-06-15 11:01:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Robbery in Medell\u00edn: the moment in which an armed man intimidates a driver at a traffic light was recorded on video",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/atraco-en-medellin-en-video-quedo-grabado-el-instante-en-que-hombre-armado-intimida-a-conductor-en-un-semaforo-3564368",
+        "published_date": "2026-06-15 11:00:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "One of the most wanted hitmen in Barranquilla falls in Rebolo",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/cae-en-rebolo-uno-de-los-sicarios-mas-buscados-en-barranquilla-3564363",
+        "published_date": "2026-06-15 10:37:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "The closing of Abelardo De la Espriella's campaign, between prayers to the Lord of Miracles, roars, flags, a plush tiger and crowds",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/el-cierre-de-campana-de-abelardo-de-la-espriella-entre-plegarias-al-senor-de-los-milagros-rugidos-banderas-un-tigre-de-felpa-y-multitudes-3564155",
+        "published_date": "2026-06-15 09:40:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Vote calculator for second round: these are the decisive votes",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/calculadora-de-votos-para-segunda-vuelta-estos-son-los-votos-decisivos/",
+        "published_date": "2026-06-15 06:00:00",
+        "category": "Local Events"
     },
     {
         "title": "Campaign Sunday: De la Espriella in mass and Cepeda in streaming",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/domingo-de-campana-de-la-espriella-en-misa-y-cepeda-en-streaming/",
         "published_date": "2026-06-14 22:52:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "Santa Marta breaks temperature records and extreme heat forces a public calamity to be declared: health, water and fire alerts are lit",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/santa-marta-rompe-record-de-temperaturas-y-el-calor-extremo-obliga-a-declarar-calamidad-publica-se-encienden-alertas-por-salud-agua-e-incendios-3564340",
+        "published_date": "2026-06-14 22:23:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "Attention tourists: National Parks require mandatory insurance to enter the Rosario and San Bernardo, Bar\u00fa and Chol\u00f3n Islands, in Cartagena",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/atencion-turistas-parques-nacionales-exige-seguro-obligatorio-para-ingresar-a-las-islas-del-rosario-y-san-bernardo-baru-y-cholon-en-cartagena-3564339",
+        "published_date": "2026-06-14 21:55:41",
         "category": "Local Events"
     },
     {
@@ -417,6 +473,13 @@
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/red-de-expertos/red-social/la-cultura-necesita-alzar-la-voz-no-solo-ser-simbolica-en-las-campanas/",
         "published_date": "2026-06-14 20:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Andr\u00e9s Carne de Res closed his restaurant in Medell\u00edn until June 18 due to an administrative process: this is known",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/andres-carne-de-res-cerro-su-restaurante-en-medellin-hasta-el-18-de-junio-por-un-proceso-administrativo-esto-se-sabe-3564318",
+        "published_date": "2026-06-14 19:25:42",
         "category": "Local Events"
     },
     {
@@ -459,83 +522,6 @@
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/participe-en-estudio-sobre-como-los-colombianos-viven-la-polarizacion/",
         "published_date": "2026-06-14 16:16:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ombudsman warns of high level of confrontation in elections",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/defensoria-alerta-alto-nivel-de-confrontacion-en-las-elecciones/",
-        "published_date": "2026-06-14 15:59:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "A man who tried to deceive the authorities by faking the 'natural death' of his romantic partner fell in Cali",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/cayo-en-cali-hombre-que-intento-enganar-a-las-autoridades-fingiendo-la-muerte-natural-de-su-pareja-sentimental-3564287",
-        "published_date": "2026-06-14 15:23:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "Digital violence is the result of a patriarchal algorithm",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-democracia-y-tecnologia/la-violencia-digital-es-el-resultado-de-un-algoritmo-patriarcal/",
-        "published_date": "2026-06-14 14:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Yes, yes, Colombia!",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/opinion/si-si-colombia-2/",
-        "published_date": "2026-06-14 13:52:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "Abelardo de la Espriella: the Tiger of Sin\u00fa",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/podcasts/abelardo-de-la-espriella-el-tigre-del-sinu/",
-        "published_date": "2026-06-14 13:42:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "Drug trafficking: in the Port of Cartagena they seized 2.4 tons of cocaine hidden in coffee, and whose destination was the port of Valencia, in Spain",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/narcotrafico-en-el-puerto-de-cartagena-incautaron-2-4-toneladas-de-cocaina-ocultas-en-cafe-y-cuyo-destino-era-el-puerto-de-valencia-en-espana-3564248",
-        "published_date": "2026-06-14 13:39:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ombudsman denounces humanitarian crisis in the Pacific: there are minors recruited and communities confined on the border between Colombia and Ecuador",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/defensoria-denuncia-crisis-humanitaria-en-el-pacifico-hay-menores-reclutados-y-comunidades-confinadas-en-la-frontera-entre-colombia-y-ecuador-3564276",
-        "published_date": "2026-06-14 13:08:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Financial crisis in the General Hospital of Medell\u00edn: services are restricted to users of Nueva EPS and Comfachoc\u00f3 due to millionaire debt",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/crisis-financiera-en-el-hospital-general-de-medellin-restringen-servicios-a-usuarios-de-nueva-eps-y-comfachoco-por-millonaria-deuda-3564275",
-        "published_date": "2026-06-14 12:50:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "'Kamikaze': this is the criminal modality used by drug traffickers to move tons of marijuana in the Valley",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/kamikaze-asi-es-la-modalidad-criminal-usada-por-los-narcos-para-mover-toneladas-de-marihuana-en-el-valle-3564254",
-        "published_date": "2026-06-14 11:03:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Supersalud intensifies operations on the Caribbean Coast and detects failures in medicine dispensaries and customer service",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/supersalud-intensifica-operativos-en-la-costa-caribe-y-detecta-fallas-en-dispensarios-de-medicamentos-y-la-atencion-a-usuarios-3564241",
-        "published_date": "2026-06-14 09:52:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Governor of Antioquia after the capture of 'V\u00edctor Chal\u00e1', accused of murdering Mateo P\u00e9rez: 'Behind that appearance a criminal hides'",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/gobernador-de-antioquia-tras-la-captura-de-victor-chala-senalado-de-asesinar-a-mateo-perez-detras-de-esa-apariencia-se-esconde-un-criminal-3564235",
-        "published_date": "2026-06-14 07:39:36",
         "category": "Local Events"
     }
 ]
