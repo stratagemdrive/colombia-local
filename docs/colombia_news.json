@@ -1,5 +1,12 @@
 [
     {
+        "title": "Petro, Abelardo and Quilcu\u00e9 talk about the case of child abuse in Bogot\u00e1",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/petro-abelardo-y-quilcue-hablan-sobre-caso-de-abuso-infantil-en-bogota/",
+        "published_date": "2026-06-15 19:52:59",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Parents of journalist Mateo P\u00e9rez Rueda speak out after the capture of 'V\u00edctor Chal\u00e1', accused of murdering their son in Antioquia: 'I leave it to God'",
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/medellin/padres-del-periodista-mateo-perez-rueda-se-pronuncian-tras-captura-de-victor-chala-senalado-de-asesinar-a-su-hijo-en-antioquia-se-lo-dejo-a-dios-3564189",
@@ -47,6 +54,20 @@
         "url": "https://www.eltiempo.com/colombia/otras-ciudades/defensoria-del-pueblo-confirmo-el-asesinato-de-un-defensor-publico-en-caldas-hacemos-un-llamado-urgente-3562840",
         "published_date": "2026-06-08 09:03:16",
         "category": "Diplomacy"
+    },
+    {
+        "title": "With a body hidden in the vehicle, the Army captured three members of illegal armed groups on a highway in Linares, Nari\u00f1o",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/con-un-cadaver-oculto-en-el-vehiculo-el-ejercito-capturo-a-tres-integrantes-de-grupos-armados-ilegales-en-una-carretera-de-linares-narino-3564422",
+        "published_date": "2026-06-15 18:10:41",
+        "category": "Military"
+    },
+    {
+        "title": "At this time, clashes in the Sierra Nevada de Santa Marta between the Army and illegal armed groups affect mobility in the Caribbean Trunk",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/a-esta-hora-enfrentamientos-en-la-sierra-nevada-de-santa-marta-entre-ejercito-y-grupos-armados-ilegales-afectan-la-movilidad-en-la-troncal-del-caribe-3564387",
+        "published_date": "2026-06-15 12:32:50",
+        "category": "Military"
     },
     {
         "title": "Essential demand will have priority in supply during Spec maintenance",
@@ -175,18 +196,11 @@
         "category": "Military"
     },
     {
-        "title": "Harsh questioning of cargo transporters due to insecurity on the Pan-American Highway between Nari\u00f1o and Cauca: 'Every day something happens'",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/duro-cuestionamiento-de-los-transportadores-de-carga-por-la-inseguridad-en-la-via-panamericana-entre-narino-y-cauca-todos-los-dias-sucede-algo-3563431",
-        "published_date": "2026-06-10 17:18:30",
-        "category": "Military"
-    },
-    {
-        "title": "Atl\u00e1ntico: Soledad and Malambo will have their own Metropolitan Police;2,600 uniformed personnel would arrive to reinforce security",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/atlantico-soledad-y-malambo-tendran-policia-metropolitana-propia-llegarian-2-600-uniformados-para-reforzar-la-seguridad-3563437",
-        "published_date": "2026-06-10 17:09:57",
-        "category": "Military"
+        "title": "Ecopetrol and the USO reached an agreement in the negotiation of a Collective Agreement",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/ecopetrol-y-la-uso-llegaron-a-acuerdo-en-la-negociacion-de-convencion-colectiva-de-trabajo-4414439",
+        "published_date": "2026-06-13 22:15:13",
+        "category": "Energy"
     },
     {
         "title": "Petro Government leaves state payroll $22 billion more expensive and fiscal pressures",
@@ -385,6 +399,69 @@
         "category": "Economy"
     },
     {
+        "title": "The second round began outside.De La Espriella is the favorite",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/la-segunda-vuelta-comenzo-en-el-exterior-de-la-espriella-es-el-favorito/",
+        "published_date": "2026-06-15 22:52:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "Controversy over Dane data on the measurement of labor market figures",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/estudio-de-udea-reabre-debate-sobre-medicion-de-cifras-del-mercado-laboral-4414823",
+        "published_date": "2026-06-15 22:08:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "Youtubers, the national team and his wife: this is how Cepeda's reinvention goes",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/youtubers-la-seleccion-y-su-esposa-asi-va-la-reinvencion-de-cepeda/",
+        "published_date": "2026-06-15 22:01:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "MinMinas announces electrical interconnection with Venezuela from Vichada",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/minminas-anuncia-interconexion-electrica-con-venezuela-desde-vichada-4414790",
+        "published_date": "2026-06-15 21:05:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "Authorities investigate the murder of an Aw\u00e1 indigenous leader on the Pacific Coast of Nari\u00f1o: 'They will never be able to erase his legacy'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/autoridades-investigan-el-asesinato-de-un-lider-indigena-awa-en-la-costa-pacifica-de-narino-jamas-podran-borrar-su-legado-3564427",
+        "published_date": "2026-06-15 18:28:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "Catatumbo: 329 peasant families in Norte de Santander became legitimate owners of 3,843 hectares of land",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/catatumbo-329-familias-campesinas-en-norte-de-santander-se-convirtieron-en-propietarias-legitimas-de-3-843-hectareas-de-tierra-3564424",
+        "published_date": "2026-06-15 18:22:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "Santa Marta is the first city in Colombia to declare a public calamity due to the effects of the El Ni\u00f1o phenomenon: thermal sensation reached 45 degrees",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/santa-marta-es-la-primera-ciudad-de-colombia-que-declara-calamidad-publica-por-efectos-de-fenomeno-de-el-nino-sensacion-termica-alcanzo-los-45-grados-3564415",
+        "published_date": "2026-06-15 17:33:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "De La Espriella and Cepeda, two models, two failures",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/de-la-espriella-y-cepeda-dos-modelos-dos-fracasos/",
+        "published_date": "2026-06-15 16:59:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "De La Espriella continues to join the black list of Petrism politicians",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/de-la-espriella-sigue-engrosando-lista-negra-de-politicos-del-petrismo/",
+        "published_date": "2026-06-15 16:55:09",
+        "category": "Local Events"
+    },
+    {
         "title": "Cepeda links De La Espriella with alleged crimes in the health sector",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/cepeda-vincula-a-de-la-espriella-con-supuestos-delitos-en-sector-salud/",
@@ -399,10 +476,45 @@
         "category": "Local Events"
     },
     {
+        "title": "Military operation against the ACSN in the Sierra Nevada unleashes crisis in the Caribbean Trunk: trapped tourists and tension in communities",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/operativo-militar-contra-las-acsn-en-la-sierra-nevada-desata-crisis-en-la-troncal-del-caribe-turistas-atrapados-y-tension-en-comunidades-3564400",
+        "published_date": "2026-06-15 14:33:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "Seguidilla of tremors in Colombia today, June 15: the SGC provided details of two earthquakes registered less than an hour apart",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/seguidilla-de-temblores-en-colombia-hoy-15-de-junio-el-sgc-entrego-detalles-de-dos-sismos-registrados-con-menos-de-una-hora-de-diferencia-3564396",
+        "published_date": "2026-06-15 13:12:01",
+        "category": "Local Events"
+    },
+    {
         "title": "The Court recognized care as a task of the State, it needs to be financed",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/red-de-expertos/red-social/la-corte-reconocio-el-cuidado-solo-falta-como-financiarlo/",
         "published_date": "2026-06-15 13:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Water crisis in Buenaventura: Government of Valle and Ungrd deploy emergency plan and seek definitive solution",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/crisis-de-agua-en-buenaventura-gobernacion-del-valle-y-ungrd-despliegan-plan-de-emergencia-y-buscan-solucion-definitiva-3564394",
+        "published_date": "2026-06-15 12:49:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "Barranquilla begins the artistic intervention on 72nd Street, inspired by Shakira: these are the detours and road closures",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-empieza-la-intervencion-artistica-en-la-calle-72-inspirada-en-shakira-estos-son-los-desvios-y-cierres-viales-3564391",
+        "published_date": "2026-06-15 12:46:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "Accident on the Patios-Guasca road leaves five people injured, including a child under 2 years old",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/accidente-en-la-via-patios-guasca-deja-cinco-personas-heridas-entre-ellas-un-menor-de-2-anos-3564380",
+        "published_date": "2026-06-15 12:12:20",
         "category": "Local Events"
     },
     {
@@ -424,104 +536,6 @@
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/barranquilla/cae-en-rebolo-uno-de-los-sicarios-mas-buscados-en-barranquilla-3564363",
         "published_date": "2026-06-15 10:37:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "The closing of Abelardo De la Espriella's campaign, between prayers to the Lord of Miracles, roars, flags, a plush tiger and crowds",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/el-cierre-de-campana-de-abelardo-de-la-espriella-entre-plegarias-al-senor-de-los-milagros-rugidos-banderas-un-tigre-de-felpa-y-multitudes-3564155",
-        "published_date": "2026-06-15 09:40:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Vote calculator for second round: these are the decisive votes",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/calculadora-de-votos-para-segunda-vuelta-estos-son-los-votos-decisivos/",
-        "published_date": "2026-06-15 06:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Campaign Sunday: De la Espriella in mass and Cepeda in streaming",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/domingo-de-campana-de-la-espriella-en-misa-y-cepeda-en-streaming/",
-        "published_date": "2026-06-14 22:52:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Santa Marta breaks temperature records and extreme heat forces a public calamity to be declared: health, water and fire alerts are lit",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/santa-marta-rompe-record-de-temperaturas-y-el-calor-extremo-obliga-a-declarar-calamidad-publica-se-encienden-alertas-por-salud-agua-e-incendios-3564340",
-        "published_date": "2026-06-14 22:23:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "Attention tourists: National Parks require mandatory insurance to enter the Rosario and San Bernardo, Bar\u00fa and Chol\u00f3n Islands, in Cartagena",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/atencion-turistas-parques-nacionales-exige-seguro-obligatorio-para-ingresar-a-las-islas-del-rosario-y-san-bernardo-baru-y-cholon-en-cartagena-3564339",
-        "published_date": "2026-06-14 21:55:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "Updated survey weighting: De la Espriella 51% and Cepeda 44%",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/ponderador-de-encuestas-actualizado-de-la-espriella-51-y-cepeda-44/",
-        "published_date": "2026-06-14 20:12:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Culture needs to raise its voice, not just be symbolic in campaigns",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/la-cultura-necesita-alzar-la-voz-no-solo-ser-simbolica-en-las-campanas/",
-        "published_date": "2026-06-14 20:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Andr\u00e9s Carne de Res closed his restaurant in Medell\u00edn until June 18 due to an administrative process: this is known",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/andres-carne-de-res-cerro-su-restaurante-en-medellin-hasta-el-18-de-junio-por-un-proceso-administrativo-esto-se-sabe-3564318",
-        "published_date": "2026-06-14 19:25:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "Spend your Sunday afternoon with these opinion columns",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/pase-la-tarde-de-domingo-con-estas-columnas-de-opinion-3/",
-        "published_date": "2026-06-14 19:12:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "Breaking news: They legalize the capture of alias 'Chal\u00e1', the alleged murderer of journalist Mateo P\u00e9rez in Antioquia",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/legalizan-captura-de-alias-chala-senalado-asesino-del-periodista-mateo-perez-en-antioquia-3564314",
-        "published_date": "2026-06-14 18:55:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "The National Navy rescued 10 castaways who had succumbed to the force of the sea in the Gulf of Urab\u00e1: among the travelers there is a minor under 13 years old",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/la-armada-nacional-rescato-a-10-naufragos-que-habian-sucumbido-a-la-fuerza-del-mar-en-el-golfo-de-uraba-entre-los-viajeros-hay-una-menor-de-13-anos-3564311",
-        "published_date": "2026-06-14 18:28:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "The town of Nari\u00f1o that suffered clashes between illegal armed groups from a temple: 'let us protect ourselves in a safe place'",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/el-pueblo-de-narino-que-desde-un-templo-sufrio-los-enfrentamientos-entre-grupos-armados-ilegales-que-nos-protejamos-en-un-lugar-seguro-3564304",
-        "published_date": "2026-06-14 18:02:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "De la Espriella publishes his medical history and Petro responds",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/de-la-espriella-publica-su-historia-clinica-y-petro-le-responde/",
-        "published_date": "2026-06-14 17:32:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "Participate in a study on how Colombians experience polarization",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/participe-en-estudio-sobre-como-los-colombianos-viven-la-polarizacion/",
-        "published_date": "2026-06-14 16:16:26",
         "category": "Local Events"
     }
 ]
