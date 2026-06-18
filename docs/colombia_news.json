@@ -1,5 +1,12 @@
 [
     {
+        "title": "Prosecutor's Office investigates 7 ambassadors for participation in politics",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/procuraduria-investiga-a-7-embajadores-por-participacion-en-politica/",
+        "published_date": "2026-06-17 20:04:37",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Influencer Beto Coral was captured by immigration agents in the US",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/influenciador-beto-coral-fue-capturado-por-agentes-de-inmigracion-en-ee-uu/",
@@ -47,6 +54,27 @@
         "url": "https://www.larepublica.co/economia/petro-presidira-sesion-del-consejo-de-seguridad-de-la-onu-en-nueva-york-4411205",
         "published_date": "2026-06-10 11:31:51",
         "category": "Diplomacy"
+    },
+    {
+        "title": "An 11-year-old minor was murdered in Choc\u00f3 when he was returning home after running an errand: they report that the attacker was under the influence of drugs",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/asesinato-en-el-departamento-del-choco-menor-de-11-anos-murio-en-istmina-tras-ser-atacado-cuando-regresaba-a-su-casa-luego-de-un-mandado-3564980",
+        "published_date": "2026-06-17 18:03:37",
+        "category": "Military"
+    },
+    {
+        "title": "Explosive of the 4th front of the FARC dissidents and two more members of the structure were captured in Antioquia and C\u00f3rdoba",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/explosivista-del-frente-4-de-las-disidencias-de-las-farc-y-dos-integrantes-mas-de-la-estructura-fueron-capturados-en-antioquia-y-cordoba-3564973",
+        "published_date": "2026-06-17 16:23:25",
+        "category": "Military"
+    },
+    {
+        "title": "Colombia chooses between two visions of peace and security",
+        "source": "Verdad Abierta",
+        "url": "https://verdadabierta.com/colombia-elige-entre-dos-visiones-sobre-la-paz-y-la-seguridad/",
+        "published_date": "2026-06-17 14:39:34",
+        "category": "Military"
     },
     {
         "title": "'We will not tolerate alterations of public order': Governor Dilian Francisca Toro strengthens the shield for the second electoral round in the Valley",
@@ -168,25 +196,18 @@
         "category": "Military"
     },
     {
-        "title": "Video |Movie chase in Medell\u00edn: man jumped from a moving car to save himself from a kidnapping in the exclusive sector of El Poblado",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/video-persecucion-de-pelicula-en-medellin-hombre-se-lanzo-de-un-carro-en-movimiento-para-salvarse-de-un-secuestro-en-exclusivo-sector-de-el-poblado-3564040",
-        "published_date": "2026-06-12 18:27:23",
-        "category": "Military"
+        "title": "Creg established a program for user participation in the energy exchange",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/creg-establecio-programa-para-la-participacion-de-usuarios-en-bolsa-de-energia-4416606",
+        "published_date": "2026-06-17 20:01:19",
+        "category": "Energy"
     },
     {
-        "title": "In one month, another massive displacement in the northwest of Nari\u00f1o: more than 225 people from villages fled to the urban area of \u200b\u200bLos Andes-Sotomayor",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/en-un-mes-otro-desplazamiento-masivo-en-el-noroccidente-de-narino-mas-de-225-personas-de-veredas-huyeron-al-casco-urbano-de-los-andes-sotomayor-3564031",
-        "published_date": "2026-06-12 17:57:35",
-        "category": "Military"
-    },
-    {
-        "title": "More than 1,500 police officers will reinforce security in Bol\u00edvar during the Sacred Heart festive bridge due to high mobility of travelers",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/mas-de-1-500-policias-reforzaran-la-seguridad-en-bolivar-durante-el-puente-festivo-del-sagrado-corazon-ante-alta-movilidad-de-viajeros-3564016",
-        "published_date": "2026-06-12 16:30:00",
-        "category": "Military"
+        "title": "Ecopetrol has stopped executing $45,000 million due to blockages on Meta roads",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/ecopetrol-ha-dejado-de-ejecutar-45-000-millones-por-bloqueos-en-el-meta-4416493",
+        "published_date": "2026-06-17 18:10:38",
+        "category": "Energy"
     },
     {
         "title": "S&P Global maintains Ecopetrol's rating at BB- with stable outlook",
@@ -308,25 +329,18 @@
         "category": "Energy"
     },
     {
-        "title": "They analyze regional development in energy, tourism, infrastructure and education: 'We are risking it for the Valley, for Cali and the west of the country'",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/analizan-el-desarrollo-regional-en-energia-turismo-infraestructura-y-educacion-nos-la-jugamos-por-el-valle-por-cali-y-el-occidente-del-pais-3563152",
-        "published_date": "2026-06-09 18:29:25",
-        "category": "Energy"
+        "title": "The taxes that will go and those that will not in the Government's fifth tax attempt",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/los-impuestos-que-irian-y-los-que-no-en-el-quinto-intento-de-tributaria-del-gobierno-4416477",
+        "published_date": "2026-06-17 18:31:46",
+        "category": "Economy"
     },
     {
-        "title": "Violent holiday weekend in Sucre: five murders and five injured in attacks over the weekend",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/violento-puente-festivo-en-sucre-cinco-asesinatos-y-cinco-heridos-en-atentados-durante-el-fin-de-semana-3563130",
-        "published_date": "2026-06-09 16:26:10",
-        "category": "Energy"
-    },
-    {
-        "title": "Cartagena: District committed to installing a new power plant on Isla Grande to solve the electricity service crisis",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/distrito-de-cartagena-se-comprometio-a-instalar-una-nueva-planta-de-energia-en-isla-grande-para-solucionar-la-crisis-del-servicio-electrico-3563075",
-        "published_date": "2026-06-09 15:15:26",
-        "category": "Energy"
+        "title": "The gross debt of the Central National Government closed at 62.9% of GDP as of April",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/informe-del-seguimiento-del-carf-de-junio-de-2026-4416482",
+        "published_date": "2026-06-17 17:49:52",
+        "category": "Economy"
     },
     {
         "title": "Greater fiscal deficit and more inflation, the accounts that remain for the next Government",
@@ -378,11 +392,130 @@
         "category": "Economy"
     },
     {
-        "title": "The external debt stood at US$252,493 million in March, which is equivalent to 52.7% of GDP",
+        "title": "Guaviare Assembly approves bioeconomy policy, although resources are lacking",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/asamblea-de-guaviare-aprueba-politica-de-bioeconomia-aunque-faltan-recursos/",
+        "published_date": "2026-06-17 23:35:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Government says that suspension of the ZUT of the Cneb is \u201cimpossible\u201d to comply",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/gobierno-dice-que-suspension-de-la-zut-del-cneb-es-de-imposible-cumplimiento/",
+        "published_date": "2026-06-17 23:12:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "In Bonn environmental activists ask that Colombia reject fracking",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/en-bonn-activistas-ambientales-piden-que-colombia-rechace-el-fracking/",
+        "published_date": "2026-06-17 22:49:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "Experts evaluate environmental proposals from Cepeda and De la Espriella",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/expertos-evaluan-propuestas-ambientales-de-cepeda-y-de-la-espriella/",
+        "published_date": "2026-06-17 22:42:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "Udea will receive $350,000 million to build a medicine plant",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/deuda-externa-cerro-en-us-252-493-millones-en-marzo-equivalente-a-52-7-del-pib-4410871",
-        "published_date": "2026-06-09 22:44:29",
-        "category": "Economy"
+        "url": "https://www.larepublica.co/economia/udea-recibira-350-000-millones-para-construir-una-planta-de-medicamentos-4416680",
+        "published_date": "2026-06-17 21:52:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "That is not done: Benedetti to Carrillo for warning of protests",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/eso-no-se-hace-benedetti-a-carrillo-por-advertencia-de-protestas/",
+        "published_date": "2026-06-17 21:51:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "Milei speaks with Abelardo and supports him for the second round",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/milei-habla-con-abelardo-y-lo-respalda-para-la-segunda-vuelta/",
+        "published_date": "2026-06-17 21:39:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "The future of the pension reform is also at stake in the second round",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/el-futuro-de-la-reforma-pensional-tambien-se-juega-en-segunda-vuelta/",
+        "published_date": "2026-06-17 18:57:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "More changes: MinInterior challenges Bogot\u00e1 for dry law schedules",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/mas-cambios-mininterior-desafia-a-bogota-por-horarios-de-ley-seca/",
+        "published_date": "2026-06-17 18:52:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "The curious fate of the famous Tunja motel that belonged to a noted invisible boss: he had tigers for pets and more eccentricities",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/el-curioso-destino-del-famoso-motel-de-tunja-que-pertenecio-a-senalado-capo-invisible-tenia-tigres-por-mascotas-y-mas-excentricidades-3565048",
+        "published_date": "2026-06-17 18:40:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Campaign Diary: Claudia L\u00f3pez sings her vote to Iv\u00e1n Cepeda",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/diario-de-campana-claudia-lopez-le-canta-su-voto-a-ivan-cepeda/",
+        "published_date": "2026-06-17 18:31:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "Sara Millerey case: prison extension for those accused of the murder of the trans woman in Bello",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/caso-sara-millerey-prorrogan-carcel-a-los-senalados-del-asesinato-de-la-mujer-trans-en-bello-3565029",
+        "published_date": "2026-06-17 17:27:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "Valledupar in health emergency due to dengue: authorities report more than 1,500 infections;660 have warning signs",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/valledupar-en-emergencia-sanitaria-por-dengue-autoridades-reportan-mas-de-1-500-contagios-660-presentan-signos-de-alarma-3565026",
+        "published_date": "2026-06-17 17:26:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "The alleged perpetrator of the attack against journalist Gustavo Chica in Guaviare falls: they accuse him of ordering the attack and being a key figure in 'Calarc\u00e1'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/cae-presunto-determinador-del-atentado-contra-el-periodista-gustavo-chica-en-guaviare-lo-senalan-de-ordenar-el-ataque-y-ser-ficha-clave-de-calarca-3565028",
+        "published_date": "2026-06-17 17:25:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mayor of Santa Marta responds to controversy for traveling in the midst of the Troncal crisis: 'I took my vacation when everything was already resolved'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/alcalde-de-santa-marta-responde-a-polemica-por-viajar-en-medio-de-crisis-de-la-troncal-tome-mis-vacaciones-cuando-todo-ya-estaba-resuelto-3565027",
+        "published_date": "2026-06-17 17:15:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Dengue does not rest in drought: how to prevent water storage from attracting the mosquito that produces the disease in Valle del Cauca?",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/el-dengue-no-descansa-en-la-sequia-como-evitar-que-el-almacenamiento-de-agua-atraiga-al-mosquito-que-produce-la-enfermedad-en-el-valle-del-cauca-3564989",
+        "published_date": "2026-06-17 16:00:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "Works for the recovery of El Laguito in Cartagena advance by 25%: the body of water was slowly drying out in the tourist area",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/obras-para-la-recuperacion-de-el-laguito-en-cartagena-avanzan-en-un-25-el-cuerpo-de-agua-se-estaba-secando-lentamente-en-la-zona-turistica-3564986",
+        "published_date": "2026-06-17 15:54:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "'Everything the Government does is a disaster': Char questions the liquidation of Air-e and asks for guarantees for the Colombian Caribbean",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/todo-lo-que-hace-el-gobierno-es-un-desastre-char-cuestiona-liquidacion-de-air-e-y-pide-garantias-para-el-caribe-colombiano-3564987",
+        "published_date": "2026-06-17 15:52:28",
+        "category": "Local Events"
     },
     {
         "title": "Barranquilla Mayor's Office: they ask for up to 50 votes from contractors for Abelardo",
@@ -396,132 +529,6 @@
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/confianza-del-consumidor-se-situo-en-17-8-en-mayo-y-subio-4-1-puntos-porcentuales-4416267",
         "published_date": "2026-06-17 14:11:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "Why did the Pacific vote massively for Iv\u00e1n Cepeda?",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/por-que-el-pacifico-voto-masivamente-por-ivan-cepeda/",
-        "published_date": "2026-06-17 14:05:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "Abelardo: firm for \u201cmy country\u201d, donkey fight with tied tiger",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/abelardo-firmes-por-my-country-pelea-de-burro-con-tigre-amarrado/",
-        "published_date": "2026-06-17 14:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Foreign Direct Investment in May totaled US$659 million and fell 14.5% year-on-year",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/inversion-extranjera-directa-en-mayo-de-2026-4416145",
-        "published_date": "2026-06-17 12:28:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "Have an informed breakfast with the keys for this June 17, 2026",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-claves-de-este-17-de-junio-de-2026/",
-        "published_date": "2026-06-17 12:17:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "This will be the Colombia of Abelardo de la Espriella",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/asi-sera-la-colombia-de-abelardo-de-la-espriella/",
-        "published_date": "2026-06-17 12:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The extreme right governs from revenge and authoritarianism",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/las-ultraderechas-gobiernan-desde-la-venganza-y-el-autoritarismo/",
-        "published_date": "2026-06-17 12:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "They open the Pan-American Highway after more than 14 hours of blockades: they denounce the crisis at the La Caba\u00f1a Sugar Mill in the north of Cauca",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/abren-la-via-panamericana-tras-mas-de-14-horas-de-bloqueos-denuncian-crisis-del-ingenio-la-cabana-en-el-norte-del-cauca-3564826",
-        "published_date": "2026-06-17 09:10:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "Barranquilla is global: the city is dyed tricolor before the debut of the Colombian team against Uzbekistan for the 2026 FIFA World Cup",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-es-mundial-la-ciudad-se-tine-de-tricolor-antes-del-debut-de-la-seleccion-colombia-contra-uzbekistan-por-la-copa-mundial-de-la-fifa-3564833",
-        "published_date": "2026-06-17 09:05:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Miracle in Jamund\u00ed: three miners are rescued alive after hours of anguish in a coal pit",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/milagro-en-jamundi-rescatan-con-vida-a-tres-mineros-tras-horas-de-angustia-en-un-socavon-de-carbon-3564818",
-        "published_date": "2026-06-17 08:29:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "Details about the homicide of the Aw\u00e1 indigenous leader Dairo Padilla in Nari\u00f1o;Indepaz revealed that there are already 68 leaders murdered in Colombia in 2026",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/indepaz-revelo-que-con-el-homicidio-del-indigena-awa-dairo-padilla-ocurrido-en-narino-ya-son-68-los-lideres-asesinados-en-colombia-durante-el-3564791",
-        "published_date": "2026-06-17 08:05:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "The limits that each candidate would test",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/los-limites-que-pondria-a-prueba-cada-candidato/",
-        "published_date": "2026-06-17 06:55:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Strong earthquake today in Colombia |They report a 5.1 magnitude earthquake in the early hours of June 17;was felt in Bogot\u00e1, Medell\u00edn and more cities",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/fuerte-temblor-hoy-en-colombia-reportan-sismo-de-5-1-de-magnitud-la-madrugada-de-este-17-de-junio-se-sintio-en-bogota-medellin-y-mas-ciudades-3564793",
-        "published_date": "2026-06-17 05:59:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "More than a roof, a new purpose: Cali strengthens comprehensive care for the homeless population with a massive social offer",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/mas-que-un-techo-un-nuevo-proposito-cali-fortalece-la-atencion-integral-a-la-poblacion-en-situacion-de-calle-con-una-oferta-social-masiva-3564790",
-        "published_date": "2026-06-17 05:04:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "National trade grows at double digits, but industrial production does not exceed 3%",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/comercio-crece-a-doble-digito-pero-produccion-industrial-no-pasa-de-3-4415903",
-        "published_date": "2026-06-17 05:04:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Chinese and Vietnamese shoes will be more expensive due to new 35% tariffs",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/zapatos-de-china-y-vietnam-seran-mas-caros-por-nuevos-aranceles-de-35-4415862",
-        "published_date": "2026-06-17 05:04:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cIt is not possible to compare data from the Large Integrated Household Survey with the Pila\u201d",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/entrevista-con-piedad-urdinola-directora-del-dane-4415877",
-        "published_date": "2026-06-17 05:00:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "Avoid setbacks when leaving!Peak and plaque in Bucaramanga for Wednesday, June 17, 2026",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/evite-contratiempos-al-salir-pico-y-placa-en-bucaramanga-para-el-miercoles-17-de-junio-de-3564594",
-        "published_date": "2026-06-17 02:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Avoid fines!Peak and plate in Cali for Wednesday, June 17, 2026: this is how the measure operates",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/evite-multas-pico-y-placa-en-cali-para-el-miercoles-17-de-junio-de-2026-asi-opera-la-medida-3564587",
-        "published_date": "2026-06-17 02:30:00",
         "category": "Local Events"
     }
 ]
