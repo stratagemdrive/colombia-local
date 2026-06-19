@@ -42,11 +42,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "\"It has been said that I am going to remain in the national government, but that is not the case\"",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/se-ha-dicho-que-voy-a-permanecer-en-el-gobierno-nacional-pero-no-es-asi-4411471",
-        "published_date": "2026-06-10 15:51:30",
-        "category": "Diplomacy"
+        "title": "Attention to public order and security measures in Cartagena for the election day next Sunday",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/atencion-a-las-medidas-de-orden-publico-y-seguridad-en-cartagena-para-la-jornada-electoral-del-proximo-domingo-3565314",
+        "published_date": "2026-06-18 17:37:05",
+        "category": "Military"
+    },
+    {
+        "title": "Cartagena: The horrible night in which an angry mob claimed the life of a former police officer seeking justice",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/cartagena-la-horrible-noche-en-que-una-turba-enardecida-cobro-la-vida-de-un-expolicia-que-buscaba-hacer-justicia-3565261",
+        "published_date": "2026-06-18 15:39:55",
+        "category": "Military"
     },
     {
         "title": "An 11-year-old minor was murdered in Choc\u00f3 when he was returning home after running an errand: they report that the attacker was under the influence of drugs",
@@ -175,18 +182,18 @@
         "category": "Military"
     },
     {
-        "title": "The most wanted of the 4th front of the FARC dissidents: this is alias Samantha, the 'communicator' of the structure in the Northeast of Antioquia",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/los-mas-buscados-del-frente-4-de-las-disidencias-de-las-farc-esta-es-alias-samantha-la-comunicadora-de-la-estructura-en-el-nordeste-de-antioquia-3564070",
-        "published_date": "2026-06-12 22:29:09",
-        "category": "Military"
+        "title": "Fedesarrollo warned that a greater adjustment than projected in the Fiscal Framework is needed",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/fedesarrollo-advirtio-que-se-necesita-un-ajuste-mayor-al-proyectado-en-el-marco-fiscal-4417546",
+        "published_date": "2026-06-18 21:38:18",
+        "category": "Energy"
     },
     {
-        "title": "More than 3,000 uniformed personnel are ready to guarantee road safety during one of the festive weekends with the highest traffic flow in the Valley",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/mas-de-3-000-uniformados-estan-listos-para-garantizar-la-seguridad-vial-durante-uno-de-los-puentes-festivos-con-mayor-flujo-vehicular-en-el-valle-3564035",
-        "published_date": "2026-06-12 18:36:08",
-        "category": "Military"
+        "title": "Mines and Energy and Congress led the budget execution until May",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/minas-y-energia-y-congreso-lideraron-la-ejecucion-presupuestal-hasta-mayo-4417309",
+        "published_date": "2026-06-18 20:03:01",
+        "category": "Energy"
     },
     {
         "title": "Government owes $93,000 million in liquefied gas subsidies for strata 1 and 2",
@@ -294,32 +301,18 @@
         "category": "Energy"
     },
     {
-        "title": "This is how the Bonn Climate Change Conference goes",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/asi-va-la-conferencia-de-bonn-de-cambio-climatico/",
-        "published_date": "2026-06-10 23:33:23",
-        "category": "Energy"
-    },
-    {
-        "title": "Cepeda uncovers his economic program and moderates the Petro model",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/cepeda-destapa-su-programa-economico-y-modera-el-modelo-petro/",
-        "published_date": "2026-06-10 22:36:45",
-        "category": "Energy"
-    },
-    {
-        "title": "MinMinas launched clean energy auction with contracts of up to 15 years",
+        "title": "Issuer Survey projects that June inflation would be 6.09%",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/minminas-lanzo-subasta-de-energia-limpia-con-contratos-de-hasta-15-anos-4411620",
-        "published_date": "2026-06-10 20:55:14",
-        "category": "Energy"
+        "url": "https://www.larepublica.co/economia/encuesta-mensual-de-expectativas-de-analistas-economicos-de-banco-de-la-republica-4417197",
+        "published_date": "2026-06-18 15:42:21",
+        "category": "Economy"
     },
     {
-        "title": "Ecopetrol completed the first direct export of coke to Japan",
+        "title": "Ita\u00fa warns of difficult compliance with the 2026 Medium-Term Fiscal Framework",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/ecopetrol-concreto-primera-exportacion-directa-de-coque-con-rumbo-a-japon-4411322",
-        "published_date": "2026-06-10 16:11:14",
-        "category": "Energy"
+        "url": "https://www.larepublica.co/economia/itau-advierte-sobre-dificil-cumplimiento-del-marco-fiscal-de-mediano-plazo-de-2026-4417106",
+        "published_date": "2026-06-18 14:33:17",
+        "category": "Economy"
     },
     {
         "title": "The taxes that will go and those that will not in the Government's fifth tax attempt",
@@ -385,143 +378,143 @@
         "category": "Economy"
     },
     {
-        "title": "Cepeda in RCN: National Agreement, debates and accusations by De la Espriella",
+        "title": "After Peace Agreement, other factors influenced deforestation: study",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/cepeda-en-rcn-acuerdo-nacional-debates-y-acusaciones-de-de-la-espriella/",
-        "published_date": "2026-06-18 13:28:44",
+        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/tras-acuerdo-de-paz-otros-factores-influyeron-en-deforestacion-estudio/",
+        "published_date": "2026-06-19 00:22:44",
         "category": "Local Events"
     },
     {
-        "title": "Palma confirmed that the liquidation of Air-e will not be defined in this Government",
+        "title": "The pressure of dissent from \u201cCalarc\u00e1\u201d returns to voters in Caquet\u00e1",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-amazonia/vuelven-las-presiones-de-disidencia-de-calarca-a-votantes-en-caqueta/",
+        "published_date": "2026-06-19 00:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The vote of intellectuals is not worth more than the vote of others",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/el-voto-de-los-intelectuales-no-vale-mas-que-el-voto-de-los-demas/",
+        "published_date": "2026-06-18 23:31:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Etis already have their own identification codes in the Dane",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/las-etis-ya-tienen-sus-propios-codigos-de-identificacion-en-el-dane/",
+        "published_date": "2026-06-18 23:31:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cepeda promises evidence against De la Espriella for alleged vote buying",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/cepeda-promete-pruebas-contra-de-la-espriella-por-presunta-compra-de-votos/",
+        "published_date": "2026-06-18 23:22:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "The agrarian reform bill officially sank in the House",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/oficialmente-se-hundio-en-camara-el-proyecto-de-ley-de-reforma-agraria/",
+        "published_date": "2026-06-18 22:49:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Between hope and concern: emotions of Cepeda voters",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/entre-esperanza-y-preocupacion-emociones-de-votantes-de-cepeda/",
+        "published_date": "2026-06-18 22:45:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Detector: there is no evidence that Cepeda has active terminal cancer",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/detector-no-hay-evidencia-de-que-cepeda-tenga-cancer-terminal-activo/",
+        "published_date": "2026-06-18 22:10:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "Flip warns again about attacks by Abelardo de la Espriella on the press",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/flip-vuelve-a-alertar-por-ataques-de-abelardo-de-la-espriella-a-la-prensa/",
+        "published_date": "2026-06-18 22:05:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "Martha Peralta presents an investigation before the Supreme Court for the Ungrd case",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/martha-peralta-rinde-indagatoria-ante-la-corte-suprema-por-caso-ungrd/",
+        "published_date": "2026-06-18 20:57:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "In a new TES UVR auction, the Government awarded an amount of $1.9 billion",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/el-ministro-palma-confirmo-que-la-liquidacion-de-air-e-no-se-alcanzara-a-definir-este-gobierno-4417097",
-        "published_date": "2026-06-18 13:01:57",
+        "url": "https://www.larepublica.co/economia/en-nueva-subasta-de-tes-uvr-gobierno-adjudico-un-monto-de-1-9-billones-4417469",
+        "published_date": "2026-06-18 20:32:06",
         "category": "Local Events"
     },
     {
-        "title": "Have an informed breakfast with the keys for this June 18, 2026",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-claves-de-este-18-de-junio-de-2026/",
-        "published_date": "2026-06-18 12:18:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "This would be Iv\u00e1n Cepeda's Colombia",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/asi-seria-la-colombia-de-ivan-cepeda/",
-        "published_date": "2026-06-18 12:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Colombia in the geopolitics of the Soccer World Cup",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/colombia-en-la-geopolitica-del-mundial-de-futbol/",
-        "published_date": "2026-06-18 11:00:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "The confusing death of a soldier during a military operation in Guachen\u00e9: what is known about what happened in the northern municipality of Cauca",
+        "title": "Corpoamazonia reveals the possible cause of the jaguar's escape in Leticia: high levels of stress due to gunpowder would have caused the feline to escape",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/la-confusa-muerte-de-un-soldado-durante-una-operacion-militar-en-guachene-lo-que-se-sabe-de-lo-ocurrido-en-el-municipio-del-norte-del-cauca-3565138",
-        "published_date": "2026-06-18 08:28:13",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/corpoamazonia-revela-la-posible-causa-de-la-fuga-del-jaguar-en-leticia-altos-niveles-de-estres-por-la-polvora-habria-provocado-el-escape-del-felino-3565348",
+        "published_date": "2026-06-18 19:09:40",
         "category": "Local Events"
     },
     {
-        "title": "The Government promised $274,000 million for Buenaventura's water, but overcoming the delay requires more than $10 billion: 'Resources are never there,' said Dilian",
+        "title": "Uncertainty among more than 3,000 workers due to the order of the Superintendency of Companies to liquidate the La Caba\u00f1a sugar mill, in the north of Cauca",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/gobierno-prometio-274-000-millones-para-el-agua-de-buenaventura-pero-superar-atraso-demanda-mas-de-10-billones-recursos-nunca-estan-dijo-dilian-3565123",
-        "published_date": "2026-06-18 08:19:54",
+        "url": "https://www.eltiempo.com/colombia/cali/incertidumbre-entre-mas-de-3-000-trabajadores-por-la-orden-de-la-superintendencia-de-sociedades-de-liquidar-el-ingenio-la-cabana-en-cauca-3565322",
+        "published_date": "2026-06-18 18:08:35",
         "category": "Local Events"
     },
     {
-        "title": "Claudia's \u201cnon-accession\u201d achieves new concessions from Iv\u00e1n Cepeda",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/la-no-adhesion-de-claudia-logra-nuevas-concesiones-de-ivan-cepeda/",
-        "published_date": "2026-06-18 06:18:07",
+        "title": "ANDI presented the country's most important awards for innovation in medicine 2026 in Cartagena: learn about the winning projects that will change lives",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/la-andi-entrego-en-cartagena-los-premios-mas-importantes-del-pais-en-innovacion-en-medicina-2026-conozca-los-proyectos-ganadores-que-cambiaran-vida-3565292",
+        "published_date": "2026-06-18 17:31:19",
         "category": "Local Events"
     },
     {
-        "title": "More than $6 billion in investment supports the continuity of Fedecafe in the Coffee Fund",
+        "title": "Barranquilla vibrated with the debut: these were the plans that illuminated the city in the first step of the Colombian National Team in the 2026 World Cup",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-vibro-con-el-debut-estos-fueron-los-planes-que-iluminaron-la-ciudad-en-el-primer-paso-de-la-seleccion-colombia-en-el-mundial-3565306",
+        "published_date": "2026-06-18 17:05:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "New leaks at the Ernesto Cortissoz airport unleash criticism from the Oversight Office: doubts persist about recently delivered works",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/nuevas-filtraciones-en-el-aeropuerto-ernesto-cortissoz-desatan-criticas-de-la-veeduria-persisten-dudas-sobre-obras-recien-entregadas-3565299",
+        "published_date": "2026-06-18 16:58:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "The extraditable born in Malaga, Spain, who in one year became the financier of hitmen for a drug trafficker in Cali: he pretended to sell luxury cars",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/el-extraditable-nacido-en-malaga-espana-que-en-un-ano-se-volvio-el-financiero-de-sicarios-para-un-narco-en-cali-simulaba-vender-carros-lujosos-3565276",
+        "published_date": "2026-06-18 16:42:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "So far in 2026, an investigation has been opened against more than 1,500 motorcyclists for recidivism",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/fedecafe-compro-un-total-de-21-6-billones-en-cosechas-en-los-ultimos-10-anos-4416078",
-        "published_date": "2026-06-18 05:00:53",
+        "url": "https://www.larepublica.co/economia/en-lo-que-va-de-2026-se-abrio-investigacion-a-mas-de-1-500-motociclistas-por-reincidencia-4417235",
+        "published_date": "2026-06-18 16:33:05",
         "category": "Local Events"
     },
     {
-        "title": "Foreign direct investment reached minimum levels in the last five years as of May",
+        "title": "ISE grew 3.33% in April driven by the State, health, education and services",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/la-inversion-extranjera-directa-con-corte-a-mayo-toco-minimos-de-cinco-anos-4416830",
-        "published_date": "2026-06-18 05:00:04",
+        "url": "https://www.larepublica.co/economia/indicador-de-seguimiento-a-la-economia-de-abril-de-2026-4417233",
+        "published_date": "2026-06-18 15:49:24",
         "category": "Local Events"
     },
     {
-        "title": "Drivers attention!Peak and plate in Pereira for Thursday, June 18, 2026: this is how the measure will govern",
+        "title": "Who will manage the Cartagena Independence Festival?District project opens debate: cultural managers criticize commercialization risk",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/atencion-conductores-pico-y-placa-en-pereira-para-el-jueves-18-de-junio-de-2026-asi-regira-la-medida-3564946",
-        "published_date": "2026-06-18 02:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Avoid setbacks!Peak and plaque in Bucaramanga for Thursday, June 18, 2026",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/evite-contratiempos-pico-y-placa-en-bucaramanga-para-el-jueves-18-de-junio-de-3564945",
-        "published_date": "2026-06-18 02:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Follow the mobility measure!Peak and plate in Medell\u00edn for Thursday, June 18, 2026: this is how the restriction works",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/siga-la-medida-de-movilidad-pico-y-placa-en-medellin-para-el-jueves-18-de-junio-de-2026-asi-funciona-la-restriccion-3564942",
-        "published_date": "2026-06-18 02:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Avoid fines!Peak and plate in Cali for Thursday, June 18, 2026: this is how the measure operates",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/evite-multas-pico-y-placa-en-cali-para-el-jueves-18-de-junio-de-2026-asi-opera-la-medida-3564941",
-        "published_date": "2026-06-18 02:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "This is how opinion leaders will vote in the second round",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/asi-votaran-los-lideres-de-opinion-en-la-segunda-vuelta-2/",
-        "published_date": "2026-06-18 02:21:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sleep informed with the movements of this June 17, 2026",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-movidas-de-este-17-de-junio-de-2026/",
-        "published_date": "2026-06-18 01:12:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "Progressive economists and politicians support the Petro-Cepeda economic model",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/economistas-y-politicos-de-izquierda-dan-apoyo-al-modelo-economico-petro-cepeda/",
-        "published_date": "2026-06-18 00:51:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "Gringo congressmen ask Trump \u201cnot to interfere\u201d in the elections",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/congresistas-gringos-piden-a-trump-no-interferir-en-las-elecciones/",
-        "published_date": "2026-06-18 00:33:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "Dane rejected accusations of manipulation of figures and reaffirms his independence",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/dane-rechazo-acusaciones-de-manipulacion-de-cifras-y-reafirma-su-independencia-tecnica-4416903",
-        "published_date": "2026-06-18 00:32:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Guaviare Assembly approves bioeconomy policy, although resources are lacking",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/asamblea-de-guaviare-aprueba-politica-de-bioeconomia-aunque-faltan-recursos/",
-        "published_date": "2026-06-17 23:35:00",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/quien-manejara-las-fiestas-de-independencia-de-cartagena-proyecto-del-distrito-abre-debate-gestores-culturales-critican-riesgo-de-comercializacion-3565288",
+        "published_date": "2026-06-18 15:47:31",
         "category": "Local Events"
     }
 ]
