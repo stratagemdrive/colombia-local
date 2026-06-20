@@ -28,6 +28,13 @@
         "category": "Diplomacy"
     },
     {
+        "title": "The person responsible for the murder of journalist Mateo P\u00e9rez will go to jail",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/ira-a-la-carcel-el-responsable-del-asesinato-del-periodista-mateo-perez/",
+        "published_date": "2026-06-20 00:19:21",
+        "category": "Military"
+    },
+    {
         "title": "In the second round, a feminist vote would not support patriarchal leadership",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/red-de-expertos/red-de-las-mujeres/en-segunda-vuelta-un-voto-feminista-no-apoyaria-liderazgos-patriarcales/",
@@ -39,6 +46,13 @@
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/paz-territorial-en-putumayo-retos-del-proceso-con-la-cneb/",
         "published_date": "2026-06-19 23:17:11",
+        "category": "Military"
+    },
+    {
+        "title": "Security cameras, key to identifying and capturing alias Pi\u00f1ero in Palmira for violent robbery of a taxi driver",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/camaras-de-seguridad-clave-para-identificar-y-capturar-a-alias-pinero-en-palmira-por-violento-hurto-a-taxista-3565674",
+        "published_date": "2026-06-19 21:54:04",
         "category": "Military"
     },
     {
@@ -154,20 +168,6 @@
         "category": "Military"
     },
     {
-        "title": "After seven months of investigation, those responsible for the massacre in Villa Cordialidad are captured in Barranquilla: 46 judicial notes are recorded",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/tras-siete-meses-de-investigacion-capturan-en-barranquilla-a-responsables-de-masacre-en-villa-cordialidad-registran-46-anotaciones-judiciales-3564502",
-        "published_date": "2026-06-16 08:25:32",
-        "category": "Military"
-    },
-    {
-        "title": "Cepeda and Abelardo in Bogot\u00e1: the bidding is in the vote of the middle class",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/cepeda-y-abelardo-en-bogota-la-puja-esta-en-el-voto-de-la-clase-media/",
-        "published_date": "2026-06-16 06:00:00",
-        "category": "Military"
-    },
-    {
         "title": "Details of the crime of Valentina Vanegas, an official from the Mayor's Office of Itag\u00fc\u00ed: her partner was found in flagrante delicto holding her by the neck",
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/medellin/detalles-del-crimen-de-valentina-vanegas-funcionaria-de-la-alcaldia-de-itaguei-su-pareja-fue-hallada-en-flagrancia-sujetandola-por-el-cuello-3565626",
@@ -280,13 +280,6 @@
         "category": "Energy"
     },
     {
-        "title": "R\u00edo C\u00f3rdoba Multipurpose Port Terminal received license from Anla",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/terminal-portuario-multiproposito-rio-cordoba-recibio-licencia-ambiental-por-parte-de-la-anla-4413097",
-        "published_date": "2026-06-12 11:26:02",
-        "category": "Energy"
-    },
-    {
         "title": "Gross debt as of May reached 60.6% of GDP, an amount equivalent to $1,169 trillion",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/deuda-bruta-a-mayo-llego-a-60-6-del-pib-lo-que-equivale-a-1-169-billones-4418280",
@@ -350,11 +343,88 @@
         "category": "Economy"
     },
     {
-        "title": "Nairo, Borja and El Pibe: Abelardo adds sports endorsements to his campaign",
+        "title": "Colombia's economy remains uncertain for these elections",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/nairo-borja-y-el-pibe-abelardo-suma-adhesiones-deportivas-a-su-campana/",
-        "published_date": "2026-06-12 00:19:42",
-        "category": "Economy"
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/la-economia-de-colombia-sigue-en-incertidumbre-para-estas-elecciones/",
+        "published_date": "2026-06-20 12:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "'We ask the next president to implement the Law of Orphans due to Femicide in Colombia': Hufafem",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/le-pedimos-al-proximo-presidente-que-implemente-la-ley-de-huerfanos-por-feminicidio-en-colombia-hufafem-3565576",
+        "published_date": "2026-06-20 07:01:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Without the center as the balance, this campaign was unprecedented",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/sin-el-centro-como-fiel-de-la-balanza-esta-campana-fue-inedita/",
+        "published_date": "2026-06-20 06:34:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Colombia dropped five places in the Energy Transition Index in the last year",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/colombia-bajo-cinco-puestos-en-indice-de-transicion-energetica-en-el-ultimo-ano-4418760",
+        "published_date": "2026-06-20 05:01:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Inv\u00edas will invest $9,000 million in maintenance of the Eastern Perimeter",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/invias-invertira-9-000-millones-en-mantenimiento-de-la-perimetral-del-oriente-4418812",
+        "published_date": "2026-06-20 05:01:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "'Lucho' and Mu\u00f1oz did not make a gesture of \u201cFirms for the Homeland\u201d;video is AI",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/lucho-y-munoz-no-hicieron-gesto-de-firmes-por-la-patria-video-es-ia/",
+        "published_date": "2026-06-20 03:21:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "Advance planning gains ground among mid-year travelers",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/la-planificacion-anticipada-gana-terreno-entre-los-viajeros-de-mitad-de-ano-4418960",
+        "published_date": "2026-06-20 02:18:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Videos of Cepeda asking to buy votes were created with AI",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/videos-de-cepeda-pidiendo-comprar-votos-fueron-creados-con-ia/",
+        "published_date": "2026-06-20 00:57:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cepeda did not call the Paisas \u201csponsors of paramilitarism\u201d, video is IA",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/cepeda-no-llamo-a-los-paisas-auspiciadores-del-paramilitarismo-video-es-ia/",
+        "published_date": "2026-06-20 00:46:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cepeda and De la Espriella promise to recognize the results, but sow distrust",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/cepeda-y-de-la-espriella-prometen-reconocer-los-resultados-pero-siembran-desconfianza/",
+        "published_date": "2026-06-20 00:39:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "Sleep informed with the keys for this June 19, 2026",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-claves-de-este-19-de-junio-de-2026/",
+        "published_date": "2026-06-20 00:29:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "What we think they think of us fuels political polarization",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/lo-que-creemos-que-piensan-de-nosotros-alimenta-la-polarizacion-politica/",
+        "published_date": "2026-06-20 00:11:52",
+        "category": "Local Events"
     },
     {
         "title": "Martha Peralta's investigation puts the indigenous seat in the Senate in suspense",
@@ -385,6 +455,13 @@
         "category": "Local Events"
     },
     {
+        "title": "The Caribbean reaches the polls under maximum surveillance: more than 15,000 uniformed personnel will guard the second presidential round",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/el-caribe-llega-a-las-urnas-bajo-maxima-vigilancia-mas-de-15-000-uniformados-custodiaran-la-segunda-vuelta-presidencial-3565687",
+        "published_date": "2026-06-19 22:46:40",
+        "category": "Local Events"
+    },
+    {
         "title": "The investigation of Senator Martha Peralta continues",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/continua-la-indagatoria-a-senadora-martha-peralta/",
@@ -392,108 +469,17 @@
         "category": "Local Events"
     },
     {
-        "title": "Fracking puts a possible new energy policy in tension",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-verde/el-fracking-pone-en-tension-una-posible-nueva-politica-energetica/",
-        "published_date": "2026-06-19 21:43:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mothers and caregivers: the role of women in La Patria Milagro de Abelardo",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-las-mujeres/madres-y-cuidadoras-el-rol-de-la-mujer-en-la-patria-milagro-de-abelardo/",
-        "published_date": "2026-06-19 21:18:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "The left does not anticipate large protests on Sunday if Cepeda loses",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/la-izquierda-no-anticipa-grandes-protestas-el-domingo-si-pierde-cepeda/",
-        "published_date": "2026-06-19 21:06:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "Union Council warns that the energy transition cannot compromise the system",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/consejo-gremial-advierte-que-la-transicion-energetica-no-puede-comprometer-la-confiabilidad-del-sistema-4418364",
-        "published_date": "2026-06-19 18:57:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "More than 350 inhabitants of the municipalities of Bajo Cauca, Antioquia, were displaced by clashes between illegal armed groups.",
+        "title": "More than a hospital: the comprehensive 20 billion plan that includes a specialist center and biomedical equipment for Candelaria",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/mas-de-350-habitantes-de-municipios-del-bajo-cauca-antioqueno-fueron-desplazados-por-enfrentamientos-entre-grupos-armados-ilegales-3565629",
-        "published_date": "2026-06-19 18:28:05",
+        "url": "https://www.eltiempo.com/colombia/cali/mas-que-un-hospital-el-plan-integral-de-20-mil-millones-que-incluye-centro-de-especialistas-y-dotacion-biomedica-para-candelaria-3565689",
+        "published_date": "2026-06-19 22:22:58",
         "category": "Local Events"
     },
     {
-        "title": "A Colombian psychologist who is linked to a group of lenders is murdered in Mexico: they intercepted her and shot her while she was on a motorcycle",
+        "title": "New details of the crime of Claribel Moreno, mother murdered in Jamund\u00ed after searching for her missing daughter for five years: family spoke",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/asesinan-en-mexico-a-psicologa-colombiana-que-estaria-vinculada-a-un-grupo-de-prestamistas-la-interceptaron-y-le-dispararon-cuando-iba-en-una-moto-3565638",
-        "published_date": "2026-06-19 18:15:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "MinTransporte presented draft decree to transform taxi operations",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/mintransporte-presento-borrador-de-decreto-para-transformar-operacion-de-taxis-4418255",
-        "published_date": "2026-06-19 17:39:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Attention: they report an attack against the representative of the elected Chamber of the Historical Pact Luz Ver\u00f3nica Estrada in Urrao, Antioquia",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/atencion-reportan-atentado-armado-contra-la-representante-electa-por-el-pacto-historico-luz-veronica-estrada-en-urrao-antioquia-3565605",
-        "published_date": "2026-06-19 17:31:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "Authorities in Nari\u00f1o do not rule out decreeing a curfew if disturbances occur after the elections",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/autoridades-en-narino-no-descartan-decretar-toque-de-queda-si-se-registran-disturbios-tras-las-elecciones-3565591",
-        "published_date": "2026-06-19 16:34:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ugpp clarifies that contributor data cannot be compared with Geih del Dane",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/ugpp-aclara-que-datos-de-cotizantes-no-pueden-contrastarse-con-geih-del-dane-4418113",
-        "published_date": "2026-06-19 16:23:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "From the pic\u00f3s to the national heritage: the champeta experiences its greatest recognition and reaffirms its place in the identity of the Caribbean",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/de-los-picos-al-patrimonio-nacional-la-champeta-vive-su-mayor-reconocimiento-y-reafirma-su-lugar-en-la-identidad-del-caribe-3565589",
-        "published_date": "2026-06-19 16:08:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Attorney General's Office calls for respecting the presidential results of June 21",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/procuraduria-llama-a-respetar-los-resultados-presidenciales-del-21-de-junio-4418173",
-        "published_date": "2026-06-19 15:14:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Electoral Peace is the national duty to surround the next elections",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/paz-electoral-el-deber-nacional-de-rodear-la-eleccion-presidencial-4418159",
-        "published_date": "2026-06-19 15:01:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Wink to Cepeda?Santos talked about voting to defend the Peace Agreement",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/guino-a-cepeda-santos-hablo-de-votar-para-defender-el-acuerdo-de-paz/",
-        "published_date": "2026-06-19 14:08:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cepeda on the investigation of Uribe for massacres: \u201ca significant advance\u201d",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/cepeda-sobre-indagatoria-a-uribe-por-masacres-un-avance-significativo/",
-        "published_date": "2026-06-19 13:20:57",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/detalles-del-asesinato-de-claribel-moreno-madre-de-la-modelo-natalia-buitrago-quien-lucho-por-hallar-a-su-hija-desaparecida-en-cartagena-en-el-3565575",
+        "published_date": "2026-06-19 22:09:49",
         "category": "Local Events"
     }
 ]
