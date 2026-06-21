@@ -28,6 +28,20 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Reactions of the mayor of Cali and the governor of Valle due to the loss of 'Marlon': 'One of the most forceful blows against terrorism was dealt'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/reacciones-del-alcalde-de-cali-y-de-gobernadora-del-valle-por-baja-de-marlon-se-propino-uno-de-los-golpes-mas-contundentes-contra-el-terrorismo-3565822",
+        "published_date": "2026-06-20 22:31:21",
+        "category": "Military"
+    },
+    {
+        "title": "El Valle and Cauca, the regions most bled by the dejected alias Marlon of FARC dissidents: who was this man in the armed group?",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/el-valle-y-el-cauca-las-regiones-mas-desangradas-por-el-abatido-alias-marlon-de-disidencias-de-las-farc-quien-era-este-hombre-en-el-grupo-armado-3565807",
+        "published_date": "2026-06-20 22:26:48",
+        "category": "Military"
+    },
+    {
         "title": "An 18-year-old man accused of murdering a woman was captured after being shot at by uniformed police officers in Cali",
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/cali/un-hombre-de-18-anos-senalado-del-asesinato-de-una-mujer-fue-capturado-tras-enfrentarse-a-tiros-con-uniformados-de-la-policia-en-cali-3565795",
@@ -151,20 +165,6 @@
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/tras-casi-un-ano-el-eln-libero-a-dos-policias-secuestrados-en-arauca/",
         "published_date": "2026-06-16 19:17:26",
-        "category": "Military"
-    },
-    {
-        "title": "88 arrests did not stop the homicides on the Father's Day bridge in Cali: the challenges of the Police in the face of micro-trafficking and intolerance",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/88-capturas-no-frenaron-los-homicidios-en-el-puente-del-dia-del-padre-en-cali-los-desafios-de-la-policia-frente-al-microtrafico-y-la-intolerancia-3564701",
-        "published_date": "2026-06-16 18:08:02",
-        "category": "Military"
-    },
-    {
-        "title": "Medell\u00edn: two young people tried to steal a police officer's motorcycle in front of her own station and ended up captured",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/medellin-dos-jovenes-intentaron-robarle-la-moto-a-una-policia-frente-a-su-propia-estacion-y-terminaron-capturados-3564695",
-        "published_date": "2026-06-16 17:35:38",
         "category": "Military"
     },
     {
@@ -329,11 +329,11 @@
         "category": "Economy"
     },
     {
-        "title": "Greater fiscal deficit and more inflation, the accounts that remain for the next Government",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/mayor-deficit-fiscal-y-mas-inflacion-las-cuentas-que-le-quedan-al-proximo-gobierno-4414191",
-        "published_date": "2026-06-13 05:01:26",
-        "category": "Economy"
+        "title": "Hunger and agriculture at the electoral crossroads",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/el-hambre-y-el-agro-en-la-encrucijada-electoral/",
+        "published_date": "2026-06-21 06:51:14",
+        "category": "Local Events"
     },
     {
         "title": "Google Trends: Cepeda rebounds against Abelardo within hours of the election",
@@ -350,6 +350,13 @@
         "category": "Local Events"
     },
     {
+        "title": "Is Antioquia a key area to define the presidency between Iv\u00e1n Cepeda and Abelardo De la Espriella?This is what the experts say",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/es-antioquia-una-zona-clave-para-definir-la-presidencia-entre-ivan-cepeda-y-abelardo-de-la-espriella-esto-dicen-los-expertos-3565663",
+        "published_date": "2026-06-20 22:01:00",
+        "category": "Local Events"
+    },
+    {
         "title": "Senator Miguel Pinto will be investigated for alleged sexual abuse",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/senador-miguel-angel-pinto-sera-investigado-por-supuesto-abuso-sexual/",
@@ -361,6 +368,20 @@
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/gobierno-expide-nueva-regulacion-para-reforzar-el-control-sobre-los-contratos-sindicales-4419202",
         "published_date": "2026-06-20 21:14:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "Alias \u200b\u200bMarlon, killed in Cauca: 'This result confirms that we will not give truce to the criminal structures that seek to sow fear'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/alias-marlon-abatido-en-el-cauca-este-resultado-ratifica-que-no-daremos-tregua-a-las-estructuras-criminales-que-pretenden-sembrar-miedo-3565812",
+        "published_date": "2026-06-20 20:47:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Video |A dump truck collided with several vehicles and a house in the Moravia sector, in Medell\u00edn: four people were injured",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/una-volqueta-choco-contra-varios-vehiculos-y-termino-contra-una-vivienda-en-el-sector-de-moravia-en-medellin-cuatro-personas-resultaron-lesionadas-3565803",
+        "published_date": "2026-06-20 20:31:45",
         "category": "Local Events"
     },
     {
@@ -445,34 +466,6 @@
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/no-fue-solo-en-la-guajira-ant-ha-delimitado-23-zonas-indigenas-autonomas-cuales-son-3565764",
         "published_date": "2026-06-20 13:24:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "The exploitation scheme of indigenous women and babies in Medell\u00edn for which seven members of a criminal network will go to jail for three years",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/el-esquema-de-explotacion-de-mujeres-indigenas-y-bebes-en-medellin-por-el-que-siete-miembros-de-una-red-criminal-iran-a-la-carcel-por-tres-anos-3565760",
-        "published_date": "2026-06-20 13:19:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "Colombia's economy remains uncertain for these elections",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/la-economia-de-colombia-sigue-en-incertidumbre-para-estas-elecciones/",
-        "published_date": "2026-06-20 12:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The silent expansion of the Ecuadorian mafias in Colombia: the captures of 'Javi', 'Lobo Menor' and other feared bosses",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/la-silenciosa-expansion-de-las-mafias-ecuatorianas-en-colombia-las-capturas-de-javi-lobo-menor-y-otros-temidos-capos-3565742",
-        "published_date": "2026-06-20 11:35:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "'We ask the next president to implement the Law of Orphans due to Femicide in Colombia': Hufafem",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/le-pedimos-al-proximo-presidente-que-implemente-la-ley-de-huerfanos-por-feminicidio-en-colombia-hufafem-3565576",
-        "published_date": "2026-06-20 07:01:00",
         "category": "Local Events"
     }
 ]
