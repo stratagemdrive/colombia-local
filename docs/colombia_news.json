@@ -21,6 +21,13 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Barranquilla shields the World Cup party: 1,000 police officers will reinforce security for the match between Colombia and Congo",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-blinda-la-fiesta-mundialista-1-000-policias-reforzaran-la-seguridad-para-el-partido-entre-colombia-y-congo-3566311",
+        "published_date": "2026-06-23 08:01:00",
+        "category": "Military"
+    },
+    {
         "title": "The powerful weaponry seized in Yumbo, Valle, which was destined for the residual structure 'Armando R\u00edos', in Guaviare, in the east of the country",
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/cali/el-poderoso-armamento-incautado-en-yumbo-valle-que-tenia-como-destino-la-estructura-residual-armando-rios-en-guaviare-en-el-oriente-del-pais-3566197",
@@ -154,11 +161,25 @@
         "category": "Military"
     },
     {
-        "title": "Barranquilla prepares for the second presidential round: robust security deployment announced amid alerts for electoral risk",
+        "title": "Is your neighborhood on the list?Emcali deploys maintenance and modernization sessions for public service networks in Cali this Tuesday, June 23",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-se-alista-para-la-segunda-vuelta-presidencial-anuncian-robusto-despliegue-de-seguridad-en-medio-de-alertas-por-riesgo-electoral-3565324",
-        "published_date": "2026-06-19 06:01:00",
-        "category": "Military"
+        "url": "https://www.eltiempo.com/colombia/cali/su-barrio-esta-en-la-lista-emcali-despliega-jornadas-de-mantenimiento-y-modernizacion-de-redes-de-servicios-publicos-en-cali-este-martes-23-de-junio-3566319",
+        "published_date": "2026-06-23 07:18:41",
+        "category": "Energy"
+    },
+    {
+        "title": "Cocaine drug trafficking leaves more for the Nation than remittances, oil or coffee sales",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/cocaina-le-deja-mas-a-la-nacion-que-las-remesas-o-ventas-de-petroleo-o-cafe-4420729",
+        "published_date": "2026-06-23 05:03:15",
+        "category": "Energy"
+    },
+    {
+        "title": "Reservoir level closed May at 69.12% before the declaration of El Ni\u00f1o",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/nivel-de-los-embalses-cerro-mayo-en-69-12-antes-de-la-declaratoria-del-nino-4420755",
+        "published_date": "2026-06-23 00:49:53",
+        "category": "Energy"
     },
     {
         "title": "Foreign tourism left US$13,498 million last year and almost a million jobs",
@@ -280,11 +301,11 @@
         "category": "Energy"
     },
     {
-        "title": "Frenchman required by Interpol for coordinating transnational drug trafficking operation was captured in Medell\u00edn: this is how he sent narcotics",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/frances-requerido-por-interpol-por-coordinar-operacion-transnacional-de-trafico-de-drogas-fue-capturado-en-medellin-asi-enviaba-los-estupefacientes-3564491",
-        "published_date": "2026-06-16 07:32:45",
-        "category": "Energy"
+        "title": "Maintaining net debt around 60% of GDP would require an adjustment of between 4 and 5 points of GDP",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/mantener-la-deuda-neta-en-torno-a-60-del-pib-exigiria-un-ajuste-de-entre-4-y-5-puntos-del-pib-4420806",
+        "published_date": "2026-06-23 00:29:40",
+        "category": "Economy"
     },
     {
         "title": "The terms of reference for the new head of the health sector",
@@ -329,6 +350,118 @@
         "category": "Economy"
     },
     {
+        "title": "Union Council alerts for energy risk due to strong El Ni\u00f1o phenomenon",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/consejo-gremial-alerta-por-riesgo-energetico-ante-fuerte-fenomeno-de-el-nino-4421107",
+        "published_date": "2026-06-23 13:18:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "Fedecafe meets with the Government to define the future of the National Coffee Fund",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/fedecafe-se-reune-con-el-gobierno-para-definir-el-futuro-del-fondo-nacional-del-cafe-4421032",
+        "published_date": "2026-06-23 12:58:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "The aggregate level of the reservoirs was located at 69.12% of the useful volume as of May",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/el-nivel-agregado-de-los-embalses-se-ubico-en-69-12-del-volumen-util-a-mayo-4420993",
+        "published_date": "2026-06-23 12:25:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "Breakfast informed with the movements of this July 23, 2026",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-movidas-de-este-23-de-julio-de-2026/",
+        "published_date": "2026-06-23 12:25:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Counting vote by vote: inside the scrutiny in Corferias",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/contar-voto-a-voto-adentro-del-escrutinio-en-corferias/",
+        "published_date": "2026-06-23 12:24:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cartagena: Bol\u00edvar Court ordered immediate payment of more than $26.4 billion in favor of the District for profit with the freight corridor",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/cartagena-tribunal-de-bolivar-ordeno-el-pago-inmediato-de-26-400-millones-al-distrito-por-lucro-con-el-corredor-de-carga-3566338",
+        "published_date": "2026-06-23 08:31:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "Camouflaged between modems, they discover a shipment of marijuana worth $400 million;in Dagua, they find explosives and war ammunition",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/camuflada-entre-modems-descubren-carga-de-marihuana-por-400-millones-en-dagua-hallan-explosivos-y-municion-de-guerra-3566328",
+        "published_date": "2026-06-23 08:06:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "Scientists from the Universidad del Atl\u00e1ntico manage to trace plastic garbage from beaches to the companies that manufactured it",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/cientificos-de-la-universidad-del-atlantico-logran-rastrear-la-basura-plastica-de-las-playas-hasta-las-empresas-que-la-fabricaron-3566267",
+        "published_date": "2026-06-23 08:01:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The impressive hole that thieves made in the house adjacent to the BBVA bank headquarters in Caloto, Cauca, to steal more than $ 1.5 billion",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/las-imagenes-que-dejaron-el-impresionante-robo-de-1-500-millones-a-la-sede-del-banco-bbva-en-caloto-cauca-usaron-maquinas-de-demolicion-3566308",
+        "published_date": "2026-06-23 07:50:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Video shows alleged kidnapping of a man in Cajib\u00edo, Cauca: four armed men forced him onto a motorcycle",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/video-muestra-presunto-secuestro-de-un-hombre-en-cajibio-cauca-cuatro-hombres-armados-lo-habrian-obligado-a-subir-a-una-motocicleta-3566307",
+        "published_date": "2026-06-23 06:20:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "With no chances in the scrutiny, the Pact draws its opposition to De La Espriella",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/sin-chances-en-el-escrutinio-el-pacto-traza-su-oposicion-a-de-la-espriella/",
+        "published_date": "2026-06-23 06:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cTo think that Colombia will have an accelerated energy transition is unreal\u201d",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/entrevista-con-felipe-trujillo-vicepresidente-de-downstream-de-ecopetrol-sobre-las-inversiones-de-la-compania-4420118",
+        "published_date": "2026-06-23 05:03:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "The country risk returned to the levels of September 2021 after the second round",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/el-riesgo-pais-regreso-a-los-niveles-de-septiembre-de-2021-tras-segunda-vuelta-4420743",
+        "published_date": "2026-06-23 05:00:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Petro called for greater regional union to regulate AI and accelerate decarbonization",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/petro-pidio-mayor-union-regional-para-regular-la-ia-y-acelerar-la-descarbonizacion-4420919",
+        "published_date": "2026-06-23 01:08:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Sleep informed with the keys for June 22, 2026",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-claves-del-22-de-junio-de-2026/",
+        "published_date": "2026-06-23 00:44:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Felipe Harman returns to the ANT: Presidency published his resume",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/felipe-harman-vuelve-a-la-ant-presidencia-publico-su-hoja-de-vida/",
+        "published_date": "2026-06-23 00:28:54",
+        "category": "Local Events"
+    },
+    {
         "title": "Miguel \u00c1ngel Pinto assures that he is innocent of alleged sexual harassment",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/miguel-angel-pinto-asegura-que-es-inocente-de-presunto-acoso-sexual/",
@@ -354,118 +487,6 @@
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/procuraduria-investiga-a-daniel-quintero-por-participacion-en-politica/",
         "published_date": "2026-06-22 22:36:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "The relationship with Colombia will be better: Trump after call with Abelardo",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/la-relacion-con-colombia-sera-mejor-trump-tras-llamada-con-abelardo/",
-        "published_date": "2026-06-22 21:57:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "What the vote of almost 20,000 students tells us about Colombian democracy",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/lo-que-el-voto-de-casi-20-000-estudiantes-nos-dice-sobre-la-democracia-colombiana/",
-        "published_date": "2026-06-22 21:18:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Caribbean, the key region for Cepeda's discount against Abelardo",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/el-caribe-la-region-clave-para-el-descuento-de-cepeda-frente-a-abelardo/",
-        "published_date": "2026-06-22 21:02:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "After Abelardo's victory, Uribismo will seek to build a coalition in Congress",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/tras-victoria-de-abelardo-uribismo-buscara-armar-coalicion-en-el-congreso/",
-        "published_date": "2026-06-22 20:31:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "Government liquidated the Ministry of Equality.Employees protest outside Dapre",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/gobierno-liquido-el-minigualdad-empleados-protestan-afuera-del-dapre/",
-        "published_date": "2026-06-22 19:24:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "In images |Exact moment when a hitman attacked a person during protests in Cali after the second round: it was captured on live broadcast",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/en-imagenes-momento-exacto-del-sicariato-que-dejo-un-muerto-en-medio-de-protestas-en-cali-tras-la-segunda-vuelta-fue-captado-en-transmision-en-vivo-3566223",
-        "published_date": "2026-06-22 18:39:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "Campaign Diary: De la Espriella celebrates, Cepeda clings to scrutiny",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/diario-de-campana-de-la-espriella-celebra-cepeda-se-aferra-al-escrutinio/",
-        "published_date": "2026-06-22 18:25:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "Escort of a member of Abelardo de la Espriella's campaign in Medell\u00edn carried a weapon without permits during the elections in Plaza Mayor",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/escolta-de-un-miembro-de-la-campana-de-abelardo-de-la-espriella-en-medellin-portaba-un-arma-sin-permisos-durante-los-escrutinios-en-plaza-mayor-3566232",
-        "published_date": "2026-06-22 18:17:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "They ask to stop appointments at the Universidad del Atl\u00e1ntico while internal elections progress",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/piden-frenar-nombramientos-en-la-universidad-del-atlantico-mientras-avanzan-elecciones-internas-3566233",
-        "published_date": "2026-06-22 17:25:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "A woman who traveled from the United States to remove biopolymers died in an operating room in a prestigious shopping center in Medell\u00edn",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/una-mujer-que-viajo-desde-estados-unidos-para-retirarse-biopolimeros-murio-en-un-quirofano-de-un-prestigioso-centro-comercial-de-medellin-3566201",
-        "published_date": "2026-06-22 16:32:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Comptroller's Office of Antioquia uncovers alleged detriment of $108 billion in EPM due to change of contractors in Hidroituango",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/contraloria-de-antioquia-destapa-presunto-detrimento-de-108-mil-millones-en-epm-por-cambio-de-contratistas-en-hidroituango-3566225",
-        "published_date": "2026-06-22 16:31:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "Anif warns that De La Espriella will receive a \u201cfiscal time bomb\u201d in 2027",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/anif-advierte-que-de-la-espriella-recibira-una-bomba-de-tiempo-fiscal-en-2027-4420351",
-        "published_date": "2026-06-22 16:28:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "Country risk eased after results of the second round of the presidential elections",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/riesgo-pais-cede-tras-la-segunda-vuelta-de-las-elecciones-presidenciales-4420298",
-        "published_date": "2026-06-22 16:07:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Video |This was the exact moment in which a motorcyclist crashed with a bus and died in Soledad, Atl\u00e1ntico",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/video-este-fue-el-momento-exacto-en-el-que-un-motociclista-se-accidenta-con-una-buseta-y-muere-en-soledad-atlantico-3566205",
-        "published_date": "2026-06-22 16:01:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Imports totaled US$6,709 million in April, with an annual increase of 15.8%",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/con-un-repunte-anual-de-15-8-importaciones-sumaron-us-6-709-millones-en-abril-4420363",
-        "published_date": "2026-06-22 15:58:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Do you have a brilliant idea?They are looking for the next great Colombian invention that is using technology to solve real problems",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/tiene-una-idea-brillante-buscan-el-proximo-gran-invento-colombiano-que-este-utilizando-tecnologia-para-resolver-problemas-reales-3566203",
-        "published_date": "2026-06-22 15:45:02",
         "category": "Local Events"
     }
 ]
