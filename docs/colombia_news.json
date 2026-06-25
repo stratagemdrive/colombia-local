@@ -1,5 +1,19 @@
 [
     {
+        "title": "Venezuela recognizes Abelardo's victory and asks to maintain dialogue",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/venezuela-reconoce-victoria-de-abelardo-y-pide-mantener-dialogo/",
+        "published_date": "2026-06-24 21:40:32",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "National Unit for Risk Management spoke out after a strong 7 magnitude earthquake in Venezuela: it rules out the threat of a tsunami in Colombia",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/unidad-nacional-de-gestion-de-riesgo-se-pronuncio-tras-fuerte-terremoto-de-7-de-magnitud-en-venezuela-descarta-amenaza-de-tsunami-en-colombia-3566846",
+        "published_date": "2026-06-24 18:08:12",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Prosecutor's Office investigates 7 ambassadors for participation in politics",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/procuraduria-investiga-a-7-embajadores-por-participacion-en-politica/",
@@ -12,6 +26,20 @@
         "url": "https://www.lasillavacia.com/en-vivo/influenciador-beto-coral-fue-capturado-por-agentes-de-inmigracion-en-ee-uu/",
         "published_date": "2026-06-17 13:21:25",
         "category": "Diplomacy"
+    },
+    {
+        "title": "Terrorist attack against a Police post in the El Muro area, in Calima El Dari\u00e9n, Valle, leaves two Goes police officers dead and two others injured",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/reportan-hostigamiento-en-zona-de-el-muro-en-calima-el-darien-valle-lo-que-se-sabe-3566837",
+        "published_date": "2026-06-24 18:52:46",
+        "category": "Military"
+    },
+    {
+        "title": "Blow to the Gulf Clan in the North of Antioquia: alias Cofla, alleged hitman linked to the massacre in Yarumal, is captured",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/golpe-al-clan-del-golfo-en-el-norte-de-antioquia-capturan-a-alias-cofla-presunto-sicario-vinculado-con-masacre-en-yarumal-3566813",
+        "published_date": "2026-06-24 16:15:36",
+        "category": "Military"
     },
     {
         "title": "Fifteen priorities that De la Espriella must assume for security",
@@ -140,18 +168,25 @@
         "category": "Military"
     },
     {
-        "title": "Territorial peace in Putumayo: challenges of the process with the Cneb",
+        "title": "With buts, Court declares economic emergency due to winter wave enforceable",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/paz-territorial-en-putumayo-retos-del-proceso-con-la-cneb/",
-        "published_date": "2026-06-19 23:17:11",
-        "category": "Military"
+        "url": "https://www.lasillavacia.com/en-vivo/con-peros-corte-declara-exequible-emergencia-economica-por-ola-invernal/",
+        "published_date": "2026-06-24 20:02:18",
+        "category": "Energy"
     },
     {
-        "title": "Security cameras, key to identifying and capturing alias Pi\u00f1ero in Palmira for violent robbery of a taxi driver",
+        "title": "Between 2018 and 2025, Colombia's proven gas reserves fell 54.6%",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/entre-2018-y-2025-las-reservas-probadas-de-gas-de-colombia-cayeron-54-6-4422169",
+        "published_date": "2026-06-24 18:45:46",
+        "category": "Energy"
+    },
+    {
+        "title": "Blackout in the Historic Center of Cartagena in the middle of the Colombian National Team's World Cup match: Will it happen again when we play against Portugal?",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/camaras-de-seguridad-clave-para-identificar-y-capturar-a-alias-pinero-en-palmira-por-violento-hurto-a-taxista-3565674",
-        "published_date": "2026-06-19 21:54:04",
-        "category": "Military"
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/apagon-en-el-centro-historico-de-cartagena-en-pleno-partido-mundialista-de-la-seleccion-colombia-volvera-a-pasar-cuando-juguemos-contra-portugal-3566834",
+        "published_date": "2026-06-24 18:11:53",
+        "category": "Energy"
     },
     {
         "title": "Take note: scheduling of water cuts and maintenance of public services in Cali for this Wednesday, June 24",
@@ -273,27 +308,6 @@
         "category": "Energy"
     },
     {
-        "title": "Neiva Solar Park received environmental license from Anla under LASolar decree",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/parque-sola-dse-neiva-recibio-licencia-ambiental-de-la-anla-bajo-decreto-lasolar-4418191",
-        "published_date": "2026-06-19 15:38:39",
-        "category": "Energy"
-    },
-    {
-        "title": "Fedesarrollo warned that a greater adjustment than projected in the Fiscal Framework is needed",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/fedesarrollo-advirtio-que-se-necesita-un-ajuste-mayor-al-proyectado-en-el-marco-fiscal-4417546",
-        "published_date": "2026-06-18 21:38:18",
-        "category": "Energy"
-    },
-    {
-        "title": "Mines and Energy and Congress led the budget execution until May",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/minas-y-energia-y-congreso-lideraron-la-ejecucion-presupuestal-hasta-mayo-4417309",
-        "published_date": "2026-06-18 20:03:01",
-        "category": "Energy"
-    },
-    {
         "title": "Short-term securities rate accumulates a drop of 91 basis points in the last month",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/tasa-de-los-titulos-a-corto-plazo-acumula-caida-de-91-puntos-basicos-en-el-ultimo-mes-4421576",
@@ -350,143 +364,143 @@
         "category": "Economy"
     },
     {
+        "title": "Sleep informed with the keys for June 24, 2026",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-claves-del-24-de-junio-de-2026/",
+        "published_date": "2026-06-25 00:06:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "We believe, the \u201cFico\u201d movement declares itself a government party",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/creemos-el-movimiento-de-fico-se-declara-partido-de-gobierno/",
+        "published_date": "2026-06-24 23:57:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cIt's positive\u201d: De la Espriella reacts to Cepeda's recognition",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/es-positivo-de-la-espriella-reacciona-a-reconocimiento-de-cepeda/",
+        "published_date": "2026-06-24 23:23:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "JPMorgan raised the T.I.G.R.E thesis after the presidential elections, what is it about?",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/jp-morgan-planteo-la-tesis-t-i-g-r-e-tras-elecciones-presidenciales-de-que-se-trata-4422504",
+        "published_date": "2026-06-24 22:56:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "Forms E-14 do not prove fraud in favor of De la Espriella in the second round",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/formularios-e-14-no-prueban-fraude-a-favor-de-de-la-espriella-en-segunda-vuelta/",
+        "published_date": "2026-06-24 22:28:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "Second round: government received 274 complaints for constraint",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/segunda-vuelta-gobierno-recibio-274-denuncias-por-constrenimiento/",
+        "published_date": "2026-06-24 22:17:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "CNE declared De la Espriella president-elect: he obtained 12,960,166 votes",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/cne-declaro-presidente-electo-a-de-la-espriella-saco-12-960-166-votos/",
+        "published_date": "2026-06-24 21:11:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "In London, minAmbiente calls for maintaining Colombia's climate leadership",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/en-londres-minambiente-llama-a-mantener-liderazgo-climatico-de-colombia/",
+        "published_date": "2026-06-24 19:38:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Six decisions by De la Espriella that will define the future of the Amazon",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-amazonia/seis-decisiones-de-de-la-espriella-que-definiran-el-futuro-de-la-amazonia/",
+        "published_date": "2026-06-24 19:09:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "Videos in Colombia of the strong earthquake of more than 7 magnitude that shook Venezuela: it was felt in several cities in the country",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/videos-en-colombia-del-fuerte-temblor-de-mas-de-7-de-magnitud-que-sacudio-a-venezuela-se-sintio-en-varias-ciudades-del-pais-3566849",
+        "published_date": "2026-06-24 18:41:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "Videos of the strong earthquake of more than 7 magnitude in Venezuela: they report building collapses and serious damage in several cities in the country",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/videos-del-temblor-muestran-la-magnitud-y-el-alcance-del-reciente-sismo-en-diversas-regiones-de-colombia-3566839",
+        "published_date": "2026-06-24 18:37:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "Plenary Chamber of the Constitutional Court endorsed the economic emergency declared in February",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/sala-plena-de-la-corte-constitucional-avalo-emergencia-declarada-en-febrero-4422279",
+        "published_date": "2026-06-24 17:54:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "Is the urban peace table over?Rumors grow about the end of the dialogues in the Itag\u00fc\u00ed prison",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/se-acaba-la-mesa-de-paz-urbana-crecen-los-rumores-sobre-el-fin-de-los-dialogos-en-la-carcel-de-itaguei-3566835",
+        "published_date": "2026-06-24 17:34:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "This is the aviation school that operated a small plane that broke in two and caught fire in Cartago: video of the accident in which the passenger was unharmed",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/esta-es-la-escuela-de-aviacion-que-operaba-avioneta-que-se-partio-en-dos-y-prendio-fuego-en-cartago-video-de-accidente-en-el-que-pasajera-salio-ilesa-3566828",
+        "published_date": "2026-06-24 17:16:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "Macabre discovery in Copacabana: they find the lifeless body of a young man with signs of torture in a rural area of \u200b\u200bAntioquia",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/macabro-hallazgo-en-copacabana-encuentran-el-cuerpo-sin-vida-de-un-joven-con-signos-de-tortura-en-una-zona-rural-de-antioquia-3566808",
+        "published_date": "2026-06-24 17:09:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cartagena consolidates itself as the fashion capital of the Caribbean after four days of catwalks, business and regional creative talent",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/cartagena-se-consolida-como-capital-de-la-moda-del-caribe-tras-cuatro-dias-de-pasarelas-negocios-y-talento-creativo-regional-3566806",
+        "published_date": "2026-06-24 16:20:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "MinTrabajo articulates a table to protect more than 700 MinEgualdad workers",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/mintrabajo-articula-mesa-para-proteger-a-mas-de-700-trabajadores-del-minigualdad-4422188",
+        "published_date": "2026-06-24 15:43:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "Analysts surveyed by Anif bet that the Issuer would raise rates to 11.75%",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/analistas-encuestados-por-anif-apuestan-a-que-el-emisor-elevaria-las-tasas-hasta-11-75-4422100",
+        "published_date": "2026-06-24 14:31:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "Decree gives free rein to transformations in the neighborhoods surrounding the Metro",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/decreto-da-via-libre-a-transformaciones-en-los-barrios-aledanos-al-metro-de-bogota-4422051",
+        "published_date": "2026-06-24 13:27:27",
+        "category": "Local Events"
+    },
+    {
         "title": "Abelardo: electoral marketing for the presidency",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/abelardo-el-marketing-electoral-a-la-presidencia/",
         "published_date": "2026-06-24 12:34:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Breakfast informed with the movements of this June 24, 2026",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-movidas-de-este-24-de-junio-de-2026/",
-        "published_date": "2026-06-24 12:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "More than 120 products would be affected by 'smart' tariffs from MinComercio",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/mas-de-120-productos-serian-tocados-con-aranceles-inteligentes-de-mincomercio-4421925",
-        "published_date": "2026-06-24 11:32:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Buildings that preserve our biodiversity require incentives",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-verde/arquitectura-circular-biofilica-bienestar/",
-        "published_date": "2026-06-24 10:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The popular class that won the election for De la Espriella",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/la-clase-popular-que-le-gano-la-eleccion-a-de-la-espriella/",
-        "published_date": "2026-06-24 06:27:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "Intensity of El Ni\u00f1o phenomenon revives specter of water rationing",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/intensidad-de-fenomeno-del-nino-revive-fantasma-de-racionamiento-de-agua-4421713",
-        "published_date": "2026-06-24 05:03:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "Schedule your tours!This is how the peak and plaque will govern in Bucaramanga this Wednesday, June 24, 2026",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/programe-sus-recorridos-asi-regira-el-pico-y-placa-en-bucaramanga-este-miercoles-24-de-junio-de-3566466",
-        "published_date": "2026-06-24 02:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Check if you can drive, driver!Peak and plate in Pereira for Wednesday, June 24, 2026",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/revise-si-puede-circular-conductor-pico-y-placa-en-pereira-para-el-miercoles-24-de-junio-de-3566465",
-        "published_date": "2026-06-24 02:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Check restrictions!This is how the peak and plate operates in Medell\u00edn this Wednesday, June 24, 2026",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/consulte-las-restricciones-asi-opera-el-pico-y-placa-en-medellin-este-miercoles-24-de-junio-de-3566464",
-        "published_date": "2026-06-24 02:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Be careful at the wheel!Peak and plate in Cali for Wednesday, June 24, 2026: check if you can circulate",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/ojo-al-volante-pico-y-placa-en-cali-para-el-miercoles-24-de-junio-de-2026-consulte-si-puede-circular-3566461",
-        "published_date": "2026-06-24 02:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Government and Fedecafe sign temporary extension to the National Coffee Fund contract",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/gobierno-y-fedecafe-anunciaron-una-prorroga-al-contrato-de-administracion-del-fnc-4421776",
-        "published_date": "2026-06-24 00:49:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Petro did not say that he will stay in power if \u201cthe electoral fraud is not clarified\u201d",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/petro-no-dijo-que-se-quedara-en-el-poder-si-no-se-aclara-el-fraude-electoral/",
-        "published_date": "2026-06-24 00:37:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sleep informed with the keys for this June 23, 2026",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-claves-de-este-23-de-junio-de-2026/",
-        "published_date": "2026-06-24 00:10:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "Petro launches new allegations of fraud without support after second round",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/detector-de-mentiras/petro-lanza-nuevas-denuncias-de-fraude-sin-sustento-tras-segunda-vuelta/",
-        "published_date": "2026-06-24 00:06:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Without recognizing Abelardo's victory, Pact announces a new political stage",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/sin-reconocer-victoria-de-abelardo-pacto-anuncia-nueva-etapa-politica/",
-        "published_date": "2026-06-24 00:00:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "New details of the former Colombian soccer player accused of killing and beheading his friend in Chile, where feared 'pique houses' would have been moved",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/nuevos-detalles-del-exfutbolista-colombiano-senalado-de-matar-y-decapitar-a-su-amigo-en-chile-a-donde-se-habrian-trasladado-temidas-casas-de-pique-3566569",
-        "published_date": "2026-06-23 23:59:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "The two Colombias on the electoral map",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/las-dos-colombias-del-mapa-electoral/",
-        "published_date": "2026-06-23 23:59:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "Amid heat wave, climate action week begins in London",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/en-medio-de-ola-de-calor-inicia-la-semana-de-accion-climatica-en-londres/",
-        "published_date": "2026-06-23 23:09:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "Carlos Trujillo resigns from the Conservative Party with a view to 2027",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/carlos-trujillo-renuncia-al-partido-conservador-con-miras-a-2027/",
-        "published_date": "2026-06-23 23:02:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "Officials who led the capture of the deforestation network were threatened",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/fueron-amenazados-funcionarios-que-lideraron-captura-de-red-deforestadora/",
-        "published_date": "2026-06-23 22:58:20",
         "category": "Local Events"
     }
 ]
