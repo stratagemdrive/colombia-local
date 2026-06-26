@@ -14,18 +14,32 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Prosecutor's Office investigates 7 ambassadors for participation in politics",
+        "title": "Former Police Chief says that Sarabia asked to stop operations.Petro denies it",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/procuraduria-investiga-a-7-embajadores-por-participacion-en-politica/",
-        "published_date": "2026-06-17 20:04:37",
-        "category": "Diplomacy"
+        "url": "https://www.lasillavacia.com/en-vivo/exjefe-de-la-policia-dice-que-sarabia-pidio-frenar-operaciones-petro-lo-niega/",
+        "published_date": "2026-06-25 23:55:30",
+        "category": "Military"
     },
     {
-        "title": "Influencer Beto Coral was captured by immigration agents in the US",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/influenciador-beto-coral-fue-capturado-por-agentes-de-inmigracion-en-ee-uu/",
-        "published_date": "2026-06-17 13:21:25",
-        "category": "Diplomacy"
+        "title": "After the signal of the crime: Government of Valle del Cauca denounces the operation of a clandestine radio station of FARC dissidents in Palmira",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/tras-la-senal-del-crimen-gobernacion-del-valle-del-cauca-denuncia-operacion-de-emisora-clandestina-de-disidencias-de-las-farc-en-palmira-3567126",
+        "published_date": "2026-06-25 18:43:21",
+        "category": "Military"
+    },
+    {
+        "title": "He fell for trying to rob a police officer: the end of the dangerous criminal from Santa Marta who walked around the United States watching the Colombian National Team",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/cayo-por-intentar-robar-a-un-policia-el-fin-del-peligroso-delincuente-de-santa-marta-que-se-paseaba-por-estados-unidos-viendo-a-la-seleccion-colombia-3567135",
+        "published_date": "2026-06-25 18:35:00",
+        "category": "Military"
+    },
+    {
+        "title": "They were the two police officers murdered in a terrorist attack in Calima El Dari\u00e9n, Valle: reward of up to $50 million to capture the perpetrators",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/ellos-eran-los-dos-policias-asesinados-en-ataque-terrorista-en-calima-el-darien-valle-recompensa-de-hasta-50-millones-por-capturar-a-los-autores-3567110",
+        "published_date": "2026-06-25 17:38:59",
+        "category": "Military"
     },
     {
         "title": "Security in Valle del Cauca, one of the great 'hot potatoes' that awaits the new president Abelardo de la Espriella",
@@ -140,32 +154,39 @@
         "category": "Military"
     },
     {
-        "title": "Tension between the community and a group of police officers due to the capture of an alleged ELN minor recruiter in Choc\u00f3",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/tension-entre-la-comunidad-y-grupo-de-policias-por-captura-de-senalado-reclutador-de-menores-del-eln-en-choco-3565899",
-        "published_date": "2026-06-21 15:39:41",
-        "category": "Military"
+        "title": "Regasificadora del Pac\u00edfico advances with the arrival of infrastructure",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/regasificadora-del-pacifico-avanza-con-llegada-de-infraestructura-a-buenaventura-4423194",
+        "published_date": "2026-06-25 19:09:01",
+        "category": "Energy"
     },
     {
-        "title": "Reactions of the mayor of Cali and the governor of Valle due to the loss of 'Marlon': 'One of the most forceful blows against terrorism was dealt'",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/reacciones-del-alcalde-de-cali-y-de-gobernadora-del-valle-por-baja-de-marlon-se-propino-uno-de-los-golpes-mas-contundentes-contra-el-terrorismo-3565822",
-        "published_date": "2026-06-20 22:31:21",
-        "category": "Military"
+        "title": "Petrobras completed the commercialization of new quantities of Sirius gas",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/petrobras-culmino-la-comercializacion-de-nuevas-cantidades-de-gas-de-proyecto-sirius-4423043",
+        "published_date": "2026-06-25 16:00:29",
+        "category": "Energy"
     },
     {
-        "title": "El Valle and Cauca, the regions most bled by the dejected alias Marlon of FARC dissidents: who was this man in the armed group?",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/el-valle-y-el-cauca-las-regiones-mas-desangradas-por-el-abatido-alias-marlon-de-disidencias-de-las-farc-quien-era-este-hombre-en-el-grupo-armado-3565807",
-        "published_date": "2026-06-20 22:26:48",
-        "category": "Military"
+        "title": "Between 28 and 52 years old, Colombians earn a salary that exceeds their expenses",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/entre-los-28-y-los-52-anos-los-colombianos-ganan-un-sueldo-que-supera-sus-gastos-4423027",
+        "published_date": "2026-06-25 15:54:42",
+        "category": "Energy"
     },
     {
-        "title": "An 18-year-old man accused of murdering a woman was captured after being shot at by uniformed police officers in Cali",
+        "title": "Given the entry of the El Ni\u00f1o Phenomenon, Afinia announces a 13.3% increase in energy demand in the region, says manager Ricardo Arango",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/un-hombre-de-18-anos-senalado-del-asesinato-de-una-mujer-fue-capturado-tras-enfrentarse-a-tiros-con-uniformados-de-la-policia-en-cali-3565795",
-        "published_date": "2026-06-20 18:46:37",
-        "category": "Military"
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/ante-la-entrada-del-fenomeno-del-nino-afinia-anuncia-un-incremento-del-13-3-en-la-demanda-de-energia-en-la-region-senala-el-gerente-ricardo-arango-3566970",
+        "published_date": "2026-06-25 15:38:50",
+        "category": "Energy"
+    },
+    {
+        "title": "Carf warns that, without fiscal adjustment, public debt could reach 66.6% of GDP in 2027",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/carf-advierte-que-sin-ajuste-fiscal-deuda-neta-podria-llegar-a-66-6-del-pib-en-2027-4422879",
+        "published_date": "2026-06-25 12:56:51",
+        "category": "Energy"
     },
     {
         "title": "Carf warns that, without fiscal adjustment, gross debt could reach 66.6% of GDP in 2027",
@@ -179,6 +200,13 @@
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/el-nino-dejaria-la-referencia-de-energia-en-bolsa-en-1-000-el-kilovatio-hora-4422605",
         "published_date": "2026-06-25 05:02:55",
+        "category": "Energy"
+    },
+    {
+        "title": "Ecopetrol clarifies that the Board has not evaluated the return of Ricardo Roa",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/ecopetrol-aclara-que-la-junta-no-ha-evaluado-el-retorno-de-ricardo-roa-4422904",
+        "published_date": "2026-06-25 05:00:44",
         "category": "Energy"
     },
     {
@@ -266,46 +294,11 @@
         "category": "Energy"
     },
     {
-        "title": "Foreign tourism left US$13,498 million last year and almost a million jobs",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/turismo-externo-dejo-us-13-498-millones-en-2025-y-casi-un-millon-de-empleos-4420547",
-        "published_date": "2026-06-22 23:31:33",
-        "category": "Energy"
-    },
-    {
-        "title": "Minhacienda issued decree of the Austerity Plan for the fiscal period 2026",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/minhacienda-expidio-decreto-de-plan-de-austeridad-para-la-vigencia-fiscal-2026-4420535",
-        "published_date": "2026-06-22 22:14:24",
-        "category": "Energy"
-    },
-    {
-        "title": "Be careful: these are the sectors that will be without power this Tuesday, June 23 in Barranquilla;service interruption will be 5 hours",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/ponga-cuidado-estos-son-los-sectores-que-estaran-sin-energia-este-martes-23-de-junio-en-barranquilla-interrupcion-del-servicio-sera-de-5-horas-3566192",
-        "published_date": "2026-06-22 15:23:19",
-        "category": "Energy"
-    },
-    {
-        "title": "Of 14 regasification projects nationwide, only one is in operation",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/de-14-proyectos-de-regasificacion-a-nivel-nacional-solo-uno-esta-en-operacion-4419103",
-        "published_date": "2026-06-22 05:00:06",
-        "category": "Energy"
-    },
-    {
-        "title": "Sabor Barranquilla 2026 will celebrate Caribbean fruits as a symbol of identity, tradition and regional gastronomic biodiversity",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/sabor-barranquilla-2026-exaltara-frutas-del-caribe-como-simbolo-de-identidad-tradicion-y-biodiversidad-gastronomica-regional-3565732",
-        "published_date": "2026-06-20 17:01:00",
-        "category": "Energy"
-    },
-    {
-        "title": "Air-e activates special operation to guarantee energy service during the second presidential round in the Caribbean region",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/air-e-activa-operativo-especial-para-garantizar-servicio-de-energia-durante-la-segunda-vuelta-presidencial-en-la-region-caribe-3565723",
-        "published_date": "2026-06-20 13:01:00",
-        "category": "Energy"
+        "title": "Carf: net debt could reach a historical record in 2026",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/carf-la-deuda-neta-podria-alcanzar-un-record-historico-en-2026/",
+        "published_date": "2026-06-25 21:47:33",
+        "category": "Economy"
     },
     {
         "title": "Minhacienda placed TES in pesos for almost $5 billion with rates of 12%",
@@ -357,18 +350,130 @@
         "category": "Economy"
     },
     {
-        "title": "The taxes that will go and those that will not in the Government's fifth tax attempt",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/los-impuestos-que-irian-y-los-que-no-en-el-quinto-intento-de-tributaria-del-gobierno-4416477",
-        "published_date": "2026-06-17 18:31:46",
-        "category": "Economy"
+        "title": "Correction: This is how the polls fared in the second round",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/correccion-asi-les-fue-a-las-encuestas-en-segunda-vuelta/",
+        "published_date": "2026-06-25 22:32:58",
+        "category": "Local Events"
     },
     {
-        "title": "The gross debt of the Central National Government closed at 62.9% of GDP as of April",
+        "title": "This is how the scrutiny works in the elections in Colombia",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/detector-de-mentiras/asi-funciona-el-escrutinio-en-las-elecciones-en-colombia/",
+        "published_date": "2026-06-25 22:23:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "Prison doors should be opened to avoid impunity",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/las-puertas-de-las-prisiones-deberian-abrirse-para-evitar-la-impunidad/",
+        "published_date": "2026-06-25 21:45:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "U. of Antioquia has a new rector and he is not in the governor's favor",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/u-de-antioquia-tiene-nuevo-rector-y-no-es-de-la-cuerda-del-gobernador/",
+        "published_date": "2026-06-25 20:26:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cHe sold us out\u201d: Petrista activists criticize Cepeda's campaign",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/nos-vendio-activistas-petristas-critican-campana-de-cepeda/",
+        "published_date": "2026-06-25 20:21:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "Without ZUT ready, the arrival of the Clan del Golfo to C\u00f3rdoba is postponed",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/sin-zut-lista-se-aplaza-la-llegada-del-clan-del-golfo-a-cordoba/",
+        "published_date": "2026-06-25 19:50:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Shield of the Americas is an alliance doomed to failure",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/el-escudo-de-las-americas-es-una-alianza-condenada-al-fracaso/",
+        "published_date": "2026-06-25 19:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "This is how the projects for the Amazon and the environment remained in Congress",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/asi-quedaron-los-proyectos-para-la-amazonia-y-el-ambiente-en-el-congreso/",
+        "published_date": "2026-06-25 19:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Petro's government suggests that the new president be the one who assumes the future of the Urban Peace dialogues with criminal gangs in Barranquilla",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/gobierno-de-petro-sugiere-que-el-nuevo-presidente-sea-quien-asuma-el-futuro-de-los-dialogos-de-paz-urbana-con-las-bandas-criminales-en-barranquilla-3567122",
+        "published_date": "2026-06-25 18:01:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The campaign 'Sailing to the Heart of Magdalena' started from the Bodeguita Pier in Cartagena, which will bring humanitarian attention to three departments",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/del-muelle-de-la-bodeguita-en-cartagena-partio-la-campana-navegando-al-corazon-del-magdalena-que-llevara-atencion-humanitaria-a-tres-departamentos-3567118",
+        "published_date": "2026-06-25 17:57:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "This is how they seek to catch the dengue mosquito in Barranquilla before it bites: a new technology promises to recognize it by its flight",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/asi-buscan-atrapar-en-barranquilla-al-mosquito-del-dengue-antes-de-que-pique-una-nueva-tecnologia-promete-reconocerlo-por-su-vuelo-3567087",
+        "published_date": "2026-06-25 17:00:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "Do you know them?This is the poster of those most wanted for vandalism in Cali after election day: $5,000 million in damages",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/los-conoce-asi-es-el-cartel-de-los-mas-buscados-por-vandalismo-en-cali-tras-la-jornada-electoral-5-000-millones-en-danos-3567094",
+        "published_date": "2026-06-25 16:55:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "The El Ni\u00f1o Phenomenon could intensify dengue in Colombia: there are already more than 50,000 cases in 2026, according to the INS",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/el-fenomeno-del-nino-podria-intensificar-el-dengue-en-colombia-ya-hay-mas-de-50-000-casos-en-2026-segun-el-ins-3567093",
+        "published_date": "2026-06-25 16:55:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "Judicial persecution against leaders of the Montes de Mar\u00eda",
+        "source": "Verdad Abierta",
+        "url": "https://verdadabierta.com/persecucion-judicial-contra-lideresas-de-los-montes-de-maria/",
+        "published_date": "2026-06-25 16:15:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "Coca leaf crops reached 261,000 hectares and are the eighth largest",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/informe-del-seguimiento-del-carf-de-junio-de-2026-4416482",
-        "published_date": "2026-06-17 17:49:52",
-        "category": "Economy"
+        "url": "https://www.larepublica.co/economia/cultivos-de-hoja-de-coca-alcanzaron-261-000-hectareas-y-es-el-octavo-en-extension-4423019",
+        "published_date": "2026-06-25 15:54:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "The indigenous leader Omaira Pancho Sanza is murdered in Cauca: there are already 74 social leaders murdered in Colombia in 2026",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/asesinan-a-la-lideresa-indigena-omaira-pancho-sanza-en-el-cauca-ya-son-74-los-lideres-sociales-asesinados-en-colombia-en-3567067",
+        "published_date": "2026-06-25 15:38:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Eafit warns of the impact of TES with rates above 13% for the primary deficit",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/eafit-advierte-del-impacto-de-tes-con-tasas-arriba-de-13-para-el-deficit-primario-4422865",
+        "published_date": "2026-06-25 13:34:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "VAT declaration of large stores rose 13.3% during the second two months",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/declaracion-de-iva-de-grandes-superficies-subio-13-3-durante-el-segundo-bimestre-4422910",
+        "published_date": "2026-06-25 13:30:15",
+        "category": "Local Events"
     },
     {
         "title": "Have an informed breakfast with the keys for this June 25, 2026",
@@ -382,132 +487,6 @@
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/el-futuro-de-cepeda-como-jefe-de-la-oposicion/",
         "published_date": "2026-06-25 12:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The next flight of the phoenix: De la Espriella must reinvent the DNP",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/el-proximo-vuelo-del-fenix-de-la-espriella-debera-reinventar-el-dnp/",
-        "published_date": "2026-06-25 12:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Barranquilla: more than 40 homicides among the men of this cartel;They maintain a reward of up to $10 million for information that allows captures",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-mas-de-40-homicidios-suman-los-hombres-de-este-cartel-mantienen-recompensa-de-hasta-10-millones-por-informacion-que-permita-capturas-3566943",
-        "published_date": "2026-06-25 07:42:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "This is how coffee growers in the regions of Colombia lose up to 20.8% of their income due to the concentration of buyers: study analyzes the phenomenon",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/asi-pierden-hasta-20-8-de-sus-ingresos-los-caficultores-de-las-regiones-de-colombia-por-la-concentracion-de-compradores-estudio-analiza-el-fenomeno-3566800",
-        "published_date": "2026-06-25 06:48:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "They reveal the identity of the other four captured along with Luis Mariano D\u00edaz, son of Diomedes D\u00edaz: what is known about the crime for which they are being investigated",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/revelan-identidad-de-los-otros-cuatro-capturados-junto-a-luis-mariano-diaz-hijo-de-diomedes-diaz-lo-que-se-sabe-del-crimen-por-el-que-los-investigan-3566914",
-        "published_date": "2026-06-25 06:04:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "This is how Iv\u00e1n Cepeda, Petro and the Pact lost the presidential elections",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/asi-perdieron-las-elecciones-presidenciales-ivan-cepeda-petro-y-el-pacto/",
-        "published_date": "2026-06-25 06:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Housing sector accumulates a drop of 33.6% in terms of sales compared to 2022",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/sector-vivienda-acumula-una-caida-de-33-6-en-cuanto-a-ventas-frente-a-2022-4422657",
-        "published_date": "2026-06-25 05:02:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "Colombians consume 330 cups of coffee a year, equivalent to 2.5 kilos",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/los-colombianos-consumen-330-tazas-de-cafe-al-ano-equivalentes-a-2-5-kilos-4422600",
-        "published_date": "2026-06-25 05:00:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "When are the expiration dates of Development Fund contracts?",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/este-es-el-calendario-de-fechas-de-vencimiento-de-los-contratos-de-fondos-de-fomento-4422643",
-        "published_date": "2026-06-25 05:00:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "Please note the restriction: peak and plate in Pereira for Thursday, June 25, 2026",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/tenga-en-cuenta-la-restriccion-pico-y-placa-en-pereira-para-el-jueves-25-de-junio-de-3566781",
-        "published_date": "2026-06-25 02:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Schedule your tours!This is how the peak and plate operates in Bucaramanga this Thursday, June 25, 2026",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/programe-sus-recorridos-asi-opera-el-pico-y-placa-en-bucaramanga-este-jueves-25-de-junio-de-3566777",
-        "published_date": "2026-06-25 02:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Avoid fines!Peak and plate in Cali for Thursday, June 25, 2026: this is how the measure operates",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/evite-multas-pico-y-placa-en-cali-para-el-jueves-25-de-junio-de-2026-asi-opera-la-medida-3566776",
-        "published_date": "2026-06-25 02:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Batteries tailored to mobility, driver!Peak and plate in Medell\u00edn for Thursday, June 25, 2026: check restrictions",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/pilas-a-la-medida-de-movilidad-conductor-pico-y-placa-en-medellin-para-el-jueves-25-de-junio-de-2026-consulte-las-restricciones-3566770",
-        "published_date": "2026-06-25 02:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Carlos Fernando Gal\u00e1n confirmed that they will send aid to Venezuela after the earthquake",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/carlos-fernando-galan-confirmo-que-enviaran-ayudas-a-venezuela-tras-temblor-4422709",
-        "published_date": "2026-06-25 01:05:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sleep informed with the keys for June 24, 2026",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-claves-del-24-de-junio-de-2026/",
-        "published_date": "2026-06-25 00:06:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "We believe, the \u201cFico\u201d movement declares itself a government party",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/creemos-el-movimiento-de-fico-se-declara-partido-de-gobierno/",
-        "published_date": "2026-06-24 23:57:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cIt's positive\u201d: De la Espriella reacts to Cepeda's recognition",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/es-positivo-de-la-espriella-reacciona-a-reconocimiento-de-cepeda/",
-        "published_date": "2026-06-24 23:23:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "JPMorgan raised the T.I.G.R.E thesis after the presidential elections, what is it about?",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/jp-morgan-planteo-la-tesis-t-i-g-r-e-tras-elecciones-presidenciales-de-que-se-trata-4422504",
-        "published_date": "2026-06-24 22:56:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Forms E-14 do not prove fraud in favor of De la Espriella in the second round",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/formularios-e-14-no-prueban-fraude-a-favor-de-de-la-espriella-en-segunda-vuelta/",
-        "published_date": "2026-06-24 22:28:56",
         "category": "Local Events"
     }
 ]
