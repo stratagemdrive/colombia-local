@@ -1,5 +1,12 @@
 [
     {
+        "title": "Colombia cannot afford to leave the UN and the OAS",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/colombia-no-puede-darse-el-lujo-de-salir-de-la-onu-y-la-oea/",
+        "published_date": "2026-06-26 21:15:00",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Members of the urban peace table of the Itag\u00fc\u00ed prison will ask the government of Abelardo de la Espriella to continue with the dialogues",
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/medellin/integrantes-de-la-mesa-de-paz-urbana-de-la-carcel-de-itaguei-le-solicitaran-al-gobierno-de-abelardo-de-la-espriella-continuar-con-los-dialogos-3567175",
@@ -19,6 +26,34 @@
         "url": "https://www.eltiempo.com/colombia/otras-ciudades/unidad-nacional-de-gestion-de-riesgo-se-pronuncio-tras-fuerte-terremoto-de-7-de-magnitud-en-venezuela-descarta-amenaza-de-tsunami-en-colombia-3566846",
         "published_date": "2026-06-24 18:08:12",
         "category": "Diplomacy"
+    },
+    {
+        "title": "Dancing with the shark: the cost of entering the Shield of the Americas",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/bailar-con-el-tiburon-el-costo-de-entrar-al-escudo-de-las-americas/",
+        "published_date": "2026-06-26 23:27:05",
+        "category": "Military"
+    },
+    {
+        "title": "Asointermedias delivers a roadmap to the new Government to close regional gaps",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/asointermedias-entrega-hoja-de-ruta-al-nuevo-gobierno-para-cerrar-brechas-regionales-4424239",
+        "published_date": "2026-06-26 22:42:51",
+        "category": "Military"
+    },
+    {
+        "title": "Judge denied request for annulment of guardianship that suspended activities in the ZUT",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/juez-nego-solicitud-de-nulidad-de-tutela-que-suspendia-actividades-en-las-zut/",
+        "published_date": "2026-06-26 20:08:54",
+        "category": "Military"
+    },
+    {
+        "title": "Barranquilla reinforces security for the Colombian National Team match and the next festive long weekend: nearly a thousand uniformed personnel will be deployed",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-refuerza-seguridad-por-partido-de-la-seleccion-colombia-y-el-proximo-puente-festivo-cerca-de-mil-uniformados-estaran-desplegados-3567394",
+        "published_date": "2026-06-26 16:18:05",
+        "category": "Military"
     },
     {
         "title": "Former Police Chief says that Sarabia asked to stop operations.Petro denies it",
@@ -133,32 +168,11 @@
         "category": "Military"
     },
     {
-        "title": "Second presidential round closed without incident in Atl\u00e1ntico and Barranquilla;More than 4,700 police officers guarded election day",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/segunda-vuelta-presidencial-en-atlantico-transcurrio-sin-alteraciones-del-orden-publico-normalidad-en-los-96-puestos-de-votacion-en-los-18-municipios-3566048",
-        "published_date": "2026-06-22 07:29:07",
-        "category": "Military"
-    },
-    {
-        "title": "Second round: the country that the map does not show",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/segunda-vuelta-el-pais-que-el-mapa-no-muestra/",
-        "published_date": "2026-06-22 05:54:57",
-        "category": "Military"
-    },
-    {
-        "title": "Mayor of Cali, Alejandro Eder, assured that the public order situation was controlled after riots after the presidential second round: balance",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/alcalde-de-cali-alejandro-eder-aseguro-que-fue-controlada-la-situacion-de-orden-publico-tras-disturbios-posteriores-a-la-segunda-vuelta-presidencial-3566037",
-        "published_date": "2026-06-22 05:37:04",
-        "category": "Military"
-    },
-    {
-        "title": "'Antioquia resisted!': the euphoric reaction of Federico Guti\u00e9rrez and Andr\u00e9s Juli\u00e1n Rend\u00f3n after the victory of Abelardo De la Espriella",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/antioquia-resistio-la-euforica-reaccion-de-federico-gutierrez-y-andres-julian-rendon-tras-la-victoria-de-abelardo-de-la-espriella-3565932",
-        "published_date": "2026-06-21 17:43:48",
-        "category": "Military"
+        "title": "Superservicios and Electrovichada agreed to guarantee energy service",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/superservicios-y-electrovichada-hicieron-acuerdo-para-garantizar-servicio-de-energia-4423984",
+        "published_date": "2026-06-26 15:29:27",
+        "category": "Energy"
     },
     {
         "title": "Colombians reach their peak salary at age 38 with about $33.3 million annually",
@@ -294,13 +308,6 @@
         "category": "Energy"
     },
     {
-        "title": "Creg published draft resolution to regulate energy saving program",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/creg-publico-proyecto-de-resolucion-para-reglamentar-programa-de-ahorro-de-energia-4421143",
-        "published_date": "2026-06-23 14:08:43",
-        "category": "Energy"
-    },
-    {
         "title": "Carf distances itself from the 'happy accounts' of the Ministry of Finance with the Fiscal Framework",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/carf-se-distancia-de-las-cuentas-alegres-de-minhacienda-con-el-marco-fiscal-4422801",
@@ -350,157 +357,143 @@
         "category": "Economy"
     },
     {
-        "title": "Issuer Survey projects that June inflation would be 6.09%",
+        "title": "Nukak are in the middle of the dispute between \u201cCalarc\u00e1\u201d and \u201cMordisco\u201d: report",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/nukak-estan-en-medio-de-la-disputa-entre-calarca-y-mordisco-reportaje/",
+        "published_date": "2026-06-26 23:47:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "After a month in office, president of Fiduprevisora \u200b\u200bleaves",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/tras-un-mes-en-el-cargo-sale-presidente-de-fiduprevisora/",
+        "published_date": "2026-06-26 23:30:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Petro to De la Espriella: \u201cCongratulations, he knew how to do it well\u201d",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/petro-a-de-la-espriella-felicitaciones-la-supo-hacer-bien/",
+        "published_date": "2026-06-26 22:37:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cCrime would be promoted\u201d: Ministry of Defense on Danilo Rueda and the Clan",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/se-estaria-promoviendo-el-crimen-mindefensa-sobre-danilo-rueda-y-el-clan/",
+        "published_date": "2026-06-26 22:03:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "This is how Iv\u00e1n Cepeda managed to come back in the Caribbean",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/asi-logro-ivan-cepeda-remontar-en-el-caribe/",
+        "published_date": "2026-06-26 21:28:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "They ask to investigate the Medell\u00edn councilor's apology for violence",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/rechazan-y-piden-investigar-apologia-a-la-violencia-de-concejal-de-medellin/",
+        "published_date": "2026-06-26 20:54:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "Director of Adres announced addition of $2 billion to the health budget",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/encuesta-mensual-de-expectativas-de-analistas-economicos-de-banco-de-la-republica-4417197",
-        "published_date": "2026-06-18 15:42:21",
-        "category": "Economy"
+        "url": "https://www.larepublica.co/economia/director-de-la-adres-anuncio-adicion-de-2-billones-al-presupuesto-de-la-salud-4424099",
+        "published_date": "2026-06-26 20:11:56",
+        "category": "Local Events"
     },
     {
-        "title": "Ita\u00fa warns of difficult compliance with the 2026 Medium-Term Fiscal Framework",
+        "title": "Superservicios asked providers to activate contingency plans for El Ni\u00f1o",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/itau-advierte-sobre-dificil-cumplimiento-del-marco-fiscal-de-mediano-plazo-de-2026-4417106",
-        "published_date": "2026-06-18 14:33:17",
-        "category": "Economy"
+        "url": "https://www.larepublica.co/economia/superservicios-llamo-a-empresas-prestadoras-activar-planes-de-contingencia-por-el-nino-4424139",
+        "published_date": "2026-06-26 19:50:33",
+        "category": "Local Events"
     },
     {
-        "title": "Breakfast informed with the movements of this June 26, 2026",
+        "title": "\u201cLet him take care of his part\u201d: Sheinbaum to De la Espriella about posters",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-movidas-de-este-26-de-junio-de-2026/",
-        "published_date": "2026-06-26 12:44:45",
+        "url": "https://www.lasillavacia.com/en-vivo/que-se-encargue-de-su-parte-sheinbaum-a-de-la-espriella-sobre-carteles/",
+        "published_date": "2026-06-26 19:37:58",
         "category": "Local Events"
     },
     {
-        "title": "Expectations and discussions: the conversation about President Abelardo",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/expectativas-y-discusiones-la-conversacion-sobre-el-presidente-abelardo/",
-        "published_date": "2026-06-26 12:40:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "Abelardo's foreign policy has to be ambitious",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/la-politica-exterior-de-abelardo-tiene-que-ser-ambiciosa/",
-        "published_date": "2026-06-26 12:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The uncomfortable question: do I vote rifle or vote gun?",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/voto-fusil-colombia-2026/",
-        "published_date": "2026-06-26 09:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Avoid fines!Peak and plate in Cali for Friday, June 26, 2026: this is how the measure operates",
+        "title": "When war wounds become art: victims write, paint and share their stories of resilience in the Valley with music",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/evite-multas-pico-y-placa-en-cali-para-el-viernes-26-de-junio-de-2026-asi-opera-la-medida-3567050",
-        "published_date": "2026-06-26 07:28:56",
+        "url": "https://www.eltiempo.com/colombia/cali/cuando-las-heridas-por-la-guerra-se-convierten-en-arte-victimas-escriben-pintan-y-comparten-con-musica-sus-historias-de-resiliencia-en-el-valle-3567365",
+        "published_date": "2026-06-26 18:16:03",
         "category": "Local Events"
     },
     {
-        "title": "Follow the mobility measure!Peak and plate in Medell\u00edn for Friday, June 26, 2026: this is how the restriction works",
+        "title": "The truths and myths regarding earthquakes and the risks for Cali, after the earthquakes in Venezuela: what they explained in the Suroccidente Observatory",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/siga-la-medida-de-movilidad-pico-y-placa-en-medellin-para-el-viernes-26-de-junio-de-2026-asi-funciona-la-restriccion-3567052",
-        "published_date": "2026-06-26 07:27:21",
+        "url": "https://www.eltiempo.com/colombia/cali/las-verdades-y-los-mitos-frente-a-sismos-y-los-riesgos-para-cali-tras-los-terremotos-en-venezuela-lo-que-explicaron-en-observatorio-del-suroccidente-3567420",
+        "published_date": "2026-06-26 18:13:17",
         "category": "Local Events"
     },
     {
-        "title": "Tremor today in Colombia |They report an earthquake of magnitude 3.8 during the early hours of this Friday, June 26: know the epicenter and depth",
+        "title": "They intensify the search for the 17-year-old teenager who disappeared after entering the sea on the beaches of Salgar (Atl\u00e1ntico): the young man is from Bogot\u00e1",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-hoy-en-colombia-reportan-sismo-de-magnitud-3-8-durante-la-manana-de-este-viernes-26-de-junio-conozca-epicentro-y-profundidad-3567213",
-        "published_date": "2026-06-26 06:41:36",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/intensifican-busqueda-del-adolescente-de-17-anos-que-desaparecio-tras-ingresar-al-mar-en-playas-de-salgar-atlantico-el-joven-es-oriundo-de-bogota-3567419",
+        "published_date": "2026-06-26 17:50:00",
         "category": "Local Events"
     },
     {
-        "title": "Barranquilla opened a collection center to help victims of the earthquake in Venezuela: these are the donations it receives",
+        "title": "Tremor today in Colombia |They report a new earthquake on the afternoon of this Friday, June 26: it was felt in Medell\u00edn, Manizales and several points in Risaralda",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-abrio-un-centro-de-acopio-para-ayudar-a-las-victimas-del-terremoto-en-venezuela-estas-son-las-donaciones-que-recibe-3567212",
-        "published_date": "2026-06-26 05:43:21",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-hoy-en-colombia-reportan-nuevo-sismo-la-tarde-de-este-viernes-26-de-junio-se-sintio-en-medellin-manizales-y-varios-puntos-de-risaralda-3567361",
+        "published_date": "2026-06-26 17:09:21",
         "category": "Local Events"
     },
     {
-        "title": "For every hectare of bighead onion, there are 25.19 planted with coca leaves in the territory.",
+        "title": "Cartagena enables a second point to receive humanitarian aid destined for Venezuela: it is located in the Customs Palace",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/cartagena-habilita-un-segundo-punto-para-recepcion-de-ayudas-humanitarias-con-destino-a-venezuela-esta-ubicado-en-el-palacio-de-la-aduana-3567397",
+        "published_date": "2026-06-26 16:40:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "One dead and six injured leaves an explosion, apparently caused by gunpowder, in a house in Nari\u00f1o: what is known about the emergency in the municipality of La Uni\u00f3n",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/un-muerto-y-seis-heridos-deja-explosion-al-parecer-por-polvora-en-una-casa-de-narino-lo-que-se-sabe-de-la-emergencia-en-el-municipio-de-la-union-3567400",
+        "published_date": "2026-06-26 16:35:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "Communal, indigenous and community, the sectors with the most unpunished murders in Colombia",
+        "source": "Verdad Abierta",
+        "url": "https://verdadabierta.com/comunal-indigena-y-comunitario-los-sectores-con-asesinatos-mas-impunes-en-colombia/",
+        "published_date": "2026-06-26 16:05:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cargo moved by land increased 11.25% in May with 14.4 million tons",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/por-cada-hectarea-de-cebolla-cabezona-hay-25-19-sembradas-de-hoja-de-coca-4423457",
-        "published_date": "2026-06-26 05:03:50",
+        "url": "https://www.larepublica.co/economia/carga-movida-por-tierra-subio-11-25-en-mayo-con-14-4-millones-de-toneladas-4423922",
+        "published_date": "2026-06-26 16:02:23",
         "category": "Local Events"
     },
     {
-        "title": "The \u201crifle vote\u201d does not explain the 100% Cepeda tables, the reservation vote does",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/el-voto-fusil-no-explica-las-mesas-100-de-cepeda-el-voto-resguardo-si/",
-        "published_date": "2026-06-26 05:02:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cWith such a close election it was not undemocratic to wait for the scrutiny\u201d",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-academica/con-una-eleccion-tan-cerrada-no-era-antidemocratico-esperar-al-escrutinio/",
-        "published_date": "2026-06-26 00:46:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sleep informed with the movements of this June 25, 2026",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-movidas-de-este-25-de-junio-de-2026/",
-        "published_date": "2026-06-26 00:19:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "Despite the arrival of El Ni\u00f1o, floods continue in Guaviare",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/pese-a-la-llegada-de-el-nino-continuan-las-inundaciones-en-guaviare/",
-        "published_date": "2026-06-26 00:16:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "Correction: This is how the polls fared in the second round",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/correccion-asi-les-fue-a-las-encuestas-en-segunda-vuelta/",
-        "published_date": "2026-06-25 22:32:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "This is how the scrutiny works in the elections in Colombia",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/detector-de-mentiras/asi-funciona-el-escrutinio-en-las-elecciones-en-colombia/",
-        "published_date": "2026-06-25 22:23:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "Prison doors should be opened to avoid impunity",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/las-puertas-de-las-prisiones-deberian-abrirse-para-evitar-la-impunidad/",
-        "published_date": "2026-06-25 21:45:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "'The 12-story building in front fell down': priest says from Venezuela where he is searching for a child and three missing teachers after earthquakes",
+        "title": "Government of Valle del Cauca files Popular Action before the Administrative Court to stop the crisis in the health system",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/el-edificio-de-al-frente-de-12-pisos-se-cayo-relata-sacerdote-que-desde-venezuela-busca-a-un-nino-y-tres-profesores-desaparecidos-tras-terremotos-3567150",
-        "published_date": "2026-06-25 21:33:42",
+        "url": "https://www.eltiempo.com/colombia/cali/gobernacion-del-valle-del-cauca-interpone-accion-popular-ante-el-tribunal-administrativo-para-frenar-la-crisis-en-el-sistema-de-salud-3567387",
+        "published_date": "2026-06-26 15:48:20",
         "category": "Local Events"
     },
     {
-        "title": "The Venezuelan migrant who became a leader in Cali and who promotes a donation campaign for her country devastated by earthquakes: this is how she can help",
+        "title": "Firefighters from Medell\u00edn and Envigado traveled to Venezuela to support search and rescue efforts after the two devastating earthquakes",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/la-migrante-venezolana-que-se-volvio-una-lideresa-en-cali-y-que-promueve-campana-de-donaciones-para-su-pais-devastado-por-terremotos-asi-puede-ayudar-3567181",
-        "published_date": "2026-06-25 21:29:29",
+        "url": "https://www.eltiempo.com/colombia/medellin/bomberos-de-medellin-y-envigado-viajaron-a-venezuela-para-apoyar-las-labores-de-busqueda-y-rescate-tras-los-dos-terremotos-devastadores-3567363",
+        "published_date": "2026-06-26 15:21:55",
         "category": "Local Events"
     },
     {
-        "title": "U. of Antioquia has a new rector and he is not in the governor's favor",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/u-de-antioquia-tiene-nuevo-rector-y-no-es-de-la-cuerda-del-gobernador/",
-        "published_date": "2026-06-25 20:26:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cHe sold us out\u201d: Petrista activists criticize Cepeda's campaign",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/nos-vendio-activistas-petristas-critican-campana-de-cepeda/",
-        "published_date": "2026-06-25 20:21:24",
+        "title": "Man reported that they did not let him enter the Medell\u00edn Metro with his dog and the company responded",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/hombre-denuncio-que-no-lo-dejaron-ingresar-al-metro-de-medellin-con-su-perrita-y-la-empresa-respondio-3567351",
+        "published_date": "2026-06-26 15:12:56",
         "category": "Local Events"
     }
 ]
