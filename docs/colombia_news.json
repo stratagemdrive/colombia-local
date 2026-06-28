@@ -385,10 +385,38 @@
         "category": "Economy"
     },
     {
+        "title": "Digital science and technology communities in the era of WhatsApp",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-ciencia-e-innovacion/comunidades-digitales-de-ciencia-y-tecnologia-en-la-era-del-whatsapp/",
+        "published_date": "2026-06-28 12:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Abelardo comes to power with the help of AI and following the model of the new right",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/siguiendo-el-modelo-de-la-nueva-derecha-abelardo-llega-al-poder-con-ayuda-de-la-ia/",
+        "published_date": "2026-06-28 05:05:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The new right cannot govern with the discourse with which they won",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/el-discurso-con-el-que-ganan-las-nuevas-derechas-no-es-con-el-que-pueden-gobernar/",
+        "published_date": "2026-06-28 05:00:00",
+        "category": "Local Events"
+    },
+    {
         "title": "Venezuela already has 1,430 deaths from the earthquake",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/venezuela-ya-suma-1-430-muertos-por-terremoto/",
         "published_date": "2026-06-27 22:53:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tremor today in Colombia |They report an earthquake of magnitude 3.2 on the night of this Saturday, June 27, 2026;epicenter and depth: did you feel it?",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-hoy-en-colombia-reportan-sismo-de-magnitud-3-2-en-la-noche-de-este-sabado-27-de-junio-de-2026-epicentro-y-profundidad-lo-sintio-3567624",
+        "published_date": "2026-06-27 22:17:46",
         "category": "Local Events"
     },
     {
@@ -494,34 +522,6 @@
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/otras-ciudades/ninos-de-barrio-popular-de-cartagena-lanzan-colecta-en-vaki-para-financiar-su-primera-pelicula-comunitaria-la-chancleta-cine-contra-el-estigma-3567557",
         "published_date": "2026-06-27 14:36:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "Congestion is reported on Avenida El Dorado, Autosur and V\u00eda al Llano",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/se-reporta-congestion-en-avenida-el-dorado-la-autosur-y-via-al-llano-4424806",
-        "published_date": "2026-06-27 14:35:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "The controversy returns in Nari\u00f1o over the homes where gunpowder is manufactured and stored without control: 'As if an atomic bomb had fallen'",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/vuelve-la-polemica-en-narino-por-las-viviendas-donde-fabrican-y-almacenan-polvora-sin-control-como-si-hubiera-caido-una-bomba-atomica-3567556",
-        "published_date": "2026-06-27 14:07:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Legalization, silences and a key date: this is how the case of Diomedes D\u00edaz's son, captured for alleged kidnapping and 'drop by drop' business, progresses",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/legalizacion-silencios-y-una-fecha-clave-asi-avanza-el-caso-del-hijo-de-diomedes-diaz-capturado-por-presunto-secuestro-y-negocios-de-gota-a-gota-3567558",
-        "published_date": "2026-06-27 14:01:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "They denounce that front men of the extradited 'Loco Barrera' seek to expel with blood and fire peasants awarded land in Puerto L\u00f3pez",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/denuncian-que-testaferros-del-extraditado-loco-barrera-buscan-expulsar-a-sangre-y-fuego-a-campesinos-adjudicatarios-de-predio-en-puerto-lopez-3567542",
-        "published_date": "2026-06-27 13:25:41",
         "category": "Local Events"
     }
 ]
