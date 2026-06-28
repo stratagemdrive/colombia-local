@@ -1,5 +1,19 @@
 [
     {
+        "title": "Vice President Restrepo asks the chancellor to suspend appointments",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/vicepresidente-restrepo-pide-a-la-canciller-suspender-nombramientos/",
+        "published_date": "2026-06-27 22:37:34",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Elected government asked the Foreign Ministry not to make diplomatic appointments",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/gobierno-electo-solicito-a-la-cancilleria-no-realizar-nombramientos-hasta-el-7-de-agosto-4424922",
+        "published_date": "2026-06-27 21:56:09",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Colombia cannot afford to leave the UN and the OAS",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/colombia-no-puede-darse-el-lujo-de-salir-de-la-onu-y-la-oea/",
@@ -26,6 +40,13 @@
         "url": "https://www.eltiempo.com/colombia/otras-ciudades/unidad-nacional-de-gestion-de-riesgo-se-pronuncio-tras-fuerte-terremoto-de-7-de-magnitud-en-venezuela-descarta-amenaza-de-tsunami-en-colombia-3566846",
         "published_date": "2026-06-24 18:08:12",
         "category": "Diplomacy"
+    },
+    {
+        "title": "Peasant beneficiaries of the ANT denounced attacks and threats",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/campesinos-beneficiarios-de-la-ant-denunciaron-ataques-y-amenazas/",
+        "published_date": "2026-06-27 20:15:40",
+        "category": "Military"
     },
     {
         "title": "Dancing with the shark: the cost of entering the Shield of the Americas",
@@ -158,13 +179,6 @@
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/cali/lo-que-ocurrio-en-la-noche-del-21-de-junio-despues-de-las-elecciones-presidenciales-en-cali-esta-fue-la-victima-de-sicariato-en-una-concentracion-3566140",
         "published_date": "2026-06-22 15:15:00",
-        "category": "Military"
-    },
-    {
-        "title": "The business associations of Antioquia react to the triumph of Abelardo De La Espriella: they ask for fiscal reforms and security from the new Government",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/los-gremios-empresariales-de-antioquia-reaccionan-al-triunfo-de-abelardo-de-la-espriella-piden-reformas-fiscales-y-seguridad-al-nuevo-gobierno-3566093",
-        "published_date": "2026-06-22 10:08:36",
         "category": "Military"
     },
     {
@@ -308,6 +322,20 @@
         "category": "Energy"
     },
     {
+        "title": "The fiscal crisis that the new government inherits cannot wait",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/la-crisis-fiscal-que-hereda-el-nuevo-gobierno-no-da-espera/",
+        "published_date": "2026-06-27 19:51:02",
+        "category": "Economy"
+    },
+    {
+        "title": "Petro put the Minister of Finance in charge of the connection with De La Espriella",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/petro-puso-al-ministro-de-hacienda-al-frente-de-empalme-con-de-la-espriella-4424876",
+        "published_date": "2026-06-27 18:31:01",
+        "category": "Economy"
+    },
+    {
         "title": "Next Government would have to increase the quota for debt issuance with bonds",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/proximo-gobierno-tendria-que-aumentar-cupo-para-emision-de-deuda-con-bonos-4424329",
@@ -357,150 +385,143 @@
         "category": "Economy"
     },
     {
-        "title": "Gross debt as of May reached 60.6% of GDP, an amount equivalent to $1,169 trillion",
+        "title": "Venezuela already has 1,430 deaths from the earthquake",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/venezuela-ya-suma-1-430-muertos-por-terremoto/",
+        "published_date": "2026-06-27 22:53:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "Correction of history about Blindex",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/rectificacion-de-historia-sobre-blindex/",
+        "published_date": "2026-06-27 22:14:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "The end of deference towards Colombian elites",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/opinion/el-fin-de-la-deferencia-hacia-las-elites-colombianas/",
+        "published_date": "2026-06-27 21:10:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "Keiko Fujimori will be the new president of Peru",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/keiko-fujimori-sera-la-nueva-presidenta-de-peru/",
+        "published_date": "2026-06-27 19:29:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "XM revealed that 321 MW have entered the electrical system of 4,475 MW expected by 2026",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/deuda-bruta-a-mayo-llego-a-60-6-del-pib-lo-que-equivale-a-1-169-billones-4418280",
-        "published_date": "2026-06-19 18:06:48",
-        "category": "Economy"
+        "url": "https://www.larepublica.co/economia/xm-revelo-que-han-ingresado-321-mw-al-sistema-electrico-de-4-475-mw-esperados-para-2026-4424867",
+        "published_date": "2026-06-27 19:06:59",
+        "category": "Local Events"
     },
     {
-        "title": "\"There are opportunities to grow in other departments such as Choc\u00f3 and Caquet\u00e1\"",
+        "title": "Urab\u00e1 tests Colombia's development model",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-rural/uraba-pone-a-prueba-el-modelo-de-desarrollo-de-colombia/",
+        "published_date": "2026-06-27 19:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Negotiate or not govern",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/opinion/negocia-o-no-gobierna/",
+        "published_date": "2026-06-27 18:40:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "Suspended in the void 20 meters high: the unusual accident of a car that was left hanging from the seventh floor of a parking lot in Rionegro",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/suspendido-en-el-vacio-a-20-metros-de-altura-el-insolito-accidente-de-un-carro-que-quedo-colgando-del-septimo-piso-de-un-parqueadero-en-rionegro-3567594",
+        "published_date": "2026-06-27 18:26:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "Video |Controversy in Barranquilla due to the appearance of alias Ot\u00f3n in a recording from La Tramac\u00faa prison: he is extorting and says 'not to copy from Castor'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/video-polemica-en-barranquilla-por-aparicion-de-alias-oton-en-grabacion-desde-la-carcel-la-tramacua-esta-extorsionando-y-dice-no-copiar-de-castor-3567590",
+        "published_date": "2026-06-27 18:02:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "After the murder of Mateo P\u00e9rez, the new threats from the Gulf Clan against a journalist in Antioquia raise alarms",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/tras-el-asesinato-de-mateo-perez-las-nuevas-amenazas-del-clan-del-golfo-contra-un-periodista-en-antioquia-encienden-las-alertas-3567589",
+        "published_date": "2026-06-27 17:56:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "Dian tax collection totaled $139.2 billion until May and grew 9% annually",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/inside-lr-con-german-bahamon-gerente-general-de-fedecafe-sobre-las-oportunidades-de-expansion-del-sector-4423248",
-        "published_date": "2026-06-27 05:03:32",
+        "url": "https://www.larepublica.co/economia/recaudo-de-la-dian-totalizo-139-2-billones-hasta-mayo-y-crecio-9-anual-4424844",
+        "published_date": "2026-06-27 17:23:41",
         "category": "Local Events"
     },
     {
-        "title": "The Shield of the Americas does not replace a national strategy",
+        "title": "The photo: Abelardo meets with Governor Rend\u00f3n in Antioquia",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/el-escudo-de-las-americas-no-reemplaza-una-estrategia-nacional/",
-        "published_date": "2026-06-27 05:00:00",
+        "url": "https://www.lasillavacia.com/en-vivo/la-foto-abelardo-se-reune-con-el-gobernador-rendon-en-antioquia/",
+        "published_date": "2026-06-27 17:21:21",
         "category": "Local Events"
     },
     {
-        "title": "Semana published 133 Abelardo campaign videos between the first and second round",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/semana-publico-133-videos-de-campana-de-abelardo-entre-primera-y-segunda-vuelta/",
-        "published_date": "2026-06-27 01:44:35",
+        "title": "They capture the alleged perpetrator of an armed attack and threat of eviction against farmers who had just received land from the State in Meta",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/capturan-a-senalado-autor-de-ataque-armado-y-amenaza-de-desalojo-contra-campesinos-que-acababan-de-recibir-tierras-del-estado-en-el-meta-3567582",
+        "published_date": "2026-06-27 16:24:57",
         "category": "Local Events"
     },
     {
-        "title": "Petro recognized presidential results and assured that \"he is ready for the union\"",
+        "title": "Public specifications, objective selection and zero debt: the clear rules with which Emcali seeks an ally for the modernization of lighting",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/pliegos-publicos-seleccion-objetiva-y-cero-deuda-las-reglas-claras-con-las-que-emcali-busca-aliado-para-la-modernizacion-del-alumbrado-3567574",
+        "published_date": "2026-06-27 15:48:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Earthquakes in Venezuela: Colombian rescuers save an 11-year-old boy who was under tons of rubble from the tragedy in La Guaira",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/terremotos-en-venezuela-rescatistas-colombianos-salvan-a-un-nino-de-11-anos-que-estaba-bajo-toneladas-de-escombros-de-la-tragedia-en-la-guaira-3567569",
+        "published_date": "2026-06-27 15:41:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "Children from a popular neighborhood in Cartagena launch a collection in Vaki to finance their first community film: 'La Chancleta', cinema against stigma",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/ninos-de-barrio-popular-de-cartagena-lanzan-colecta-en-vaki-para-financiar-su-primera-pelicula-comunitaria-la-chancleta-cine-contra-el-estigma-3567557",
+        "published_date": "2026-06-27 14:36:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "Congestion is reported on Avenida El Dorado, Autosur and V\u00eda al Llano",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/petro-reconocio-resultados-presidenciales-y-aseguro-que-esta-listo-para-el-empalme-4424635",
-        "published_date": "2026-06-27 01:09:08",
+        "url": "https://www.larepublica.co/economia/se-reporta-congestion-en-avenida-el-dorado-la-autosur-y-via-al-llano-4424806",
+        "published_date": "2026-06-27 14:35:28",
         "category": "Local Events"
     },
     {
-        "title": "Remittances accumulate 24 months above the US$1 billion barrier",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/remesas-acumulan-24-meses-por-encima-de-la-barrera-de-us-1-000-millones-4424461",
-        "published_date": "2026-06-27 01:02:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "Outrageous: the missionary nuns of the birthplace of Santa Laura Montoya in Jeric\u00f3, Antioquia, were victims of a million-dollar robbery",
+        "title": "The controversy returns in Nari\u00f1o over the homes where gunpowder is manufactured and stored without control: 'As if an atomic bomb had fallen'",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/indignante-las-monjas-misioneras-de-la-casa-natal-de-santa-laura-montoya-en-jerico-antioquia-fueron-victimas-de-un-millonario-robo-3567488",
-        "published_date": "2026-06-27 00:39:53",
+        "url": "https://www.eltiempo.com/colombia/cali/vuelve-la-polemica-en-narino-por-las-viviendas-donde-fabrican-y-almacenan-polvora-sin-control-como-si-hubiera-caido-una-bomba-atomica-3567556",
+        "published_date": "2026-06-27 14:07:58",
         "category": "Local Events"
     },
     {
-        "title": "Sleep informed with the news of this June 26, 2026",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-noticias-de-este-26-de-junio-de-2026/",
-        "published_date": "2026-06-27 00:38:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "The trill: Petro \u201cobeys judges\u201d and announces \u201cdemocratic transition\u201d",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/el-trino-petro-acata-jueces-y-anuncia-transicion-democratica/",
-        "published_date": "2026-06-27 00:08:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cartagena: after almost two decades of waiting, the Ministry of Culture approved the Protection Plan for the Historic Center (PEMP)",
+        "title": "Legalization, silences and a key date: this is how the case of Diomedes D\u00edaz's son, captured for alleged kidnapping and 'drop by drop' business, progresses",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/cartagena-tras-casi-dos-decadas-de-espera-el-ministerio-de-cultura-aprobo-el-plan-de-proteccion-para-el-centro-historico-pemp-3567483",
-        "published_date": "2026-06-26 23:53:05",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/legalizacion-silencios-y-una-fecha-clave-asi-avanza-el-caso-del-hijo-de-diomedes-diaz-capturado-por-presunto-secuestro-y-negocios-de-gota-a-gota-3567558",
+        "published_date": "2026-06-27 14:01:00",
         "category": "Local Events"
     },
     {
-        "title": "Nukak are in the middle of the dispute between \u201cCalarc\u00e1\u201d and \u201cMordisco\u201d: report",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/nukak-estan-en-medio-de-la-disputa-entre-calarca-y-mordisco-reportaje/",
-        "published_date": "2026-06-26 23:47:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mayor Federico Guti\u00e9rrez denounced that they did not let in the Medell\u00edn firefighters sent to help after the earthquakes in Venezuela: 'Absurd'",
+        "title": "They denounce that front men of the extradited 'Loco Barrera' seek to expel with blood and fire peasants awarded land in Puerto L\u00f3pez",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/alcalde-federico-gutierrez-denuncio-que-no-dejaron-entrar-a-los-bomberos-de-medellin-enviados-para-ayudar-tras-los-terremotos-en-venezuela-absurdo-3567479",
-        "published_date": "2026-06-26 23:39:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "After five hours detained, the Government of Venezuela authorized the entry of Medell\u00edn firefighters to support the emergency after the earthquakes",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/gobierno-de-venezuela-no-ha-dejado-entrar-a-la-escuadrilla-de-bomberos-de-medellin-que-viajaron-a-apoyar-tras-los-terremotos-federico-gutierrez-3567481",
-        "published_date": "2026-06-26 23:36:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "After a month in office, president of Fiduprevisora \u200b\u200bleaves",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/tras-un-mes-en-el-cargo-sale-presidente-de-fiduprevisora/",
-        "published_date": "2026-06-26 23:30:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "What lies ahead for Medell\u00edn and Antioquia with the arrival of a new government: from rivalries with Petro to coordination with De la Espriella",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/lo-que-le-depara-a-medellin-y-antioquia-con-la-llegada-de-un-nuevo-gobierno-de-las-rivalidades-con-petro-a-la-articulacion-con-de-la-espriella-3567417",
-        "published_date": "2026-06-26 22:40:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "Petro to De la Espriella: \u201cCongratulations, he knew how to do it well\u201d",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/petro-a-de-la-espriella-felicitaciones-la-supo-hacer-bien/",
-        "published_date": "2026-06-26 22:37:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cCrime would be promoted\u201d: Ministry of Defense on Danilo Rueda and the Clan",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/se-estaria-promoviendo-el-crimen-mindefensa-sobre-danilo-rueda-y-el-clan/",
-        "published_date": "2026-06-26 22:03:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "Rents through the roof: the data that shows why Medell\u00edn became priceless for its own inhabitants",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/arriendos-por-las-nubes-los-datos-que-demuestran-por-que-medellin-se-volvio-impagable-para-sus-propios-habitantes-3567410",
-        "published_date": "2026-06-26 22:01:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "New earthquake today in Colombia |SGC reported an earthquake during the night of this Friday, June 26: Internet users reported that it felt strong",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-hoy-en-colombia-sismo-durante-la-noche-de-este-viernes-26-de-junio-internautas-reportan-que-se-sintio-fuerte-en-varias-ciudades-3567461",
-        "published_date": "2026-06-26 21:34:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "This is how Iv\u00e1n Cepeda managed to come back in the Caribbean",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/asi-logro-ivan-cepeda-remontar-en-el-caribe/",
-        "published_date": "2026-06-26 21:28:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "They ask to investigate the Medell\u00edn councilor's apology for violence",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/rechazan-y-piden-investigar-apologia-a-la-violencia-de-concejal-de-medellin/",
-        "published_date": "2026-06-26 20:54:27",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/denuncian-que-testaferros-del-extraditado-loco-barrera-buscan-expulsar-a-sangre-y-fuego-a-campesinos-adjudicatarios-de-predio-en-puerto-lopez-3567542",
+        "published_date": "2026-06-27 13:25:41",
         "category": "Local Events"
     }
 ]
