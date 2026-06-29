@@ -56,6 +56,13 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Army rescues 17 indigenous people held two weeks ago in La Guajira: a baby died and another minor was injured in the midst of a dispute between clans",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/ejercito-rescata-a-17-indigenas-retenidos-hace-dos-semanas-en-la-guajira-una-bebe-murio-y-otra-menor-resulto-herida-en-medio-de-disputa-entre-clanes-3567761",
+        "published_date": "2026-06-29 09:05:00",
+        "category": "Military"
+    },
+    {
         "title": "Incoming government asked the DNP to refrain from making new appointments",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/restrepo-vicepresidente-electo-pidio-al-dnp-abstenerse-de-realizar-nombramientos-4425140",
@@ -189,11 +196,11 @@
         "category": "Military"
     },
     {
-        "title": "The story of Mosly, the dog specialized in detecting explosives for the National Army whose life was taken by lightning in Antioquia",
+        "title": "Relatives in Cartagena of two young people missing in the Caribbean Sea cry for their return: they were traveling on a jet ski",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/la-historia-de-mosly-la-perra-especializada-en-la-deteccion-de-explosivos-para-el-ejercito-nacional-a-la-que-un-rayo-le-quito-la-vida-en-antioquia-3566561",
-        "published_date": "2026-06-23 19:20:32",
-        "category": "Military"
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/familiares-en-cartagena-de-dos-jovenes-desaparecidos-en-el-mar-caribe-claman-por-su-regreso-viajaban-en-una-moto-acuatica-3567765",
+        "published_date": "2026-06-29 09:39:55",
+        "category": "Energy"
     },
     {
         "title": "Superservicios and Electrovichada agreed to guarantee energy service",
@@ -329,13 +336,6 @@
         "category": "Energy"
     },
     {
-        "title": "Questions and answers about fracking in Colombia",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/preguntas-y-respuestas-alrededor-del-fracking-en-colombia/",
-        "published_date": "2026-06-23 23:27:08",
-        "category": "Energy"
-    },
-    {
         "title": "The fiscal crisis that the new government inherits cannot wait",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/red-de-expertos/red-social/la-crisis-fiscal-que-hereda-el-nuevo-gobierno-no-da-espera/",
@@ -392,6 +392,20 @@
         "category": "Economy"
     },
     {
+        "title": "\u201cBogot\u00e1 will be a priority\u201d: De la Espriella meets with Gal\u00e1n",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/bogota-sera-prioridad-de-la-espriella-se-reune-con-galan/",
+        "published_date": "2026-06-29 14:40:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The last game of 'Zurdo' in Palmira: authorities investigate the death of a 17-year-old soccer promise",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/el-ultimo-partido-del-zurdo-en-palmira-autoridades-investigan-la-muerte-de-una-promesa-del-futbol-de-17-anos-3567758",
+        "published_date": "2026-06-29 09:09:18",
+        "category": "Local Events"
+    },
+    {
         "title": "LGBTIQ+ pride: this is how the marches progress in Bogot\u00e1",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/orgullo-lgbtiq-asi-avanzan-las-marchas-en-bogota/",
@@ -399,10 +413,38 @@
         "category": "Local Events"
     },
     {
+        "title": "Comptroller's Office begins audits of the company Aguas de Cartagena, today questioned by Mayor Dumek Turbay due to constant rationing",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/contraloria-inicia-auditorias-a-la-empresa-aguas-de-cartagena-hoy-cuestionada-por-el-alcalde-dumek-turbay-ante-los-constantes-racionamientos-3567704",
+        "published_date": "2026-06-28 21:12:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tragedy in Santa Marta: violent collision between two tourist boats on Taganga beach left one person dead",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/tragedia-en-santa-marta-violento-choque-entre-dos-lanchas-turisticas-en-playa-de-taganga-dejo-a-una-persona-fallecida-3567718",
+        "published_date": "2026-06-28 20:05:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Is your liquor legal?How to identify adulterated products and avoid smuggling during the World Cup Soccer season",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/su-licor-es-legal-como-identificar-productos-adulterados-y-evitar-caer-en-el-contrabando-durante-la-temporada-de-la-copa-mundial-de-futbol-3567710",
+        "published_date": "2026-06-28 19:36:41",
+        "category": "Local Events"
+    },
+    {
         "title": "Pulse between Uribismo and Juco through video of his political secretary",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/pulso-entre-el-uribismo-y-la-juco-por-video-de-su-secretaria-politica/",
         "published_date": "2026-06-28 19:19:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "Barranquilla |La Magdalena opens a complete sports center: this is the new baseball and boxing complex that seeks a transformation of the southeast",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-la-magdalena-estrena-polideportivo-completo-asi-es-el-nuevo-complejo-de-beisbol-y-boxeo-que-busca-una-transformacion-del-suroriente-3567709",
+        "published_date": "2026-06-28 19:01:36",
         "category": "Local Events"
     },
     {
@@ -487,48 +529,6 @@
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/silla-nacional/siguiendo-el-modelo-de-la-nueva-derecha-abelardo-llega-al-poder-con-ayuda-de-la-ia/",
         "published_date": "2026-06-28 05:05:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The new right cannot govern with the discourse with which they won",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/el-discurso-con-el-que-ganan-las-nuevas-derechas-no-es-con-el-que-pueden-gobernar/",
-        "published_date": "2026-06-28 05:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Venezuela already has 1,430 deaths from the earthquake",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/venezuela-ya-suma-1-430-muertos-por-terremoto/",
-        "published_date": "2026-06-27 22:53:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tremor today in Colombia |They report an earthquake of magnitude 3.2 on the night of this Saturday, June 27, 2026;epicenter and depth: did you feel it?",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-hoy-en-colombia-reportan-sismo-de-magnitud-3-2-en-la-noche-de-este-sabado-27-de-junio-de-2026-epicentro-y-profundidad-lo-sintio-3567624",
-        "published_date": "2026-06-27 22:17:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Correction of history about Blindex",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/rectificacion-de-historia-sobre-blindex/",
-        "published_date": "2026-06-27 22:14:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "The end of deference towards Colombian elites",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/opinion/el-fin-de-la-deferencia-hacia-las-elites-colombianas/",
-        "published_date": "2026-06-27 21:10:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Keiko Fujimori will be the new president of Peru",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/keiko-fujimori-sera-la-nueva-presidenta-de-peru/",
-        "published_date": "2026-06-27 19:29:58",
         "category": "Local Events"
     }
 ]
