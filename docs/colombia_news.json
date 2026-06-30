@@ -56,6 +56,13 @@
         "category": "Diplomacy"
     },
     {
+        "title": "11 accidents, 4 deaths, 122 arrests and 14 arrests: the balance of the festive bridge on the roads of Valle del Cauca",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/11-siniestros-4-muertos-122-comparendos-y-14-capturas-el-balance-del-puente-festivo-en-vias-del-valle-del-cauca-3567825",
+        "published_date": "2026-06-29 18:23:51",
+        "category": "Military"
+    },
+    {
         "title": "Army rescues 17 indigenous people held two weeks ago in La Guajira: a baby died and another minor was injured in the midst of a dispute between clans",
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/otras-ciudades/ejercito-rescata-a-17-indigenas-retenidos-hace-dos-semanas-en-la-guajira-una-bebe-murio-y-otra-menor-resulto-herida-en-medio-de-disputa-entre-clanes-3567761",
@@ -189,11 +196,11 @@
         "category": "Military"
     },
     {
-        "title": "Naturgas warns of a possible 17% reduction in proven gas reserves",
+        "title": "This weekend there were unexpected blackouts in several regions of Colombia",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/naturgas-alerta-por-disminucion-en-las-reservas-probadas-de-gas-natural-en-17-4421805",
-        "published_date": "2026-06-24 01:45:55",
-        "category": "Military"
+        "url": "https://www.larepublica.co/economia/este-fin-de-semana-se-presentaron-apagones-inesperados-en-varias-regiones-de-colombia-4425263",
+        "published_date": "2026-06-29 22:57:58",
+        "category": "Energy"
     },
     {
         "title": "Relatives in Cartagena of two young people missing in the Caribbean Sea cry for their return: they were traveling on a jet ski",
@@ -329,13 +336,6 @@
         "category": "Energy"
     },
     {
-        "title": "Oil reserves are only enough for 7.4 years and gas reserves for 5.9 years.",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/reservas-de-petroleo-solo-alcanzan-para-7-4-anos-y-las-de-gas-para-5-9-anos-4421761",
-        "published_date": "2026-06-24 05:03:51",
-        "category": "Energy"
-    },
-    {
         "title": "The fiscal crisis that the new government inherits cannot wait",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/red-de-expertos/red-social/la-crisis-fiscal-que-hereda-el-nuevo-gobierno-no-da-espera/",
@@ -392,6 +392,111 @@
         "category": "Economy"
     },
     {
+        "title": "Gustavo Petro assured that he will not hand over the defunded State to the next government",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/gustavo-petro-aseguro-que-no-entregara-el-estado-desfinanciado-al-proximo-gobierno-4425292",
+        "published_date": "2026-06-29 23:21:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "The scrutiny ends in Peru: Keiko Fujimori will be the new president",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/acaba-el-escrutinio-en-peru-keiko-fujimori-sera-la-nueva-presidenta/",
+        "published_date": "2026-06-29 22:22:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "Sanguino attacks alert for possible formation of union in MinAgricultura",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/sanguino-arremete-contra-alerta-por-posible-conformacion-de-sindicato-en-minagricultura-4425282",
+        "published_date": "2026-06-29 22:13:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Petro and De la Espriella respond to letter from Karol G to the president-elect",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/petro-y-de-la-espriella-responden-carta-de-karol-g-al-presidente-electo/",
+        "published_date": "2026-06-29 20:49:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "Peace will be incomplete as long as rural women heal alone",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-rural/la-paz-sera-incompleta-mientras-las-mujeres-rurales-sanen-solas/",
+        "published_date": "2026-06-29 19:45:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "President Gustavo Petro will meet with Pope Leo XIV in Vatican City",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/el-presidente-gustavo-petro-viajo-a-ciudad-del-vaticano-para-reunirse-con-el-papa-leon-xiv-4425245",
+        "published_date": "2026-06-29 19:21:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "Third humanitarian flight to Venezuela will bring back 47 Colombians",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/tercer-vuelo-humanitario-a-venezuela-traera-de-regreso-a-47-colombianos/",
+        "published_date": "2026-06-29 18:40:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Luciana Dangond and Ger\u00f3nimo Ibarra appeared alive on the island of Bar\u00fa;They were rescued by fishermen",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/luciana-dangond-y-geronimo-ibarra-aparecieron-con-vida-en-la-isla-de-baru-abelardo-de-la-espriella-3567785",
+        "published_date": "2026-06-29 17:52:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Barranquilla |They offer $20 million for information about those responsible for the massacre in Los Olivos I: there are four dead and three injured",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-ofrecen-20-millones-por-informacion-acerca-de-los-responsables-de-masacre-en-los-olivos-i-hay-cuatro-muertos-y-tres-heridos-3567822",
+        "published_date": "2026-06-29 17:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Petro arrived in Rome to meet with Pope Leo XIV",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/petro-viaja-a-roma-para-reunirse-con-el-papa-leon-xiv/",
+        "published_date": "2026-06-29 17:15:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "Can an earthquake like the one in Venezuela occur in the Colombian Caribbean?This expert warns about vulnerabilities and lack of preparation",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/puede-ocurrir-un-terremoto-como-el-de-venezuela-en-el-caribe-colombiano-este-experto-advierte-sobre-vulnerabilidades-y-falta-de-preparacion-3567799",
+        "published_date": "2026-06-29 17:05:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Bogot\u00e1 recognizes the feminicide risk, but lacks the capacity to protect",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-cachaca/bogota-reconoce-el-riesgo-feminicida-pero-le-falta-capacidad-para-proteger/",
+        "published_date": "2026-06-29 16:45:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "They took him out of the car with a fake crash and held him in an abandoned building: the 70-hour nightmare of a Cali merchant",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/lo-bajaron-del-carro-con-un-choque-fingido-y-lo-retuvieron-en-un-inmueble-abandonado-la-pesadilla-de-70-horas-de-un-comerciante-caleno-3567806",
+        "published_date": "2026-06-29 16:36:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "Venezuela: new aftershock shakes the northern coast",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/venezuela-nueva-replica-sacude-la-costa-norte/",
+        "published_date": "2026-06-29 15:50:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Without being a technology expert: Medell\u00edn teaches you artificial intelligence from scratch so that you can access the jobs of the future",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/sin-ser-experto-en-tecnologia-medellin-le-ensena-inteligencia-artificial-desde-cero-para-que-acceda-a-los-empleos-del-futuro-3567805",
+        "published_date": "2026-06-29 15:24:24",
+        "category": "Local Events"
+    },
+    {
         "title": "\u201cBogot\u00e1 will be a priority\u201d: De la Espriella meets with Gal\u00e1n",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/bogota-sera-prioridad-de-la-espriella-se-reune-con-galan/",
@@ -399,136 +504,31 @@
         "category": "Local Events"
     },
     {
-        "title": "The last game of 'Zurdo' in Palmira: authorities investigate the death of a 17-year-old soccer promise",
+        "title": "Former indigenous governor Jhonier Mina is held in El Tambo: alleged dissidents steal his armored vehicle and the weapons of his escort",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/el-ultimo-partido-del-zurdo-en-palmira-autoridades-investigan-la-muerte-de-una-promesa-del-futbol-de-17-anos-3567758",
-        "published_date": "2026-06-29 09:09:18",
+        "url": "https://www.eltiempo.com/colombia/cali/retienen-al-exgobernador-indigena-jhonier-mina-en-el-tambo-presuntas-disidencias-se-roban-su-vehiculo-blindado-y-el-armamento-de-su-escolta-3567792",
+        "published_date": "2026-06-29 12:50:38",
         "category": "Local Events"
     },
     {
-        "title": "LGBTIQ+ pride: this is how the marches progress in Bogot\u00e1",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/orgullo-lgbtiq-asi-avanzan-las-marchas-en-bogota/",
-        "published_date": "2026-06-28 21:30:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Comptroller's Office begins audits of the company Aguas de Cartagena, today questioned by Mayor Dumek Turbay due to constant rationing",
+        "title": "A 17-year-old teenager who had disappeared on the beaches of Salgar, Atl\u00e1ntico, is found dead: the young man had come for a walk from Bogot\u00e1",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/contraloria-inicia-auditorias-a-la-empresa-aguas-de-cartagena-hoy-cuestionada-por-el-alcalde-dumek-turbay-ante-los-constantes-racionamientos-3567704",
-        "published_date": "2026-06-28 21:12:33",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/hallan-sin-vida-a-adolescente-de-17-anos-que-habia-desaparecido-en-playas-de-salgar-atlantico-el-joven-habia-venido-de-paseo-desde-bogota-3567795",
+        "published_date": "2026-06-29 12:40:00",
         "category": "Local Events"
     },
     {
-        "title": "Tragedy in Santa Marta: violent collision between two tourist boats on Taganga beach left one person dead",
+        "title": "Death toll from explosion in alleged clandestine gunpowder factory in La Uni\u00f3n, Nari\u00f1o increases to two",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/tragedia-en-santa-marta-violento-choque-entre-dos-lanchas-turisticas-en-playa-de-taganga-dejo-a-una-persona-fallecida-3567718",
-        "published_date": "2026-06-28 20:05:00",
+        "url": "https://www.eltiempo.com/colombia/cali/aumentan-a-dos-los-muertos-por-explosion-en-presunta-fabrica-clandestina-de-polvora-en-la-union-narino-3567784",
+        "published_date": "2026-06-29 11:51:32",
         "category": "Local Events"
     },
     {
-        "title": "Is your liquor legal?How to identify adulterated products and avoid smuggling during the World Cup Soccer season",
+        "title": "With $31.5 billion and delivery in 2027, Medell\u00edn lays the first stone of the Rafael Uribe Uribe mega-school in La Am\u00e9rica",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/su-licor-es-legal-como-identificar-productos-adulterados-y-evitar-caer-en-el-contrabando-durante-la-temporada-de-la-copa-mundial-de-futbol-3567710",
-        "published_date": "2026-06-28 19:36:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "Pulse between Uribismo and Juco through video of his political secretary",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/pulso-entre-el-uribismo-y-la-juco-por-video-de-su-secretaria-politica/",
-        "published_date": "2026-06-28 19:19:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "Barranquilla |La Magdalena opens a complete sports center: this is the new baseball and boxing complex that seeks a transformation of the southeast",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-la-magdalena-estrena-polideportivo-completo-asi-es-el-nuevo-complejo-de-beisbol-y-boxeo-que-busca-una-transformacion-del-suroriente-3567709",
-        "published_date": "2026-06-28 19:01:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "Council of State studies loss of investiture of Ciro Ram\u00edrez",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/consejo-de-estado-estudia-demanda-de-perdida-de-investidura-de-ciro-ramirez/",
-        "published_date": "2026-06-28 17:25:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Illegal addresses with an app facade: this is how 'la Caldera', the micro-trafficking network dismantled in Comuna 21 of Cali, operated",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/domicilios-ilegales-con-fachada-de-apps-asi-operaba-la-caldera-la-red-de-microtrafico-desmantelada-en-la-comuna-21-de-cali-3567684",
-        "published_date": "2026-06-28 15:21:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cThere is his house\u201d: Petro responds to Restrepo's request",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/ahi-tiene-su-casa-petro-responde-a-peticion-de-restrepo/",
-        "published_date": "2026-06-28 15:17:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "Exhumation in C\u00f3rdoba could resolve the forced disappearance of six members of the same family that occurred in 1987: they were from a rural area of \u200b\u200bMonter\u00eda",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/exhumacion-en-cordoba-podria-resolver-desaparicion-forzada-de-seis-miembros-de-una-misma-familia-ocurrida-en-1987-eran-de-una-zona-rural-de-monteria-3567683",
-        "published_date": "2026-06-28 15:01:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Start Sunday, June 28 with this selection of opinion columns",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/comience-el-domingo-28-de-junio-con-esta-seleccion-de-columnas-de-opinion/",
-        "published_date": "2026-06-28 13:32:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "Forced displacements do not stop in Nari\u00f1o: the phenomenon has worsened in about 14 municipalities due to the intense armed conflict",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/los-desplazamientos-forzados-no-cesan-en-narino-el-fenomeno-se-ha-agudizado-en-cerca-de-14-municipios-debido-al-intenso-conflicto-armado-3567676",
-        "published_date": "2026-06-28 12:57:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "This is how the Cali 2026 Half Marathon was experienced: these were the champions of a day that brought together 20,000 athletes",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/asi-se-vivio-la-media-maraton-de-cali-2026-estos-fueron-los-campeones-de-una-jornada-que-reunio-a-20-000-atletas-3567674",
-        "published_date": "2026-06-28 12:43:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Digital science and technology communities in the era of WhatsApp",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-ciencia-e-innovacion/comunidades-digitales-de-ciencia-y-tecnologia-en-la-era-del-whatsapp/",
-        "published_date": "2026-06-28 12:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "This was the heritage detriment in Ungu\u00eda, Choc\u00f3, for $3,556 million with works to mitigate floods during the mandate of Otoniel P\u00e9rez S\u00e1enz",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/asi-fue-el-detrimento-patrimonial-en-unguia-choco-por-3-556-millones-con-obras-para-mitigar-inundaciones-durante-el-mandato-de-otoniel-perez-saenz-3567664",
-        "published_date": "2026-06-28 11:49:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "Safe meat on the table: Medell\u00edn intensifies health control at 1,033 stores to prevent public health risks",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/carne-segura-en-la-mesa-medellin-intensifica-el-control-sanitario-a-1-033-expendios-para-prevenir-riesgos-en-la-salud-publica-3567660",
-        "published_date": "2026-06-28 11:04:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "More than $ 1,600 million per semester: the illicit income of four alleged members of 'la Inmaculada' who extorted in Tulu\u00e1",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/mas-de-1-600-millones-al-semestre-las-rentas-ilicitas-de-cuatro-presuntos-integrantes-de-la-inmaculada-que-extorsionaban-en-tulua-3567652",
-        "published_date": "2026-06-28 09:52:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "Abelardo comes to power with the help of AI and following the model of the new right",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/siguiendo-el-modelo-de-la-nueva-derecha-abelardo-llega-al-poder-con-ayuda-de-la-ia/",
-        "published_date": "2026-06-28 05:05:00",
+        "url": "https://www.eltiempo.com/colombia/medellin/con-31-500-millones-y-entrega-en-2027-medellin-pone-la-primera-piedra-del-megacolegio-rafael-uribe-uribe-en-la-america-3567778",
+        "published_date": "2026-06-29 11:15:10",
         "category": "Local Events"
     }
 ]
