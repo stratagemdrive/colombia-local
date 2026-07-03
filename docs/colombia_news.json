@@ -49,6 +49,13 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Men from the 'Luis Carlos C\u00e1rdenas Arbel\u00e1ez' front of the ELN incinerated a tractor-trailer on the road that goes from Buga to Buenaventura, Valle: what is known",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/hombres-del-frente-luis-carlos-cardenas-arbelaez-incineraron-un-tractocamion-en-la-via-que-va-de-buga-a-buenaventura-en-el-valle-lo-que-se-sabe-3568716",
+        "published_date": "2026-07-03 07:37:11",
+        "category": "Military"
+    },
+    {
         "title": "Sleep informed with the keys for this July 1, 2026",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-claves-de-este-1-de-julio-de-2026/",
@@ -182,13 +189,6 @@
         "category": "Military"
     },
     {
-        "title": "He fell for trying to rob a police officer: the end of the dangerous criminal from Santa Marta who walked around the United States watching the Colombian National Team",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/cayo-por-intentar-robar-a-un-policia-el-fin-del-peligroso-delincuente-de-santa-marta-que-se-paseaba-por-estados-unidos-viendo-a-la-seleccion-colombia-3567135",
-        "published_date": "2026-06-25 18:35:00",
-        "category": "Military"
-    },
-    {
         "title": "The dilemma of the next government: drug policy for Trump or for the country",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/el-dilema-del-proximo-gobierno-politica-de-drogas-para-trump-o-para-el-pais/",
@@ -312,20 +312,6 @@
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/carf-advierte-que-sin-ajuste-fiscal-deuda-bruta-podria-llegar-a-66-6-del-pib-en-2027-4422879",
         "published_date": "2026-06-25 12:56:51",
-        "category": "Energy"
-    },
-    {
-        "title": "El Ni\u00f1o phenomenon would leave the stock market energy reference at $1,000 per kilowatt-hour",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/el-nino-dejaria-la-referencia-de-energia-en-bolsa-en-1-000-el-kilovatio-hora-4422605",
-        "published_date": "2026-06-25 05:02:55",
-        "category": "Energy"
-    },
-    {
-        "title": "Ecopetrol clarifies that the Board has not evaluated the return of Ricardo Roa",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/ecopetrol-aclara-que-la-junta-no-ha-evaluado-el-retorno-de-ricardo-roa-4422904",
-        "published_date": "2026-06-25 05:00:44",
         "category": "Energy"
     },
     {
@@ -469,6 +455,111 @@
         "category": "Economy"
     },
     {
+        "title": "Rubiales and Ca\u00f1o Sur produced 18.8% of the total national crude oil in the last 10 years",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/rubiales-y-cano-sur-produjeron-18-8-del-crudo-nacional-en-la-ultima-decada-4428284",
+        "published_date": "2026-07-03 12:37:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "Have an informed breakfast with the keys for this July 3, 2026",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-claves-de-este-3-de-julio-de-2026/",
+        "published_date": "2026-07-03 12:27:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "Politics in Venezuela after the earthquakes",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/la-politica-en-venezuela-tras-los-terremotos/",
+        "published_date": "2026-07-03 12:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Two tremors in Colombia today, Friday, July 3, in Casanare and Valle del Cauca: did you feel any of the movements?",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/dos-temblores-en-colombia-hoy-viernes-3-de-julio-en-casanare-y-valle-del-cauca-sintio-alguno-de-los-movimientos-3568709",
+        "published_date": "2026-07-03 07:16:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "De La Espriella wants his own political party and puts the CNE to the test",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/de-la-espriella-quiere-partido-politico-propio-y-pone-a-prueba-al-cne/",
+        "published_date": "2026-07-03 06:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Empalme started with the new Government asking not to file another tax reform",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/empalme-arranco-con-el-nuevo-gobierno-pidiendo-no-radicar-otra-reforma-tributaria-4428027",
+        "published_date": "2026-07-03 05:01:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "Colombia has 134,000 economists and 80,000 are in the labor market",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/cuantos-economistas-hay-en-colombia-hoy-3-de-julio-se-celebra-el-dia-del-economista-4427391",
+        "published_date": "2026-07-03 05:01:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "New government must reprofile internal and external debt for $716.5 billion",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/nuevo-gobierno-debera-reperfilar-deuda-interna-y-externa-por-cerca-de-716-5-billones-4427898",
+        "published_date": "2026-07-03 05:01:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "Schedule your tours!This is how the peak and plaque will govern in Bucaramanga this Friday, July 3, 2026",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/programe-sus-recorridos-asi-regira-el-pico-y-placa-en-bucaramanga-este-viernes-3-de-julio-de-3568575",
+        "published_date": "2026-07-03 02:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Medell\u00edn maintains the same peak and plate: this is how the restriction will operate this Friday, July 3, 2026",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/medellin-mantiene-el-mismo-pico-y-placa-asi-operara-la-restriccion-este-viernes-3-de-julio-de-3568469",
+        "published_date": "2026-07-03 02:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Be careful at the wheel!Peak and plate in Cali for Friday, July 3, 2026: this is how the measure will work",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/ojo-al-volante-pico-y-placa-en-cali-para-el-viernes-3-de-julio-de-2026-asi-funcionara-la-medida-3568281",
+        "published_date": "2026-07-03 02:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Acolgen asked the Court of Cundinamarca to resolve debt conflict in Air-e",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/acolgen-pidio-a-tribunal-de-cundinamarca-resolver-conflicto-de-las-deudas-de-air-e-4428073",
+        "published_date": "2026-07-03 01:03:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "Sleep informed with the keys for this July 2, 2026",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-claves-de-este-2-de-julio-de-2026/",
+        "published_date": "2026-07-03 00:52:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "Supersalud gives Nueva EPS an ultimatum to present financial statements",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/supersalud-da-ultimatum-a-nueva-eps-para-presentar-estados-financieros/",
+        "published_date": "2026-07-03 00:44:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Data centers emit the equivalent of a country with 20 million inhabitants",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/centros-de-datos-emiten-lo-equivalente-a-un-pais-con-20-millones-de-habitantes/",
+        "published_date": "2026-07-03 00:07:47",
+        "category": "Local Events"
+    },
+    {
         "title": "Fabio Arjona will be Abelardo's Minister of the Environment",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/fabio-arjona-sera-el-ministro-de-ambiente-de-abelardo/",
@@ -490,122 +581,17 @@
         "category": "Local Events"
     },
     {
+        "title": "Authorities investigate and identify hooded men for disorders in the surroundings of the Universidad del Valle",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/autoridades-investigan-e-individualizan-a-encapuchados-por-desordenes-en-los-alrededores-de-la-universidad-del-valle-3568681",
+        "published_date": "2026-07-02 22:48:04",
+        "category": "Local Events"
+    },
+    {
         "title": "New 35% tariff on float glass imports from countries without FTA",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/nuevo-arancel-de-35-a-importaciones-de-vidrio-flotado-desde-paises-sin-tlc-4427825",
         "published_date": "2026-07-02 22:01:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Petro leaves the pot scraped to De la Espriella and delivers finances at risk",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/petro-le-deja-la-olla-raspada-a-de-la-espriella-y-entrega-finanzas-en-riesgo/",
-        "published_date": "2026-07-02 21:42:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "MinAgricultura resigned from his position and returned to the Attorney General's Office",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/minagricultura-renuncio-a-su-cargo-y-regresa-a-la-procuraduria/",
-        "published_date": "2026-07-02 21:29:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "De La Espriella advances in dialogues to rebuild diplomatic relations with Israel",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/de-la-espriella-avanza-en-dialogos-para-recomponer-relaciones-diplomaticas-con-israel-4427809",
-        "published_date": "2026-07-02 21:16:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sea surface temperature rises and breaks records",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/la-temperatura-de-la-superficie-del-mar-aumenta-y-rompe-records/",
-        "published_date": "2026-07-02 21:03:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "Vanessa Cort\u00e9s, the woman from Panama, was with Petro on a visit to Pope Leo XIV",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/vanessa-cortes-la-mujer-de-panama-estuvo-con-petro-en-visita-al-papa-leon-xiv/",
-        "published_date": "2026-07-02 20:14:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "Jos\u00e9 Manuel Restrepo asked the government not to present a new tax reform",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/jose-manuel-restrepo-le-pidio-al-gobierno-no-presentar-nueva-reforma-tributaria/",
-        "published_date": "2026-07-02 19:44:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Petro attributed the gap between PGN and Fiscal Framework to the non-approval of the tax",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/petro-atribuyo-desfase-entre-pgn-y-marco-fiscal-a-la-no-aprobacion-de-la-tributaria-4427707",
-        "published_date": "2026-07-02 18:24:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "The HUV opens the high-risk obstetric rooms and to better serve hospitalized patients who require orthopedics: the pharmacy was inaugurated",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/el-huv-estrena-las-salas-de-alto-riesgo-obstetrico-y-para-atender-mejor-a-hospitalizados-que-requieren-ortopedia-se-inauguro-la-farmacia-3568631",
-        "published_date": "2026-07-02 18:23:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Barranquilla |The Prosecutor's Office charges the crimes of aggravated kidnapping and torture against Luis Mariano D\u00edaz, son of Diomedes D\u00edaz: this is all that is known",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-fiscalia-imputa-los-delitos-de-secuestro-agravado-y-tortura-a-luis-mariano-diaz-hijo-de-diomedes-diaz-esto-es-todo-lo-que-se-sabe-3568638",
-        "published_date": "2026-07-02 18:20:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Attorney Gregorio Eljach proposes reorganizing the country from the regions: announces a Attorney General's Office with a territorial structure",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/procurador-gregorio-eljach-plantea-reorganizar-el-pais-desde-las-regiones-anuncia-una-procuraduria-con-estructura-territorial-3568617",
-        "published_date": "2026-07-02 17:46:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "The litigation between families numbering a thousand people with more than 400 minors in settlements crying out for a home and the company that asks for restitution in Cali",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/el-litigio-entre-familias-que-suman-mil-personas-con-mas-de-400-menores-en-asentamiento-clamando-por-hogar-y-la-empresa-que-pide-restitucion-en-cali-3568479",
-        "published_date": "2026-07-02 17:40:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "Female participation is growing in some sectors, but leadership is still a challenge",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/participacion-femenina-crece-en-algunos-sectores-pero-el-liderazgo-aun-es-un-reto-4427634",
-        "published_date": "2026-07-02 17:03:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "X-ray of the regional junction: the four macroprojects that Valle del Cauca will bring to the table of president-elect Abelardo de la Espriella",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/radiografia-del-empalme-regional-los-cuatro-macroproyectos-que-el-valle-del-cauca-llevara-a-la-mesa-del-presidente-electo-abelardo-de-la-espriella-3568607",
-        "published_date": "2026-07-02 17:02:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Do you want to watch the Colombia National Team's World Cup match against Ghana in Barranquilla for free on a big screen?This is all you need to know",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/quiere-ver-gratis-en-pantalla-gigante-el-partido-mundialista-de-la-seleccion-colombia-contra-ghana-en-barranquilla-esto-es-todo-lo-que-debe-saber-3568585",
-        "published_date": "2026-07-02 17:01:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Comptroller's Office found a gap of $27.18 billion between the Budget and the Fiscal Framework",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/contraloria-encontro-un-desfase-de-27-18-billones-entre-el-presupuesto-y-el-marco-fiscal-4427619",
-        "published_date": "2026-07-02 16:50:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "The drama of a couple who cries out to the Nueva EPS not to let their 15-day-old baby die in Tunja",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/el-drama-de-una-pareja-que-clama-a-la-nueva-eps-para-que-no-les-deje-morir-a-su-bebe-de-15-dias-en-tunja-3568602",
-        "published_date": "2026-07-02 16:41:28",
         "category": "Local Events"
     }
 ]
