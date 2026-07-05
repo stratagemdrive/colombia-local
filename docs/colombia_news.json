@@ -175,6 +175,13 @@
         "category": "Military"
     },
     {
+        "title": "The alchemist-in-chief",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/opinion/el-alquimista-en-jefe/",
+        "published_date": "2026-07-05 11:28:09",
+        "category": "Energy"
+    },
+    {
         "title": "XM warns of a deterioration in the reliability of the electrical system",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/xm-advierte-un-deterioro-en-las-condiciones-de-confiabilidad-del-sistema-electrico-4429250",
@@ -413,6 +420,13 @@
         "category": "Economy"
     },
     {
+        "title": "Method, militancy and anti-corruption: signs of De La Espriella's junction",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/metodo-militancia-y-anticorrupcion-senales-del-empalme-de-de-la-espriella/",
+        "published_date": "2026-07-05 06:00:00",
+        "category": "Local Events"
+    },
+    {
         "title": "Lethal control: an uncomfortable discussion, but necessary for conservation",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/red-de-expertos/red-verde/control-letal-una-discusion-incomoda-pero-necesaria-para-la-conservacion/",
@@ -543,13 +557,6 @@
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/la-corte-suprema-de-justicia-condeno-a-excongresista-del-centro-democratico/",
         "published_date": "2026-07-04 00:26:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fabio Arjona rules out that De La Espriella abandons the Escaz\u00fa Agreement",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/fabio-arjona-descarta-que-de-la-espriella-abandone-el-acuerdo-de-escazu/",
-        "published_date": "2026-07-03 23:38:14",
         "category": "Local Events"
     }
 ]
