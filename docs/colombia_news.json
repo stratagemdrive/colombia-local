@@ -1,5 +1,19 @@
 [
     {
+        "title": "De la Espriella held a \u201chigh-level\u201d meeting with the US delegation.",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/de-la-espriella-sostuvo-reunion-de-alto-nivel-con-delegacion-de-ee-uu/",
+        "published_date": "2026-07-05 23:51:54",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "This is what the mayors of Cali and Medell\u00edn and the governor of Antioquia said about the defense block for urban security of President-elect De la Espriella",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/esto-dijeron-el-alcalde-de-medellin-y-el-gobernador-de-antioquia-sobre-bloque-de-defensa-para-seguridad-urbana-del-presidente-electo-de-la-espriella-3569219",
+        "published_date": "2026-07-05 18:59:49",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Restriction of Cerro Matoso would leave 90,000 tons of coal less per year",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/restriccion-de-cerro-matoso-dejaria-90-000-toneladas-de-carbon-anuales-menos-4426750",
@@ -21,18 +35,39 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Vice President Restrepo asks the chancellor to suspend appointments",
+        "title": "Via decree, Abelardo will create a \u201cDefense Block for Urban Security\u201d",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/vicepresidente-restrepo-pide-a-la-canciller-suspender-nombramientos/",
-        "published_date": "2026-06-27 22:37:34",
-        "category": "Diplomacy"
+        "url": "https://www.lasillavacia.com/en-vivo/via-decreto-abelardo-creara-un-bloque-de-defensa-para-seguridad-urbana/",
+        "published_date": "2026-07-05 19:11:06",
+        "category": "Military"
     },
     {
-        "title": "Elected government asked the Foreign Ministry not to make diplomatic appointments",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/gobierno-electo-solicito-a-la-cancilleria-no-realizar-nombramientos-hasta-el-7-de-agosto-4424922",
-        "published_date": "2026-06-27 21:56:09",
-        "category": "Diplomacy"
+        "title": "Alias \u200b\u200b\u201cZarco Aldinever\u201d was murdered by ELN leader, says Otty Pati\u00f1o",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/alias-zarco-aldinever-fue-asesinado-por-jefe-del-eln-dice-otty-patino/",
+        "published_date": "2026-07-05 17:22:54",
+        "category": "Military"
+    },
+    {
+        "title": "Barranquilla: after threats that led to the closure of businesses, they reinforce security;chambers and microquadrants, among the measurements",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-tras-amenazas-que-llevaron-al-cierre-de-negocios-refuerzan-seguridad-camaras-y-microcuadrantes-entre-las-medidas-3569208",
+        "published_date": "2026-07-05 16:51:45",
+        "category": "Military"
+    },
+    {
+        "title": "The Army neutralized 23 terrorist actions, after the ELN attack with drones in Tad\u00f3, Choc\u00f3: fighting increases that leaves three soldiers injured",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/el-ejercito-neutralizo-23-acciones-terroristas-tras-el-ataque-del-eln-con-drones-en-tado-choco-aumentan-combates-que-dejan-tres-soldados-heridos-3569195",
+        "published_date": "2026-07-05 15:10:11",
+        "category": "Military"
+    },
+    {
+        "title": "Flags, drone attacks and burning of vehicles: ELN harasses Risaralda",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/banderas-ataques-con-drones-y-quema-de-vehiculos-eln-hostiga-risaralda-3569174",
+        "published_date": "2026-07-05 12:35:44",
+        "category": "Military"
     },
     {
         "title": "This is how drone attacks were captured on videos in Tad\u00f3, Choc\u00f3: they are investigating the incident during the broadcast of the National Team match the day before",
@@ -140,41 +175,6 @@
         "category": "Military"
     },
     {
-        "title": "With De la Espriella Trump's Donroe doctrine lands in Colombia",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/con-de-la-espriella-aterriza-la-doctrina-donroe-de-trump-en-colombia/",
-        "published_date": "2026-07-01 06:00:00",
-        "category": "Military"
-    },
-    {
-        "title": "11 accidents, 4 deaths, 122 arrests and 14 arrests: the balance of the festive bridge on the roads of Valle del Cauca",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/11-siniestros-4-muertos-122-comparendos-y-14-capturas-el-balance-del-puente-festivo-en-vias-del-valle-del-cauca-3567825",
-        "published_date": "2026-06-29 18:23:51",
-        "category": "Military"
-    },
-    {
-        "title": "Army rescues 17 indigenous people held two weeks ago in La Guajira: a baby died and another minor was injured in the midst of a dispute between clans",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/ejercito-rescata-a-17-indigenas-retenidos-hace-dos-semanas-en-la-guajira-una-bebe-murio-y-otra-menor-resulto-herida-en-medio-de-disputa-entre-clanes-3567761",
-        "published_date": "2026-06-29 09:05:00",
-        "category": "Military"
-    },
-    {
-        "title": "Incoming government asked the DNP to refrain from making new appointments",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/restrepo-vicepresidente-electo-pidio-al-dnp-abstenerse-de-realizar-nombramientos-4425140",
-        "published_date": "2026-06-29 00:03:13",
-        "category": "Military"
-    },
-    {
-        "title": "Barranquilla is committed to data intelligence in security: new criminal analysis center comes into operation with more than 40 specialists",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-apuesta-por-inteligencia-de-datos-en-seguridad-nuevo-centro-de-analisis-criminal-entra-en-operacion-con-mas-de-40-especialistas-3567678",
-        "published_date": "2026-06-28 12:30:00",
-        "category": "Military"
-    },
-    {
         "title": "The alchemist-in-chief",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/opinion/el-alquimista-en-jefe/",
@@ -278,6 +278,20 @@
         "url": "https://www.eltiempo.com/colombia/otras-ciudades/familiares-en-cartagena-de-dos-jovenes-desaparecidos-en-el-mar-caribe-claman-por-su-regreso-viajaban-en-una-moto-acuatica-3567765",
         "published_date": "2026-06-29 09:39:55",
         "category": "Energy"
+    },
+    {
+        "title": "MinHacienda presented economic balance of the first week of connection",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/minhacienda-presento-balance-economico-de-la-primera-semana-de-empalme-4429464",
+        "published_date": "2026-07-05 17:25:17",
+        "category": "Economy"
+    },
+    {
+        "title": "Goldman Sachs published the list of the economies with the highest GDP projected to 2075",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/goldman-sachs-publico-el-listado-de-las-economias-con-el-mayor-pib-proyectado-para-2075-4429435",
+        "published_date": "2026-07-05 16:03:54",
+        "category": "Economy"
     },
     {
         "title": "The financial market projects an increase in inflation up to 6% next June",
@@ -406,18 +420,109 @@
         "category": "Economy"
     },
     {
-        "title": "Financial market is betting on an increase of up to 11.75% in the Issuer's interest rates",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/mercado-financiero-apuesta-por-un-incremento-hasta-11-75-de-las-tasas-de-interes-4423266",
-        "published_date": "2026-06-30 05:01:44",
-        "category": "Economy"
+        "title": "\u201cBoth defended paramilitaries\u201d: Petro goes against Carlos Alonso Lucio",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/ambos-defendieron-paramilitares-petro-se-va-contra-carlos-alonso-lucio/",
+        "published_date": "2026-07-05 23:29:32",
+        "category": "Local Events"
     },
     {
-        "title": "It will be known how much the Gross Domestic Product of Bogot\u00e1 closed at the end of 2025",
+        "title": "Following Restrepo's request, the Comptroller's Office will accompany connections between governments",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/tras-peticion-de-restrepo-contraloria-acompanara-empalme-entre-gobiernos/",
+        "published_date": "2026-07-05 21:45:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "Colombia sends mobile hospital to Venezuela after earthquakes",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/colombia-envia-hospital-movil-a-venezuela-tras-terremotos/",
+        "published_date": "2026-07-05 20:28:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "De la Espriella must give a new direction to science and higher education",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-ciencia-e-innovacion/de-la-espriella-debera-darle-un-nuevo-rumbo-a-la-ciencia-y-la-educacion-superior/",
+        "published_date": "2026-07-05 20:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Motorcycle near the Pichincha battalion caused fear and the road was closed in Cali: later, authorities ruled out an explosive, but the owner was surprised",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/moto-cerca-del-batallon-pichincha-causo-temor-y-la-via-fue-cerrada-en-cali-luego-autoridades-descartaron-explosivo-pero-el-dueno-se-llevo-sorpresa-3569212",
+        "published_date": "2026-07-05 17:24:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "Girley Ord\u00f3\u00f1ez wins the Governorship of San Andr\u00e9s with a wide margin: abstention was around 70% in an atypical election",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/girley-ordonez-gana-la-gobernacion-de-san-andres-con-amplio-margen-abstencion-rondo-el-70-en-eleccion-atipica-3569216",
+        "published_date": "2026-07-05 17:23:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Alias \u200b\u200bCarlitos, alleged third leader of the armed group Front 57 'Yair Berm\u00fadez' of the dissidents, fell: he used to travel by bus from the Valley to Nari\u00f1o",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/cayo-alias-carlitos-presunto-tercer-cabecilla-del-grupo-armado-de-las-disidencias-de-farc-57-yair-bermudez-solia-viajar-en-bus-del-valle-a-narino-3569203",
+        "published_date": "2026-07-05 16:36:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "The key piece in the investigation of the murder of businessman and rancher Gildardo Pe\u00f1a Bermeo in the northeast of the Valley that points to a person responsible",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/la-pieza-clave-en-la-investigacion-del-asesinato-del-empresario-y-ganadero-gildardo-pena-bermeo-en-el-nororiente-del-valle-que-apunta-a-un-responsable-3569192",
+        "published_date": "2026-07-05 16:14:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cWe are not going to obey decisions that go against the people\u201d: Cepeda in Cali",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/no-vamos-a-obedecer-decisiones-que-vayan-contra-el-pueblo-cepeda-en-cali/",
+        "published_date": "2026-07-05 16:08:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "AI owes a debt to people's copyrights",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-democracia-y-tecnologia/la-ia-tiene-una-deuda-con-los-derechos-de-autor-de-las-personas/",
+        "published_date": "2026-07-05 15:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Start Sunday, July 5, with this selection of opinion columns",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/comience-el-domingo-5-de-julio-con-esta-seleccion-de-columnas-de-opinion/",
+        "published_date": "2026-07-05 14:32:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Petro says the fiscal deficit is linked to the profits of the largest companies",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/se-conocera-en-cuanto-cerro-el-producto-interno-bruto-de-bogota-a-fin-de-2025-4424388",
-        "published_date": "2026-06-30 05:01:10",
-        "category": "Economy"
+        "url": "https://www.larepublica.co/economia/petro-dice-que-el-deficit-fiscal-esta-ligado-a-las-ganancias-de-las-empresas-mas-grandes-4429418",
+        "published_date": "2026-07-05 14:22:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ministry of Mobility investigates a leak of a massive database",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/secretaria-de-movilidad-investiga-filtracion-de-una-base-de-datos-historica-4429404",
+        "published_date": "2026-07-05 13:41:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "A man dedicated to construction activities in Cali was one of the most wanted by Interpol and Brazil: he had a red notice for 'drop by drop'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/un-hombre-dedicado-a-actividades-de-construccion-en-cali-era-uno-de-los-mas-buscados-por-interpol-y-brasil-tenia-circular-roja-por-gota-a-gota-3569180",
+        "published_date": "2026-07-05 13:07:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "Elections in San Andr\u00e9s are progressing normally: 53,872 citizens are authorized to choose a new governor",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/elecciones-en-san-andres-avanzan-con-normalidad-53-872-ciudadanos-estan-habilitados-para-escoger-nuevo-gobernador-3569173",
+        "published_date": "2026-07-05 12:46:15",
+        "category": "Local Events"
     },
     {
         "title": "Method, militancy and anti-corruption: signs of De La Espriella's junction",
@@ -452,111 +557,6 @@
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/comerciantes-del-atlantico-cierran-por-amenazas-extorsivas/",
         "published_date": "2026-07-04 18:14:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "No government has been able to resolve the crisis of forced displacement",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/ningun-gobierno-ha-podido-resolver-la-crisis-del-desplazamiento-forzado/",
-        "published_date": "2026-07-04 18:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Colombian Caribbean goes for a million-dollar purse for science projects: $125,000 million for biodiversity and bioeconomy",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/el-caribe-colombiano-va-por-millonaria-bolsa-para-proyectos-de-ciencia-125-000-millones-para-biodiversidad-y-bioeconomia-3569067",
-        "published_date": "2026-07-04 17:19:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "Medell\u00edn councilor 'Gury' Rodr\u00edguez speaks after opening an investigation by the Attorney General's Office for his bombing proposal after 'rifle vote'",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/habla-el-concejal-de-medellin-gury-rodriguez-tras-apertura-de-investigacion-de-la-procuraduria-por-su-propuesta-de-bombardeos-tras-voto-fusil-3569053",
-        "published_date": "2026-07-04 16:56:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "There are 349 displaced people from 107 families due to clashes between the 'Gulf clan' and the 4th front of the 'Calarc\u00e1' dissidents in Antioquia",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/van-349-desplazados-de-107-familias-por-enfrentamientos-entre-clan-del-golfo-y-el-frente-4-de-los-disidentes-de-calarca-en-antioquia-3569056",
-        "published_date": "2026-07-04 16:36:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "Due to disputes, the Santurb\u00e1n negotiation table is suspended",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/por-disputas-suspenden-mesa-de-concertacion-de-santurban/",
-        "published_date": "2026-07-04 15:50:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "'We will not allow those who seek to sow terror to disturb the tranquility': Char in the face of threats to commerce in Barranquilla and Soledad",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/no-permitiremos-que-quienes-buscan-sembrar-terror-alteren-la-tranquilidad-char-ante-amenazas-al-comercio-en-barranquilla-y-soledad-3569044",
-        "published_date": "2026-07-04 15:08:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fabio Arjona will be Abelardo's minAmbiente and other Amazonian news",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/fabio-arjona-sera-el-minambiente-de-abelardo-y-otras-noticias-amazonicas/",
-        "published_date": "2026-07-04 14:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The algorithmic academy",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-democracia-y-tecnologia/la-academia-algoritmica/",
-        "published_date": "2026-07-04 14:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cThey force me to sign\u201d: Aerocivil advisor who resigned",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/me-constrinen-a-firmar-asesora-de-aerocivil-que-renuncio/",
-        "published_date": "2026-07-04 13:14:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "The climate also displaces and Colombia is late to prevent it",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-verde/el-clima-tambien-desplaza-y-colombia-llega-tarde-para-prevenirlo/",
-        "published_date": "2026-07-04 13:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The fiscal challenges that De la Espriella will face",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/los-desafios-fiscales-que-enfrentara-de-la-espriella/",
-        "published_date": "2026-07-04 05:05:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Construction of the High Mountain Battalion: the coup of authority that the new commander of the Third Brigade wants to give to recover Jamund\u00ed",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/construccion-del-batallon-de-alta-montana-el-golpe-de-autoridad-que-el-nuevo-comandante-de-la-tercera-brigada-quiere-dar-para-recuperar-jamundi-3568931",
-        "published_date": "2026-07-04 01:27:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "The lawyer of the boat drivers involved in the tragedy during a trip in San Andr\u00e9s that left two tourists dead spoke: 'Sea conditions'",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/hablo-el-abogado-de-los-conductores-de-lancha-implicada-en-tragedia-durante-paseo-en-san-andres-que-dejo-dos-turistas-muertas-condiciones-del-mar-3568926",
-        "published_date": "2026-07-04 00:45:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sleep informed with the keys for this July 3, 2026",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-claves-de-este-3-de-julio-de-2026/",
-        "published_date": "2026-07-04 00:43:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Supreme Court of Justice sentenced a former congressman from the Democratic Center",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/la-corte-suprema-de-justicia-condeno-a-excongresista-del-centro-democratico/",
-        "published_date": "2026-07-04 00:26:00",
         "category": "Local Events"
     }
 ]
