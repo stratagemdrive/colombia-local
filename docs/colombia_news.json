@@ -1,5 +1,12 @@
 [
     {
+        "title": "Asoca\u00f1a speaks out in the face of a new crisis, after suspension of the connection between De la Espriella and Petro: 'We recognize the work of the Registry and CNE'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/asocana-se-pronuncia-ante-nueva-crisis-tras-suspension-del-empalme-entre-de-la-espriella-y-petro-reconocemos-la-labor-de-la-registraduria-y-cne-3569761",
+        "published_date": "2026-07-07 20:41:46",
+        "category": "Diplomacy"
+    },
+    {
         "title": "The case of two young people who tried to rob a police officer, unleashing a shootout in Cali: the alleged perpetrators are identified;one died",
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/cali/el-caso-de-dos-jovenes-que-habrian-tratado-de-robar-a-un-policia-desatando-una-balacera-en-cali-identifican-a-presuntos-implicados-uno-murio-3569741",
@@ -49,10 +56,31 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Silent war for territory: the social and judicial impact of the seizure of narcotics in Seville",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/guerra-silenciosa-por-el-territorio-el-impacto-social-y-judicial-de-la-incautacion-de-estupefacientes-en-sevilla-3569807",
+        "published_date": "2026-07-08 00:53:01",
+        "category": "Military"
+    },
+    {
+        "title": "'With the security surcharge, 20 billion pesos were raised, which has been invested in all municipalities', governor of Sucre",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/con-la-sobretasa-a-la-seguridad-se-logro-recaudar-20-mil-millones-de-pesos-lo-que-ha-sido-invertido-en-todos-los-municipios-gobernadora-de-sucre-3569784",
+        "published_date": "2026-07-08 00:05:00",
+        "category": "Military"
+    },
+    {
         "title": "Five keys to the focused deterrence proposed by De la Espriella",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/cinco-claves-de-la-disuasion-focalizada-que-propone-de-la-espriella/",
         "published_date": "2026-07-07 21:00:00",
+        "category": "Military"
+    },
+    {
+        "title": "Two men dead in Soledad (Atl\u00e1ntico): one of them was a victim of hitmen and the other was killed when the police identified him as the murderer.",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/dos-hombres-muertos-en-soledad-atlantico-uno-de-ellos-fue-victima-de-sicariato-y-el-otro-fue-abatido-al-ser-identificado-homicida-por-la-policia-3569776",
+        "published_date": "2026-07-07 20:34:19",
         "category": "Military"
     },
     {
@@ -168,25 +196,11 @@
         "category": "Military"
     },
     {
-        "title": "Attention: they attack the Tad\u00f3 Police Station (Choc\u00f3) with drones and attribute the attack to the ELN",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/atencion-atacan-con-drones-la-estacion-de-policia-de-tado-choco-y-atribuyen-el-atentado-al-eln-3569038",
-        "published_date": "2026-07-04 14:08:32",
-        "category": "Military"
-    },
-    {
-        "title": "\u201cI am going to be a happy dead\u201d: The last confession of an ELN founder",
+        "title": "Let there be light: this is the energy crisis that Petro leaves for De la Espriella",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/opinion/voy-a-ser-un-muerto-feliz-la-ultima-confesion-de-un-fundador-del-eln/",
-        "published_date": "2026-07-04 14:06:06",
-        "category": "Military"
-    },
-    {
-        "title": "Fighting between the Army and the ELN's 'Comuneros del Sur' front, on the border between Colombia and Ecuador: troops from both countries carry out patrols",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/combates-entre-el-ejercito-y-frente-comuneros-del-sur-del-eln-en-la-frontera-entre-colombia-y-ecuador-tropas-de-ambos-paises-realizan-patrullajes-3569013",
-        "published_date": "2026-07-04 12:21:27",
-        "category": "Military"
+        "url": "https://www.lasillavacia.com/silla-nacional/hagase-la-luz-asi-es-la-crisis-energetica-que-le-deja-petro-a-de-la-espriella/",
+        "published_date": "2026-07-08 06:00:00",
+        "category": "Energy"
     },
     {
         "title": "Incoming government will prepare a package of decrees to reduce spending and tax burden",
@@ -294,11 +308,25 @@
         "category": "Energy"
     },
     {
-        "title": "These are the formulas proposed by 10 deans to resolve the fiscal deficit",
+        "title": "The cost of living exceeded the 6% barrier after two years with inflation at 6.14%",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/estas-son-las-formulas-propuestas-por-10-decanos-para-resolver-el-deficit-fiscal-4424732",
-        "published_date": "2026-06-30 05:01:19",
-        "category": "Energy"
+        "url": "https://www.larepublica.co/economia/el-costo-de-vida-supero-la-barrera-de-6-tras-dos-anos-con-inflacion-en-6-14-4430692",
+        "published_date": "2026-07-08 05:03:38",
+        "category": "Economy"
+    },
+    {
+        "title": "Transportation and Finance are the sectors with the least execution at the end of June",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/transporte-y-hacienda-son-los-sectores-de-menor-ejecucion-al-cierre-de-junio-4431273",
+        "published_date": "2026-07-08 05:00:30",
+        "category": "Economy"
+    },
+    {
+        "title": "Inflation continues to rise and reached 6.14% in June",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/la-inflacion-sigue-subiendo-y-llego-a-614-en-junio/",
+        "published_date": "2026-07-08 00:25:27",
+        "category": "Economy"
     },
     {
         "title": "Inflation returned to levels of 6% for the first time in 22 months with 6.14%",
@@ -420,25 +448,95 @@
         "category": "Economy"
     },
     {
-        "title": "\u201cWe need to loosen the rope that suffocates companies and does not allow them to grow\u201d",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/entrevista-al-ministro-de-hacienda-entrante-miguel-gomez-martinez-sobre-nueva-tributaria-4427076",
-        "published_date": "2026-07-02 05:01:52",
-        "category": "Economy"
-    },
-    {
-        "title": "Vice President Restrepo asked President Petro to install the junction",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/el-vicepresidente-restrepo-solicito-al-presidente-petro-la-instalacion-formal-del-empalme-4426900",
-        "published_date": "2026-07-01 20:29:42",
-        "category": "Economy"
-    },
-    {
-        "title": "Diario del empalme de Abelardo: more faces for the new government",
+        "title": "Have an informed breakfast with the keys to this July 8, 2026",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/diario-de-empalme-de-abelardo-mas-caras-para-el-nuevo-gobierno/",
-        "published_date": "2026-07-01 18:50:32",
-        "category": "Economy"
+        "url": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-claves-de-este-8-de-julio-de-2026/",
+        "published_date": "2026-07-08 12:18:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "Petro leaves Abelardo the scraped pot and the stove on.",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/petro-le-deja-a-abelardo-la-olla-raspada-y-el-fogon-prendido/",
+        "published_date": "2026-07-08 12:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "An emoji on social networks would have triggered the murder of a 16-year-old teenager in Soledad (Atl\u00e1ntico): he was chased to his home",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/un-emoji-en-redes-sociales-habria-desencadenado-el-asesinato-contra-un-adolescente-de-16-anos-en-soledad-atlantico-fue-perseguido-hasta-su-casa-3569769",
+        "published_date": "2026-07-08 06:01:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The 10 best managed capitals in Colombia according to Public Service",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/las-10-capitales-mejor-administradas-de-colombia-segun-funcion-publica-4431349",
+        "published_date": "2026-07-08 05:02:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "This is how the ministerial cabinet with which De La Espriella is going to govern advances",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/asi-va-el-gabinete-ministerial-con-el-que-gobernara-abelardo-de-la-espriella-4431423",
+        "published_date": "2026-07-08 05:00:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "Attention drivers!This is how the peak and plaque will govern in Bucaramanga this Wednesday, July 8, 2026",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/atencion-conductores-asi-regira-el-pico-y-placa-en-bucaramanga-este-miercoles-8-de-julio-de-3569685",
+        "published_date": "2026-07-08 02:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Avoid setbacks!Peak and plate in Cali for Wednesday, July 8, 2026: this is how the measure will govern",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/evite-contratiempos-pico-y-placa-en-cali-para-el-miercoles-8-de-julio-de-2026-asi-regira-la-medida-3569735",
+        "published_date": "2026-07-08 02:15:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Schedule your trips!Peak and plate in Pereira for Wednesday, July 8, 2026",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/programe-sus-desplazamientos-pico-y-placa-en-pereira-para-el-miercoles-8-de-julio-de-3569682",
+        "published_date": "2026-07-08 02:06:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ministry of Culture defends the junction after suspension of the elected government",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/mincultura-defiende-el-empalme-tras-suspension-del-gobierno-electo-4431452",
+        "published_date": "2026-07-08 01:21:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "Andeg reacts to Petro and his rejection of the presidential election result",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/andeg-reacciona-a-petro-y-su-rechazo-al-resultado-de-las-presidenciales-4431432",
+        "published_date": "2026-07-08 00:40:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "Sleep informed with the movements of this June 7, 2026",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-movidas-de-este-7-de-junio-de-2026/",
+        "published_date": "2026-07-08 00:38:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Reactions on the statements of the MinAmbiente on the Etis",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/reacciones-sobre-las-declaraciones-del-minambiente-sobre-las-etis/",
+        "published_date": "2026-07-08 00:14:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cLet them touch me\u201d: Petro responds to De la Espriella's speech",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/que-me-toquen-un-pelo-petro-responde-al-discurso-de-de-la-espriella/",
+        "published_date": "2026-07-08 00:06:12",
+        "category": "Local Events"
     },
     {
         "title": "Historical Pact will present annulment action against Abelardo's election",
@@ -462,6 +560,13 @@
         "category": "Local Events"
     },
     {
+        "title": "Exclusive: the revelations of the ruling of the Administrative Court of Antioquia that puts an ultimatum to the National Government to intervene in Brice\u00f1o",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/exclusivo-las-revelaciones-del-fallo-del-tribunal-administrativo-de-antioquia-que-pone-un-ultimatum-al-gobierno-nacional-para-intervenir-en-briceno-3569659",
+        "published_date": "2026-07-07 22:46:44",
+        "category": "Local Events"
+    },
+    {
         "title": "Petro's portrait for the Casa de Nari\u00f1o will cost $75 million",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/el-retrato-de-petro-para-la-casa-de-narino-costara-75-millones/",
@@ -480,104 +585,6 @@
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/costos-de-cumbre-de-santa-marta-cercanos-a-7-mil-millones-no-120-mil/",
         "published_date": "2026-07-07 20:42:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "Government filed a criminal complaint against Carlos Alonso Lucio",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/gobierno-radico-una-denuncia-penal-contra-carlos-alonso-lucio/",
-        "published_date": "2026-07-07 20:02:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Jaime Beltr\u00e1n arrives at the MinVivienda, a position with an average duration of 19 months",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/jaime-beltran-llega-al-minvivienda-cargo-con-duracion-promedio-de-19-meses-4431148",
-        "published_date": "2026-07-07 19:49:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mauricio G\u00f3mez Am\u00edn arrives at MinComercio, a position with an average duration of 19 months",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/mauricio-gomez-llega-a-mincomercio-cargo-con-duracion-media-de-19-meses-4431128",
-        "published_date": "2026-07-07 19:33:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "Democratic Center will fight Deluque for the presidency of the Senate",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/centro-democratico-peleara-la-presidencia-del-senado-a-deluque/",
-        "published_date": "2026-07-07 19:12:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "Motorcycle theft soars in Cartagena: three arrests and 147 vehicles recovered so far this year",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/se-dispara-el-hurto-de-motos-en-cartagena-van-tres-capturas-y-147-vehiculos-recuperados-en-lo-que-va-del-ano-3569755",
-        "published_date": "2026-07-07 18:36:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "Rionegro reached two months without homicides and an increase of more than 600 percent in the seizure of narcotics in 2026",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/rionegro-llego-a-dos-meses-sin-homicidios-y-un-incremento-de-mas-del-600-en-la-incautacion-de-estupefacientes-en-3569713",
-        "published_date": "2026-07-07 18:35:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "Juliana Guti\u00e9rrez will be Minister of Sports, a position that lasts on average 13.1 months",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/en-promedio-un-ministro-de-deporte-permanece-11-1-meses-en-la-cartera-desde-2019-4431046",
-        "published_date": "2026-07-07 18:34:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Iv\u00e1n Cancino will be Minister of Justice, a position that lasts on average 11 months",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/un-ministro-de-justicia-dura-en-promedio-11-meses-en-su-cargo-desde-hace-15-anos-4431025",
-        "published_date": "2026-07-07 18:22:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "Comptroller's Office called to recognize the legitimacy of the elected Government of De La Espriella",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/contraloria-llamo-a-reconocer-la-legitimidad-del-gobierno-electo-de-de-la-espriella-4431047",
-        "published_date": "2026-07-07 18:17:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Elsa Noguera will be Minister of Transportation, where they last 24.8 months on average",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/cuanto-dura-en-promedio-un-ministro-de-transporte-en-cargo-de-la-espriella-designo-a-elsa-noguera-4430922",
-        "published_date": "2026-07-07 18:10:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Three inevitable questions to make a decision about fracking in Colombia",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-verde/tres-preguntas-inevitables-para-tomar-una-decision-sobre-fracking-en-colombia/",
-        "published_date": "2026-07-07 18:08:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "Aqueduct raises rates 6.67% in Bogot\u00e1 and 2.3% in Soacha due to the new rate framework",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/acueducto-sube-tarifas-en-bogota-y-soacha-por-el-nuevo-marco-tarifario-4431043",
-        "published_date": "2026-07-07 18:07:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "Diario del Empalme de Abelardo: the bridges between governments were broken",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/diario-del-empalme-de-abelardo-se-rompieron-los-puentes-entre-gobiernos/",
-        "published_date": "2026-07-07 18:03:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "'Not everything goes': Emcali's strong legal response to Councilor Roberto Ortiz's controversial statements regarding public lighting",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/no-todo-vale-la-fuerte-respuesta-juridica-de-emcali-ante-los-polemicos-senalamientos-del-concejal-roberto-ortiz-por-el-alumbrado-publico-3569738",
-        "published_date": "2026-07-07 17:11:30",
         "category": "Local Events"
     }
 ]
