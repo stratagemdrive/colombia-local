@@ -1,5 +1,12 @@
 [
     {
+        "title": "Restrepo and delegate ministers prepare international agenda in the US",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/restrepo-y-ministros-delegados-alistan-agenda-internacional-en-ee-uu/",
+        "published_date": "2026-07-10 19:12:08",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Abelardo's government promises to respect the autonomy of BanRep",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/gobierno-de-abelardo-promete-respetar-autonomia-del-banrep/",
@@ -112,6 +119,41 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Spies from the 'Gulf clan' were captured by the Police in Antioquia: they leaked information from the Public Force and local gangs",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/espias-del-clan-del-golfo-fueron-capturados-por-la-policia-en-antioquia-filtraban-informacion-de-la-fuerza-publica-y-de-las-bandas-locales-3570574",
+        "published_date": "2026-07-10 18:42:49",
+        "category": "Military"
+    },
+    {
+        "title": "In Latin America, voting is not enough",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/en-america-latina-votar-no-basta/",
+        "published_date": "2026-07-10 18:00:00",
+        "category": "Military"
+    },
+    {
+        "title": "More police in vehicles and horses with a high mountain battalion protect Seville, Valle: 31 arrests this month, after the murder of a rancher",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/mas-policias-en-vehiculos-y-caballos-con-batallon-de-alta-montana-blindan-a-sevilla-valle-31-capturas-en-este-mes-tras-el-asesinato-de-un-ganadero-3570544",
+        "published_date": "2026-07-10 17:08:54",
+        "category": "Military"
+    },
+    {
+        "title": "Antioquia presented the list of the 19 most wanted of the Eln, the FARC dissidents and the 'Gulf clan' in the department: 'Calarc\u00e1' appears",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/antioquia-presento-la-lista-de-los-19-mas-buscados-del-eln-las-disidencias-de-las-farc-y-el-clan-del-golfo-en-el-departamento-aparece-calarca-3570510",
+        "published_date": "2026-07-10 16:31:45",
+        "category": "Military"
+    },
+    {
+        "title": "There are already 115 FARC dissidents who have voluntarily surrendered this year in the southwest of the country: one of them managed to escape",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/ya-son-115-disidentes-de-las-farc-que-se-han-entregado-voluntariamente-en-este-ano-en-el-suroccidente-del-pais-uno-de-ellos-logro-fugarse-3570524",
+        "published_date": "2026-07-10 15:20:00",
+        "category": "Military"
+    },
+    {
         "title": "What to do with the DNI: intelligence as a State profession",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/que-hacer-con-el-dni-la-inteligencia-como-profesion-de-estado/",
@@ -217,39 +259,32 @@
         "category": "Military"
     },
     {
-        "title": "Comptroller's Office deployed special functions of the Judicial Police at the Aerocivil headquarters",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/contraloria-desplego-funciones-especiales-de-policia-judicial-en-sede-de-la-aerocivil-4430458",
-        "published_date": "2026-07-07 00:32:04",
-        "category": "Military"
-    },
-    {
-        "title": "The ZUT are not affected by the decision against the table with Segunda Marquetalia",
+        "title": "The territories that suffer the most from extractivism voted against De la Espriella",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/las-zut-no-se-ven-afectadas-por-decision-contra-mesa-con-segunda-marquetalia/",
-        "published_date": "2026-07-06 23:38:27",
-        "category": "Military"
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-verde/los-territorios-que-mas-sufren-el-extractivismo-votaron-contra-de-la-espriella/",
+        "published_date": "2026-07-10 21:00:00",
+        "category": "Energy"
     },
     {
-        "title": "National Navy hits drug trafficking network in La Guajira hard: seizes high-powered boats, satellite equipment and ammunition in Uribia",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/armada-nacional-da-duro-golpea-red-del-narcotrafico-en-la-guajira-incauta-lanchas-de-alto-poder-equipos-satelitales-y-municion-en-uribia-3569467",
-        "published_date": "2026-07-06 18:00:05",
-        "category": "Military"
+        "title": "Bogot\u00e1: decree that prohibits drug consumption in public areas is in demand",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/bogota-demandado-decreto-que-prohibe-consumo-de-drogas-en-zonas-publicas/",
+        "published_date": "2026-07-10 19:57:22",
+        "category": "Energy"
     },
     {
-        "title": "They detect 710 explosive devices in a rural area of \u200b\u200bNari\u00f1o: it is one of the largest weapons depots of the FARC dissidents",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/detectan-710-artefactos-explosivos-en-una-zona-rural-de-narino-es-uno-de-los-mas-grandes-depositos-de-armamento-de-los-disidentes-de-las-farc-3569459",
-        "published_date": "2026-07-06 17:47:14",
-        "category": "Military"
+        "title": "Roa will return to Ecopetrol to deliver a management report before August 7",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/roa-volvera-a-ecopetrol-para-entregar-informe-de-gestion-antes-del-7-de-agosto-4433989",
+        "published_date": "2026-07-10 17:49:21",
+        "category": "Energy"
     },
     {
-        "title": "Dumek supports the president-elect's decision to govern from the Caribbean and asks that Cartagena host the first National Security Council",
+        "title": "Record figures in tourism: spending by foreign travelers exceeded income obtained from crude oil exports in 2025",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/dumek-respalda-decision-del-presidente-electo-de-gobernar-desde-el-caribe-y-pide-que-cartagena-acoja-el-primer-consejo-de-seguridad-nacional-3569437",
-        "published_date": "2026-07-06 16:18:40",
-        "category": "Military"
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/cifras-record-en-turismo-el-gasto-realizado-por-los-viajeros-extranjeros-supero-los-ingresos-obtenidos-por-las-exportaciones-de-crudo-en-3570525",
+        "published_date": "2026-07-10 15:44:00",
+        "category": "Energy"
     },
     {
         "title": "10-hour power outage and works on aqueduct and sewage: take into account Emcali's work this Friday, July 10 in Cali",
@@ -364,32 +399,11 @@
         "category": "Energy"
     },
     {
-        "title": "The couple 'drop by drop' with kilos of drugs and firearms in El Cerrito, Valle del Cauca: a judge sent them to jail",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/la-pareja-a-la-que-le-hallaron-kilos-de-drogas-y-almacenaba-armas-de-fuego-en-el-cerrito-valle-del-cauca-un-juez-los-envio-a-la-carcel-3569047",
-        "published_date": "2026-07-04 17:52:18",
-        "category": "Energy"
-    },
-    {
-        "title": "Government overestimated $33 billion in tax collection, according to CARF",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/gobierno-sobreestimo-33-billones-recaudo-de-impuestos-segun-la-carf/",
-        "published_date": "2026-07-03 23:53:52",
-        "category": "Energy"
-    },
-    {
-        "title": "Decree 618 of 2026: farewell austerity",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/decreto-618-de-2026-la-austeridad-de-despedida/",
-        "published_date": "2026-07-03 23:32:45",
-        "category": "Energy"
-    },
-    {
-        "title": "ANH carries out a technical visit to Maurel & Prom to verify the progress of Sin\u00fa-9",
+        "title": "Time spent on domestic work in 2024 was worth $340.5 billion, 19.9% \u200b\u200bof GDP",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/anh-realiza-visita-tecnica-a-maurel-prom-para-verificar-avance-de-sinu-9-4428585",
-        "published_date": "2026-07-03 20:22:13",
-        "category": "Energy"
+        "url": "https://www.larepublica.co/economia/tiempo-dedicado-al-trabajo-domestico-en-2024-valio-340-5-billones-19-9-del-pib-4433853",
+        "published_date": "2026-07-10 16:13:25",
+        "category": "Economy"
     },
     {
         "title": "The cheap dollar took the external debt to the levels recorded during May 2020",
@@ -525,150 +539,143 @@
         "category": "Economy"
     },
     {
-        "title": "This was the tug of war between Restrepo and \u00c1vila during the first junction meeting",
+        "title": "Eight captured from a network that deforested in Mapirip\u00e1n were released",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-amazonia/ocho-capturados-de-red-que-deforestaba-en-mapiripan-quedaron-en-libertad/",
+        "published_date": "2026-07-10 23:52:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "Troncal del Magdalena 1 has already exceeded 33% progress in its construction phase",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/asi-fue-el-tire-y-afloje-entre-restrepo-y-avila-en-la-primera-reunion-de-empalme-4428506",
-        "published_date": "2026-07-03 17:33:52",
-        "category": "Economy"
+        "url": "https://www.larepublica.co/economia/troncal-del-magdalena-1-ya-supero-33-de-avance-en-su-fase-de-construccion-4434296",
+        "published_date": "2026-07-10 23:17:13",
+        "category": "Local Events"
     },
     {
-        "title": "Presidency notified De La Espriella that he will not be able to take office at a military base",
+        "title": "Guaviare: 70 Jiw indigenous people displaced by clashes between dissidents",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-amazonia/guaviare-70-indigenas-jiw-desplazados-por-enfrentamientos-entre-disidencias/",
+        "published_date": "2026-07-10 23:13:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "Court revokes arrest and fine against the minTrabajo for contempt",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/tribunal-revoca-arresto-y-multa-contra-el-mintrabajo-por-desacato/",
+        "published_date": "2026-07-10 22:50:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "Uribe thanks Petro for transferring his brother to a military garrison",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/uribe-agradece-a-petro-por-traslado-de-su-hermano-a-guarnicion-militar/",
+        "published_date": "2026-07-10 21:40:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ungrd defined a roadmap of measures to face the El Ni\u00f1o phenomenon",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/presidencia-le-notifico-a-de-la-espriella-que-no-podra-posesionarse-en-base-militar-4433702",
-        "published_date": "2026-07-10 12:36:27",
+        "url": "https://www.larepublica.co/economia/ungrd-definio-hoja-de-ruta-de-medidas-para-hacer-frente-al-fenomeno-de-el-nino-4434171",
+        "published_date": "2026-07-10 21:22:37",
         "category": "Local Events"
     },
     {
-        "title": "Presidency says that possession of Abelardo on a military base must be authorized by Congress",
+        "title": "Claudia Sheinbaum, president of Mexico, congratulates Abelardo on his election",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/presidencia-dice-a-abelardo-que-no-puede-posesionarse-en-base-militar/",
-        "published_date": "2026-07-10 12:27:10",
+        "url": "https://www.lasillavacia.com/en-vivo/claudia-sheinbaum-presidenta-de-mexico-felicita-a-abelardo-por-su-eleccion/",
+        "published_date": "2026-07-10 20:57:21",
         "category": "Local Events"
     },
     {
-        "title": "Have an informed breakfast with the keys for this July 10, 2026",
+        "title": "Help, protection and clear accounts for Venezuela",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-claves-de-este-10-de-julio-de-2026/",
-        "published_date": "2026-07-10 12:00:00",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-venezuela/ayuda-proteccion-y-cuentas-claras-para-venezuela/",
+        "published_date": "2026-07-10 20:48:30",
         "category": "Local Events"
     },
     {
-        "title": "De la Espriella's strategic challenge in the face of the new global order",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/el-desafio-estrategico-de-de-la-espriella-ante-el-nuevo-orden-global/",
-        "published_date": "2026-07-10 12:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Viviane Morales in MinEducaci\u00f3n: \u201ctake out Marx and put God in\u201d",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/viviane-morales-en-mineducacion-sacar-a-marx-y-meter-a-dios/",
-        "published_date": "2026-07-10 11:51:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Serious fire during the early hours of this Friday, July 10, left two people dead and serious structural damage to more than 30 houses in Quibd\u00f3",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/grave-incendio-durante-la-madrugada-de-este-viernes-10-de-julio-dejo-dos-personas-muertas-y-graves-danos-estructurales-en-mas-de-30-casas-en-quibdo-3570381",
-        "published_date": "2026-07-10 08:01:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "'I have separated pavilion Q': the explosive political clash due to the accusation of Daniel Quintero's brother in the Itag\u00fc\u00ed and AMVA Firefighters case",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/les-tengo-separado-el-pabellon-q-el-explosivo-choque-politico-por-la-imputacion-al-hermano-de-daniel-quintero-en-el-caso-bomberos-itaguei-y-amva-3570392",
-        "published_date": "2026-07-10 08:00:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Alert for altered medical disabilities: the Caribbean accumulates 436 cases and the Atlantic tops the list with 200",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/alerta-por-incapacidades-medicas-alteradas-caribe-acumula-436-casos-y-atlantico-encabeza-la-lista-con-3570388",
-        "published_date": "2026-07-10 07:51:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "The battle of the Eti is fought in Alta Guajira",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/la-batalla-de-las-eti-se-libra-en-la-alta-guajira/",
-        "published_date": "2026-07-10 05:03:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cWe issued a decree that grants tax benefits to companies in Popay\u00e1n\u201d",
+        "title": "Informality reached 54.7% at the end of May, with more than 13.34 million people",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/entrevista-con-juan-carlos-munoz-alcalde-de-popayan-sobre-beneficios-tributarios-4432025",
-        "published_date": "2026-07-10 05:01:55",
+        "url": "https://www.larepublica.co/economia/informalidad-alcanzo-54-7-a-cierre-de-mayo-con-mas-de-13-34-millones-de-personas-4434089",
+        "published_date": "2026-07-10 19:31:24",
         "category": "Local Events"
     },
     {
-        "title": "Guilds propose financing 300,000 homes with Mi Casa Ya 2.0",
+        "title": "From the networks to the courts: Governor Dilian Francisca Toro and Congressman Alfredo Mondrag\u00f3n did not reach an agreement in the Supreme Court",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/de-las-redes-a-los-tribunales-la-gobernadora-dilian-francisca-toro-y-el-congresista-alfredo-mondragon-no-llegaron-a-un-acuerdo-en-la-corte-suprema-3570572",
+        "published_date": "2026-07-10 18:45:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Palma will request tax from energy agents in tax to heal debts",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/gremios-proponen-el-financiamiento-de-300-000-viviendas-con-el-programa-mi-casa-ya-2-0-4433273",
-        "published_date": "2026-07-10 05:01:14",
+        "url": "https://www.larepublica.co/economia/palma-pedira-impuesto-a-agentes-energeticos-en-tributaria-para-sanar-deudas-4434059",
+        "published_date": "2026-07-10 18:42:35",
         "category": "Local Events"
     },
     {
-        "title": "There is finally a Minister of the Environment: the challenges he inherits from the Petro government.",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/por-fin-hay-ministro-de-ambiente-los-retos-que-hereda-del-gobierno-petro/",
-        "published_date": "2026-07-10 02:37:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sleep informed with the movements of this July 9, 2026",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-movidas-de-este-9-de-julio-de-2026/",
-        "published_date": "2026-07-10 00:47:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "CNE presentation supports the status of \u201cDefenders of the Homeland\u201d",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/ponencia-del-cne-respalda-personeria-de-defensores-de-la-patria/",
-        "published_date": "2026-07-10 00:33:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "How \u201csuperior\u201d are the upper classes?",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/que-tan-superiores-son-las-clases-superiores/",
-        "published_date": "2026-07-10 00:27:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "MinAmbiente de Abelardo met with the CARs",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/minambiente-de-abelardo-se-reunio-con-las-car/",
-        "published_date": "2026-07-09 23:34:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Medell\u00edn Ombudsman requested protection measures for a councilor of the Historical Pact who was threatened by a civilian in a session of the corporation",
+        "title": "The dream of traveling to Europe ended in a nightmare: they report an alleged massive scam in a travel agency in Bucaramanga",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/personeria-de-medellin-pidio-medidas-de-proteccion-para-concejal-del-pacto-historico-que-fue-amenazado-por-un-civil-en-una-sesion-de-la-corporacion-3570344",
-        "published_date": "2026-07-09 23:03:17",
+        "url": "https://www.eltiempo.com/colombia/santander/el-sueno-de-viajar-a-europa-termino-en-una-pesadilla-denuncian-presunta-estafa-masiva-en-agencia-de-viajes-en-bucaramanga-3570575",
+        "published_date": "2026-07-10 18:37:10",
         "category": "Local Events"
     },
     {
-        "title": "Supreme Court leaves a firm call for the trial of Arturo Char",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/corte-suprema-deja-en-firme-llamado-a-juicio-de-arturo-char/",
-        "published_date": "2026-07-09 22:53:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "Petro and Abelardo have an \u201canti-democratic attitude\u201d: Center Manifesto",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/petro-y-abelardo-tienen-una-actitud-antidemocratica-manifiesto-de-centro/",
-        "published_date": "2026-07-09 22:48:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "An electric motorcycle with three women on board, including a girl, was left under a dump truck in Cali: the hypothesis of the serious accident",
+        "title": "Friend of Tatiana Hern\u00e1ndez, a young woman who disappeared in Cartagena, denied that she had left a farewell letter: 'It was a university project'",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/una-motocicleta-electrica-con-tres-mujeres-a-bordo-entre-ellas-una-nina-quedo-debajo-de-una-volqueta-en-cali-la-hipotesis-del-grave-accidente-3570351",
-        "published_date": "2026-07-09 22:36:15",
+        "url": "https://www.eltiempo.com/colombia/mejor-amiga-de-tatiana-hernandez-desmintio-que-la-estudiante-desaparecida-hubiera-dejado-una-carta-de-despedida-fue-un-trabajo-de-universidad-3570540",
+        "published_date": "2026-07-10 18:25:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "Government extended the Coffee Stabilization Fund for five months",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/gobierno-prorrogo-por-cinco-meses-contrato-de-estabilizacion-de-precios-del-cafe-4434010",
+        "published_date": "2026-07-10 17:20:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "The value of the care economy is $340 billion, surpassing commerce",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/el-valor-de-la-economia-del-cuidado-es-de-340-billones-supera-al-comercio-4433791",
+        "published_date": "2026-07-10 17:09:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "Petro called the incoming government irresponsible for not receiving energy connections",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/petro-tildo-de-irresponsable-al-gobierno-entrante-por-no-recibir-empalme-energetico-4433993",
+        "published_date": "2026-07-10 17:07:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "The mystery of the death of the Dutchman in Minca: he organized electronic parties and changed his behavior;They investigate a possible overdose",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/el-misterio-por-muerte-del-neerlandes-en-minca-organizaba-fiestas-electronicas-y-cambio-su-comportamiento-investigan-una-posible-sobredosis-3570557",
+        "published_date": "2026-07-10 16:50:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Adle Government and Issuer ratify the need for coordination in macro policy",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/gobierno-adle-y-emisor-ratifican-necesidad-de-coordinacion-en-politica-macro-4433777",
+        "published_date": "2026-07-10 16:35:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "Anla granted license for new coastal protection project in Cove\u00f1as, Sucre",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/anla-otorgo-licencia-para-nuevo-proyecto-de-proteccion-costera-en-covenas-sucre-4433904",
+        "published_date": "2026-07-10 16:35:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "Four regions had above-normal rainfall, but the rest of the country was dry",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/historico-de-lluvias-durante-junio-de-2026-4433646",
+        "published_date": "2026-07-10 15:12:54",
         "category": "Local Events"
     }
 ]
