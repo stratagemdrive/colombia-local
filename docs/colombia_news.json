@@ -1,5 +1,12 @@
 [
     {
+        "title": "Abelardo attacks Amazon ETI and other news",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/abelardo-arremete-contra-eti-amazonicas-y-otras-noticias/",
+        "published_date": "2026-07-12 02:00:00",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Restrepo and delegate ministers prepare international agenda in the US",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/restrepo-y-ministros-delegados-alistan-agenda-internacional-en-ee-uu/",
@@ -259,6 +266,13 @@
         "category": "Military"
     },
     {
+        "title": "The reasons that led the country to be at high risk of facing a blackout",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/las-razones-que-llevaron-a-que-el-pais-este-en-alto-riesgo-de-enfrentar-un-apagon-3570741",
+        "published_date": "2026-07-12 00:01:00",
+        "category": "Energy"
+    },
+    {
         "title": "Petro Government will file antifracking law on July 20 in Congress",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/gobierno-petro-radicara-ley-antifracking-el-20-de-julio-en-el-congreso/",
@@ -392,13 +406,6 @@
         "category": "Energy"
     },
     {
-        "title": "\u201cColombia's challenge is in the energy sector and is to resume the exploration of natural gas\u201d",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/entrevista-con-alcindo-moritz-presidente-de-petrobras-colombia-4427876",
-        "published_date": "2026-07-06 05:00:46",
-        "category": "Energy"
-    },
-    {
         "title": "Women perform 75% of unpaid domestic and care work",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/las-mujeres-realizan-75-del-trabajo-domestico-y-de-cuidado-no-remunerado-4434302",
@@ -525,18 +532,18 @@
         "category": "Economy"
     },
     {
-        "title": "The financial market projects an increase in inflation up to 6% next June",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/el-mercado-financiero-proyecta-un-incremento-de-la-inflacion-hasta-6-en-junio-4428835",
-        "published_date": "2026-07-04 05:01:35",
-        "category": "Economy"
+        "title": "Abelard vs.Uribism: the fight for the presidencies of Congress",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/abelardo-vs-uribismo-el-pulso-por-las-presidencias-del-congreso/",
+        "published_date": "2026-07-12 06:00:00",
+        "category": "Local Events"
     },
     {
-        "title": "Of every $10 that the Gross Domestic Product is worth, Bogot\u00e1, Antioquia and Valle contribute $5",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/de-cada-10-que-vale-el-producto-interno-bruto-bogota-antioquia-y-valle-ponen-5-4428855",
-        "published_date": "2026-07-04 05:01:27",
-        "category": "Economy"
+        "title": "Thieves entered through the roof of a foundation that cares for children in Medell\u00edn and stole essential equipment for their work: they report serious damage",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/ladrones-ingresaron-por-el-techo-de-una-fundacion-que-atiende-a-ninos-en-medellin-y-robaron-equipos-esenciales-para-su-labor-denuncian-graves-danos-3570773",
+        "published_date": "2026-07-12 04:41:10",
+        "category": "Local Events"
     },
     {
         "title": "Ministry of Health continues with the connection after suspension of the elected government",
@@ -557,6 +564,13 @@
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/gobierno-dejara-radicado-proyecto-para-prohibir-el-fracking-antes-del-cambio-de-mandato-4434778",
         "published_date": "2026-07-11 20:42:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "This is how they seek to teach children and young people to convert ideas into business projects",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/asi-buscan-ensenar-a-ninos-y-jovenes-a-convertir-ideas-en-proyectos-de-negocio-3570748",
+        "published_date": "2026-07-11 19:57:51",
         "category": "Local Events"
     },
     {
@@ -655,27 +669,6 @@
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/medellin/invias-anuncia-42-800-millones-para-el-mantenimiento-de-una-zona-critica-en-la-via-medellin-bogota-tras-reiteradas-denuncias-es-suficiente-3570703",
         "published_date": "2026-07-11 15:07:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "Works on the Gran Malec\u00f3n del Mar reach 58.2% completion and Cartagena plans to inaugurate the first kilometer in September with De la Espriella",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/obras-del-gran-malecon-del-mar-llega-al-58-2-de-ejecucion-y-cartagena-preve-inaugurar-el-primer-kilometro-en-septiembre-con-de-la-espriella-3570702",
-        "published_date": "2026-07-11 14:58:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "In the face of discrimination, the Constitution is our protection",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/opinion/ante-la-discriminacion-la-constitucion-es-nuestra-proteccion/",
-        "published_date": "2026-07-11 14:22:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tourism yes, but not like this",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/opinion/turismo-si-pero-no-asi/",
-        "published_date": "2026-07-11 13:00:00",
         "category": "Local Events"
     }
 ]
