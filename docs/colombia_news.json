@@ -133,6 +133,13 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Army rescued 45 people kidnapped by the ELN in Choc\u00f3",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/choco-eln-secuestro-a-39-personas-y-asesino-a-dos-militares/",
+        "published_date": "2026-07-14 21:45:00",
+        "category": "Military"
+    },
+    {
         "title": "The details of the attack against the Aw\u00e1 leader in Nari\u00f1o: he escaped from armed men who intercepted the truck thanks to a maneuver by the driver",
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/otras-ciudades/lider-indigena-del-pueblo-awa-fue-objeto-de-un-atentado-en-la-via-al-mar-en-narino-el-riesgo-en-el-territorio-se-mantiene-intacto-3570915",
@@ -266,11 +273,25 @@
         "category": "Military"
     },
     {
-        "title": "Andi rejected questions about the electoral process and asked to respect the results",
+        "title": "Mar\u00eda Nohem\u00ed Arboleda, the technique that arrives at the Abelardo MinEnerg\u00eda",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/maria-nohemi-arboleda-la-tecnica-que-llega-al-minenergia-de-abelardo/",
+        "published_date": "2026-07-14 22:30:43",
+        "category": "Energy"
+    },
+    {
+        "title": "Juan Carlos Morales was appointed new general manager in charge of XM",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/andi-rechazo-cuestionamientos-al-proceso-electoral-y-pidio-respetar-resultados-4432216",
-        "published_date": "2026-07-08 22:24:11",
-        "category": "Military"
+        "url": "https://www.larepublica.co/economia/juan-carlos-morales-fue-designado-como-nuevo-gerente-general-encargado-de-xm-4435608",
+        "published_date": "2026-07-14 17:30:31",
+        "category": "Energy"
+    },
+    {
+        "title": "Governors and unions of the Caribbean region close ranks with the appointed Minister of Mines and Energy and give her a plan to face the electricity crisis",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/gobernadores-y-gremios-de-la-region-caribe-cierran-filas-con-ministra-de-minas-y-energia-designada-y-le-entregan-plan-para-enfrentar-crisis-electrica-3571210",
+        "published_date": "2026-07-14 17:15:00",
+        "category": "Energy"
     },
     {
         "title": "What is XM and how does it operate, the tower that controls and monitors the entire national energy system?",
@@ -389,27 +410,6 @@
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/medellin/el-expediente-clasificado-del-capo-canadiense-capturado-en-un-gimnasio-de-medellin-y-los-nexos-con-narcos-britanicos-asociados-con-el-clan-del-golfo-3570360",
         "published_date": "2026-07-10 02:47:42",
-        "category": "Energy"
-    },
-    {
-        "title": "National gas production in May fell 12.89% year-on-year",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/produccion-nacional-de-gas-de-mayo-cayo-12-89-en-comparacion-interanual-4432867",
-        "published_date": "2026-07-09 19:05:08",
-        "category": "Energy"
-    },
-    {
-        "title": "Don't be caught off guard!These sectors of the Atl\u00e1ntico and Barranquilla will have power interruptions next Friday, July 10",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/que-no-lo-tome-desprevenido-estos-sectores-del-atlantico-y-barranquilla-tendran-interrupciones-de-energia-el-proximo-viernes-10-de-julio-3570293",
-        "published_date": "2026-07-09 17:20:00",
-        "category": "Energy"
-    },
-    {
-        "title": "EPM warns of dangers for the electrical system: possible blockages in Antioquia put 16% of Colombia's energy at risk",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/epm-advierte-peligros-para-el-sistema-electrico-posibles-bloqueos-en-antioquia-ponen-en-riesgo-el-16-de-la-energia-de-colombia-3570278",
-        "published_date": "2026-07-09 16:56:40",
         "category": "Energy"
     },
     {
@@ -532,157 +532,143 @@
         "category": "Economy"
     },
     {
-        "title": "The populists leave the Bank of the Republic",
+        "title": "Judge overturned accusation of Daniel Quintero in the Aguas Vivas case",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/se-van-los-populistas-del-banco-de-la-republica-de-colombia/",
-        "published_date": "2026-07-06 20:30:43",
-        "category": "Economy"
+        "url": "https://www.lasillavacia.com/en-vivo/jueza-tumbo-imputacion-de-daniel-quintero-por-caso-aguas-vivas/",
+        "published_date": "2026-07-14 23:51:25",
+        "category": "Local Events"
     },
     {
-        "title": "The last deadline to pay property tax in Bogot\u00e1 expires on Friday, July 10",
+        "title": "Restrepo spoke about productivity and economic growth in Washington",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/cuando-es-el-ultimo-plazo-para-pagar-el-impuesto-predial-en-bogota-4430025",
-        "published_date": "2026-07-06 18:01:32",
-        "category": "Economy"
+        "url": "https://www.larepublica.co/economia/restrepo-hablo-de-productividad-y-crecimiento-economico-en-washington-4435917",
+        "published_date": "2026-07-14 23:05:06",
+        "category": "Local Events"
     },
     {
-        "title": "The fiscal crisis turned Colombia into a magnet for speculative capital",
+        "title": "\u201cHe is the worst enemy of peace\u201d: Cepeda before the closure of the Peace Ministry",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/la-crisis-fiscal-convirtio-a-colombia-en-un-iman-para-el-capital-especulativo/",
-        "published_date": "2026-07-14 11:58:00",
+        "url": "https://www.lasillavacia.com/en-vivo/es-el-peor-enemigo-de-la-paz-cepeda-ante-cierre-de-consejeria-de-paz/",
+        "published_date": "2026-07-14 22:39:31",
         "category": "Local Events"
     },
     {
-        "title": "In the 'red zone', flooded and without bathrooms, this is how 300 students studied in Urab\u00e1 Antioquia: the history of the rebirth of the I.E.Jorge Eli\u00e9cer Gait\u00e1n",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/en-zona-roja-inundados-y-sin-banos-asi-estudiaban-300-alumnos-en-el-uraba-antioqueno-la-historia-del-renacer-de-la-i-e-jorge-eliecer-gaitan-3553971",
-        "published_date": "2026-07-14 06:01:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Dane will reveal data from the Urban Economic Census, the first measurement in 34 years",
+        "title": "Juan David Grillo R\u00edos took over as technical director in charge of Carf",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/dane-revelara-datos-del-censo-economico-urbano-la-primera-medicion-en-34-anos-4434383",
-        "published_date": "2026-07-14 05:01:06",
+        "url": "https://www.larepublica.co/economia/juan-david-grillo-rios-asumio-como-director-tecnico-encargado-del-carf-4435943",
+        "published_date": "2026-07-14 22:32:20",
         "category": "Local Events"
     },
     {
-        "title": "Schedule your tours!This is how the peak and plaque will govern in Bucaramanga this Tuesday, July 14, 2026",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/programe-sus-recorridos-asi-regira-el-pico-y-placa-en-bucaramanga-este-martes-14-de-julio-de-3570508",
-        "published_date": "2026-07-14 02:35:00",
+        "title": "Sof\u00eda Petro did not say that \u201cher path will be exile\u201d after De la Espriella's victory",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/sofia-petro-no-dijo-que-su-camino-sera-el-exilio-tras-triunfo-de-de-la-espriella/",
+        "published_date": "2026-07-14 22:01:12",
         "category": "Local Events"
     },
     {
-        "title": "Schedule your trips!Peak and plate in Pereira for Tuesday, July 14, 2026",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/programe-sus-desplazamientos-pico-y-placa-en-pereira-para-el-martes-14-de-julio-de-3570511",
-        "published_date": "2026-07-14 02:30:00",
+        "title": "The progress in macro case 11 should influence ordinary justice",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/los-avances-en-el-macrocaso-11-debrian-influir-en-la-justicia-ordinaria/",
+        "published_date": "2026-07-14 22:00:00",
         "category": "Local Events"
     },
     {
-        "title": "Medell\u00edn maintains the current rotation of the peak and plate: this is how it will work this Tuesday, July 14",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/medellin-mantiene-la-actual-rotacion-del-pico-y-placa-asi-funcionara-este-martes-14-de-julio-3570505",
-        "published_date": "2026-07-14 02:30:00",
+        "title": "Omar Bula Escobar",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/quien-es-quien/omar-bula-escobar/",
+        "published_date": "2026-07-14 21:39:22",
         "category": "Local Events"
     },
     {
-        "title": "Avoid setbacks!Peak and plate in Cali for Tuesday, July 14, 2026: this is how the measure will govern",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/evite-contratiempos-pico-y-placa-en-cali-para-el-martes-14-de-julio-de-2026-asi-regira-la-medida-3570504",
-        "published_date": "2026-07-14 02:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Vice President of the World Bank will visit De La Espriella in Barranquilla",
+        "title": "Palma asks Superservicios to prioritize Air-e payments in Spec maintenance",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/vicepresidenta-del-banco-mundial-visitara-a-de-la-espriella-en-barranquilla-4435246",
-        "published_date": "2026-07-14 00:17:24",
+        "url": "https://www.larepublica.co/economia/palma-pide-a-superservicios-priorizar-pagos-de-air-e-en-mantenimiento-de-spec-4435789",
+        "published_date": "2026-07-14 21:29:18",
         "category": "Local Events"
     },
     {
-        "title": "More than 16,000 families have been affected by the winter emergency in Colombia: the rains have Casanare, Arauca and the east of the country in suspense",
+        "title": "Constitutional Court will debate legality of binational zone with Venezuela",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/corte-constitucional-debate-legalidad-de-zona-binacional-con-venezuela/",
+        "published_date": "2026-07-14 21:12:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "The two key experts who go with the vice president to his meetings with the gringos",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/los-dos-expertos-clave-que-van-con-el-vice-a-sus-reuniones-con-los-gringos/",
+        "published_date": "2026-07-14 19:43:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cThere is an opening of society towards the migrant population\u201d",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-venezuela/se-ve-una-apertura-de-la-sociedad-frente-a-la-poblacion-migrante/",
+        "published_date": "2026-07-14 18:53:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "To the rhythm of salsa, football and pride: this is how Governor Dilian Francisca Toro received the Valle del Cauca players of the Colombian National Team",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/mas-de-16-000-familias-han-sido-afectadas-por-la-emergencia-invernal-en-colombia-las-lluvias-tienen-en-vilo-a-casanare-arauca-y-el-oriente-del-pais-3570978",
-        "published_date": "2026-07-13 23:30:47",
+        "url": "https://www.eltiempo.com/colombia/cali/a-ritmo-de-salsa-futbol-y-orgullo-asi-recibio-la-gobernadora-dilian-francisca-toro-a-los-jugadores-vallecaucanos-de-la-seleccion-colombia-3571215",
+        "published_date": "2026-07-14 17:59:52",
         "category": "Local Events"
     },
     {
-        "title": "Closures due to rain in Arauca, Casanare and Boyac\u00e1 leave losses of $300 million",
+        "title": "Elected government and IMF will begin technical review of the state of public finances",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/cierres-viales-por-lluvias-en-arauca-casanare-y-boyaca-ya-dejan-perdidas-por-300-millones-4435198",
-        "published_date": "2026-07-13 21:28:20",
+        "url": "https://www.larepublica.co/economia/gobierno-electo-y-fmi-iniciaran-revision-tecnica-del-estado-de-las-finanzas-publicas-4435677",
+        "published_date": "2026-07-14 17:58:02",
         "category": "Local Events"
     },
     {
-        "title": "Three questions about technological power before it's too late",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-democracia-y-tecnologia/tres-preguntas-sobre-poder-tecnologico-antes-de-que-sea-demasiado-tarde/",
-        "published_date": "2026-07-13 20:32:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Bus lanes with camera control: an opportunity for the Seventh",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-cachaca/carriles-de-buses-con-control-con-camaras-una-oportunidad-para-la-septima/",
-        "published_date": "2026-07-13 17:41:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "Colombia's greatest treasure is the countryside",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-rural/el-mayor-tesoro-de-colombia-es-el-campo/",
-        "published_date": "2026-07-13 17:34:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "De la Espriella removes member of empalme due to proposal for hourly quotation",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/de-la-espriella-aparta-a-miembro-de-empalme-por-propuesta-de-cotizacion-por-horas/",
-        "published_date": "2026-07-13 15:57:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Elected government begins approaches with the World Bank for economic agenda",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/gobierno-electo-inicia-acercamientos-con-banco-mundial-para-definir-agenda-economica-4435121",
-        "published_date": "2026-07-13 15:35:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "The ACSN would raise up to $7,000 million a month with extortion and drug trafficking;alias 'Bendito Menor' is among its leaders",
+        "title": "Video |Criminals who posed as Sij\u00edn agents stole $80 million from an elderly couple in their home in Cali",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/las-acsn-recaudarian-hasta-7-000-millones-al-mes-con-extorsiones-y-narcotrafico-alias-bendito-menor-figura-entre-sus-cabecillas-3570945",
-        "published_date": "2026-07-13 15:02:20",
+        "url": "https://www.eltiempo.com/colombia/cali/video-delincuentes-que-se-hicieron-pasar-por-agentes-de-la-sijin-habrian-hurtado-80-millones-a-una-pareja-de-adultos-mayores-en-su-vivienda-en-cali-3571202",
+        "published_date": "2026-07-14 17:57:53",
         "category": "Local Events"
     },
     {
-        "title": "New EPS crisis hits 440,000 members in Atl\u00e1ntico: complaints, guardianships increase and alerts about barriers to accessing health services",
+        "title": "Woman was apparently murdered by her partner when he stabbed her nearly 15 times in the Popular neighborhood of Medell\u00edn;alleged perpetrator died",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/crisis-de-nueva-eps-golpea-a-440-000-afiliados-en-atlantico-aumentan-quejas-tutelas-y-alertan-por-barreras-para-acceder-a-servicios-de-salud-3570907",
-        "published_date": "2026-07-13 15:01:00",
+        "url": "https://www.eltiempo.com/colombia/medellin/mujer-fue-asesinada-al-parecer-por-su-pareja-cuando-le-propino-cerca-de-15-punaladas-en-el-barrio-popular-de-medellin-presunto-responsable-murio-3571201",
+        "published_date": "2026-07-14 17:51:24",
         "category": "Local Events"
     },
     {
-        "title": "The last photo of the historic Colombian cycling champion Rafael Antonio Ni\u00f1o in his Boyac\u00e1 museum: this is how it was captured before his death",
+        "title": "Aguas de Cartagena freezes rates for the remainder of 2026, in the midst of a controversial dispute with the District administration",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/la-ultima-foto-del-historico-campeon-del-ciclismo-colombiano-rafael-antonio-nino-en-su-museo-de-boyaca-asi-fue-captado-antes-de-su-fallecimiento-3570940",
-        "published_date": "2026-07-13 14:45:00",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/aguas-de-cartagena-congela-tarifas-para-lo-que-resta-de-2026-en-medio-de-polemico-pulso-con-la-administracion-distrital-3571213",
+        "published_date": "2026-07-14 17:40:25",
         "category": "Local Events"
     },
     {
-        "title": "Violence in Cali: Ciro Davir Paz Banguero, recognized social leader of Guachen\u00e9, is shot to death;this is known about crime",
+        "title": "Superintendent Daniel Quintero speaks after the annulment of the accusation in the Aguas Vivas case in Medell\u00edn",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/violencia-en-cali-asesinan-a-balazos-a-ciro-davir-paz-banguero-reconocido-lider-social-de-guachene-esto-se-sabe-del-crimen-3570934",
-        "published_date": "2026-07-13 14:45:00",
+        "url": "https://www.eltiempo.com/colombia/medellin/superintendente-daniel-quintero-habla-tras-la-anulacion-de-la-imputacion-del-caso-aguas-vivas-en-medellin-3571211",
+        "published_date": "2026-07-14 17:27:35",
         "category": "Local Events"
     },
     {
-        "title": "This is how the 'return operation in Antioquia' progresses: more than 300 thousand vehicles were mobilized on the roads of the department on this festive weekend",
+        "title": "The end of the La T\u00eda alias network: it used a facade in Cali to evade satellites and sell stolen iPhones in the foreign market",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/asi-avanza-la-operacion-retorno-en-antioquia-mas-de-300-mil-vehiculos-se-movilizaron-por-las-vias-del-departamento-en-este-puente-festivo-3570941",
-        "published_date": "2026-07-13 14:35:49",
+        "url": "https://www.eltiempo.com/colombia/cali/el-fin-de-la-red-de-alias-la-tia-usaba-fachada-en-cali-para-evadir-satelites-y-vender-iphones-robados-en-el-mercado-extranjero-3571187",
+        "published_date": "2026-07-14 17:04:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Twist in the controversial case of the 'Aguas Vivas' lot: judge knocks down the indictment of charges against Daniel Quintero",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/giro-en-el-polemico-caso-del-lote-aguas-vivas-juez-tumba-la-imputacion-de-cargos-contra-daniel-quintero-3571178",
+        "published_date": "2026-07-14 16:12:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "A new fight for land confronts communities of Taganga and Palmor with indigenous peoples of the Sierra Nevada de Santa Marta",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/un-nuevo-pulso-por-la-tierra-enfrenta-a-comunidades-de-taganga-y-palmor-con-pueblos-indigenas-de-la-sierra-nevada-de-santa-marta-3571179",
+        "published_date": "2026-07-14 15:45:00",
         "category": "Local Events"
     }
 ]
