@@ -1,5 +1,12 @@
 [
     {
+        "title": "Restrepo will meet with Marco Rubio, US Secretary of State, in Washington",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/jose-manuel-restrepo-se-reunira-con-marco-rubio-secretario-de-estado-de-ee-uu-en-washington-4436228",
+        "published_date": "2026-07-15 11:36:13",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Omar Bula's conspiracy theories",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/las-teorias-de-conspiracion-de-omar-bula/",
@@ -119,18 +126,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "De la Espriella ordered to suspend the connection with the Petro government",
+        "title": "Abelardo and the security block: the mayors in their pockets",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/de-la-espriella-ordeno-suspender-el-empalme-con-el-gobierno-petro/",
-        "published_date": "2026-07-07 12:11:36",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "De La Espriella ordered to suspend the connection process with the Petro Government",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/de-la-espriella-ordeno-suspender-proceso-de-empalme-con-el-gobierno-de-petro-4430608",
-        "published_date": "2026-07-07 11:48:52",
-        "category": "Diplomacy"
+        "url": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/abelardo-y-el-bloque-de-seguridad-los-alcaldes-en-el-bolsillo/",
+        "published_date": "2026-07-15 12:00:00",
+        "category": "Military"
     },
     {
         "title": "Army rescued 45 people kidnapped by the ELN in Choc\u00f3",
@@ -263,13 +263,6 @@
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/barranquilla-entre-la-paz-total-y-el-fracaso-local-de-la-seguridad/",
         "published_date": "2026-07-08 22:56:08",
-        "category": "Military"
-    },
-    {
-        "title": "MinTrabajo prepares new rules for hiring athletes",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/mintrabajo-prepara-nuevas-reglas-para-contratacion-de-deportistas/",
-        "published_date": "2026-07-08 22:45:05",
         "category": "Military"
     },
     {
@@ -525,11 +518,130 @@
         "category": "Economy"
     },
     {
-        "title": "Arracacha, potato and lemon, the foods that became most expensive in the last year",
+        "title": "AI is not cheating, the problem is how we evaluate",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-educacion/la-ia-no-esta-haciendo-trampa-el-problema-esta-en-como-evaluamos/",
+        "published_date": "2026-07-15 12:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The man who shot a foreigner nine times in Cali and was sentenced to 20 years in prison for attempted murder: the victim survived",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/el-hombre-que-disparo-nueve-veces-a-un-extranjero-en-cali-y-fue-condenado-a-20-anos-de-prision-por-intento-de-asesinato-la-victima-sobrevivio-3571300",
+        "published_date": "2026-07-15 06:24:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "From several fronts they seek to overthrow Petro's decree that lowers salaries for congressmen",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/buscan-tumbar-decreto-de-petro-que-baja-salarios-a-congresistas/",
+        "published_date": "2026-07-15 06:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Comptroller's Office reveals nine findings in Cardique during audit of Canal del Dique: questions accounting management of boat contract for $706 million",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/contraloria-revela-nueve-hallazgos-en-cardique-durante-auditoria-a-canal-del-dique-cuestiona-manejo-contable-de-contrato-de-lanchas-por-706-millones-3571221",
+        "published_date": "2026-07-15 05:28:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The tragedy due to rainfall in Casanare leaves nearly 67,000 hectares affected",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/arracacha-papa-y-limon-los-alimentos-que-mas-se-encarecieron-en-el-ultimo-ano-4430328",
-        "published_date": "2026-07-07 05:01:22",
-        "category": "Economy"
+        "url": "https://www.larepublica.co/economia/tragedia-por-precipitaciones-en-casanare-deja-67-000-hectareas-afectadas-4436076",
+        "published_date": "2026-07-15 05:03:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "Probability of a 'very strong' El Ni\u00f1o rose to 81% between October and December",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/probabilidad-de-el-nino-muy-fuerte-subio-a-81-entre-octubre-y-diciembre-4436045",
+        "published_date": "2026-07-15 05:02:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "Today, a reduction in working hours begins to take effect, which will be 42 hours per week.",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/hoy-empieza-a-regir-reduccion-de-la-jornada-laboral-que-sera-de-42-horas-semanales-4436098",
+        "published_date": "2026-07-15 05:01:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cali Council creates accidental commission to stop the mass dismissal of failed traffic agents",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/concejo-de-cali-crea-comision-accidental-para-frenar-el-despido-masivo-de-agentes-de-transito-reprobados-3571282",
+        "published_date": "2026-07-15 03:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Avoid fines!This is how the peak and plate will work in Bucaramanga this Wednesday, July 15, 2026",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/evite-multas-asi-funcionara-el-pico-y-placa-en-bucaramanga-este-miercoles-15-de-julio-de-3571272",
+        "published_date": "2026-07-15 02:31:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Schedule your trips!Peak and plate in Pereira for Wednesday, July 15, 2026",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/programe-sus-desplazamientos-pico-y-placa-en-pereira-para-el-miercoles-15-de-julio-de-3571269",
+        "published_date": "2026-07-15 02:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Medell\u00edn maintains the current rotation of the peak and plate: this is how it will work this Wednesday, July 15",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/medellin-mantiene-la-actual-rotacion-del-pico-y-placa-asi-funcionara-este-miercoles-15-de-julio-3570961",
+        "published_date": "2026-07-15 02:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Avoid setbacks!Peak and plate in Cali for Wednesday, July 15, 2026: this is how the measure will govern",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/evite-contratiempos-pico-y-placa-en-cali-para-el-miercoles-15-de-julio-de-2026-asi-regira-la-medida-3570960",
+        "published_date": "2026-07-15 02:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Dane presented the connection of the statistical sector for the next Government",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/empalme-del-sector-informacion-estadistica-de-dane-4436133",
+        "published_date": "2026-07-15 01:33:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "IT and corporate services boosted foreign investment in Bogot\u00e1 as of March",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/ti-y-servicios-corporativos-impulsaron-inversion-extranjera-en-bogota-a-marzo-4436120",
+        "published_date": "2026-07-15 01:26:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "National Federation of Coffee Growers will accelerate innovation with the new Government",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/federacion-nacional-de-cafeteros-acelerara-innovacion-del-sector-con-respaldo-del-nuevo-gobierno-4436124",
+        "published_date": "2026-07-15 00:56:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "Sleep informed with the movements of this July 14, 2026",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-movidas-de-este-14-de-julio-de-2026/",
+        "published_date": "2026-07-15 00:30:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "MinAmbiente shared accountability for the sector",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-amazonia/minambiente-compartio-rendicion-de-cuentas-para-el-sector/",
+        "published_date": "2026-07-15 00:22:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Conservative Party will support Deluque for the presidency of the Senate",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/partido-conservador-apoyara-a-deluque-a-la-presidencia-del-senado/",
+        "published_date": "2026-07-15 00:03:31",
+        "category": "Local Events"
     },
     {
         "title": "Judge overturned accusation of Daniel Quintero in the Aguas Vivas case",
@@ -543,132 +655,6 @@
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/restrepo-hablo-de-productividad-y-crecimiento-economico-en-washington-4435917",
         "published_date": "2026-07-14 23:05:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cHe is the worst enemy of peace\u201d: Cepeda before the closure of the Peace Ministry",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/es-el-peor-enemigo-de-la-paz-cepeda-ante-cierre-de-consejeria-de-paz/",
-        "published_date": "2026-07-14 22:39:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "Juan David Grillo R\u00edos took over as technical director in charge of Carf",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/juan-david-grillo-rios-asumio-como-director-tecnico-encargado-del-carf-4435943",
-        "published_date": "2026-07-14 22:32:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sof\u00eda Petro did not say that \u201cher path will be exile\u201d after De la Espriella's victory",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/sofia-petro-no-dijo-que-su-camino-sera-el-exilio-tras-triunfo-de-de-la-espriella/",
-        "published_date": "2026-07-14 22:01:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "The progress in macro case 11 should influence ordinary justice",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/los-avances-en-el-macrocaso-11-debrian-influir-en-la-justicia-ordinaria/",
-        "published_date": "2026-07-14 22:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Omar Bula Escobar",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/quien-es-quien/omar-bula-escobar/",
-        "published_date": "2026-07-14 21:39:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "Palma asks Superservicios to prioritize Air-e payments in Spec maintenance",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/palma-pide-a-superservicios-priorizar-pagos-de-air-e-en-mantenimiento-de-spec-4435789",
-        "published_date": "2026-07-14 21:29:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Constitutional Court will debate legality of binational zone with Venezuela",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/corte-constitucional-debate-legalidad-de-zona-binacional-con-venezuela/",
-        "published_date": "2026-07-14 21:12:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "The two key experts who go with the vice president to his meetings with the gringos",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/los-dos-expertos-clave-que-van-con-el-vice-a-sus-reuniones-con-los-gringos/",
-        "published_date": "2026-07-14 19:43:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cThere is an opening of society towards the migrant population\u201d",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-venezuela/se-ve-una-apertura-de-la-sociedad-frente-a-la-poblacion-migrante/",
-        "published_date": "2026-07-14 18:53:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "To the rhythm of salsa, football and pride: this is how Governor Dilian Francisca Toro received the Valle del Cauca players of the Colombian National Team",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/a-ritmo-de-salsa-futbol-y-orgullo-asi-recibio-la-gobernadora-dilian-francisca-toro-a-los-jugadores-vallecaucanos-de-la-seleccion-colombia-3571215",
-        "published_date": "2026-07-14 17:59:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Elected government and IMF will begin technical review of the state of public finances",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/gobierno-electo-y-fmi-iniciaran-revision-tecnica-del-estado-de-las-finanzas-publicas-4435677",
-        "published_date": "2026-07-14 17:58:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "Video |Criminals who posed as Sij\u00edn agents stole $80 million from an elderly couple in their home in Cali",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/video-delincuentes-que-se-hicieron-pasar-por-agentes-de-la-sijin-habrian-hurtado-80-millones-a-una-pareja-de-adultos-mayores-en-su-vivienda-en-cali-3571202",
-        "published_date": "2026-07-14 17:57:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Woman was apparently murdered by her partner when he stabbed her nearly 15 times in the Popular neighborhood of Medell\u00edn;alleged perpetrator died",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/mujer-fue-asesinada-al-parecer-por-su-pareja-cuando-le-propino-cerca-de-15-punaladas-en-el-barrio-popular-de-medellin-presunto-responsable-murio-3571201",
-        "published_date": "2026-07-14 17:51:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "Aguas de Cartagena freezes rates for the remainder of 2026, in the midst of a controversial dispute with the District administration",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/aguas-de-cartagena-congela-tarifas-para-lo-que-resta-de-2026-en-medio-de-polemico-pulso-con-la-administracion-distrital-3571213",
-        "published_date": "2026-07-14 17:40:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "Superintendent Daniel Quintero speaks after the annulment of the accusation in the Aguas Vivas case in Medell\u00edn",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/superintendente-daniel-quintero-habla-tras-la-anulacion-de-la-imputacion-del-caso-aguas-vivas-en-medellin-3571211",
-        "published_date": "2026-07-14 17:27:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "The end of the La T\u00eda alias network: it used a facade in Cali to evade satellites and sell stolen iPhones in the foreign market",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/el-fin-de-la-red-de-alias-la-tia-usaba-fachada-en-cali-para-evadir-satelites-y-vender-iphones-robados-en-el-mercado-extranjero-3571187",
-        "published_date": "2026-07-14 17:04:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Twist in the controversial case of the 'Aguas Vivas' lot: judge knocks down the indictment of charges against Daniel Quintero",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/giro-en-el-polemico-caso-del-lote-aguas-vivas-juez-tumba-la-imputacion-de-cargos-contra-daniel-quintero-3571178",
-        "published_date": "2026-07-14 16:12:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "A new fight for land confronts communities of Taganga and Palmor with indigenous peoples of the Sierra Nevada de Santa Marta",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/un-nuevo-pulso-por-la-tierra-enfrenta-a-comunidades-de-taganga-y-palmor-con-pueblos-indigenas-de-la-sierra-nevada-de-santa-marta-3571179",
-        "published_date": "2026-07-14 15:45:00",
         "category": "Local Events"
     }
 ]
