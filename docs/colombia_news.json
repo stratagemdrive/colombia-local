@@ -63,25 +63,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Abelardo's government promises to respect the autonomy of BanRep",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/gobierno-de-abelardo-promete-respetar-autonomia-del-banrep/",
-        "published_date": "2026-07-09 23:46:37",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Bula, designated foreign minister, promoted disinformation in gringo elections",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/bula-canciller-designado-promovio-desinformacion-en-elecciones-gringas/",
-        "published_date": "2026-07-09 13:34:38",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "\"Pillars of the new Foreign Ministry will be modernization, professionalization and austerity\"",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/entrevista-de-la-fm-de-rcn-con-omar-bula-canciller-designado-por-abelardo-de-la-espriella-4432517",
-        "published_date": "2026-07-09 12:37:54",
-        "category": "Diplomacy"
+        "title": "The hypothesis about the four bodies found among cane fields in the Valley in the last week: a discovery in the Vuelta al Diablo area",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/la-hipotesis-sobre-los-cuatro-cadaveres-encontrados-entre-canaduzales-en-el-valle-en-la-ultima-semana-un-hallazgo-en-la-zona-de-la-vuelta-del-diablo-3572015",
+        "published_date": "2026-07-17 16:50:23",
+        "category": "Military"
     },
     {
         "title": "CCI presented roadmap to guarantee continuity of infrastructure projects",
@@ -217,11 +203,18 @@
         "category": "Military"
     },
     {
-        "title": "There are already 115 FARC dissidents who have voluntarily surrendered this year in the southwest of the country: one of them managed to escape",
+        "title": "In MinMinas they talk about the resignation of Edwin Palma",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/en-minminas-hablan-de-la-renuncia-de-edwin-palma/",
+        "published_date": "2026-07-17 20:20:00",
+        "category": "Energy"
+    },
+    {
+        "title": "The Attorney General's Office visited Hidroituango to verify the works and the plan in the face of an El Ni\u00f1o phenomenon: this is what they found",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/ya-son-115-disidentes-de-las-farc-que-se-han-entregado-voluntariamente-en-este-ano-en-el-suroccidente-del-pais-uno-de-ellos-logro-fugarse-3570524",
-        "published_date": "2026-07-10 15:20:00",
-        "category": "Military"
+        "url": "https://www.eltiempo.com/colombia/medellin/procuraduria-visito-hidroituango-para-verificar-las-obras-y-el-plan-ante-un-fenomeno-de-el-nino-esto-encontraron-3572082",
+        "published_date": "2026-07-17 17:46:30",
+        "category": "Energy"
     },
     {
         "title": "Huila, Caquet\u00e1 and Tolima, the regions where the electricity bill is more expensive",
@@ -350,18 +343,18 @@
         "category": "Energy"
     },
     {
-        "title": "De la Espriella appoints Minister of Energy and announces cuts",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/de-la-espriella-nombra-ministra-de-energia-y-anuncia-recortes/",
-        "published_date": "2026-07-14 01:51:30",
-        "category": "Energy"
+        "title": "Andr\u00e9s Quevedo and Juan Sebasti\u00e1n Betancur will join the Ministry of Finance",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/andres-quevedo-y-juan-sebastian-betancur-se-sumaran-al-ministerio-de-hacienda-4438331",
+        "published_date": "2026-07-17 18:55:47",
+        "category": "Economy"
     },
     {
-        "title": "Fitch Ratings warned that the price of Brent would be less than US$87 at the end of 2026",
+        "title": "Market analysts anticipate that the Issuer's interest rate hike would end in July",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/fitch-ratings-advirtio-que-el-precio-del-brent-podria-ser-inferior-a-us-87-al-cierre-de-2026-4435153",
-        "published_date": "2026-07-13 19:01:03",
-        "category": "Energy"
+        "url": "https://www.larepublica.co/economia/analistas-del-mercado-anticipan-que-subida-de-tasas-del-banrep-terminaria-en-julio-4438259",
+        "published_date": "2026-07-17 16:46:12",
+        "category": "Economy"
     },
     {
         "title": "Medell\u00edn, Pereira and Manizales, the cities where services weigh the most in the cost of living",
@@ -427,150 +420,143 @@
         "category": "Economy"
     },
     {
-        "title": "External debt in April stood at 51.6% of GDP, reduced by 2.1 percentage points",
+        "title": "Day of the Snake: Canangucha, the species that looks like an Amazonian fruit",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-amazonia/dia-de-la-serpiente-canangucha-la-especie-que-parece-un-fruto-amazonico/",
+        "published_date": "2026-07-17 23:23:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "Controversy over the definition of the Afro seat of the Pulgar clan",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/polemica-por-definicion-de-curul-afro-del-clan-pulgar/",
+        "published_date": "2026-07-17 23:23:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "The selective Constitution in the new government",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-verde/la-constitucion-selectiva-en-el-nuevo-gobierno/",
+        "published_date": "2026-07-17 22:56:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "Seven cultural decisions that Paola Holgu\u00edn cannot postpone",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/siete-decisiones-culturales-que-paola-holguin-no-puede-aplazar/",
+        "published_date": "2026-07-17 22:10:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "Paola Holgu\u00edn will be Minister of Culture, a position with an average duration of 25 months",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/deuda-externa-en-abril-cayo-a-51-6-del-pib-se-redujo-en-2-1-puntos-del-pib-4432780",
-        "published_date": "2026-07-09 16:54:04",
-        "category": "Economy"
-    },
-    {
-        "title": "Have an informed breakfast with the keys for July 17, 2026",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-claves-del-17-de-julio-de-2026/",
-        "published_date": "2026-07-17 12:00:00",
+        "url": "https://www.larepublica.co/economia/cuanto-dura-en-promedio-un-ministro-de-cultura-4438432",
+        "published_date": "2026-07-17 21:57:30",
         "category": "Local Events"
     },
     {
-        "title": "The battle Abelard can win and the war he can lose",
+        "title": "Paola Holgu\u00edn will be the minCulture of Abelardo de la Espriella",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/historia-abelardo/",
-        "published_date": "2026-07-17 11:49:28",
+        "url": "https://www.lasillavacia.com/en-vivo/paola-holguin-sera-la-mincultura-de-abelardo-de-la-espriella/",
+        "published_date": "2026-07-17 21:41:41",
         "category": "Local Events"
     },
     {
-        "title": "The new Congress: the year of Abelard",
+        "title": "Even with hate speech, it is not so easy for political violence to resurface",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/el-nuevo-congreso-el-ano-de-abelardo/",
-        "published_date": "2026-07-17 11:34:48",
+        "url": "https://www.lasillavacia.com/silla-academica/incluso-con-discursos-de-odio-no-es-tan-viable-volver-a-la-violencia-politica/",
+        "published_date": "2026-07-17 21:00:00",
         "category": "Local Events"
     },
     {
-        "title": "Despite the arrival of El Ni\u00f1o, the Ideam projects more rain this month in several regions",
+        "title": "Constitutional Court ordered to help displaced indigenous people in Guaviare",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-amazonia/corte-constitucional-ordeno-ayudar-a-indigenas-desplazados-en-guaviare/",
+        "published_date": "2026-07-17 20:48:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "In a country like Colombia, peace is not a bureaucratic whim",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/en-un-pais-como-colombia-la-paz-no-es-un-capricho-burocratico/",
+        "published_date": "2026-07-17 20:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Three regions already record their hottest days in the last 20 years",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-amazonia/tres-regiones-ya-registran-sus-dias-mas-calurosos-en-los-ultimos-20-anos/",
+        "published_date": "2026-07-17 20:27:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Selling chickens: the Samac\u00e1 Symphonic Band seeks to collect 300 million pesos to travel to the Music World Cup in Holland",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/vendiendo-gallinas-la-banda-sinfonica-de-samaca-busca-recoger-300-millones-de-pesos-para-viajar-al-mundial-de-musica-en-holanda-3572089",
+        "published_date": "2026-07-17 18:13:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "Hidroituango warned that gaps in the Petro Government's planning would have left the country facing a 'perfect storm' in the electricity sector",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/hidroituango-advirtio-que-vacios-en-la-planeacion-del-gobierno-petro-habrian-dejado-al-pais-ante-una-tormenta-perfecta-en-el-sector-electrico-3572024",
+        "published_date": "2026-07-17 17:41:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "They open a call for university transportation subsidies from the 22 municipalities of the Atl\u00e1ntico department: this is how you can apply",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/abren-convocatoria-para-subsidio-de-transporte-universitario-de-los-22-municipios-del-departamento-del-atlantico-asi-puede-postularse-3572067",
+        "published_date": "2026-07-17 17:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Five Pomeranian puppies were stolen during an armed robbery in Cali: 'I ask you to touch your hearts and give us our babies back'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/cinco-perritos-pomerania-fueron-robados-durante-un-asalto-a-mano-armada-en-cali-les-pido-que-se-toquen-el-corazon-y-nos-devuelvan-a-nuestros-bebes-3572069",
+        "published_date": "2026-07-17 17:28:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "Shaking in the departmental cabinet: these are the key pieces that leave the Government of Antioquia to assume new leadership",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/remezon-en-el-gabinete-departamental-estas-son-las-piezas-clave-que-salen-de-la-gobernacion-de-antioquia-para-asumir-nuevos-liderazgos-3572077",
+        "published_date": "2026-07-17 17:26:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "Marches on July 20: CUT and Fecode call for mobilizations in Colombia;know the cities that will participate and the schedules",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/marchas-del-20-de-julio-cut-y-fecode-convocan-movilizaciones-en-colombia-conozca-las-ciudades-que-participaran-y-los-horarios-3572028",
+        "published_date": "2026-07-17 17:21:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Barranquilla celebrates 9 years of the Gran Malec\u00f3n: more than 2,000 events and new attractions drive its consolidation",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-celebra-los-9-anos-del-gran-malecon-mas-de-2-000-eventos-y-nuevas-atracciones-impulsan-su-consolidacion-3572048",
+        "published_date": "2026-07-17 16:29:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cali protects itself against the El Ni\u00f1o phenomenon: Mayor's Office activates a special plan for the season of less rain",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/cali-se-blinda-contra-el-fenomeno-de-el-nino-alcaldia-activa-plan-especial-ante-la-temporada-de-menos-lluvias-3572053",
+        "published_date": "2026-07-17 16:14:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "Bogot\u00e1 Mayor's Office spoke with the designated MinTransporte about the Metro project",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/pese-a-llegada-de-el-nino-ideam-espera-mas-lluvias-este-mes-en-varias-regiones-4437842",
-        "published_date": "2026-07-17 05:04:52",
+        "url": "https://www.larepublica.co/economia/alcaldia-de-bogota-converso-con-ministra-designada-de-transporte-para-hablar-de-proyectos-clave-4438240",
+        "published_date": "2026-07-17 16:06:41",
         "category": "Local Events"
     },
     {
-        "title": "Check the restriction!Peak and plate in Pereira for Friday, July 17, 2026",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/consulte-la-restriccion-pico-y-placa-en-pereira-para-el-viernes-17-de-julio-de-3571741",
-        "published_date": "2026-07-17 02:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Avoid fines!This is how the peak and plate will work in Bucaramanga this Friday, July 17, 2026",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/evite-multas-asi-funcionara-el-pico-y-placa-en-bucaramanga-este-viernes-17-de-julio-de-3571739",
-        "published_date": "2026-07-17 02:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Medell\u00edn maintains the current rotation of the peak and plate: this is how the restriction will operate this Friday, July 17",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/medellin-mantiene-la-actual-rotacion-del-pico-y-placa-asi-operara-la-restriccion-este-viernes-17-de-julio-3571737",
-        "published_date": "2026-07-17 02:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Check if you can drive!Peak and plaque in Cali for Friday, July 17, 2026",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/revise-si-puede-circular-pico-y-placa-en-cali-para-el-viernes-17-de-julio-de-3571734",
-        "published_date": "2026-07-17 02:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Acueducto denies having permission from Anla for pilots with wastewater",
+        "title": "Council of State revoked the ruling and gave way to the decree that raised the minimum wage by 23.7%",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/acueducto-niega-tener-permiso-de-la-anla-para-pilotos-con-aguas-residuales-4437895",
-        "published_date": "2026-07-17 01:54:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sleep informed with the movements of this July 16, 2026",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-movidas-de-este-16-de-julio-de-2026/",
-        "published_date": "2026-07-17 00:54:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Will there be massive layoffs of traffic agents in Cali?Mayor's Office addresses rumors and clarifies the situation",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/habra-despidos-masivos-de-agentes-de-transito-en-cali-alcaldia-sale-al-paso-a-rumores-y-aclara-la-situacion-3571882",
-        "published_date": "2026-07-17 00:50:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "It will be by consensus: The Pact has not yet defined who it will support in the Senate",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/pacto-aun-no-define-a-quien-apoyara-para-el-senado-sera-por-consenso/",
-        "published_date": "2026-07-17 00:41:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Santander Vision 2050 projects per capita income of US$50,000 in 25 years",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/vision-santander-2050-proyecta-ingreso-per-capita-superior-a-us-50-000-en-25-anos-4437869",
-        "published_date": "2026-07-17 00:36:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "Council of State suspends decree that lowers the salary of congressmen",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/consejo-de-estado-suspende-decreto-que-le-baja-el-salario-a-congresistas/",
-        "published_date": "2026-07-16 23:23:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Authorities identify a Prosecutor's Office official murdered in Palmira: he was shot while riding a motorcycle",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/autoridades-identifican-a-funcionario-de-la-fiscalia-asesinado-en-palmira-fue-atacado-a-tiros-cuando-se-movilizaba-en-motocicleta-3571875",
-        "published_date": "2026-07-16 22:17:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "Court freed Abelardo from apologizing for minimizing the female vote",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/juzgado-libro-a-abelardo-de-disculparse-por-minimizar-el-voto-femenino/",
-        "published_date": "2026-07-16 21:53:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cAbelardo cannot end the Agreement, but he has a way to weaken it\u201d",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/abelardo-no-puede-acabar-con-el-acuerdo-pero-tiene-como-debilitarlo/",
-        "published_date": "2026-07-16 21:52:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "Women and girls, doubly affected by natural disasters",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-las-mujeres/mujeres-y-ninas-doblemente-afectadas-por-los-desastres-naturales/",
-        "published_date": "2026-07-16 21:51:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Jorge Eduardo Mora L\u00f3pez",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/quien-es-quien/jorge-eduardo-mora-lopez/",
-        "published_date": "2026-07-16 21:46:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "With the Pact, Petro presents his opposition strategy in Congress",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/con-el-pacto-petro-plantea-su-estrategia-de-oposicion-en-el-congreso/",
-        "published_date": "2026-07-16 21:19:48",
+        "url": "https://www.larepublica.co/economia/consejo-de-estado-revoco-fallo-y-dio-via-libre-al-decreto-que-subio-el-minimo-en-23-7-4438132",
+        "published_date": "2026-07-17 13:14:51",
         "category": "Local Events"
     }
 ]
