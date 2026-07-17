@@ -1,5 +1,12 @@
 [
     {
+        "title": "Incoming government is preparing a cooperation phase to attract US energy investment.",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/gobierno-entrante-alista-fase-de-cooperacion-para-atraer-inversion-energetica-de-ee-uu-4438025",
+        "published_date": "2026-07-17 11:36:34",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Colombia will open an embassy in Israel as soon as De La Espriella takes possession",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/colombia-abrira-una-embajada-en-israel-tan-pronto-se-posesione-de-la-espriella-4437220",
@@ -217,10 +224,31 @@
         "category": "Military"
     },
     {
+        "title": "Huila, Caquet\u00e1 and Tolima, the regions where the electricity bill is more expensive",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/huila-caqueta-y-tolima-donde-el-recibo-de-energia-electrica-llega-mas-caro-4437837",
+        "published_date": "2026-07-17 05:03:44",
+        "category": "Energy"
+    },
+    {
+        "title": "Ecopetrol is projecting the highest level of quarterly profits in four years",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/ecopetrol-preve-el-nivel-de-utilidades-trimestrales-mas-alto-en-cuatro-anos-4437711",
+        "published_date": "2026-07-17 05:00:34",
+        "category": "Energy"
+    },
+    {
         "title": "Government issues decree to regulate the closure of mines in Colombia",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/silla-amazonia/gobierno-saca-decreto-para-reglamentar-el-cierre-de-minas-en-colombia/",
         "published_date": "2026-07-16 21:17:19",
+        "category": "Energy"
+    },
+    {
+        "title": "Shock due to the death of Freddy Rivero Vargas, renowned pilot and motorcycle fan: he suffered an accident in Floridablanca",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/conmocion-por-muerte-de-freddy-rivero-vargas-reconocido-piloto-y-aficionado-a-las-motos-sufrio-un-accidente-en-floridablanca-3571843",
+        "published_date": "2026-07-16 20:07:27",
         "category": "Energy"
     },
     {
@@ -336,27 +364,6 @@
         "category": "Energy"
     },
     {
-        "title": "Power outages due to Air-e Intervenida work will affect three municipalities in the Atlantic this July 14: learn about the sectors",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/cortes-de-energia-por-trabajos-de-air-e-intervenida-afectaran-este-14-de-julio-a-tres-municipios-del-atlantico-conozca-los-sectores-3570931",
-        "published_date": "2026-07-13 17:01:00",
-        "category": "Energy"
-    },
-    {
-        "title": "Government of La Espriella: criminal complaint for cases in ANT and Ecopetrol subsidiary",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/gobierno-de-la-espriella-anuncia-denuncia-penal-contra-la-ant-y-filial-de-ecopetrol/",
-        "published_date": "2026-07-12 18:41:17",
-        "category": "Energy"
-    },
-    {
-        "title": "The reasons that led the country to be at high risk of facing a blackout",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/las-razones-que-llevaron-a-que-el-pais-este-en-alto-riesgo-de-enfrentar-un-apagon-3570741",
-        "published_date": "2026-07-12 00:01:00",
-        "category": "Energy"
-    },
-    {
         "title": "Medell\u00edn, Pereira and Manizales, the cities where services weigh the most in the cost of living",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/medellin-pereira-y-manizales-donde-los-servicios-pesan-mas-en-el-costo-de-vida-4436219",
@@ -427,17 +434,108 @@
         "category": "Economy"
     },
     {
-        "title": "Government of De La Espriella and Bank of the Republic will meet today behind closed doors",
+        "title": "Have an informed breakfast with the keys for July 17, 2026",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-claves-del-17-de-julio-de-2026/",
+        "published_date": "2026-07-17 12:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The battle Abelard can win and the war he can lose",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/historia-abelardo/",
+        "published_date": "2026-07-17 11:49:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "The new Congress: the year of Abelard",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/el-nuevo-congreso-el-ano-de-abelardo/",
+        "published_date": "2026-07-17 11:34:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Despite the arrival of El Ni\u00f1o, the Ideam projects more rain this month in several regions",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/gobierno-de-de-la-espriella-y-banco-de-la-republica-se-reuniran-hoy-a-puerta-cerrada-4432531",
-        "published_date": "2026-07-09 11:57:08",
-        "category": "Economy"
+        "url": "https://www.larepublica.co/economia/pese-a-llegada-de-el-nino-ideam-espera-mas-lluvias-este-mes-en-varias-regiones-4437842",
+        "published_date": "2026-07-17 05:04:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "Check the restriction!Peak and plate in Pereira for Friday, July 17, 2026",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/consulte-la-restriccion-pico-y-placa-en-pereira-para-el-viernes-17-de-julio-de-3571741",
+        "published_date": "2026-07-17 02:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Avoid fines!This is how the peak and plate will work in Bucaramanga this Friday, July 17, 2026",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/evite-multas-asi-funcionara-el-pico-y-placa-en-bucaramanga-este-viernes-17-de-julio-de-3571739",
+        "published_date": "2026-07-17 02:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Medell\u00edn maintains the current rotation of the peak and plate: this is how the restriction will operate this Friday, July 17",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/medellin-mantiene-la-actual-rotacion-del-pico-y-placa-asi-operara-la-restriccion-este-viernes-17-de-julio-3571737",
+        "published_date": "2026-07-17 02:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Check if you can drive!Peak and plaque in Cali for Friday, July 17, 2026",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/revise-si-puede-circular-pico-y-placa-en-cali-para-el-viernes-17-de-julio-de-3571734",
+        "published_date": "2026-07-17 02:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Acueducto denies having permission from Anla for pilots with wastewater",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/acueducto-niega-tener-permiso-de-la-anla-para-pilotos-con-aguas-residuales-4437895",
+        "published_date": "2026-07-17 01:54:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "Sleep informed with the movements of this July 16, 2026",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-movidas-de-este-16-de-julio-de-2026/",
+        "published_date": "2026-07-17 00:54:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Will there be massive layoffs of traffic agents in Cali?Mayor's Office addresses rumors and clarifies the situation",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/habra-despidos-masivos-de-agentes-de-transito-en-cali-alcaldia-sale-al-paso-a-rumores-y-aclara-la-situacion-3571882",
+        "published_date": "2026-07-17 00:50:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "It will be by consensus: The Pact has not yet defined who it will support in the Senate",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/pacto-aun-no-define-a-quien-apoyara-para-el-senado-sera-por-consenso/",
+        "published_date": "2026-07-17 00:41:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "Santander Vision 2050 projects per capita income of US$50,000 in 25 years",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/vision-santander-2050-proyecta-ingreso-per-capita-superior-a-us-50-000-en-25-anos-4437869",
+        "published_date": "2026-07-17 00:36:56",
+        "category": "Local Events"
     },
     {
         "title": "Council of State suspends decree that lowers the salary of congressmen",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/consejo-de-estado-suspende-decreto-que-le-baja-el-salario-a-congresistas/",
         "published_date": "2026-07-16 23:23:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "Authorities identify a Prosecutor's Office official murdered in Palmira: he was shot while riding a motorcycle",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/autoridades-identifican-a-funcionario-de-la-fiscalia-asesinado-en-palmira-fue-atacado-a-tiros-cuando-se-movilizaba-en-motocicleta-3571875",
+        "published_date": "2026-07-16 22:17:57",
         "category": "Local Events"
     },
     {
@@ -473,104 +571,6 @@
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/con-el-pacto-petro-plantea-su-estrategia-de-oposicion-en-el-congreso/",
         "published_date": "2026-07-16 21:19:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cNever again!\u201d: the lessons of war that we have not yet learned",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/nunca-mas-las-lecciones-de-la-guerra-que-aun-no-aprendemos/",
-        "published_date": "2026-07-16 19:37:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "A virtual course to resolve your doubts about the new government",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/un-curso-virtual-para-resolver-sus-dudas-sobre-el-nuevo-gobierno/",
-        "published_date": "2026-07-16 19:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Conservatives ask Honorio Henr\u00edquez to drop his bid for the Senate",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/godos-piden-a-honorio-henriquez-bajarse-de-la-puja-por-el-senado/",
-        "published_date": "2026-07-16 19:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Medell\u00edn Metro overcame the complex electrical failure and normalized its operation for rush hour: manager provided details of the work",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/el-metro-de-medellin-supero-la-compleja-falla-electrica-y-normalizo-su-operacion-para-la-hora-pico-gerente-entrego-detalles-de-los-trabajos-3571827",
-        "published_date": "2026-07-16 18:29:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "A journey of faith through the patron saint of drivers: a massive presence accompanies the traditional day of the Virgin of Carmen in Barranquilla",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/un-recorrido-de-fe-por-la-patrona-de-los-choferes-con-presencia-multitudinaria-se-acompana-el-tradicional-dia-de-la-virgen-del-carmen-en-barranquilla-3571818",
-        "published_date": "2026-07-16 18:10:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Commerce recorded a growth of 11.9% between January and May compared to 2025",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/comercio-registro-un-crecimiento-de-11-9-entre-enero-y-mayo-frente-a-2025-4436999",
-        "published_date": "2026-07-16 18:05:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "These are the designs of the second phase of the works required by the Ca\u00f1averalejo Plant in Cali: the Valley seeks support from the Government to build it",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/estos-son-los-disenos-de-la-segunda-fase-de-las-obras-que-requiere-la-ptar-canaveralejo-de-cali-el-valle-busca-apoyo-del-gobierno-para-construirla-3571802",
-        "published_date": "2026-07-16 18:04:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Barranquilla issues health alert due to smoke from burning on Salamanca Island: these are the recommendations",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-emite-alerta-sanitaria-por-humo-de-las-quemas-en-isla-salamanca-estas-son-las-recomendaciones-3571814",
-        "published_date": "2026-07-16 18:03:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Approved: this is the salary that the mayor of Medell\u00edn, Federico Guti\u00e9rrez, will receive in 2026",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/aprobado-este-es-el-sueldo-que-recibira-el-alcalde-de-medellin-federico-gutierrez-en-3571805",
-        "published_date": "2026-07-16 17:40:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Criminals intended to score a 'great goal' for the Valley authorities by camouflaging 324 bottles of adulterated liquor in a shipment of scrap metal",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/delincuentes-pretendian-meter-un-golazo-a-las-autoridades-del-valle-al-camuflar-324-botellas-de-licor-adulterado-en-un-cargamento-de-chatarra-3571791",
-        "published_date": "2026-07-16 17:19:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "De La Espriella promised to make visits to the departments during his Government",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/de-la-espriella-prometio-hacer-visitas-periodicas-a-los-departamentos-en-su-gobierno-4437461",
-        "published_date": "2026-07-16 16:45:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "How much does an Airbnb host in Medell\u00edn make?The millionaire figure that drives short-stay tourism",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/cuanto-gana-un-anfitrion-de-airbnb-en-medellin-la-millonaria-cifra-que-mueve-el-turismo-de-estancia-corta-3571765",
-        "published_date": "2026-07-16 16:39:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "Anato supported proposal to change rules of the National Tourism Registry",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/anato-respaldo-propuesta-del-gobierno-para-cambiar-reglas-del-registro-nacional-de-turismo-4437415",
-        "published_date": "2026-07-16 15:42:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Bogot\u00e1, Antioquia and Valle del Cauca lead the Competitiveness Index",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/bogota-antioquia-y-valle-del-cauca-lideran-el-indice-departamental-de-competitividad-4437374",
-        "published_date": "2026-07-16 15:38:17",
         "category": "Local Events"
     }
 ]
