@@ -1,5 +1,12 @@
 [
     {
+        "title": "IDB will accompany the elected Government with resources for the National Development Plan",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/bid-si-acompanara-al-gobierno-electo-con-recursos-para-iniciativas-como-el-plan-nacional-de-desarrollo-4439107",
+        "published_date": "2026-07-18 21:20:39",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Incoming government is preparing a cooperation phase to attract US energy investment.",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/gobierno-entrante-alista-fase-de-cooperacion-para-atraer-inversion-energetica-de-ee-uu-4438025",
@@ -56,11 +63,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Restrepo and delegate ministers prepare international agenda in the US",
+        "title": "MinTrabajo Sanguino asks the Secretary of Security of Bogot\u00e1 to rectify",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/restrepo-y-ministros-delegados-alistan-agenda-internacional-en-ee-uu/",
-        "published_date": "2026-07-10 19:12:08",
-        "category": "Diplomacy"
+        "url": "https://www.lasillavacia.com/en-vivo/mintrabajo-sanguino-pide-al-secretario-de-seguridad-de-bogota-rectificar/",
+        "published_date": "2026-07-18 20:50:42",
+        "category": "Military"
+    },
+    {
+        "title": "Restrepo confirms presence of the United States in the working tables of the elected government",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/restrepo-confirma-presencia-de-ee-uu-en-mesas-de-trabajo-de-gobierno-electo-4438986",
+        "published_date": "2026-07-18 16:41:41",
+        "category": "Military"
     },
     {
         "title": "The security breaches in the Itag\u00fc\u00ed prison that were exposed prior to the denunciation of a possible mass escape plan",
@@ -189,18 +203,11 @@
         "category": "Military"
     },
     {
-        "title": "Spies from the 'Gulf clan' were captured by the Police in Antioquia: they leaked information from the Public Force and local gangs",
+        "title": "Video |To the rhythm of 'Mi Llanerita', this teacher from Malambo (Atl\u00e1ntico) turned returning to school into a party and made everyone fall in love on social media",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/espias-del-clan-del-golfo-fueron-capturados-por-la-policia-en-antioquia-filtraban-informacion-de-la-fuerza-publica-y-de-las-bandas-locales-3570574",
-        "published_date": "2026-07-10 18:42:49",
-        "category": "Military"
-    },
-    {
-        "title": "In Latin America, voting is not enough",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/en-america-latina-votar-no-basta/",
-        "published_date": "2026-07-10 18:00:00",
-        "category": "Military"
+        "url": "https://www.eltiempo.com/colombia/barranquilla/video-al-ritmo-de-mi-llanerita-esta-profesora-de-malambo-atlantico-convirtio-el-regreso-a-clases-en-una-fiesta-y-enamoro-a-todos-en-las-redes-3572223",
+        "published_date": "2026-07-18 14:01:00",
+        "category": "Energy"
     },
     {
         "title": "A barrel of Brent oil above US$85 leaves an additional $4 billion for the Nation",
@@ -336,13 +343,6 @@
         "category": "Energy"
     },
     {
-        "title": "What is XM and how does it operate, the tower that controls and monitors the entire national energy system?",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/que-es-y-como-opera-xm-la-torre-de-control-del-sistema-energetico-nacional-4434645",
-        "published_date": "2026-07-14 05:02:37",
-        "category": "Energy"
-    },
-    {
         "title": "Andr\u00e9s Quevedo and Juan Sebasti\u00e1n Betancur will join the Ministry of Finance",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/andres-quevedo-y-juan-sebastian-betancur-se-sumaran-al-ministerio-de-hacienda-4438331",
@@ -399,150 +399,143 @@
         "category": "Economy"
     },
     {
-        "title": "Time spent on domestic work in 2024 was worth $340.5 billion, 19.9% \u200b\u200bof GDP",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/tiempo-dedicado-al-trabajo-domestico-en-2024-valio-340-5-billones-19-9-del-pib-4433853",
-        "published_date": "2026-07-10 16:13:25",
-        "category": "Economy"
+        "title": "Position yourself in the health debate: how far are you from those who think differently?",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/detector-de-mentiras/ubiquese-en-el-debate-a-la-salud-que-tan-lejos-esta-de-quien-piensa-distinto/",
+        "published_date": "2026-07-18 23:00:00",
+        "category": "Local Events"
     },
     {
-        "title": "Attention: several tremors were recorded in Colombia during the early hours of this Saturday, July 18;epicenters and magnitude",
+        "title": "The institutionality of peace in a logic of care",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/la-institucionalidad-de-la-paz-en-una-logica-de-cuidado/",
+        "published_date": "2026-07-18 22:54:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "The signs of the Tiger.What can be anticipated from the next Government?",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/opinion/las-senales-del-tigre-que-se-puede-anticipar-del-proximo-gobierno/",
+        "published_date": "2026-07-18 22:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Fight continues between Uribismo and the De la Espriella government for the presidencies of Congress",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/sigue-pelea-entre-uribismo-y-el-gobierno-de-de-la-espriella-por-las-presidencias-del-congreso/",
+        "published_date": "2026-07-18 21:49:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "De la Espriella's second \u201ccouncil of ministers\u201d: Congress directives will be a key issue",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/segundo-consejo-de-ministros-de-de-la-espriella-directivas-del-congreso-seran-tema-clave/",
+        "published_date": "2026-07-18 18:50:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "Abelardo De La Espriella convened his second council of ministers in Barranquilla",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/de-la-espriella-convoco-su-segundo-consejo-de-ministros-en-barranquilla-4439020",
+        "published_date": "2026-07-18 18:45:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "Unified Investment and Public Finance System made changes to the Piip platform",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/el-suifp-sgr-opero-con-normalidad-durante-el-cierre-de-la-etapa-de-requisitos-de-la-convocatoria-4439051",
+        "published_date": "2026-07-18 18:42:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "Petro government law toughens penalties for recruiting minors",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/ley-del-gobierno-petro-endurece-las-penas-por-reclutamiento-de-menores/",
+        "published_date": "2026-07-18 18:21:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cColombia returns to the international stage with greatness\u201d: Restrepo after tour in Washington",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/colombia-retorna-el-escenario-internacional-con-grandeza-restrepo-tras-gira-en-washington/",
+        "published_date": "2026-07-18 17:09:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "Civil Aeronautics expects 914,000 travelers for the Independence Day holiday",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/aerocivil-espera-914-000-viajeros-por-el-festivo-del-dia-de-la-independencia-4439000",
+        "published_date": "2026-07-18 17:04:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Governor of Atl\u00e1ntico, Eduardo Verano, inspects works of the future presidential headquarters of Abelardo de la Espriella in Barranquilla",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/atencion-varios-temblores-se-registraron-en-colombia-durante-la-madrugada-de-este-sabado-18-de-julio-epicentros-y-magnitud-3572169",
-        "published_date": "2026-07-18 06:24:54",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/el-gobernador-del-atlantico-eduardo-verano-inspecciona-obras-de-la-futura-sede-presidencial-de-abelardo-de-la-espriella-en-barranquilla-3572237",
+        "published_date": "2026-07-18 16:30:00",
         "category": "Local Events"
     },
     {
-        "title": "The spell of power: the search for providential men",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/opinion/el-hechizo-del-poder-la-busqueda-de-hombres-providenciales/",
-        "published_date": "2026-07-18 05:36:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The invisible debt of the health system",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/opinion/la-deuda-invisible-del-sistema-de-salud/",
-        "published_date": "2026-07-18 05:19:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The possession of Abelardo in a military base: symbols and civil power",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/la-posesion-de-abelardo-en-una-base-militar-simbolos-y-poder-civil/",
-        "published_date": "2026-07-18 05:09:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "ICE chases and kills migrants;Abelardo is silent",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/opinion/ice-persigue-y-mata-a-migrantes-abelardo-calla/",
-        "published_date": "2026-07-18 05:05:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Santander Vision 2050 projects per capita income of more than US$50,000 in 25 years",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/vision-santander-2050-proyecta-ingreso-per-capita-superior-a-us-50-000-en-25-anos-4438691",
-        "published_date": "2026-07-18 05:01:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "Nari\u00f1o has a new fuel supply plan",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/narino-cuenta-con-un-nuevo-plan-de-abastecimiento-de-combustibles-4438801",
-        "published_date": "2026-07-18 02:10:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "They formally accuse the mayor of Villa de Leyva, V\u00edctor Gamboa, for allegedly demanding money in exchange for facilitating urban planning procedures",
+        "title": "Something smells bad in Cali: what situation has begun to be revealed after the stench in the east and south of the city?",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/acusan-formalmente-al-alcalde-de-villa-de-leyva-victor-gamboa-por-presuntamente-exigir-dinero-a-cambio-de-facilitar-tramites-urbanisticos-3572165",
-        "published_date": "2026-07-18 01:50:06",
+        "url": "https://www.eltiempo.com/colombia/cali/algo-huele-mal-en-cali-que-situacion-se-ha-empezado-a-destapar-tras-el-hedor-en-el-oriente-y-sur-de-la-ciudad-3572236",
+        "published_date": "2026-07-18 16:26:14",
         "category": "Local Events"
     },
     {
-        "title": "Iv\u00e1n Alfonso Cancino Gonz\u00e1lez",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/quien-es-quien/ivan-alfonso-cancino-gonzalez/",
-        "published_date": "2026-07-18 00:50:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sleep informed with the movements of this July 17, 2026",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-movidas-de-este-17-de-julio-de-2026/",
-        "published_date": "2026-07-18 00:38:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Paola Holguin Moreno",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/quien-es-quien/paola-holguin-moreno/",
-        "published_date": "2026-07-18 00:14:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "As of July 2026, Juliana Guerrero has not been convicted or sent to prison",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/a-julio-de-2026-juliana-guerrero-no-ha-sido-condenada-ni-enviada-a-la-carcel/",
-        "published_date": "2026-07-18 00:04:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cepeda will not go to Abelardo's possession: \u201cwherever it may be\u201d",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/cepeda-no-ira-a-la-posesion-de-abelardo-sea-donde-sea/",
-        "published_date": "2026-07-17 23:55:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "Day of the Snake: Canangucha, the species that looks like an Amazonian fruit",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/dia-de-la-serpiente-canangucha-la-especie-que-parece-un-fruto-amazonico/",
-        "published_date": "2026-07-17 23:23:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "Controversy over the definition of the Afro seat of the Pulgar clan",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/polemica-por-definicion-de-curul-afro-del-clan-pulgar/",
-        "published_date": "2026-07-17 23:23:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "The selective Constitution in the new government",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-verde/la-constitucion-selectiva-en-el-nuevo-gobierno/",
-        "published_date": "2026-07-17 22:56:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "Seven cultural decisions that Paola Holgu\u00edn cannot postpone",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/siete-decisiones-culturales-que-paola-holguin-no-puede-aplazar/",
-        "published_date": "2026-07-17 22:10:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "Paola Holgu\u00edn will be Minister of Culture, a position with an average duration of 25 months",
+        "title": "IDB denies having financed the connection of the Government of Ablerado De La Espriella",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/cuanto-dura-en-promedio-un-ministro-de-cultura-4438432",
-        "published_date": "2026-07-17 21:57:30",
+        "url": "https://www.larepublica.co/economia/banco-interamericano-de-desarrollo-nego-haber-financiado-el-empalme-del-gobierno-de-de-la-espriella-4438938",
+        "published_date": "2026-07-18 15:45:33",
         "category": "Local Events"
     },
     {
-        "title": "Paola Holgu\u00edn will be the minCulture of Abelardo de la Espriella",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/paola-holguin-sera-la-mincultura-de-abelardo-de-la-espriella/",
-        "published_date": "2026-07-17 21:41:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "War on 'g\u00fcireo' and 'chacaleo': Cali's plan to snatch 600 minors from criminal networks",
+        "title": "Velat\u00f3n in Popay\u00e1n calls for the release of Sonia Sarmiento amid the spike in kidnappings in Cauca",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/guerra-al-gueireo-y-el-chacaleo-el-plan-de-cali-para-arrebatarle-600-menores-a-las-redes-delictivas-3572122",
-        "published_date": "2026-07-17 21:27:51",
+        "url": "https://www.eltiempo.com/colombia/cali/velaton-en-popayan-clama-por-la-liberacion-de-sonia-sarmiento-en-medio-del-repunte-de-secuestros-en-el-cauca-3572230",
+        "published_date": "2026-07-18 15:22:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "This is how the bridge collapsed due to rain in Meta: 20 people were rescued after the Ariari River flooded (Photos)",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/asi-quedo-el-puente-colapsado-por-lluvias-en-el-meta-20-personas-fueron-rescatadas-tras-creciente-del-rio-ariari-fotos-3572231",
+        "published_date": "2026-07-18 15:02:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tragedy near Villa de Leyva: they are the three little brothers who were traveling on a motorcycle and collided head-on with a truck in Boyac\u00e1",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/tragedia-cerca-de-villa-de-leyva-ellos-son-los-tres-hermanitos-que-se-movilizaban-en-una-moto-y-chocaron-de-frente-con-una-camioneta-en-boyaca-3572222",
+        "published_date": "2026-07-18 14:22:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "To prison alias Megamente and 'Tapasco', the dangerous twins from 'La Cordillera' accused of being behind several cases of hitmen in Pereira",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/a-la-carcel-alias-megamente-y-tapasco-los-peligrosos-mellizos-de-la-cordillera-senalados-de-estar-detras-de-varios-casos-de-sicariato-en-pereira-3572221",
+        "published_date": "2026-07-18 13:15:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "'I'm not going to let myself be extorted': explosive statements by Vallenato singer Churo D\u00edaz after proceedings against him for alleged abuse of a minor",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/no-me-voy-a-dejar-extorsionar-explosivas-declaraciones-del-cantante-vallenato-churo-diaz-tras-proceso-en-su-contra-por-presunto-abuso-a-menor-3572218",
+        "published_date": "2026-07-18 12:55:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Men with rifles broke into a Caucasia township, in Antioquia, murdered a man and kidnapped another: they offer $50 million",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/hombres-con-fusiles-irrumpieron-en-un-corregimiento-de-caucasia-en-antioquia-asesinaron-a-un-hombre-y-secuestraron-a-otro-ofrecen-50-millones-3572213",
+        "published_date": "2026-07-18 12:55:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Exodus Plan in Valle del Cauca: authorities plan massive mobilization of vehicles for Independence Day",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/plan-exodo-en-el-valle-del-cauca-autoridades-proyectan-masiva-movilizacion-de-vehiculos-por-el-dia-de-la-independencia-3572210",
+        "published_date": "2026-07-18 12:00:22",
         "category": "Local Events"
     }
 ]
