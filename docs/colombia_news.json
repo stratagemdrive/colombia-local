@@ -63,6 +63,20 @@
         "category": "Diplomacy"
     },
     {
+        "title": "The security breaches in the Itag\u00fc\u00ed prison that were exposed prior to the denunciation of a possible mass escape plan",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/las-brechas-de-seguridad-de-la-carcel-de-itaguei-que-quedaron-expuestas-previo-a-la-denuncia-de-un-posible-plan-de-fuga-masiva-3572154",
+        "published_date": "2026-07-18 00:08:50",
+        "category": "Military"
+    },
+    {
+        "title": "Living under threat: the drama in Potrerito due to the advance of illegal occupations on SAE lands",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/vivir-bajo-amenaza-el-drama-en-potrerito-por-el-avance-de-las-ocupaciones-ilegales-en-terrenos-de-la-sae-3572105",
+        "published_date": "2026-07-17 19:10:54",
+        "category": "Military"
+    },
+    {
         "title": "The hypothesis about the four bodies found among cane fields in the Valley in the last week: a discovery in the Vuelta al Diablo area",
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/cali/la-hipotesis-sobre-los-cuatro-cadaveres-encontrados-entre-canaduzales-en-el-valle-en-la-ultima-semana-un-hallazgo-en-la-zona-de-la-vuelta-del-diablo-3572015",
@@ -189,18 +203,25 @@
         "category": "Military"
     },
     {
-        "title": "More police in vehicles and horses with a high mountain battalion protect Seville, Valle: 31 arrests this month, after the murder of a rancher",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/mas-policias-en-vehiculos-y-caballos-con-batallon-de-alta-montana-blindan-a-sevilla-valle-31-capturas-en-este-mes-tras-el-asesinato-de-un-ganadero-3570544",
-        "published_date": "2026-07-10 17:08:54",
-        "category": "Military"
+        "title": "A barrel of Brent oil above US$85 leaves an additional $4 billion for the Nation",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/barril-brent-arriba-de-us-85-le-deja-4-billones-adicionales-a-la-nacion-4438722",
+        "published_date": "2026-07-18 05:03:06",
+        "category": "Energy"
     },
     {
-        "title": "Antioquia presented the list of the 19 most wanted of the Eln, the FARC dissidents and the 'Gulf clan' in the department: 'Calarc\u00e1' appears",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/antioquia-presento-la-lista-de-los-19-mas-buscados-del-eln-las-disidencias-de-las-farc-y-el-clan-del-golfo-en-el-departamento-aparece-calarca-3570510",
-        "published_date": "2026-07-10 16:31:45",
-        "category": "Military"
+        "title": "There are six companies that account for 72% of the total energy generation capacity",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/seis-empresas-agrupan-72-de-la-capacidad-total-de-generacion-de-energia-4438706",
+        "published_date": "2026-07-18 05:01:37",
+        "category": "Energy"
+    },
+    {
+        "title": "Ecopetrol received a cyber attack in order to steal company information",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/ataque-cibernetico-a-ecopetrol-4438803",
+        "published_date": "2026-07-18 02:09:56",
+        "category": "Energy"
     },
     {
         "title": "In MinMinas they talk about the resignation of Edwin Palma",
@@ -322,27 +343,6 @@
         "category": "Energy"
     },
     {
-        "title": "\u201cThe probability of a blackout is real, if there are no shock measures to avoid it\u201d",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/entrevista-con-jorge-hoyos-managing-director-de-glenfarne-sobre-posible-riesgo-de-apagon-4433086",
-        "published_date": "2026-07-14 05:01:35",
-        "category": "Energy"
-    },
-    {
-        "title": "FIFA and the hand of the VAR",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-democracia-y-tecnologia/la-fifa-y-la-mano-del-var/",
-        "published_date": "2026-07-14 03:21:57",
-        "category": "Energy"
-    },
-    {
-        "title": "Mar\u00eda Nohem\u00ed Arboleda will be MinMinas, a position with an average duration of 20.8 months",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/cuanto-dura-en-promedio-un-ministro-de-minas-y-energia-en-cargo-de-la-espriella-designo-maria-nohemi-arboleda-4435262",
-        "published_date": "2026-07-14 02:17:08",
-        "category": "Energy"
-    },
-    {
         "title": "Andr\u00e9s Quevedo and Juan Sebasti\u00e1n Betancur will join the Ministry of Finance",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/andres-quevedo-y-juan-sebastian-betancur-se-sumaran-al-ministerio-de-hacienda-4438331",
@@ -406,18 +406,95 @@
         "category": "Economy"
     },
     {
-        "title": "The cheap dollar took the external debt to the levels recorded during May 2020",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/dolar-barato-llevo-la-deuda-externa-a-niveles-registrados-en-mayo-de-2020-4433215",
-        "published_date": "2026-07-10 05:01:25",
-        "category": "Economy"
+        "title": "Attention: several tremors were recorded in Colombia during the early hours of this Saturday, July 18;epicenters and magnitude",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/atencion-varios-temblores-se-registraron-en-colombia-durante-la-madrugada-de-este-sabado-18-de-julio-epicentros-y-magnitud-3572169",
+        "published_date": "2026-07-18 06:24:54",
+        "category": "Local Events"
     },
     {
-        "title": "Petro Government will file a tax reform that seeks to raise $21.8 billion",
+        "title": "The spell of power: the search for providential men",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/opinion/el-hechizo-del-poder-la-busqueda-de-hombres-providenciales/",
+        "published_date": "2026-07-18 05:36:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The invisible debt of the health system",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/opinion/la-deuda-invisible-del-sistema-de-salud/",
+        "published_date": "2026-07-18 05:19:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The possession of Abelardo in a military base: symbols and civil power",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/la-posesion-de-abelardo-en-una-base-militar-simbolos-y-poder-civil/",
+        "published_date": "2026-07-18 05:09:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "ICE chases and kills migrants;Abelardo is silent",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/opinion/ice-persigue-y-mata-a-migrantes-abelardo-calla/",
+        "published_date": "2026-07-18 05:05:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Santander Vision 2050 projects per capita income of more than US$50,000 in 25 years",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/gobierno-petro-radicara-una-tributaria-que-busca-21-8-billones-para-2027-4433474",
-        "published_date": "2026-07-10 01:59:35",
-        "category": "Economy"
+        "url": "https://www.larepublica.co/economia/vision-santander-2050-proyecta-ingreso-per-capita-superior-a-us-50-000-en-25-anos-4438691",
+        "published_date": "2026-07-18 05:01:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "Nari\u00f1o has a new fuel supply plan",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/narino-cuenta-con-un-nuevo-plan-de-abastecimiento-de-combustibles-4438801",
+        "published_date": "2026-07-18 02:10:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "They formally accuse the mayor of Villa de Leyva, V\u00edctor Gamboa, for allegedly demanding money in exchange for facilitating urban planning procedures",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/acusan-formalmente-al-alcalde-de-villa-de-leyva-victor-gamboa-por-presuntamente-exigir-dinero-a-cambio-de-facilitar-tramites-urbanisticos-3572165",
+        "published_date": "2026-07-18 01:50:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "Iv\u00e1n Alfonso Cancino Gonz\u00e1lez",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/quien-es-quien/ivan-alfonso-cancino-gonzalez/",
+        "published_date": "2026-07-18 00:50:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Sleep informed with the movements of this July 17, 2026",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-movidas-de-este-17-de-julio-de-2026/",
+        "published_date": "2026-07-18 00:38:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Paola Holguin Moreno",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/quien-es-quien/paola-holguin-moreno/",
+        "published_date": "2026-07-18 00:14:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "As of July 2026, Juliana Guerrero has not been convicted or sent to prison",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/a-julio-de-2026-juliana-guerrero-no-ha-sido-condenada-ni-enviada-a-la-carcel/",
+        "published_date": "2026-07-18 00:04:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cepeda will not go to Abelardo's possession: \u201cwherever it may be\u201d",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/cepeda-no-ira-a-la-posesion-de-abelardo-sea-donde-sea/",
+        "published_date": "2026-07-17 23:55:04",
+        "category": "Local Events"
     },
     {
         "title": "Day of the Snake: Canangucha, the species that looks like an Amazonian fruit",
@@ -462,101 +539,10 @@
         "category": "Local Events"
     },
     {
-        "title": "Even with hate speech, it is not so easy for political violence to resurface",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-academica/incluso-con-discursos-de-odio-no-es-tan-viable-volver-a-la-violencia-politica/",
-        "published_date": "2026-07-17 21:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Constitutional Court ordered to help displaced indigenous people in Guaviare",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/corte-constitucional-ordeno-ayudar-a-indigenas-desplazados-en-guaviare/",
-        "published_date": "2026-07-17 20:48:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "In a country like Colombia, peace is not a bureaucratic whim",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/en-un-pais-como-colombia-la-paz-no-es-un-capricho-burocratico/",
-        "published_date": "2026-07-17 20:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Three regions already record their hottest days in the last 20 years",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/tres-regiones-ya-registran-sus-dias-mas-calurosos-en-los-ultimos-20-anos/",
-        "published_date": "2026-07-17 20:27:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Selling chickens: the Samac\u00e1 Symphonic Band seeks to collect 300 million pesos to travel to the Music World Cup in Holland",
+        "title": "War on 'g\u00fcireo' and 'chacaleo': Cali's plan to snatch 600 minors from criminal networks",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/vendiendo-gallinas-la-banda-sinfonica-de-samaca-busca-recoger-300-millones-de-pesos-para-viajar-al-mundial-de-musica-en-holanda-3572089",
-        "published_date": "2026-07-17 18:13:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "Hidroituango warned that gaps in the Petro Government's planning would have left the country facing a 'perfect storm' in the electricity sector",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/hidroituango-advirtio-que-vacios-en-la-planeacion-del-gobierno-petro-habrian-dejado-al-pais-ante-una-tormenta-perfecta-en-el-sector-electrico-3572024",
-        "published_date": "2026-07-17 17:41:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "They open a call for university transportation subsidies from the 22 municipalities of the Atl\u00e1ntico department: this is how you can apply",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/abren-convocatoria-para-subsidio-de-transporte-universitario-de-los-22-municipios-del-departamento-del-atlantico-asi-puede-postularse-3572067",
-        "published_date": "2026-07-17 17:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Five Pomeranian puppies were stolen during an armed robbery in Cali: 'I ask you to touch your hearts and give us our babies back'",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/cinco-perritos-pomerania-fueron-robados-durante-un-asalto-a-mano-armada-en-cali-les-pido-que-se-toquen-el-corazon-y-nos-devuelvan-a-nuestros-bebes-3572069",
-        "published_date": "2026-07-17 17:28:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "Shaking in the departmental cabinet: these are the key pieces that leave the Government of Antioquia to assume new leadership",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/remezon-en-el-gabinete-departamental-estas-son-las-piezas-clave-que-salen-de-la-gobernacion-de-antioquia-para-asumir-nuevos-liderazgos-3572077",
-        "published_date": "2026-07-17 17:26:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "Marches on July 20: CUT and Fecode call for mobilizations in Colombia;know the cities that will participate and the schedules",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/marchas-del-20-de-julio-cut-y-fecode-convocan-movilizaciones-en-colombia-conozca-las-ciudades-que-participaran-y-los-horarios-3572028",
-        "published_date": "2026-07-17 17:21:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Barranquilla celebrates 9 years of the Gran Malec\u00f3n: more than 2,000 events and new attractions drive its consolidation",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-celebra-los-9-anos-del-gran-malecon-mas-de-2-000-eventos-y-nuevas-atracciones-impulsan-su-consolidacion-3572048",
-        "published_date": "2026-07-17 16:29:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cali protects itself against the El Ni\u00f1o phenomenon: Mayor's Office activates a special plan for the season of less rain",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/cali-se-blinda-contra-el-fenomeno-de-el-nino-alcaldia-activa-plan-especial-ante-la-temporada-de-menos-lluvias-3572053",
-        "published_date": "2026-07-17 16:14:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Bogot\u00e1 Mayor's Office spoke with the designated MinTransporte about the Metro project",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/alcaldia-de-bogota-converso-con-ministra-designada-de-transporte-para-hablar-de-proyectos-clave-4438240",
-        "published_date": "2026-07-17 16:06:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "Council of State revoked the ruling and gave way to the decree that raised the minimum wage by 23.7%",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/consejo-de-estado-revoco-fallo-y-dio-via-libre-al-decreto-que-subio-el-minimo-en-23-7-4438132",
-        "published_date": "2026-07-17 13:14:51",
+        "url": "https://www.eltiempo.com/colombia/cali/guerra-al-gueireo-y-el-chacaleo-el-plan-de-cali-para-arrebatarle-600-menores-a-las-redes-delictivas-3572122",
+        "published_date": "2026-07-17 21:27:51",
         "category": "Local Events"
     }
 ]
