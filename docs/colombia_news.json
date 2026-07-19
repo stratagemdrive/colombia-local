@@ -196,11 +196,18 @@
         "category": "Military"
     },
     {
-        "title": "Sleep informed with the keys for this July 10, 2026",
+        "title": "The debate over coal is not whether to use it or not, but how",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-claves-de-este-10-de-julio-de-2026/",
-        "published_date": "2026-07-11 00:24:39",
-        "category": "Military"
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-verde/el-debate-por-el-carbon-no-es-decidir-si-usarlo-o-no-sino-como/",
+        "published_date": "2026-07-19 11:41:00",
+        "category": "Energy"
+    },
+    {
+        "title": "Ecopetrol ruled out impacts on users and their operations after the cyber attack",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/ecopetrol-descarto-impactos-en-usuarios-y-operaciones-tras-el-ciberataque-4439173",
+        "published_date": "2026-07-19 00:37:36",
+        "category": "Energy"
     },
     {
         "title": "Video |To the rhythm of 'Mi Llanerita', this teacher from Malambo (Atl\u00e1ntico) turned returning to school into a party and made everyone fall in love on social media",
@@ -329,20 +336,6 @@
         "category": "Energy"
     },
     {
-        "title": "Juan Carlos Morales was appointed new general manager in charge of XM",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/juan-carlos-morales-fue-designado-como-nuevo-gerente-general-encargado-de-xm-4435608",
-        "published_date": "2026-07-14 17:30:31",
-        "category": "Energy"
-    },
-    {
-        "title": "Governors and unions of the Caribbean region close ranks with the appointed Minister of Mines and Energy and give her a plan to face the electricity crisis",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/gobernadores-y-gremios-de-la-region-caribe-cierran-filas-con-ministra-de-minas-y-energia-designada-y-le-entregan-plan-para-enfrentar-crisis-electrica-3571210",
-        "published_date": "2026-07-14 17:15:00",
-        "category": "Energy"
-    },
-    {
         "title": "Andr\u00e9s Quevedo and Juan Sebasti\u00e1n Betancur will join the Ministry of Finance",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/andres-quevedo-y-juan-sebastian-betancur-se-sumaran-al-ministerio-de-hacienda-4438331",
@@ -392,11 +385,46 @@
         "category": "Economy"
     },
     {
-        "title": "Women perform 75% of unpaid domestic and care work",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/las-mujeres-realizan-75-del-trabajo-domestico-y-de-cuidado-no-remunerado-4434302",
-        "published_date": "2026-07-11 05:01:01",
-        "category": "Economy"
+        "title": "The cabinet of ministers of Abelardo de La Espriella",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/el-gabinete-de-ministros-de-abelardo-de-la-espriella/",
+        "published_date": "2026-07-19 06:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "More than 42,000 inhabitants were left without drinking water in Tame, Arauca, after an avalanche: reconstruction of the aqueduct would cost up to $8,000 million",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/mas-de-42-000-habitantes-quedaron-sin-agua-potable-en-tame-arauca-tras-una-avalancha-reconstruccion-del-acueducto-costaria-hasta-8-000-millones-3572289",
+        "published_date": "2026-07-19 01:04:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "With the support of the Liberal, Deluque has the votes to be president of the Senate",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/con-apoyo-del-liberal-deluque-tiene-los-votos-para-ser-presidente-del-senado/",
+        "published_date": "2026-07-19 01:03:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "The labor paradox of Medell\u00edn: competitive salaries, but trapped between 'rebusque' and voluntary resignation",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/la-paradoja-laboral-de-medellin-sueldos-competitivos-pero-atrapados-entre-el-rebusque-y-la-renuncia-voluntaria-3572013",
+        "published_date": "2026-07-19 00:51:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "The new rhythm of Cali salsa: a historic agreement shields children and requires certification from schools for the 2026 World Festival",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/el-nuevo-compas-de-la-salsa-calena-un-acuerdo-historico-blinda-a-la-infancia-y-exige-certificacion-a-las-escuelas-para-el-festival-mundial-3572288",
+        "published_date": "2026-07-18 23:58:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "Business in progress",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/opinion/negocio-en-marcha/",
+        "published_date": "2026-07-18 23:55:46",
+        "category": "Local Events"
     },
     {
         "title": "Position yourself in the health debate: how far are you from those who think differently?",
@@ -427,10 +455,31 @@
         "category": "Local Events"
     },
     {
+        "title": "The future of flowers: children and young people bloom in the XXVIII edition of the Silleteritos Parade in Medell\u00edn",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/el-futuro-de-las-flores-ninos-y-jovenes-florecen-en-la-edicion-xxviii-del-desfile-de-silleteritos-en-medellin-3572277",
+        "published_date": "2026-07-18 21:21:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "ICE chases and kills migrants;Abelardo is silent",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/opinion/ice-persigue-y-mata-a-migrantes-abelardo-calla/",
+        "published_date": "2026-07-18 19:06:48",
+        "category": "Local Events"
+    },
+    {
         "title": "De la Espriella's second \u201ccouncil of ministers\u201d: Congress directives will be a key issue",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/segundo-consejo-de-ministros-de-de-la-espriella-directivas-del-congreso-seran-tema-clave/",
         "published_date": "2026-07-18 18:50:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "The four community mothers who made history in the town of Magdalena where getting to university seemed impossible",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/las-cuatro-madres-comunitarias-que-hicieron-historia-en-pueblo-de-magdalena-donde-llegar-a-la-universidad-parecia-imposible-3572258",
+        "published_date": "2026-07-18 18:50:00",
         "category": "Local Events"
     },
     {
@@ -473,69 +522,6 @@
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/barranquilla/el-gobernador-del-atlantico-eduardo-verano-inspecciona-obras-de-la-futura-sede-presidencial-de-abelardo-de-la-espriella-en-barranquilla-3572237",
         "published_date": "2026-07-18 16:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Something smells bad in Cali: what situation has begun to be revealed after the stench in the east and south of the city?",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/algo-huele-mal-en-cali-que-situacion-se-ha-empezado-a-destapar-tras-el-hedor-en-el-oriente-y-sur-de-la-ciudad-3572236",
-        "published_date": "2026-07-18 16:26:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "IDB denies having financed the connection of the Government of Ablerado De La Espriella",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/banco-interamericano-de-desarrollo-nego-haber-financiado-el-empalme-del-gobierno-de-de-la-espriella-4438938",
-        "published_date": "2026-07-18 15:45:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "Velat\u00f3n in Popay\u00e1n calls for the release of Sonia Sarmiento amid the spike in kidnappings in Cauca",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/velaton-en-popayan-clama-por-la-liberacion-de-sonia-sarmiento-en-medio-del-repunte-de-secuestros-en-el-cauca-3572230",
-        "published_date": "2026-07-18 15:22:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "This is how the bridge collapsed due to rain in Meta: 20 people were rescued after the Ariari River flooded (Photos)",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/asi-quedo-el-puente-colapsado-por-lluvias-en-el-meta-20-personas-fueron-rescatadas-tras-creciente-del-rio-ariari-fotos-3572231",
-        "published_date": "2026-07-18 15:02:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tragedy near Villa de Leyva: they are the three little brothers who were traveling on a motorcycle and collided head-on with a truck in Boyac\u00e1",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/tragedia-cerca-de-villa-de-leyva-ellos-son-los-tres-hermanitos-que-se-movilizaban-en-una-moto-y-chocaron-de-frente-con-una-camioneta-en-boyaca-3572222",
-        "published_date": "2026-07-18 14:22:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "To prison alias Megamente and 'Tapasco', the dangerous twins from 'La Cordillera' accused of being behind several cases of hitmen in Pereira",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/a-la-carcel-alias-megamente-y-tapasco-los-peligrosos-mellizos-de-la-cordillera-senalados-de-estar-detras-de-varios-casos-de-sicariato-en-pereira-3572221",
-        "published_date": "2026-07-18 13:15:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "'I'm not going to let myself be extorted': explosive statements by Vallenato singer Churo D\u00edaz after proceedings against him for alleged abuse of a minor",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/no-me-voy-a-dejar-extorsionar-explosivas-declaraciones-del-cantante-vallenato-churo-diaz-tras-proceso-en-su-contra-por-presunto-abuso-a-menor-3572218",
-        "published_date": "2026-07-18 12:55:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Men with rifles broke into a Caucasia township, in Antioquia, murdered a man and kidnapped another: they offer $50 million",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/hombres-con-fusiles-irrumpieron-en-un-corregimiento-de-caucasia-en-antioquia-asesinaron-a-un-hombre-y-secuestraron-a-otro-ofrecen-50-millones-3572213",
-        "published_date": "2026-07-18 12:55:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Exodus Plan in Valle del Cauca: authorities plan massive mobilization of vehicles for Independence Day",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/plan-exodo-en-el-valle-del-cauca-autoridades-proyectan-masiva-movilizacion-de-vehiculos-por-el-dia-de-la-independencia-3572210",
-        "published_date": "2026-07-18 12:00:22",
         "category": "Local Events"
     }
 ]
