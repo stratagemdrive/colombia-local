@@ -1,5 +1,19 @@
 [
     {
+        "title": "More than 1,200 uniformed personnel and illuminated monuments: this is how Cali will commemorate the Cry of Independence",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/mas-de-1-200-uniformados-y-monumentos-iluminados-asi-conmemorara-cali-el-grito-de-independencia-3572358",
+        "published_date": "2026-07-19 17:01:11",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Beto Coral has already renounced the political asylum process in the US.",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/beto-coral-ya-renuncio-al-tramite-de-asilo-politico-en-ee-uu/",
+        "published_date": "2026-07-19 13:42:21",
+        "category": "Diplomacy"
+    },
+    {
         "title": "IDB will accompany the elected Government with resources for the National Development Plan",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/bid-si-acompanara-al-gobierno-electo-con-recursos-para-iniciativas-como-el-plan-nacional-de-desarrollo-4439107",
@@ -61,6 +75,13 @@
         "url": "https://www.lasillavacia.com/en-vivo/abelardo-arremete-contra-eti-amazonicas-y-otras-noticias/",
         "published_date": "2026-07-12 02:00:00",
         "category": "Diplomacy"
+    },
+    {
+        "title": "Colombia should not delegate its security to foreign algorithms",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-democracia-y-tecnologia/colombia-no-deberia-delegar-su-seguridad-a-algoritmos-extranjeros/",
+        "published_date": "2026-07-19 17:00:00",
+        "category": "Military"
     },
     {
         "title": "MinTrabajo Sanguino asks the Secretary of Security of Bogot\u00e1 to rectify",
@@ -182,18 +203,11 @@
         "category": "Military"
     },
     {
-        "title": "Video |Ten dogs trapped in misery: the shocking rescue that shocks Medell\u00edn",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/video-diez-perros-atrapados-en-la-miseria-el-impactante-rescate-que-conmociona-a-medellin-3570724",
-        "published_date": "2026-07-11 17:48:39",
-        "category": "Military"
-    },
-    {
-        "title": "The dramatic situation experienced by a town in Nari\u00f1o that has been without energy and water for a week: there is a humanitarian crisis due to the armed conflict",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/la-dramatica-situacion-que-vive-un-corregimiento-en-narino-que-lleva-una-semana-sin-energia-y-sin-agua-hay-crisis-humanitaria-por-el-conflicto-armado-3570697",
-        "published_date": "2026-07-11 14:32:28",
-        "category": "Military"
+        "title": "MinMinas left 4.63 Gw of renewable energies against the government's 6 Gw goal",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/minminas-dejo-4-63-gw-de-energias-renovables-de-meta-de-6-gw-del-gobierno-4439288",
+        "published_date": "2026-07-19 16:57:28",
+        "category": "Energy"
     },
     {
         "title": "The debate over coal is not whether to use it or not, but how",
@@ -329,11 +343,11 @@
         "category": "Energy"
     },
     {
-        "title": "Mar\u00eda Nohem\u00ed Arboleda, the technique that arrives at the Abelardo MinEnerg\u00eda",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/maria-nohemi-arboleda-la-tecnica-que-llega-al-minenergia-de-abelardo/",
-        "published_date": "2026-07-14 22:30:43",
-        "category": "Energy"
+        "title": "Villar points out that the interest rate will remain high until inflation returns to the target range",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/villar-senala-que-tasas-seguiran-altas-hasta-que-inflacion-retome-senda-meta-4439325",
+        "published_date": "2026-07-19 18:17:24",
+        "category": "Economy"
     },
     {
         "title": "Andr\u00e9s Quevedo and Juan Sebasti\u00e1n Betancur will join the Ministry of Finance",
@@ -385,6 +399,132 @@
         "category": "Economy"
     },
     {
+        "title": "R\u00edos, Lafaurie, G\u00f3mez and Sandoval, the new appointees of de la Espriella",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/rios-lafaurie-gomez-y-sandoval-los-nuevos-designados-por-de-la-espriella/",
+        "published_date": "2026-07-19 23:43:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mayor's Office and Regiotram have not signed an agreement but there is a desire for an agreement",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/alcaldia-y-regiotram-no-han-firmado-acuerdo-pero-hay-voluntad-de-convenio-4439388",
+        "published_date": "2026-07-19 21:40:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "Transforming education begins with care and affection",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-educacion/transformar-la-educacion-comienza-por-el-cuidado-y-los-afectos/",
+        "published_date": "2026-07-19 21:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Uribeism remains in Henr\u00edquez as president of the Senate",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/el-uribismo-se-mantiene-en-enriquez-a-la-presidencia-del-senado/",
+        "published_date": "2026-07-19 21:29:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "The photo: Petro's official portrait",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/la-foto-el-retrato-oficial-de-petro/",
+        "published_date": "2026-07-19 18:48:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "381 laboratories destroyed and 2.7 tons seized: the blow of $15.6 billion to the financing of dissidents in Nari\u00f1o",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/381-laboratorios-destruidos-y-2-7-toneladas-incautadas-el-golpe-de-15-600-millones-al-financiamiento-de-las-disidencias-en-narino-3572371",
+        "published_date": "2026-07-19 18:18:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "Video of the moment when tourists get into a big fight during a beach cart tour in San Andr\u00e9s",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/video-del-momento-en-que-turistas-protagonizan-una-fuerte-pelea-durante-un-recorrido-en-carrito-playero-en-san-andres-3572367",
+        "published_date": "2026-07-19 18:02:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "Spliceless transition",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/opinion/transicion-sin-empalme/",
+        "published_date": "2026-07-19 16:14:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "This is how alias 'Mauricio el Quesero', leader of Los Coste\u00f1os who was among the most wanted in Barranquilla, fell: he was captured in Cundinamarca",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/asi-cayo-alias-mauricio-el-quesero-cabecilla-de-los-costenos-que-figuraba-entre-los-mas-buscados-de-barranquilla-fue-capturado-en-cundinamarca-3572336",
+        "published_date": "2026-07-19 14:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cepeda nominates Petro to preside over the Historical Pact",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/cepeda-postula-a-petro-para-presidir-el-pacto-historico/",
+        "published_date": "2026-07-19 14:27:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "Abelardo De la Espriella showed his cabinet for the first time after the council of ministers",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/abelardo-de-la-espriella-mostro-por-primera-vez-a-su-gabinete-tras-consejo-de-ministros-4439251",
+        "published_date": "2026-07-19 14:13:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "'Without democracy there are no companies': Medell\u00edn Chamber of Commerce honored the national registrar Hern\u00e1n Penagos",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/sin-democracia-no-hay-empresas-camara-de-comercio-de-medellin-homenajeo-al-registrador-nacional-hernan-penagos-3572340",
+        "published_date": "2026-07-19 13:05:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "The illusionists of privilege",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-derecho-constitucional/los-ilusionistas-de-los-privilegios/",
+        "published_date": "2026-07-19 13:02:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "Consternation in Barranquilla over a gunshot murder inside a home: it could be an alleged feminicide against a 16-year-old teenager",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/consternacion-en-barranquilla-por-un-asesinato-a-bala-dentro-de-una-vivienda-podria-ser-un-presunto-feminicidio-contra-una-adolescente-de-16-anos-3572331",
+        "published_date": "2026-07-19 12:05:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "What Huila asks of the elected president, Abelardo de la Espriella, after joining in Neiva: alias Calarc\u00e1 and 'Iv\u00e1n Mordisco', the great concern",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/lo-que-el-huila-le-pide-al-presidente-electo-abelardo-de-la-espriella-tras-empalme-en-neiva-alias-calarca-e-ivan-mordisco-la-gran-preocupacion-3572322",
+        "published_date": "2026-07-19 11:45:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Prosecutor's Office investigates complaint against former mayor of Santa Marta and former governor of Magdalena Carlos Caicedo for alleged sexual abuse of a minor",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/fiscalia-investiga-denuncia-contra-el-ex-dirigente-politico-de-santa-marta-y-magdalena-carlos-caicedo-por-presunto-abuso-sexual-de-una-menor-de-edad-3572320",
+        "published_date": "2026-07-19 11:24:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "Zero gaps and more mobility: Medell\u00edn allocates $55,125 million to intervene 16 kilometers of roads within a period of six months",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/cero-huecos-y-mas-movilidad-medellin-destina-55-125-millones-para-intervenir-16-kilometros-de-vias-en-un-plazo-de-seis-meses-3572317",
+        "published_date": "2026-07-19 10:52:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "Two teenagers aged 15 and 16 died after a high tension cable fell during a gale in Monter\u00eda",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/dos-adolescentes-de-15-y-16-anos-murieron-tras-la-caida-de-un-cable-de-alta-tension-durante-un-vendaval-en-monteria-3572311",
+        "published_date": "2026-07-19 10:18:51",
+        "category": "Local Events"
+    },
+    {
         "title": "The cabinet of ministers of Abelardo de La Espriella",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/silla-nacional/el-gabinete-de-ministros-de-abelardo-de-la-espriella/",
@@ -396,132 +536,6 @@
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/otras-ciudades/mas-de-42-000-habitantes-quedaron-sin-agua-potable-en-tame-arauca-tras-una-avalancha-reconstruccion-del-acueducto-costaria-hasta-8-000-millones-3572289",
         "published_date": "2026-07-19 01:04:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "With the support of the Liberal, Deluque has the votes to be president of the Senate",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/con-apoyo-del-liberal-deluque-tiene-los-votos-para-ser-presidente-del-senado/",
-        "published_date": "2026-07-19 01:03:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "The labor paradox of Medell\u00edn: competitive salaries, but trapped between 'rebusque' and voluntary resignation",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/la-paradoja-laboral-de-medellin-sueldos-competitivos-pero-atrapados-entre-el-rebusque-y-la-renuncia-voluntaria-3572013",
-        "published_date": "2026-07-19 00:51:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "The new rhythm of Cali salsa: a historic agreement shields children and requires certification from schools for the 2026 World Festival",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/el-nuevo-compas-de-la-salsa-calena-un-acuerdo-historico-blinda-a-la-infancia-y-exige-certificacion-a-las-escuelas-para-el-festival-mundial-3572288",
-        "published_date": "2026-07-18 23:58:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "Business in progress",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/opinion/negocio-en-marcha/",
-        "published_date": "2026-07-18 23:55:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Position yourself in the health debate: how far are you from those who think differently?",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/detector-de-mentiras/ubiquese-en-el-debate-a-la-salud-que-tan-lejos-esta-de-quien-piensa-distinto/",
-        "published_date": "2026-07-18 23:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The institutionality of peace in a logic of care",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/la-institucionalidad-de-la-paz-en-una-logica-de-cuidado/",
-        "published_date": "2026-07-18 22:54:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "The signs of the Tiger.What can be anticipated from the next Government?",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/opinion/las-senales-del-tigre-que-se-puede-anticipar-del-proximo-gobierno/",
-        "published_date": "2026-07-18 22:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fight continues between Uribismo and the De la Espriella government for the presidencies of Congress",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/sigue-pelea-entre-uribismo-y-el-gobierno-de-de-la-espriella-por-las-presidencias-del-congreso/",
-        "published_date": "2026-07-18 21:49:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "The future of flowers: children and young people bloom in the XXVIII edition of the Silleteritos Parade in Medell\u00edn",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/el-futuro-de-las-flores-ninos-y-jovenes-florecen-en-la-edicion-xxviii-del-desfile-de-silleteritos-en-medellin-3572277",
-        "published_date": "2026-07-18 21:21:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "ICE chases and kills migrants;Abelardo is silent",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/opinion/ice-persigue-y-mata-a-migrantes-abelardo-calla/",
-        "published_date": "2026-07-18 19:06:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "De la Espriella's second \u201ccouncil of ministers\u201d: Congress directives will be a key issue",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/segundo-consejo-de-ministros-de-de-la-espriella-directivas-del-congreso-seran-tema-clave/",
-        "published_date": "2026-07-18 18:50:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "The four community mothers who made history in the town of Magdalena where getting to university seemed impossible",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/las-cuatro-madres-comunitarias-que-hicieron-historia-en-pueblo-de-magdalena-donde-llegar-a-la-universidad-parecia-imposible-3572258",
-        "published_date": "2026-07-18 18:50:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Abelardo De La Espriella convened his second council of ministers in Barranquilla",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/de-la-espriella-convoco-su-segundo-consejo-de-ministros-en-barranquilla-4439020",
-        "published_date": "2026-07-18 18:45:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "Unified Investment and Public Finance System made changes to the Piip platform",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/el-suifp-sgr-opero-con-normalidad-durante-el-cierre-de-la-etapa-de-requisitos-de-la-convocatoria-4439051",
-        "published_date": "2026-07-18 18:42:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Petro government law toughens penalties for recruiting minors",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/ley-del-gobierno-petro-endurece-las-penas-por-reclutamiento-de-menores/",
-        "published_date": "2026-07-18 18:21:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cColombia returns to the international stage with greatness\u201d: Restrepo after tour in Washington",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/colombia-retorna-el-escenario-internacional-con-grandeza-restrepo-tras-gira-en-washington/",
-        "published_date": "2026-07-18 17:09:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "Civil Aeronautics expects 914,000 travelers for the Independence Day holiday",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/aerocivil-espera-914-000-viajeros-por-el-festivo-del-dia-de-la-independencia-4439000",
-        "published_date": "2026-07-18 17:04:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Governor of Atl\u00e1ntico, Eduardo Verano, inspects works of the future presidential headquarters of Abelardo de la Espriella in Barranquilla",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/el-gobernador-del-atlantico-eduardo-verano-inspecciona-obras-de-la-futura-sede-presidencial-de-abelardo-de-la-espriella-en-barranquilla-3572237",
-        "published_date": "2026-07-18 16:30:00",
         "category": "Local Events"
     }
 ]
