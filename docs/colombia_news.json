@@ -70,11 +70,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Abelardo attacks Amazon ETI and other news",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/abelardo-arremete-contra-eti-amazonicas-y-otras-noticias/",
-        "published_date": "2026-07-12 02:00:00",
-        "category": "Diplomacy"
+        "title": "Are they preparing for war?The strategic plan of the FARC dissidents behind the theft of motorcycles and armored vehicles on the Panamericana",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/se-preparan-para-la-guerra-el-plan-estrategico-de-las-disidencias-de-las-farc-detras-del-robo-de-motos-y-blindados-en-la-panamericana-3572408",
+        "published_date": "2026-07-20 07:02:20",
+        "category": "Military"
     },
     {
         "title": "Colombia should not delegate its security to foreign algorithms",
@@ -193,13 +193,6 @@
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/red-de-expertos/red-etnica/en-el-cambio-de-gobierno-no-deberia-primar-el-miedo-sino-la-imaginacion/",
         "published_date": "2026-07-12 13:58:00",
-        "category": "Military"
-    },
-    {
-        "title": "Attack on firefighters, burning of vehicles and interference by the 'Clan del Golfo': the details of the chaos in Segovia after an operation against mining",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/ataque-a-bomberos-quema-de-vehiculos-e-injerencia-del-clan-del-golfo-los-detalles-del-caos-en-segovia-tras-operativo-contra-la-mineria-3570818",
-        "published_date": "2026-07-12 12:46:11",
         "category": "Military"
     },
     {
@@ -399,10 +392,52 @@
         "category": "Economy"
     },
     {
+        "title": "From voting to agency: the real challenge of youth participation",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/del-voto-a-la-agencia-el-verdadero-reto-de-la-participacion-juvenil/",
+        "published_date": "2026-07-20 13:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tremor in Colombia in the early hours of today, July 20: it was 2.8 degrees, superficial, in Antioquia",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/temblor-en-colombia-en-la-madrugada-de-hoy-20-de-julio-fue-de-2-8-grados-superficial-en-antioquia-3572426",
+        "published_date": "2026-07-20 06:30:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "Government of Abelardo De La Espriella announced four appointments to his cabinet",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/gobierno-de-de-la-espriella-anuncio-cuatro-nombramientos-de-su-gabinete-4439440",
+        "published_date": "2026-07-20 00:33:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Did Barranquilla win the war against the streams?The story after 117 deaths, a multimillion-dollar investment and a transformation of the city",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-le-gano-la-guerra-a-los-arroyos-la-historia-despues-de-117-fallecidos-una-multimillonaria-inversion-y-una-transformacion-de-la-ciudad-3572421",
+        "published_date": "2026-07-20 00:01:00",
+        "category": "Local Events"
+    },
+    {
         "title": "R\u00edos, Lafaurie, G\u00f3mez and Sandoval, the new appointees of de la Espriella",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/rios-lafaurie-gomez-y-sandoval-los-nuevos-designados-por-de-la-espriella/",
         "published_date": "2026-07-19 23:43:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "Twenty years of 'The Dream Nation'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/veinte-anos-de-la-nacion-sonada-3572376",
+        "published_date": "2026-07-19 23:11:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tremor reported in Colombia of magnitude 4.6 in Los Santos, Santander: it was felt in several cities in the country",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/reportan-temblor-en-colombia-de-magnitud-4-6-en-los-santos-santander-se-sintio-en-varias-ciudades-del-pais-3572406",
+        "published_date": "2026-07-19 21:46:02",
         "category": "Local Events"
     },
     {
@@ -431,6 +466,13 @@
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/la-foto-el-retrato-oficial-de-petro/",
         "published_date": "2026-07-19 18:48:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tragedy in Boyac\u00e1: the moving reception of the coffins of the two brothers, ages 16 and 8, who died while going to work with their mother",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/tragedia-en-boyaca-el-conmovedor-recibimiento-de-los-feretros-de-los-dos-hermanos-de-16-y-8-anos-que-murieron-cuando-iban-a-trabajar-con-su-mama-3572375",
+        "published_date": "2026-07-19 18:25:00",
         "category": "Local Events"
     },
     {
@@ -487,55 +529,6 @@
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/red-de-expertos/red-de-derecho-constitucional/los-ilusionistas-de-los-privilegios/",
         "published_date": "2026-07-19 13:02:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "Consternation in Barranquilla over a gunshot murder inside a home: it could be an alleged feminicide against a 16-year-old teenager",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/consternacion-en-barranquilla-por-un-asesinato-a-bala-dentro-de-una-vivienda-podria-ser-un-presunto-feminicidio-contra-una-adolescente-de-16-anos-3572331",
-        "published_date": "2026-07-19 12:05:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "What Huila asks of the elected president, Abelardo de la Espriella, after joining in Neiva: alias Calarc\u00e1 and 'Iv\u00e1n Mordisco', the great concern",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/lo-que-el-huila-le-pide-al-presidente-electo-abelardo-de-la-espriella-tras-empalme-en-neiva-alias-calarca-e-ivan-mordisco-la-gran-preocupacion-3572322",
-        "published_date": "2026-07-19 11:45:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Prosecutor's Office investigates complaint against former mayor of Santa Marta and former governor of Magdalena Carlos Caicedo for alleged sexual abuse of a minor",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/fiscalia-investiga-denuncia-contra-el-ex-dirigente-politico-de-santa-marta-y-magdalena-carlos-caicedo-por-presunto-abuso-sexual-de-una-menor-de-edad-3572320",
-        "published_date": "2026-07-19 11:24:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "Zero gaps and more mobility: Medell\u00edn allocates $55,125 million to intervene 16 kilometers of roads within a period of six months",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/cero-huecos-y-mas-movilidad-medellin-destina-55-125-millones-para-intervenir-16-kilometros-de-vias-en-un-plazo-de-seis-meses-3572317",
-        "published_date": "2026-07-19 10:52:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "Two teenagers aged 15 and 16 died after a high tension cable fell during a gale in Monter\u00eda",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/dos-adolescentes-de-15-y-16-anos-murieron-tras-la-caida-de-un-cable-de-alta-tension-durante-un-vendaval-en-monteria-3572311",
-        "published_date": "2026-07-19 10:18:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "The cabinet of ministers of Abelardo de La Espriella",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/el-gabinete-de-ministros-de-abelardo-de-la-espriella/",
-        "published_date": "2026-07-19 06:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "More than 42,000 inhabitants were left without drinking water in Tame, Arauca, after an avalanche: reconstruction of the aqueduct would cost up to $8,000 million",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/mas-de-42-000-habitantes-quedaron-sin-agua-potable-en-tame-arauca-tras-una-avalancha-reconstruccion-del-acueducto-costaria-hasta-8-000-millones-3572289",
-        "published_date": "2026-07-19 01:04:18",
         "category": "Local Events"
     }
 ]
