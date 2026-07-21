@@ -91,13 +91,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Why did the sea retreat on the beaches of Cove\u00f1as, Sucre?Dimar explained the causes of the phenomenon and ruled out risks for the population",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/por-que-el-mar-se-retiro-en-las-playas-de-covenas-sucre-dimar-explico-las-causas-del-fenomeno-y-descarto-riesgos-para-la-poblacion-3570876",
-        "published_date": "2026-07-13 06:49:37",
-        "category": "Diplomacy"
-    },
-    {
         "title": "De la Espriella's team denounces plan to attack him",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/de-la-espriella-denuncia-presunto-plan-para-atentar-en-su-contra/",
@@ -210,11 +203,18 @@
         "category": "Military"
     },
     {
-        "title": "The details of the attack against the Aw\u00e1 leader in Nari\u00f1o: he escaped from armed men who intercepted the truck thanks to a maneuver by the driver",
+        "title": "Ecopetrol resumed Opav with which it seeks to acquire 25% of the share capital of Brava Energ\u00eda",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/ecopetrol-reanudo-opav-para-adquirir-25-del-capital-social-de-brava-energia-4439832",
+        "published_date": "2026-07-21 11:36:28",
+        "category": "Energy"
+    },
+    {
+        "title": "Testimonies of the floods in Meta: Black Hawk helicopter rescued 44 people, but 350 remain isolated",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/lider-indigena-del-pueblo-awa-fue-objeto-de-un-atentado-en-la-via-al-mar-en-narino-el-riesgo-en-el-territorio-se-mantiene-intacto-3570915",
-        "published_date": "2026-07-13 12:20:00",
-        "category": "Military"
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/testimonios-de-las-inundaciones-en-meta-helicoptero-black-hawk-rescato-a-44-personas-pero-350-siguen-aisladas-3572538",
+        "published_date": "2026-07-20 23:01:00",
+        "category": "Energy"
     },
     {
         "title": "The drama of the mother of the two brothers who died in a motorcycle accident in Boyac\u00e1: she has her daughter in the ICU and faces a difficult economic situation",
@@ -343,18 +343,11 @@
         "category": "Energy"
     },
     {
-        "title": "Air-e official was attacked after carrying out a power cut due to alleged non-payment in El Plato, Magdalena: this is what the company said",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/funcionario-de-air-e-fue-atacado-tras-realizar-un-corte-de-energia-por-una-presunta-falta-de-pago-en-el-plato-magdalena-esto-dijo-la-empresa-3571593",
-        "published_date": "2026-07-16 06:55:34",
-        "category": "Energy"
-    },
-    {
-        "title": "Ecopetrol will present its quarterly results for April-June on August 3",
+        "title": "At the end of 2026, GDP of the agricultural sector would contract 2.6% due to climatic factors",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/ecopetrol-presentara-sus-resultados-trimestrales-de-abril-junio-el-3-de-agosto-4437089",
-        "published_date": "2026-07-16 02:10:01",
-        "category": "Energy"
+        "url": "https://www.larepublica.co/economia/a-cierre-de-2026-pib-del-sector-agro-se-contraeria-2-6-por-factores-climaticos-4439472",
+        "published_date": "2026-07-21 05:00:46",
+        "category": "Economy"
     },
     {
         "title": "Villar points out that the interest rate will remain high until inflation returns to the target range",
@@ -406,143 +399,143 @@
         "category": "Economy"
     },
     {
-        "title": "Petro proposes that Congress debate alleged electoral fraud",
+        "title": "Abelardo loses his first round in Congress",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/petro-propone-que-congreso-debata-supuesto-fraude-electoral/",
-        "published_date": "2026-07-20 23:13:03",
+        "url": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/abelardo-pierde-su-primer-round-en-el-congreso/",
+        "published_date": "2026-07-21 12:18:37",
         "category": "Local Events"
     },
     {
-        "title": "Abelardo's influencers in the Congress installation",
+        "title": "Petro shows infant mortality figures in Congress in a misleading way",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/los-influencers-de-abelardo-en-la-instalacion-del-congreso/",
-        "published_date": "2026-07-20 22:47:07",
+        "url": "https://www.lasillavacia.com/detector-de-mentiras/enganoso/petro-muestra-cifras-de-mortalidad-infantil-en-el-congreso-de-forma-enganosa/",
+        "published_date": "2026-07-21 08:04:52",
         "category": "Local Events"
     },
     {
-        "title": "Follow the coverage of the installation of Congress for the legislative period 2026-2030",
+        "title": "Abelardo loses his first fight with a Congress that shows his teeth",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/abelardo-pierde-su-primer-pulso-con-un-congreso-que-le-muestra-los-dientes/",
+        "published_date": "2026-07-21 07:19:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "Detector: monetary poverty has had a historical rate of decline",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/detector-de-mentiras/cierto-pero/detector-la-pobreza-monetaria-si-ha-tenido-una-tasa-de-disminucion-historica/",
+        "published_date": "2026-07-21 07:06:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The taxes that the Petro Government seeks with the tax authorities days after leaving power",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/siga-el-cubrimiento-de-la-instalacion-del-congreso-para-el-periodo-2026-2030-4439686",
-        "published_date": "2026-07-20 22:07:45",
+        "url": "https://www.larepublica.co/economia/impuestos-que-busca-el-gobierno-a-dias-de-dejar-el-poder-con-la-tributaria-4438781",
+        "published_date": "2026-07-21 05:03:43",
         "category": "Local Events"
     },
     {
-        "title": "Bees and \u201cdefense of life\u201d: the \u201cwar\u201d of posters in the plenary session",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/abejas-y-defensa-de-la-vida-la-guerra-de-carteles-en-la-plenaria/",
-        "published_date": "2026-07-20 21:53:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cThe opposition has two voices: Petro and me\u201d: Iv\u00e1n Cepeda in Congress",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/la-oposicion-tiene-dos-voces-petro-y-yo-ivan-cepeda-en-el-congreso/",
-        "published_date": "2026-07-20 21:34:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "Historical Pact is inclined to vote for Uribism as president of the Senate",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/pacto-historico-se-inclina-a-votar-por-el-uribismo-en-presidencia-del-senado/",
-        "published_date": "2026-07-20 21:02:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cAmayismo\u201d debuts in Congress in first person",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/el-amayismo-se-estrena-en-el-congreso-en-primera-persona/",
-        "published_date": "2026-07-20 20:50:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "Liberals keep the Chamber Secretariat",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/liberales-se-quedan-con-la-secretaria-de-la-camara/",
-        "published_date": "2026-07-20 20:37:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "Uribismo remains confident that Honorio can preside over the Senate",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/uribismo-sigue-confiado-en-que-honorio-pueda-presidir-el-senado/",
-        "published_date": "2026-07-20 20:30:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "This is how the military parade for Independence Day was experienced in Bogot\u00e1",
+        "title": "It will be known how much the accumulated imports are with closing in May",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/asi-transcurrio-el-desfile-militar-por-conmemoracion-del-20-de-julio-en-bogota-4439583",
-        "published_date": "2026-07-20 19:10:34",
+        "url": "https://www.larepublica.co/economia/se-conocera-en-cuanto-va-el-acumulado-de-importaciones-con-cierre-a-mayo-4439823",
+        "published_date": "2026-07-21 05:01:58",
         "category": "Local Events"
     },
     {
-        "title": "Abelardo de la Espriella commemorated Colombian Independence Day in Antioquia: he accompanied the military parade and visited the Toyo Tunnel",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/abelardo-de-la-espriella-conmemoro-el-dia-de-la-independencia-de-colombia-en-antioquia-acompano-el-desfile-militar-y-visito-el-tunel-del-toyo-3572486",
-        "published_date": "2026-07-20 17:52:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "Between applause in the Sixth and marches in the east: x-ray of a peaceful July 20 but with challenges in Valle del Cauca",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/entre-el-aplauso-en-la-sexta-y-las-marchas-en-el-oriente-la-radiografia-de-un-20-de-julio-pacifico-y-con-retos-en-el-valle-del-cauca-3572516",
-        "published_date": "2026-07-20 17:45:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Victorious |She is 'Mariangel', the four-year-old 'tiktoker' girl who overcame leukemia in Bucaramanga and dreams of being a doctor",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/victoriosa-ella-es-mariangel-la-nina-tiktoker-de-cuatro-anos-que-supero-una-leucemia-en-bucaramanga-y-suena-con-ser-medica-3572506",
-        "published_date": "2026-07-20 17:03:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Important natural reserve of Santander burns in flames: a serious forest fire in the hills of El Pe\u00f1\u00f3n has already been active for 72 hours",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/importante-reserva-natural-de-santander-arde-en-llamas-un-grave-incendio-forestal-en-los-cerros-de-el-penon-ya-completa-72-horas-activo-3572496",
-        "published_date": "2026-07-20 16:24:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "Antioquia, pillar of the 'Patria Milagro': the strategic pact between the president-elect, the governor and the mayor of Medell\u00edn for August 7",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/antioquia-pilar-de-la-patria-milagro-el-pacto-estrategico-entre-el-presidente-electo-el-gobernador-y-el-alcalde-de-medellin-para-el-7-de-agosto-3572494",
-        "published_date": "2026-07-20 16:04:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "Eleventh grade students from a Gir\u00f3n school run the risk of not graduating after not being registered in the ICFES: parents had paid",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/estudiantes-de-grado-once-de-un-colegio-de-giron-corren-el-riesgo-de-no-graduarse-tras-no-ser-inscritos-en-el-icfes-padres-de-familia-habian-pagado-3572487",
-        "published_date": "2026-07-20 15:14:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "An alleged attack of jealousy unleashed a tragedy in the north of Cali: woman is accused of murdering her partner with a sharp weapon",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/presunto-ataque-de-celos-desato-una-tragedia-en-el-norte-de-cali-mujer-es-senalada-de-asesinar-a-su-pareja-con-arma-cortopunzante-3572471",
-        "published_date": "2026-07-20 14:57:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "Petro called for a \"second cry for independence\" in the July 20 parades",
+        "title": "Find out how the congressional map looked for the legislature that started on July 20",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/petro-convoco-a-un-segundo-grito-de-independencia-antes-de-la-conmemoracion-del-20-de-julio-4439496",
-        "published_date": "2026-07-20 14:38:32",
+        "url": "https://www.larepublica.co/economia/asi-quedo-el-mapa-del-congreso-para-la-legislatura-que-arranco-el-20-de-julio-4439788",
+        "published_date": "2026-07-21 05:01:57",
         "category": "Local Events"
     },
     {
-        "title": "Fico Guti\u00e9rrez affirmed that with the De la Espriella government \"the horrible night will cease\"",
+        "title": "The electoral effect took the country risk to minimums not recorded since September 2021",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/fico-gutierrez-afirmo-que-con-el-gobierno-de-de-la-espriella-cesara-la-horrible-noche-4439475",
-        "published_date": "2026-07-20 13:19:17",
+        "url": "https://www.larepublica.co/economia/el-efecto-electoral-llevo-el-riesgo-pais-a-minimos-no-registrados-desde-2021-4438721",
+        "published_date": "2026-07-21 05:01:49",
         "category": "Local Events"
     },
     {
-        "title": "From voting to agency: the real challenge of youth participation",
+        "title": "Dane will release the ISE data for May;in April it grew 3.33%",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/dane-dara-a-conocer-el-dato-de-ise-correspondiente-a-mayo-en-abril-crecio-3-33-4439820",
+        "published_date": "2026-07-21 05:01:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "More than 420 companies closed in the housing sector in the last four years",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/mas-de-420-empresas-cerraron-en-el-sector-vivienda-en-los-ultimos-cuatro-anos-4439468",
+        "published_date": "2026-07-21 05:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "This is Honorio Henr\u00edquez, the new president of the Senate",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/del-voto-a-la-agencia-el-verdadero-reto-de-la-participacion-juvenil/",
-        "published_date": "2026-07-20 13:00:00",
+        "url": "https://www.lasillavacia.com/silla-nacional/este-es-honorio-henriquez-el-nuevo-presidente-del-senado/",
+        "published_date": "2026-07-21 04:08:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "Defeat for Abelardo: Honorio Henr\u00edquez, president of the Senate",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/honorio-henriquez-es-el-nuevo-presidente-del-senado/",
+        "published_date": "2026-07-21 04:07:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "Petro turns fraud into the myth of his new opposition",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/petro-convierte-el-fraude-en-el-mito-de-su-nueva-oposicion/",
+        "published_date": "2026-07-21 03:47:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Pact finally reveals its vote to the Senate.It will be by Honorio Henr\u00edquez",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/el-pacto-por-fin-revela-su-voto-al-senado-honorio-henriquez/",
+        "published_date": "2026-07-21 02:52:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "The entire Chamber elected Nicol\u00e1s Barguil as its president",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/toda-la-camara-eligio-a-nicolas-barguil-como-su-presidente/",
+        "published_date": "2026-07-21 02:50:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "Check the restriction!Peak and plate in Pereira for Tuesday, July 21, 2026",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/consulte-la-restriccion-pico-y-placa-en-pereira-para-el-martes-21-de-julio-de-3572460",
+        "published_date": "2026-07-21 02:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Avoid fines!This is how the peak and plate will work in Bucaramanga this Tuesday, July 21, 2026",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/evite-multas-asi-funcionara-el-pico-y-placa-en-bucaramanga-este-martes-21-de-julio-de-3572459",
+        "published_date": "2026-07-21 02:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Medell\u00edn maintains the current rotation of the peak and plate: this is how the restriction will operate this Tuesday, July 21",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/medellin-mantiene-la-actual-rotacion-del-pico-y-placa-asi-operara-la-restriccion-este-martes-21-de-julio-3572458",
+        "published_date": "2026-07-21 02:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Check if you can drive!Peak and plate in Cali for Tuesday, July 21, 2026",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/revise-si-puede-circular-pico-y-placa-en-cali-para-el-martes-21-de-julio-de-3572457",
+        "published_date": "2026-07-21 02:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Deluque and Henr\u00edquez review their votes before the election",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/deluque-y-henriquez-repasan-votos-antes-de-la-eleccion/",
+        "published_date": "2026-07-21 02:21:29",
         "category": "Local Events"
     }
 ]
