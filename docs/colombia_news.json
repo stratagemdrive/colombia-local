@@ -1,5 +1,12 @@
 [
     {
+        "title": "AmCham and US Embassy promote agenda to strengthen the private sector",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/amcham-y-embajada-de-ee-uu-impulsan-agenda-para-fortalecer-el-sector-privado-4440842",
+        "published_date": "2026-07-22 12:37:52",
+        "category": "Diplomacy"
+    },
+    {
         "title": "The alleged murderer of the girl Celeste is captured in Baranoa, Atl\u00e1ntico: he was trying to flee to Bogot\u00e1",
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/barranquilla/capturan-en-baranoa-atlantico-al-presunto-asesino-de-la-nina-celeste-intentaba-huir-hacia-bogota-3572908",
@@ -259,6 +266,48 @@
         "category": "Military"
     },
     {
+        "title": "From agricultural innovation to large orchestras: Palmira prepares the celebration of the 50 years of the National Agricultural Festival",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/de-la-innovacion-agricola-a-las-grandes-orquestas-palmira-alista-la-celebracion-de-los-50-anos-de-la-fiesta-nacional-de-la-agricultura-3573126",
+        "published_date": "2026-07-22 18:36:09",
+        "category": "Energy"
+    },
+    {
+        "title": "Will there be power outages this Thursday, July 23 in your sector?These are the neighborhoods of Barranquilla where Air-e will do electrical work",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/habra-cortes-de-luz-este-jueves-23-de-julio-en-su-sector-estos-son-los-barrios-de-barranquilla-donde-air-e-hara-trabajos-electricos-3573127",
+        "published_date": "2026-07-22 18:30:00",
+        "category": "Energy"
+    },
+    {
+        "title": "MinMinas confirms restoration of energy exports to Ecuador",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/minminas-confirma-restablecimiento-de-exportaciones-de-energia-a-ecuador-4441043",
+        "published_date": "2026-07-22 18:25:33",
+        "category": "Energy"
+    },
+    {
+        "title": "The largest seizure in Colombia's road history: 2,500 kilos of cocaine are found hidden in gas pipes in Valle del Cauca",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/el-mayor-decomiso-en-la-historia-vial-de-colombia-hallan-2-500-kilos-de-cocaina-ocultos-en-tubos-de-gas-en-el-valle-del-cauca-3573117",
+        "published_date": "2026-07-22 18:11:27",
+        "category": "Energy"
+    },
+    {
+        "title": "This is how The Gentlemen operates, the ransomware group that attacked and stole data from Ecopetrol",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/asi-opera-the-gentlemen-el-grupo-de-ransomware-que-ataco-y-robo-datos-a-ecopetrol-4441053",
+        "published_date": "2026-07-22 18:06:07",
+        "category": "Energy"
+    },
+    {
+        "title": "Ecopetrol will have 81 Gbtud of gas to support Spec maintenance",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/ecopetrol-dispondra-de-81-gbtud-de-gas-para-respaldar-mercado-en-el-mantenimiento-de-spec-4440879",
+        "published_date": "2026-07-22 13:21:03",
+        "category": "Energy"
+    },
+    {
         "title": "Gasoline and diesel subsidies could leave a fiscal gap of nearly $10 trillion",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/subsidios-a-la-gasolina-y-diesel-podrian-dejar-un-hueco-fiscal-de-10-billones-4440527",
@@ -357,48 +406,6 @@
         "category": "Energy"
     },
     {
-        "title": "There are six companies that account for 72% of the total energy generation capacity",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/seis-empresas-agrupan-72-de-la-capacidad-total-de-generacion-de-energia-4438706",
-        "published_date": "2026-07-18 05:01:37",
-        "category": "Energy"
-    },
-    {
-        "title": "Ecopetrol received a cyber attack in order to steal company information",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/ataque-cibernetico-a-ecopetrol-4438803",
-        "published_date": "2026-07-18 02:09:56",
-        "category": "Energy"
-    },
-    {
-        "title": "In MinMinas they talk about the resignation of Edwin Palma",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/en-minminas-hablan-de-la-renuncia-de-edwin-palma/",
-        "published_date": "2026-07-17 20:20:00",
-        "category": "Energy"
-    },
-    {
-        "title": "The Attorney General's Office visited Hidroituango to verify the works and the plan in the face of an El Ni\u00f1o phenomenon: this is what they found",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/procuraduria-visito-hidroituango-para-verificar-las-obras-y-el-plan-ante-un-fenomeno-de-el-nino-esto-encontraron-3572082",
-        "published_date": "2026-07-17 17:46:30",
-        "category": "Energy"
-    },
-    {
-        "title": "Huila, Caquet\u00e1 and Tolima, the regions where the electricity bill is more expensive",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/huila-caqueta-y-tolima-donde-el-recibo-de-energia-electrica-llega-mas-caro-4437837",
-        "published_date": "2026-07-17 05:03:44",
-        "category": "Energy"
-    },
-    {
-        "title": "Ecopetrol is projecting the highest level of quarterly profits in four years",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/ecopetrol-preve-el-nivel-de-utilidades-trimestrales-mas-alto-en-cuatro-anos-4437711",
-        "published_date": "2026-07-17 05:00:34",
-        "category": "Energy"
-    },
-    {
         "title": "Petro deceives about inflation by highlighting its historical minimum rise",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/detector-de-mentiras/enganoso/petro-engana-sobre-inflacion-al-destacar-su-alza-historica-del-minimo/",
@@ -448,143 +455,143 @@
         "category": "Economy"
     },
     {
-        "title": "Emcali announces scheduled water cut this Wednesday, July 22 in Cali: know the neighborhoods and schedules of the measure",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/emcali-anuncia-corte-programado-de-agua-este-miercoles-22-de-julio-en-cali-conozca-los-barrios-y-horarios-de-la-medida-3572912",
-        "published_date": "2026-07-22 07:13:15",
+        "title": "Abelardo announces that he wants to turn Barranquilla into an alternative capital",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/abelardo-anuncia-que-quiere-convertir-a-barranquilla-en-capital-alterna/",
+        "published_date": "2026-07-22 23:51:52",
         "category": "Local Events"
     },
     {
-        "title": "The last trace that Mar\u00eda Camila Potos\u00ed left before her disappearance and death in Cali: the message sent by the young woman who was 8 months pregnant",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/el-ultimo-rastro-que-dejo-maria-camila-potosi-antes-de-su-desaparicion-y-muerte-en-cali-el-mensaje-que-envio-la-joven-que-tenia-8-meses-de-embarazo-3572905",
-        "published_date": "2026-07-22 06:31:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tremor today in Colombia |They report an earthquake of magnitude 3.2 in the early hours of this Wednesday, July 22: epicenter and depth",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/temblor-hoy-en-colombia-reportan-sismo-de-magnitud-3-2-en-la-madrugada-de-este-miercoles-22-de-julio-epicentro-y-profundidad-3572899",
-        "published_date": "2026-07-22 05:20:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Concerts, liquor and yachts would be taxed in the Petro government's new tax",
+        "title": "De la Espriella's government rejected the latest tax reform filed by Petro",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/conciertos-licor-y-yates-serian-gravados-en-nueva-tributaria-del-gobierno-petro-4439809",
-        "published_date": "2026-07-22 05:01:43",
+        "url": "https://www.larepublica.co/economia/gobierno-de-de-la-espriella-rechazo-la-ultima-reforma-tributaria-radicada-por-petro-4441415",
+        "published_date": "2026-07-22 22:49:47",
         "category": "Local Events"
     },
     {
-        "title": "Medell\u00edn maintains the current rotation of the peak and plate: this is how the restriction will operate this Wednesday, July 22",
+        "title": "Petro figures tell an incomplete story",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/las-cifras-de-petro-cuentan-una-historia-incompleta/",
+        "published_date": "2026-07-22 22:23:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Abelardo also financed his campaign with money from his manager and his sister-in-law.",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/abelardo-tambien-financio-su-campana-con-plata-de-su-gerente-y-su-cunada/",
+        "published_date": "2026-07-22 22:19:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "This Thursday the Environmental Journalism Festival starts in Bogot\u00e1",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-amazonia/este-jueves-arranca-el-festival-de-periodismo-ambiental-en-bogota/",
+        "published_date": "2026-07-22 22:14:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "Prosecutor's Office calls Juliana Guerrero to trial for alleged false degrees",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/fiscalia-llama-a-juicio-a-juliana-guerrero-por-presuntos-titulos-falsos/",
+        "published_date": "2026-07-22 22:06:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "These are the bills that could impact the environment",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-amazonia/estos-son-los-proyectos-de-ley-que-podrian-impactar-al-medioambiente/",
+        "published_date": "2026-07-22 21:29:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "Senate approves moving Congress to Cauca for Abelardo's possession",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/senado-aprueba-trasladar-congreso-al-cauca-para-posesion-de-abelardo/",
+        "published_date": "2026-07-22 21:10:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cepeda will carry out an act in Barranquilla parallel to the possession of Abelardo",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/cepeda-hara-en-barranquilla-un-acto-paralelo-a-la-posesion-de-abelardo/",
+        "published_date": "2026-07-22 20:37:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Charism vs.Cuenca: pulse in Change due to quota in the Commission of Accusations",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/charismo-vs-cuenca-pulso-en-cambio-por-cupo-en-comision-de-acusaciones/",
+        "published_date": "2026-07-22 19:30:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "New details of the case of Bogota residents found dead in El Rodadero: the woman was being investigated for the strange disappearance of her own mother",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/medellin-mantiene-la-actual-rotacion-del-pico-y-placa-asi-operara-la-restriccion-este-miercoles-22-de-julio-3572709",
-        "published_date": "2026-07-22 02:35:00",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/nuevos-detalles-del-caso-de-bogotanos-hallados-muertos-en-el-rodadero-la-mujer-era-investigada-por-la-extrana-desaparicion-de-su-propia-madre-3573113",
+        "published_date": "2026-07-22 17:50:00",
         "category": "Local Events"
     },
     {
-        "title": "Avoid fines!This is how the peak and plate will work in Bucaramanga this Wednesday, July 22, 2026",
+        "title": "A 14-year-old teenager died after an attack with a knife in Granada, Meta: a 12-year-old girl is identified as the alleged perpetrator",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/evite-multas-asi-funcionara-el-pico-y-placa-en-bucaramanga-este-miercoles-22-de-julio-de-3572706",
-        "published_date": "2026-07-22 02:30:00",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/adolescente-de-14-anos-murio-tras-un-ataque-con-arma-blanca-en-granada-meta-una-menor-de-12-es-senalada-como-la-presunta-responsable-3573098",
+        "published_date": "2026-07-22 17:27:59",
         "category": "Local Events"
     },
     {
-        "title": "Check the restriction!Peak and plate in Pereira for Wednesday, July 22, 2026",
+        "title": "Government of Valle allocates 6,000 million pesos to three hospitals to alleviate salary debts: 'We do not expect anything from the National Government'",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/consulte-la-restriccion-pico-y-placa-en-pereira-para-el-miercoles-22-de-julio-de-3572705",
-        "published_date": "2026-07-22 02:30:00",
+        "url": "https://www.eltiempo.com/colombia/cali/gobernacion-del-valle-destina-6-000-millones-de-pesos-a-tres-hospitales-para-aliviar-deudas-salariales-no-esperamos-nada-del-gobierno-nacional-3573097",
+        "published_date": "2026-07-22 17:22:09",
         "category": "Local Events"
     },
     {
-        "title": "Do you have a pick and a plate?This is how the restriction will work in Cali this Wednesday, July 22, 2026",
+        "title": "Videos |Panic due to three gigantic fires on the slopes and in the northeast of Cali: one of the emergencies occurs near a school",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/le-toca-pico-y-placa-asi-funcionara-la-restriccion-en-cali-este-miercoles-22-de-julio-de-3572700",
-        "published_date": "2026-07-22 02:30:00",
+        "url": "https://www.eltiempo.com/colombia/cali/panico-por-tres-gigantescos-incendios-en-la-ladera-y-entre-el-centro-y-el-oriente-de-cali-una-de-las-emergencias-ocurre-cerca-de-un-colegio-3573081",
+        "published_date": "2026-07-22 17:22:08",
         "category": "Local Events"
     },
     {
-        "title": "National Government will allocate $8 billion from the Ungrd to mitigate the El Ni\u00f1o phenomenon",
+        "title": "Hitman attack in Bucaramanga in a micromarket where a woman and a young man died was not directed at the victims: it was a personal issue with the owner",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/ataque-sicarial-en-bucaramanga-en-micromercado-en-donde-murio-una-mujer-y-un-joven-no-iba-dirigido-a-las-victimas-era-un-tema-personal-con-el-dueno-3573072",
+        "published_date": "2026-07-22 16:49:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "Barranquilla |Uninorte students and teachers contributed to the historic ruling that protects victims of the dissemination of intimate content without consent",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-estudiantes-y-docentes-de-uninorte-aportaron-a-historico-fallo-que-protege-victimas-de-difusion-de-contenido-intimo-sin-consentimiento-3573085",
+        "published_date": "2026-07-22 16:25:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Vaup\u00e9s, Guaviare and Guain\u00eda, those with the greatest growth in arrivals of foreigners",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/gobierno-nacional-destinara-8-billones-desde-la-ungrd-para-mitigar-el-nino-4440626",
-        "published_date": "2026-07-22 01:54:55",
+        "url": "https://www.larepublica.co/economia/vaupes-guaviare-y-guainia-los-de-mayor-crecimiento-en-llegada-de-extranjeros-4440960",
+        "published_date": "2026-07-22 16:14:13",
         "category": "Local Events"
     },
     {
-        "title": "Petro achieved the lowest unemployment rate of the century, but not the highest employment rate",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/detector-de-mentiras/petro-logro-la-menor-tasa-de-desempleo-del-siglo-pero-no-la-mayor-de-ocupacion/",
-        "published_date": "2026-07-22 00:38:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "MinAmbiente Arjona warns about logging in Parks, the entity responds",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/minambiente-arjona-alerta-sobre-tala-y-ausencia-de-estado-en-parques/",
-        "published_date": "2026-07-22 00:30:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sleep informed with the keys for this July 21, 2026",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-claves-de-este-21-de-julio-de-2026/",
-        "published_date": "2026-07-22 00:21:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "Uribismo points out Abelardist influencers and rejects that they went to Congress",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/uribismo-senala-a-influencers-abelardistas-y-rechaza-que-fueran-al-congreso/",
-        "published_date": "2026-07-22 00:03:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Jader Durango, journalist and community leader, murdered in C\u00f3rdoba",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/asesinan-en-cordoba-a-jader-durango-periodista-y-lider-comunitario/",
-        "published_date": "2026-07-21 23:30:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "Friar Ricardo Torres will be the director of the Sena in the government of Abelardo de la Espriella",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/fraile-ricardo-torres-sera-el-director-del-sena-en-el-gobierno-de-la-espriella-4440472",
-        "published_date": "2026-07-21 23:29:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "La Gloriosa brings the flavor of Santander hamburgers to the heart of Chapinero",
+        "title": "Purac\u00e9 Volcano intensifies its activity: ash rain covers Popay\u00e1n and forces the closure of the airport",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/la-gloriosa-lleva-el-sabor-de-las-hamburguesas-santandereanas-al-corazon-de-chapinero-3572883",
-        "published_date": "2026-07-21 23:25:07",
+        "url": "https://www.eltiempo.com/colombia/cali/volcan-purace-intensifica-su-actividad-lluvia-de-ceniza-cubre-popayan-y-obliga-al-cierre-del-aeropuerto-3573077",
+        "published_date": "2026-07-22 16:06:49",
         "category": "Local Events"
     },
     {
-        "title": "Fitch Ratings maintained a stable outlook on the rating of 10 departments",
+        "title": "El Tambo, municipality of Nari\u00f1o, imposed water rationing on behalf of El Ni\u00f1o",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/fitch-ratings-mantuvo-perspectiva-estable-en-la-calificacion-de-10-departamentos-4440467",
-        "published_date": "2026-07-21 23:24:05",
+        "url": "https://www.larepublica.co/economia/el-tambo-municipio-de-narino-impuso-racionamiento-de-agua-por-cuenta-de-el-nino-4441004",
+        "published_date": "2026-07-22 15:41:28",
         "category": "Local Events"
     },
     {
-        "title": "Inv\u00edas affirmed that the Toyo Tunnel contract is progressing according to the planned schedule",
+        "title": "As of today, Inv\u00edas assumed the operation of the Cartagena \u2013 Barranquilla freight corridor",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/invias-afirmo-que-contrato-del-tunel-del-toyo-avanza-segun-cronograma-previsto-4440402",
-        "published_date": "2026-07-21 22:56:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "Barranquilla, Cali and Medell\u00edn will be the three alternate headquarters of Abelardo",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/barranquilla-cali-y-medellin-seran-las-tres-sedes-alternas-de-abelardo/",
-        "published_date": "2026-07-21 22:55:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tremor today in Colombia |They report an earthquake of magnitude 3.0 during the night of this Tuesday, July 21: know the epicenter and depth",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-hoy-en-colombia-reportan-sismo-de-magnitud-3-0-durante-la-noche-de-este-martes-21-de-julio-conozca-epicentro-y-profundidad-3572874",
-        "published_date": "2026-07-21 22:06:22",
+        "url": "https://www.larepublica.co/economia/invias-asumio-la-operacion-del-corredor-de-carga-cartagena-barranquilla-4440885",
+        "published_date": "2026-07-22 14:21:05",
         "category": "Local Events"
     }
 ]
