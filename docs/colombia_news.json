@@ -1,5 +1,12 @@
 [
     {
+        "title": "Sleep informed with the keys for this July 23, 2026",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-claves-de-este-23-de-julio-de-2026/",
+        "published_date": "2026-07-24 00:22:28",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Starting at midnight, the US will apply 12.5% \u200b\u200btariffs to Colombia",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/a-partir-de-medianoche-ee-uu-aplicara-aranceles-del-125-a-colombia/",
@@ -126,11 +133,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Colombia will open an embassy in Israel as soon as De La Espriella takes possession",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/colombia-abrira-una-embajada-en-israel-tan-pronto-se-posesione-de-la-espriella-4437220",
-        "published_date": "2026-07-16 12:17:44",
-        "category": "Diplomacy"
+        "title": "The young people from the gangs who avoid confronting each other to become peace entrepreneurs in Cauca",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/los-jovenes-de-las-pandillas-que-evitan-enfrentarse-entre-si-para-convertirse-en-emprendedores-de-paz-en-el-cauca-3573462",
+        "published_date": "2026-07-24 02:47:59",
+        "category": "Military"
     },
     {
         "title": "Ministry of Defense denounces that dissidents dressed in civilian clothes attacked the Army",
@@ -266,11 +273,18 @@
         "category": "Military"
     },
     {
-        "title": "What is behind the theft of 80 million pesos in a house in the south of Cali, where one of the thieves arrived dressed as a police officer?",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/que-hay-detras-del-robo-de-80-millones-de-pesos-en-una-casa-del-sur-de-cali-donde-uno-de-los-ladrones-llego-vestido-de-policia-3571602",
-        "published_date": "2026-07-16 16:56:45",
-        "category": "Military"
+        "title": "With brent above US$100 a barrel, the Nation would receive income of $8.44 billion",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/con-un-brent-a-us-100-el-barril-la-nacion-recibiria-ingresos-de-8-44-billones-4442145",
+        "published_date": "2026-07-24 05:00:10",
+        "category": "Energy"
+    },
+    {
+        "title": "Movements in Ecopetrol after the announcement of the end date of Ricardo Roa's management",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/ecopetrol-roa-estara-el-frente-de-ecopetrol-hasta-el-30-de-julio-4442381",
+        "published_date": "2026-07-24 01:07:07",
+        "category": "Energy"
     },
     {
         "title": "The United States increased tariffs on Colombian products to 12.5%",
@@ -399,18 +413,11 @@
         "category": "Energy"
     },
     {
-        "title": "Testimonies of the floods in Meta: Black Hawk helicopter rescued 44 people, but 350 remain isolated",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/testimonios-de-las-inundaciones-en-meta-helicoptero-black-hawk-rescato-a-44-personas-pero-350-siguen-aisladas-3572538",
-        "published_date": "2026-07-20 23:01:00",
-        "category": "Energy"
-    },
-    {
-        "title": "The drama of the mother of the two brothers who died in a motorcycle accident in Boyac\u00e1: she has her daughter in the ICU and faces a difficult economic situation",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/el-drama-de-la-madre-de-los-dos-hermanos-que-murieron-en-accidente-de-moto-en-boyaca-tiene-a-su-hija-en-uci-y-enfrenta-dificil-situacion-economica-3572480",
-        "published_date": "2026-07-20 13:45:00",
-        "category": "Energy"
+        "title": "Bad weather would lead the agricultural sector to its worst decline in the last two decades",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/el-mal-clima-llevaria-al-sector-agropecuario-a-su-peor-caida-en-los-ultimos-20-anos-4442113",
+        "published_date": "2026-07-24 05:01:10",
+        "category": "Economy"
     },
     {
         "title": "World Bank: earthquakes in Venezuela leave damage worth US$19 billion",
@@ -455,11 +462,81 @@
         "category": "Economy"
     },
     {
-        "title": "Medell\u00edn, Pereira and Manizales, the cities where services weigh the most in the cost of living",
+        "title": "What Abelardo can do without Congress",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/lo-que-puede-hacer-abelardo-sin-el-congreso/",
+        "published_date": "2026-07-24 12:08:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "The cracks in Venezuela that were already there",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-venezuela/las-grietas-de-venezuela-que-ya-estaban-alli/",
+        "published_date": "2026-07-24 11:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "What De la Espriella has to go through Congress and what doesn't",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/lo-que-de-la-espriella-tiene-que-pasar-por-el-congreso-y-lo-que-no/",
+        "published_date": "2026-07-24 06:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Former partner spoke of the woman who was driving the motorcycle on which Mar\u00eda Camila Potos\u00ed was last seen before her disappearance and death in Cali",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/hablo-expareja-de-la-mujer-que-conducia-la-moto-en-la-que-fue-vista-por-ultima-vez-maria-camila-potosi-antes-de-su-desaparicion-y-muerte-en-cali-3573471",
+        "published_date": "2026-07-24 05:17:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cali consolidates itself as the fourth best managed city in the entire national territory",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/medellin-pereira-y-manizales-donde-los-servicios-pesan-mas-en-el-costo-de-vida-4436219",
-        "published_date": "2026-07-16 05:01:08",
-        "category": "Economy"
+        "url": "https://www.larepublica.co/economia/cali-se-consolida-como-la-cuarta-ciudad-mejor-administrada-del-pais-4441957",
+        "published_date": "2026-07-24 05:01:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "'Swallow investors' are causing overproduction of pork",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/los-inversionistas-golondrina-provocan-una-sobreproduccion-de-carne-de-cerdo-4442127",
+        "published_date": "2026-07-24 05:01:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "The tender story of a baby lemur at the Cali Zoo who lives clinging to a stuffed animal to replace her mother's warmth: 'I didn't feed her'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/cria-de-lemur-sobrevive-en-el-zoologico-de-cali-aferrada-a-un-pequeno-peluche-que-sustituye-el-calor-de-su-madre-tenia-periodos-de-separacion-3573469",
+        "published_date": "2026-07-24 04:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Harvard put Cali on the global map of Afro-Latin American knowledge: 'Are we going to continue building racist or inclusive nations?'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/harvard-puso-a-cali-en-el-mapa-global-del-conocimiento-afro-de-america-latina-vamos-a-seguir-construyendo-naciones-racistas-o-de-inclusion-3573453",
+        "published_date": "2026-07-24 03:09:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Do you have a pick and a plate?This is how the restriction will work in Cali this Friday, July 24, 2026",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/le-toca-pico-y-placa-asi-funcionara-la-restriccion-en-cali-este-viernes-24-de-julio-de-3573353",
+        "published_date": "2026-07-24 02:35:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Inv\u00edas awards $8.7 billion for infrastructure works in 14 departments of the country",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/invias-adjudica-8-7-billones-para-obras-de-infraestructura-en-14-departamentos-4442359",
+        "published_date": "2026-07-24 00:52:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "Abelardo appoints Didier Blanco to the National Protection Unit",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/abelardo-designa-a-didier-blanco-para-la-unidad-nacional-de-proteccion/",
+        "published_date": "2026-07-24 00:04:27",
+        "category": "Local Events"
     },
     {
         "title": "Colombia has more than 2,000 threatened species",
@@ -504,6 +581,13 @@
         "category": "Local Events"
     },
     {
+        "title": "Mayor Alejandro Char reacted to Abelardo De La Espriella's proposal to turn Barranquilla into the alternate capital of Colombia: 'Thank you'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/alcalde-alejandro-char-reacciono-a-la-propuesta-de-abelardo-de-la-espriella-para-convertir-a-barranquilla-en-la-capital-alterna-de-colombia-gracias-3573456",
+        "published_date": "2026-07-23 22:24:23",
+        "category": "Local Events"
+    },
+    {
         "title": "\u201cThank you, senators\u201d: Abelardo celebrates Senate approval for transfer to Cauca",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/gracias-senadores-abelardo-celebra-aval-de-senado-para-traslado-a-cauca/",
@@ -511,94 +595,10 @@
         "category": "Local Events"
     },
     {
-        "title": "Diario del empalme de Abelardo: he wants an alternate capital in Barranquilla",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/diario-del-empalme-de-abelardo-quiere-una-capital-alterna-en-barranquilla/",
-        "published_date": "2026-07-23 18:21:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "Murder of Mar\u00eda Camila Potos\u00ed when she was 8 months pregnant in Cali: journey before she disappeared and what her parents and suspicious motorcyclist said",
+        "title": "A Colombian will ring the traditional bell that marks the closing of the trading day in Times Square in New York: Who is it?",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/asesinato-de-maria-camila-potosi-pistas-recorrido-antes-de-desaparecer-y-lo-que-dijeron-la-motociclista-que-la-llevo-y-sus-padres-no-era-su-amiga-3573320",
-        "published_date": "2026-07-23 18:00:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Gay couple denounces discrimination at the Decameron hotel in San Andr\u00e9s: 'You two are a minority, leave!', a guest shouted at them during a contest",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/pareja-gay-denuncia-discriminacion-en-hotel-decameron-de-san-andres-son-minoria-ustedes-dos-vayanse-les-grito-una-huesped-durante-un-concurso-3573413",
-        "published_date": "2026-07-23 17:55:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "A woman from Tunja appeared dead in Santander: relatives were looking for her four days ago;This is what is known about his death",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/mujer-oriunda-de-tunja-aparecio-muerta-en-santander-familiares-la-buscaban-hace-cuatro-dias-esto-es-lo-que-se-sabe-de-su-fallecimiento-3573404",
-        "published_date": "2026-07-23 17:53:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Four of 10 agencies reported growth in sales during the World Cup",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/el-segmento-vacacional-concentro-72-2-de-las-ventas-de-viajes-en-el-segundo-trimestre-4441873",
-        "published_date": "2026-07-23 17:51:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Purac\u00e9 volcano increases its activity with ash emissions in southwest Colombia, according to the Colombian Geological Service: 'Significantly'",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/el-volcan-purace-aumenta-su-actividad-con-emisiones-de-ceniza-en-el-suroeste-de-colombia-segun-servicio-geologico-colombiano-significativamente-3573410",
-        "published_date": "2026-07-23 17:41:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Among the five sectors with the highest investment, transportation registers the lowest execution",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/entre-los-cinco-sectores-con-mayor-inversion-transporte-registra-la-menor-ejecucion-4441857",
-        "published_date": "2026-07-23 17:33:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "What causes bad odors in Cali?They identify the lack of rain and organic matter as key factors",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/que-causa-los-malos-olores-en-cali-identifican-la-falta-de-lluvias-y-la-materia-organica-como-factores-clave-3573394",
-        "published_date": "2026-07-23 17:08:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "Barranquilla, the first city in Colombia to issue international sustainable bonds for US$350 million: they are intended to refinance a debt",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-primera-ciudad-de-colombia-en-emitir-bonos-sostenibles-internacionales-por-us-350-millones-se-destinan-a-refinanciar-una-deuda-3573392",
-        "published_date": "2026-07-23 17:01:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Blessd and D\u00edmelo Jara will remain free: judge confirmed that they will face the trial for alleged kidnapping for ransom in Medell\u00edn without restrictions",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/blessd-y-dimelo-jara-seguiran-en-libertad-juez-confirmo-que-enfrentaran-sin-restricciones-el-proceso-por-presunto-secuestro-extorsivo-en-medellin-3573398",
-        "published_date": "2026-07-23 16:45:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The shortage of cassava in the market and stores hits Barranquilla: the largest crop in the Caribbean puts bun makers in trouble",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/la-escasez-de-yuca-en-el-mercado-y-las-tiendas-golpea-a-barranquilla-el-cultivo-mas-grande-del-caribe-pone-en-aprietos-a-los-fabricantes-de-bollos-3573372",
-        "published_date": "2026-07-23 16:20:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "There are four departments that concentrate the greatest export potential to Venezuela",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/hay-cuatro-departamentos-que-concentran-el-mayor-potencial-exportador-a-venezuela-4441771",
-        "published_date": "2026-07-23 14:49:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "Dian assured that the tax reform will not tax the family basket or housing",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/dian-aseguro-que-la-reforma-tributaria-no-gravara-la-canasta-familiar-o-para-vivienda-4441676",
-        "published_date": "2026-07-23 12:07:42",
+        "url": "https://www.eltiempo.com/colombia/cali/una-colombiana-hara-sonar-la-tradicional-campana-que-marca-el-cierre-de-la-jornada-bursatil-en-el-times-square-de-nueva-york-quien-es-3573434",
+        "published_date": "2026-07-23 19:19:01",
         "category": "Local Events"
     }
 ]
