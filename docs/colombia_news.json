@@ -1,5 +1,12 @@
 [
     {
+        "title": "Starting at midnight, the US will apply 12.5% \u200b\u200btariffs to Colombia",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/a-partir-de-medianoche-ee-uu-aplicara-aranceles-del-125-a-colombia/",
+        "published_date": "2026-07-23 23:44:22",
+        "category": "Diplomacy"
+    },
+    {
         "title": "President-elect De la Espriella announced a delegation to inaugurate Fujimori",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/el-presidente-entrante-abelardo-de-la-espriella-anuncio-delegacion-para-posesion-de-fujimori-4441601",
@@ -126,11 +133,25 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Federico Guti\u00e9rrez speaks out on the fall of the accusation against Daniel Quintero for the Aguas Vivas case: 'It is a pyrrhic victory'",
+        "title": "Ministry of Defense denounces that dissidents dressed in civilian clothes attacked the Army",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/mindefensa-denuncia-que-disidentes-vestidos-de-civil-atacaron-al-ejercito/",
+        "published_date": "2026-07-23 20:55:49",
+        "category": "Military"
+    },
+    {
+        "title": "This is the agenda that the new government of Abelardo De la Espriella and Asoca\u00f1a outlined: defense of national production, employment and rural security",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/federico-gutierrez-se-pronuncia-sobre-la-caida-de-la-imputacion-a-daniel-quintero-por-el-caso-aguas-vivas-es-una-victoria-pirrica-3571536",
-        "published_date": "2026-07-15 19:03:00",
-        "category": "Diplomacy"
+        "url": "https://www.eltiempo.com/colombia/cali/esta-es-la-agenda-que-se-trazaron-el-nuevo-gobierno-de-abelardo-de-la-espriella-y-asocana-defensa-de-la-produccion-nacional-empleo-y-seguridad-rural-3573420",
+        "published_date": "2026-07-23 18:24:48",
+        "category": "Military"
+    },
+    {
+        "title": "More than 15 thousand people were displaced this semester: Ombudsman's Office",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/mas-de-15-mil-personas-fueron-desplazadas-este-semestre-defensoria/",
+        "published_date": "2026-07-23 17:56:07",
+        "category": "Military"
     },
     {
         "title": "Attack with explosives against the Police substation in Pailitas, Cesar, left five uniformed officers injured and damaged the infrastructure",
@@ -252,25 +273,25 @@
         "category": "Military"
     },
     {
-        "title": "FARC dissidents attacked the Police substation in the Barrag\u00e1n district, in Tulu\u00e1, Valle: 'They shot from the main park'",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/disidentes-de-las-farc-atacaron-la-subestacion-de-la-policia-en-el-corregimiento-de-barragan-en-tulua-valle-dispararon-desde-el-parque-principal-3571591",
-        "published_date": "2026-07-16 06:38:42",
-        "category": "Military"
+        "title": "The United States increased tariffs on Colombian products to 12.5%",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/estados-unidos-aumento-a-12-5-aranceles-para-productos-colombianos-4442030",
+        "published_date": "2026-07-23 22:11:56",
+        "category": "Energy"
     },
     {
-        "title": "Scoop: Antioquia Attorney General's Office summoned authorities to review contingency plans after complaint of possible escape from the Itag\u00fc\u00ed prison",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/primicia-procuraduria-de-antioquia-convoco-a-autoridades-para-revisar-planes-de-contingencia-tras-denuncia-por-posible-fuga-de-la-carcel-de-itaguei-3571530",
-        "published_date": "2026-07-15 20:04:56",
-        "category": "Military"
+        "title": "Court gave green light to emergency mining and agricultural measures from the cold front",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/corte-dio-luz-verde-a-medidas-mineras-y-agricolas-de-emergencia-economica-4441890",
+        "published_date": "2026-07-23 18:42:28",
+        "category": "Energy"
     },
     {
-        "title": "Barranquilla prepares to celebrate the Day of the Virgin of Carmen: these are the recommendations and road closures",
+        "title": "Do you live in Puerto Colombia or in the Atlantic coastal area?Check which sectors will have power outages this Friday, July 24",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-se-prepara-para-celebrar-el-dia-de-la-virgen-del-carmen-estas-son-las-recomendaciones-y-los-cierres-viales-3571478",
-        "published_date": "2026-07-15 17:01:00",
-        "category": "Military"
+        "url": "https://www.eltiempo.com/colombia/barranquilla/vive-en-puerto-colombia-o-en-la-zona-costera-del-atlantico-consulte-cuales-son-los-sectores-que-tendran-cortes-de-energia-este-viernes-24-de-julio-3573418",
+        "published_date": "2026-07-23 18:01:00",
+        "category": "Energy"
     },
     {
         "title": "Cepeda is blurred by not leading a post-Petro left",
@@ -392,25 +413,11 @@
         "category": "Energy"
     },
     {
-        "title": "MinMinas left 4.63 Gw of renewable energies against the government's 6 Gw goal",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/minminas-dejo-4-63-gw-de-energias-renovables-de-meta-de-6-gw-del-gobierno-4439288",
-        "published_date": "2026-07-19 16:57:28",
-        "category": "Energy"
-    },
-    {
-        "title": "The debate over coal is not whether to use it or not, but how",
+        "title": "World Bank: earthquakes in Venezuela leave damage worth US$19 billion",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-verde/el-debate-por-el-carbon-no-es-decidir-si-usarlo-o-no-sino-como/",
-        "published_date": "2026-07-19 11:41:00",
-        "category": "Energy"
-    },
-    {
-        "title": "Ecopetrol ruled out impacts on users and their operations after the cyber attack",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/ecopetrol-descarto-impactos-en-usuarios-y-operaciones-tras-el-ciberataque-4439173",
-        "published_date": "2026-07-19 00:37:36",
-        "category": "Energy"
+        "url": "https://www.lasillavacia.com/en-vivo/banco-mundial-terremotos-en-venezuela-dejan-danos-por-us19-mil-millones/",
+        "published_date": "2026-07-23 22:08:42",
+        "category": "Economy"
     },
     {
         "title": "Petro deceives about inflation by highlighting its historical minimum rise",
@@ -455,150 +462,143 @@
         "category": "Economy"
     },
     {
-        "title": "Fiscal deficit of 7% of GDP will be one of the main challenges of the new Government",
+        "title": "Colombia has more than 2,000 threatened species",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-amazonia/colombia-tiene-mas-de-2-000-especies-amenazadas/",
+        "published_date": "2026-07-23 23:51:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "Didier Blanco will be the director of the National Protection Unit in the incoming Government",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/deficit-fiscal-de-7-del-pib-sera-uno-de-los-principales-retos-del-nuevo-gobierno-4436965",
-        "published_date": "2026-07-15 23:59:05",
-        "category": "Economy"
+        "url": "https://www.larepublica.co/economia/didier-blanco-sera-el-director-de-la-unidad-nacional-de-proteccion-en-el-gobierno-entrante-4442212",
+        "published_date": "2026-07-23 23:44:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "These are the representatives who will make environmental decisions",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-amazonia/estos-son-los-representantes-que-tomaran-las-decisiones-ambientales/",
+        "published_date": "2026-07-23 23:11:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "The challenges of the school to face digital risks",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-educacion/los-retos-de-la-escuela-para-hacer-frente-a-los-riesgos-digitales/",
+        "published_date": "2026-07-23 22:38:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ruth Maritza Quevedo Fique took over as Minister in charge of Housing",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/ruth-maritza-quevedo-fique-asumio-como-ministra-encargada-de-vivienda-4442080",
+        "published_date": "2026-07-23 22:33:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "Neither Petro's lawsuit nor its \u201cevidence\u201d page show fraud against Cepeda",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/detector-de-mentiras/ni-la-demanda-de-petro-ni-su-pagina-de-pruebas-muestran-fraude-contra-cepeda/",
+        "published_date": "2026-07-23 22:31:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cThank you, senators\u201d: Abelardo celebrates Senate approval for transfer to Cauca",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/gracias-senadores-abelardo-celebra-aval-de-senado-para-traslado-a-cauca/",
+        "published_date": "2026-07-23 19:26:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "Diario del empalme de Abelardo: he wants an alternate capital in Barranquilla",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/diario-del-empalme-de-abelardo-quiere-una-capital-alterna-en-barranquilla/",
+        "published_date": "2026-07-23 18:21:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "Murder of Mar\u00eda Camila Potos\u00ed when she was 8 months pregnant in Cali: journey before she disappeared and what her parents and suspicious motorcyclist said",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/asesinato-de-maria-camila-potosi-pistas-recorrido-antes-de-desaparecer-y-lo-que-dijeron-la-motociclista-que-la-llevo-y-sus-padres-no-era-su-amiga-3573320",
+        "published_date": "2026-07-23 18:00:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "Gay couple denounces discrimination at the Decameron hotel in San Andr\u00e9s: 'You two are a minority, leave!', a guest shouted at them during a contest",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/pareja-gay-denuncia-discriminacion-en-hotel-decameron-de-san-andres-son-minoria-ustedes-dos-vayanse-les-grito-una-huesped-durante-un-concurso-3573413",
+        "published_date": "2026-07-23 17:55:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "A woman from Tunja appeared dead in Santander: relatives were looking for her four days ago;This is what is known about his death",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/mujer-oriunda-de-tunja-aparecio-muerta-en-santander-familiares-la-buscaban-hace-cuatro-dias-esto-es-lo-que-se-sabe-de-su-fallecimiento-3573404",
+        "published_date": "2026-07-23 17:53:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Four of 10 agencies reported growth in sales during the World Cup",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/el-segmento-vacacional-concentro-72-2-de-las-ventas-de-viajes-en-el-segundo-trimestre-4441873",
+        "published_date": "2026-07-23 17:51:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Purac\u00e9 volcano increases its activity with ash emissions in southwest Colombia, according to the Colombian Geological Service: 'Significantly'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/el-volcan-purace-aumenta-su-actividad-con-emisiones-de-ceniza-en-el-suroeste-de-colombia-segun-servicio-geologico-colombiano-significativamente-3573410",
+        "published_date": "2026-07-23 17:41:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Among the five sectors with the highest investment, transportation registers the lowest execution",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/entre-los-cinco-sectores-con-mayor-inversion-transporte-registra-la-menor-ejecucion-4441857",
+        "published_date": "2026-07-23 17:33:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "What causes bad odors in Cali?They identify the lack of rain and organic matter as key factors",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/que-causa-los-malos-olores-en-cali-identifican-la-falta-de-lluvias-y-la-materia-organica-como-factores-clave-3573394",
+        "published_date": "2026-07-23 17:08:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "Barranquilla, the first city in Colombia to issue international sustainable bonds for US$350 million: they are intended to refinance a debt",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-primera-ciudad-de-colombia-en-emitir-bonos-sostenibles-internacionales-por-us-350-millones-se-destinan-a-refinanciar-una-deuda-3573392",
+        "published_date": "2026-07-23 17:01:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Blessd and D\u00edmelo Jara will remain free: judge confirmed that they will face the trial for alleged kidnapping for ransom in Medell\u00edn without restrictions",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/blessd-y-dimelo-jara-seguiran-en-libertad-juez-confirmo-que-enfrentaran-sin-restricciones-el-proceso-por-presunto-secuestro-extorsivo-en-medellin-3573398",
+        "published_date": "2026-07-23 16:45:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The shortage of cassava in the market and stores hits Barranquilla: the largest crop in the Caribbean puts bun makers in trouble",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/la-escasez-de-yuca-en-el-mercado-y-las-tiendas-golpea-a-barranquilla-el-cultivo-mas-grande-del-caribe-pone-en-aprietos-a-los-fabricantes-de-bollos-3573372",
+        "published_date": "2026-07-23 16:20:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "There are four departments that concentrate the greatest export potential to Venezuela",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/hay-cuatro-departamentos-que-concentran-el-mayor-potencial-exportador-a-venezuela-4441771",
+        "published_date": "2026-07-23 14:49:17",
+        "category": "Local Events"
     },
     {
         "title": "Dian assured that the tax reform will not tax the family basket or housing",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/dian-aseguro-que-la-reforma-tributaria-no-gravara-la-canasta-familiar-o-para-vivienda-4441676",
         "published_date": "2026-07-23 12:07:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "Video |A platform motorcyclist is captured in Medell\u00edn for hitting a traffic agent during road control",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/video-capturan-en-medellin-a-un-motociclista-de-plataforma-por-golpear-a-un-agente-de-transito-en-control-vial-3573207",
-        "published_date": "2026-07-23 07:00:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tremor in Colombia |Earthquake reported during the early hours of this Thursday, July 23: epicenter, depth and details",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/temblor-en-colombia-reportan-sismo-durante-la-madrugada-de-este-jueves-23-de-julio-epicentro-profundidad-y-detalles-3573193",
-        "published_date": "2026-07-23 06:26:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Heavy rains in the early morning affected Bogot\u00e1, Medell\u00edn and Cundinamarca: Ideam warns of more rainfall this Thursday, July 23",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/fuertes-lluvias-en-la-madrugada-afectaron-a-bogota-medellin-y-cundinamarca-ideam-advierte-mas-precipitaciones-este-jueves-23-de-julio-3573192",
-        "published_date": "2026-07-23 06:10:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fracking: what inherits and awaits the incoming government of Abelardo De La Espriella",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/fracking-lo-que-hereda-y-le-espera-al-gobierno-de-abelardo-de-la-espriella-4441514",
-        "published_date": "2026-07-23 05:03:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "Reservoir levels would fall to 20% at the end of the year due to the effects of the El Ni\u00f1o phenomenon",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/nivel-de-los-embalses-caeria-a-20-al-final-del-ano-por-los-efectos-de-el-nino-4441462",
-        "published_date": "2026-07-23 05:01:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Since the beginning of the 21st century, 13 tax reforms have been approved in Colombia",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/desde-que-comenzo-el-siglo-en-colombia-se-han-aprobado-13-reformas-tributarias-4441477",
-        "published_date": "2026-07-23 05:01:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "Do you have a pick and a plate?This is how the restriction will work in Cali this Thursday, July 23, 2026",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/le-toca-pico-y-placa-asi-funcionara-la-restriccion-en-cali-este-jueves-23-de-julio-de-3573108",
-        "published_date": "2026-07-23 02:31:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Do you have a pick and a plate?This is how the restriction will work in Pereira this Thursday, July 23, 2026",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/le-toca-pico-y-placa-asi-funcionara-la-restriccion-en-pereira-este-jueves-23-de-julio-de-3573115",
-        "published_date": "2026-07-23 02:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Medell\u00edn maintains the current rotation of the peak and plate: this is how the restriction will operate this Thursday, July 23",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/medellin-mantiene-la-actual-rotacion-del-pico-y-placa-asi-operara-la-restriccion-este-jueves-23-de-julio-3573110",
-        "published_date": "2026-07-23 02:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Do you have a pick and a plate?This is how the restriction will operate in Bucaramanga this Thursday, July 23, 2026",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/le-toca-pico-y-placa-asi-operara-la-restriccion-en-bucaramanga-este-jueves-23-de-julio-de-3573109",
-        "published_date": "2026-07-23 02:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Dismay over massacre in indigenous community of Vichada",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/consternacion-por-masacre-en-comunidad-indigena-de-vichada/",
-        "published_date": "2026-07-23 00:43:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sleep informed with the keys for this July 22, 2026",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-claves-de-este-22-de-julio-de-2026/",
-        "published_date": "2026-07-23 00:05:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "Abelardo wants Barranquilla to be an alternative capital to Bogot\u00e1",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/abelardo-quiere-que-barranquilla-sea-capital-alterna-a-bogota/",
-        "published_date": "2026-07-22 23:51:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Abelardo announces that he wants to turn Barranquilla into an alternative capital",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/abelardo-anuncia-que-quiere-convertir-a-barranquilla-en-capital-alterna/",
-        "published_date": "2026-07-22 23:51:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tremor today in Colombia: Colombian Geological Service reported a strong earthquake on the night of July 22;here the details",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/reportan-sismo-de-magnitud-3-2-en-choco-durante-la-noche-de-este-miercoles-22-de-julio-3573160",
-        "published_date": "2026-07-22 23:00:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "De la Espriella's government rejected the latest tax reform filed by Petro",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/gobierno-de-de-la-espriella-rechazo-la-ultima-reforma-tributaria-radicada-por-petro-4441415",
-        "published_date": "2026-07-22 22:49:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Petro figures tell an incomplete story",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/las-cifras-de-petro-cuentan-una-historia-incompleta/",
-        "published_date": "2026-07-22 22:23:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Abelardo also financed his campaign with money from his manager and his sister-in-law.",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/abelardo-tambien-financio-su-campana-con-plata-de-su-gerente-y-su-cunada/",
-        "published_date": "2026-07-22 22:19:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "This Thursday the Environmental Journalism Festival starts in Bogot\u00e1",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/este-jueves-arranca-el-festival-de-periodismo-ambiental-en-bogota/",
-        "published_date": "2026-07-22 22:14:53",
         "category": "Local Events"
     }
 ]
