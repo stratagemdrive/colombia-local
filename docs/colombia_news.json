@@ -1,5 +1,12 @@
 [
     {
+        "title": "The war against cultural diversity",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/opinion/la-guerra-contra-la-diversidad-cultural/",
+        "published_date": "2026-07-25 12:19:45",
+        "category": "Diplomacy"
+    },
+    {
         "title": "\"About 30% of exports would lose competitiveness\"",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/bruce-mac-master-presidente-de-la-andi-sobre-aranceles-4442952",
@@ -133,11 +140,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Beto Coral has already renounced the political asylum process in the US.",
+        "title": "Char: El Bosque Police Station will put Barranquilla 'up to par' with its role as Colombia's alternate capital",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/char-estacion-de-policia-el-bosque-pondra-a-barranquilla-a-la-altura-de-su-papel-como-capital-alterna-de-colombia-3573875",
+        "published_date": "2026-07-25 18:30:00",
+        "category": "Military"
+    },
+    {
+        "title": "Shield of the Americas: collective security in name, hierarchy in fact",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/beto-coral-ya-renuncio-al-tramite-de-asilo-politico-en-ee-uu/",
-        "published_date": "2026-07-19 13:42:21",
-        "category": "Diplomacy"
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/escudo-de-las-americas-seguridad-colectiva-de-nombre-jerarquia-de-hecho/",
+        "published_date": "2026-07-25 12:20:00",
+        "category": "Military"
     },
     {
         "title": "Patriot Plan 2.0: more military cooperation does not mean more security",
@@ -263,20 +277,6 @@
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/cali/se-preparan-para-la-guerra-el-plan-estrategico-de-las-disidencias-de-las-farc-detras-del-robo-de-motos-y-blindados-en-la-panamericana-3572408",
         "published_date": "2026-07-20 07:02:20",
-        "category": "Military"
-    },
-    {
-        "title": "Colombia should not delegate its security to foreign algorithms",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-democracia-y-tecnologia/colombia-no-deberia-delegar-su-seguridad-a-algoritmos-extranjeros/",
-        "published_date": "2026-07-19 17:00:00",
-        "category": "Military"
-    },
-    {
-        "title": "MinTrabajo Sanguino asks the Secretary of Security of Bogot\u00e1 to rectify",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/mintrabajo-sanguino-pide-al-secretario-de-seguridad-de-bogota-rectificar/",
-        "published_date": "2026-07-18 20:50:42",
         "category": "Military"
     },
     {
@@ -476,18 +476,116 @@
         "category": "Economy"
     },
     {
-        "title": "Andr\u00e9s Quevedo and Juan Sebasti\u00e1n Betancur will join the Ministry of Finance",
+        "title": "Contracts were signed for the presidential inauguration, the cost rose 18% compared to 2022",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/andres-quevedo-y-juan-sebastian-betancur-se-sumaran-al-ministerio-de-hacienda-4438331",
-        "published_date": "2026-07-17 18:55:47",
-        "category": "Economy"
+        "url": "https://www.larepublica.co/economia/se-firmaron-contratos-para-la-posesion-presidencial-el-costo-subio-18-frente-a-2022-4443726",
+        "published_date": "2026-07-25 21:21:05",
+        "category": "Local Events"
     },
     {
-        "title": "Market analysts anticipate that the Issuer's interest rate hike would end in July",
+        "title": "Health in Colombia calls for an agreement, not another war",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/la-salud-en-colombia-pide-un-acuerdo-no-otra-guerra/",
+        "published_date": "2026-07-25 20:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "a horror movie",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/opinion/una-pelicula-de-terror/",
+        "published_date": "2026-07-25 19:17:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Destroy the Public University: the objective of the governor of Antioquia",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/arrasar-la-universidad-publica-el-objetivo-del-gobernador-de-antioquia/",
+        "published_date": "2026-07-25 17:57:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "They seize 32 kilos of marijuana that were hidden in a parcel destined for Barranquilla",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/incautan-32-kilos-de-marihuana-que-iban-ocultos-en-una-encomienda-con-destino-a-barranquilla-3573873",
+        "published_date": "2026-07-25 17:21:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "Eye |There are road closures this Sunday for an athletic race in Bucaramanga, know the restrictions",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/ojo-hay-cierres-viales-este-domingo-por-carrera-atletica-en-bucaramanga-conozca-las-restricciones-3573864",
+        "published_date": "2026-07-25 16:07:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "Abelardo's possession should not be on a military base",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/opinion/la-posesion-de-abelardo-no-debe-ser-en-una-base-militar/",
+        "published_date": "2026-07-25 16:05:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "Among eleven candidates in Tunja they will choose this Sunday the successor of the Russian mayor, whose election was annulled by the Council of State",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/entre-once-candidatos-en-tunja-escogeran-este-domingo-al-sucesor-del-alcalde-ruso-al-que-el-consejo-de-estado-le-anulo-la-eleccion-3573860",
+        "published_date": "2026-07-25 15:40:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "From selling coffee to pay for the trip to becoming world champions: Colombia's under-19 underwater hockey team won the world championship in T\u00fcrkiye",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/de-vender-cafe-para-pagar-el-viaje-a-ser-campeonas-del-mundo-seleccion-colombia-sub-19-de-hockey-subacuatico-gano-el-mundial-en-turquia-3573845",
+        "published_date": "2026-07-25 15:33:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Sandra Su\u00e1rez will be the director of the Department of Social Prosperity",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/analistas-del-mercado-anticipan-que-subida-de-tasas-del-banrep-terminaria-en-julio-4438259",
-        "published_date": "2026-07-17 16:46:12",
-        "category": "Economy"
+        "url": "https://www.larepublica.co/economia/sandra-suarez-fue-nombrada-como-directora-del-departamento-de-prosperidad-social-4443610",
+        "published_date": "2026-07-25 15:21:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "The plastic surgery service of the Diamanti Clinic is closed preventively after the death of a patient in Barranquilla",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/cierran-de-forma-preventiva-el-servicio-de-cirugia-plastica-de-la-clinica-diamanti-tras-la-muerte-de-una-paciente-en-barranquilla-3573852",
+        "published_date": "2026-07-25 15:04:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mexican arrived in Colombia, but an Interpol alert revealed that he was wanted for femicide: he was captured at the Jos\u00e9 Mar\u00eda C\u00f3rdova airport",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/mexicano-llego-a-colombia-pero-una-alerta-de-interpol-revelo-que-era-buscado-por-feminicidio-fue-capturado-en-el-aeropuerto-jose-maria-cordova-3573829",
+        "published_date": "2026-07-25 15:03:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "An extensive operation is underway in Tayrona to find a missing German tourist: the search for the body began 5 days ago",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/en-el-tayrona-se-mantiene-un-amplio-operativo-para-hallar-a-un-turista-aleman-desaparecido-desde-hace-5-dias-inicio-la-busqueda-del-cuerpo-3573844",
+        "published_date": "2026-07-25 14:25:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "Bills that will affect the environment and other news",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/los-proyectos-de-ley-que-afectaran-al-medioambiente-y-otras-noticias/",
+        "published_date": "2026-07-25 14:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Serious forest fire reported in the rural area of \u200b\u200bTiatino, in Palmira: Firefighters are already responding to the emergency",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/reportan-grave-incendio-forestal-en-la-zona-rural-de-tiatino-en-palmira-bomberos-ya-hacen-presencia-en-la-zona-3573838",
+        "published_date": "2026-07-25 13:38:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Six Venezuelan migrants were expelled from Bucaramanga;some of them would have already committed crimes in the city",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/expulsaron-a-seis-migrantes-venezolanos-de-bucaramanga-algunos-de-ellos-ya-habrian-delinquido-en-la-ciudad-3573831",
+        "published_date": "2026-07-25 12:47:42",
+        "category": "Local Events"
     },
     {
         "title": "New details of the case of Mar\u00eda Camila Potos\u00ed in Cali are revealed: a woman who drove a motorcycle would have been in the same program for pregnant mothers",
@@ -515,118 +613,6 @@
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/las-remesas-superaron-el-monto-de-us-6-000-millones-en-el-primer-semestre-del-ano-4443306",
         "published_date": "2026-07-25 00:23:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "Antioquia led exports of the fashion system until May, with US$141 million",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/antioquia-lidero-las-exportaciones-del-sistema-moda-hasta-mayo-con-us-141-millones-4443347",
-        "published_date": "2026-07-24 23:55:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "Attention drivers: electronic collection was suspended at two important tolls in Copacabana and Las Palmas (Antioquia)",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/atencion-conductores-se-suspendio-el-cobro-electronico-en-dos-importantes-peajes-en-copacabana-y-las-palmas-3573766",
-        "published_date": "2026-07-24 23:45:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "They reveal the identity of the man accused of the death of the girl Celeste Osorio after an armed attack in a bakery in Atl\u00e1ntico: they sent him to prison for another crime",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/revelan-identidad-del-senalado-por-muerte-de-nina-celeste-osorio-tras-ataque-armado-en-panaderia-en-atlantico-lo-enviaron-a-prision-por-otro-delito-3573771",
-        "published_date": "2026-07-24 23:04:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "In the country that he left us",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/opinion/en-el-pais-que-el-nos-dejo/",
-        "published_date": "2026-07-24 22:47:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "Leila Guerriero: \u201cThere is more concern with AI than working to be better than it\u201d",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/leila-guerriero-hay-mas-preocupacion-con-la-ia-que-trabajo-para-ser-mejor-que-ella/",
-        "published_date": "2026-07-24 22:07:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "Asocapitales warned that the new tariff puts employment and competitiveness at risk",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/asocapitales-advirtio-que-nuevo-arancel-pone-en-riesgo-el-empleo-y-la-competitividad-4443143",
-        "published_date": "2026-07-24 21:40:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cI wiped my ass\u201d: criticism of Abelardo's UNP director for insulting politicians and journalists",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/me-limpie-el-culo-criticas-a-director-unp-de-abelardo-por-insultos-a-politicos-y-periodistas/",
-        "published_date": "2026-07-24 21:26:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "202 households from Brisas de las Torres applied for temporary rental subsidy, after the eviction in the Navarro district in Cali",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/202-hogares-de-brisas-de-las-torres-se-postularon-al-subsidio-temporal-de-arrendamiento-tras-el-desalojo-en-el-corregimiento-de-navarro-en-cali-3573751",
-        "published_date": "2026-07-24 21:24:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Where is the baby of Mar\u00eda Camila Potos\u00ed, a young woman murdered in Cali?",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/donde-esta-la-bebe-de-maria-camila-potosi-joven-asesinada-en-cali-3573755",
-        "published_date": "2026-07-24 21:19:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Registration for the course on the new government was expanded",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/se-ampliaron-las-inscripciones-para-el-curso-sobre-el-nuevo-gobierno/",
-        "published_date": "2026-07-24 20:27:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "Supreme Court acquits representative Cuenca",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/corte-suprema-absuelve-a-representante-cuenca/",
-        "published_date": "2026-07-24 20:23:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "More than 30 companies in the Valley are betting on training young people as labor technicians: this is the agreement with Nestl\u00e9 and the Government",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/programa-de-mas-de-30-empresas-en-el-valle-le-apuesta-a-una-formacion-de-jovenes-como-tecnicos-laborales-asi-va-acuerdo-con-nestle-y-gobernacion-3573739",
-        "published_date": "2026-07-24 20:01:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mystery on the Pan-American Highway: abandoned truck found and fear grows that it was a kidnapping in Cauca;there are a dozen plagiarisms in July",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/misterio-en-la-via-panamericana-hallan-camioneta-abandonada-y-crece-temor-a-que-haya-sido-un-secuestro-en-cauca-va-una-docena-de-plagios-en-julio-3573721",
-        "published_date": "2026-07-24 18:43:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "The director of the CDA corporation is suspended for six months",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/suspenden-seis-meses-al-director-de-la-corporacion-cda/",
-        "published_date": "2026-07-24 18:42:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Nearly 22,000 students from schools in Barranquilla are preparing for the Saber 11 tests: these are the recommendations for the big event",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/cerca-de-22-000-estudiantes-de-colegios-en-barranquilla-se-preparan-para-las-pruebas-saber-11-estas-son-las-recomendaciones-para-la-gran-cita-3573717",
-        "published_date": "2026-07-24 18:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Marcela, Jennifer and Mar\u00eda Camila: the pattern of cruelty and horror in a city that has a hard time protecting its women",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/marcela-jennifer-y-maria-camila-el-patron-de-crueldad-y-horror-en-una-ciudad-que-le-cuesta-proteger-a-sus-mujeres-3573624",
-        "published_date": "2026-07-24 17:33:53",
         "category": "Local Events"
     }
 ]
