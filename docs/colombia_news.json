@@ -98,11 +98,25 @@
         "category": "Diplomacy"
     },
     {
-        "title": "President-elect De la Espriella announced a delegation to inaugurate Fujimori",
+        "title": "Have an informed breakfast with the keys for this July 31, 2026",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-claves-de-este-31-de-julio-de-2026/",
+        "published_date": "2026-07-31 12:18:17",
+        "category": "Military"
+    },
+    {
+        "title": "Abelardo's book: when he proposed peace without jail for FARC leaders",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/el-libro-de-abelardo-cuando-proponia-paz-sin-carcel-para-jefes-de-las-farc/",
+        "published_date": "2026-07-31 07:00:00",
+        "category": "Military"
+    },
+    {
+        "title": "Energy security, the sector's priority for the next four years",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/el-presidente-entrante-abelardo-de-la-espriella-anuncio-delegacion-para-posesion-de-fujimori-4441601",
-        "published_date": "2026-07-23 01:02:56",
-        "category": "Diplomacy"
+        "url": "https://www.larepublica.co/economia/la-seguridad-energetica-la-prioridad-del-sector-para-los-proximos-cuatros-anos-4448061",
+        "published_date": "2026-07-31 05:01:18",
+        "category": "Military"
     },
     {
         "title": "Petro did not ask the army to abide by the fact that Cepeda is the president nor did El Tiempo publish it",
@@ -224,25 +238,11 @@
         "category": "Military"
     },
     {
-        "title": "Expert analyzed 161,000 crimes that occurred in Barranquilla and concluded that crime can be anticipated with existing resources: this is his proposal",
+        "title": "6,000 visitors, 83% hotel occupancy and $9,000 million: the tourist impact of the inauguration of President Abelardo De La Espriella in Cali",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/experto-analizo-161-000-delitos-ocurridos-en-barranquilla-y-concluyo-que-el-crimen-puede-anticiparse-con-los-recursos-existentes-esta-es-su-propuesta-3572718",
-        "published_date": "2026-07-25 00:01:00",
-        "category": "Military"
-    },
-    {
-        "title": "Military offensive in Nari\u00f1o stops the 'Carlos Pati\u00f1o' dissidence: three killed, one kidnapped free and 35 tons of coffee recovered",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/ofensiva-militar-en-narino-frena-a-la-disidencia-carlos-patino-tres-abatidos-un-secuestrado-libre-y-35-toneladas-de-cafe-recuperadas-3573736",
-        "published_date": "2026-07-24 19:25:53",
-        "category": "Military"
-    },
-    {
-        "title": "'No more reactive measures': Cali councilors demand that the Police and the Mayor's Office restructure women's security",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/no-mas-medidas-reactivas-concejales-de-cali-exigen-a-la-policia-y-a-la-alcaldia-reestructurar-la-seguridad-de-las-mujeres-3573696",
-        "published_date": "2026-07-24 17:32:41",
-        "category": "Military"
+        "url": "https://www.eltiempo.com/colombia/cali/6-000-visitantes-83-de-ocupacion-hotelera-y-9-000-millones-el-impacto-turistico-de-la-posesion-del-presidente-abelardo-de-la-espriella-en-cali-3575141",
+        "published_date": "2026-07-30 23:28:44",
+        "category": "Energy"
     },
     {
         "title": "Roa left the presidency of Ecopetrol and said that it delivers wonderful results",
@@ -378,11 +378,18 @@
         "category": "Energy"
     },
     {
-        "title": "Before ANM, Putumayo communities asked that anti-mining regulations be complied with",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/ante-anm-comunidades-de-putumayo-pidieron-que-se-cumpla-norma-antimineria/",
-        "published_date": "2026-07-28 00:11:39",
-        "category": "Energy"
+        "title": "Elected government will assume fiscal tightness, TRM at a minimum and high inflation",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/gobierno-electo-asumira-estrechez-fiscal-trm-en-minimos-y-una-inflacion-acelerada-4447852",
+        "published_date": "2026-07-31 05:01:18",
+        "category": "Economy"
+    },
+    {
+        "title": "The last meeting of Germ\u00e1n \u00c1vila at the Bank of the Republic with SOS per dollar at $3,100",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/ultima-junta-de-avila-en-el-banco-de-la-republica-con-sos-por-dolar-a-3-100-4447930",
+        "published_date": "2026-07-31 05:01:01",
+        "category": "Economy"
     },
     {
         "title": "Between 2023 and 2025 the cultural and creative economy sector represented almost 3% of GDP",
@@ -490,143 +497,143 @@
         "category": "Economy"
     },
     {
-        "title": "Rusinque presents his judicial reform proposal before Abelardo",
+        "title": "Petro's inheritance to Abelardo (I): Amazonia",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/rusinque-presenta-su-propuesta-de-reforma-judicial-antes-que-abelardo/",
-        "published_date": "2026-07-30 23:28:57",
+        "url": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/la-herencia-de-petro-a-abelardo-i-amazonia/",
+        "published_date": "2026-07-31 12:00:00",
         "category": "Local Events"
     },
     {
-        "title": "De la Espriella visited Vichada to promote agribusiness",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/de-la-espriella-visito-vichada-para-impulsar-agroindustria/",
-        "published_date": "2026-07-30 22:48:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ana Mar\u00eda Vesga will arrive at the Ministry of Health, a position that on average lasts 31.5 months",
+        "title": "More than 50% of foreign tourists who arrive have a profile for luxury tourism",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/ana-maria-vesga-llegara-al-ministerio-de-salud-un-cargo-que-en-promedio-dura-31-5-meses-4447781",
-        "published_date": "2026-07-30 22:40:15",
+        "url": "https://www.larepublica.co/economia/mas-de-50-de-los-turistas-extranjeros-que-llegan-tienen-perfil-para-turismo-de-lujo-4448180",
+        "published_date": "2026-07-31 11:16:31",
         "category": "Local Events"
     },
     {
-        "title": "Soacha will also enter the \u201cDefense Blocks\u201d promoted by Abelardo",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/soacha-tambien-entrara-a-los-bloques-de-defensa-que-impulsa-abelardo/",
-        "published_date": "2026-07-30 22:29:02",
+        "title": "How do you know if your car would be part of possible immobilization after coercive collections for late payments of the automobile tax in the Valley?",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/como-saber-si-su-carro-seria-parte-de-posibles-inmovilizados-tras-cobros-coactivos-por-morosidad-en-los-pagos-del-impuesto-automotor-en-el-valle-3575169",
+        "published_date": "2026-07-31 07:28:01",
         "category": "Local Events"
     },
     {
-        "title": "Ana Mar\u00eda Vesga will be Abelardo's Minister of Health",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/ana-maria-vesga-sera-la-ministra-de-salud-de-abelardo/",
-        "published_date": "2026-07-30 22:27:47",
+        "title": "Tremor in Colombia |Earthquake during the morning of this Friday, July 31: epicenter, magnitude and depth",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-en-colombia-sismo-durante-la-manana-de-este-viernes-31-de-julio-epicentro-magnitud-y-profundidad-3575163",
+        "published_date": "2026-07-31 06:53:26",
         "category": "Local Events"
     },
     {
-        "title": "The profits of the Bank of the Republic fell 42% in the first half of the year",
+        "title": "Avoid fines!Peak and plate in Cali for this Friday, July 31: these are the plates with restriction",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/evite-multas-pico-y-placa-en-cali-para-este-viernes-31-de-julio-estas-son-las-placas-con-restriccion-3575002",
+        "published_date": "2026-07-31 06:51:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "Colombia titles 21 properties to the Peace Community of San Jos\u00e9 de Apartad\u00f3 and fulfills its promise before international justice",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/colombia-le-titula-21-predios-a-la-comunidad-de-paz-de-san-jose-de-apartado-y-cumple-su-promesa-ante-la-justicia-internacional-3575068",
+        "published_date": "2026-07-31 06:06:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "El Ni\u00f1o phenomenon is already present in Colombia and could become one of the most intense recorded since 1950, according to Ideam",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/fenomeno-de-el-nino-ya-esta-presente-en-colombia-y-podria-convertirse-en-uno-de-los-mas-intensos-registrados-desde-1950-segun-el-ideam-3575139",
+        "published_date": "2026-07-31 06:02:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "Andi calls for strengthening productive capacities to face the country's challenges",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/las-utilidades-del-banco-de-la-republica-cayeron-42-en-el-primer-semestre-del-ano-4447768",
-        "published_date": "2026-07-30 22:15:10",
+        "url": "https://www.larepublica.co/economia/andi-pide-fortalecer-las-capacidades-productivas-para-enfrentar-los-desafios-del-pais-4448065",
+        "published_date": "2026-07-31 05:01:45",
         "category": "Local Events"
     },
     {
-        "title": "Incoming government distances itself from the election of comptroller",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/gobierno-entrante-se-desmarca-de-la-eleccion-de-contralor/",
-        "published_date": "2026-07-30 21:58:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Abelardo appoints directors of ANI, FNA and Natural Parks",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/abelardo-designa-directores-de-ani-fna-y-parques-naturales/",
-        "published_date": "2026-07-30 20:56:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "When the State changes, the war also changes",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/cuando-cambia-el-estado-tambien-cambia-la-guerra/",
-        "published_date": "2026-07-30 20:09:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Guaviare: dissidents keep several municipalities confined",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/guaviare-disidencias-mantienen-confinados-varios-municipios/",
-        "published_date": "2026-07-30 19:28:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Days before the inauguration, De la Espriella prepares a mandate with the council of ministers",
+        "title": "Roads and education, the sectors with the most cuts in the 2027 budget project",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/a-dias-de-la-posesion-de-la-espriella-prepara-mandato-con-consejo-de-ministros-4447523",
-        "published_date": "2026-07-30 18:43:16",
+        "url": "https://www.larepublica.co/economia/vias-y-educacion-los-sectores-con-mas-recorte-en-el-proyecto-de-presupuesto-2027-4447870",
+        "published_date": "2026-07-31 05:01:34",
         "category": "Local Events"
     },
     {
-        "title": "The 'Los Santa' gang with which the woman seen with Mar\u00eda Camila Potos\u00ed before her disappearance would have been involved: what was behind the crime",
+        "title": "The housing sector seeks to regain dynamism after four years of declines",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/el-sector-vivienda-busca-recuperar-el-dinamismo-tras-cuatro-anos-de-caidas-4448063",
+        "published_date": "2026-07-31 05:01:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "The revolving door of the health sector",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/la-puerta-giratoria-del-sector-salud/",
+        "published_date": "2026-07-31 03:24:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Can you take your car or motorcycle out?This is how the pick and plate applies in Medell\u00edn this Friday, July 31",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/la-banda-los-santa-con-la-que-se-habria-involucrado-la-mujer-vista-con-maria-camila-potosi-antes-de-su-desaparicion-lo-que-habria-tras-el-crimen-3575097",
-        "published_date": "2026-07-30 18:42:38",
+        "url": "https://www.eltiempo.com/colombia/medellin/puede-sacar-su-carro-o-moto-asi-aplica-el-pico-y-placa-en-medellin-este-viernes-31-de-julio-3575108",
+        "published_date": "2026-07-31 02:30:00",
         "category": "Local Events"
     },
     {
-        "title": "The Ombudsman's Office requested urgent measures after confirmation of a tuberculosis outbreak in the El Pedregal prison in Medell\u00edn: there are more than 40 cases",
+        "title": "Can you take your car or motorcycle out?This is how the peak and plate applies in Pereira this Friday, July 31",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/defensoria-del-pueblo-solicito-medidas-urgentes-tras-confirmacion-de-brote-de-tuberculosis-en-la-carcel-el-pedregal-de-medellin-van-mas-de-40-casos-3575084",
-        "published_date": "2026-07-30 18:09:08",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/puede-sacar-su-carro-o-moto-asi-aplica-el-pico-y-placa-en-pereira-este-viernes-31-de-julio-3575004",
+        "published_date": "2026-07-31 02:30:00",
         "category": "Local Events"
     },
     {
-        "title": "The clues that allowed the capture of five suspects and the discovery of the body of a baby in the case of the murder of Mar\u00eda Camila Potos\u00ed",
+        "title": "Peak and plate in Bucaramanga for this Friday, July 31: these are the plates with restriction",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/las-pistas-que-permitieron-la-captura-de-cinco-sospechosos-y-el-hallazgo-del-cuerpo-de-un-bebe-en-el-caso-del-asesinato-de-maria-camila-potosi-3575019",
-        "published_date": "2026-07-30 17:57:32",
+        "url": "https://www.eltiempo.com/colombia/santander/pico-y-placa-en-bucaramanga-para-este-viernes-31-de-julio-estas-son-las-placas-con-restriccion-3575003",
+        "published_date": "2026-07-31 02:30:00",
         "category": "Local Events"
     },
     {
-        "title": "Due to a hospital crisis, they will restrict the massive entry of people to Valle del Cauca during the presidential inauguration",
+        "title": "\"What is certain is that a mega El Ni\u00f1o phenomenon is going to occur\"",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/presidente-gustavo-petro-se-refirio-sobre-las-medidas-para-atender-el-fenomeno-de-el-nino-4448048",
+        "published_date": "2026-07-31 01:52:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "President-elect Abelardo de la Espriella named the new presidents of the ANI and the FNA",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/abelardo-de-la-espriella-nombro-a-los-nuevos-presidentes-de-la-ani-y-del-fna-4447960",
+        "published_date": "2026-07-31 01:00:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "Sleep informed with the movements of this July 30, 2026",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-movidas-de-este-30-de-julio-de-2026/",
+        "published_date": "2026-07-31 00:56:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Supreme Court investigates Gloria Arizabaleta after trying to suspend Petro",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/corte-suprema-investiga-a-gloria-arizabaleta-tras-intentar-suspender-a-petro/",
+        "published_date": "2026-07-31 00:48:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "The photo: Petro delivers the first declassified DAS files",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/petro-entrega-los-primeros-archivos-desclasificados-del-das/",
+        "published_date": "2026-07-31 00:07:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "Government of Valle del Cauca denounces vandalism at its headquarters in the San Francisco Palace and announces legal actions after marches",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/por-crisis-hospitalaria-restringiran-el-ingreso-masivo-de-personas-al-valle-del-cauca-durante-la-posesion-presidencial-3575079",
-        "published_date": "2026-07-30 17:54:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "The BMX track 'Mariana Paj\u00f3n' in Medell\u00edn was delivered after undergoing a comprehensive renovation: Mayor Federico Guti\u00e9rrez premiered it",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/fue-entregada-la-pista-de-bmx-mariana-pajon-de-medellin-tras-ser-sometida-a-una-renovacion-integral-el-alcalde-federico-gutierrez-la-estreno-3575053",
-        "published_date": "2026-07-30 17:24:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "Shakira Avenue changes its face: works progress and modern bus stops appear that transform mobility in Barranquilla",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/avenida-shakira-cambia-de-rostro-avanzan-las-obras-y-aparecen-modernos-paraderos-que-transforman-la-movilidad-en-barranquilla-3575066",
-        "published_date": "2026-07-30 17:21:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "'We hope that the punishment is forceful': Mayor of Cali, Alejandro Eder, on the capture of five involved in the crime of Mar\u00eda Camila Potos\u00ed",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/esperamos-que-el-castigo-sea-contundente-alcalde-de-cali-alejandro-eder-sobre-la-captura-de-cinco-implicados-en-el-crimen-de-maria-camila-potosi-3575055",
-        "published_date": "2026-07-30 16:36:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "1,024 women were attacked in Colombia for defending rights in the last five years",
-        "source": "Verdad Abierta",
-        "url": "https://verdadabierta.com/1-024-mujeres-fueron-agredidas-en-colombia-por-defender-derechos-en-el-ultimo-quinquenio/",
-        "published_date": "2026-07-30 16:32:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "Defending diversity: almost 4,000 attacks against LGBTIQ+ defenders in five years",
-        "source": "Verdad Abierta",
-        "url": "https://verdadabierta.com/defender-la-diversidad-casi-4-000-agresiones-contra-personas-defensoras-lgbtiq-en-cinco-anos/",
-        "published_date": "2026-07-30 16:25:17",
+        "url": "https://www.eltiempo.com/colombia/cali/gobernacion-del-valle-del-cauca-denuncia-vandalismo-en-su-sede-del-palacio-de-san-francisco-y-anuncia-acciones-legales-tras-marchas-3575146",
+        "published_date": "2026-07-30 23:57:14",
         "category": "Local Events"
     }
 ]
