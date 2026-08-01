@@ -1,5 +1,12 @@
 [
     {
+        "title": "Orange alert for the Purac\u00e9 volcano: 'Citizens are invited to remain calm and follow the recommendations,' says the Government of Cauca",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/alerta-naranja-del-volcan-purace-se-invita-a-la-ciudadania-a-mantener-la-calma-y-seguir-las-recomendaciones-dice-la-gobernacion-del-cauca-3575475",
+        "published_date": "2026-08-01 14:11:26",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Petro did not say that there was fraud \u201cdue to Elon Musk's robots, satellites and AI\u201d",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/petro-no-dijo-que-hubo-fraude-por-robots-satelites-e-ia-de-elon-musk/",
@@ -63,25 +70,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "\"About 30% of exports would lose competitiveness\"",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/bruce-mac-master-presidente-de-la-andi-sobre-aranceles-4442952",
-        "published_date": "2026-07-24 17:52:10",
-        "category": "Diplomacy"
+        "title": "Controls on 190 flights during the Flower Fair in Medell\u00edn leave 15 foreigners inadmissible: who is the deported United States influencer?",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/controles-en-190-vuelos-por-la-feria-de-las-flores-en-medellin-dejan-15-extranjeros-inadmitidos-quien-es-el-influencer-de-estados-unidos-deportado-3575496",
+        "published_date": "2026-08-01 17:32:28",
+        "category": "Military"
     },
     {
-        "title": "Petro returns Bol\u00edvar's sword after four years in the Palace",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/petro-devuelve-la-espada-de-bolivar-tras-cuatro-anos-en-palacio/",
-        "published_date": "2026-07-24 15:44:34",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Analdex warned that additional US tariff will impact 30% of exports",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/analdex-advirtio-que-arancel-adicional-de-ee-uu-impactara-30-de-las-exportaciones-4442731",
-        "published_date": "2026-07-24 15:03:39",
-        "category": "Diplomacy"
+        "title": "'Made in Colombia: the best of Caro Quintero': this is how dissidents in Huila package marijuana",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/made-in-colombia-lo-mejor-de-caro-quintero-asi-empaquetan-marihuana-las-disidencias-en-el-huila-3575488",
+        "published_date": "2026-08-01 15:49:24",
+        "category": "Military"
     },
     {
         "title": "Car bomb exploded near the Police Command in C\u00facuta: injuries reported and authorities investigate attack in Norte de Santander",
@@ -210,18 +210,32 @@
         "category": "Military"
     },
     {
-        "title": "Attack with explosives in Postob\u00f3n distribution warehouse in Popay\u00e1n generates alarm and reinforces security operations",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/atentado-con-explosivos-en-bodega-de-distribucion-de-postobon-en-popayan-genera-alarma-y-refuerza-operativos-de-seguridad-3573972",
-        "published_date": "2026-07-26 15:19:27",
-        "category": "Military"
+        "title": "Energy will decide the future of Urab\u00e1",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-verde/la-energia-decidira-el-futuro-de-uraba/",
+        "published_date": "2026-08-01 23:00:00",
+        "category": "Energy"
     },
     {
-        "title": "Char: El Bosque Police Station will put Barranquilla 'up to par' with its role as Colombia's alternate capital",
+        "title": "Spec maintenance is at 59%, expected to end at 76% today",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/mantenimiento-de-spec-se-encuentra-en-59-se-espera-que-para-hoy-termine-en-76-4449320",
+        "published_date": "2026-08-01 20:18:56",
+        "category": "Energy"
+    },
+    {
+        "title": "National oil production in June was 712,799 barrels per day, fell 2.20%",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/produccion-nacional-de-petroleo-en-junio-fue-de-712-799-barriles-por-dia-cayo-2-20-4449292",
+        "published_date": "2026-08-01 19:38:59",
+        "category": "Energy"
+    },
+    {
+        "title": "Intervened Air-e warns that users who consume more energy will pay higher rates due to El Ni\u00f1o and asks to save to reduce the impact",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/char-estacion-de-policia-el-bosque-pondra-a-barranquilla-a-la-altura-de-su-papel-como-capital-alterna-de-colombia-3573875",
-        "published_date": "2026-07-25 18:30:00",
-        "category": "Military"
+        "url": "https://www.eltiempo.com/colombia/barranquilla/air-e-intervenida-advierte-que-usuarios-que-consuman-mas-energia-pagaran-tarifas-mas-altas-por-el-nino-y-pide-ahorrar-para-reducir-el-impacto-3575474",
+        "published_date": "2026-08-01 14:15:00",
+        "category": "Energy"
     },
     {
         "title": "President Petro referred to the import of gas by Ecopetrol",
@@ -333,34 +347,6 @@
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/cali/mas-de-5-000-estudiantes-en-ipiales-pasan-a-clases-virtuales-por-brote-de-enfermedad-diarreica-aguda-3574795",
         "published_date": "2026-07-29 17:20:08",
-        "category": "Energy"
-    },
-    {
-        "title": "Massive power outages in Barranquilla, Soledad and Sabanalarga this Thursday, July 30: find out if your neighborhood is among the affected sectors",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/cortes-masivos-de-energia-en-barranquilla-soledad-y-sabanalarga-este-jueves-30-de-julio-conozca-si-su-barrio-esta-entre-los-sectores-afectados-3574771",
-        "published_date": "2026-07-29 17:07:59",
-        "category": "Energy"
-    },
-    {
-        "title": "Government began the clean energy auction with battery and solar energy projects",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/gobierno-inicio-la-subasta-de-energias-limpias-con-proyectos-de-baterias-y-energia-solar-4446021",
-        "published_date": "2026-07-29 01:01:09",
-        "category": "Energy"
-    },
-    {
-        "title": "Ministry of Mines and Energy filed the draft new mining law before Congress",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/ministerio-de-minas-y-energia-radico-proyecto-de-ley-minera-ante-el-congreso-4445747",
-        "published_date": "2026-07-28 21:33:51",
-        "category": "Energy"
-    },
-    {
-        "title": "Energy price on the June stock market rose 8.9% compared to May to $562/kWh",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/precio-de-energia-en-bolsa-de-junio-subio-8-9-frente-a-mayo-hasta-562-kwh-4445517",
-        "published_date": "2026-07-28 17:42:41",
         "category": "Energy"
     },
     {
@@ -483,18 +469,123 @@
         "category": "Economy"
     },
     {
-        "title": "Medell\u00edn and the Development Bank of Latin America sealed a strategic alliance for 550 million dollars: What projects will be financed?",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/medellin-y-el-banco-de-desarrollo-de-america-latina-sellaron-alianza-estrategica-por-550-millones-de-dolares-cuales-proyectos-seran-financiados-3573691",
-        "published_date": "2026-07-24 21:07:48",
-        "category": "Economy"
+        "title": "Cepeda and Petro call for demonstrations on August 7",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/cepeda-y-petro-convocan-manifestaciones-el-7-de-agosto/",
+        "published_date": "2026-08-01 23:01:11",
+        "category": "Local Events"
     },
     {
-        "title": "Incoming government would file taxes in September, after fiscal adjustment",
+        "title": "The tree and the mask: anthology of columns on the Petro government",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/opinion/el-arbol-y-la-mascara-antologia-de-columnas-sobre-el-gobierno-petro/",
+        "published_date": "2026-08-01 22:42:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "The balance of President Petro's legacy",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/opinion/el-balance-del-legado-del-presidente-petro/",
+        "published_date": "2026-08-01 22:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Former representative Ana Rinc\u00f3n will be the new president of Banco Agrario",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/exrepresentante-ana-rincon-sera-la-nueva-presidenta-del-banco-agrario/",
+        "published_date": "2026-08-01 21:39:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "From Havana, Petro asks for solidarity with Cuba",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/desde-la-habana-petro-pide-solidaridad-con-cuba/",
+        "published_date": "2026-08-01 20:33:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "Deforestation in Colombia reaches its lowest level in two decades in 2025",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/gobierno-de-la-espriella-radicara-tributaria-en-septiembre-despues-de-hacer-ajuste-fiscal-4442974",
-        "published_date": "2026-07-24 18:11:55",
-        "category": "Economy"
+        "url": "https://www.larepublica.co/economia/deforestacion-en-colombia-alcanza-en-2025-su-nivel-mas-bajo-en-dos-decadas-4449311",
+        "published_date": "2026-08-01 19:08:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "The figures contradict Petro's agrarian reform story",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-rural/las-cifras-contradicen-el-relato-de-la-reforma-agraria-de-petro/",
+        "published_date": "2026-08-01 19:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Angie Rodr\u00edguez is declared insubsistent after her complaints against Petro",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/angie-rodriguez-es-declarada-insubsistente-tras-sus-denuncias-contra-petro/",
+        "published_date": "2026-08-01 18:27:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "Drone explosions in clashes between the 'Gulf clan' and 'Calarc\u00e1' dissidents leave three dead and houses destroyed in Antioquia",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/explosiones-por-drones-en-enfrentamientos-entre-el-clan-del-golfo-y-disidentes-de-calarca-dejan-tres-muertos-y-casas-destruidas-en-antioquia-3575514",
+        "published_date": "2026-08-01 18:25:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Barranquilla becomes the first city in South America with LEED Gold certification and consolidates its commitment to urban sustainability",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-se-convierte-en-la-primera-ciudad-de-sudamerica-con-certificacion-leed-gold-y-consolida-su-apuesta-por-la-sostenibilidad-urbana-3575427",
+        "published_date": "2026-08-01 18:01:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "A democracy more resilient than we think?",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/opinion/una-democracia-mas-resiliente-de-lo-que-creemos/",
+        "published_date": "2026-08-01 18:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Audios speak of alleged corruption of Ver\u00f3nica Alcocer and her circle",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/audios-hablan-de-supuesta-corrupcion-de-veronica-alcocer-y-su-circulo/",
+        "published_date": "2026-08-01 16:25:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ombudsman's Office launches alert after car bomb in C\u00facuta: warns of escalation of violence and risk for the civilian population",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/defensoria-lanza-alerta-tras-carro-bomba-en-cucuta-advierte-escalada-de-violencia-y-riesgo-para-la-poblacion-civil-3575494",
+        "published_date": "2026-08-01 16:22:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "Dengue cases fall 32% in Atl\u00e1ntico during 2026, but authorities remain alert to avoid a new rebound of the virus",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/casos-de-dengue-caen-32-en-atlantico-durante-2026-pero-autoridades-mantienen-la-alerta-para-evitar-un-nuevo-repunte-del-virus-3575431",
+        "published_date": "2026-08-01 16:01:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Government appointed Edwin Palma as ad-hoc Minister of Labor and Housing for six days",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/gobierno-designo-a-edwin-palma-como-ministro-de-trabajo-y-vivienda-ad-hoc-por-seis-dias-4449255",
+        "published_date": "2026-08-01 15:01:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "He withdrew $500,000 from an ATM in Santa Marta and received burned bills: the strange explanation for a robbery in La Guajira raises doubts",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/retiro-500-000-de-un-cajero-en-santa-marta-y-recibio-billetes-quemados-la-extrana-explicacion-sobre-un-robo-en-la-guajira-genera-dudas-3575482",
+        "published_date": "2026-08-01 14:59:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "The reunion of a family with a missing young man who traveled to Medell\u00edn for work and ended up murdered in Caquet\u00e1",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/el-esperado-reencuentro-de-una-familia-con-desaparecido-que-viajo-a-medellin-por-trabajo-y-termino-asesinado-en-caqueta-3575261",
+        "published_date": "2026-08-01 14:08:39",
+        "category": "Local Events"
     },
     {
         "title": "Without a plan, closing embassies to save could increase costs",
@@ -515,125 +606,6 @@
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/otras-ciudades/desgarrador-relato-de-la-esposa-de-coronel-retirado-asesinado-mientras-montaba-bicicleta-en-cauca-somos-victimas-de-este-conflicto-3575402",
         "published_date": "2026-08-01 05:33:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "Nine out of 10 new jobs were created by the private sector in June",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/nueve-de-cada-10-nuevos-empleos-fueron-creados-por-el-sector-privado-en-junio-4448829",
-        "published_date": "2026-08-01 05:01:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cAt Invias we have the resources to assume the operation of the reverted roads\u201d",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/desde-el-invias-contamos-con-los-recursos-para-asumir-la-operacion-de-las-vias-revertidas-4448991",
-        "published_date": "2026-08-01 05:00:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "Immigration Colombia denied the alleged creator of 'Passport Bros' and expelled four Americans due to signs of sexual tourism in Medell\u00edn",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/migracion-colombia-inadmitio-a-presunto-creador-de-passport-bros-y-expulso-a-cuatro-estadounidenses-por-indicios-de-turismo-sexual-en-medellin-3575411",
-        "published_date": "2026-08-01 02:01:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Detector: Viviane Morales did not announce privatization of the Sena",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/detector-viviane-morales-no-anuncio-privatizacion-del-sena/",
-        "published_date": "2026-08-01 01:32:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Abelardo did not propose lowering the minimum to one million or removing the pension bonus",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/abelardo-no-propuso-bajar-el-minimo-a-un-millon-ni-quitar-el-bono-pensional/",
-        "published_date": "2026-08-01 01:29:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "This photo of Saab, De la Espriella and \u201cBoliche\u201d was created with AI",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/esta-foto-de-saab-de-la-espriella-y-boliche-fue-creada-con-ia/",
-        "published_date": "2026-08-01 01:22:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "Gustavo Bol\u00edvar did not say that the \u201crejection\u201d of his family is Abelardo's fault",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/gustavo-bolivar-no-dijo-que-el-rechazo-a-su-familia-es-culpa-de-abelardo/",
-        "published_date": "2026-08-01 01:09:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "Yerry Mina did not say that he will ban Cepeda voters from his shopping center",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/yerry-mina-no-dijo-que-vetara-a-votantes-de-cepeda-de-su-centro-comercial/",
-        "published_date": "2026-08-01 01:07:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "IDU closed receipt of offers for the 'Nueva 13' project and declared the tender void",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/idu-cerro-recepcion-de-ofertas-para-proyecto-nueva-13-y-declaro-desierta-la-licitacion-4448878",
-        "published_date": "2026-08-01 01:04:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Detector: Petro is not on the Time 100 list of 2026, but on that of 2023",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/detector-de-mentiras/enganoso/detector-petro-no-esta-en-la-lista-time-100-de-2026-sino-en-la-de-2023/",
-        "published_date": "2026-08-01 00:55:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "Coronell has not concluded that Petro's evidence proves electoral fraud",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/coronell-no-ha-concluido-que-las-pruebas-de-petro-comprueban-el-fraude-electoral/",
-        "published_date": "2026-08-01 00:54:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Detector: De la Espriella has not announced hourly work at $8 thousand",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/detector-de-la-espriella-no-ha-anunciado-trabajo-por-horas-a-8-mil/",
-        "published_date": "2026-08-01 00:01:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "Wildlife crossings reduce road accidents, but do not solve the problem",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/los-pasos-de-fauna-reducen-atropellamientos-pero-no-resuelven-el-problema/",
-        "published_date": "2026-07-31 23:54:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "From the presidential investiture to Petronio \u00c1lvarez: the five-month strategy that seeks to consolidate Cali as the capital of major events",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/de-la-investidura-presidencial-al-petronio-alvarez-la-estrategia-de-cinco-meses-que-busca-consolidar-a-cali-como-la-capital-de-los-grandes-eventos-3575409",
-        "published_date": "2026-07-31 23:51:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cI do like that\u201d: Another nod from Benedetti for the Mayor of Barranquilla",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/eso-si-me-gusta-otro-guino-de-benedetti-para-alcaldia-de-barranquilla/",
-        "published_date": "2026-07-31 22:55:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "Detector: \u00d3scar Benavides did not lose his Afro seat after the scrutiny",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/detector-oscar-benavides-no-perdio-su-curul-afro-tras-el-escrutinio/",
-        "published_date": "2026-07-31 22:51:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "Dapre will not be able to advance hiring this weekend",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/dapre-no-podra-adelantar-contrataciones-este-fin-de-semana/",
-        "published_date": "2026-07-31 22:28:52",
         "category": "Local Events"
     }
 ]
