@@ -91,13 +91,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Starting at midnight, the US will apply 12.5% \u200b\u200btariffs to Colombia",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/a-partir-de-medianoche-ee-uu-aplicara-aranceles-del-125-a-colombia/",
-        "published_date": "2026-07-23 23:44:22",
-        "category": "Diplomacy"
-    },
-    {
         "title": "Have an informed breakfast with the keys for this July 31, 2026",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-claves-de-este-31-de-julio-de-2026/",
@@ -238,6 +231,20 @@
         "category": "Military"
     },
     {
+        "title": "Senate will cover the tickets to Cali for the possession of Abelardo",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/senado-aprobo-cubrir-los-tiquetes-a-cali-para-la-posesion-de-abelardo/",
+        "published_date": "2026-07-31 21:37:51",
+        "category": "Energy"
+    },
+    {
+        "title": "\u00c1vila assured that the PGN 2027 has high inflexibility in the area of \u200b\u200bpublic spending",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/avila-aseguro-que-el-presupuesto-de-2027-tiene-alta-inflexibilidad-en-el-gasto-publico-4448649",
+        "published_date": "2026-07-31 20:19:45",
+        "category": "Energy"
+    },
+    {
         "title": "6,000 visitors, 83% hotel occupancy and $9,000 million: the tourist impact of the inauguration of President Abelardo De La Espriella in Cali",
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/cali/6-000-visitantes-83-de-ocupacion-hotelera-y-9-000-millones-el-impacto-turistico-de-la-posesion-del-presidente-abelardo-de-la-espriella-en-cali-3575141",
@@ -364,18 +371,25 @@
         "category": "Energy"
     },
     {
-        "title": "With Abelardo there will also be a bid for Ecopetrol",
+        "title": "Sleep informed with the keys for this Friday, July 31",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/con-abelardo-tambien-habra-puja-por-ecopetrol/",
-        "published_date": "2026-07-28 12:00:00",
-        "category": "Energy"
+        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-claves-de-este-viernes-31-de-julio/",
+        "published_date": "2026-08-01 00:00:00",
+        "category": "Economy"
     },
     {
-        "title": "Ecopetrol activated new protocols to remove leaked information after cyber attack",
+        "title": "In the last meeting in \u00c1vila, the Bank of the Republic kept rates unchanged at 12%",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/ecopetrol-activo-nuevos-protocolos-para-retirar-informacion-filtrada-tras-ciberataque-4445067",
-        "published_date": "2026-07-28 11:39:50",
-        "category": "Energy"
+        "url": "https://www.larepublica.co/economia/en-la-ultima-reunion-de-avila-el-banco-de-la-republica-mantuvo-las-tasas-en-12-4448652",
+        "published_date": "2026-07-31 19:45:12",
+        "category": "Economy"
+    },
+    {
+        "title": "Board of Directors of the Bank of the Republic decided to keep the rate unchanged at 12%",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/siga-el-cubrimiento-de-la-decision-de-tasas-de-julio-del-banco-de-la-republica-4448551",
+        "published_date": "2026-07-31 17:33:35",
+        "category": "Economy"
     },
     {
         "title": "Elected government will assume fiscal tightness, TRM at a minimum and high inflation",
@@ -490,150 +504,143 @@
         "category": "Economy"
     },
     {
-        "title": "World Bank: earthquakes in Venezuela leave damage worth US$19 billion",
+        "title": "Detector: De la Espriella has not announced hourly work at $8 thousand",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/banco-mundial-terremotos-en-venezuela-dejan-danos-por-us19-mil-millones/",
-        "published_date": "2026-07-23 22:08:42",
-        "category": "Economy"
+        "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/detector-de-la-espriella-no-ha-anunciado-trabajo-por-horas-a-8-mil/",
+        "published_date": "2026-08-01 00:01:23",
+        "category": "Local Events"
     },
     {
-        "title": "Petro's inheritance to Abelardo (I): Amazonia",
+        "title": "Wildlife crossings reduce road accidents, but do not solve the problem",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/la-herencia-de-petro-a-abelardo-i-amazonia/",
-        "published_date": "2026-07-31 12:00:00",
+        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/los-pasos-de-fauna-reducen-atropellamientos-pero-no-resuelven-el-problema/",
+        "published_date": "2026-07-31 23:54:11",
         "category": "Local Events"
     },
     {
-        "title": "More than 50% of foreign tourists who arrive have a profile for luxury tourism",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/mas-de-50-de-los-turistas-extranjeros-que-llegan-tienen-perfil-para-turismo-de-lujo-4448180",
-        "published_date": "2026-07-31 11:16:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "How do you know if your car would be part of possible immobilization after coercive collections for late payments of the automobile tax in the Valley?",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/como-saber-si-su-carro-seria-parte-de-posibles-inmovilizados-tras-cobros-coactivos-por-morosidad-en-los-pagos-del-impuesto-automotor-en-el-valle-3575169",
-        "published_date": "2026-07-31 07:28:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tremor in Colombia |Earthquake during the morning of this Friday, July 31: epicenter, magnitude and depth",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-en-colombia-sismo-durante-la-manana-de-este-viernes-31-de-julio-epicentro-magnitud-y-profundidad-3575163",
-        "published_date": "2026-07-31 06:53:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "Avoid fines!Peak and plate in Cali for this Friday, July 31: these are the plates with restriction",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/evite-multas-pico-y-placa-en-cali-para-este-viernes-31-de-julio-estas-son-las-placas-con-restriccion-3575002",
-        "published_date": "2026-07-31 06:51:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "Colombia titles 21 properties to the Peace Community of San Jos\u00e9 de Apartad\u00f3 and fulfills its promise before international justice",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/colombia-le-titula-21-predios-a-la-comunidad-de-paz-de-san-jose-de-apartado-y-cumple-su-promesa-ante-la-justicia-internacional-3575068",
-        "published_date": "2026-07-31 06:06:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "El Ni\u00f1o phenomenon is already present in Colombia and could become one of the most intense recorded since 1950, according to Ideam",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/fenomeno-de-el-nino-ya-esta-presente-en-colombia-y-podria-convertirse-en-uno-de-los-mas-intensos-registrados-desde-1950-segun-el-ideam-3575139",
-        "published_date": "2026-07-31 06:02:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "Andi calls for strengthening productive capacities to face the country's challenges",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/andi-pide-fortalecer-las-capacidades-productivas-para-enfrentar-los-desafios-del-pais-4448065",
-        "published_date": "2026-07-31 05:01:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Roads and education, the sectors with the most cuts in the 2027 budget project",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/vias-y-educacion-los-sectores-con-mas-recorte-en-el-proyecto-de-presupuesto-2027-4447870",
-        "published_date": "2026-07-31 05:01:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "The housing sector seeks to regain dynamism after four years of declines",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/el-sector-vivienda-busca-recuperar-el-dinamismo-tras-cuatro-anos-de-caidas-4448063",
-        "published_date": "2026-07-31 05:01:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "The revolving door of the health sector",
+        "title": "\u201cI do like that\u201d: Another nod from Benedetti for the Mayor of Barranquilla",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/la-puerta-giratoria-del-sector-salud/",
-        "published_date": "2026-07-31 03:24:46",
+        "url": "https://www.lasillavacia.com/en-vivo/eso-si-me-gusta-otro-guino-de-benedetti-para-alcaldia-de-barranquilla/",
+        "published_date": "2026-07-31 22:55:20",
         "category": "Local Events"
     },
     {
-        "title": "Can you take your car or motorcycle out?This is how the pick and plate applies in Medell\u00edn this Friday, July 31",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/puede-sacar-su-carro-o-moto-asi-aplica-el-pico-y-placa-en-medellin-este-viernes-31-de-julio-3575108",
-        "published_date": "2026-07-31 02:30:00",
+        "title": "Detector: \u00d3scar Benavides did not lose his Afro seat after the scrutiny",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/detector-oscar-benavides-no-perdio-su-curul-afro-tras-el-escrutinio/",
+        "published_date": "2026-07-31 22:51:31",
         "category": "Local Events"
     },
     {
-        "title": "Can you take your car or motorcycle out?This is how the peak and plate applies in Pereira this Friday, July 31",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/puede-sacar-su-carro-o-moto-asi-aplica-el-pico-y-placa-en-pereira-este-viernes-31-de-julio-3575004",
-        "published_date": "2026-07-31 02:30:00",
+        "title": "Dapre will not be able to advance hiring this weekend",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/dapre-no-podra-adelantar-contrataciones-este-fin-de-semana/",
+        "published_date": "2026-07-31 22:28:52",
         "category": "Local Events"
     },
     {
-        "title": "Peak and plate in Bucaramanga for this Friday, July 31: these are the plates with restriction",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/pico-y-placa-en-bucaramanga-para-este-viernes-31-de-julio-estas-son-las-placas-con-restriccion-3575003",
-        "published_date": "2026-07-31 02:30:00",
+        "title": "Indigenous women ask for reproductive health guarantees in the Amazon",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/mujeres-indigenas-piden-garantias-de-salud-reproductiva-en-la-amazonia/",
+        "published_date": "2026-07-31 22:20:12",
         "category": "Local Events"
     },
     {
-        "title": "\"What is certain is that a mega El Ni\u00f1o phenomenon is going to occur\"",
+        "title": "National interests should be the pillar of foreign policy",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/los-intereses-nacionales-el-pilar-de-la-politica-exterior/",
+        "published_date": "2026-07-31 22:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Rtvc and Raya must recant for pointing out that La Silla Vac\u00eda was part of the J\u00fapiter Project",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/rtvc-y-raya-deberan-retractarse-por-senalar-a-la-silla-vacia-de-hacer-parte-del-proyecto-jupiter/",
+        "published_date": "2026-07-31 21:11:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "Issuer announced international reserves program for US$4,000 million",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/presidente-gustavo-petro-se-refirio-sobre-las-medidas-para-atender-el-fenomeno-de-el-nino-4448048",
-        "published_date": "2026-07-31 01:52:39",
+        "url": "https://www.larepublica.co/economia/emisor-anuncio-programa-de-acumulacion-de-reservas-internacionales-por-us-4-000-millones-4448658",
+        "published_date": "2026-07-31 20:05:16",
         "category": "Local Events"
     },
     {
-        "title": "President-elect Abelardo de la Espriella named the new presidents of the ANI and the FNA",
+        "title": "Santander and Antioquia, the economies that grew the most during the first quarter",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/abelardo-de-la-espriella-nombro-a-los-nuevos-presidentes-de-la-ani-y-del-fna-4447960",
-        "published_date": "2026-07-31 01:00:42",
+        "url": "https://www.larepublica.co/economia/santander-y-antioquia-las-economias-que-mas-crecieron-durante-el-primer-trimestre-4448631",
+        "published_date": "2026-07-31 19:23:39",
         "category": "Local Events"
     },
     {
-        "title": "Sleep informed with the movements of this July 30, 2026",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-movidas-de-este-30-de-julio-de-2026/",
-        "published_date": "2026-07-31 00:56:43",
+        "title": "RegioTram del Norte entered into tender and hopes to enter into operation by 2034",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/regiotram-del-norte-entro-a-licitacion-y-espera-entrar-en-operacion-para-2034-4448523",
+        "published_date": "2026-07-31 18:58:16",
         "category": "Local Events"
     },
     {
-        "title": "Supreme Court investigates Gloria Arizabaleta after trying to suspend Petro",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/corte-suprema-investiga-a-gloria-arizabaleta-tras-intentar-suspender-a-petro/",
-        "published_date": "2026-07-31 00:48:19",
+        "title": "Mac Master stated that the country's main challenge is to confront informality",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/mac-master-afirmo-que-el-principal-reto-del-pais-es-enfrentar-la-informalidad-4448593",
+        "published_date": "2026-07-31 18:32:44",
         "category": "Local Events"
     },
     {
-        "title": "The photo: Petro delivers the first declassified DAS files",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/petro-entrega-los-primeros-archivos-desclasificados-del-das/",
-        "published_date": "2026-07-31 00:07:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "Government of Valle del Cauca denounces vandalism at its headquarters in the San Francisco Palace and announces legal actions after marches",
+        "title": "Between health and the right to march: the controversial restriction of entry to Valle del Cauca prior to the presidential inauguration",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/gobernacion-del-valle-del-cauca-denuncia-vandalismo-en-su-sede-del-palacio-de-san-francisco-y-anuncia-acciones-legales-tras-marchas-3575146",
-        "published_date": "2026-07-30 23:57:14",
+        "url": "https://www.eltiempo.com/colombia/cali/entre-la-salud-y-el-derecho-a-marchar-la-polemica-restriccion-de-ingreso-al-valle-del-cauca-previo-a-la-posesion-presidencial-3575353",
+        "published_date": "2026-07-31 18:18:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "The University of Antioquia is making progress in overcoming its crisis: the Government lifted the intervention and will permanently protect its budget",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/la-universidad-de-antioquia-avanza-en-superar-su-crisis-el-gobierno-levanto-la-intervencion-y-blindara-su-presupuesto-de-forma-permanente-3575347",
+        "published_date": "2026-07-31 18:01:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "Intolerance: for a debt of 15 thousand pesos, a man is accused of killing a man and leaving his wife in the ICU and with quadriplegia in Santander",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/intolerancia-por-una-deuda-de-15-mil-pesos-hombre-es-senalado-de-matar-a-un-hombre-y-dejar-a-su-esposa-en-uci-y-con-cuadriplejia-en-santander-3575346",
+        "published_date": "2026-07-31 17:21:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "Barranquilla is getting ready to receive the IX edition of Corremitierra with routes of up to 21 kilometers: schedule these will be the road closures",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-se-alista-para-recibir-la-ix-edicion-de-corremitierra-con-recorridos-de-hasta-21-kilometros-programese-estos-seran-los-cierres-viales-3575328",
+        "published_date": "2026-07-31 17:16:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Stopping sex tourism: Colombia denies entry to Medell\u00edn to an influencer who promotes the renowned 'Passport Bros' movement",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/freno-al-turismo-sexual-colombia-niega-la-entrada-a-medellin-a-un-influencer-promotor-del-reconocido-movimiento-passport-bros-3575338",
+        "published_date": "2026-07-31 17:15:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Consternation in Barrancabermeja due to the discovery of a fetus in a garbage can: this is known from the case that has shocked the city",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/consternacion-en-barrancabermeja-por-el-hallazgo-de-un-feto-en-un-bote-de-basura-esto-se-sabe-del-crimen-que-causo-conmocion-3575289",
+        "published_date": "2026-07-31 16:45:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Alert in Santander due to the low flow in four important rivers in the region: they are below 50 percent of normal",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/alerta-en-santander-por-el-bajo-caudal-en-cuatro-rios-importantes-de-la-region-estan-por-debajo-del-50-por-ciento-de-lo-normal-3575324",
+        "published_date": "2026-07-31 16:12:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "Comptroller General's Office continues with inspections at Fiduprevisora \u200b\u200band Ungrd",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/contraloria-general-continua-con-inspecciones-en-la-fiduprevisora-y-la-ungrd-4448361",
+        "published_date": "2026-07-31 16:09:42",
         "category": "Local Events"
     }
 ]
