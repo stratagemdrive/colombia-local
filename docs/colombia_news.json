@@ -70,6 +70,13 @@
         "category": "Diplomacy"
     },
     {
+        "title": "The Abelardist radicalization that took Didier Blanco from banal comedy to the UNP",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/la-radicalizacion-abelardista-que-llevo-a-didier-blanco-de-la-comedia-banal-a-la-unp/",
+        "published_date": "2026-08-02 05:54:20",
+        "category": "Military"
+    },
+    {
         "title": "Controls on 190 flights during the Flower Fair in Medell\u00edn leave 15 foreigners inadmissible: who is the deported United States influencer?",
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/medellin/controles-en-190-vuelos-por-la-feria-de-las-flores-en-medellin-dejan-15-extranjeros-inadmitidos-quien-es-el-influencer-de-estados-unidos-deportado-3575496",
@@ -203,11 +210,11 @@
         "category": "Military"
     },
     {
-        "title": "The importance of STI in global public policy",
+        "title": "MinEnerg\u00eda Fund asked to divert money to pay for political march",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-ciencia-e-innovacion/la-importancia-de-la-ciencia-tecnologia-e-innovacion-en-la-politica-publica-a-partir-de-los-cambios-y-transformaciones-que-se-generan-a-nivel-global/",
-        "published_date": "2026-07-27 00:40:17",
-        "category": "Military"
+        "url": "https://www.lasillavacia.com/silla-nacional/fondo-del-minenergia-pidio-desviar-plata-para-pagar-marcha-politica/",
+        "published_date": "2026-08-02 06:00:00",
+        "category": "Energy"
     },
     {
         "title": "Energy will decide the future of Urab\u00e1",
@@ -343,13 +350,6 @@
         "category": "Energy"
     },
     {
-        "title": "More than 5,000 students in Ipiales switch to virtual classes due to an outbreak of acute diarrheal disease",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/mas-de-5-000-estudiantes-en-ipiales-pasan-a-clases-virtuales-por-brote-de-enfermedad-diarreica-aguda-3574795",
-        "published_date": "2026-07-29 17:20:08",
-        "category": "Energy"
-    },
-    {
         "title": "The Bank of the Republic leaves rates at 12% and will begin to buy reserves per dollar",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/emisor-deja-tasas-en-12-y-empezara-a-comprar-reservas-por-dolar-barato-4447244",
@@ -462,11 +462,18 @@
         "category": "Economy"
     },
     {
-        "title": "\u201cWe will present our tax reform in September to be able to grow\u201d",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/entrevista-con-miguel-gomez-ministro-de-hacienda-designado-4443026",
-        "published_date": "2026-07-25 05:00:12",
-        "category": "Economy"
+        "title": "Tremor in Colombia |They report an earthquake during the early hours of this Sunday, August 2: epicenter, depth and other details",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-en-colombia-reportan-sismo-durante-la-madrugada-de-este-domingo-2-de-agosto-epicentro-profundidad-y-otros-detalles-3575566",
+        "published_date": "2026-08-02 06:32:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "UNGRD activates the National Crisis Room after the change to orange alert of the Purac\u00e9 volcano due to the sustained increase in its activity",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/ungrd-activa-la-sala-de-crisis-nacional-tras-el-cambio-a-alerta-naranja-del-volcan-purace-por-el-aumento-sostenido-de-su-actividad-3575561",
+        "published_date": "2026-08-02 00:44:16",
+        "category": "Local Events"
     },
     {
         "title": "Cepeda and Petro call for demonstrations on August 7",
@@ -497,10 +504,24 @@
         "category": "Local Events"
     },
     {
+        "title": "The worrying reality of women in Cali |50 homicides in the year with the tragedy of Mar\u00eda Camila Potos\u00ed: how are the investigations going?",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/la-preocupante-realidad-de-las-mujeres-en-cali-50-homicidios-en-el-ano-con-la-tragedia-de-maria-camila-potosi-como-van-las-investigaciones-3575551",
+        "published_date": "2026-08-01 20:36:43",
+        "category": "Local Events"
+    },
+    {
         "title": "From Havana, Petro asks for solidarity with Cuba",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/desde-la-habana-petro-pide-solidaridad-con-cuba/",
         "published_date": "2026-08-01 20:33:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "How to access the Mateo P\u00e9rez Rueda journalism scholarships?: Tribute to the life, vocation and legacy of the communicator murdered in Antioquia",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/como-acceder-a-las-becas-de-periodismo-mateo-perez-rueda-tributo-a-la-vida-la-vocacion-y-el-legado-del-comunicador-asesinado-en-antioquia-3575531",
+        "published_date": "2026-08-01 19:08:56",
         "category": "Local Events"
     },
     {
@@ -578,34 +599,6 @@
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/otras-ciudades/retiro-500-000-de-un-cajero-en-santa-marta-y-recibio-billetes-quemados-la-extrana-explicacion-sobre-un-robo-en-la-guajira-genera-dudas-3575482",
         "published_date": "2026-08-01 14:59:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "The reunion of a family with a missing young man who traveled to Medell\u00edn for work and ended up murdered in Caquet\u00e1",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/el-esperado-reencuentro-de-una-familia-con-desaparecido-que-viajo-a-medellin-por-trabajo-y-termino-asesinado-en-caqueta-3575261",
-        "published_date": "2026-08-01 14:08:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Without a plan, closing embassies to save could increase costs",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/sin-un-plan-cerrar-embajadas-para-ahorrar-podria-aumentar-costos/",
-        "published_date": "2026-08-01 12:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mar\u00eda Camila Potos\u00ed's mother says that they have not confirmed that the body found in Cali is that of her granddaughter: 'I hope she is still alive'",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/madre-de-maria-camila-potosi-dice-que-no-le-han-confirmado-que-el-cuerpo-hallado-en-cali-sea-el-de-su-nieta-tengo-la-esperanza-de-que-siga-viva-3575413",
-        "published_date": "2026-08-01 05:55:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "Heartbreaking account of the wife of a retired colonel murdered while riding a bicycle in Cauca: 'We are victims of this conflict'",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/desgarrador-relato-de-la-esposa-de-coronel-retirado-asesinado-mientras-montaba-bicicleta-en-cauca-somos-victimas-de-este-conflicto-3575402",
-        "published_date": "2026-08-01 05:33:26",
         "category": "Local Events"
     }
 ]
