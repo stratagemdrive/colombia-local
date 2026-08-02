@@ -63,11 +63,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "The war against cultural diversity",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/opinion/la-guerra-contra-la-diversidad-cultural/",
-        "published_date": "2026-07-25 12:19:45",
-        "category": "Diplomacy"
+        "title": "Two alleged members of Los Coste\u00f1os fall in Malambo: Police seized rifles, cocaine and arsenal that were intended for homicides in Barranquilla",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/caen-dos-presuntos-integrantes-de-los-costenos-en-malambo-policia-incauto-fusiles-cocaina-y-arsenal-que-iba-para-homicidios-en-barranquilla-3575582",
+        "published_date": "2026-08-02 18:01:00",
+        "category": "Military"
+    },
+    {
+        "title": "The Public Force thwarted a plan to rob a jewelry store with the alleged participation of a police officer, his brother and a third accomplice with a criminal record in Cali",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/la-fuerza-publica-frustro-plan-de-robar-una-joyeria-con-presunta-participacion-de-un-policia-su-hermano-y-un-tercer-complice-con-prontuario-en-cali-3575617",
+        "published_date": "2026-08-02 15:44:44",
+        "category": "Military"
     },
     {
         "title": "The Abelardist radicalization that took Didier Blanco from banal comedy to the UNP",
@@ -193,20 +200,6 @@
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/cali/brigadas-especiales-para-hallar-a-los-asesinos-de-maria-camila-potosi-y-a-su-bebe-de-8-meses-de-gestacion-desaparecida-3574334",
         "published_date": "2026-07-28 07:27:28",
-        "category": "Military"
-    },
-    {
-        "title": "The search that moves the country: Cali activates a total deployment to find Mar\u00eda Camila Potos\u00ed's baby and clarify her murder",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/la-busqueda-que-conmueve-al-pais-cali-activa-un-despliegue-total-para-hallar-a-la-bebe-de-maria-camila-potosi-y-esclarecer-su-homicidio-3574291",
-        "published_date": "2026-07-27 22:13:47",
-        "category": "Military"
-    },
-    {
-        "title": "Security, health and education in Antioquia: the emergencies and alerts facing the new President De La Espriella",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/seguridad-salud-y-educacion-en-antioquia-las-urgencias-y-alertas-que-enfrenta-el-nuevo-presidente-de-la-espriella-3574084",
-        "published_date": "2026-07-27 08:09:28",
         "category": "Military"
     },
     {
@@ -350,6 +343,13 @@
         "category": "Energy"
     },
     {
+        "title": "\u201cFico\u201d once again says that he has evidence that incriminates Daniel Quintero",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/fico-vuelve-a-decir-que-tiene-pruebas-que-incriminan-a-daniel-quintero/",
+        "published_date": "2026-08-02 21:07:57",
+        "category": "Economy"
+    },
+    {
         "title": "The Bank of the Republic leaves rates at 12% and will begin to buy reserves per dollar",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/emisor-deja-tasas-en-12-y-empezara-a-comprar-reservas-por-dolar-barato-4447244",
@@ -462,6 +462,125 @@
         "category": "Economy"
     },
     {
+        "title": "Nari\u00f1o's challenge is to create wealth, not manage poverty",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-rural/el-reto-de-narino-es-crear-riqueza-no-administrar-pobreza/",
+        "published_date": "2026-08-02 22:48:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "End the afternoon with these recommended opinion columns",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/termine-la-tarde-con-estas-columnas-de-opinion-recomendadas/",
+        "published_date": "2026-08-02 22:20:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "The legacy of Nirmal Purja, beyond the peaks of the Himalayas",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-verde/el-legado-de-nirmal-purja-mas-alla-de-las-cumbres-del-himalaya/",
+        "published_date": "2026-08-02 21:55:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "The municipalities that could be affected by an eruption of the Purac\u00e9 volcano",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/estos-son-los-municipios-que-podrian-verse-afectados-por-una-eventual-erupcion-del-volcan-purace-4449527",
+        "published_date": "2026-08-02 18:46:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "FLIP denounces threats against 4 journalists in Apartad\u00f3, Antioquia, and requests urgent protection measures",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/flip-denuncia-amenazas-contra-4-periodistas-en-apartado-antioquia-y-pide-medidas-urgentes-de-proteccion-3575634",
+        "published_date": "2026-08-02 18:32:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "'It's not August, it's Petronio and it celebrates 30 years!': this was the launch of the Pacific Music Festival that attracts crowds in Cali",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/no-es-agosto-es-petronio-y-celebra-30-anos-asi-fue-el-lanzamiento-del-festival-de-musica-del-pacifico-que-atrae-a-multitudes-en-cali-3575636",
+        "published_date": "2026-08-02 18:18:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "The five captured for the disappearance and murder of Mar\u00eda Camila Potos\u00ed, the young pregnant woman, in Cali: they did not accept charges",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/atencion-a-la-carcel-los-cinco-capturados-por-la-desaparicion-y-el-asesinato-de-maria-camila-potosi-la-joven-embarazada-en-cali-3575460",
+        "published_date": "2026-08-02 18:00:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "The elected government displays its religious beliefs in a spiritual retreat",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/el-gobierno-electo-exhibe-sus-creencias-religiosas-en-retiro-espiritual/",
+        "published_date": "2026-08-02 17:50:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "Alternate headquarters of the Presidency boosts real estate expectations in Barranquilla: union foresees more investment, housing and new projects",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/sede-alterna-de-la-presidencia-impulsa-expectativa-inmobiliaria-en-barranquilla-gremio-preve-mas-inversion-vivienda-y-nuevos-proyectos-3575586",
+        "published_date": "2026-08-02 17:47:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "Attention: hitman attack against Valle deputy Yesid Sandoval, member of the Historical Pact, is reported",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/atencion-se-reporta-atentado-sicarial-contra-el-diputado-del-valle-yesid-sandoval-3575624",
+        "published_date": "2026-08-02 17:38:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "A woman did not go to work and worried her daughter, who found her lifeless in the bathroom of her house in Itag\u00fc\u00ed: they are investigating femicide and looking for a suspect",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/una-mujer-no-fue-a-trabajar-y-preocupo-a-su-hija-quien-la-hallo-sin-vida-en-el-bano-de-su-casa-en-itaguei-indagan-feminicidio-y-buscan-a-sospechoso-3575626",
+        "published_date": "2026-08-02 17:16:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "The tree and the mask: anthology of columns on the Petro government",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/opinion/el-arbol-y-la-mascara-antologia-de-columnas-sobre-el-gobierno-petro-2/",
+        "published_date": "2026-08-02 16:12:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ernesto Cortissoz Airport was left out of Conpes 4205 despite being at critical risk;Atl\u00e1ntico demands an urgent plan to modernize it now",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/aeropuerto-ernesto-cortissoz-quedo-por-fuera-del-conpes-4205-pese-a-estar-en-riesgo-critico-atlantico-exige-plan-urgente-para-modernizarlo-ya-3575587",
+        "published_date": "2026-08-02 16:01:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Bogot\u00e1 Metro Company rejected acts of corruption in a leading consortium",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/empresa-metro-de-bogota-rechazo-hechos-de-corrupcion-en-consorcio-de-primera-linea-4449460",
+        "published_date": "2026-08-02 16:00:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Paloma Valencia demarcates the Democratic Center from Abelardo's right",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/paloma-valencia-desmarca-al-centro-democratico-de-la-derecha-de-abelardo/",
+        "published_date": "2026-08-02 15:46:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "The siege of the ICC and the reconfiguration of the international order",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/el-asedio-a-la-cpi-y-la-reconfiguracion-del-orden-internacional/",
+        "published_date": "2026-08-02 15:39:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "Education, health and drinking water: the pending territorial investment",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-rural/educacion-salud-y-agua-potable-la-inversion-territorial-pendiente/",
+        "published_date": "2026-08-02 14:00:00",
+        "category": "Local Events"
+    },
+    {
         "title": "Tremor in Colombia |They report an earthquake during the early hours of this Sunday, August 2: epicenter, depth and other details",
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-en-colombia-reportan-sismo-durante-la-madrugada-de-este-domingo-2-de-agosto-epicentro-profundidad-y-otros-detalles-3575566",
@@ -469,136 +588,17 @@
         "category": "Local Events"
     },
     {
+        "title": "The new presidential palace in Barranquilla will cost $2,000 million",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/el-nuevo-palacio-presidencial-de-de-la-espriella-en-barranquilla-costara-2-000-millones-4449356",
+        "published_date": "2026-08-02 05:03:19",
+        "category": "Local Events"
+    },
+    {
         "title": "UNGRD activates the National Crisis Room after the change to orange alert of the Purac\u00e9 volcano due to the sustained increase in its activity",
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/otras-ciudades/ungrd-activa-la-sala-de-crisis-nacional-tras-el-cambio-a-alerta-naranja-del-volcan-purace-por-el-aumento-sostenido-de-su-actividad-3575561",
         "published_date": "2026-08-02 00:44:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cepeda and Petro call for demonstrations on August 7",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/cepeda-y-petro-convocan-manifestaciones-el-7-de-agosto/",
-        "published_date": "2026-08-01 23:01:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "The tree and the mask: anthology of columns on the Petro government",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/opinion/el-arbol-y-la-mascara-antologia-de-columnas-sobre-el-gobierno-petro/",
-        "published_date": "2026-08-01 22:42:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "The balance of President Petro's legacy",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/opinion/el-balance-del-legado-del-presidente-petro/",
-        "published_date": "2026-08-01 22:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Former representative Ana Rinc\u00f3n will be the new president of Banco Agrario",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/exrepresentante-ana-rincon-sera-la-nueva-presidenta-del-banco-agrario/",
-        "published_date": "2026-08-01 21:39:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "The worrying reality of women in Cali |50 homicides in the year with the tragedy of Mar\u00eda Camila Potos\u00ed: how are the investigations going?",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/la-preocupante-realidad-de-las-mujeres-en-cali-50-homicidios-en-el-ano-con-la-tragedia-de-maria-camila-potosi-como-van-las-investigaciones-3575551",
-        "published_date": "2026-08-01 20:36:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "From Havana, Petro asks for solidarity with Cuba",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/desde-la-habana-petro-pide-solidaridad-con-cuba/",
-        "published_date": "2026-08-01 20:33:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "How to access the Mateo P\u00e9rez Rueda journalism scholarships?: Tribute to the life, vocation and legacy of the communicator murdered in Antioquia",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/como-acceder-a-las-becas-de-periodismo-mateo-perez-rueda-tributo-a-la-vida-la-vocacion-y-el-legado-del-comunicador-asesinado-en-antioquia-3575531",
-        "published_date": "2026-08-01 19:08:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "Deforestation in Colombia reaches its lowest level in two decades in 2025",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/deforestacion-en-colombia-alcanza-en-2025-su-nivel-mas-bajo-en-dos-decadas-4449311",
-        "published_date": "2026-08-01 19:08:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "The figures contradict Petro's agrarian reform story",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-rural/las-cifras-contradicen-el-relato-de-la-reforma-agraria-de-petro/",
-        "published_date": "2026-08-01 19:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Angie Rodr\u00edguez is declared insubsistent after her complaints against Petro",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/angie-rodriguez-es-declarada-insubsistente-tras-sus-denuncias-contra-petro/",
-        "published_date": "2026-08-01 18:27:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "Drone explosions in clashes between the 'Gulf clan' and 'Calarc\u00e1' dissidents leave three dead and houses destroyed in Antioquia",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/explosiones-por-drones-en-enfrentamientos-entre-el-clan-del-golfo-y-disidentes-de-calarca-dejan-tres-muertos-y-casas-destruidas-en-antioquia-3575514",
-        "published_date": "2026-08-01 18:25:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Barranquilla becomes the first city in South America with LEED Gold certification and consolidates its commitment to urban sustainability",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-se-convierte-en-la-primera-ciudad-de-sudamerica-con-certificacion-leed-gold-y-consolida-su-apuesta-por-la-sostenibilidad-urbana-3575427",
-        "published_date": "2026-08-01 18:01:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "A democracy more resilient than we think?",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/opinion/una-democracia-mas-resiliente-de-lo-que-creemos/",
-        "published_date": "2026-08-01 18:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Audios speak of alleged corruption of Ver\u00f3nica Alcocer and her circle",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/audios-hablan-de-supuesta-corrupcion-de-veronica-alcocer-y-su-circulo/",
-        "published_date": "2026-08-01 16:25:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ombudsman's Office launches alert after car bomb in C\u00facuta: warns of escalation of violence and risk for the civilian population",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/defensoria-lanza-alerta-tras-carro-bomba-en-cucuta-advierte-escalada-de-violencia-y-riesgo-para-la-poblacion-civil-3575494",
-        "published_date": "2026-08-01 16:22:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "Dengue cases fall 32% in Atl\u00e1ntico during 2026, but authorities remain alert to avoid a new rebound of the virus",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/casos-de-dengue-caen-32-en-atlantico-durante-2026-pero-autoridades-mantienen-la-alerta-para-evitar-un-nuevo-repunte-del-virus-3575431",
-        "published_date": "2026-08-01 16:01:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Government appointed Edwin Palma as ad-hoc Minister of Labor and Housing for six days",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/gobierno-designo-a-edwin-palma-como-ministro-de-trabajo-y-vivienda-ad-hoc-por-seis-dias-4449255",
-        "published_date": "2026-08-01 15:01:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "He withdrew $500,000 from an ATM in Santa Marta and received burned bills: the strange explanation for a robbery in La Guajira raises doubts",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/retiro-500-000-de-un-cajero-en-santa-marta-y-recibio-billetes-quemados-la-extrana-explicacion-sobre-un-robo-en-la-guajira-genera-dudas-3575482",
-        "published_date": "2026-08-01 14:59:08",
         "category": "Local Events"
     }
 ]
