@@ -1,5 +1,12 @@
 [
     {
+        "title": "Salsa, gastronomy and 17 illuminated monuments: Cali is transformed to receive the historic transmission of command on August 7",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/salsa-gastronomia-y-17-monumentos-iluminados-cali-se-transforma-para-recibir-la-historica-transmision-de-mando-el-7-de-agosto-3576270",
+        "published_date": "2026-08-05 04:39:00",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Trench or containment?The controversial work in the Monument to the Resistance that reopened the debate about its future in Cali",
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/cali/trinchera-o-contencion-la-polemica-obra-en-el-monumento-a-la-resistencia-que-reabrio-el-debate-sobre-su-futuro-en-cali-3575898",
@@ -28,24 +35,17 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Have an informed breakfast with the keys for this July 28, 2026",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-claves-de-este-28-de-julio-de-2026/",
-        "published_date": "2026-07-28 12:13:14",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Omar Bula's book: stories from the new chancellor's life at the UN",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/cuentos-de-la-vida-en-la-onu-del-nuevo-canciller/",
-        "published_date": "2026-07-28 06:00:00",
-        "category": "Diplomacy"
-    },
-    {
         "title": "Abelardo appoints General (r) Alejandro Barrera as Director of the Police",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/abelardo-designa-a-general-r-alejandro-barrera-como-director-de-la-policia/",
         "published_date": "2026-08-04 21:40:49",
+        "category": "Military"
+    },
+    {
+        "title": "After De La Espriella's announcement, Mayor Char celebrates the arrival of the Police Subdirectorate to Barranquilla: 'It will strengthen the country's security'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/tras-anuncio-de-de-la-espriella-alcalde-char-celebra-llegada-de-la-subdireccion-de-la-policia-a-barranquilla-fortalecera-la-seguridad-del-pais-3576236",
+        "published_date": "2026-08-04 20:01:00",
         "category": "Military"
     },
     {
@@ -175,11 +175,18 @@
         "category": "Military"
     },
     {
-        "title": "Controls on 190 flights during the Flower Fair in Medell\u00edn leave 15 foreigners inadmissible: who is the deported United States influencer?",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/controles-en-190-vuelos-por-la-feria-de-las-flores-en-medellin-dejan-15-extranjeros-inadmitidos-quien-es-el-influencer-de-estados-unidos-deportado-3575496",
-        "published_date": "2026-08-01 17:32:28",
-        "category": "Military"
+        "title": "In intensive care: this is how Petro gives De la Espriella health",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/en-cuidados-intensivos-asi-le-entrega-petro-la-salud-a-de-la-espriella/",
+        "published_date": "2026-08-05 06:00:00",
+        "category": "Energy"
+    },
+    {
+        "title": "They enabled the consultation of the Conpes draft for strategic minerals",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/habilitaron-la-consulta-del-borrador-del-conpes-para-minerales-estrategicos/",
+        "published_date": "2026-08-05 00:29:00",
+        "category": "Energy"
     },
     {
         "title": "Banco de la Rep\u00fablica raised its inflation forecast to 6.9% at the end of the year due to El Ni\u00f1o",
@@ -308,18 +315,11 @@
         "category": "Energy"
     },
     {
-        "title": "Intervened Air-e warns that users who consume more energy will pay higher rates due to El Ni\u00f1o and asks to save to reduce the impact",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/air-e-intervenida-advierte-que-usuarios-que-consuman-mas-energia-pagaran-tarifas-mas-altas-por-el-nino-y-pide-ahorrar-para-reducir-el-impacto-3575474",
-        "published_date": "2026-08-01 14:15:00",
-        "category": "Energy"
-    },
-    {
-        "title": "President Petro referred to the import of gas by Ecopetrol",
+        "title": "For every $100 that the TRM falls, exports are reduced by about US$400 million",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/el-presidente-petro-se-refirio-sobre-la-importacion-de-gas-por-parte-de-ecopetrol-4448944",
-        "published_date": "2026-08-01 01:42:17",
-        "category": "Energy"
+        "url": "https://www.larepublica.co/economia/por-cada-100-que-cae-la-trm-las-exportaciones-bajan-en-us-400-millones-4451377",
+        "published_date": "2026-08-05 05:03:25",
+        "category": "Economy"
     },
     {
         "title": "Issuer received offers for US$877.5 million in first dollar purchase auction",
@@ -434,11 +434,123 @@
         "category": "Economy"
     },
     {
-        "title": "Gross debt increased by $75 billion and already represents 60.5% of GDP as of June",
+        "title": "Breakfast informed with the movements of this August 5, 2026",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-movidas-de-este-5-de-agosto-de-2026/",
+        "published_date": "2026-08-05 12:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Colombia resumed energy sales to Ecuador with a plan of 8.67 GWh/day",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/deuda-bruta-crecio-75-billones-en-el-ultimo-ano-y-a-junio-representa-60-5-del-pib-4444769",
-        "published_date": "2026-07-28 05:01:43",
-        "category": "Economy"
+        "url": "https://www.larepublica.co/economia/colombia-reanudara-ventas-energeticas-a-ecuador-con-plan-de-8-67-gwh-dia-4451576",
+        "published_date": "2026-08-05 12:29:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "Petro's inheritance to Abelardo (IV): Health",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/la-herencia-de-petro-a-abelardo-iv-salud/",
+        "published_date": "2026-08-05 12:26:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Comptroller's Office determined a tax discovery to the ANI for $824,960 million",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/la-contraloria-determino-un-hallazgo-fiscal-a-la-ani-por-824-960-millones-4451583",
+        "published_date": "2026-08-05 12:07:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cartagena will celebrate Indigenous Peoples' Day with the Indigenous Expo 2026: Meeting of Knowledge and Culture",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/cartagena-celebrara-el-dia-de-los-pueblos-indigenas-con-la-expo-indigena-2026-encuentro-de-saberes-y-cultura-3576295",
+        "published_date": "2026-08-05 07:25:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "Before you leave, check out how the peak and plate works in Cali this Wednesday, August 5",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/antes-de-salir-consulte-como-funciona-el-pico-y-placa-en-cali-este-miercoles-5-de-agosto-3576130",
+        "published_date": "2026-08-05 06:25:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Drivers in Medell\u00edn: this is how the peak and license plate applies this Wednesday, August 5",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/conductores-en-medellin-asi-aplica-el-pico-y-placa-este-miercoles-5-de-agosto-3576131",
+        "published_date": "2026-08-05 06:23:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "Peak and license plate in Pereira: check which vehicles cannot circulate this Wednesday, August 5",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/pico-y-placa-en-pereira-revise-que-vehiculos-no-pueden-circular-este-miercoles-5-de-agosto-3576132",
+        "published_date": "2026-08-05 06:19:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "Before leaving, check how the peak and plate works in Bucaramanga this Wednesday, August 5",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/antes-de-salir-revise-como-funciona-el-pico-y-placa-en-bucaramanga-este-miercoles-5-de-agosto-3576134",
+        "published_date": "2026-08-05 06:15:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "Woman died after falling into the void while trying to park her truck in Medell\u00edn: identity of the victim and the main hypothesis of the accident",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/murio-mujer-en-medellin-tras-caer-al-vacio-mientras-parqueaba-su-camioneta-esta-es-la-identidad-de-la-victima-y-la-principal-hipotesis-3576255",
+        "published_date": "2026-08-05 06:04:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "This was the murder of a merchant in a shopping center in Envigado when he was trying to get into his armored truck: he would have withdrawn money before",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/asi-fue-el-asesinato-de-un-comerciante-en-un-centro-comercial-de-envigado-cuando-intentaba-subir-a-su-camioneta-blindada-habria-retirado-dinero-antes-3576222",
+        "published_date": "2026-08-05 06:02:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "El Ni\u00f1o will boost diesel demand by 30% during the second semester of the course",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/el-nino-disparara-la-demanda-de-diesel-en-30-durante-el-segundo-semestre-4450813",
+        "published_date": "2026-08-05 05:03:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "The property tax for Bogota residents in strata 4, 5 and 6 will rise due to a surcharge of $29,000",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/predial-para-los-bogotanos-de-estratos-4-5-y-6-subiria-por-nueva-sobretasa-hasta-29-000-4451351",
+        "published_date": "2026-08-05 05:01:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "Holgu\u00edn shared Washington's false phrase about governing without God and the Bible",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/holguin-compartio-falsa-frase-de-washington-sobre-gobernar-sin-dios-y-la-biblia/",
+        "published_date": "2026-08-05 01:41:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "Confecoop will bring together leaders, businessmen and academics at its 25th National Congress",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/confecoop-reunira-al-lideres-empresarios-y-academicos-en-su-congreso-nacional-numero-25-4451431",
+        "published_date": "2026-08-05 01:01:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Position yourself in the economics debate: how far are you from those who think differently?",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/detector-de-mentiras/ubiquese-en-el-debate-de-la-economia-que-tan-lejos-esta-de-quien-piensa-distinto/",
+        "published_date": "2026-08-05 01:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Andr\u00e9s Herkrath would be the new director of Ideam",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/andres-herkrath-seria-el-nuevo-director-del-ideam/",
+        "published_date": "2026-08-05 00:07:40",
+        "category": "Local Events"
     },
     {
         "title": "Sleep informed with the keys for this August 4, 2026",
@@ -459,125 +571,6 @@
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/en-una-carta-defensoria-alerta-a-abelardo-por-anuncios-del-nuevo-gobierno/",
         "published_date": "2026-08-04 23:20:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "835 people captured in international operation against environmental crimes in the Amazon",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/835-personas-capturadas-en-operacion-internacional-contra-delitos-ambientales-en-la-amazonia/",
-        "published_date": "2026-08-04 22:51:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Prosecutor's Office charged \u201cCalarc\u00e1\u201d with 10 crimes, whom he declared an absentee",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/fiscalia-imputo-10-delitos-a-calarca-a-quien-declaro-persona-ausente/",
-        "published_date": "2026-08-04 22:33:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "Self-communication strengthens the autonomy of Indigenous Peoples",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-etnica/la-comunicacion-propia-fortalece-la-autonomia-de-los-pueblos-indigenas/",
-        "published_date": "2026-08-04 22:16:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sandra Carvajal, Caribbean regional manager of Analdex will be vice minister of Commerce",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/sandra-carvajal-gerente-regional-caribe-de-analdex-sera-viceministra-de-comercio-4451204",
-        "published_date": "2026-08-04 22:05:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Prosecutor's Office investigates governors and former governors for alleged corruption",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/fiscalia-investiga-a-gobernadores-y-exgobernadores-por-presunta-corrupcion/",
-        "published_date": "2026-08-04 19:58:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "The presidential headquarters of Abelardo de la Espriella in Cali will remain in the Cultural Center",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/la-sede-presidencial-de-abelardo-de-la-espriella-en-cali-quedara-en-el-centro-cultural-4451108",
-        "published_date": "2026-08-04 18:38:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The lie that Yulieth Angulo would have used to deceive Mar\u00eda Camila Potos\u00ed before the macabre murder in Cali: Prosecutor's Office revealed details",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/yulieth-angulo-habria-fingido-perder-las-llaves-de-su-moto-para-enganar-a-maria-camila-potosi-antes-del-macabro-asesinato-fiscalia-revelo-detalles-3576168",
-        "published_date": "2026-08-04 18:34:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "X-ray of construction in Antioquia: Why are housing sales falling while real estate projects grow?",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/radiografia-de-la-construccion-en-antioquia-por-que-caen-las-ventas-de-vivienda-mientras-crecen-los-proyectos-inmobiliarios-3576163",
-        "published_date": "2026-08-04 16:57:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Hooded and with high-range weapons: this is how they threatened the community in Piedecuesta, authorities investigate the intimidating video",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/encapuchados-y-con-armas-de-alto-alcance-asi-amenazaron-a-comunidad-en-piedecuesta-autoridades-investigan-el-video-intimidatorio-3576159",
-        "published_date": "2026-08-04 16:44:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fenalco and new government prioritize strengthening small merchants",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/fenalco-y-nuevo-gobierno-priorizan-fortalecimiento-de-pequenos-comerciantes-4451033",
-        "published_date": "2026-08-04 15:59:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "Outrage in Pitalito, Huila: they are looking for a man who was recorded attacking a woman in the middle of the street;the couple's daughter witnessed the event",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/indignacion-en-pitalito-huila-buscan-a-hombre-que-quedo-grabado-cuando-agredia-a-su-pareja-la-hija-presencio-el-hecho-3576143",
-        "published_date": "2026-08-04 15:58:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "Prosecutor's Office inadmisses complaint against the governor of Valle, Dilian Francisca Toro, for alleged links with alias Papa Smurf after dismissing evidence",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/fiscalia-inadmite-denuncia-contra-la-gobernadora-del-valle-dilian-francisca-toro-por-supuestos-nexos-con-alias-papa-pitufo-tras-desestimar-pruebas-3576148",
-        "published_date": "2026-08-04 15:45:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "In C\u00f3rdoba, during the first half of 2026, there was an increase in all crimes, according to the Victims Unit Observatory",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/en-cordoba-durante-el-primer-semestre-de-2026-hubo-un-aumento-en-todos-los-delitos-de-acuerdo-con-el-observatorio-de-la-unidad-para-las-victimas-3576140",
-        "published_date": "2026-08-04 15:21:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "Superservicios asks to review contracting on the Stock Market due to financial risks",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/superservicios-pide-revisar-contratacion-en-bolsa-de-energia-por-riesgos-financieros-4450746",
-        "published_date": "2026-08-04 13:41:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "CCI called on the Mayor's Office and the IDU to call another tender for Nueva Calle 13",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/cci-hizo-llamado-a-la-alcaldia-y-el-idu-para-convocar-otra-licitacion-para-nueva-calle-13-4450759",
-        "published_date": "2026-08-04 13:27:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "Breakfast informed with the movements of this August 4, 2026",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-movidas-de-este-4-de-agosto-de-2026/",
-        "published_date": "2026-08-04 12:33:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "Petro's inheritance to Abelardo (III): Economy",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/la-herencia-de-petro-a-abelardo-iii-economia/",
-        "published_date": "2026-08-04 12:12:30",
         "category": "Local Events"
     }
 ]
