@@ -2,6 +2,13 @@
     {
         "title": "Infantino, the president of Fifa, leaves Abelardo's possession",
         "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/infantino-el-presidente-de-la-fifa-se-baja-de-la-posesion-de-abelardo/",
+        "published_date": "2026-08-06 23:09:31",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Infantino, the president of Fifa, leaves Abelardo's possession",
+        "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/infantino-el-presidente-de-la-fifa-se-baja-de-la-posesion-de-abelardo/",
         "published_date": "2026-08-06 23:09:31",
         "category": "Diplomacy"
@@ -33,6 +40,13 @@
         "url": "https://www.eltiempo.com/colombia/cali/alerta-naranja-del-volcan-purace-se-invita-a-la-ciudadania-a-mantener-la-calma-y-seguir-las-recomendaciones-dice-la-gobernacion-del-cauca-3575475",
         "published_date": "2026-08-01 14:11:26",
         "category": "Diplomacy"
+    },
+    {
+        "title": "Tradition, engines and music in motion: Palmira prepares the second edition of the Echin\u00f3dromo in the 50 Golden Anniversary of the Agriculture Festival",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/tradicion-motores-y-musica-en-marcha-palmira-alista-la-segunda-edicion-del-equinodromo-en-las-50-bodas-de-oro-de-la-fiesta-de-la-agricultura-3576576",
+        "published_date": "2026-08-07 01:28:02",
+        "category": "Military"
     },
     {
         "title": "The 'letter to Ni\u00f1o Dios' that Governor Dilian Francisca Toro will give to President Abelardo De La Espriella to activate key projects in the Valley",
@@ -168,11 +182,18 @@
         "category": "Military"
     },
     {
-        "title": "Petro's inheritance to Abelardo (II): Security",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/la-herencia-de-petro-a-abelardo-ii-seguridad/",
-        "published_date": "2026-08-03 12:28:39",
-        "category": "Military"
+        "title": "The Cali gastronomic union expresses its disagreement with the day without cars and without motorcycles due to the economic losses",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/gremio-gastronomico-de-cali-expresa-su-inconformidad-ante-el-dia-sin-carro-y-sin-moto-por-las-perdidas-economicas-3576826",
+        "published_date": "2026-08-07 00:07:51",
+        "category": "Energy"
+    },
+    {
+        "title": "A woman who poured gasoline and set fire to her ex-partner while he was sleeping in Medell\u00edn is sentenced to 18 years in prison",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/condenan-a-18-anos-de-carcel-a-mujer-que-rocio-gasolina-y-le-prendio-fuego-a-su-expareja-mientras-dormia-en-medellin-3576824",
+        "published_date": "2026-08-06 23:53:08",
+        "category": "Energy"
     },
     {
         "title": "Barranquilla will build the 'Entrepuentes' energy community in the southeast: it will benefit 700 families with solar energy",
@@ -301,18 +322,11 @@
         "category": "Energy"
     },
     {
-        "title": "Ecopetrol recorded revenues of $40 billion and profits of $6 billion in the second quarter",
+        "title": "The five red flags that the new government inherits in economic matters",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/siga-el-cubrimiento-de-la-entrega-de-los-resultados-trimestrales-de-ecopetrol-4450295",
-        "published_date": "2026-08-03 20:50:52",
-        "category": "Energy"
-    },
-    {
-        "title": "Petrobras and Ecopetrol confirmed gas discovery in the Sand\u00eda-1 exploratory well",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/petrobras-y-ecopetrol-confirmaron-hallazgo-de-gas-en-el-pozo-exploratorio-sandia-1-4449855",
-        "published_date": "2026-08-03 13:26:16",
-        "category": "Energy"
+        "url": "https://www.larepublica.co/economia/las-cinco-banderas-rojas-que-hereda-el-nuevo-gobierno-en-materia-economica-4453273",
+        "published_date": "2026-08-07 05:03:54",
+        "category": "Economy"
     },
     {
         "title": "Inflation for July would be at 6.2% and would return to the highs of 2024",
@@ -441,10 +455,66 @@
         "category": "Economy"
     },
     {
+        "title": "Milagrometro: These are Abelardo's promises",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/milagrometro-estas-son-las-promesas-de-abelardo/",
+        "published_date": "2026-08-07 06:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "This was the welcome to the delegations of countries for the inauguration of the elected president Abelardo De La Espriella: 'It is a great honor for Cali'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/asi-fue-la-bienvenida-a-las-delegaciones-de-paises-por-la-posesion-del-presidente-electo-abelardo-de-la-espriella-es-un-grandisimo-honor-para-cali-3576827",
+        "published_date": "2026-08-07 05:57:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "Alert for the drop in flow of the Magdalena and Cauca rivers during the last week",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/alerta-por-caida-en-caudal-de-los-rios-magdalena-y-cauca-en-la-ultima-semana-4453309",
+        "published_date": "2026-08-07 05:02:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cLosses of more than $12.4 billion were generated by 2,800 blockades in four years\u201d",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/inside-lr-con-arnulfo-cuervo-presidente-de-fedetranscarga-sobre-impacto-de-los-bloqueos-4451837",
+        "published_date": "2026-08-07 05:01:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tremor in Colombia |Earthquake during the night of this Thursday, August 6: epicenter, magnitude and depth",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-en-colombia-sismo-durante-la-noche-de-este-jueves-6-de-agosto-epicentro-magnitud-y-profundidad-3576833",
+        "published_date": "2026-08-07 04:56:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mayor Carlos Fernando Gal\u00e1n delivered the bridge between 153rd Street and Autopista Norte",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/alcalde-carlos-fernando-galan-entrego-el-puente-de-la-calle-153-con-autopista-norte-4453483",
+        "published_date": "2026-08-07 03:47:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "Restrepo met with the director of Propac\u00edfico and 22 other businessmen from Valle del Cauca",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/restrepo-se-reunio-con-directora-de-propacifico-y-otros-22-empresarios-de-valle-del-cauca-4453394",
+        "published_date": "2026-08-07 01:43:16",
+        "category": "Local Events"
+    },
+    {
         "title": "This is how they interpret the Petro balloon of the liberating guards on the ground",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/silla-nacional/asi-interpretan-en-el-terreno-el-globo-de-petro-de-las-guardias-libertadoras/",
         "published_date": "2026-08-07 01:34:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Sound architecture and avant-garde: Cali welcomes Deborah De Luca at an international electronics summit",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/arquitectura-sonora-y-vanguardia-cali-recibe-a-deborah-de-luca-en-una-cumbre-de-la-electronica-internacional-3576829",
+        "published_date": "2026-08-07 01:28:48",
         "category": "Local Events"
     },
     {
@@ -522,62 +592,6 @@
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/otras-ciudades/entre-lagrimas-miembro-de-fundacion-de-animales-rescatados-en-san-andres-islas-denuncia-que-fueron-victimas-de-robo-nos-dejaron-sin-nada-3576742",
         "published_date": "2026-08-06 17:24:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "They report a strong explosion of a mill in a mine in Marmato, Caldas: there are 20 people injured and 2 of them seriously",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/reportan-explosion-de-un-molino-en-una-mina-de-marmato-caldas-hay-14-personas-lesionadas-y-1-mas-desaparecida-3576714",
-        "published_date": "2026-08-06 16:38:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "Barrancabermeja activates yellow hospital alert due to presidential inauguration of Abelardo De La Espriella",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/barrancabermeja-activa-alerta-amarilla-hospitalaria-por-posesion-presidencial-de-abelardo-de-la-espriella-3576708",
-        "published_date": "2026-08-06 16:07:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "Authorities offer up to $50 million reward to achieve the release of David Rodr\u00edguez G\u00f3mez, ICBF contractor in Uribia, La Guajira",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/autoridades-ofrecen-hasta-50-millones-de-recompensa-para-lograr-la-liberacion-de-david-rodriguez-gomez-contratista-del-icbf-en-uribia-la-guajira-3576715",
-        "published_date": "2026-08-06 15:40:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "One-year TES rate fell by 123 basis points after presidential elections",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/tasa-de-los-tes-a-un-ano-cayeron-en-123-puntos-basicos-despues-de-elecciones-4452589",
-        "published_date": "2026-08-06 15:24:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tragedy in Medell\u00edn: Alejandro Grajales, the 15-year-old silletero boy reported missing, is found dead in a forested area of \u200b\u200bSanta Elena",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/tragedia-en-medellin-hallan-sin-vida-en-zona-boscosa-de-santa-elena-a-alejandro-grajales-el-joven-silletero-de-15-anos-reportado-como-desaparecido-3576699",
-        "published_date": "2026-08-06 15:08:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "C\u00e9sar Arias will be the general director of Public Credit of the Government of Espriella",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/cesar-arias-sera-el-director-de-credito-publico-del-gobierno-de-la-espriella-4452515",
-        "published_date": "2026-08-06 13:38:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Analdex warned about delays of up to four days in import registrations",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/analdex-alerto-por-demoras-de-hasta-cuatro-dias-en-registros-de-importacion-4452464",
-        "published_date": "2026-08-06 12:53:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "Breakfast informed with the movements of this August 6, 2026",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-movidas-de-este-6-de-agosto-de-2026/",
-        "published_date": "2026-08-06 12:41:43",
         "category": "Local Events"
     }
 ]
