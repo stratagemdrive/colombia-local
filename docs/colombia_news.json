@@ -1,5 +1,12 @@
 [
     {
+        "title": "US announces USD 1 billion package for new government",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/ee-uu-anuncia-paquete-de-usd-1-000-millones-para-el-nuevo-gobierno/",
+        "published_date": "2026-08-08 13:44:26",
+        "category": "Diplomacy"
+    },
+    {
         "title": "The mobilization around the monument to the Resistance during August 7 in Cali: this is how the day passed",
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/cali/la-movilizacion-alrededor-del-monumento-a-la-resistencia-durante-el-7-de-agosto-en-cali-asi-transcurrio-la-jornada-3576941",
@@ -47,6 +54,34 @@
         "url": "https://www.eltiempo.com/colombia/cali/alerta-naranja-del-volcan-purace-se-invita-a-la-ciudadania-a-mantener-la-calma-y-seguir-las-recomendaciones-dice-la-gobernacion-del-cauca-3575475",
         "published_date": "2026-08-01 14:11:26",
         "category": "Diplomacy"
+    },
+    {
+        "title": "The first Security Council defined the regional strategy",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/el-primer-consejo-de-seguridad-definio-la-estrategia-regional/",
+        "published_date": "2026-08-08 17:39:03",
+        "category": "Military"
+    },
+    {
+        "title": "Abelardo ordered the transfer of 117 prisoners linked to peace talks",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/abelardo-ordeno-trasladar-a-117-presos-vinculados-a-dialogos-de-paz/",
+        "published_date": "2026-08-08 16:17:50",
+        "category": "Military"
+    },
+    {
+        "title": "Drone attack against Police substation in Cesar leaves one uniformed officer dead and another injured: authorities reject attack",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/ataque-con-drones-contra-subestacion-de-policia-en-cesar-deja-un-uniformado-muerto-y-otro-herido-autoridades-rechazan-atentado-3577025",
+        "published_date": "2026-08-08 13:45:18",
+        "category": "Military"
+    },
+    {
+        "title": "Night of terror and fear in three municipalities in the north of Nari\u00f1o: multiple harassments against police stations were recorded",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/noche-de-terror-y-miedo-en-tres-municipios-del-norte-de-narino-se-registraron-multiples-hostigamientos-contra-estaciones-de-policia-3577010",
+        "published_date": "2026-08-08 11:09:52",
+        "category": "Military"
     },
     {
         "title": "Keys to Abelardo's first speech: security, health and cultural battle",
@@ -161,32 +196,11 @@
         "category": "Military"
     },
     {
-        "title": "Barranquilla gains weight in the security strategy of the new Government with the arrival of the Police Subdirectorate",
+        "title": "What is behind the dissident attacks in Tolima and Huila?Extortion, illegal mining and the war over territory that has the region on alert",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-gana-peso-en-la-estrategia-de-seguridad-del-nuevo-gobierno-con-llegada-de-la-subdireccion-de-la-policia-3576155",
-        "published_date": "2026-08-04 16:21:50",
-        "category": "Military"
-    },
-    {
-        "title": "Mayors support Abelardo De La Espriella's security plan and propose five priorities to regain control of the cities",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/alcaldes-respaldan-plan-de-seguridad-de-abelardo-de-la-espriella-y-plantean-cinco-prioridades-para-recuperar-el-control-de-las-ciudades-3576153",
-        "published_date": "2026-08-04 16:01:41",
-        "category": "Military"
-    },
-    {
-        "title": "Abelardo De La Espriella launches the Urban Security Blocks to coordinate mayors, Police and Government against crime in Colombia",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/abelardo-de-la-espriella-lanza-los-bloques-de-seguridad-urbana-para-coordinar-a-alcaldes-policia-y-gobierno-contra-el-crimen-en-colombia-3576136",
-        "published_date": "2026-08-04 15:04:28",
-        "category": "Military"
-    },
-    {
-        "title": "Repealing the Appa while we face El Ni\u00f1o could be foolish",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-rural/derogar-las-appa-mientras-afrontamos-el-nino-podria-ser-una-necedad/",
-        "published_date": "2026-08-04 13:00:00",
-        "category": "Military"
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/que-hay-detras-de-ataques-de-disidencias-en-tolima-y-huila-extorsiones-mineria-ilegal-y-la-guerra-por-el-territorio-que-tiene-en-alerta-a-la-region-3577013",
+        "published_date": "2026-08-08 11:34:29",
+        "category": "Energy"
     },
     {
         "title": "Abelardo announces tax reform and end of wealth tax",
@@ -322,11 +336,18 @@
         "category": "Energy"
     },
     {
-        "title": "Although exports grew 7% in June, sales of coffee and flowers fell",
+        "title": "\"They leave us with the largest fiscal deficit in our history\", new Minister of Finance",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/aunque-exportaciones-crecieron-7-en-junio-cayeron-ventas-de-cafe-y-flores-4451017",
-        "published_date": "2026-08-04 16:06:13",
-        "category": "Energy"
+        "url": "https://www.larepublica.co/economia/declaraciones-de-miguel-gomez-nuevo-ministro-de-hacienda-4453970",
+        "published_date": "2026-08-08 20:11:08",
+        "category": "Economy"
+    },
+    {
+        "title": "Former director of Fedesarrollo qualifies the elimination of the wealth tax as \"necessary\"",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/luid-fernando-mejia-califica-como-necesaria-la-eliminacion-de-impuesto-al-patrimonio-4453886",
+        "published_date": "2026-08-08 17:02:51",
+        "category": "Economy"
     },
     {
         "title": "De la Espriella will have to face a deficit of 6.4% and an adjustment of $70 billion",
@@ -427,18 +448,130 @@
         "category": "Economy"
     },
     {
-        "title": "In the last meeting in \u00c1vila, the Bank of the Republic kept rates unchanged at 12%",
+        "title": "MinInterior suspends new contracts and appointments until August 20",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/en-la-ultima-reunion-de-avila-el-banco-de-la-republica-mantuvo-las-tasas-en-12-4448652",
-        "published_date": "2026-07-31 19:45:12",
-        "category": "Economy"
+        "url": "https://www.larepublica.co/economia/mininterior-suspende-nuevos-contratos-y-nombramientos-hasta-el-20-de-agosto-4453988",
+        "published_date": "2026-08-08 21:53:13",
+        "category": "Local Events"
     },
     {
-        "title": "Board of Directors of the Bank of the Republic decided to keep the rate unchanged at 12%",
+        "title": "Cabal called for the split of the Democratic Center to create his own party",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/cabal-pidio-la-escision-del-centro-democratico-para-crear-su-propio-partido/",
+        "published_date": "2026-08-08 21:45:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Democratic Center requested to review $60.2 billion of the 2027 Budget",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/siga-el-cubrimiento-de-la-decision-de-tasas-de-julio-del-banco-de-la-republica-4448551",
-        "published_date": "2026-07-31 17:33:35",
-        "category": "Economy"
+        "url": "https://www.larepublica.co/economia/centro-democratico-solicita-revisar-60-2-billones-del-presupuesto-de-2027-4453983",
+        "published_date": "2026-08-08 21:28:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "The keys to De la Espriella's possession",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/opinion/las-claves-de-la-posesion-de-de-la-espriella/",
+        "published_date": "2026-08-08 21:27:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "Lawyer Andr\u00e9s Felipe Vel\u00e1squez would be the new general director of Dian",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/el-abogado-andres-felipe-velasquez-seria-el-nuevo-director-general-de-la-dian-4453981",
+        "published_date": "2026-08-08 21:24:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "Colombia recognizes Morocco's sovereignty over Western Sahara",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/colombia-reconoce-la-soberania-de-marruecos-sobre-el-sahara-occidental/",
+        "published_date": "2026-08-08 18:35:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "Essmar returns to the hands of the District after almost five years of intervention, the Mayor's Office of Santa Marta takes on the challenge of water and sewage",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/essmar-regresa-a-manos-del-distrito-tras-casi-cinco-anos-intervenida-la-alcaldia-de-santa-marta-asume-el-reto-del-agua-y-el-alcantarillado-3577044",
+        "published_date": "2026-08-08 17:01:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "Analyze the decisions that define the course of the country with La Silla Vac\u00eda",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/analice-las-decisiones-que-definen-el-rumbo-del-pais-con-la-silla-vacia/",
+        "published_date": "2026-08-08 17:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "More than 500 artists graduate from the EDA in Barranquilla: 1,300 young people now compete for 600 new places",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/mas-de-500-artistas-se-graduan-de-la-eda-en-barranquilla-1-300-jovenes-compiten-ahora-por-600-nuevos-cupos-3577041",
+        "published_date": "2026-08-08 16:29:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "Simultaneous violence in Cauca and Nari\u00f1o raises alerts: attacks, threats and attack on the Pan-American Highway",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/violencia-simultanea-en-cauca-y-narino-enciende-alertas-ataques-amenazas-y-atentado-en-la-via-panamericana-3577033",
+        "published_date": "2026-08-08 15:13:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "Colombia has the best youth symphonic band in the world: they are the young people from Caldas who made history at the Band World Cup in the Netherlands",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/colombia-tiene-la-mejor-banda-sinfonica-juvenil-del-mundo-ellos-son-los-jovenes-de-caldas-que-hicieron-historia-en-mundial-de-bandas-en-paises-bajos-3577032",
+        "published_date": "2026-08-08 15:05:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The story of the operation behind the first order of the government of Abelardo De La Espriella: the massive transfer of prisoners from the Itag\u00fc\u00ed prison",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/la-historia-del-operativo-detras-de-la-primera-orden-del-gobierno-de-abelardo-de-la-espriella-el-masivo-traslado-de-presos-desde-la-carcel-de-itaguei-3577029",
+        "published_date": "2026-08-08 14:51:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "The houses where the Carnival lives all year round: Barranquilla opens its first Memory Points in the popular neighborhoods",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/las-casas-donde-el-carnaval-vive-todo-el-ano-barranquilla-abre-sus-primeros-puntos-de-memoria-en-los-barrios-populares-3577014",
+        "published_date": "2026-08-08 14:30:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "These are the decrees of the first appointments of the De la Espriella government",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/estos-son-los-18-ministros-con-los-que-abelardo-de-la-espriella-comienza-su-mandato-4453827",
+        "published_date": "2026-08-08 14:12:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "Abelardo's minAmbiente pragmatism will be tested by private parties and other news",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/pragmatismo-de-minambiente-de-abelardo-tendra-como-prueba-de-fuego-los-privados-y-otras-noticias/",
+        "published_date": "2026-08-08 14:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "De la Espriella meets with Milei and highlighted his influence on his arrival to the Presidency",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/de-la-espriella-se-reune-con-milei-y-destaco-su-influencia-en-su-llegada-a-la-presidencia-4453820",
+        "published_date": "2026-08-08 13:57:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "Abelardo appointed the 18 ministers of his cabinet",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/abelardo-posesiono-a-los-18-ministros-de-su-gabinete/",
+        "published_date": "2026-08-08 12:55:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tremor in Colombia today, August 8: know magnitude, epicenter and more details",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-en-colombia-hoy-8-de-agosto-conozca-magnitud-epicentro-y-mas-detalles-3577021",
+        "published_date": "2026-08-08 12:35:30",
+        "category": "Local Events"
     },
     {
         "title": "Caribbean time with Abelardo de la Espriella: a cabinet of nevers?",
@@ -452,132 +585,6 @@
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/silla-nacional/el-discurso-de-posesion-el-tigre-que-promete-gobernar-con-limites/",
         "published_date": "2026-08-08 04:50:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Follow the moves of the new government in the course What is happening in Colombia?",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/siga-las-movidas-del-nuevo-gobierno-en-el-cursoque-esta-pasando-en-colombia/",
-        "published_date": "2026-08-08 03:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "In Cali possession is over, but the opposition sit-in continues",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/en-cali-se-acabo-la-posesion-pero-el-planton-opositor-continua/",
-        "published_date": "2026-08-08 01:42:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "In the first half of the year, collection derived from 4x1,000 amounts to more than $8.4 billion",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/en-el-primer-semestre-del-ano-recaudo-derivado-por-4x1-000-suma-mas-de-8-4-billones-4453745",
-        "published_date": "2026-08-08 00:33:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "Is the Cali Cultural Center ending as an alternative headquarters for the Presidency of the Republic of Colombia?",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/se-acaba-el-centro-cultural-de-cali-por-ser-sede-alternativa-de-la-presidencia-de-la-republica-de-colombia-3576989",
-        "published_date": "2026-08-08 00:06:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cali Mayor's Office offers $50 million pesos for information that allows the capture of those responsible for the fire on Cerro de Cristo Rey",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/alcaldia-de-cali-ofrece-50-millones-de-pesos-por-informacion-que-permita-capturar-a-responsables-del-incendio-provocado-en-el-cerro-de-cristo-rey-3576988",
-        "published_date": "2026-08-07 23:32:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "God in possession: a rabbi, a priest and a pastor spoke without Abelardo",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/dios-en-la-posesion-un-rabino-un-cura-y-un-pastor-hablaron-sin-abelardo/",
-        "published_date": "2026-08-07 22:56:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "Coastal power in the presidential inauguration",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/el-poder-costeno-en-la-posesion-presidencial/",
-        "published_date": "2026-08-07 22:41:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cMay we live up to the responsibility\u201d: president of the Senate",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/que-estemos-a-la-altura-de-la-responsabilidad-presidente-del-senado/",
-        "published_date": "2026-08-07 22:38:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "Abelardo takes oath as president of Colombia",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/abelardo-toma-juramento-como-presidente-de-colombia/",
-        "published_date": "2026-08-07 21:41:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "Abelardo arrives at his possession: selfies and hugs with allies",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/abelardo-llega-a-su-posesion-selfies-y-abrazos-con-aliados/",
-        "published_date": "2026-08-07 21:31:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "Veterans of the armed forces, special guests of Abelardo",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/los-veteranos-de-las-fuerzas-armadas-invitados-especiales-de-abelardo/",
-        "published_date": "2026-08-07 21:07:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "Even the president of Conmebol is in possession of Abelardo",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/hasta-el-presidente-de-conmebol-esta-en-la-posesion-de-abelardo/",
-        "published_date": "2026-08-07 20:28:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Gilinskis: VIP guests at Abelardo's possession",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/los-gilinski-invitados-vip-en-la-posesion-de-abelardo/",
-        "published_date": "2026-08-07 20:18:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "Follow the inauguration of Abelardo de la Espriella live for the 2026-2030 presidential period",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/siga-en-vivo-la-posesion-presidencial-de-abelardo-de-la-espriella-para-el-periodo-2026-2030-4453693",
-        "published_date": "2026-08-07 20:18:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "Inside the possession session: cultural war and jet set",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/dentro-de-la-sesion-de-la-posesion-guerra-cultural-y-jet-set/",
-        "published_date": "2026-08-07 20:00:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "Alert for a raging fire on the Cristo Rey tutelary hill in the vicinity of the Cali Zoo: a building was evacuated due to risks",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/alerta-por-un-voraz-incendio-en-el-cerro-tutelar-de-cristo-rey-en-inmediaciones-del-zoologico-de-cali-un-edificio-fue-evacuado-por-riesgos-3576959",
-        "published_date": "2026-08-07 19:49:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "This will be the inauguration of Abelardo de la Espriella as the new president of Colombia",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/asi-sera-la-posesion-de-abelardo-de-la-espriella-como-nuevo-presidente-4453661",
-        "published_date": "2026-08-07 19:05:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Union leaders call for unity a few hours before the presidential inauguration",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/dirigentes-gremiales-llaman-a-la-unidad-a-pocas-horas-de-la-posesion-de-de-la-espriella-4453637",
-        "published_date": "2026-08-07 18:23:36",
         "category": "Local Events"
     }
 ]
