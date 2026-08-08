@@ -1,5 +1,12 @@
 [
     {
+        "title": "The mobilization around the monument to the Resistance during August 7 in Cali: this is how the day passed",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/la-movilizacion-alrededor-del-monumento-a-la-resistencia-durante-el-7-de-agosto-en-cali-asi-transcurrio-la-jornada-3576941",
+        "published_date": "2026-08-07 20:10:56",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Infantino, the president of Fifa, leaves Abelardo's possession",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/infantino-el-presidente-de-la-fifa-se-baja-de-la-posesion-de-abelardo/",
@@ -40,6 +47,27 @@
         "url": "https://www.eltiempo.com/colombia/cali/alerta-naranja-del-volcan-purace-se-invita-a-la-ciudadania-a-mantener-la-calma-y-seguir-las-recomendaciones-dice-la-gobernacion-del-cauca-3575475",
         "published_date": "2026-08-01 14:11:26",
         "category": "Diplomacy"
+    },
+    {
+        "title": "Keys to Abelardo's first speech: security, health and cultural battle",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/claves-del-primer-discurso-de-abelardo-seguridad-salud-y-batalla-cultural/",
+        "published_date": "2026-08-08 04:49:32",
+        "category": "Military"
+    },
+    {
+        "title": "Abelardo has already begun to appoint the ministers of his cabinet",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/abelardo-ya-comenzo-a-posesionar-a-los-ministros-de-su-gabinete/",
+        "published_date": "2026-08-08 02:00:33",
+        "category": "Military"
+    },
+    {
+        "title": "An explosive device was thrown at the headquarters of the Metropolitan Police of Pasto: no deaths or injuries were recorded",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/un-artefacto-explosivo-fue-lanzado-contra-la-sede-de-la-policia-metropolitana-de-pasto-no-se-registraron-muertos-ni-heridos-3576956",
+        "published_date": "2026-08-07 19:38:13",
+        "category": "Military"
     },
     {
         "title": "Cali reports normality in public order as the day of possession progresses",
@@ -161,25 +189,11 @@
         "category": "Military"
     },
     {
-        "title": "Cneb sent a letter to Abelardo reiterating commitment to peace",
+        "title": "Abelardo announces tax reform and end of wealth tax",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/cneb-envio-carta-a-abelardo-reiterando-compromiso-con-la-paz/",
-        "published_date": "2026-08-03 23:48:39",
-        "category": "Military"
-    },
-    {
-        "title": "Patriot Plan 2.0: the risks of repeating history",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/plan-patriota-2-0-los-riesgos-de-repetir-la-historia/",
-        "published_date": "2026-08-03 23:00:00",
-        "category": "Military"
-    },
-    {
-        "title": "This was the delivery of 16 dissidents to the Army in Nari\u00f1o: they belonged to the armed group that was in negotiations with the National Government",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/asi-fue-la-entrega-de-16-disidentes-al-ejercito-en-narino-pertenecian-al-grupo-armado-que-estuvo-en-negociaciones-con-el-gobierno-nacional-3575923",
-        "published_date": "2026-08-03 18:25:31",
-        "category": "Military"
+        "url": "https://www.lasillavacia.com/en-vivo/abelardo-anuncia-reforma-tributaria-y-fin-de-impuesto-al-patrimonio/",
+        "published_date": "2026-08-07 23:41:35",
+        "category": "Energy"
     },
     {
         "title": "\"In the next few hours I will sign the decree freezing public spending\"",
@@ -315,13 +329,6 @@
         "category": "Energy"
     },
     {
-        "title": "Government subsidized $8,000 a gallon of diesel and $1,500 a gallon of electricity in the first semester",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/gobierno-subsidio-8-500-del-galon-de-diesel-y-1-000-de-corriente-a-junio-4450936",
-        "published_date": "2026-08-04 15:47:37",
-        "category": "Energy"
-    },
-    {
         "title": "De la Espriella will have to face a deficit of 6.4% and an adjustment of $70 billion",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/de-la-espriella-tendra-que-afrontar-un-deficit-de-6-4-y-un-ajuste-de-70-billones-4453675",
@@ -434,18 +441,53 @@
         "category": "Economy"
     },
     {
-        "title": "Elected government will assume fiscal tightness, TRM at a minimum and high inflation",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/gobierno-electo-asumira-estrechez-fiscal-trm-en-minimos-y-una-inflacion-acelerada-4447852",
-        "published_date": "2026-07-31 05:01:18",
-        "category": "Economy"
+        "title": "Caribbean time with Abelardo de la Espriella: a cabinet of nevers?",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/opinion/la-hora-del-caribe-con-abelardo-de-la-espriella-un-gabinete-de-los-nunca/",
+        "published_date": "2026-08-08 10:00:00",
+        "category": "Local Events"
     },
     {
-        "title": "The last meeting of Germ\u00e1n \u00c1vila at the Bank of the Republic with SOS per dollar at $3,100",
+        "title": "The inauguration speech: the Tiger who promises to govern with limits",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/el-discurso-de-posesion-el-tigre-que-promete-gobernar-con-limites/",
+        "published_date": "2026-08-08 04:50:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "Follow the moves of the new government in the course What is happening in Colombia?",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/siga-las-movidas-del-nuevo-gobierno-en-el-cursoque-esta-pasando-en-colombia/",
+        "published_date": "2026-08-08 03:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "In Cali possession is over, but the opposition sit-in continues",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/en-cali-se-acabo-la-posesion-pero-el-planton-opositor-continua/",
+        "published_date": "2026-08-08 01:42:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "In the first half of the year, collection derived from 4x1,000 amounts to more than $8.4 billion",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/ultima-junta-de-avila-en-el-banco-de-la-republica-con-sos-por-dolar-a-3-100-4447930",
-        "published_date": "2026-07-31 05:01:01",
-        "category": "Economy"
+        "url": "https://www.larepublica.co/economia/en-el-primer-semestre-del-ano-recaudo-derivado-por-4x1-000-suma-mas-de-8-4-billones-4453745",
+        "published_date": "2026-08-08 00:33:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "Is the Cali Cultural Center ending as an alternative headquarters for the Presidency of the Republic of Colombia?",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/se-acaba-el-centro-cultural-de-cali-por-ser-sede-alternativa-de-la-presidencia-de-la-republica-de-colombia-3576989",
+        "published_date": "2026-08-08 00:06:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cali Mayor's Office offers $50 million pesos for information that allows the capture of those responsible for the fire on Cerro de Cristo Rey",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/alcaldia-de-cali-ofrece-50-millones-de-pesos-por-informacion-que-permita-capturar-a-responsables-del-incendio-provocado-en-el-cerro-de-cristo-rey-3576988",
+        "published_date": "2026-08-07 23:32:12",
+        "category": "Local Events"
     },
     {
         "title": "God in possession: a rabbi, a priest and a pastor spoke without Abelardo",
@@ -518,6 +560,13 @@
         "category": "Local Events"
     },
     {
+        "title": "Alert for a raging fire on the Cristo Rey tutelary hill in the vicinity of the Cali Zoo: a building was evacuated due to risks",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/alerta-por-un-voraz-incendio-en-el-cerro-tutelar-de-cristo-rey-en-inmediaciones-del-zoologico-de-cali-un-edificio-fue-evacuado-por-riesgos-3576959",
+        "published_date": "2026-08-07 19:49:04",
+        "category": "Local Events"
+    },
+    {
         "title": "This will be the inauguration of Abelardo de la Espriella as the new president of Colombia",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/asi-sera-la-posesion-de-abelardo-de-la-espriella-como-nuevo-presidente-4453661",
@@ -529,62 +578,6 @@
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/dirigentes-gremiales-llaman-a-la-unidad-a-pocas-horas-de-la-posesion-de-de-la-espriella-4453637",
         "published_date": "2026-08-07 18:23:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "De la Espriella took office as president, but there is still no director of the DNP",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/de-la-espriella-se-posesiono-como-presidente-pero-aun-no-hay-director-del-dnp-4453641",
-        "published_date": "2026-08-07 18:19:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "103 prisoners were transferred from the Itag\u00fc\u00ed prison to other prisons in the country: 'Douglas', 'Carlos Pesebre' and 'El Indio' will be relocated",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/103-presos-fueron-trasladados-desde-la-carcel-de-itaguei-a-otras-prisiones-del-pais-douglas-carlos-pesebre-y-el-indio-seran-reubicados-3576912",
-        "published_date": "2026-08-07 17:53:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "The debt of the Petro government with human rights defenders",
-        "source": "Verdad Abierta",
-        "url": "https://verdadabierta.com/la-deuda-del-gobierno-petro-con-los-defensores-de-derechos-humanos/",
-        "published_date": "2026-08-07 17:30:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "Is the truth coming?Forensic teams carry out work in a house in the North of Antioquia in search of the body of engineer Camilo Pel\u00e1ez",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/se-acerca-la-verdad-equipos-forenses-adelantan-labores-en-una-vivienda-del-norte-de-antioquia-en-busca-del-cuerpo-del-ingeniero-camilo-pelaez-3576894",
-        "published_date": "2026-08-07 14:44:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "Iv\u00e1n Cepeda opens the opposition to Abelardo De La Espriella from Barranquilla and questions the legitimacy of his Government: 'Insurmountable incompatibility'",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/cepeda-abre-desde-barranquilla-la-oposicion-a-de-la-espriella-y-cuestiona-la-legitimidad-de-su-gobierno-3576878",
-        "published_date": "2026-08-07 14:25:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "It trembled twice in Colombia this August 7: know magnitude, depth and exact location",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblo-dos-veces-en-colombia-este-7-de-agosto-conozca-magnitud-profundidad-y-lugar-exacto-3576890",
-        "published_date": "2026-08-07 14:21:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "These are the international guests who arrive at De la Espriella's possession",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/cali-recibe-a-felipe-vi-e-infantino-antes-de-la-posesion-de-abelardo-de-la-espriella-4453587",
-        "published_date": "2026-08-07 13:35:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "'Petro's government was a criminal government from beginning to end': Federico Guti\u00e9rrez, mayor of Medell\u00edn, prior to the inauguration of Abelardo De La Espriella",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/el-de-petro-fue-un-gobierno-criminal-de-principio-a-fin-federico-gutierrez-alcalde-de-medellin-previo-a-posesion-de-abelardo-de-la-espriella-3576883",
-        "published_date": "2026-08-07 13:29:30",
         "category": "Local Events"
     }
 ]
