@@ -434,18 +434,46 @@
         "category": "Economy"
     },
     {
-        "title": "The Bank of the Republic leaves rates at 12% and will begin to buy reserves per dollar",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/emisor-deja-tasas-en-12-y-empezara-a-comprar-reservas-por-dolar-barato-4447244",
-        "published_date": "2026-08-01 05:03:09",
-        "category": "Economy"
+        "title": "The fronts of the \u201ccultural war\u201d in the De la Espriella government",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/los-frentes-de-la-guerra-cultural-en-el-gobierno-de-la-espriella/",
+        "published_date": "2026-08-09 05:05:00",
+        "category": "Local Events"
     },
     {
-        "title": "Sleep informed with the keys for this Friday, July 31",
+        "title": "They found lifeless in Cartagena who would be one of the two crew members missing after the shipwreck of a boat",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/hallaron-sin-vida-en-cartagena-a-quien-seria-uno-de-los-dos-tripulantes-desaparecidos-tras-el-naufragio-de-una-embarcacion-3577099",
+        "published_date": "2026-08-09 04:44:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "Faith in victory: journey to the possession of Abelardo De La Espriella",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-claves-de-este-viernes-31-de-julio/",
-        "published_date": "2026-08-01 00:00:00",
-        "category": "Economy"
+        "url": "https://www.lasillavacia.com/silla-nacional/fe-en-la-victoria-viaje-a-la-posesion-de-abelardo-de-la-espriella/",
+        "published_date": "2026-08-09 03:52:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "To God what belongs to God, and to the State what belongs to all!",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-derecho-constitucional/a-dios-lo-que-es-de-dios-y-al-estado-lo-que-es-de-todos/",
+        "published_date": "2026-08-09 01:30:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ten years raising awareness: the Cali festival that brings environmental cinema to Pacific communities now inspires Latin America",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/diez-anos-sembrando-conciencia-el-festival-caleno-que-lleva-el-cine-ambiental-a-las-comunidades-del-pacifico-ahora-inspira-a-america-latina-3577093",
+        "published_date": "2026-08-09 00:21:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "'Catch it': Mar\u00eda Roa Borja, the leader who dignified domestic workers and now inspires Colombia from television",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/meterle-capricho-maria-roa-borja-la-lider-que-dignifico-a-las-trabajadoras-domesticas-y-ahora-inspira-a-colombia-desde-la-television-3577096",
+        "published_date": "2026-08-09 00:18:01",
+        "category": "Local Events"
     },
     {
         "title": "MinInterior suspends new contracts and appointments until August 20",
@@ -459,6 +487,13 @@
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/cabal-pidio-la-escision-del-centro-democratico-para-crear-su-propio-partido/",
         "published_date": "2026-08-08 21:45:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "This is the family of Abelardo De La Espriella: his roots in C\u00f3rdoba, his wife and children and the story behind the new president of Colombia",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/esta-es-la-familia-de-abelardo-de-la-espriella-sus-raices-en-cordoba-su-esposa-e-hijos-y-la-historia-detras-del-nuevo-presidente-de-colombia-3577073",
+        "published_date": "2026-08-08 21:44:16",
         "category": "Local Events"
     },
     {
@@ -487,6 +522,13 @@
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/colombia-reconoce-la-soberania-de-marruecos-sobre-el-sahara-occidental/",
         "published_date": "2026-08-08 18:35:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "Governor of Valle proposed launching a pilot to replace illicit crops in the department;National Government announced support for key projects",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/gobernadora-del-valle-propuso-lanzar-piloto-de-sustitucion-de-cultivos-ilicitos-en-el-departamento-gobierno-nacional-anuncio-apoyo-a-proyectos-clave-3577036",
+        "published_date": "2026-08-08 18:28:11",
         "category": "Local Events"
     },
     {
@@ -529,62 +571,6 @@
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/medellin/la-historia-del-operativo-detras-de-la-primera-orden-del-gobierno-de-abelardo-de-la-espriella-el-masivo-traslado-de-presos-desde-la-carcel-de-itaguei-3577029",
         "published_date": "2026-08-08 14:51:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "The houses where the Carnival lives all year round: Barranquilla opens its first Memory Points in the popular neighborhoods",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/las-casas-donde-el-carnaval-vive-todo-el-ano-barranquilla-abre-sus-primeros-puntos-de-memoria-en-los-barrios-populares-3577014",
-        "published_date": "2026-08-08 14:30:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "These are the decrees of the first appointments of the De la Espriella government",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/estos-son-los-18-ministros-con-los-que-abelardo-de-la-espriella-comienza-su-mandato-4453827",
-        "published_date": "2026-08-08 14:12:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "Abelardo's minAmbiente pragmatism will be tested by private parties and other news",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/pragmatismo-de-minambiente-de-abelardo-tendra-como-prueba-de-fuego-los-privados-y-otras-noticias/",
-        "published_date": "2026-08-08 14:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "De la Espriella meets with Milei and highlighted his influence on his arrival to the Presidency",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/de-la-espriella-se-reune-con-milei-y-destaco-su-influencia-en-su-llegada-a-la-presidencia-4453820",
-        "published_date": "2026-08-08 13:57:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "Abelardo appointed the 18 ministers of his cabinet",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/abelardo-posesiono-a-los-18-ministros-de-su-gabinete/",
-        "published_date": "2026-08-08 12:55:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tremor in Colombia today, August 8: know magnitude, epicenter and more details",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-en-colombia-hoy-8-de-agosto-conozca-magnitud-epicentro-y-mas-detalles-3577021",
-        "published_date": "2026-08-08 12:35:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "Caribbean time with Abelardo de la Espriella: a cabinet of nevers?",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/opinion/la-hora-del-caribe-con-abelardo-de-la-espriella-un-gabinete-de-los-nunca/",
-        "published_date": "2026-08-08 10:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The inauguration speech: the Tiger who promises to govern with limits",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/el-discurso-de-posesion-el-tigre-que-promete-gobernar-con-limites/",
-        "published_date": "2026-08-08 04:50:32",
         "category": "Local Events"
     }
 ]
