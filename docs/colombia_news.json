@@ -63,10 +63,24 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Government of Tolima offers up to $100 million for three leaders of the FARC dissidents and announces military reinforcement in four municipalities",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/gobernacion-del-tolima-ofrece-hasta-100-millones-por-tres-cabecillas-de-las-disidencias-de-las-farc-y-anuncia-refuerzo-militar-en-cuatro-municipios-3577222",
+        "published_date": "2026-08-10 01:34:00",
+        "category": "Military"
+    },
+    {
         "title": "Cauca: There have been six hours of combat between the Army and Mordisco dissidents",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/cauca-van-seis-horas-de-combate-entre-ejercito-y-disidencia-de-mordisco/",
         "published_date": "2026-08-09 21:07:57",
+        "category": "Military"
+    },
+    {
+        "title": "Army denies fake soldier viral on social networks who was exalted by former president Gustavo Petro: 'He does not belong to the institution'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/ejercito-desmiente-a-falso-soldado-viral-en-redes-sociales-que-fue-exaltado-por-el-expresidente-gustavo-petro-no-pertenece-a-la-institucion-3577180",
+        "published_date": "2026-08-09 20:02:30",
         "category": "Military"
     },
     {
@@ -186,20 +200,6 @@
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/otras-ciudades/asi-termino-un-intento-de-robo-en-cucuta-presunto-delincuente-murio-en-un-cruce-de-disparos-con-la-policia-autoridades-buscan-al-complice-que-escapo-3576491",
         "published_date": "2026-08-05 17:42:28",
-        "category": "Military"
-    },
-    {
-        "title": "Abelardo appoints General (r) Alejandro Barrera as Director of the Police",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/abelardo-designa-a-general-r-alejandro-barrera-como-director-de-la-policia/",
-        "published_date": "2026-08-04 21:40:49",
-        "category": "Military"
-    },
-    {
-        "title": "After De La Espriella's announcement, Mayor Char celebrates the arrival of the Police Subdirectorate to Barranquilla: 'It will strengthen the country's security'",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/tras-anuncio-de-de-la-espriella-alcalde-char-celebra-llegada-de-la-subdireccion-de-la-policia-a-barranquilla-fortalecera-la-seguridad-del-pais-3576236",
-        "published_date": "2026-08-04 20:01:00",
         "category": "Military"
     },
     {
@@ -441,6 +441,69 @@
         "category": "Economy"
     },
     {
+        "title": "President Abelardo De La Espriella attended the Silleteros Parade that closed the 70th edition of the Flower Fair",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/el-presidente-abelardo-de-la-espriella-asistio-al-desfile-de-silleteros-con-el-que-se-dio-cierre-a-la-edicion-numero-70-de-la-feria-de-las-flores-3577171",
+        "published_date": "2026-08-10 06:23:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "Who is H\u00e9ctor Olimpo Espinosa Oliver",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-hector-olimpo-espinosa-oliver/",
+        "published_date": "2026-08-10 06:15:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The circle of power with which De La Espriella takes off",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/el-circulo-de-poder-con-el-que-despega-de-la-espriella/",
+        "published_date": "2026-08-10 06:08:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Who is Juan Fernando Caicedo Callejas",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-juan-fernando-caicedo-callejas/",
+        "published_date": "2026-08-10 05:06:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "This is the digital impact of the 20 members of the presidential cabinet of the new government",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/asi-es-el-impacto-digital-de-los-20-miembros-del-gabinete-presidencial-del-gobierno-4452125",
+        "published_date": "2026-08-10 05:01:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "Dane will reveal the number of informal workers for the moving quarter April to June",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/dane-revelara-el-numero-de-ocupados-informales-para-el-trimestre-movil-abril-a-junio-4453421",
+        "published_date": "2026-08-10 05:01:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "Who is Mar\u00eda Ang\u00e9lica Guerra L\u00f3pez",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-maria-angelica-guerra-lopez/",
+        "published_date": "2026-08-10 04:50:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "Who is Mar\u00eda Clara Posada Caicedo",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-maria-clara-posada-caicedo/",
+        "published_date": "2026-08-10 04:30:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "Who is Julia Correa Nuttin",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-julia-correa-nuttin/",
+        "published_date": "2026-08-10 04:13:55",
+        "category": "Local Events"
+    },
+    {
         "title": "\u201cWhat is happening in Colombia?\u201d: a course to analyze the new Government",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/que-esta-pasando-en-colombia-un-curso-para-analizar-el-nuevo-gobierno/",
@@ -515,69 +578,6 @@
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/medellin/video-con-licor-musica-y-simbolos-de-las-disidencias-despidieron-a-barbas-uno-de-los-mas-buscados-de-antioquia-asesinado-por-el-clan-del-golfo-3577154",
         "published_date": "2026-08-09 15:13:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tremor today, August 9, on the border of Colombia and Venezuela: know the epicenter, magnitude and more",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-hoy-9-de-agosto-en-la-frontera-de-colombia-y-venezuela-conozca-epicentro-magnitud-y-mas-3577146",
-        "published_date": "2026-08-09 13:27:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "The presidential inauguration of Abelardo De La Espriella in Cali left the region with more than 10,000 million pesos in economic benefits",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/la-posesion-presidencial-de-abelardo-de-la-espriella-en-cali-le-dejo-a-la-region-mas-de-10-000-millones-de-pesos-en-ingresos-3577127",
-        "published_date": "2026-08-09 11:55:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "Burning started by a street dweller caused a serious fire in Pereira near the Megab\u00fas yards and a huge column of smoke covered the city",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/incendio-en-pereira-afecta-deposito-de-chatarra-llantas-y-carros-junto-a-parqueaderos-de-megabus-preocupa-gran-columna-de-humo-que-cubre-la-ciudad-3577133",
-        "published_date": "2026-08-09 11:45:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Eight establishments were closed in Cartagena after operations in Bocagrande, El Laguito and the Historic Center",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/ocho-establecimientos-fueron-cerrados-en-cartagena-tras-operativos-en-bocagrande-el-laguito-y-el-centro-historico-3577120",
-        "published_date": "2026-08-09 10:54:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "This Monday the sanctioning period begins for the new rotation of the pick and plate in Medell\u00edn: this is what you should know",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/este-lunes-comienza-el-periodo-sancionatorio-para-la-nueva-rotacion-del-pico-y-placa-en-medellin-esto-es-lo-que-debe-saber-3577118",
-        "published_date": "2026-08-09 10:46:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Prosecutor's Office accuses 'Negro Ober' of directing an extortion network from prison that would have raised $1,000 million",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/fiscalia-senala-a-negro-ober-de-dirigir-desde-prision-red-de-extorsion-que-habria-recaudado-1-000-millones-3577113",
-        "published_date": "2026-08-09 10:18:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "The fronts of the \u201ccultural war\u201d in the De la Espriella government",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/los-frentes-de-la-guerra-cultural-en-el-gobierno-de-la-espriella/",
-        "published_date": "2026-08-09 05:05:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "They found lifeless in Cartagena who would be one of the two crew members missing after the shipwreck of a boat",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/hallaron-sin-vida-en-cartagena-a-quien-seria-uno-de-los-dos-tripulantes-desaparecidos-tras-el-naufragio-de-una-embarcacion-3577099",
-        "published_date": "2026-08-09 04:44:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Faith in victory: journey to the possession of Abelardo De La Espriella",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/fe-en-la-victoria-viaje-a-la-posesion-de-abelardo-de-la-espriella/",
-        "published_date": "2026-08-09 03:52:34",
         "category": "Local Events"
     }
 ]
