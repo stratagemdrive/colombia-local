@@ -84,11 +84,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Trench or containment?The controversial work in the Monument to the Resistance that reopened the debate about its future in Cali",
+        "title": "Residents of Madrid warn about robberies and increase in homeless people: 'Something can happen at any time'",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/trinchera-o-contencion-la-polemica-obra-en-el-monumento-a-la-resistencia-que-reabrio-el-debate-sobre-su-futuro-en-cali-3575898",
-        "published_date": "2026-08-03 17:23:28",
-        "category": "Diplomacy"
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/habitantes-de-madrid-alertan-por-robos-y-aumento-de-personas-en-condicion-de-calle-puede-pasar-algo-en-cualquier-momento-3576160",
+        "published_date": "2026-08-11 18:03:32",
+        "category": "Military"
     },
     {
         "title": "In Cali, 40 points most affected by the 7.4 earthquake are militarized: there are 1,000 Army men on the streets of the capital of the Valley",
@@ -224,11 +224,18 @@
         "category": "Military"
     },
     {
-        "title": "The shielding at the Valle airport and other points due to the possession of Abelardo De la Espriella in Cali: three platoons at the air terminal",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/el-blindaje-en-el-aeropuerto-del-valle-y-otros-puntos-por-la-posesion-de-abelardo-de-la-espriella-en-cali-tres-pelotones-en-la-terminal-aerea-3576538",
-        "published_date": "2026-08-05 21:31:07",
-        "category": "Military"
+        "title": "Issuer proposes a fiscal adjustment in both ways: increasing income and reducing spending",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/emisor-plantea-un-ajuste-fiscal-por-ambas-vias-aumentar-ingresos-y-reducir-gasto-4455936",
+        "published_date": "2026-08-11 19:02:13",
+        "category": "Energy"
+    },
+    {
+        "title": "Gas imports for thermal demand reach 86% of capacity",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/importaciones-de-gas-para-demanda-termica-alcanzan-86-de-la-capacidad-4455898",
+        "published_date": "2026-08-11 18:37:57",
+        "category": "Energy"
     },
     {
         "title": "Bolivia eliminated its Ministry of the Environment for the second time",
@@ -357,18 +364,18 @@
         "category": "Energy"
     },
     {
-        "title": "Imports of liquefied petroleum gas grew 112% in 2025 compared to 2024",
+        "title": "External debt in May closed at 50.5% of GDP, equivalent to US$242,027 million",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/importaciones-de-gas-licuado-de-petroleo-crecieron-112-en-2025-frente-a-2024-4451776",
-        "published_date": "2026-08-05 14:41:09",
-        "category": "Energy"
+        "url": "https://www.larepublica.co/economia/deuda-externa-en-mayo-cerro-en-50-5-del-pib-lo-que-equivale-a-us-242-027-millones-4456219",
+        "published_date": "2026-08-11 23:16:35",
+        "category": "Economy"
     },
     {
-        "title": "In intensive care: this is how Petro gives De la Espriella health",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/en-cuidados-intensivos-asi-le-entrega-petro-la-salud-a-de-la-espriella/",
-        "published_date": "2026-08-05 06:00:00",
-        "category": "Energy"
+        "title": "Congress returned Budget, Treasury will present it again on August 26",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/congreso-devolvio-proyecto-de-presupuesto-al-gobierno-debera-ajustarse-antes-del-30-de-agosto-4456031",
+        "published_date": "2026-08-11 20:11:17",
+        "category": "Economy"
     },
     {
         "title": "The accommodation sector was the marker of the cost of living during July",
@@ -462,157 +469,143 @@
         "category": "Economy"
     },
     {
-        "title": "Issuer warned that inflation moved away from the target in June due to internal and external pressures",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/emisor-advirtio-que-inflacion-se-alejo-de-la-meta-a-junio-por-presiones-internas-y-externas-4450245",
-        "published_date": "2026-08-03 21:04:41",
-        "category": "Economy"
-    },
-    {
-        "title": "Anif warned that more taxes would hit growth four times more",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/anif-advirtio-que-subir-impuestos-puede-golpear-cuatro-veces-mas-el-crecimiento-4450038",
-        "published_date": "2026-08-03 17:14:04",
-        "category": "Economy"
-    },
-    {
-        "title": "As often happens, nature imposes the agenda on the new president",
+        "title": "More than a course, a year to understand Colombian politics",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/como-suele-pasar-la-naturaleza-le-impone-la-agenda-al-nuevo-presidente/",
-        "published_date": "2026-08-11 11:20:17",
+        "url": "https://www.lasillavacia.com/en-vivo/mas-que-un-curso-un-ano-para-entender-la-politica-colombiana/",
+        "published_date": "2026-08-11 23:00:00",
         "category": "Local Events"
     },
     {
-        "title": "Colombia today, August 11, after the earthquake: the death toll rises to 169 and the number of injured more than 900, according to a new report from Asocapitales",
+        "title": "\u201cIt is important to know how to interpret disasters\u201d",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/es-importante-saber-interpretar-los-desastres/",
+        "published_date": "2026-08-11 22:16:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "Manizales: five people dead, 112 injured and 142 in shelters",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/manizales-cinco-personas-fallecidas-112-heridas-y-142-en-albergues/",
+        "published_date": "2026-08-11 22:14:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Government announced the payment of public services in Risaralda",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/gobierno-anuncio-el-pago-de-los-servicios-publicos-por-tres-meses-en-risaralda-4456109",
+        "published_date": "2026-08-11 21:26:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "How did your cell phone manage to hear the earthquake before you?",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-ciencia-e-innovacion/como-logro-tu-celular-escuchar-el-terremoto-antes-que-tu/",
+        "published_date": "2026-08-11 21:22:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Asocarbono asks to review and adjust the decree that regulates carbon credits",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/asocarbono-pide-revisar-y-ajustar-decreto-que-regula-bonos-de-carbono/",
+        "published_date": "2026-08-11 21:15:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "MinCultura and minTrabajo made their new vice presidents official",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/mincultura-y-mintrabajo-oficializaron-a-sus-nuevas-vices/",
+        "published_date": "2026-08-11 21:13:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "The turn to the extreme right: effects for democracy and rights",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/el-giro-a-la-ultraderecha-efectos-para-la-democracia-y-los-derechos/",
+        "published_date": "2026-08-11 20:57:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "This video shows a school during the earthquake in the Philippines, not Colombia",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/detector-de-mentiras/enganoso/este-video-muestra-un-colegio-durante-el-terremoto-de-filipinas-no-de-colombia/",
+        "published_date": "2026-08-11 19:53:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "Lina Garrido lands at the ANT after criticism for her appointment at the ICA",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/lina-garrido-aterriza-en-la-ant-tras-criticas-por-su-nombramiento-en-el-ica/",
+        "published_date": "2026-08-11 19:33:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "Petro asks the Senate for permission to leave the country",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/petro-pide-permiso-al-senado-para-salir-del-pais/",
+        "published_date": "2026-08-11 19:28:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Lina Mar\u00eda Garrido was appointed director of the National Land Agency",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/lina-maria-garrido-fue-nombrada-directora-de-la-agencia-nacional-de-tierras-4455836",
+        "published_date": "2026-08-11 18:29:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "The search for the Saavedra family in Cali, after the 7.4 earthquake: the rescue of a triplet and the uncertainty of not knowing about the parents",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/terremoto-en-colombia-de-7-4-en-vivo-el-comandante-del-ejercito-nacional-se-encuentra-en-choco-coordinando-las-labores-de-atencion-de-la-emergencia-3577491",
-        "published_date": "2026-08-11 06:26:39",
+        "url": "https://www.eltiempo.com/colombia/cali/la-busqueda-de-la-familia-saavedra-en-cali-tras-el-terremoto-de-7-4-el-rescate-de-una-trilliza-y-la-incertidumbre-por-no-saber-de-los-padres-3577726",
+        "published_date": "2026-08-11 18:16:04",
         "category": "Local Events"
     },
     {
-        "title": "Was the 7.4 earthquake in Colombia related to the double tremor in Venezuela?Geological Service responded if one was a consequence of the other",
+        "title": "Tremor today in Colombia |Two earthquakes were reported on the afternoon of this Tuesday, August 11, after an earthquake of 7.4: users felt them in several cities",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/el-terremoto-de-7-4-en-colombia-tuvo-relacion-con-el-doble-temblor-de-venezuela-servicio-geologico-respondio-si-uno-fue-consecuencia-del-otro-3577496",
-        "published_date": "2026-08-11 06:24:14",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-hoy-en-colombia-reportan-dos-sismos-la-tarde-de-este-martes-11-de-agosto-tras-terremoto-de-7-4-usuarios-los-sintieron-en-varias-ciudades-3577730",
+        "published_date": "2026-08-11 18:14:45",
         "category": "Local Events"
     },
     {
-        "title": "It continues to shake in Choc\u00f3: several tremors today, August 11, in Istmina and San Jos\u00e9 del Palmar, epicenter of the 7.4 magnitude earthquake in Colombia",
+        "title": "Aerial images reveal the damage and devastation left by the 7.4 magnitude earthquake in Colombia: this is how Pereira and Cali were left after a strong tremor",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/seguidilla-de-temblores-en-colombia-en-la-madrugada-de-este-martes-11-de-agosto-tras-fuerte-terremoto-de-magnitud-7-4-que-dejo-al-menos-132-muertos-3577500",
-        "published_date": "2026-08-11 06:12:55",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/imagenes-aereas-revelan-los-danos-y-la-devastacion-que-dejo-el-terremoto-de-7-4-de-magnitud-en-colombia-asi-quedo-pereira-y-cali-tras-fuerte-temblor-3577725",
+        "published_date": "2026-08-11 18:12:50",
         "category": "Local Events"
     },
     {
-        "title": "Only 275 natural persons and 29,000 legal entities paid the wealth tax in 2025",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/solo-275-personas-naturales-y-29-000-juridicas-pagaron-el-impuesto-al-patrimonio-en-2025-4455333",
-        "published_date": "2026-08-11 05:00:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "End of \u201ctotal peace\u201d: concern in communities and optimism among rulers",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/fin-de-paz-total-inquietud-en-comunidades-y-optimismo-entre-gobernantes/",
-        "published_date": "2026-08-11 05:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "There are 85 dead in Cali and in Valle there were more than a hundred due to the 7.4 magnitude earthquake: they are looking for 193 people trapped in 56 collapsed buildings",
+        "title": "Resisting with a plate of sancocho: the community solidarity that supports the victims of the Chiminangos II neighborhood, northeast of Cali",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/van-85-muertos-en-cali-y-en-valle-se-supero-el-centenar-por-el-terremoto-de-7-4-grados-buscan-a-193-personas-atrapadas-en-56-edificaciones-colapsadas-3577494",
-        "published_date": "2026-08-11 04:22:03",
+        "url": "https://www.eltiempo.com/colombia/cali/resistir-con-un-plato-de-sancocho-la-solidaridad-comunitaria-que-sostiene-a-los-damnificados-del-barrio-chiminangos-ii-nororiente-de-cali-3577720",
+        "published_date": "2026-08-11 18:11:13",
         "category": "Local Events"
     },
     {
-        "title": "Who is Yuli Esmeralda Hern\u00e1ndez Silva",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-esmeralda-hernandez-silva/",
-        "published_date": "2026-08-11 04:16:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "Who is Ferney Silva Idrobo",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-ferney-silva-idrobo/",
-        "published_date": "2026-08-11 03:53:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "Who is A\u00edda Yolanda Avella Esquivel",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/quien-es-quien/aida-avella-esquivel/",
-        "published_date": "2026-08-11 03:24:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "Who is Wilson Neber Arias Castillo",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/quien-es-quien/wilson-arias-castillo/",
-        "published_date": "2026-08-11 02:45:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "Valle del Cauca leaves a balance of 188 missing and more than 30 dead",
+        "title": "Wave of appointments in Housing, Culture, Labor and Transport portfolios",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/valle-del-cauca-deja-un-balance-de-188-desaparecidos-y-35-fallecidos-tras-terremoto-4455278",
-        "published_date": "2026-08-11 02:10:54",
+        "url": "https://www.larepublica.co/economia/monica-saldarriaga-sera-la-viceministra-del-agua-del-ministerio-de-vivienda-4455792",
+        "published_date": "2026-08-11 17:50:43",
         "category": "Local Events"
     },
     {
-        "title": "The President of the Senate proposes to legislators to donate their salaries",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/presidente-del-senado-henriquez-propone-a-legisladores-donar-su-salario-por-el-terremoto-4455272",
-        "published_date": "2026-08-11 01:41:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tremor today in Colombia |They report a string of new aftershocks on the night of this August 10 of a 7.4 earthquake in Colombia: epicenter and depth",
+        "title": "Between the fear of the aftershocks and losing her things, Yury Copete, Miss Universe 2020, narrated how her family and neighbors in Quibd\u00f3 experienced the tragedy",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-hoy-en-colombia-reportan-nueva-replica-la-noche-de-este-10-de-agosto-del-terremoto-de-7-4-en-colombia-epicentro-profundidad-y-detalles-3577486",
-        "published_date": "2026-08-11 01:39:00",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/entre-el-miedo-por-las-replicas-y-a-perder-sus-cosas-yury-copete-miss-universe-2020-narro-como-su-familia-y-vecinos-en-quibdo-viven-la-tragedia-3577713",
+        "published_date": "2026-08-11 17:30:49",
         "category": "Local Events"
     },
     {
-        "title": "Who is Diana Carolina Corcho Mej\u00eda",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/quien-es-quien/diana-carolina-corcho-mejia-2/",
-        "published_date": "2026-08-11 01:34:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cali Mayor's Office decrees curfew, militarization and public calamity after earthquake",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/alcaldia-de-cali-decreta-toque-de-queda-militarizacion-y-calamidad-publica-tras-el-terremoto-4455268",
-        "published_date": "2026-08-11 01:30:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "Milei did not publish photos of her room in Cali, images were made with AI",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/milei-no-publico-fotos-de-su-habitacion-en-cali-imagenes-fueron-hechas-con-ia/",
-        "published_date": "2026-08-11 01:13:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "New balance of the 7.4 magnitude earthquake in Colombia reports 132 deaths and 570 injured",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/nuevo-balance-del-sismo-de-magnitud-7-4-en-colombia-reporta-132-fallecidos-y-570-heridos-4455257",
-        "published_date": "2026-08-11 01:04:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "Who is John Alejandro Bermeo Rodr\u00edguez",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-john-alejandro-bermeo-rodriguez/",
-        "published_date": "2026-08-11 00:33:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "Traces of the earthquake in Cali: the desperate search for lost pets after the 7.4 earthquake",
+        "title": "How many aftershocks have been recorded after the 7.4 earthquake in Colombia?These are the magnitudes",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/huellas-del-temblor-en-cali-la-desesperada-busqueda-de-mascotas-perdidas-tras-el-terremoto-de-7-3577492",
-        "published_date": "2026-08-11 00:30:48",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/cuantas-replicas-se-han-registrado-tras-el-terremoto-de-7-4-en-colombia-estas-son-todas-las-magnitudes-3577711",
+        "published_date": "2026-08-11 17:18:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "Rossy Lemos, RCN presenter, sends a moving message to Choc\u00f3 after the earthquake: 'May solidarity not last as long as a news story lasts'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/rossy-lemos-presentadora-de-rcn-envia-conmovedor-mensaje-por-el-choco-tras-terremoto-que-la-solidaridad-no-dure-lo-mismo-que-dura-una-noticia-3577703",
+        "published_date": "2026-08-11 17:11:10",
         "category": "Local Events"
     }
 ]
