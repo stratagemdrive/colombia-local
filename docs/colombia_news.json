@@ -1,5 +1,26 @@
 [
     {
+        "title": "Colombia authorized military operations with the US in the country",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/colombia-autorizo-operaciones-militares-con-ee-uu-en-el-pais/",
+        "published_date": "2026-08-12 23:03:35",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "\u201cWe have not excluded any country\u201d: chancellor on foreign aid",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/no-hemos-excluido-a-ningun-pais-canciller-sobre-ayuda-extranjera/",
+        "published_date": "2026-08-12 19:21:26",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Foreign Ministry confirmed the arrival of 51 tons of aid from El Salvador",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/cancilleria-confirmo-la-llegada-de-51-toneladas-de-ayuda-humanitaria-de-el-salvador-4456822",
+        "published_date": "2026-08-12 17:05:50",
+        "category": "Diplomacy"
+    },
+    {
         "title": "The monument to the resistance of Cali did not collapse due to the earthquake",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/el-monumento-a-la-resistencia-de-cali-no-se-derrumbo-por-el-terremoto/",
@@ -224,6 +245,13 @@
         "category": "Military"
     },
     {
+        "title": "Ernesto Forero will be the new director of the National Hydrocarbons Agency",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/ernesto-forero-sera-el-nuevo-director-de-la-agencia-nacional-de-hidrocarburos-4457302",
+        "published_date": "2026-08-12 23:25:25",
+        "category": "Energy"
+    },
+    {
         "title": "Earthquake paralyzed coffee exports through the port of Buenaventura",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/terremoto-paralizo-las-exportaciones-de-cafe-por-el-puerto-de-buenaventura-4456264",
@@ -357,11 +385,11 @@
         "category": "Energy"
     },
     {
-        "title": "Three complainants of Jorge Alfredo Vargas renounce the judicial process",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/tres-denunciantes-de-jorge-alfredo-vargas-renuncian-al-proceso-judicial/",
-        "published_date": "2026-08-05 22:36:52",
-        "category": "Energy"
+        "title": "Velez in the morning |Natalia Molano, US spokesperson, detailed the destination of 15.5 million dollars for Colombia after a 7.4 magnitude earthquake",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/velez-por-la-manana-natalia-molano-portavoz-de-ee-uu-detallo-el-destino-de-15-5-millones-de-dolares-para-colombia-tras-terremoto-de-magnitud-7-3577974",
+        "published_date": "2026-08-12 17:13:22",
+        "category": "Economy"
     },
     {
         "title": "External debt in May closed at 50.5% of GDP, equivalent to US$242,027 million",
@@ -462,150 +490,143 @@
         "category": "Economy"
     },
     {
-        "title": "Issuer received offers for US$877.5 million in first dollar purchase auction",
+        "title": "Abelardo de la Espriella declares economic emergency due to the earthquake",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/abelardo-de-la-espriella-declara-emergencia-economica-por-el-terremoto/",
+        "published_date": "2026-08-12 23:22:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "CAF will mobilize US$48 million to attend to areas affected by the earthquake",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/emisor-recibio-ofertas-por-us-877-5-millones-en-primera-subasta-de-compra-de-dolares-4450697",
-        "published_date": "2026-08-04 12:26:29",
-        "category": "Economy"
+        "url": "https://www.larepublica.co/economia/caf-movilizara-us-48-millones-para-atender-areas-afectadas-por-el-terremoto-4457164",
+        "published_date": "2026-08-12 22:10:18",
+        "category": "Local Events"
     },
     {
-        "title": "Colonel (r) Arnaud Penent was appointed as the new director of the Aerocivil",
+        "title": "One in 10 Colombians lived in conditions of extreme monetary poverty in 2025",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/el-coronel-r-arnaud-penent-fue-nombrado-como-nuevo-director-de-la-aerocivil-4456510",
-        "published_date": "2026-08-12 11:41:06",
+        "url": "https://www.larepublica.co/economia/uno-de-cada-10-colombianos-vivieron-en-condiciones-de-pobreza-monetaria-extrema-en-2025-4457078",
+        "published_date": "2026-08-12 22:04:00",
         "category": "Local Events"
     },
     {
-        "title": "David Santiago Tamayo is appointed as director of the Ungrd",
+        "title": "No surprises, Jorge Laverde is the new comptroller",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/sin-sorpresas-jorge-laverde-es-el-nuevo-contralor/",
+        "published_date": "2026-08-12 20:49:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "Earthquake: the number of deaths rises to 241 and 287 missing",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/terremoto-sube-a-241-la-cifra-de-fallecidos-y-hay-287-personas-desaparecidas/",
+        "published_date": "2026-08-12 20:22:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "This child was rescued in Haiti in 2010, not in the earthquake in Colombia",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/detector-de-mentiras/enganoso/este-nino-fue-rescatado-en-haiti-en-2010-no-en-el-terremoto-en-colombia/",
+        "published_date": "2026-08-12 20:21:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "Indepaz Report: Balance of protection of the civil population in the Petro government",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/informe-indepaz-balance-de-proteccion-a-la-poblacion-civil-en-el-gobierno-petro/",
+        "published_date": "2026-08-12 19:38:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "Who is Juan Fernando Espinal Ram\u00edrez",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-juan-fernando-espinal-ramirez/",
+        "published_date": "2026-08-12 19:14:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "Who is Oscar Leonardo Villamizar Meneses",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/quien-es-quien/oscar-villamizar/",
+        "published_date": "2026-08-12 18:57:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Who is Enrique Cabrales Baquero",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-enrique-cabrales-baquero/",
+        "published_date": "2026-08-12 18:35:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "This was the rescue of a child after 32 hours under the rubble in Cali: Red Cross asks not to interrupt the work of the search dogs",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/asi-fue-el-rescate-de-un-nino-tras-32-horas-bajo-los-escombros-en-cali-cruz-roja-pide-no-interrumpir-el-trabajo-de-los-perros-de-busqueda-3577997",
+        "published_date": "2026-08-12 18:33:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "President Abelardo De La Espriella announced the creation of the 'Miracle Fund' to respond to the emergency after a 7.4 magnitude earthquake in Colombia: this is how it will work",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/presidente-abelardo-de-la-espriella-anuncio-la-creacion-del-fondo-milagro-para-atender-emergencia-tras-terremoto-de-7-4-en-colombia-asi-funcionara-3577993",
+        "published_date": "2026-08-12 18:29:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "With the arrival of foreign rescuers, the Government denies having rejected aid due to ideology",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/con-la-llegada-de-rescatistas-extranjeros-gobierno-niega-haber-rechazado-ayudas-por-ideologia-3577996",
+        "published_date": "2026-08-12 18:09:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "Salento, before and after the 7.4 earthquake: there were no deaths and its tourist recovery is progressing",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/asi-quedo-salento-quindio-tras-el-fuerte-terremoto-de-7-4-varias-casas-tradicionales-resultaron-afectadas-3577880",
+        "published_date": "2026-08-12 18:08:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "Colombian Geological Service warned about fake news after a 7.4 magnitude earthquake in Colombia: alerts on Purac\u00e9 volcano, prediction of aftershocks and more",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/servicio-geologico-colombiano-advirtio-por-noticias-falsas-tras-terremoto-de-7-4-en-colombia-alertas-en-volcan-purace-prediccion-de-replicas-y-mas-3577959",
+        "published_date": "2026-08-12 18:06:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "Bancada Caribe brings to the Congress of the Republic its commitment to greater regional autonomy: this is how it seeks to convert the RAP into a territorial entity",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/bancada-caribe-lleva-al-congreso-de-la-republica-su-apuesta-por-mayor-autonomia-regional-asi-busca-convertir-la-rap-en-entidad-territorial-3577979",
+        "published_date": "2026-08-12 17:56:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Flames out of control in Antioquia: helicopters and emergency evacuations are deployed due to a fierce wave of fires in different areas",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/llamas-fuera-de-control-en-antioquia-despliegan-helicopteros-y-evacuaciones-de-emergencia-por-feroz-ola-de-incendios-en-diferentes-zonas-3577989",
+        "published_date": "2026-08-12 17:49:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Arab League rejects Colombia's position on Israeli sovereignty in the Golan Heights",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/david-santiago-tamayo-es-designado-como-nuevo-director-en-propiedad-de-la-ungrd-4456514",
-        "published_date": "2026-08-12 11:38:06",
+        "url": "https://www.larepublica.co/economia/liga-arabe-rechaza-la-postura-de-colombia-sobre-soberania-de-israel-en-golan-4456836",
+        "published_date": "2026-08-12 17:40:11",
         "category": "Local Events"
     },
     {
-        "title": "Earthquake, day 3: Buenaventura and Choc\u00f3",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/terremoto-dia-3-buenaventura-y-choco/",
-        "published_date": "2026-08-12 11:29:36",
+        "title": "Government prepares a decree for the forced retirement of retired civil servants",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/gobierno-alista-decreto-para-el-retiro-forzoso-de-funcionarios-pensionados-4456828",
+        "published_date": "2026-08-12 17:30:42",
         "category": "Local Events"
     },
     {
-        "title": "7.4 magnitude earthquake in Colombia: Starlink, Elon Musk's company, offers free internet connection in affected areas of the country: this is how it works",
+        "title": "Technical teams inspect hospitals and homes in 90 municipalities of Antioquia, while rescue brigades and experts assist other regions",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/terremoto-de-magnitud-7-4-en-colombia-starlink-empresa-de-elon-musk-ofrece-conexion-a-internet-gratuita-en-zonas-afectadas-del-pais-asi-funciona-3577777",
-        "published_date": "2026-08-12 06:40:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tremor today in Colombia |They report a new earthquake in the early hours of this Wednesday, August 12, after a strong earthquake: they felt it in several cities",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-hoy-en-colombia-reportan-nueva-replica-de-magnitud-3-3-durante-la-madrugada-de-este-miercoles-12-de-agosto-tras-fuerte-terremoto-3577788",
-        "published_date": "2026-08-12 06:31:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "Relatives of the girl Violeta Guerrero and her grandmother Amparo Jaramillo confirm that they were found dead in Cali after the earthquake in Colombia",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/familiares-de-nina-violeta-guerrero-y-su-abuela-amparo-jaramillo-confirman-que-fueron-halladas-sin-vida-en-cali-tras-el-terremoto-de-este-lunes-3577787",
-        "published_date": "2026-08-12 06:22:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mom of Salom\u00f3n, a two-month-old baby rescued from the rubble in Cali after the earthquake in Colombia, is still missing;his family cries out for help",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/mama-de-salomon-bebe-de-dos-meses-rescatado-entre-los-escombros-en-cali-tras-el-terremoto-en-colombia-sigue-desaparecida-su-familia-clama-por-ayuda-3577783",
-        "published_date": "2026-08-12 06:06:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Earthquake in Colombia today, August 12, latest news: rescue efforts are advancing;new earthquake of magnitude 3.3 was felt in several cities",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/terremoto-en-colombia-hoy-12-de-agosto-ultimas-noticias-presidente-de-la-espriella-celebro-rescate-de-daniela-largo-tras-36-horas-bajo-los-escombros-3577781",
-        "published_date": "2026-08-12 06:04:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "Uribism once again tips the balance with the alliance that will put in place comptroller",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/el-uribismo-vuelve-a-inclinar-la-balanza-con-la-alianza-que-pondra-contralor/",
-        "published_date": "2026-08-12 06:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Who is David Ricardo Racero Mayorca",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/quien-es-quien/david-ricardo-racero-mayorca/",
-        "published_date": "2026-08-12 05:04:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tragedy in earthquake in Colombia: 12th floor of iconic building in Pereira collapsed and crushed people;shocking images of damage and rescue",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/tragedia-en-terremoto-en-colombia-piso-12-de-iconico-edificio-en-pereira-colapso-y-aplasto-a-personas-impactantes-imagenes-de-danos-y-rescate-3577778",
-        "published_date": "2026-08-12 04:36:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "Who is Isabel Cristina Zuleta L\u00f3pez",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-isabel-zuleta-lopez/",
-        "published_date": "2026-08-12 04:30:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "Who is Agmeth Jos\u00e9 Escaf Tijerino",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-agmeth-jose-escaf-tijerino/",
-        "published_date": "2026-08-12 04:05:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "Who is Alex Xavier Fl\u00f3rez Hern\u00e1ndez",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-alex-xavier-florez-hernandez/",
-        "published_date": "2026-08-12 03:36:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "Who is Jorge Alejandro Ocampo Giraldo",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-jorge-alejandro-ocampo-giraldo/",
-        "published_date": "2026-08-12 03:18:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "Who is Carlos Alberto Benavides Mora",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-carlos-alberto-benavides-mora/",
-        "published_date": "2026-08-12 02:52:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "Before leaving, check the peak and plate in Bucaramanga for this Wednesday, August 12, 2026",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/antes-de-salir-consulte-el-pico-y-placa-en-bucaramanga-para-este-miercoles-12-de-agosto-de-3577615",
-        "published_date": "2026-08-12 02:32:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Peak and license plate in Medell\u00edn: check if your car or motorcycle has a restriction this Wednesday, August 12, 2026",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/pico-y-placa-en-medellin-consulte-si-su-carro-o-moto-tiene-restriccion-este-miercoles-12-de-agosto-de-3577591",
-        "published_date": "2026-08-12 02:26:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Geological fault that caused the earthquake is not the same as Hidroituango",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/detector-de-mentiras/enganoso/falla-geologica-que-provoco-el-terremoto-no-es-la-misma-de-hidroituango/",
-        "published_date": "2026-08-12 01:59:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "These are the governors of the Amazon investigated for corruption",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/estos-son-los-gobernadores-de-la-amazonia-investigados-por-corrupcion/",
-        "published_date": "2026-08-12 01:35:05",
+        "url": "https://www.eltiempo.com/colombia/medellin/equipos-tecnicos-inspeccionan-hospitales-y-viviendas-en-90-municipios-de-antioquia-mientras-brigadas-de-rescate-y-expertos-auxilian-a-otras-regiones-3577982",
+        "published_date": "2026-08-12 17:25:44",
         "category": "Local Events"
     }
 ]
