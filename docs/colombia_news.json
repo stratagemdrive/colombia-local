@@ -1,5 +1,26 @@
 [
     {
+        "title": "Earthquake: China offers US$1 million to address the emergency",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/terremoto-china-ofrece-us1-millon-para-atender-la-emergencia/",
+        "published_date": "2026-08-13 22:44:54",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Jhonny Rivera opened the doors of his hotel to victims and rescuers after the earthquake in Colombia: 'I have the honor of having these heroes here'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/jhonny-rivera-abrio-las-puertas-de-su-hotel-a-damnificados-y-rescatistas-tras-terremoto-en-colombia-tengo-el-honor-de-tener-aqui-a-estos-heroes-3578102",
+        "published_date": "2026-08-13 18:17:49",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Miguel Uribe Londo\u00f1o will be the new ambassador of Colombia in the United Kingdom",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/miguel-uribe-londono-sera-el-nuevo-embajador-de-colombia-en-el-reino-unido-4457666",
+        "published_date": "2026-08-13 11:56:27",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Colombia authorized military operations with the US in the country",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/colombia-autorizo-operaciones-militares-con-ee-uu-en-el-pais/",
@@ -96,6 +117,13 @@
         "url": "https://www.lasillavacia.com/en-vivo/mincomercio-entrante-ira-a-ee-uu-para-buscar-reduccion-de-aranceles/",
         "published_date": "2026-08-06 22:08:56",
         "category": "Diplomacy"
+    },
+    {
+        "title": "EL TIEMPO journalist wins CIPA Award for Excellence for x-ray investigation of microtrafficking in Medell\u00edn",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/radiografia-del-microtrafico-en-medellin-investigacion-de-nicolas-tamayo-periodista-de-el-tiempo-gana-el-premio-cipa-a-la-excelencia-3578266",
+        "published_date": "2026-08-13 17:32:20",
+        "category": "Military"
     },
     {
         "title": "This was the dramatic rescue of a woman and her dog from the rubble of a building in Cali after the earthquake in Colombia: 'Cut off my leg'",
@@ -231,11 +259,11 @@
         "category": "Military"
     },
     {
-        "title": "The 'letter to Ni\u00f1o Dios' that Governor Dilian Francisca Toro will give to President Abelardo De La Espriella to activate key projects in the Valley",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/la-carta-al-nino-dios-que-la-gobernadora-dilian-francisca-toro-dara-al-presidente-abelardo-de-la-espriella-para-activar-proyectos-clave-en-el-valle-3576787",
-        "published_date": "2026-08-06 19:48:43",
-        "category": "Military"
+        "title": "Gasnova will analyze the role of LPG in the country's energy supply at its 8th Congress",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/gasnova-analizara-el-rol-del-glp-en-el-abastecimiento-energetico-del-pais-en-su-8-congreso-4458299",
+        "published_date": "2026-08-13 23:05:59",
+        "category": "Energy"
     },
     {
         "title": "Prosecutor's Office filed an indictment against Roa for campaign limits",
@@ -371,13 +399,6 @@
         "category": "Energy"
     },
     {
-        "title": "The Caribbean demands special treatment due to El Ni\u00f1o: Users League rejects sanctions for increased energy consumption and asks to expand subsidies",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/el-caribe-reclama-trato-especial-por-el-nino-liga-de-usuarios-rechaza-sanciones-por-mayor-consumo-de-energia-y-pide-ampliar-los-subsidios-3576585",
-        "published_date": "2026-08-06 07:50:18",
-        "category": "Energy"
-    },
-    {
         "title": "Velez in the morning |Natalia Molano, US spokesperson, detailed the destination of 15.5 million dollars for Colombia after a 7.4 magnitude earthquake",
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/otras-ciudades/velez-por-la-manana-natalia-molano-portavoz-de-ee-uu-detallo-el-destino-de-15-5-millones-de-dolares-para-colombia-tras-terremoto-de-magnitud-7-3577974",
@@ -462,157 +483,143 @@
         "category": "Economy"
     },
     {
-        "title": "Anif proposed a fiscal adjustment of $53 billion due to the deterioration of public accounts",
+        "title": "\u00c1lamos Building in Pereira collapsed on the day of the earthquake, not after",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/detector-de-mentiras/enganoso/edificio-alamos-en-pereira-colapso-el-dia-del-terremoto-no-despues/",
+        "published_date": "2026-08-13 23:30:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "ICT Ministry appoints three new directors for positions of vice ministers and general secretary",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/anif-propuso-un-ajuste-fiscal-de-53-billones-ante-el-deterioro-de-las-cuentas-publicas-4451873",
-        "published_date": "2026-08-05 16:52:03",
-        "category": "Economy"
+        "url": "https://www.larepublica.co/economia/ministerio-tic-designa-tres-nuevos-directivos-para-cargos-de-viceministros-y-secretaria-general-4458340",
+        "published_date": "2026-08-13 23:14:48",
+        "category": "Local Events"
     },
     {
-        "title": "Banco de la Rep\u00fablica bought US$319.4 million to accumulate reserves",
+        "title": "With earthquake, Abelardo pays the price for not having a connection: The Economist",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/con-terremoto-abelardo-paga-precio-de-no-tener-empalme-the-economist/",
+        "published_date": "2026-08-13 23:09:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "This is the investment that Colombia needs to achieve growth above 6%",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/emisor-compro-us-254-3-millones-como-parte-del-programa-de-acumulacion-de-reservas-4451861",
-        "published_date": "2026-08-05 16:36:29",
-        "category": "Economy"
-    },
-    {
-        "title": "Earthquake in Colombia today, August 13: Prime Minister of Israel, Benjamin Netanyahu, ordered the 'immediate' sending of an aid mission to the country",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/terremoto-en-colombia-hoy-13-de-agosto-director-de-la-ungrd-dijo-que-el-pais-esta-recibiendo-ayuda-internacional-para-busqueda-y-rescate-de-victimas-3578053",
-        "published_date": "2026-08-13 06:18:54",
+        "url": "https://www.larepublica.co/economia/la-inversion-que-necesita-colombia-para-crecer-por-encima-del-6-4458303",
+        "published_date": "2026-08-13 22:54:06",
         "category": "Local Events"
     },
     {
-        "title": "It shook again in Choc\u00f3 today, Thursday, August 13: Colombian Geological Service reported an earthquake after a strong earthquake in Colombia",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/volvio-a-temblar-en-el-choco-hoy-jueves-13-de-agosto-reportan-sismo-de-magnitud-2-8-tras-fuerte-terremoto-en-colombia-3578060",
-        "published_date": "2026-08-13 06:10:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "Icbf director warns of scams after 7.4 magnitude earthquake in Colombia: 'Don't be fooled';These are the official channels to donate",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/directora-de-icbf-alerta-de-estafas-tras-terremoto-de-7-4-en-colombia-no-se-dejen-enganar-estos-son-los-canales-oficiales-donde-puede-donar-3578038",
-        "published_date": "2026-08-13 06:10:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "The 5 facts that reveal how prepared Colombia was for an earthquake",
+        "title": "Petro left a notary office to Jaime Duss\u00e1n's ally in Colpensiones",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/los-5-datos-que-revelan-que-tan-preparada-estaba-colombia-para-un-terremoto/",
-        "published_date": "2026-08-13 06:00:00",
+        "url": "https://www.lasillavacia.com/en-vivo/petro-le-dejo-notaria-a-aliada-de-jaime-dussan-en-colpensiones/",
+        "published_date": "2026-08-13 22:14:55",
         "category": "Local Events"
     },
     {
-        "title": "A baby was born in the middle of the strong earthquake that shook Colombia: his mother was in a parking lot at the Carlos Holmes Trujillo Hospital in Cali",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/un-bebe-nacio-en-medio-del-fuerte-terremoto-que-sacudio-a-colombia-su-madre-estaba-en-un-parqueadero-del-hospital-carlos-holmes-trujillo-de-cali-3578057",
-        "published_date": "2026-08-13 05:35:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "1,800 heroes remove 6,530 tons of rubble to rescue 88 survivors in Cali after an earthquake: 18 buildings are ordered to be evacuated due to risks",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/1-800-heroes-remueven-6-530-toneladas-de-escombros-para-rescatar-a-88-sobrevivientes-en-cali-tras-terremoto-ordenan-evacuar-18-edificios-por-riesgos-3578059",
-        "published_date": "2026-08-13 05:28:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Daniela Largo's father spoke after her rescue in Pereira due to a 7.4 magnitude earthquake and revealed her serious state of health: 'Things got complicated'",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/hablo-el-padre-de-daniela-largo-tras-su-rescate-en-pereira-por-terremoto-de-magnitud-7-4-y-revelo-su-grave-estado-de-salud-las-cosas-se-complicaron-3578052",
-        "published_date": "2026-08-13 05:06:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "Who is Fabio Ra\u00fal Am\u00edn Saleme",
+        "title": "The Big Mole: \u201cwhere you fit, there you go\u201d",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/quien-es-quien/fabio-amin-saleme/",
-        "published_date": "2026-08-13 05:01:16",
+        "url": "https://www.lasillavacia.com/silla-nacional/el-topo-mayor-donde-cabes-ahi-te-metes/",
+        "published_date": "2026-08-13 22:05:00",
         "category": "Local Events"
     },
     {
-        "title": "\u201cMore than 70% of the export basket to the United States does not have tariffs\u201d",
+        "title": "Petro and hunger: a good recipe with half cooking",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-rural/petro-y-el-hambre-una-buena-receta-con-coccion-a-medias/",
+        "published_date": "2026-08-13 22:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "After the catastrophe: technology that understands people",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-democracia-y-tecnologia/despues-la-catastrofe-tecnologia-que-entienda-a-las-personas/",
+        "published_date": "2026-08-13 22:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Visit of the vice and minInterior: Choc\u00f3 moves to the reconstruction phase",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/visita-del-vice-y-mininterior-choco-pasa-a-la-fase-de-reconstruccion/",
+        "published_date": "2026-08-13 21:54:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u00c1ngela Mar\u00eda Mora will be the manager of Rtvc",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/angela-maria-mora-sera-la-nueva-gerente-de-rtvc/",
+        "published_date": "2026-08-13 20:37:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "New balance of the earthquake: 273 dead, 377 missing",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/nuevo-balance-del-terremoto-273-fallecidos-377-desaparecidos/",
+        "published_date": "2026-08-13 20:24:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "Informality reached 54.5% at the end of June, with more than 13.32 million people",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/mas-de-70-de-la-canasta-exportadora-a-estados-unidos-no-tiene-aranceles-4456128",
-        "published_date": "2026-08-13 05:01:10",
+        "url": "https://www.larepublica.co/economia/informalidad-alcanzo-54-5-a-cierre-de-junio-con-mas-de-13-32-millones-de-personas-4458079",
+        "published_date": "2026-08-13 19:22:19",
         "category": "Local Events"
     },
     {
-        "title": "Choc\u00f3 and La Guajira, the departments with the highest levels of monetary poverty",
+        "title": "Gualdr\u00f3n Reyes family lost everything in Pereira: the houses of the father and two daughters collapsed and now they sleep outside to avoid looting",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/familia-gualdron-reyes-lo-perdio-todo-en-pereira-las-casas-del-padre-y-dos-hijas-colapsaron-y-ahora-duermen-afuera-para-evitar-saqueos-3578257",
+        "published_date": "2026-08-13 18:20:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "UNGRD confirms that there are more than 30 active fires in Colombia: governor of Tolima announces that she is studying the possibility of declaring a 'public calamity'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/ungrd-confirma-que-hay-mas-de-30-incendios-activos-en-colombia-gobernadora-del-tolima-anuncia-que-estudia-posibilidad-de-declarar-calamidad-publica-3578270",
+        "published_date": "2026-08-13 18:06:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "Consumer Confidence Index fell 3.6 percentage points and stood at 20.7%",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/choco-la-guajira-y-sucre-son-los-departamentos-con-mayores-niveles-de-pobreza-monetaria-4457490",
-        "published_date": "2026-08-13 05:00:56",
+        "url": "https://www.larepublica.co/economia/indice-de-confianza-al-consumidor-cayo-3-6-puntos-porcentuales-y-se-ubico-en-20-7-4457982",
+        "published_date": "2026-08-13 18:01:28",
         "category": "Local Events"
     },
     {
-        "title": "Who is \u00d3scar Hern\u00e1n S\u00e1nchez Le\u00f3n",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-oscar-sanchez-leon/",
-        "published_date": "2026-08-13 04:47:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Who is Leonardo de Jes\u00fas Gallego Arroyave",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-leonardo-de-jesus-gallego-arroyave/",
-        "published_date": "2026-08-13 04:17:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "Who is Mar\u00eda Eugenia Lopera Monsalve",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-maria-eugenia-lopera-monsalve/",
-        "published_date": "2026-08-13 04:00:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "Does it have a beak and plate?Check if you can circulate in Bucaramanga this Thursday, August 13, 2026",
+        "title": "Honoris Causa Doctorate for Sergio D\u00edaz-Granados: Sim\u00f3n Bol\u00edvar University recognizes his public career and regional leadership",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/tiene-pico-y-placa-revise-si-puede-circular-en-bucaramanga-este-jueves-13-de-agosto-de-3577938",
-        "published_date": "2026-08-13 02:30:00",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/doctorado-honoris-causa-para-sergio-diaz-granados-universidad-simon-bolivar-reconoce-su-trayectoria-publica-y-liderazgo-regional-3578271",
+        "published_date": "2026-08-13 17:58:37",
         "category": "Local Events"
     },
     {
-        "title": "Does your car or motorcycle have a pickaxe and license plate?This is how the measure applies in Medell\u00edn this Thursday, August 13, 2026",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/su-carro-o-moto-tiene-pico-y-placa-asi-aplica-la-medida-en-medellin-este-jueves-13-de-agosto-de-3577932",
-        "published_date": "2026-08-13 02:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Carlos Sep\u00falveda, the new director of the National Planning Department",
+        "title": "Businessman Samuel Bluman was appointed as the new president of ProColombia",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/carlos-eduardo-sepulveda-es-el-nuevo-director-del-departamento-nacional-de-planeacion-4457509",
-        "published_date": "2026-08-13 01:22:48",
+        "url": "https://www.larepublica.co/economia/el-empresario-samuel-bluman-sera-el-nuevo-presidente-de-procolombia-4458057",
+        "published_date": "2026-08-13 17:54:26",
         "category": "Local Events"
     },
     {
-        "title": "Sleep informed with the movements of this August 12, 2026",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-movidas-de-este-12-de-agosto-de-2026/",
-        "published_date": "2026-08-13 00:41:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "This video of workers is from the earthquake in Colombia, but it was recorded in Pereira",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/detector-de-mentiras/cierto-pero/este-video-de-obreros-si-es-del-sismo-en-colombia-pero-se-grabo-en-pereira/",
-        "published_date": "2026-08-13 00:35:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Cali Adventist School did not collapse and there are no children trapped in it",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/el-colegio-adventista-de-cali-no-colapso-y-no-hay-ninos-atrapados-en-el/",
-        "published_date": "2026-08-13 00:09:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "A woman resident of San Jos\u00e9 del Palmar, the epicenter of the earthquake, told how she experienced the moment: 'Everything was uninhabitable'",
+        "title": "Along with the search for survivors, the health challenge of managing the bodies of the earthquake is imposed",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/mujer-residente-de-san-jose-del-palmar-lugar-del-epicentro-del-terremoto-conto-como-vivio-el-momento-todo-quedo-inhabitable-3577928",
-        "published_date": "2026-08-12 23:25:57",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/a-la-par-de-la-busqueda-de-sobrevivientes-se-impone-el-reto-sanitario-por-la-gestion-de-los-cuerpos-del-terremoto-3578274",
+        "published_date": "2026-08-13 17:53:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "'As long as there is life, there will be hope': Choc\u00f3 woman tells in first person how the earthquake was experienced in the municipality of Tad\u00f3",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/mientras-haya-vida-habra-esperanza-mujer-chocoana-relata-en-primera-persona-como-se-vivio-el-terremoto-en-el-municipio-de-tado-3578275",
+        "published_date": "2026-08-13 17:40:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Families affected by the earthquake in Valle del Cauca ask for speed in the delivery of humanitarian aid",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/familias-afectadas-por-el-terremoto-en-el-valle-del-cauca-piden-celeridad-en-la-entrega-de-ayudas-humanitarias-3578267",
+        "published_date": "2026-08-13 17:32:33",
         "category": "Local Events"
     }
 ]
