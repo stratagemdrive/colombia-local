@@ -1,5 +1,19 @@
 [
     {
+        "title": "Government declared ambassadors who did not resign their resignation",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/gobierno-declaro-insubsistentes-los-nombramientos-de-cinco-embajadores-que-no-presentaron-su-renuncia-4459224",
+        "published_date": "2026-08-14 18:44:02",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "The Window to the World turns eight years old: nearly six million people have visited the symbolic monument of Barranquilla",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/la-ventana-al-mundo-cumple-ocho-anos-cerca-de-seis-millones-de-personas-han-visitado-el-monumento-simbolo-de-barranquilla-3578490",
+        "published_date": "2026-08-14 15:50:20",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Earthquake: China offers US$1 million to address the emergency",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/terremoto-china-ofrece-us1-millon-para-atender-la-emergencia/",
@@ -98,25 +112,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Infantino, the president of Fifa, leaves Abelardo's possession",
+        "title": "Diary of Abelardo's government: the letter from the former director of the Ungrd",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/infantino-el-presidente-de-la-fifa-se-baja-de-la-posesion-de-abelardo/",
-        "published_date": "2026-08-06 23:09:31",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Infantino, the president of Fifa, leaves Abelardo's possession",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/infantino-el-presidente-de-la-fifa-se-baja-de-la-posesion-de-abelardo/",
-        "published_date": "2026-08-06 23:09:31",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Incoming MinComercio will go to the US to seek tariff reduction",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/mincomercio-entrante-ira-a-ee-uu-para-buscar-reduccion-de-aranceles/",
-        "published_date": "2026-08-06 22:08:56",
-        "category": "Diplomacy"
+        "url": "https://www.lasillavacia.com/en-vivo/diario-del-gobierno-de-abelardo-la-carta-del-exdirector-de-la-ungrd/",
+        "published_date": "2026-08-14 18:15:20",
+        "category": "Military"
     },
     {
         "title": "EL TIEMPO journalist wins CIPA Award for Excellence for x-ray investigation of microtrafficking in Medell\u00edn",
@@ -249,13 +249,6 @@
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/barranquilla/caribe-espera-mas-autonomia-y-seguridad-con-de-la-espriella-verano-y-char-fijan-sus-prioridades-ante-el-nuevo-gobierno-3576884",
         "published_date": "2026-08-07 16:21:44",
-        "category": "Military"
-    },
-    {
-        "title": "Tradition, engines and music in motion: Palmira prepares the second edition of the Echin\u00f3dromo in the 50 Golden Anniversary of the Agriculture Festival",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/tradicion-motores-y-musica-en-marcha-palmira-alista-la-segunda-edicion-del-equinodromo-en-las-50-bodas-de-oro-de-la-fiesta-de-la-agricultura-3576576",
-        "published_date": "2026-08-07 01:28:02",
         "category": "Military"
     },
     {
@@ -392,13 +385,6 @@
         "category": "Energy"
     },
     {
-        "title": "Barranquilla will build the 'Entrepuentes' energy community in the southeast: it will benefit 700 families with solar energy",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-construira-la-comunidad-energetica-entrepuentes-en-el-suroriente-beneficiara-a-700-familias-con-energia-solar-3576763",
-        "published_date": "2026-08-06 18:10:00",
-        "category": "Energy"
-    },
-    {
         "title": "Velez in the morning |Natalia Molano, US spokesperson, detailed the destination of 15.5 million dollars for Colombia after a 7.4 magnitude earthquake",
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/otras-ciudades/velez-por-la-manana-natalia-molano-portavoz-de-ee-uu-detallo-el-destino-de-15-5-millones-de-dolares-para-colombia-tras-terremoto-de-magnitud-7-3577974",
@@ -469,143 +455,143 @@
         "category": "Economy"
     },
     {
-        "title": "Restrepo clarifies that there is no decree of his on forced retirement of retirees",
+        "title": "Mar\u00eda Isabel Campo, director of Fontur, is Ape Cuello's cousin",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/nueva-directora-de-fontur-es-prima-de-ape-cuello/",
+        "published_date": "2026-08-14 22:07:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "We must talk about vulnerable societies and not \u201cnatural\u201d disasters",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-verde/hay-que-hablar-de-sociedades-vulnerables-y-no-de-desastres-naturales/",
+        "published_date": "2026-08-14 21:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "World Bank disburses US$200 million to respond to the earthquake",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/banco-mundial-desembolsa-us200-millones-para-atender-el-terremoto/",
+        "published_date": "2026-08-14 21:04:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "22 of 23 goals to avoid biodiversity loss are not being met",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/22-de-23-metas-para-evitar-perdida-de-biodiversidad-no-se-estan-cumpliendo/",
+        "published_date": "2026-08-14 21:00:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cMarshall Plan\u201d: Abelardo's strategy to rebuild Choc\u00f3",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/plan-marshall-la-estrategia-de-abelardo-para-reconstruir-choco/",
+        "published_date": "2026-08-14 20:23:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "Julia Eva Pretelt is the new superSocieties",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/julia-eva-pretelt-es-la-nueva-supersociedades/",
+        "published_date": "2026-08-14 19:18:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Behind the scenes of foreign aid for the earthquake",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/el-detras-de-escena-de-las-ayudas-extranjeras-para-el-terremoto/",
+        "published_date": "2026-08-14 18:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Real income in the accommodation sector contracted 13% during June",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/restrepo-aclara-que-no-hay-decreto-suyo-sobre-retiro-forzoso-de-jubilados-4458691",
-        "published_date": "2026-08-14 11:29:42",
+        "url": "https://www.larepublica.co/economia/los-ingresos-reales-del-sector-alojamiento-se-contrajeron-13-en-junio-4459176",
+        "published_date": "2026-08-14 18:23:26",
         "category": "Local Events"
     },
     {
-        "title": "Waiting for the democratic transition",
+        "title": "Seven recommendations to rebuild with social justice after the earthquake",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/esperando-la-transicion-democratica/",
-        "published_date": "2026-08-14 11:00:00",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-verde/siete-recomendaciones-para-reconstruir-con-justicia-social-tras-el-terremoto/",
+        "published_date": "2026-08-14 18:00:00",
         "category": "Local Events"
     },
     {
-        "title": "It trembled in Choc\u00f3: Colombian Geological Service reported several earthquakes of magnitude greater than 3 this Friday, August 14;know magnitude and depth",
+        "title": "'Trapped' in the wait: the four days of anguish in the face of the collapse of a part of the Hospital Universitario del Valle",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblo-en-choco-servicio-geologico-colombiano-reporto-varios-sismos-de-magnitud-mayor-a-3-este-viernes-14-de-agosto-conozca-magnitud-y-profundidad-3578341",
-        "published_date": "2026-08-14 06:14:15",
+        "url": "https://www.eltiempo.com/colombia/cali/atrapados-en-la-espera-los-cuatro-dias-de-angustia-frente-al-derrumbe-de-una-parte-del-hospital-universitario-del-valle-3578522",
+        "published_date": "2026-08-14 17:33:32",
         "category": "Local Events"
     },
     {
-        "title": "Earthquake in Colombia today, August 14: SGC reported earthquakes of magnitude greater than 3 in Choc\u00f3;India sends 20 tons of humanitarian aid to the country",
+        "title": "Ana Mar\u00eda, the only young survivor of her family and a building in Cali |He says his life has a purpose;This was life with his sisters",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/terremoto-en-colombia-hoy-14-de-agosto-el-ministro-del-interior-rodrigo-lara-revelo-que-la-red-hospitalaria-en-buenaventura-esta-desbordada-3578338",
-        "published_date": "2026-08-14 06:12:28",
+        "url": "https://www.eltiempo.com/colombia/cali/ana-maria-la-unica-joven-sobreviviente-de-su-familia-y-de-un-edificio-en-cali-dice-que-su-vida-tiene-un-proposito-asi-era-la-vida-con-sus-hermanas-3578524",
+        "published_date": "2026-08-14 17:30:18",
         "category": "Local Events"
     },
     {
-        "title": "Gustavo Petro's eight last-minute moves as president",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/las-ocho-movidas-de-ultimo-minuto-de-gustavo-petro-como-presidente/",
-        "published_date": "2026-08-14 06:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Are you going to drive in Medell\u00edn?Check the peak and plate for this Friday, August 14, 2026",
+        "title": "Legal Medicine provided the first list of those missing due to the earthquake in Colombia: these are the full names and last place where they were seen",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/va-a-conducir-en-medellin-revise-el-pico-y-placa-para-este-viernes-14-de-agosto-de-3578184",
-        "published_date": "2026-08-14 05:49:06",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/medicina-legal-entrego-primer-listado-de-desaparecidos-por-terremoto-en-colombia-estos-son-los-nombres-completos-y-ultimo-lugar-donde-los-vieron-3578519",
+        "published_date": "2026-08-14 17:01:58",
         "category": "Local Events"
     },
     {
-        "title": "Who is John Edickson Amaya Rodr\u00edguez",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-john-edickson-amaya-rodriguez/",
-        "published_date": "2026-08-14 05:36:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "Family tragedy in Cali: Isabella, the other triplet, was found dead under rubble;only one sister survived, her parents also died",
+        "title": "'El Son de Negro sings to freedom': Santa Luc\u00eda celebrates 25 years of a festival that preserves the Afro memory of the Colombian Caribbean",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/tragedia-familiar-en-cali-isabella-la-otra-trilliza-fue-encontrada-muerta-bajo-escombros-solo-una-hermana-sobrevivio-sus-padres-tambien-murieron-3578313",
-        "published_date": "2026-08-14 05:31:18",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/el-son-de-negro-le-canta-a-la-libertad-santa-lucia-celebra-25-anos-de-un-festival-que-preserva-la-memoria-afro-del-caribe-colombiano-3578506",
+        "published_date": "2026-08-14 17:01:00",
         "category": "Local Events"
     },
     {
-        "title": "Who is Luis Carlos R\u00faa S\u00e1nchez",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-luis-carlos-rua-sanchez/",
-        "published_date": "2026-08-14 05:28:49",
+        "title": "Painful message from Juan Felipe Giraldo's girlfriend after being found dead in rubble due to an earthquake;They were going to get married on Sunday: 'Most complete love'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/doloroso-mensaje-de-novia-de-juan-felipe-giraldo-tras-ser-hallado-muerto-en-escombros-por-terremoto-se-iban-a-casar-el-domingo-amor-mas-completo-3578501",
+        "published_date": "2026-08-14 17:01:00",
         "category": "Local Events"
     },
     {
-        "title": "Who is Duvalier S\u00e1nchez Arango",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-duvalier-sanchez/",
-        "published_date": "2026-08-14 05:20:20",
+        "title": "A young volunteer reported that his motorcycle was stolen while he was helping to rescue victims after the earthquake in Pereira: 'They had already taken it'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/joven-voluntario-denuncio-que-le-robaron-su-moto-mientras-ayudaba-a-rescatar-victimas-tras-el-terremoto-en-pereira-ya-se-la-habian-llevado-3578472",
+        "published_date": "2026-08-14 16:46:07",
         "category": "Local Events"
     },
     {
-        "title": "Who is Ariel Fernando \u00c1vila Mart\u00ednez",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/quien-es-quien/ariel-avila/",
-        "published_date": "2026-08-14 05:06:26",
+        "title": "Don William Cantor lost everything after the earthquake in Colombia: he sleeps on a mattress and asks for help to rebuild his home",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/don-william-cantor-lo-perdio-todo-tras-el-terremoto-en-colombia-duerme-en-un-colchon-y-pide-ayuda-para-reconstruir-su-hogar-3578502",
+        "published_date": "2026-08-14 16:36:10",
         "category": "Local Events"
     },
     {
-        "title": "Informality in Colombia reached 54.5% at the end of the first half of 2026",
+        "title": "Atlantic |This weekend the power goes out in Puerto Colombia, Soledad and the university corridor: find out if you are among the affected sectors",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/atlantico-este-fin-de-semana-se-va-la-luz-en-puerto-colombia-soledad-y-el-corredor-universitario-averiguee-si-esta-entre-los-sectores-afectados-3578507",
+        "published_date": "2026-08-14 16:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Manufacturing industry production rose 4.1% in June compared to 2025",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/la-informalidad-en-colombia-alcanzo-54-5-al-cierre-del-primer-semestre-4458341",
-        "published_date": "2026-08-14 05:01:34",
+        "url": "https://www.larepublica.co/economia/produccion-de-la-industria-manufacturera-subio-4-1-en-junio-frente-a-2025-4459065",
+        "published_date": "2026-08-14 16:27:49",
         "category": "Local Events"
     },
     {
-        "title": "Half of the regions have not reached the reservoir filling goal established by XM",
+        "title": "Retail trade increased 14.7% and employed personnel grew 1.5% in June",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/la-mitad-de-las-regiones-no-ha-alcanzado-la-meta-de-llenado-de-los-embalses-de-xm-4458409",
-        "published_date": "2026-08-14 05:00:38",
+        "url": "https://www.larepublica.co/economia/comercio-minorista-aumento-14-7-y-personal-ocupado-crecio-1-5-en-junio-4459048",
+        "published_date": "2026-08-14 16:25:48",
         "category": "Local Events"
     },
     {
-        "title": "Who is Andrea Padilla Villarraga",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-andrea-padilla-villarraga/",
-        "published_date": "2026-08-14 04:53:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "Who is Jonathan Ferney Pulido Hern\u00e1ndez",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-jp-hernandez/",
-        "published_date": "2026-08-14 04:36:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "Heartbreaking story by journalist Carlos Aponte after his relatives were found under the rubble of the earthquake: 'Our family was destroyed'",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/desgarrador-relato-del-periodista-carlos-aponte-tras-el-hallazgo-de-sus-familiares-bajo-los-escombros-por-el-terremoto-se-nos-desbarato-la-familia-3578340",
-        "published_date": "2026-08-14 04:30:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "Does it have a beak and plate?Check if you can circulate in Bucaramanga this Friday, August 14, 2026",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/tiene-pico-y-placa-revise-si-puede-circular-en-bucaramanga-este-viernes-14-de-agosto-de-3578188",
-        "published_date": "2026-08-14 02:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Minister of Mines appointed the new directors within the Upme and the ANM",
+        "title": "Industrial production closed the first half of the year with an increase of 3.9%, a two-year high",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/ministra-de-minas-y-energia-designo-a-los-nuevos-directores-de-la-upme-y-la-anm-4458254",
-        "published_date": "2026-08-14 02:22:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "Former deputy director and economist Ricardo Valencia is appointed as the new director of Dane",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/designan-al-exsubdirector-y-economista-ricardo-valencia-como-nuevo-director-del-dane-4458551",
-        "published_date": "2026-08-14 01:27:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sergio Pi\u00f1eros will be the director of the National Environmental Licenses Authority",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/sergio-arturo-pineros-sera-el-nuevo-director-de-la-autoridad-nacional-de-licencias-ambientales-4458513",
-        "published_date": "2026-08-14 00:16:45",
+        "url": "https://www.larepublica.co/economia/produccion-industrial-cerro-junio-con-alza-de-3-9-el-mas-alto-en-dos-anos-4458991",
+        "published_date": "2026-08-14 16:20:56",
         "category": "Local Events"
     }
 ]
