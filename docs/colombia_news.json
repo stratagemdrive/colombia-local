@@ -1,5 +1,12 @@
 [
     {
+        "title": "De la Espriella and Trump talked about the earthquake and elimination of tariffs",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/de-la-espriella-y-trump-conversaron-del-terremoto-y-eliminacion-de-aranceles-4460057",
+        "published_date": "2026-08-15 21:24:28",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Government declared ambassadors who did not resign their resignation",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/gobierno-declaro-insubsistentes-los-nombramientos-de-cinco-embajadores-que-no-presentaron-su-renuncia-4459224",
@@ -105,11 +112,32 @@
         "category": "Diplomacy"
     },
     {
-        "title": "The mobilization around the monument to the Resistance during August 7 in Cali: this is how the day passed",
+        "title": "They capture an armed motorcyclist in an exclusive sector of northern Barranquilla and an alleged drug dealer with 100 doses of marijuana in Soledad",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/la-movilizacion-alrededor-del-monumento-a-la-resistencia-durante-el-7-de-agosto-en-cali-asi-transcurrio-la-jornada-3576941",
-        "published_date": "2026-08-07 20:10:56",
-        "category": "Diplomacy"
+        "url": "https://www.eltiempo.com/colombia/barranquilla/capturan-a-motociclista-armado-en-exclusivo-sector-del-norte-de-barranquilla-y-a-presunto-expendedor-de-droga-con-100-dosis-de-marihuana-en-soledad-3578665",
+        "published_date": "2026-08-15 17:57:48",
+        "category": "Military"
+    },
+    {
+        "title": "Atlantic |Two young people aged 17 and 19 are murdered in Soledad: one of the victims was a soccer player from a training club",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/atlantico-asesinan-violentamente-a-dos-jovenes-de-17-y-19-anos-en-soledad-una-de-las-victimas-era-futbolista-de-un-club-formativo-3578646",
+        "published_date": "2026-08-15 17:27:19",
+        "category": "Military"
+    },
+    {
+        "title": "Nicaragua is a hemispheric security problem",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/nicaragua-es-un-problema-de-seguridad-hemisferica/",
+        "published_date": "2026-08-15 17:00:00",
+        "category": "Military"
+    },
+    {
+        "title": "Alert for strong winds and waves this weekend in the Caribbean Region: gusts could reach 51 km/h and waves up to 4.2 meters at sea",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/alerta-por-fuertes-vientos-y-oleaje-este-fin-de-semana-en-la-region-caribe-rafagas-podrian-alcanzar-los-51-km-h-y-olas-hasta-4-2-metros-en-altamar-3578653",
+        "published_date": "2026-08-15 16:24:52",
+        "category": "Military"
     },
     {
         "title": "Diary of Abelardo's government: the letter from the former director of the Ungrd",
@@ -217,39 +245,11 @@
         "category": "Military"
     },
     {
-        "title": "An explosive device was thrown at the headquarters of the Metropolitan Police of Pasto: no deaths or injuries were recorded",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/un-artefacto-explosivo-fue-lanzado-contra-la-sede-de-la-policia-metropolitana-de-pasto-no-se-registraron-muertos-ni-heridos-3576956",
-        "published_date": "2026-08-07 19:38:13",
-        "category": "Military"
-    },
-    {
-        "title": "Cali reports normality in public order as the day of possession progresses",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/cali-reporta-normalidad-en-orden-publico-mientras-avanza-la-jornada-de-posesion-4453643",
-        "published_date": "2026-08-07 18:26:18",
-        "category": "Military"
-    },
-    {
-        "title": "Attack with explosives this August 7 against the Mayor's Office of Teruel, Huila, leaves two civilians injured: Police rule out injured uniformed personnel",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/atentado-con-explosivos-contra-la-alcaldia-de-teruel-huila-deja-dos-civiles-heridos-policia-descarta-uniformados-lesionados-3576926",
-        "published_date": "2026-08-07 18:09:26",
-        "category": "Military"
-    },
-    {
-        "title": "Security, armed groups and embassies, the president's first measures",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/seguridad-grupos-armados-y-embajadas-las-primeras-medidas-del-presidente-4453606",
-        "published_date": "2026-08-07 16:33:00",
-        "category": "Military"
-    },
-    {
-        "title": "The Caribbean expects more autonomy and security with De La Espriella: Verano and Char set their priorities before the new Government",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/caribe-espera-mas-autonomia-y-seguridad-con-de-la-espriella-verano-y-char-fijan-sus-prioridades-ante-el-nuevo-gobierno-3576884",
-        "published_date": "2026-08-07 16:21:44",
-        "category": "Military"
+        "title": "One more: the United States donates another $US11 million for the earthquake",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/una-mas-estados-unidos-dona-otros-us11-millones-por-el-terremoto/",
+        "published_date": "2026-08-15 20:17:28",
+        "category": "Energy"
     },
     {
         "title": "Reconstruction after the earthquake begins by knowing where we live",
@@ -371,25 +371,18 @@
         "category": "Energy"
     },
     {
-        "title": "\"In the next few hours I will sign the decree freezing public spending\"",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/abelardo-de-la-espriella-se-posiciono-como-presidente-de-colombia-4453713",
-        "published_date": "2026-08-07 22:47:24",
-        "category": "Energy"
-    },
-    {
-        "title": "While Abelardo arrives there is a red carpet in the possession",
+        "title": "Abelardo spoke with Trump: he thanked for help and asked to suspend tariffs",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/mientras-llega-abelardo-hay-alfombra-roja-en-la-posesion/",
-        "published_date": "2026-08-07 21:26:15",
-        "category": "Energy"
+        "url": "https://www.lasillavacia.com/en-vivo/abelardo-hablo-con-trump-agradecio-ayudas-y-pidio-suspender-aranceles/",
+        "published_date": "2026-08-15 21:02:28",
+        "category": "Economy"
     },
     {
-        "title": "Purac\u00e9 Volcano maintains orange alert due to changes in its parameters and persistence in gas emissions",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/volcan-purace-mantiene-alerta-naranja-por-cambios-en-sus-parametros-y-persistencia-en-la-emision-de-gases-3576898",
-        "published_date": "2026-08-07 14:57:07",
-        "category": "Energy"
+        "title": "Ingeniar: total losses from the earthquake amount to $30 billion",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/ingeniar-perdidas-totales-por-el-terremoto-ascienden-a-30-billones/",
+        "published_date": "2026-08-15 18:04:55",
+        "category": "Economy"
     },
     {
         "title": "Ministry of Finance still has nine days to present the General Budget",
@@ -455,150 +448,143 @@
         "category": "Economy"
     },
     {
-        "title": "De la Espriella will have to face a deficit of 6.4% and an adjustment of $70 billion",
+        "title": "Parallel to the earthquake, Colombia registers more than 30 active fires",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/paralelo-al-terremoto-colombia-registra-mas-de-30-incendios-activos/",
+        "published_date": "2026-08-15 22:58:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "The country we inhabit is not the same one we administer",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/el-pais-que-habitamos-no-es-el-mismo-que-administramos/",
+        "published_date": "2026-08-15 20:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Colombia and Venezuela want to revive a relationship that moved US$7 billion",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/de-la-espriella-tendra-que-afrontar-un-deficit-de-6-4-y-un-ajuste-de-70-billones-4453675",
-        "published_date": "2026-08-07 20:02:34",
-        "category": "Economy"
+        "url": "https://www.larepublica.co/economia/colombia-y-venezuela-vuelven-a-mirar-hacia-la-frontera-comercio-podria-llegar-a-us-1-600-millones-en-2026-4460005",
+        "published_date": "2026-08-15 19:55:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ludmila Vergara assumes SuperTransporte and these are the challenges she will have",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/ludmila-vergara-asume-la-superintendencia-de-transporte-y-estos-son-los-retos-que-tendra-4459999",
+        "published_date": "2026-08-15 19:30:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "Anla confirms compliance with environmental condition for Northern Access Phase II",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/anla-confirma-cumplimiento-de-condicion-ambiental-para-accesos-norte-fase-ii-4459967",
+        "published_date": "2026-08-15 18:51:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "The challenges that come in reconstruction after the earthquake",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/opinion/los-retos-que-vienen-en-la-reconstruccion-despues-del-terremoto/",
+        "published_date": "2026-08-15 18:30:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "Earthquake in Antioquia: Dagran evaluates damage in 26 prioritized municipalities after the 7.4 magnitude earthquake that hit the Colombian Pacific",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/sismo-en-antioquia-el-dagran-evalua-danos-en-26-municipios-priorizados-tras-el-terremoto-de-magnitud-7-4-que-azoto-al-pacifico-colombiano-3578666",
+        "published_date": "2026-08-15 17:40:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "The challenge of rebuilding Cali after the earthquake: three years of work and an investment of $10 billion to overcome the emergency",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/el-reto-de-reconstruir-a-cali-tras-el-terremoto-tres-anos-de-trabajo-y-una-inversion-de-10-billones-para-superar-la-emergencia-3578662",
+        "published_date": "2026-08-15 17:16:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "$201,637,565 billion",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/opinion/201-637-565-miles-de-millones/",
+        "published_date": "2026-08-15 17:09:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "De la Espriella confirmed that Israel sends humanitarian support to the country",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/de-la-espriella-confirmo-que-israel-envia-apoyo-humanitario-al-pais-tras-reciente-terremoto-4459950",
+        "published_date": "2026-08-15 16:50:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "'She fought against the waves until she couldn't take it anymore': witness recounts the dramatic shipwreck that left a Spanish tourist dead in Tayrona Park",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/ella-lucho-contra-las-olas-hasta-que-no-pudo-mas-testigo-relata-el-dramatico-naufragio-que-dejo-una-turista-espanola-muerta-en-el-parque-tayrona-3578656",
+        "published_date": "2026-08-15 16:50:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cHands up\u201d: criticism of Abelardo via video during a visit to Cairo, Valle",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/manos-arriba-criticas-a-abelardo-por-video-en-visita-a-el-cairo-valle/",
+        "published_date": "2026-08-15 16:49:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "They find Valentina, mother of Salom\u00f3n, dead, a baby rescued alive with his father in Cali: this was the marathon day of his search",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/hallan-sin-vida-a-valentina-mama-de-salomon-bebe-rescatado-con-vida-junto-a-su-padre-en-cali-asi-fue-la-maratonica-jornada-de-su-busqueda-3578642",
+        "published_date": "2026-08-15 16:38:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "They murdered the former mayor of Rionegro, Wilson Gonz\u00e1lez: this was his strange homicide after being investigated and fleeing from justice",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/asesinaron-a-exalcalde-de-rionegro-wilson-gonzalez-asi-fue-su-extrano-homicidio-luego-de-ser-investigado-y-que-huyera-de-la-justicia-3578633",
+        "published_date": "2026-08-15 16:32:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cundinamarca suspends permits for road closures due to earthquake for 20 days",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/cundinamarca-suspende-por-20-dias-permisos-para-cierres-viales-tras-el-reciente-terremoto-4459939",
+        "published_date": "2026-08-15 16:25:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "From the technician to the tweeter, the rapid change of Abelardo de la Espriella in the direction of the DNP",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/del-tecnico-al-tuitero-el-rapido-cambiazo-de-de-la-espriella-en-la-direccion-del-dnp-4459916",
+        "published_date": "2026-08-15 15:42:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tremor in Colombia today, August 15: new earthquakes were recorded in Santander and Choc\u00f3",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-en-colombia-hoy-15-de-agosto-se-registraron-nuevos-sismos-en-santander-y-choco-3578652",
+        "published_date": "2026-08-15 15:22:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "The other reconstruction",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/opinion/la-otra-reconstruccion/",
+        "published_date": "2026-08-15 15:15:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Between collapse and hope: this is how the extraction work of the Vanessa building progresses after the earthquake in Cali",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/entre-el-colapso-y-la-esperanza-asi-avanzan-los-trabajos-de-extraccion-del-edificio-vanessa-tras-el-terremoto-en-cali-3578650",
+        "published_date": "2026-08-15 15:07:29",
+        "category": "Local Events"
     },
     {
         "title": "Earthquake in Colombia today, August 15: the president, Abelardo De La Espriella, announced resources to recover hospitals in Valle del Cauca",
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/otras-ciudades/terremoto-en-colombia-hoy-15-de-agosto-karol-g-y-maluma-lideraran-un-concierto-solidario-tras-la-emergencia-ee-uu-suma-us-11-millones-en-ayuda-3578587",
         "published_date": "2026-08-15 05:47:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "They kill alias Momo in Antioquia, an alleged leader of the Gulf clan: this was announced by the president of Colombia, Abelardo De La Espriella",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/dan-de-baja-a-alias-momo-en-antioquia-un-presunto-cabecilla-del-clan-del-golfo-asi-lo-anuncio-el-presidente-de-colombia-abelardo-de-la-espriella-3578589",
-        "published_date": "2026-08-15 05:06:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "'NEETS' at the end of the first semester totaled 2.37 million, according to Dane",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/ninis-al-cierre-del-primer-semestre-sumaron-2-37-millones-4459683",
-        "published_date": "2026-08-15 05:01:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cWe are going to start with rental subsidies starting next week\u201d",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/jaime-andres-beltran-ministro-de-vivienda-hablo-sobre-como-se-entregaran-los-subsidios-a-quienes-perdieron-sus-viviendas-4458852",
-        "published_date": "2026-08-15 05:01:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Most earthquake rescues are done by local teams and the community",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/detector-de-mentiras/la-mayoria-de-rescates-en-terremotos-los-hacen-equipos-locales-y-la-comunidad/",
-        "published_date": "2026-08-15 01:49:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Who is Diela Liliana Benavides Solarte",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-diela-liliana-benavides/",
-        "published_date": "2026-08-15 01:43:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "Who is Miguel \u00c1ngel Barreto Castillo",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-miguel-angel-barrero-castillo/",
-        "published_date": "2026-08-15 01:24:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "Who is Daniel Restrepo Carmona",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/quien-es-quien/quien-daniel-restrepo-carmona/",
-        "published_date": "2026-08-15 01:09:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "Who is Wilder Iberson Escobar Ortiz",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-wilder-iberson-escobar-ortiz/",
-        "published_date": "2026-08-15 00:56:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "Juli\u00e1n Buitrago will be the director of the DNP after the fall of Sep\u00falveda's appointment",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/julian-buitrago-sera-el-director-del-dnp-tras-caida-del-nombramiento-de-carlos-sepulveda-4459708",
-        "published_date": "2026-08-15 00:51:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "Who is Gustavo Adolfo Moreno Hurtado",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-gustavo-adolfo-moreno-hurtado/",
-        "published_date": "2026-08-15 00:41:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sleep informed with the movements of this August 14, 2026",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-movidas-de-este-14-de-agosto-de-2026/",
-        "published_date": "2026-08-15 00:23:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "Parties nominate their candidates to renew the CNE",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/partidos-postulan-sus-candidatos-para-renovar-el-cne/",
-        "published_date": "2026-08-15 00:09:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "We close registrations for What is happening in Colombia",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/cerramos-inscripciones-de-que-esta-pasando-en-colombia/",
-        "published_date": "2026-08-14 23:56:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "The last call of the Mexican couple with their relatives before disappearing in Pereira after the earthquake in Colombia: clues with which they are looking for them",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/la-ultima-llamada-de-la-pareja-mexicana-con-sus-familiares-antes-de-desaparecer-en-pereira-tras-terremoto-en-colombia-pistas-con-las-que-los-buscan-3578584",
-        "published_date": "2026-08-14 23:22:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Hands that soothe after the earthquake: the story of the health brigade that assists exhausted rescuers and volunteers in Cali",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/manos-que-alivian-tras-el-terremoto-la-historia-de-la-brigada-de-salud-que-asiste-a-los-rescatistas-y-voluntarios-exhaustos-en-cali-3578578",
-        "published_date": "2026-08-14 22:23:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mar\u00eda Isabel Campo, director of Fontur, is Ape Cuello's cousin",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/nueva-directora-de-fontur-es-prima-de-ape-cuello/",
-        "published_date": "2026-08-14 22:07:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "We must talk about vulnerable societies and not \u201cnatural\u201d disasters",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-verde/hay-que-hablar-de-sociedades-vulnerables-y-no-de-desastres-naturales/",
-        "published_date": "2026-08-14 21:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "World Bank disburses US$200 million to respond to the earthquake",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/banco-mundial-desembolsa-us200-millones-para-atender-el-terremoto/",
-        "published_date": "2026-08-14 21:04:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "22 of 23 goals to avoid biodiversity loss are not being met",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/22-de-23-metas-para-evitar-perdida-de-biodiversidad-no-se-estan-cumpliendo/",
-        "published_date": "2026-08-14 21:00:29",
         "category": "Local Events"
     }
 ]
