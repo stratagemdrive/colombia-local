@@ -105,13 +105,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "US announces USD 1 billion package for new government",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/ee-uu-anuncia-paquete-de-usd-1-000-millones-para-el-nuevo-gobierno/",
-        "published_date": "2026-08-08 13:44:26",
-        "category": "Diplomacy"
-    },
-    {
         "title": "Fire in Medell\u00edn, on Las Palmas road, was caused: security cameras helped authorities locate and capture the alleged perpetrator",
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/medellin/incendio-en-medellin-en-la-via-las-palmas-fue-provocado-camaras-de-seguridad-ayudaron-a-las-autoridades-a-ubicar-y-capturar-al-presunto-responsable-3578718",
@@ -210,25 +203,11 @@
         "category": "Military"
     },
     {
-        "title": "The first Security Council defined the regional strategy",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/el-primer-consejo-de-seguridad-definio-la-estrategia-regional/",
-        "published_date": "2026-08-08 17:39:03",
-        "category": "Military"
-    },
-    {
-        "title": "Abelardo ordered the transfer of 117 prisoners linked to peace talks",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/abelardo-ordeno-trasladar-a-117-presos-vinculados-a-dialogos-de-paz/",
-        "published_date": "2026-08-08 16:17:50",
-        "category": "Military"
-    },
-    {
-        "title": "Drone attack against Police substation in Cesar leaves one uniformed officer dead and another injured: authorities reject attack",
+        "title": "Cali recovers 100% of its energy after the earthquake and faces new water maintenance",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/ataque-con-drones-contra-subestacion-de-policia-en-cesar-deja-un-uniformado-muerto-y-otro-herido-autoridades-rechazan-atentado-3577025",
-        "published_date": "2026-08-08 13:45:18",
-        "category": "Military"
+        "url": "https://www.eltiempo.com/colombia/cali/cali-recupera-el-100-de-la-energia-tras-la-emergencia-y-enfrenta-nuevos-mantenimientos-de-agua-3578782",
+        "published_date": "2026-08-16 15:49:33",
+        "category": "Energy"
     },
     {
         "title": "One more: the United States donates another $US11 million for the earthquake",
@@ -343,13 +322,6 @@
         "category": "Energy"
     },
     {
-        "title": "What is behind the dissident attacks in Tolima and Huila?Extortion, illegal mining and the war over territory that has the region on alert",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/que-hay-detras-de-ataques-de-disidencias-en-tolima-y-huila-extorsiones-mineria-ilegal-y-la-guerra-por-el-territorio-que-tiene-en-alerta-a-la-region-3577013",
-        "published_date": "2026-08-08 11:34:29",
-        "category": "Energy"
-    },
-    {
         "title": "Abelardo spoke with Trump: he thanked for help and asked to suspend tariffs",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/abelardo-hablo-con-trump-agradecio-ayudas-y-pidio-suspender-aranceles/",
@@ -413,157 +385,143 @@
         "category": "Economy"
     },
     {
-        "title": "\"They leave us with the largest fiscal deficit in our history\", new Minister of Finance",
+        "title": "Spend your Sunday with these opinion columns about the earthquake",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/pase-el-domingo-con-estas-columnas-de-opinion-sobre-el-terremoto/",
+        "published_date": "2026-08-16 20:31:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "MinTIC accepted the resignation of the general secretary after the president's request",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/declaraciones-de-miguel-gomez-nuevo-ministro-de-hacienda-4453970",
-        "published_date": "2026-08-08 20:11:08",
-        "category": "Economy"
+        "url": "https://www.larepublica.co/economia/mintic-acepto-renuncia-de-secretaria-general-tras-solicitud-del-presidente-de-la-espriella-4460271",
+        "published_date": "2026-08-16 19:49:26",
+        "category": "Local Events"
     },
     {
-        "title": "Former director of Fedesarrollo qualifies the elimination of the wealth tax as \"necessary\"",
+        "title": "The memory of the Social Outbreak is a democratic guarantee",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/la-memoria-del-estallido-social-es-una-garantia-democratica/",
+        "published_date": "2026-08-16 19:47:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "De La Espriella asked the ICT Minister to review appointments made",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/luid-fernando-mejia-califica-como-necesaria-la-eliminacion-de-impuesto-al-patrimonio-4453886",
-        "published_date": "2026-08-08 17:02:51",
-        "category": "Economy"
+        "url": "https://www.larepublica.co/economia/de-la-espriella-solicito-a-la-ministra-de-tics-revisar-los-nombramientos-hechos-en-la-cartera-4460268",
+        "published_date": "2026-08-16 19:27:54",
+        "category": "Local Events"
     },
     {
-        "title": "The people save the people: solidarity after the earthquake",
+        "title": "The Pope confronts AI",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/el-pueblo-salva-el-pueblo-la-solidaridad-tras-el-terremoto/",
-        "published_date": "2026-08-16 06:00:00",
+        "url": "https://www.lasillavacia.com/silla-nacional/el-papa-confronta-la-ia/",
+        "published_date": "2026-08-16 19:10:00",
         "category": "Local Events"
     },
     {
-        "title": "IOM warns about the risk of human trafficking after a 7.4 magnitude earthquake in Colombia and provides recommendations to prevent this crime",
+        "title": "The fire does not give truce in Antioquia: operations are deployed in several municipalities to stop the flames",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/oim-alerta-por-riesgo-de-trata-de-personas-tras-terremoto-de-7-4-en-colombia-y-entrega-recomendaciones-para-prevenir-este-delito-3578722",
-        "published_date": "2026-08-16 05:50:45",
+        "url": "https://www.eltiempo.com/colombia/medellin/el-fuego-no-da-tregua-en-antioquia-despliegan-operativos-en-varios-municipios-para-frenar-las-llamas-3578795",
+        "published_date": "2026-08-16 17:57:21",
         "category": "Local Events"
     },
     {
-        "title": "Earthquakes in Choc\u00f3: Colombian Geological Service reported several movements this Sunday, August 16;know magnitude and depth",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/sismos-en-choco-servicio-geologico-colombiano-reporto-varios-movimientos-este-domingo-16-de-agosto-conozca-magnitud-y-profundidad-3578721",
-        "published_date": "2026-08-16 05:07:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "'Here there is a live one': the eternal minutes of Mateo Yepes under the rubble of his house in Pereira after the earthquake",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/aqui-hay-un-vivo-los-eternos-minutos-de-mateo-yepes-bajo-los-escombros-de-su-casa-en-pereira-tras-el-terremoto-3578688",
-        "published_date": "2026-08-16 00:25:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "The story of the dog who spent four days under the rubble in Cali and came out thanks to rescue teams from Colombia and Brazil",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/la-historia-de-la-perrita-que-estuvo-cuatro-dias-bajo-los-escombros-en-cali-y-salio-gracias-a-equipos-de-rescate-de-colombia-y-brasil-3578717",
-        "published_date": "2026-08-15 23:43:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "About Abelardo de la Espriella",
+        "title": "Gilinski family will donate $150 billion to rebuild Cali",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/opinion/sobre-abelardo-de-la-espriella/",
-        "published_date": "2026-08-15 23:25:00",
+        "url": "https://www.lasillavacia.com/en-vivo/familia-gilinski-donara-150-mil-millones-para-reconstruir-cali/",
+        "published_date": "2026-08-16 17:37:07",
         "category": "Local Events"
     },
     {
-        "title": "Parallel to the earthquake, Colombia registers more than 30 active fires",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/paralelo-al-terremoto-colombia-registra-mas-de-30-incendios-activos/",
-        "published_date": "2026-08-15 22:58:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cali faces the worst tragedy in more than 70 years: this is how the search and reconstruction work is going",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/cali-enfrenta-la-peor-tragedia-en-mas-de-70-anos-asi-van-las-labores-de-busqueda-y-reconstruccion-3578684",
-        "published_date": "2026-08-15 22:34:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "Pereira mourns almost 100 victims while continuing to search for his more than 270 missing",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/pereira-llora-a-casi-100-victimas-mientras-sigue-buscando-3578681",
-        "published_date": "2026-08-15 22:30:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "Choc\u00f3: the challenge of recovering a department marked by state oblivion, long before the earthquake",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/choco-el-reto-de-recuperar-un-departamento-marcado-por-el-olvido-estatal-mucho-antes-del-terremoto-3578686",
-        "published_date": "2026-08-15 22:28:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "'The most difficult thing is yet to come': doctor and musician from Cali warns about the importance of emotional and preventive care against infections after the earthquake",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/lo-mas-dificil-esta-por-venir-medico-y-musico-caleno-advierte-sobre-la-importancia-del-cuidado-emocional-y-preventivo-ante-infecciones-tras-sismo-3578611",
-        "published_date": "2026-08-15 21:37:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "The double ordeal of Gisela S\u00e1nchez for burying her mother with dignity in Cali: she asked that the photos of her dead mother not go viral",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/el-doble-calvario-de-gisela-sanchez-por-enterrar-a-su-mama-con-dignidad-en-cali-pedia-que-no-viralizaran-las-fotos-de-su-madre-muerta-3578608",
-        "published_date": "2026-08-15 21:32:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "The country we inhabit is not the same one we administer",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/el-pais-que-habitamos-no-es-el-mismo-que-administramos/",
-        "published_date": "2026-08-15 20:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Colombia and Venezuela want to revive a relationship that moved US$7 billion",
+        "title": "\u201cI have more than 15 years in the financial sector managing debt and investment portfolios\u201d",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/colombia-y-venezuela-vuelven-a-mirar-hacia-la-frontera-comercio-podria-llegar-a-us-1-600-millones-en-2026-4460005",
-        "published_date": "2026-08-15 19:55:43",
+        "url": "https://www.larepublica.co/economia/tengo-mas-de-15-anos-en-el-sector-financiero-manejando-deuda-publica-y-portafolios-de-inversion-4460214",
+        "published_date": "2026-08-16 17:00:43",
         "category": "Local Events"
     },
     {
-        "title": "Ludmila Vergara assumes SuperTransporte and these are the challenges she will have",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/ludmila-vergara-asume-la-superintendencia-de-transporte-y-estos-son-los-retos-que-tendra-4459999",
-        "published_date": "2026-08-15 19:30:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "Anla confirms compliance with environmental condition for Northern Access Phase II",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/anla-confirma-cumplimiento-de-condicion-ambiental-para-accesos-norte-fase-ii-4459967",
-        "published_date": "2026-08-15 18:51:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "The challenges that come in reconstruction after the earthquake",
+        "title": "Who is Juan Carlos Garc\u00eda G\u00f3mez",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/opinion/los-retos-que-vienen-en-la-reconstruccion-despues-del-terremoto/",
-        "published_date": "2026-08-15 18:30:06",
+        "url": "https://www.lasillavacia.com/quien-es-quien/juan-carlos-garcia-gomez/",
+        "published_date": "2026-08-16 16:54:59",
         "category": "Local Events"
     },
     {
-        "title": "Earthquake in Antioquia: Dagran evaluates damage in 26 prioritized municipalities after the 7.4 magnitude earthquake that hit the Colombian Pacific",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/sismo-en-antioquia-el-dagran-evalua-danos-en-26-municipios-priorizados-tras-el-terremoto-de-magnitud-7-4-que-azoto-al-pacifico-colombiano-3578666",
-        "published_date": "2026-08-15 17:40:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "The challenge of rebuilding Cali after the earthquake: three years of work and an investment of $10 billion to overcome the emergency",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/el-reto-de-reconstruir-a-cali-tras-el-terremoto-tres-anos-de-trabajo-y-una-inversion-de-10-billones-para-superar-la-emergencia-3578662",
-        "published_date": "2026-08-15 17:16:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "$201,637,565 billion",
+        "title": "New balance of the earthquake: 289 dead and 143 missing",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/opinion/201-637-565-miles-de-millones/",
-        "published_date": "2026-08-15 17:09:46",
+        "url": "https://www.lasillavacia.com/en-vivo/nuevo-balance-del-terremoto-289-fallecidos-y-143-desaparecidos/",
+        "published_date": "2026-08-16 16:47:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "The WhatsApp message that saved a mother and her son from dying under the rubble in Risaralda after the earthquake",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/el-mensaje-de-whatsapp-que-salvo-a-una-madre-y-a-su-hijo-de-morir-bajo-los-escombros-en-risaralda-3578791",
+        "published_date": "2026-08-16 16:44:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "Who is Luis Eduardo D\u00edaz Mateus",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-luis-eduardo-diaz-mateus/",
+        "published_date": "2026-08-16 16:42:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "Who is Marcos Daniel Pineda Garc\u00eda",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/quien-es-quien/marcos-daniel-pineda-garcia/",
+        "published_date": "2026-08-16 16:25:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "Producing is not enough, it is necessary to guarantee decent income for the countryside",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-rural/producir-no-basta-es-necesario-garantizar-ingresos-dignos-para-el-campo/",
+        "published_date": "2026-08-16 16:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cry from the icon of blind and deaf children of the Valley for resources for their reconstruction after the earthquake: 'Pain for two companions when trying to leave'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/clamor-del-icono-de-ninos-ciegos-y-sordos-del-valle-por-recursos-para-su-reconstruccion-tras-terremoto-dolor-por-dos-companeros-al-tratar-de-salir-3578783",
+        "published_date": "2026-08-16 15:52:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "30 tons of aid have left the collection center of the Atl\u00e1ntico Government for those affected by the earthquake: the campaign seeks to reach 50",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/30-toneladas-de-ayudas-han-salido-del-centro-de-acopio-de-la-gobernacion-del-atlantico-para-afectados-por-el-terremoto-campana-busca-llegar-a-las-3578771",
+        "published_date": "2026-08-16 14:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Red sky in Colombia after the earthquake: this is the scientific explanation of the phenomenon that surprised Galeras",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/cielo-rojo-en-colombia-tras-el-terremoto-esta-es-la-explicacion-cientifica-del-fenomeno-que-sorprendio-a-galeras-3578778",
+        "published_date": "2026-08-16 14:10:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Atl\u00e9tico Bucaramanga exchanged autographs for humanitarian aid for the earthquake: it was a success, they collected 12 tons of donations in two hours",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/atletico-bucaramanga-cambio-autografos-por-ayudas-humanitarias-para-el-terremoto-fue-un-exito-recogieron-en-dos-horas-12-toneladas-de-donaciones-3578769",
+        "published_date": "2026-08-16 13:17:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "Antioquia and Medell\u00edn unite after the earthquake and mobilize billions for the areas in emergency: these are the impressive figures",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/antioquia-y-medellin-se-unen-tras-el-sismo-y-movilizan-miles-de-millones-para-las-zonas-en-emergencia-estas-son-las-impresionantes-cifras-3578770",
+        "published_date": "2026-08-16 12:55:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "With four and a half months left until the end of the year, homicides in 2026 already exceed those that occurred during 2025 in Barranquilla and its metropolitan area",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/a-falta-de-cuatro-meses-y-medio-para-fin-de-ano-los-homicidios-de-2026-ya-superan-los-ocurridos-durante-2025-en-barranquilla-y-su-area-metropolitana-3578762",
+        "published_date": "2026-08-16 12:25:00",
         "category": "Local Events"
     }
 ]
