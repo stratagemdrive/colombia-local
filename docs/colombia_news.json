@@ -112,6 +112,13 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Fire in Medell\u00edn, on Las Palmas road, was caused: security cameras helped authorities locate and capture the alleged perpetrator",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/incendio-en-medellin-en-la-via-las-palmas-fue-provocado-camaras-de-seguridad-ayudaron-a-las-autoridades-a-ubicar-y-capturar-al-presunto-responsable-3578718",
+        "published_date": "2026-08-16 00:25:46",
+        "category": "Military"
+    },
+    {
         "title": "They capture an armed motorcyclist in an exclusive sector of northern Barranquilla and an alleged drug dealer with 100 doses of marijuana in Soledad",
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/barranquilla/capturan-a-motociclista-armado-en-exclusivo-sector-del-norte-de-barranquilla-y-a-presunto-expendedor-de-droga-con-100-dosis-de-marihuana-en-soledad-3578665",
@@ -221,27 +228,6 @@
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/otras-ciudades/ataque-con-drones-contra-subestacion-de-policia-en-cesar-deja-un-uniformado-muerto-y-otro-herido-autoridades-rechazan-atentado-3577025",
         "published_date": "2026-08-08 13:45:18",
-        "category": "Military"
-    },
-    {
-        "title": "Night of terror and fear in three municipalities in the north of Nari\u00f1o: multiple harassments against police stations were recorded",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/noche-de-terror-y-miedo-en-tres-municipios-del-norte-de-narino-se-registraron-multiples-hostigamientos-contra-estaciones-de-policia-3577010",
-        "published_date": "2026-08-08 11:09:52",
-        "category": "Military"
-    },
-    {
-        "title": "Keys to Abelardo's first speech: security, health and cultural battle",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/claves-del-primer-discurso-de-abelardo-seguridad-salud-y-batalla-cultural/",
-        "published_date": "2026-08-08 04:49:32",
-        "category": "Military"
-    },
-    {
-        "title": "Abelardo has already begun to appoint the ministers of his cabinet",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/abelardo-ya-comenzo-a-posesionar-a-los-ministros-de-su-gabinete/",
-        "published_date": "2026-08-08 02:00:33",
         "category": "Military"
     },
     {
@@ -364,13 +350,6 @@
         "category": "Energy"
     },
     {
-        "title": "Abelardo announces tax reform and end of wealth tax",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/abelardo-anuncia-reforma-tributaria-y-fin-de-impuesto-al-patrimonio/",
-        "published_date": "2026-08-07 23:41:35",
-        "category": "Energy"
-    },
-    {
         "title": "Abelardo spoke with Trump: he thanked for help and asked to suspend tariffs",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/abelardo-hablo-con-trump-agradecio-ayudas-y-pidio-suspender-aranceles/",
@@ -448,10 +427,87 @@
         "category": "Economy"
     },
     {
+        "title": "The people save the people: solidarity after the earthquake",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/el-pueblo-salva-el-pueblo-la-solidaridad-tras-el-terremoto/",
+        "published_date": "2026-08-16 06:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "IOM warns about the risk of human trafficking after a 7.4 magnitude earthquake in Colombia and provides recommendations to prevent this crime",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/oim-alerta-por-riesgo-de-trata-de-personas-tras-terremoto-de-7-4-en-colombia-y-entrega-recomendaciones-para-prevenir-este-delito-3578722",
+        "published_date": "2026-08-16 05:50:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Earthquakes in Choc\u00f3: Colombian Geological Service reported several movements this Sunday, August 16;know magnitude and depth",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/sismos-en-choco-servicio-geologico-colombiano-reporto-varios-movimientos-este-domingo-16-de-agosto-conozca-magnitud-y-profundidad-3578721",
+        "published_date": "2026-08-16 05:07:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "'Here there is a live one': the eternal minutes of Mateo Yepes under the rubble of his house in Pereira after the earthquake",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/aqui-hay-un-vivo-los-eternos-minutos-de-mateo-yepes-bajo-los-escombros-de-su-casa-en-pereira-tras-el-terremoto-3578688",
+        "published_date": "2026-08-16 00:25:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "The story of the dog who spent four days under the rubble in Cali and came out thanks to rescue teams from Colombia and Brazil",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/la-historia-de-la-perrita-que-estuvo-cuatro-dias-bajo-los-escombros-en-cali-y-salio-gracias-a-equipos-de-rescate-de-colombia-y-brasil-3578717",
+        "published_date": "2026-08-15 23:43:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "About Abelardo de la Espriella",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/opinion/sobre-abelardo-de-la-espriella/",
+        "published_date": "2026-08-15 23:25:00",
+        "category": "Local Events"
+    },
+    {
         "title": "Parallel to the earthquake, Colombia registers more than 30 active fires",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/paralelo-al-terremoto-colombia-registra-mas-de-30-incendios-activos/",
         "published_date": "2026-08-15 22:58:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cali faces the worst tragedy in more than 70 years: this is how the search and reconstruction work is going",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/cali-enfrenta-la-peor-tragedia-en-mas-de-70-anos-asi-van-las-labores-de-busqueda-y-reconstruccion-3578684",
+        "published_date": "2026-08-15 22:34:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "Pereira mourns almost 100 victims while continuing to search for his more than 270 missing",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/pereira-llora-a-casi-100-victimas-mientras-sigue-buscando-3578681",
+        "published_date": "2026-08-15 22:30:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "Choc\u00f3: the challenge of recovering a department marked by state oblivion, long before the earthquake",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/choco-el-reto-de-recuperar-un-departamento-marcado-por-el-olvido-estatal-mucho-antes-del-terremoto-3578686",
+        "published_date": "2026-08-15 22:28:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "'The most difficult thing is yet to come': doctor and musician from Cali warns about the importance of emotional and preventive care against infections after the earthquake",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/lo-mas-dificil-esta-por-venir-medico-y-musico-caleno-advierte-sobre-la-importancia-del-cuidado-emocional-y-preventivo-ante-infecciones-tras-sismo-3578611",
+        "published_date": "2026-08-15 21:37:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "The double ordeal of Gisela S\u00e1nchez for burying her mother with dignity in Cali: she asked that the photos of her dead mother not go viral",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/el-doble-calvario-de-gisela-sanchez-por-enterrar-a-su-mama-con-dignidad-en-cali-pedia-que-no-viralizaran-las-fotos-de-su-madre-muerta-3578608",
+        "published_date": "2026-08-15 21:32:01",
         "category": "Local Events"
     },
     {
@@ -508,83 +564,6 @@
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/opinion/201-637-565-miles-de-millones/",
         "published_date": "2026-08-15 17:09:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "De la Espriella confirmed that Israel sends humanitarian support to the country",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/de-la-espriella-confirmo-que-israel-envia-apoyo-humanitario-al-pais-tras-reciente-terremoto-4459950",
-        "published_date": "2026-08-15 16:50:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "'She fought against the waves until she couldn't take it anymore': witness recounts the dramatic shipwreck that left a Spanish tourist dead in Tayrona Park",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/ella-lucho-contra-las-olas-hasta-que-no-pudo-mas-testigo-relata-el-dramatico-naufragio-que-dejo-una-turista-espanola-muerta-en-el-parque-tayrona-3578656",
-        "published_date": "2026-08-15 16:50:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cHands up\u201d: criticism of Abelardo via video during a visit to Cairo, Valle",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/manos-arriba-criticas-a-abelardo-por-video-en-visita-a-el-cairo-valle/",
-        "published_date": "2026-08-15 16:49:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "They find Valentina, mother of Salom\u00f3n, dead, a baby rescued alive with his father in Cali: this was the marathon day of his search",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/hallan-sin-vida-a-valentina-mama-de-salomon-bebe-rescatado-con-vida-junto-a-su-padre-en-cali-asi-fue-la-maratonica-jornada-de-su-busqueda-3578642",
-        "published_date": "2026-08-15 16:38:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "They murdered the former mayor of Rionegro, Wilson Gonz\u00e1lez: this was his strange homicide after being investigated and fleeing from justice",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/asesinaron-a-exalcalde-de-rionegro-wilson-gonzalez-asi-fue-su-extrano-homicidio-luego-de-ser-investigado-y-que-huyera-de-la-justicia-3578633",
-        "published_date": "2026-08-15 16:32:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cundinamarca suspends permits for road closures due to earthquake for 20 days",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/cundinamarca-suspende-por-20-dias-permisos-para-cierres-viales-tras-el-reciente-terremoto-4459939",
-        "published_date": "2026-08-15 16:25:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "From the technician to the tweeter, the rapid change of Abelardo de la Espriella in the direction of the DNP",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/del-tecnico-al-tuitero-el-rapido-cambiazo-de-de-la-espriella-en-la-direccion-del-dnp-4459916",
-        "published_date": "2026-08-15 15:42:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tremor in Colombia today, August 15: new earthquakes were recorded in Santander and Choc\u00f3",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-en-colombia-hoy-15-de-agosto-se-registraron-nuevos-sismos-en-santander-y-choco-3578652",
-        "published_date": "2026-08-15 15:22:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "The other reconstruction",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/opinion/la-otra-reconstruccion/",
-        "published_date": "2026-08-15 15:15:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Between collapse and hope: this is how the extraction work of the Vanessa building progresses after the earthquake in Cali",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/entre-el-colapso-y-la-esperanza-asi-avanzan-los-trabajos-de-extraccion-del-edificio-vanessa-tras-el-terremoto-en-cali-3578650",
-        "published_date": "2026-08-15 15:07:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Earthquake in Colombia today, August 15: the president, Abelardo De La Espriella, announced resources to recover hospitals in Valle del Cauca",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/terremoto-en-colombia-hoy-15-de-agosto-karol-g-y-maluma-lideraran-un-concierto-solidario-tras-la-emergencia-ee-uu-suma-us-11-millones-en-ayuda-3578587",
-        "published_date": "2026-08-15 05:47:47",
         "category": "Local Events"
     }
 ]
