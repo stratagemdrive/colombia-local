@@ -1,5 +1,26 @@
 [
     {
+        "title": "Eljach says that there are no proceedings against minVivienda for going for a walk",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/eljach-dice-que-no-hay-procesos-contra-minvivienda-por-irse-de-paseo/",
+        "published_date": "2026-08-18 22:11:32",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Joan Dur\u00e1n: family denounces lack of information from ICE for her murder",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/joan-duran-familia-denuncia-falta-de-informacion-del-ice-por-su-asesinato/",
+        "published_date": "2026-08-18 21:19:33",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Abelardo insisted the US suspend tariffs.Now with Marco Rubio",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/abelardo-insistio-a-ee-uu-suspender-aranceles-ahora-con-marco-rubio/",
+        "published_date": "2026-08-18 19:06:51",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Mar\u00eda Consuelo Ara\u00fajo, new ambassador of Colombia to the United States",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/maria-consuelo-araujo-nueva-embajadora-de-colombia-en-estados-unidos/",
@@ -84,32 +105,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "The monument to the resistance of Cali did not collapse due to the earthquake",
+        "title": "Drug trafficking and China drive US interest in Colombia",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/el-monumento-a-la-resistencia-de-cali-no-se-derrumbo-por-el-terremoto/",
-        "published_date": "2026-08-10 20:31:29",
-        "category": "Diplomacy"
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/el-narcotrafico-y-china-mueven-el-interes-de-ee-uu-en-colombia/",
+        "published_date": "2026-08-18 22:30:00",
+        "category": "Military"
     },
     {
-        "title": "Colombia recognizes sovereignty of the kingdom of Morocco in Western Sahara",
+        "title": "Tolima maintains 17 active fires and the fire has already affected more than 11,000 hectares",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/colombia-reconoce-soberania-del-reino-de-marruecos-en-el-sahara-occidental-4454702",
-        "published_date": "2026-08-10 17:10:22",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Mayors deliver first balance sheets after earthquake in San Jos\u00e9 del Palmar",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/reacciones-de-los-alcaldes-ante-el-sismo-de-7-4-registrado-en-horas-de-la-manana-4454616",
-        "published_date": "2026-08-10 14:40:12",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "The US will provide US$1 billion in security assistance to the new government",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/ee-uu-planea-brindar-asistencia-de-seguridad-por-us-1-000-millones-al-nuevo-gobierno-4454480",
-        "published_date": "2026-08-10 12:35:24",
-        "category": "Diplomacy"
+        "url": "https://www.larepublica.co/economia/tolima-tiene-17-incendios-activos-y-se-han-afectado-11-000-hectareas-por-el-fuego-4460709",
+        "published_date": "2026-08-18 13:11:33",
+        "category": "Military"
     },
     {
         "title": "Fire in Medell\u00edn, on Las Palmas road, was caused: security cameras helped authorities locate and capture the alleged perpetrator",
@@ -294,11 +301,39 @@
         "category": "Energy"
     },
     {
-        "title": "Bolivia eliminated its Ministry of the Environment for the second time",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/bolivia-elimino-su-ministerio-de-medio-ambiente-por-segunda-vez/",
-        "published_date": "2026-08-10 22:11:23",
-        "category": "Energy"
+        "title": "Issuer completed its first dollar purchase auction, acquiring US$399.9 million",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/emisor-culmino-primera-subasta-de-compra-de-dolares-adquirio-us-399-9-millones-4461426",
+        "published_date": "2026-08-18 22:35:21",
+        "category": "Economy"
+    },
+    {
+        "title": "MinHacienda decreed a new tax calendar for those affected by the earthquake",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/minhacienda-expidio-decreto-con-el-calendario-tributario-para-afectados-por-sismo-4461387",
+        "published_date": "2026-08-18 22:10:48",
+        "category": "Economy"
+    },
+    {
+        "title": "Government warns of a deficit of 7.8% of GDP, which would equal the level recorded in the pandemic",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/gobierno-de-la-espriella-preve-por-deficit-fiscal-de-7-8-del-pib-para-el-cierre-del-ano-4461142",
+        "published_date": "2026-08-18 18:53:17",
+        "category": "Economy"
+    },
+    {
+        "title": "\"We hope that the Bank of the Republic will raise interest rates again this year\"",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/entrevista-con-richard-francis-director-de-calificaciones-soberanas-para-fitch-ratings-4461012",
+        "published_date": "2026-08-18 17:39:48",
+        "category": "Economy"
+    },
+    {
+        "title": "Fitch foresees a fiscal adjustment of 3% of GDP or more that would not be achieved until 2028",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/fitch-preve-un-ajuste-fiscal-de-3-del-pib-o-mas-que-no-se-alcanzaria-hasta-2028-4460878",
+        "published_date": "2026-08-18 14:54:40",
+        "category": "Economy"
     },
     {
         "title": "Financial market analysts forecast GDP of 3.2% in the second quarter of 2026",
@@ -364,150 +399,143 @@
         "category": "Economy"
     },
     {
-        "title": "Inflation slowed to 6.03% in July, contrary to financial market expectations",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/inflacion-se-desacelero-a-6-03-en-julio-contrario-a-expectativas-del-mercado-4455072",
-        "published_date": "2026-08-10 23:21:19",
-        "category": "Economy"
+        "title": "Restrepo, director of the Icbf, ordered the removal of the mural due to political messages",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/restrepo-directora-del-icbf-ordeno-retirar-mural-por-mensajes-politicos/",
+        "published_date": "2026-08-18 23:11:13",
+        "category": "Local Events"
     },
     {
-        "title": "It shook in Choc\u00f3: Colombian Geological Service reported a new earthquake during the early hours of this August 18;know magnitude and depth",
+        "title": "Nature: The \u201cSuper Child\u201d could transform the Amazon",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/nature-el-super-nino-podria-transformar-la-amazonia/",
+        "published_date": "2026-08-18 23:01:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Richard Alexander Caicedo was appointed as the new president of Icetex",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/richard-alexander-caicedo-fue-designado-como-nuevo-presidente-del-icetex-4461383",
+        "published_date": "2026-08-18 22:04:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Duque's gaze and quarry arrive at De la Espriella's MinAmbiente",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-amazonia/la-mirada-y-la-cantera-de-duque-llega-al-minambiente-de-de-la-espriella/",
+        "published_date": "2026-08-18 20:40:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "Earthquake: Shakira, Bbva, Proantioquia and more private companies donate to Colombia",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/terremoto-shakira-bbva-proantioquia-y-mas-privados-donan-a-colombia/",
+        "published_date": "2026-08-18 20:11:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "Reconstruction after the earthquake must be sustainable",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-verde/la-reconstruccion-tras-el-terremoto-debera-ser-sostenible/",
+        "published_date": "2026-08-18 20:11:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "MinTIC canceled fiber optic project for the Amazon",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/mintic-cancelo-proyecto-de-fibra-optica-para-la-amazonia/",
+        "published_date": "2026-08-18 19:21:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "De la Espriella reiterated the request to Marco Rubio to suspend the tariffs",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/de-la-espriella-reitero-la-solicitud-a-marco-rubio-de-suspender-los-aranceles-4461126",
+        "published_date": "2026-08-18 18:35:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Alleged animal abuse in Cartagena: subjects recorded themselves kicking a dog in street condition;They ask to locate the animal and those responsible",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblo-en-choco-servicio-geologico-colombiano-reporto-un-nuevo-sismo-durante-la-madrugada-de-este-18-de-agosto-conozca-magnitud-y-profundidad-3578993",
-        "published_date": "2026-08-18 06:04:41",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/presunto-maltrato-animal-en-cartagena-sujetos-se-grabaron-pateando-a-un-perro-en-condicion-de-calle-piden-ubicar-al-animal-y-a-los-responsables-3579179",
+        "published_date": "2026-08-18 17:59:55",
         "category": "Local Events"
     },
     {
-        "title": "What its reaction to the earthquake reveals about the De La Espriella government",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/lo-que-revela-del-gobierno-de-la-espriella-su-reaccion-al-terremoto/",
-        "published_date": "2026-08-18 06:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Earthquake in Colombia today, August 18: president asks to continue searching for survivors;new earthquakes in Choc\u00f3, Venezuela, Mexico and Spain",
+        "title": "The drama of an Antioch family to repatriate Marlon, a young Paisa who drowned in Paris",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/terremoto-en-colombia-hoy-18-de-agosto-ultimas-noticias-balance-de-la-emergencia-y-nuevos-temblores-en-el-pais-3578987",
-        "published_date": "2026-08-18 05:52:49",
+        "url": "https://www.eltiempo.com/colombia/medellin/el-drama-de-una-familia-antioquena-para-repatriar-a-marlon-un-joven-paisa-que-murio-ahogado-en-paris-3579219",
+        "published_date": "2026-08-18 17:29:08",
         "category": "Local Events"
     },
     {
-        "title": "At the end of 2025, 34,229 taxpayers managed to pay the wealth tax",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/al-cierre-de-2025-34-229-contribuyentes-pagaron-el-impuesto-al-patrimonio-4458861",
-        "published_date": "2026-08-18 05:03:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "Economic emergency decree due to the earthquake would arrive this week",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/decreto-de-emergencia-economica-por-el-terremoto-llegaria-esta-semana-4460171",
-        "published_date": "2026-08-18 05:02:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Dane will reveal data from the Economic Monitoring Index, ISE, for the sixth month of the course",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/dane-revelara-datos-del-indice-de-seguimiento-a-la-economia-ise-para-junio-4459516",
-        "published_date": "2026-08-18 05:01:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "It will be known how much imports amounted to during the first half of 2026",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/se-conocera-cuanto-sumaron-las-importaciones-durante-el-primer-semestre-4459531",
-        "published_date": "2026-08-18 05:01:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "Who is Tatiana Judith Gaona Pinz\u00f3n",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-tatiana-judith-gaona-pinzon/",
-        "published_date": "2026-08-18 04:48:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "Who is Alejandra Gabriela Abasolo G\u00f3mez",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-alejandra-gabriela-abasolo-gomez/",
-        "published_date": "2026-08-18 04:40:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "Who is Juan David Zuluaga Zuluaga",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-juan-david-zuluaga-zuluaga/",
-        "published_date": "2026-08-18 04:29:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Who is Melissa Orrego Eusse",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-melissa-orrego-eusse/",
-        "published_date": "2026-08-18 04:18:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "After a 7.4 magnitude earthquake in Colombia, UNGRD calls not to remove debris until there are survivors ruled out",
+        "title": "The most bitter lesson: the crossroads of 68 schools in the Valley that are seeking conditions to reopen",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/tras-terremoto-de-magnitud-7-4-en-colombia-ungrd-hace-llamado-a-no-remover-escombros-hasta-descartar-que-haya-sobrevivientes-3578986",
-        "published_date": "2026-08-18 04:09:18",
+        "url": "https://www.eltiempo.com/colombia/cali/la-leccion-mas-amarga-la-encrucijada-de-68-colegios-del-valle-que-buscan-condiciones-para-reabrir-3579211",
+        "published_date": "2026-08-18 17:03:15",
         "category": "Local Events"
     },
     {
-        "title": "Who is Heiner de Jes\u00fas Gait\u00e1n Parra",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-heiner-de-jesus-gaitan-parra/",
-        "published_date": "2026-08-18 04:08:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Who is Fernando Arias Cardona",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-fernando-arias-cardona/",
-        "published_date": "2026-08-18 04:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Who is Juan Pablo Duque Gonz\u00e1lez",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-juan-pablo-duque-gonzalez/",
-        "published_date": "2026-08-18 03:49:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "Who is Diego Fernando Zambrano Pardo",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-diego-fernando-zambrano-pardo/",
-        "published_date": "2026-08-18 03:38:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "This is how the peak and plate operates in Medell\u00edn for this Tuesday, August 18, 2026: these are the plates with restriction",
+        "title": "Theme parks of the Coffee Region reopen their doors after the 7.4 earthquake: they begin to reactivate tourism",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/asi-opera-el-pico-y-placa-en-medellin-para-este-martes-18-de-agosto-de-2026-estas-son-las-placas-con-restriccion-3578940",
-        "published_date": "2026-08-18 03:30:00",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/parques-tematicos-del-eje-cafetero-reabren-sus-puertas-tras-el-terremoto-de-7-4-comienzan-a-reactivar-el-turismo-3579209",
+        "published_date": "2026-08-18 16:55:22",
         "category": "Local Events"
     },
     {
-        "title": "Who is Luis Ramiro Ricardo Buelvas",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-luis-ramiro-ricardo-buelvas-2/",
-        "published_date": "2026-08-18 03:28:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "Peak and plate in Bucaramanga for this Tuesday, August 18, 2026: these are the plates with restriction",
+        "title": "The National Registry enabled temporary attention points in Pereira after the damage that the 7.4 magnitude earthquake caused at its headquarters",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/pico-y-placa-en-bucaramanga-para-este-martes-18-de-agosto-de-2026-estas-son-las-placas-con-restriccion-3578941",
-        "published_date": "2026-08-18 02:30:00",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/estos-son-los-puntos-temporales-que-habilito-la-registraduria-nacional-en-pereira-tras-graves-danos-que-dejo-el-terremoto-de-magnitud-7-4-en-colombia-3579206",
+        "published_date": "2026-08-18 16:51:22",
         "category": "Local Events"
     },
     {
-        "title": "Tax collection in Colombia would have reached $197.5 billion and exceeds what analysts expected",
+        "title": "New controls on the V\u00eda al Mar Barranquilla-Cartagena would make the corridor reach seven photo fines: these are the points where they will be installed",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/nuevos-controles-en-la-via-al-mar-barranquilla-cartagena-harian-que-el-corredor-llegue-a-siete-fotomultas-estos-son-los-puntos-donde-seran-instaladas-3579208",
+        "published_date": "2026-08-18 16:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Prison for 'Los Dinos Duros', the gang of assailants and sexual predators that spread terror on the Cartagena-Bar\u00fa highway",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/carcel-para-los-dinos-duros-la-banda-de-asaltantes-y-depredadores-sexuales-que-sembraba-el-terror-en-la-via-cartagena-baru-3579198",
+        "published_date": "2026-08-18 16:07:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "What's next for the Valley, after an earthquake that leaves 189 dead and 488 buildings collapsed?: 'Reconstruction has to start now,' said governor",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/que-viene-para-el-valle-tras-terremoto-que-deja-189-fallecidos-y-488-edificios-colapsados-reconstruccion-tiene-que-empezar-ya-dijo-gobernadora-3579173",
+        "published_date": "2026-08-18 15:45:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cali's heritage jewels in 'restricted use': the silent fragility suffered by historic buildings after the 7.4 earthquake",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/las-joyas-patrimoniales-de-cali-en-uso-restringido-la-fragilidad-silenciosa-que-padecen-edificaciones-historicas-tras-el-sismo-de-7-3579183",
+        "published_date": "2026-08-18 15:40:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "The economy grew 2.9% in the first semester, driven by the State and commerce",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/recaudo-tributario-en-colombia-habria-llegado-a-197-5-billones-y-supera-lo-previsto-4460354",
-        "published_date": "2026-08-17 23:27:39",
+        "url": "https://www.larepublica.co/economia/crecimiento-de-la-economia-colombiana-durante-el-primer-semestre-de-2026-4460927",
+        "published_date": "2026-08-18 15:36:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "The last message that Juan Felipe Giraldo sent to his fiancee before dying after being trapped under the rubble in Pereira due to the earthquake",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/este-fue-el-ultimo-mensaje-que-envio-juan-felipe-giraldo-a-su-prometida-antes-de-morir-bajo-los-escombros-en-pereira-tras-el-terremoto-en-colombia-3579102",
+        "published_date": "2026-08-18 15:35:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "ISE grew 3.51% in the sixth month of the year driven by financial activity",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/ise-crecio-3-51-en-el-sexto-mes-del-ano-impulsado-por-actividad-financieras-4460909",
+        "published_date": "2026-08-18 15:32:18",
         "category": "Local Events"
     }
 ]
