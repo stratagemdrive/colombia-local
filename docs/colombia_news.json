@@ -105,6 +105,20 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Outrage over an aberrant case of animal abuse in Barranquilla: man attacked a dog with a stick and then tried to kill it with a machete",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/indignacion-por-aberrante-caso-de-maltrato-animal-en-barranquilla-hombre-ataco-a-un-perro-con-un-palo-y-luego-intento-matarlo-con-un-machete-3579576",
+        "published_date": "2026-08-20 00:01:00",
+        "category": "Military"
+    },
+    {
+        "title": "Violent escalation in the south of Bol\u00edvar: combined attack with drones and rifles on the Noros\u00ed Police Station leaves seven uniformed officers injured / video",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/escalada-violenta-en-el-sur-de-bolivar-ataque-combinado-con-drones-y-fusiles-a-estacion-de-policia-de-norosi-deja-siete-uniformados-heridos-video-3579563",
+        "published_date": "2026-08-19 21:52:33",
+        "category": "Military"
+    },
+    {
         "title": "Threatening message sent to institutional emails of the University of Cartagena generated panic: 'I will enter the university to cause a bloodbath'",
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/otras-ciudades/mensaje-amenazante-enviado-a-correos-institucionales-de-la-u-de-cartagena-genero-panico-ingresare-a-la-universidad-para-hacer-un-bano-de-sangre-3579467",
@@ -180,6 +194,20 @@
         "url": "https://www.eltiempo.com/colombia/otras-ciudades/asi-fue-el-dramatico-rescate-de-una-mujer-y-su-perro-entre-los-escombros-de-un-edificio-en-cali-tras-el-terremoto-en-colombia-corteme-la-pierna-3578042",
         "published_date": "2026-08-13 01:00:33",
         "category": "Military"
+    },
+    {
+        "title": "\u201cMore than 70% of the LPG supply will be imported during the first half of 2027\u201d",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/mas-de-70-de-la-oferta-de-glp-sera-importada-para-comienzos-de-2027-4462204",
+        "published_date": "2026-08-20 05:01:05",
+        "category": "Energy"
+    },
+    {
+        "title": "Brazil: Forensic science to combat illegal mining",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/brasil-ciencia-forense-para-combatir-la-mineria-ilegal/",
+        "published_date": "2026-08-20 00:16:46",
+        "category": "Energy"
     },
     {
         "title": "\"LPG is already consolidated as one of the energy supply alternatives\"",
@@ -287,11 +315,18 @@
         "category": "Energy"
     },
     {
-        "title": "Earthquake paralyzed coffee exports through the port of Buenaventura",
+        "title": "MinHacienda authorized credit of US$50 million for Barranquilla projects",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/terremoto-paralizo-las-exportaciones-de-cafe-por-el-puerto-de-buenaventura-4456264",
-        "published_date": "2026-08-12 05:03:14",
-        "category": "Energy"
+        "url": "https://www.larepublica.co/economia/minhacienda-autorizo-credito-de-us-50-millones-para-proyectos-de-barranquilla-4462624",
+        "published_date": "2026-08-20 01:16:19",
+        "category": "Economy"
+    },
+    {
+        "title": "MinHacienda elected Jaime Pumarejo as director of Colombia before the IDB",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/minhacienda-eligio-a-jaime-pumarejo-como-director-de-colombia-ante-el-bid-4462511",
+        "published_date": "2026-08-20 00:03:12",
+        "category": "Economy"
     },
     {
         "title": "Earthquake: MinHacienda postpones rent payment in affected areas",
@@ -385,6 +420,83 @@
         "category": "Economy"
     },
     {
+        "title": "Earthquake in Colombia today, Thursday, August 20: three strong tremors were recorded during the early morning;know magnitude, depth and epicenter",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/terremoto-en-colombia-hoy-jueves-20-de-agosto-ultimas-noticias-balance-de-la-emergencia-y-nuevos-temblores-en-el-pais-3579582",
+        "published_date": "2026-08-20 06:16:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "New EPS and vice minister: Joaqu\u00edn Guti\u00e9rrez gains space in Abelardo's government",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/nueva-eps-y-viceministro-joaquin-gutierrez-gana-espacios-en-el-gobierno-de-abelardo/",
+        "published_date": "2026-08-20 06:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Three earthquakes in Choc\u00f3 and Putumayo occurred in the early morning of this Thursday, August 20 in Colombia: know the magnitude and depth",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/tres-temblores-en-choco-y-putumayo-ocurrieron-en-la-madrugada-de-este-jueves-20-de-agosto-en-colombia-conozca-la-magnitud-y-profundidad-3579586",
+        "published_date": "2026-08-20 05:38:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "The revaluation of the peso accelerated imports at the end of June by around 14%",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/la-revaluacion-del-peso-acelero-las-importaciones-a-junio-en-cerca-de-14-4462516",
+        "published_date": "2026-08-20 05:01:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "Alejandro Eder, mayor of Cali, announced technical expertise with the Universidad del Valle on new buildings that collapsed after a strong 7.4 earthquake",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/alejandro-eder-alcalde-de-cali-anuncio-peritaje-tecnico-con-la-universidad-del-valle-a-edificios-nuevos-que-colapsaron-tras-fuerte-terremoto-de-7-3579584",
+        "published_date": "2026-08-20 04:15:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "In the last 30 years, the State of Economic Emergency has been declared 12 times in the country",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/en-los-ultimos-30-anos-se-ha-declarado-12-veces-el-estado-de-emergencia-economica-4462434",
+        "published_date": "2026-08-20 01:50:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "First semester: This is how the hot spots have behaved in the Amazon",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/asi-se-comportan-los-puntos-de-calor-en-la-amazonia/",
+        "published_date": "2026-08-20 00:45:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "The seven twists and turns that the earthquake imposes on Abelardo",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/los-siete-giros-que-el-terremoto-le-impone-a-abelardo/",
+        "published_date": "2026-08-20 00:22:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "Sleep informed with the keys for this August 19, 2026",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-claves-de-este-19-de-agosto-de-2026/",
+        "published_date": "2026-08-20 00:08:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "Reconstruction: first theme that unites Abelardo with Paisa allies",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/reconstruccion-primer-tema-que-une-a-abelardo-con-aliados-paisas/",
+        "published_date": "2026-08-20 00:00:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "Abelardo signs economic emergency today and updates earthquake figures",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/abelardo-firma-hoy-emergencia-economica-y-actualiza-cifra-del-terremoto/",
+        "published_date": "2026-08-19 23:38:40",
+        "category": "Local Events"
+    },
+    {
         "title": "Catastrophic bond in Colombia: not all risks are financed equally",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/red-de-expertos/red-social/bono-catastrofico-en-colombia-no-todos-los-riesgos-se-financian-igual/",
@@ -396,6 +508,13 @@
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/exvicepresidente-tecnico-de-asofondos-sera-director-tecnico-del-carf/",
         "published_date": "2026-08-19 22:39:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "Reconstruction through taxes: the million-dollar proposal tested in Antioquia to restore cities affected by the earthquake in record time",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/reconstruccion-por-impuestos-la-millonaria-propuesta-probada-en-antioquia-para-restaurar-las-ciudades-afectadas-por-el-terremoto-en-tiempo-record-3579508",
+        "published_date": "2026-08-19 22:01:00",
         "category": "Local Events"
     },
     {
@@ -438,90 +557,6 @@
         "source": "Verdad Abierta",
         "url": "https://verdadabierta.com/ministro-de-ambiente-desinformo-y-estigmatizo-sobre-la-consulta-previa/",
         "published_date": "2026-08-19 20:59:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Abelardo appoints Ricardo Valencia as director of Dane",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/abelardo-nombra-a-ricardo-valencia-como-director-del-dane/",
-        "published_date": "2026-08-19 20:53:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "Minambiente demolished a reserve of 1,499 hectares in Santurb\u00e1n that the previous government established",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/minambiente-tumbo-reserva-de-1-499-hectareas-en-santurban-que-fijo-el-gobierno-anterior-4462237",
-        "published_date": "2026-08-19 19:55:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "The first three stations of the Ciudad de Cali trunk came into operation",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/alcaldia-de-bogota-anuncio-que-entraran-en-operacion-las-tres-primeras-estaciones-de-la-avenida-ciudad-de-cali-4462220",
-        "published_date": "2026-08-19 19:28:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Supersalud appoints Roberto Solano as auditor of Nueva EPS",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/supersalud-designa-a-roberto-solano-como-interventor-de-nueva-eps/",
-        "published_date": "2026-08-19 19:08:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Abelardo government diary: mess in the DNP leaves doubts about its technocracy",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/diario-del-gobierno-de-abelardo-el-lio-en-el-dnp-deja-dudas-sobre-su-tecnocracia/",
-        "published_date": "2026-08-19 18:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Don't be fooled: Cali authorities warn about scams and clarify that they do not request money transfers by phone",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/no-caiga-en-el-engano-autoridades-de-cali-advierten-sobre-modalidad-de-estafa-y-aclaran-que-no-solicitan-transferencias-de-dinero-por-telefono-3579519",
-        "published_date": "2026-08-19 18:17:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mar\u00eda Roc\u00edo Cort\u00e9s takes over as Superintendent of Industry and Commerce",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/maria-rocio-cortes-es-la-nueva-superintendente-de-industria-y-comercio/",
-        "published_date": "2026-08-19 18:16:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "They reveal the identity of the man who survived a shooting in a high-end and armored vehicle in Bucaramanga: he presented a false ID",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/revelan-la-identidad-del-hombre-que-sobrevivio-a-balacera-en-vehiculo-de-alta-gama-y-blindado-en-bucaramanga-presento-una-cedula-falsa-3579509",
-        "published_date": "2026-08-19 18:04:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Official balance of President Abelardo De La Espriella after a 7.4 magnitude earthquake in Colombia: numbers of deaths, injuries and missing persons",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/balance-oficial-del-presidente-abelardo-de-la-espriella-tras-terremoto-de-magnitud-7-4-en-colombia-cifras-de-fallecidos-heridos-y-desaparecidos-3579511",
-        "published_date": "2026-08-19 17:59:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "They denounce excessive increase in rents in Risaralda, Choc\u00f3, Caldas, Quind\u00edo and Valle after the earthquake: authorities ask for solidarity and empathy",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/denuncian-aumento-desmedido-de-arriendos-en-risaralda-choco-caldas-quindio-y-valle-tras-el-terremoto-autoridades-piden-solidaridad-y-empatia-3579459",
-        "published_date": "2026-08-19 17:39:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "Daniel Wills and Sim\u00f3n G\u00f3mez Azza will join the Autonomous Committee of the Fiscal Rule",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/daniel-wills-asumira-la-direccion-tecnica-del-carf-en-reemplazo-de-juan-sebastian-betancur-4462124",
-        "published_date": "2026-08-19 17:13:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "The plan that Antioquia proposed to President De la Espriella to rebuild the country: a proposal of $15 billion annually",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/el-plan-que-antioquia-le-planteo-al-presidente-de-la-espriella-para-reconstruir-el-pais-una-propuesta-de-15-billones-anuales-3579492",
-        "published_date": "2026-08-19 16:29:36",
         "category": "Local Events"
     }
 ]
