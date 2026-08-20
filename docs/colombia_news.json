@@ -1,5 +1,12 @@
 [
     {
+        "title": "The governments of the US and Colombia announced that they are working on a reciprocal trade agreement",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/gobiernos-de-ee-uu-y-colombia-trabajan-en-acuerdo-sobre-comercio-reciproco-4462929",
+        "published_date": "2026-08-20 16:45:53",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Eljach says that there are no proceedings against minVivienda for going for a walk",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/eljach-dice-que-no-hay-procesos-contra-minvivienda-por-irse-de-paseo/",
@@ -84,25 +91,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Colombia authorized military operations with the US in the country",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/colombia-autorizo-operaciones-militares-con-ee-uu-en-el-pais/",
-        "published_date": "2026-08-12 23:03:35",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "\u201cWe have not excluded any country\u201d: chancellor on foreign aid",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/no-hemos-excluido-a-ningun-pais-canciller-sobre-ayuda-extranjera/",
-        "published_date": "2026-08-12 19:21:26",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Foreign Ministry confirmed the arrival of 51 tons of aid from El Salvador",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/cancilleria-confirmo-la-llegada-de-51-toneladas-de-ayuda-humanitaria-de-el-salvador-4456822",
-        "published_date": "2026-08-12 17:05:50",
-        "category": "Diplomacy"
+        "title": "Serious forest fire occurs in Tolima with risk of expanding to the International Police Training School and homes",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/grave-incendio-forestal-se-presenta-en-tolima-con-riesgo-de-expandirse-a-la-escuela-internacional-de-entrenamiento-de-la-policia-y-viviendas-3579795",
+        "published_date": "2026-08-20 16:33:25",
+        "category": "Military"
     },
     {
         "title": "Outrage over an aberrant case of animal abuse in Barranquilla: man attacked a dog with a stick and then tried to kill it with a machete",
@@ -194,6 +187,20 @@
         "url": "https://www.eltiempo.com/colombia/otras-ciudades/asi-fue-el-dramatico-rescate-de-una-mujer-y-su-perro-entre-los-escombros-de-un-edificio-en-cali-tras-el-terremoto-en-colombia-corteme-la-pierna-3578042",
         "published_date": "2026-08-13 01:00:33",
         "category": "Military"
+    },
+    {
+        "title": "They confirm that there will be an energy auction while the ghost of the blackout haunts",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/confirman-que-habra-subasta-de-energia-mientras-ronda-el-fantasma-del-apagon-4462399",
+        "published_date": "2026-08-20 17:17:55",
+        "category": "Energy"
+    },
+    {
+        "title": "The energy of the Caribbean Region continues in Air-e: these are the two files that put the company under the magnifying glass in the 'Book of Truth'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/la-energia-de-la-region-caribe-sigue-en-el-air-e-estos-son-los-dos-expedientes-que-ponen-a-la-empresa-bajo-la-lupa-en-el-libro-de-la-verdad-3579810",
+        "published_date": "2026-08-20 17:15:00",
+        "category": "Energy"
     },
     {
         "title": "\u201cMore than 70% of the LPG supply will be imported during the first half of 2027\u201d",
@@ -315,6 +322,20 @@
         "category": "Energy"
     },
     {
+        "title": "Investment would have to recover 6.4 points of GDP in the next 10 years",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/inversion-tendria-que-recuperar-6-4-puntos-del-pib-en-los-proximos-10-anos-4463217",
+        "published_date": "2026-08-20 22:04:01",
+        "category": "Economy"
+    },
+    {
+        "title": "Ministry of Finance issued $200,000 million in TES denominated in UVR",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/ministerio-de-hacienda-emitio-200-000-millones-en-tes-denominados-en-uvr-4463180",
+        "published_date": "2026-08-20 21:47:56",
+        "category": "Economy"
+    },
+    {
         "title": "MinHacienda authorized credit of US$50 million for Barranquilla projects",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/minhacienda-autorizo-credito-de-us-50-millones-para-proyectos-de-barranquilla-4462624",
@@ -413,150 +434,143 @@
         "category": "Economy"
     },
     {
-        "title": "Velez in the morning |Natalia Molano, US spokesperson, detailed the destination of 15.5 million dollars for Colombia after a 7.4 magnitude earthquake",
+        "title": "Election suspended in Winsner Sandoval's Afro seat, Pulgar's quota",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/suspendida-eleccion-en-curul-afro-de-winsner-sandoval-cuota-de-pulgar/",
+        "published_date": "2026-08-20 23:23:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "Francisco Chaux, former vice minister of Duque, will be vice comptroller general",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/francisco-chaux-exviceministro-de-duque-sera-vicecontralor-general/",
+        "published_date": "2026-08-20 22:23:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "The earthquake exposed the lack of science, prevention and resilience",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-ciencia-e-innovacion/el-terremoto-dejo-expuesta-la-falta-de-ciencia-prevencion-y-resiliencia/",
+        "published_date": "2026-08-20 22:12:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "They ask to modify regulations to improve the forestry economy in Colombia",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/piden-modificar-normas-para-mejorar-la-economia-forestal-en-colombia/",
+        "published_date": "2026-08-20 22:06:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "Abelardo's ex-wife will be deputy superintendent of Notaries",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/exesposa-de-abelardo-sera-superintendente-delegada-de-notariado/",
+        "published_date": "2026-08-20 21:24:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ministry of Labor left without effect 11 circulars issued by the previous government",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/ministerio-de-trabajo-derogo-11-circulares-expedidas-por-el-anterior-gobierno-4463117",
+        "published_date": "2026-08-20 20:37:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "Icbf: criticism of director for excluding \u201cgirl\u201d from institutional language",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/icbf-criticas-a-directora-por-excluir-nina-del-lenguaje-institucional/",
+        "published_date": "2026-08-20 20:33:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "Abelardo Military Dome: the commander will be General Erik Rodr\u00edguez",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/cupula-militar-de-abelardo-el-comandante-sera-el-general-erik-rodriguez/",
+        "published_date": "2026-08-20 20:20:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Reconstruction after the earthquake must be deeply democratic",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-academica/la-reconstruccion-despues-del-terremoto-debe-ser-profundamente-democratica/",
+        "published_date": "2026-08-20 20:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Institutionalism in Colombia is stable, but stagnant",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/la-institucionalidad-en-colombia-es-estable-pero-esta-estancada/",
+        "published_date": "2026-08-20 18:50:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "Abelardo retired General Huertas, mentioned in Calarc\u00e1 archives",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/abelardo-retiro-al-general-huertas-mencionado-en-archivos-de-calarca/",
+        "published_date": "2026-08-20 18:46:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Attention: a 10-year-old boy died in Parque de las Aguas, in Antioquia, in circumstances that are the subject of investigation;drowning verified",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/velez-por-la-manana-natalia-molano-portavoz-de-ee-uu-detallo-el-destino-de-15-5-millones-de-dolares-para-colombia-tras-terremoto-de-magnitud-7-3577974",
-        "published_date": "2026-08-12 17:13:22",
-        "category": "Economy"
+        "url": "https://www.eltiempo.com/colombia/medellin/atencion-un-menor-de-edad-murio-en-el-parque-de-las-aguas-en-barbosa-en-circunstancias-que-son-materia-de-investigacion-3579823",
+        "published_date": "2026-08-20 17:59:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "Los B\u00e1rbaros: the group of young people that mobilizes humanitarian aid in Choc\u00f3 after the 7.4 magnitude earthquake in Colombia",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/los-barbaros-el-grupo-de-jovenes-que-moviliza-la-ayuda-humanitaria-en-el-choco-tras-el-terremoto-de-magnitud-7-4-en-colombia-3579683",
+        "published_date": "2026-08-20 17:42:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "La Guajira |Maicao runs out of water: neighborhoods have been waiting for the service for more than a month and families resort to tank trucks and 'burritos'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/la-guajira-maicao-se-queda-sin-agua-barrios-llevan-mas-de-un-mes-esperando-el-servicio-y-las-familias-recurren-a-carrotanques-y-a-los-burritos-3579818",
+        "published_date": "2026-08-20 17:40:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "El Ni\u00f1o phenomenon leaves losses of $4,000 million among ranchers in Sucre",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/fenomeno-de-el-nino-deja-perdidas-por-4-000-millones-entre-ganaderos-de-sucre-3579814",
+        "published_date": "2026-08-20 17:36:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "How is Antioquia after the earthquake?More than 3,300 homes were affected;Southwest and East, the hardest hit subregions",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/como-esta-antioquia-tras-el-terremoto-mas-de-3-300-viviendas-resultaron-afectadas-suroeste-y-oriente-las-subregiones-mas-golpeadas-3579544",
+        "published_date": "2026-08-20 17:32:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "Santa Marta desalination plants: the $786 billion project that came under scrutiny while the city faces a new crisis without water",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/desalinizadoras-de-santa-marta-la-obra-de-786-000-millones-que-quedo-bajo-la-lupa-mientras-la-ciudad-enfrenta-una-nueva-crisis-sin-agua-3579789",
+        "published_date": "2026-08-20 16:38:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "There is a solution for the Cocoa Route in Santander: they will create a viaduct after collusion and mass movements that affected the corridor",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/hay-solucion-para-la-ruta-del-cacao-en-santander-crearan-un-viaducto-tras-presentar-coluviones-y-movimientos-en-masa-que-afectaba-el-corredor-3579781",
+        "published_date": "2026-08-20 16:35:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Don Pedro lent his truck to deliver humanitarian aid after the earthquake and it had an accident: they are looking for donations for surgery",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/don-pedro-presto-su-camion-para-llevar-ayudas-humanitarias-tras-el-terremoto-y-se-accidento-buscan-donaciones-para-cirugia-3579779",
+        "published_date": "2026-08-20 16:28:52",
+        "category": "Local Events"
     },
     {
         "title": "Earthquake in Colombia today, Thursday, August 20: three strong tremors were recorded during the early morning;know magnitude, depth and epicenter",
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/otras-ciudades/terremoto-en-colombia-hoy-jueves-20-de-agosto-ultimas-noticias-balance-de-la-emergencia-y-nuevos-temblores-en-el-pais-3579582",
         "published_date": "2026-08-20 06:16:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "New EPS and vice minister: Joaqu\u00edn Guti\u00e9rrez gains space in Abelardo's government",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/nueva-eps-y-viceministro-joaquin-gutierrez-gana-espacios-en-el-gobierno-de-abelardo/",
-        "published_date": "2026-08-20 06:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Three earthquakes in Choc\u00f3 and Putumayo occurred in the early morning of this Thursday, August 20 in Colombia: know the magnitude and depth",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/tres-temblores-en-choco-y-putumayo-ocurrieron-en-la-madrugada-de-este-jueves-20-de-agosto-en-colombia-conozca-la-magnitud-y-profundidad-3579586",
-        "published_date": "2026-08-20 05:38:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "The revaluation of the peso accelerated imports at the end of June by around 14%",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/la-revaluacion-del-peso-acelero-las-importaciones-a-junio-en-cerca-de-14-4462516",
-        "published_date": "2026-08-20 05:01:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "Alejandro Eder, mayor of Cali, announced technical expertise with the Universidad del Valle on new buildings that collapsed after a strong 7.4 earthquake",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/alejandro-eder-alcalde-de-cali-anuncio-peritaje-tecnico-con-la-universidad-del-valle-a-edificios-nuevos-que-colapsaron-tras-fuerte-terremoto-de-7-3579584",
-        "published_date": "2026-08-20 04:15:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "In the last 30 years, the State of Economic Emergency has been declared 12 times in the country",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/en-los-ultimos-30-anos-se-ha-declarado-12-veces-el-estado-de-emergencia-economica-4462434",
-        "published_date": "2026-08-20 01:50:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "First semester: This is how the hot spots have behaved in the Amazon",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/asi-se-comportan-los-puntos-de-calor-en-la-amazonia/",
-        "published_date": "2026-08-20 00:45:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "The seven twists and turns that the earthquake imposes on Abelardo",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/los-siete-giros-que-el-terremoto-le-impone-a-abelardo/",
-        "published_date": "2026-08-20 00:22:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sleep informed with the keys for this August 19, 2026",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-claves-de-este-19-de-agosto-de-2026/",
-        "published_date": "2026-08-20 00:08:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "Reconstruction: first theme that unites Abelardo with Paisa allies",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/reconstruccion-primer-tema-que-une-a-abelardo-con-aliados-paisas/",
-        "published_date": "2026-08-20 00:00:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "Abelardo signs economic emergency today and updates earthquake figures",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/abelardo-firma-hoy-emergencia-economica-y-actualiza-cifra-del-terremoto/",
-        "published_date": "2026-08-19 23:38:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Catastrophic bond in Colombia: not all risks are financed equally",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/bono-catastrofico-en-colombia-no-todos-los-riesgos-se-financian-igual/",
-        "published_date": "2026-08-19 23:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Former technical vice president of Asofondos will be technical director of Carf",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/exvicepresidente-tecnico-de-asofondos-sera-director-tecnico-del-carf/",
-        "published_date": "2026-08-19 22:39:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "Reconstruction through taxes: the million-dollar proposal tested in Antioquia to restore cities affected by the earthquake in record time",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/reconstruccion-por-impuestos-la-millonaria-propuesta-probada-en-antioquia-para-restaurar-las-ciudades-afectadas-por-el-terremoto-en-tiempo-record-3579508",
-        "published_date": "2026-08-19 22:01:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Diana Bravo, former partner of Abelardo's firm, will be in charge of the SAE",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/diana-bravo-exsocia-de-firma-de-abelardo-estara-al-frente-de-la-sae/",
-        "published_date": "2026-08-19 21:57:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "To the women of Colombia, those who sow when everything collapses",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-las-mujeres/a-las-mujeres-de-colombia-las-que-siembran-cuando-todo-se-derrumba/",
-        "published_date": "2026-08-19 21:51:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "Anla lifted environmental restrictions and enabled expansion works on the North Highway",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/anla-levanto-restriccion-ambiental-y-habilito-obras-de-ampliacion-de-la-autopista-norte-4462304",
-        "published_date": "2026-08-19 21:32:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "Colombia and the Golan Heights: before recognizing you have to know",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/colombia-y-los-altos-del-golan-antes-de-reconocer-hay-que-saber/",
-        "published_date": "2026-08-19 21:31:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "De la Espriella's government announced a wave of appointments in SAE, Inv\u00edas and Sena",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/gobierno-de-de-la-espriella-anuncio-oleada-de-nombramientos-en-sae-invias-y-sena-4462277",
-        "published_date": "2026-08-19 21:12:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "Minister of the Environment misinformed and stigmatized the prior consultation",
-        "source": "Verdad Abierta",
-        "url": "https://verdadabierta.com/ministro-de-ambiente-desinformo-y-estigmatizo-sobre-la-consulta-previa/",
-        "published_date": "2026-08-19 20:59:45",
         "category": "Local Events"
     }
 ]
