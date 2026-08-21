@@ -1,5 +1,12 @@
 [
     {
+        "title": "Federico Guti\u00e9rrez, mayor of Medell\u00edn, spoke about the death of a child in the Parque de las Aguas: 'There are not enough words'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/federico-gutierrez-alcalde-de-medellin-se-pronuncio-sobre-la-muerte-de-un-nino-en-el-parque-de-las-aguas-no-hay-palabras-suficientes-3579891",
+        "published_date": "2026-08-21 04:30:00",
+        "category": "Diplomacy"
+    },
+    {
         "title": "The governments of the US and Colombia announced that they are working on a reciprocal trade agreement",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/gobiernos-de-ee-uu-y-colombia-trabajan-en-acuerdo-sobre-comercio-reciproco-4462929",
@@ -89,6 +96,13 @@
         "url": "https://www.larepublica.co/economia/miguel-uribe-londono-sera-el-nuevo-embajador-de-colombia-en-el-reino-unido-4457666",
         "published_date": "2026-08-13 11:56:27",
         "category": "Diplomacy"
+    },
+    {
+        "title": "Relatives of three police officers kidnapped in Norte de Santander held a vigil to demand their release: 'May God move their hearts'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/familiares-de-tres-policias-secuestrados-en-norte-de-santander-realizaron-una-velaton-para-exigir-su-liberacion-que-dios-les-conmueva-el-corazon-3579893",
+        "published_date": "2026-08-21 03:31:17",
+        "category": "Military"
     },
     {
         "title": "Serious forest fire occurs in Tolima with risk of expanding to the International Police Training School and homes",
@@ -182,11 +196,11 @@
         "category": "Military"
     },
     {
-        "title": "This was the dramatic rescue of a woman and her dog from the rubble of a building in Cali after the earthquake in Colombia: 'Cut off my leg'",
+        "title": "Without Petronio and with million-dollar losses: this is how merchants and cultural managers try to get up after the earthquake",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/asi-fue-el-dramatico-rescate-de-una-mujer-y-su-perro-entre-los-escombros-de-un-edificio-en-cali-tras-el-terremoto-en-colombia-corteme-la-pierna-3578042",
-        "published_date": "2026-08-13 01:00:33",
-        "category": "Military"
+        "url": "https://www.eltiempo.com/colombia/cali/sin-petronio-y-con-perdidas-millonarias-asi-intentan-levantarse-comerciantes-y-gestores-culturales-tras-el-terremoto-3579870",
+        "published_date": "2026-08-21 00:57:18",
+        "category": "Energy"
     },
     {
         "title": "They confirm that there will be an energy auction while the ghost of the blackout haunts",
@@ -298,27 +312,6 @@
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/gasnova-analizara-el-rol-del-glp-en-el-abastecimiento-energetico-del-pais-en-su-8-congreso-4458299",
         "published_date": "2026-08-13 23:05:59",
-        "category": "Energy"
-    },
-    {
-        "title": "Prosecutor's Office filed an indictment against Roa for campaign limits",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/fiscalia-radico-escrito-de-acusacion-contra-roa-por-topes-de-campana/",
-        "published_date": "2026-08-13 00:12:41",
-        "category": "Energy"
-    },
-    {
-        "title": "Fedesarrollo proposes regulating mining to benefit the State and not crime",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/fedesarrollo-propone-regular-mineria-para-beneficiar-al-estado-y-no-al-crimen/",
-        "published_date": "2026-08-13 00:00:06",
-        "category": "Energy"
-    },
-    {
-        "title": "Ernesto Forero will be the new director of the National Hydrocarbons Agency",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/ernesto-forero-sera-el-nuevo-director-de-la-agencia-nacional-de-hidrocarburos-4457302",
-        "published_date": "2026-08-12 23:25:25",
         "category": "Energy"
     },
     {
@@ -434,6 +427,97 @@
         "category": "Economy"
     },
     {
+        "title": "Abelardo's government team: what 279 appointments say",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/el-equipo-de-gobierno-de-abelardo-lo-que-dicen-279-nombramientos/",
+        "published_date": "2026-08-21 06:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "\"The Development Plan must be adapted to respond to the tragedy after the earthquake\"",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/entrevista-con-julian-buitrago-director-del-dnp-sobre-la-conformacion-del-plan-de-desarrollo-con-el-terremoto-4463061",
+        "published_date": "2026-08-21 05:03:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "Colombia and Israel aim to resume a trade relationship of US$1.24 billion",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/colombia-e-israel-apuntan-a-un-retomar-un-comercio-de-us-1-240-millones-4463392",
+        "published_date": "2026-08-21 05:03:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "The country's generators are already \u201chigher risk customers\u201d due to Air-e's debts",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/las-generadoras-del-pais-ya-son-un-cliente-riesgoso-por-las-deudas-de-air-e-4463394",
+        "published_date": "2026-08-21 05:01:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Earthquake in Colombia today, Friday, August 21: new consecutive tremors were reported in Choc\u00f3 and Antioquia",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/terremoto-en-colombia-hoy-viernes-21-de-agosto-ultimas-noticias-balance-de-la-emergencia-y-nuevos-temblores-en-el-pais-3579889",
+        "published_date": "2026-08-21 05:01:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "They report a strong fire in Gualanday, Tolima, which threatens several areas: Minister of the Interior, Rodrigo Lara, provided an overview of the emergency",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/reportan-un-fuerte-incendio-en-gualanday-tolima-que-amenaza-varias-zonas-ministro-del-interior-rodrigo-lara-entrego-un-balance-de-la-emergencia-3579892",
+        "published_date": "2026-08-21 02:49:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "Peak and plate in Cali this Friday, August 21, 2026: these are the plates with restrictions due to the earthquake emergency in Colombia",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/pico-y-placa-en-cali-este-viernes-21-de-agosto-de-2026-estas-son-las-placas-con-restriccion-por-la-emergencia-del-terremoto-en-colombia-3579682",
+        "published_date": "2026-08-21 02:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Avoid fines!Peak and plate in Bucaramanga this Friday, August 21, 2026: these are the plates with restriction",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/evite-multas-pico-y-placa-en-bucaramanga-este-viernes-21-de-agosto-de-2026-estas-son-las-placas-con-restriccion-3579667",
+        "published_date": "2026-08-21 02:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Drivers beware!Peak and plate in Medell\u00edn for this Friday, August 21, 2026: see the plates with restriction",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/ojo-conductores-pico-y-placa-en-medellin-para-este-viernes-21-de-agosto-de-2026-consulte-las-placas-con-restriccion-3579633",
+        "published_date": "2026-08-21 02:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Wildlife under the fire of the forest fires in Tolima: against the clock, veterinarians cure an ocelot that escaped from hell in Mariquita",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/fauna-silvestre-bajo-el-fuego-de-los-incendios-forestales-en-tolima-veterinarios-curan-a-ocelote-que-escapo-del-infierno-en-mariquita-3579862",
+        "published_date": "2026-08-21 01:47:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Andr\u00e9s Eduardo Herkrath will take over as the new general director of Ideam",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/andres-eduardo-herkrath-asumira-como-el-nuevo-director-general-del-ideam-4463474",
+        "published_date": "2026-08-21 01:13:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "Sleep informed with the keys for this August 20, 2026",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-claves-de-este-20-de-agosto-de-2026/",
+        "published_date": "2026-08-21 00:15:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "Viviane Morales will seek to eradicate \u201cgender ideology\u201d in schools",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/viviane-morales-buscara-erradicar-la-ideologia-de-genero-en-colegios/",
+        "published_date": "2026-08-21 00:06:17",
+        "category": "Local Events"
+    },
+    {
         "title": "Election suspended in Winsner Sandoval's Afro seat, Pulgar's quota",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/suspendida-eleccion-en-curul-afro-de-winsner-sandoval-cuota-de-pulgar/",
@@ -462,6 +546,13 @@
         "category": "Local Events"
     },
     {
+        "title": "The great challenge of caring for older adults after the earthquake in Colombia",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/el-gran-reto-de-atencion-de-los-adultos-mayores-tras-el-terremoto-en-colombia-3579854",
+        "published_date": "2026-08-20 22:01:00",
+        "category": "Local Events"
+    },
+    {
         "title": "Abelardo's ex-wife will be deputy superintendent of Notaries",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/exesposa-de-abelardo-sera-superintendente-delegada-de-notariado/",
@@ -473,104 +564,6 @@
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/ministerio-de-trabajo-derogo-11-circulares-expedidas-por-el-anterior-gobierno-4463117",
         "published_date": "2026-08-20 20:37:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "Icbf: criticism of director for excluding \u201cgirl\u201d from institutional language",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/icbf-criticas-a-directora-por-excluir-nina-del-lenguaje-institucional/",
-        "published_date": "2026-08-20 20:33:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Abelardo Military Dome: the commander will be General Erik Rodr\u00edguez",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/cupula-militar-de-abelardo-el-comandante-sera-el-general-erik-rodriguez/",
-        "published_date": "2026-08-20 20:20:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Reconstruction after the earthquake must be deeply democratic",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-academica/la-reconstruccion-despues-del-terremoto-debe-ser-profundamente-democratica/",
-        "published_date": "2026-08-20 20:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Institutionalism in Colombia is stable, but stagnant",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/la-institucionalidad-en-colombia-es-estable-pero-esta-estancada/",
-        "published_date": "2026-08-20 18:50:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "Abelardo retired General Huertas, mentioned in Calarc\u00e1 archives",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/abelardo-retiro-al-general-huertas-mencionado-en-archivos-de-calarca/",
-        "published_date": "2026-08-20 18:46:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Attention: a 10-year-old boy died in Parque de las Aguas, in Antioquia, in circumstances that are the subject of investigation;drowning verified",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/atencion-un-menor-de-edad-murio-en-el-parque-de-las-aguas-en-barbosa-en-circunstancias-que-son-materia-de-investigacion-3579823",
-        "published_date": "2026-08-20 17:59:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "Los B\u00e1rbaros: the group of young people that mobilizes humanitarian aid in Choc\u00f3 after the 7.4 magnitude earthquake in Colombia",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/los-barbaros-el-grupo-de-jovenes-que-moviliza-la-ayuda-humanitaria-en-el-choco-tras-el-terremoto-de-magnitud-7-4-en-colombia-3579683",
-        "published_date": "2026-08-20 17:42:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "La Guajira |Maicao runs out of water: neighborhoods have been waiting for the service for more than a month and families resort to tank trucks and 'burritos'",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/la-guajira-maicao-se-queda-sin-agua-barrios-llevan-mas-de-un-mes-esperando-el-servicio-y-las-familias-recurren-a-carrotanques-y-a-los-burritos-3579818",
-        "published_date": "2026-08-20 17:40:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "El Ni\u00f1o phenomenon leaves losses of $4,000 million among ranchers in Sucre",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/fenomeno-de-el-nino-deja-perdidas-por-4-000-millones-entre-ganaderos-de-sucre-3579814",
-        "published_date": "2026-08-20 17:36:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "How is Antioquia after the earthquake?More than 3,300 homes were affected;Southwest and East, the hardest hit subregions",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/como-esta-antioquia-tras-el-terremoto-mas-de-3-300-viviendas-resultaron-afectadas-suroeste-y-oriente-las-subregiones-mas-golpeadas-3579544",
-        "published_date": "2026-08-20 17:32:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "Santa Marta desalination plants: the $786 billion project that came under scrutiny while the city faces a new crisis without water",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/desalinizadoras-de-santa-marta-la-obra-de-786-000-millones-que-quedo-bajo-la-lupa-mientras-la-ciudad-enfrenta-una-nueva-crisis-sin-agua-3579789",
-        "published_date": "2026-08-20 16:38:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "There is a solution for the Cocoa Route in Santander: they will create a viaduct after collusion and mass movements that affected the corridor",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/hay-solucion-para-la-ruta-del-cacao-en-santander-crearan-un-viaducto-tras-presentar-coluviones-y-movimientos-en-masa-que-afectaba-el-corredor-3579781",
-        "published_date": "2026-08-20 16:35:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Don Pedro lent his truck to deliver humanitarian aid after the earthquake and it had an accident: they are looking for donations for surgery",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/don-pedro-presto-su-camion-para-llevar-ayudas-humanitarias-tras-el-terremoto-y-se-accidento-buscan-donaciones-para-cirugia-3579779",
-        "published_date": "2026-08-20 16:28:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Earthquake in Colombia today, Thursday, August 20: three strong tremors were recorded during the early morning;know magnitude, depth and epicenter",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/terremoto-en-colombia-hoy-jueves-20-de-agosto-ultimas-noticias-balance-de-la-emergencia-y-nuevos-temblores-en-el-pais-3579582",
-        "published_date": "2026-08-20 06:16:26",
         "category": "Local Events"
     }
 ]
