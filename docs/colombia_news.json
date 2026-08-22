@@ -1,5 +1,12 @@
 [
     {
+        "title": "Rodrigo Pinz\u00f3n Navarro will now be the new director of Protocol in the Foreign Ministry",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/rodrigo-pinzon-navarro-es-el-nuevo-director-de-protocolo-de-cancilleria-4464837",
+        "published_date": "2026-08-22 19:51:07",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Colombia-Africa: a strategic alliance for the present and for the future",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/red-de-expertos/red-etnica/colombia-africa-una-alianza-estrategica-del-presente-y-para-el-futuro/",
@@ -77,18 +84,46 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Government declared ambassadors who did not resign their resignation",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/gobierno-declaro-insubsistentes-los-nombramientos-de-cinco-embajadores-que-no-presentaron-su-renuncia-4459224",
-        "published_date": "2026-08-14 18:44:02",
-        "category": "Diplomacy"
+        "title": "\u201cThe safety of your family is a priority\u201d: Rodrigo Lara to Mar\u00eda Claudia Tarazona",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/la-seguridad-de-su-familia-es-prioridad-rodrigo-lara-a-maria-claudia-tarazona/",
+        "published_date": "2026-08-22 23:10:41",
+        "category": "Military"
     },
     {
-        "title": "The Window to the World turns eight years old: nearly six million people have visited the symbolic monument of Barranquilla",
+        "title": "Prosecutor's Office charges charges against colonel who would have received payments from ELN and dissidents",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/fiscalia-imputa-a-coronel-que-habria-hecho-negocios-con-el-eln-y-disidencias/",
+        "published_date": "2026-08-22 17:26:38",
+        "category": "Military"
+    },
+    {
+        "title": "End to the blockade in the north of Antioquia: Army neutralizes cylinder with explosive on the Medell\u00edn-Ituango highway",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/la-ventana-al-mundo-cumple-ocho-anos-cerca-de-seis-millones-de-personas-han-visitado-el-monumento-simbolo-de-barranquilla-3578490",
-        "published_date": "2026-08-14 15:50:20",
-        "category": "Diplomacy"
+        "url": "https://www.eltiempo.com/colombia/medellin/fin-al-bloqueo-en-el-norte-de-antioquia-ejercito-neutraliza-cilindro-con-explosivo-en-la-via-medellin-ituango-3580305",
+        "published_date": "2026-08-22 15:43:40",
+        "category": "Military"
+    },
+    {
+        "title": "The mother of General (r.) Jos\u00e9 Luis Esparza died after a month in the ICU: rapone attack in Bucaramanga had a fatal outcome",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/murio-la-madre-del-general-r-jose-luis-esparza-tras-un-mes-en-uci-ataque-de-raponero-en-bucaramanga-tuvo-desenlace-fatal-3580288",
+        "published_date": "2026-08-22 15:17:33",
+        "category": "Military"
+    },
+    {
+        "title": "Alias \u200b\u200bBairon, an alleged member of the support network of the 'Ad\u00e1n Izquierdo' front, fell after the attack on the Police substation in El Cerrito",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/cayo-alias-bairon-presunto-integrante-de-la-red-de-apoyo-del-frente-adan-izquierdo-tras-el-atentado-a-la-subestacion-de-policia-en-el-cerrito-3580287",
+        "published_date": "2026-08-22 14:08:47",
+        "category": "Military"
+    },
+    {
+        "title": "Exemplary sentence: eight years in prison for former police officer for demanding $300,000 not to immobilize a motorcycle in Valledupar",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/condena-ejemplar-ocho-anos-de-carcel-a-expolicia-por-exigir-300-000-para-no-inmovilizar-una-motocicleta-en-valledupar-3580246",
+        "published_date": "2026-08-22 10:01:00",
+        "category": "Military"
     },
     {
         "title": "A conflict denier will direct the Memory Center",
@@ -189,11 +224,11 @@
         "category": "Military"
     },
     {
-        "title": "Diary of Abelardo's government: the letter from the former director of the Ungrd",
+        "title": "Government stops the delivery of notaries throughout the country",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/diario-del-gobierno-de-abelardo-la-carta-del-exdirector-de-la-ungrd/",
-        "published_date": "2026-08-14 18:15:20",
-        "category": "Military"
+        "url": "https://www.lasillavacia.com/en-vivo/gobierno-frena-la-entrega-de-notarias-en-todo-el-pais/",
+        "published_date": "2026-08-22 15:09:23",
+        "category": "Energy"
     },
     {
         "title": "The price of energy on the stock market hit 20-month highs due to the arrival of El Ni\u00f1o",
@@ -441,6 +476,118 @@
         "category": "Economy"
     },
     {
+        "title": "With 13 active fires, MinAmbiente orders the suspension of controlled burning",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/con-13-incendios-activos-minambiente-ordena-suspender-quemas-controladas/",
+        "published_date": "2026-08-22 21:08:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "The priority is educational infrastructure, not ideology",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/opinion/la-prioridad-es-la-infraestructura-educativa-no-la-ideologia/",
+        "published_date": "2026-08-22 20:34:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "The balls of hunger",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/los-balones-del-hambre/",
+        "published_date": "2026-08-22 17:45:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tragedy, donations, corruption and first ladies",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/opinion/tragedia-donaciones-corrupcion-y-primeras-damas/",
+        "published_date": "2026-08-22 16:54:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "Forest fires in Colombia today, August 22: Mininterior revealed that illegal groups could be behind the conflagrations and sent a warning",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/incendios-forestales-en-colombia-hoy-sabado-22-de-agosto-en-colombia-suspende-las-quemas-abiertas-controladas-por-riesgo-de-incendios-forestales-3580222",
+        "published_date": "2026-08-22 16:26:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Verano asks the Government to transform the energy model of the Caribbean in the face of the Air-e crisis",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/verano-pide-al-gobierno-transformar-modelo-energetico-del-caribe-ante-crisis-de-air-e-4464780",
+        "published_date": "2026-08-22 16:00:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "Magnifying glass on beauty in Medell\u00edn: controls on beauty establishments are intensified to avoid illegal procedures and health risks",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/lupa-a-la-belleza-en-medellin-intensifican-controles-a-establecimientos-de-estetica-para-evitar-procedimientos-ilegales-y-riesgos-a-la-salud-3580253",
+        "published_date": "2026-08-22 15:54:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "Abelardo de la Espriella withdraws delegates of the previous Government from chambers of commerce",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/abelardo-de-la-espriella-retira-delegados-del-gobierno-anterior-de-camaras-de-comercio-4464771",
+        "published_date": "2026-08-22 15:21:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Next Move: What is the president looking for with the ideological battles he opens?",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/opinion/la-siguiente-movida-que-busca-el-presidente-con-las-batallas-ideologicas-que-abre/",
+        "published_date": "2026-08-22 15:18:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Gustavo Petro's disinformation manual",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/detector-de-mentiras/el-manual-de-desinformacion-de-gustavo-petro/",
+        "published_date": "2026-08-22 14:58:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "This video of a military caravan is from 2019 and happened in La Guajira",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/detector-de-mentiras/enganoso/este-video-de-caravana-militar-es-de-2019-y-sucedio-en-la-guajira/",
+        "published_date": "2026-08-22 14:38:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Forest fires keep Tolima on alert: 24 conflagrations remain active",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/incendios-forestales-mantienen-en-alerta-al-tolima-24-conflagraciones-siguen-activas-4464758",
+        "published_date": "2026-08-22 13:38:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "Forest fires hit four municipalities of Nari\u00f1o simultaneously: 'Our firefighters have burned boots'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/incendios-forestales-golpean-a-cuatro-municipios-de-narino-de-forma-simultanea-nuestros-bomberos-tienen-las-botas-quemadas-3580270",
+        "published_date": "2026-08-22 12:24:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "Hit on 'la Sierra' in Medell\u00edn: alias Soldo, alleged coordinator of hitmen and one of the most wanted for homicide, fell",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/golpe-a-la-sierra-en-medellin-cayo-alias-soldo-presunto-coordinador-de-sicarios-y-uno-de-los-mas-buscados-por-homicidio-3580268",
+        "published_date": "2026-08-22 12:14:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "Fake soccer coach and referee goes to jail accused of producing and distributing child sexual abuse material in Santander",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/a-la-carcel-falso-entrenador-y-arbitro-de-futbol-acusado-de-producir-y-distribuir-material-de-abuso-sexual-infantil-en-santander-3580264",
+        "published_date": "2026-08-22 12:00:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "Governor of Tolima denounces possible criminal hands behind the fires that have devastated more than 20,000 hectares of vegetation",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/gobernadora-del-tolima-denuncia-posibles-manos-criminales-tras-incendios-que-han-arrasado-mas-de-20-000-hectareas-3580239",
+        "published_date": "2026-08-22 09:17:29",
+        "category": "Local Events"
+    },
+    {
         "title": "Sebasti\u00e1n Su\u00e1rez, the engineer who turned his knowledge about structures and their networks into help for those affected by the earthquake in Cali",
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/cali/sebastian-suarez-el-ingeniero-que-convirtio-sus-conocimientos-sobre-estructuras-y-sus-redes-en-una-ayuda-para-los-afectados-por-el-terremoto-en-cali-3580177",
@@ -466,118 +613,6 @@
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/lluvias-por-encima-de-lo-normal-se-registraron-en-ocho-departamentos-en-julio-4464508",
         "published_date": "2026-08-22 05:01:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "Earthquake in Colombia today, Saturday, August 22: latest news, balance of the emergency and new tremors in the country",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/terremoto-en-colombia-hoy-sabado-22-de-agosto-ultimas-noticias-balance-de-la-emergencia-y-nuevos-temblores-en-el-pais-3580221",
-        "published_date": "2026-08-22 05:01:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Dian defaulters owe more than $61 billion in taxes as of June",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/los-morosos-de-la-dian-deben-mas-de-61-billones-en-impuestos-a-junio-4464469",
-        "published_date": "2026-08-22 05:01:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Clean slate?Colombia and its withdrawal from the ICC",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/borron-y-cuenta-nueva-colombia-y-su-retirada-de-la-cpi/",
-        "published_date": "2026-08-22 04:57:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Forest fires in Colombia today, Saturday, August 22: latest news, balance of the emergency and new active points in the country",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/incendios-forestales-en-colombia-hoy-sabado-22-de-agosto-ultimas-noticias-balance-de-la-emergencia-y-nuevos-puntos-activos-en-el-pais-3580222",
-        "published_date": "2026-08-22 04:01:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Samuel Bluman is the new director of ProColombia, replacing Caballero",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/samuel-bluman-es-nuevo-director-de-procolombia-en-reemplazo-de-caballero-4464718",
-        "published_date": "2026-08-22 03:08:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Acolgen warns of entry into energy shortage scenario",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/acolgen-advierte-de-entrada-a-escenario-de-desabastecimiento-energetico-4464711",
-        "published_date": "2026-08-22 03:00:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "MinTrabajo advances with the formalization of 1,100 miners from Caldas and Antioquia",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/mintrabajo-avanza-con-formalizacion-de-1-100-mineros-de-caldas-y-antioquia-4464699",
-        "published_date": "2026-08-22 02:51:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Knowledge without barriers: these are the ten virtual courses that seek to professionalize and make sustainable the ventures of Valle del Cauca",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/conocimiento-sin-barreras-estos-son-los-diez-cursos-virtuales-que-buscan-profesionalizar-y-hacer-sostenibles-los-emprendimientos-del-valle-del-cauca-3580219",
-        "published_date": "2026-08-22 01:22:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "In \u201cbook of truth\u201d, the balance sheet on MinAmbiente lacks context",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/en-libro-de-la-verdad-al-balance-sobre-minambiente-le-falta-contexto/",
-        "published_date": "2026-08-22 01:01:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sleep informed with the keys for this August 21, 2026",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-claves-de-este-21-de-agosto-de-2026/",
-        "published_date": "2026-08-22 00:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "'The fire is growing before our eyes': residents of Pe\u00f1alisa, in Ricaurte, Cundinamarca, warn about fires in Tolima visible from the area",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/el-fuego-crece-frente-a-nuestros-ojos-habitantes-de-penalisa-en-ricaurte-cundinamarca-alertan-por-incendios-en-tolima-visibles-desde-la-zona-3580207",
-        "published_date": "2026-08-21 23:59:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Issuer Rate would rise only once in the December Meeting and would close 2026 at 12.25%",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/tasa-del-emisor-subiria-solo-una-vez-en-la-junta-de-diciembre-y-cerraria-2026-en-12-25-4464404",
-        "published_date": "2026-08-21 23:38:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "The judge who declared two men falsely accused of the crime of a minor in Atl\u00e1ntico innocent spoke: 'Only this forgiveness remains'",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/hablo-el-juez-que-declaro-inocentes-a-dos-hombres-acusados-falsamente-por-el-crimen-de-una-menor-en-atlantico-solo-queda-este-perdon-3580182",
-        "published_date": "2026-08-21 22:59:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "It continues to shake in Choc\u00f3: new earthquake of 2.6 intensity in Istmina today, August 21;QMS report",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/sigue-temblando-en-choco-nuevo-sismo-de-2-6-de-intensidad-en-istmina-hoy-21-de-agosto-reporte-del-sgc-3580192",
-        "published_date": "2026-08-21 22:15:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "Court orders immediate attention for cultural extermination against Jiw people",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/corte-ordena-atencion-inmediata-por-exterminio-cultural-contra-pueblo-jiw/",
-        "published_date": "2026-08-21 22:13:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "'Do\u00f1a Monta\u00f1a': the giant sculpture that transformed a road interchange in Rionegro, Antioquia",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/cultura/arte-y-teatro/dona-montana-la-escultura-gigante-que-transformo-un-intercambio-vial-en-rionegro-antioquia-3580191",
-        "published_date": "2026-08-21 22:13:00",
         "category": "Local Events"
     }
 ]
