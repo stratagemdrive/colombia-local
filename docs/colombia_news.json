@@ -77,6 +77,13 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Married to Trump: the security bet without proven results",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/casado-con-trump-la-apuesta-de-seguridad-sin-resultados-probados/",
+        "published_date": "2026-08-24 06:00:00",
+        "category": "Military"
+    },
+    {
         "title": "De la Espriella heads extraordinary security council in Barranquilla",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/de-la-espriella-encabeza-consejo-de-seguridad-extraordinario-en-barranquilla/",
@@ -200,13 +207,6 @@
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/tolima-tiene-17-incendios-activos-y-se-han-afectado-11-000-hectareas-por-el-fuego-4460709",
         "published_date": "2026-08-18 13:11:33",
-        "category": "Military"
-    },
-    {
-        "title": "Fire in Medell\u00edn, on Las Palmas road, was caused: security cameras helped authorities locate and capture the alleged perpetrator",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/incendio-en-medellin-en-la-via-las-palmas-fue-provocado-camaras-de-seguridad-ayudaron-a-las-autoridades-a-ubicar-y-capturar-al-presunto-responsable-3578718",
-        "published_date": "2026-08-16 00:25:46",
         "category": "Military"
     },
     {
@@ -441,10 +441,108 @@
         "category": "Economy"
     },
     {
+        "title": "|Fires in Colombia today, August 24: UNGRD reports 9 active conflagrations, 2 controlled and 4 departments remain under monitoring",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/incendios-en-colombia-hoy-rodrigo-lara-ministro-del-interior-reporta-control-de-la-emergencia-en-cuatro-municipios-del-tolima-3580499",
+        "published_date": "2026-08-24 06:18:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "It shook again in Choc\u00f3: Colombian Geological Service reported more than 7 earthquakes in the early morning of August 24;the largest was 3.5 magnitude",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblo-de-nuevo-en-choco-servicio-geologico-colombiano-reporto-siete-sismos-durante-la-madrugada-de-este-24-de-agosto-el-mayor-fue-de-3-3580506",
+        "published_date": "2026-08-24 05:43:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "Earthquake in Colombia, latest news for today, August 24: balance of the seven recent earthquakes this morning",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/terremoto-en-colombia-ultimas-noticias-de-hoy-24-de-agosto-balance-y-seguimiento-tras-el-fuerte-movimiento-3580500",
+        "published_date": "2026-08-24 05:22:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "These are the ministers of De la Espriella's cabinet with the highest and lowest assets",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/los-ministros-del-gabinete-de-de-la-espriella-con-mayor-y-menor-patrimonio-4464068",
+        "published_date": "2026-08-24 05:03:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cThe damage caused by the August 10 earthquake amounts to more than $4 billion in Choc\u00f3\u201d",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/las-afectaciones-por-el-terremoto-ascienden-a-4-billones-en-el-choco-4464065",
+        "published_date": "2026-08-24 05:01:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "Dane assured that exports from free zones fell 0.9% in June",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/dane-aseguro-que-exportaciones-de-zonas-francas-cayeron-0-9-en-junio-4465183",
+        "published_date": "2026-08-24 05:01:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "This is how the directory of state entities of the government of Abelardo De la Espriella goes",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/asi-va-el-directorio-de-entidades-estatales-del-gobierno-de-de-la-espriella-4464693",
+        "published_date": "2026-08-24 05:01:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "Custom batteries!Peak and plate in Bucaramanga this Monday, August 24, 2026: these are the plates with restriction",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/pilas-a-la-medida-pico-y-placa-en-bucaramanga-este-lunes-24-de-agosto-de-2026-estas-son-las-placas-con-restriccion-3580093",
+        "published_date": "2026-08-24 02:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Peak and plate in Cali this Monday, August 24, 2026: the usual rotation returns after the end of the extraordinary measure due to the earthquake",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/pico-y-placa-en-cali-este-lunes-24-de-agosto-de-2026-vuelve-la-rotacion-habitual-tras-finalizar-la-medida-extraordinaria-por-el-terremoto-3580080",
+        "published_date": "2026-08-24 02:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The MIO Calipso Terminal reopens its doors after completing recovery works due to the earthquake",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/la-terminal-calipso-del-mio-reabre-sus-puertas-tras-finalizar-obras-de-recuperacion-por-el-terremoto-3580497",
+        "published_date": "2026-08-24 00:02:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "A 21-year-old young man tried to steal a gold chain and died after confronting an armed man in Floridablanca, Santander: the victim of the theft shot him",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/joven-de-21-anos-intento-robar-una-cadena-de-oro-y-murio-tras-enfrentarse-a-hombre-armado-en-floridablanca-santander-victima-del-hurto-le-disparo-3580496",
+        "published_date": "2026-08-23 23:25:58",
+        "category": "Local Events"
+    },
+    {
         "title": "Ombudsman's Office asks to reevaluate the suspension of 20 peace stations",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/defensoria-del-pueblo-pide-reevaluar-la-suspension-de-20-emisoras-de-paz/",
         "published_date": "2026-08-23 22:44:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "'Let Colombia take Choc\u00f3 by the hand: don't let us go': Ilia Calder\u00f3n |The interview with Mar\u00eda Isabel Rueda",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/que-colombia-lleve-al-choco-de-la-mano-no-nos-suelten-ilia-calderon-la-entrevista-de-maria-isabel-rueda-3580460",
+        "published_date": "2026-08-23 22:40:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Two tremors in a row of 3.9 and 3.7 were recorded in Istmina, Choc\u00f3, on the night of this Sunday, August 23: they were felt in other cities",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-hoy-en-colombia-reportan-dos-sismos-de-3-9-y-3-7-de-magnitud-la-noche-de-este-23-de-agosto-alertan-sentirlos-en-varias-ciudades-detalles-3580493",
+        "published_date": "2026-08-23 22:08:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "In a village in Tolima the fire reignited, it was close to reaching homes and the families miraculously escaped the flames.",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/en-una-vereda-del-tolima-el-fuego-se-reavivo-estuvo-cerca-de-alcanzar-viviendas-y-las-familias-escaparon-milagrosamente-de-las-llamas-3580481",
+        "published_date": "2026-08-23 22:08:03",
         "category": "Local Events"
     },
     {
@@ -480,104 +578,6 @@
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/cali/linares-narino-entre-las-llamas-de-los-incendios-y-las-balas-de-los-grupos-armados-ilegales-su-alcalde-reconoce-que-son-momentos-muy-dificiles-3580424",
         "published_date": "2026-08-23 15:23:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Two new tremors in a row in Istmina, Choc\u00f3, today, August 23: intensities of 2.8 and 2.6",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/dos-nuevos-temblores-seguidos-en-istmina-choco-hoy-23-de-agosto-intensidades-de-2-8-y-2-3580380",
-        "published_date": "2026-08-23 14:37:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "An unexpected emergency in the midst of political polarization.",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/una-emergencia-inesperada-en-medio-de-la-polarizacion-politica/",
-        "published_date": "2026-08-23 14:26:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Earthquake: deaths rise to 329 and 234 are still missing",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/terremoto-suben-a-329-los-fallecidos-y-234-siguen-desaparecidos/",
-        "published_date": "2026-08-23 14:11:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Government objection sparks controversy within Uribism over the merit law",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/objecion-de-de-la-espriella-desata-polemica-dentro-del-uribismo-por-la-ley-de-merito-4465011",
-        "published_date": "2026-08-23 13:41:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "A large fire keeps Popay\u00e1n on alert due to its proximity to homes",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/un-incendio-de-gran-magnitud-mantuvo-en-alerta-a-popayan-por-cercania-a-viviendas-4465006",
-        "published_date": "2026-08-23 13:14:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "'For the most part, forest fires are caused voluntarily and involuntarily by human actions,' director of Cortolima",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/en-su-mayoria-los-incendios-forestales-son-provocados-de-manera-voluntaria-e-involuntaria-por-acciones-humanas-directora-de-cortolima-3580404",
-        "published_date": "2026-08-23 12:20:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "Solidarity without borders or barriers: volunteers from different countries and people with disabilities join forces to help at the Cali collection center",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/solidaridad-sin-fronteras-ni-barreras-voluntarios-de-diferentes-paises-y-con-discapacidad-suman-esfuerzos-para-ayudar-en-el-centro-de-acopio-de-cali-3580394",
-        "published_date": "2026-08-23 11:57:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Medell\u00edn Planetarium reinvents itself: $3,000 million to modernize its infrastructure and cultural offering",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/el-planetario-de-medellin-se-reinventa-3-000-millones-para-modernizar-su-infraestructura-y-oferta-cultural-3580401",
-        "published_date": "2026-08-23 11:56:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tolima does not stop burning: the fury of El Ni\u00f1o and the shadow of criminal hands reduce the heart of the country to ashes",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/el-tolima-no-para-de-arder-la-furia-del-nino-y-la-sombra-de-manos-criminales-reducen-a-cenizas-el-corazon-del-pais-3580383",
-        "published_date": "2026-08-23 09:17:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "From the shelter to the hotel: the new beginning for older adults affected by the earthquake in Cali",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/del-albergue-al-hotel-el-nuevo-comienzo-de-los-adultos-mayores-damnificados-por-el-terremoto-en-cali-3580379",
-        "published_date": "2026-08-23 08:34:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "Uncle of the Saavedra triplets clarifies that he invited former president Gustavo Petro to his family's farewell Eucharist: 'Our personal friend'",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/tio-de-las-trillizas-saavedra-aclara-que-el-invito-al-expresidente-gustavo-petro-a-la-eucaristia-de-despedida-de-su-familia-nuestro-amigo-personal-3580377",
-        "published_date": "2026-08-23 07:48:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "Earthquake in Colombia today, August 23: latest news, balance of the emergency and new tremors in the country",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/terremoto-en-colombia-hoy-23-de-agosto-ultimas-noticias-balance-de-la-emergencia-y-nuevos-temblores-en-el-pais-3580375",
-        "published_date": "2026-08-23 04:14:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "New tremor in Choc\u00f3: movement of magnitude 3.1 was recorded in Istmina on the night of this Saturday, August 22",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/nuevo-temblor-en-choco-movimiento-de-magnitud-3-1-se-registro-en-istmina-en-la-noche-de-este-sabado-22-de-agosto-3580367",
-        "published_date": "2026-08-23 01:36:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "Forest fires in Colombia today, August 23: relief agencies control the conflagration in El Tablazo, Popay\u00e1n, and prevent damage to homes",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/incendios-forestales-en-colombia-hoy-23-de-agosto-organismos-de-socorro-controlan-conflagracion-en-el-tablazo-popayan-y-evitan-danos-a-viviendas-3580369",
-        "published_date": "2026-08-23 01:03:06",
         "category": "Local Events"
     }
 ]
