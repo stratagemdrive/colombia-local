@@ -1,5 +1,19 @@
 [
     {
+        "title": "Sleep informed with the movements of this August 27, 2026",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-movidas-de-este-27-de-agosto-de-2026/",
+        "published_date": "2026-08-28 00:42:51",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "The photo: minDefensa meets with the head of the US Southern Command",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/la-foto-mindefensa-se-reune-con-comando-sur-de-ee-uu/",
+        "published_date": "2026-08-27 22:00:06",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Presidency ruled on Abelardo De La Espriella's income tax return",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/presidencia-se-pronuncio-sobre-curriculum-y-declaracion-de-renta-de-de-la-espriella-4466896",
@@ -40,6 +54,27 @@
         "url": "https://www.larepublica.co/economia/gobiernos-de-ee-uu-y-colombia-trabajan-en-acuerdo-sobre-comercio-reciproco-4462929",
         "published_date": "2026-08-20 16:45:53",
         "category": "Diplomacy"
+    },
+    {
+        "title": "Colombian-French citizen, member of the French Army, would be kidnapped in Nari\u00f1o: authorities investigate",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/autoridades-investigan-posible-secuestro-en-narino-de-jose-olger-melo-charry-ciudadano-colombiano-perteneciente-a-las-fuerzas-armadas-de-francia-3581664",
+        "published_date": "2026-08-27 22:21:32",
+        "category": "Military"
+    },
+    {
+        "title": "President Abelardo De La Espriella convenes security council in Valledupar after the delicate public order situation in Pelaya (Cesar)",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/presidente-abelardo-de-la-espriella-convoca-consejo-de-seguridad-en-valledupar-tras-la-delicada-situacion-de-orden-publico-en-pelaya-cesar-3581666",
+        "published_date": "2026-08-27 18:50:00",
+        "category": "Military"
+    },
+    {
+        "title": "Magdalena is getting ready to go from 'total peace' to a frontal fight against armed groups: armored vehicles, intelligence and millionaire investment in security",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/magdalena-se-alista-para-pasar-de-paz-total-a-una-lucha-frontal-contra-grupos-armados-blindados-inteligencia-y-millonaria-inversion-en-seguridad-3581652",
+        "published_date": "2026-08-27 18:20:00",
+        "category": "Military"
     },
     {
         "title": "With challenges in security and the fight against crime, two colonels will assume command of the Police in Cali and Valle del Cauca",
@@ -161,25 +196,46 @@
         "category": "Military"
     },
     {
-        "title": "A conflict denier will direct the Memory Center",
+        "title": "The portfolios with the largest additions and cuts from the 2027 Budget project",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/las-carteras-con-mayores-adiciones-y-recortes-del-proyecto-de-pgn-de-2027-4468591",
+        "published_date": "2026-08-28 05:04:01",
+        "category": "Energy"
+    },
+    {
+        "title": "Gasnova contradicts Vanti and questions availability of gas for supply",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/gasnova-contradice-a-vanti-y-cuestiona-disponibilidad-de-gas-para-el-abastecimiento-4468812",
+        "published_date": "2026-08-28 05:01:01",
+        "category": "Energy"
+    },
+    {
+        "title": "List of government candidates for the Ecopetrol Board is known",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/un-negacionista-del-conflicto-dirigira-el-centro-de-memoria/",
-        "published_date": "2026-08-21 23:42:36",
-        "category": "Military"
+        "url": "https://www.lasillavacia.com/en-vivo/se-conoce-la-plancha-de-candidatos-que-el-gobierno-presentara-para-junta-de-ecopetrol/",
+        "published_date": "2026-08-28 04:05:53",
+        "category": "Energy"
     },
     {
-        "title": "'The security news is still not what we expect': Char after meeting with the Government regarding the violence crisis in Barranquilla",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/las-noticias-de-seguridad-todavia-no-son-lo-que-esperamos-char-tras-reunion-con-el-gobierno-por-la-crisis-de-violencia-en-barranquilla-3580112",
-        "published_date": "2026-08-21 16:01:00",
-        "category": "Military"
+        "title": "Ready the Budget coordinators in the Third Committee of the Senate",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/listos-los-coordinadores-del-presupuesto-en-la-comision-tercera/",
+        "published_date": "2026-08-28 00:33:04",
+        "category": "Energy"
     },
     {
-        "title": "Relatives of three police officers kidnapped in Norte de Santander held a vigil to demand their release: 'May God move their hearts'",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/familiares-de-tres-policias-secuestrados-en-norte-de-santander-realizaron-una-velaton-para-exigir-su-liberacion-que-dios-les-conmueva-el-corazon-3579893",
-        "published_date": "2026-08-21 03:31:17",
-        "category": "Military"
+        "title": "MinHacienda seeks to reduce spending by $40 billion through 'Fiscal Law'",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/minhacienda-busca-reducir-en-40-billones-el-gasto-por-medio-de-ley-fiscal-4468329",
+        "published_date": "2026-08-28 00:23:10",
+        "category": "Energy"
+    },
+    {
+        "title": "Ecopetrol Board of Directors authorized five changes in senior management since September",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/junta-directiva-de-ecopetrol-autorizo-cinco-cambios-en-la-alta-gerencia-desde-septiembre-4468837",
+        "published_date": "2026-08-27 23:49:34",
+        "category": "Energy"
     },
     {
         "title": "Gasnova rejected the Vanti group's statements on the LPG sector",
@@ -280,46 +336,11 @@
         "category": "Energy"
     },
     {
-        "title": "Cattle rustler hits Sucre ranchers: more than 400 cattle have been stolen and the losses would be incalculable",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/abigeato-golpea-a-ganaderos-de-sucre-mas-de-400-reses-han-sido-robadas-y-las-perdidas-serian-incalculables-3580716",
-        "published_date": "2026-08-24 17:40:51",
-        "category": "Energy"
-    },
-    {
-        "title": "MinMinas will allocate $1.5 billion to the debt with thermal generators",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/minminas-destinara-1-5-billones-a-la-deuda-de-comercializadores-con-termicas-4465514",
-        "published_date": "2026-08-24 17:03:52",
-        "category": "Energy"
-    },
-    {
-        "title": "These are the sectors of Barranquilla that will be without power this Tuesday, August 25;know the schedule",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/estos-son-los-sectores-de-barranquilla-que-estaran-sin-energia-este-martes-25-de-agosto-conozca-el-horario-3580694",
-        "published_date": "2026-08-24 16:40:05",
-        "category": "Energy"
-    },
-    {
-        "title": "Joaqu\u00edn Guti\u00e9rrez would be the next president of Ecopetrol and they are preparing an internal sweep",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/joaquin-gutierrez-suena-para-la-presidencia-de-ecopetrol-y-alistan-barrida-entre-los-vicepresidentes-4465480",
-        "published_date": "2026-08-24 15:25:37",
-        "category": "Energy"
-    },
-    {
-        "title": "Foreign Direct Investment in July totaled US$629 million and registered a 31% reduction",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/inversion-extranjera-directa-en-julio-sumo-us-629-millones-se-redujo-en-31-4465389",
-        "published_date": "2026-08-24 13:55:17",
-        "category": "Energy"
-    },
-    {
-        "title": "Mininterior: Illegal miners and dissidents would be behind fires in Tolima",
+        "title": "Abelardo's first budget comes to \"honest accounts\", without cuts",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/mininterior-mineros-ilegales-y-disidencias-estarian-detras-de-incendios-en-tolima/",
-        "published_date": "2026-08-23 15:44:32",
-        "category": "Energy"
+        "url": "https://www.lasillavacia.com/silla-nacional/el-primer-presupuesto-de-abelardo-llega-a-sincerar-cuentas-sin-recortes/",
+        "published_date": "2026-08-28 06:01:18",
+        "category": "Economy"
     },
     {
         "title": "Treasury surprises with a budget $89 billion higher than that of 2026",
@@ -385,18 +406,60 @@
         "category": "Economy"
     },
     {
-        "title": "MinHacienda authorized credit of US$50 million for Barranquilla projects",
+        "title": "The key dates that will define the future of the General Budget of the Nation for 2027",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/minhacienda-autorizo-credito-de-us-50-millones-para-proyectos-de-barranquilla-4462624",
-        "published_date": "2026-08-20 01:16:19",
-        "category": "Economy"
+        "url": "https://www.larepublica.co/economia/las-fechas-claves-que-definiran-el-futuro-del-presupuesto-general-de-2027-4468889",
+        "published_date": "2026-08-28 05:03:48",
+        "category": "Local Events"
     },
     {
-        "title": "MinHacienda elected Jaime Pumarejo as director of Colombia before the IDB",
+        "title": "\u201cWe have opportunities to reach China, the Middle East, Japan and Central America\u201d",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/minhacienda-eligio-a-jaime-pumarejo-como-director-de-colombia-ante-el-bid-4462511",
-        "published_date": "2026-08-20 00:03:12",
-        "category": "Economy"
+        "url": "https://www.larepublica.co/economia/inside-lr-con-gustavo-moreno-presidente-de-fenavi-sobre-la-expansion-de-exportaciones-de-huevo-y-pollo-4468589",
+        "published_date": "2026-08-28 05:01:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "Again, Cepeda did not curse the Santandereans;video was created with AI",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/de-nuevo-cepeda-no-maldijo-a-los-santandereanos-video-fue-creado-con-ia/",
+        "published_date": "2026-08-28 00:05:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "This image of Abelardo with balls and a National Team uniform is false",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/esta-imagen-de-abelardo-con-balones-y-uniforme-de-la-seleccion-es-falsa/",
+        "published_date": "2026-08-27 23:44:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Abelardo's cousins \u200b\u200bwere invited to MinMinas to bless the building",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/primos-de-abelardo-fueron-invitados-al-minminas-para-bendecir-el-edificio/",
+        "published_date": "2026-08-27 23:30:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "This girl was saved by firefighters, not by Israeli rescuers.",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/detector-de-mentiras/enganoso/esta-nina-fue-salvada-por-los-bomberos-no-por-rescatistas-de-israel/",
+        "published_date": "2026-08-27 23:08:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "Guaviare seeks to achieve zero deforestation in ten years",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/guaviare-busca-alcanzar-la-deforestacion-cero-en-diez-anos/",
+        "published_date": "2026-08-27 23:03:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tremor today in Colombia |They report a new earthquake of magnitude greater than 3 in Choc\u00f3 during the night of this Thursday, August 27: epicenter and depth",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-hoy-en-colombia-reportan-nuevo-sismo-de-magnitud-mayor-a-3-en-choco-durante-la-noche-de-este-jueves-27-de-agosto-epicentro-y-profundidad-3581699",
+        "published_date": "2026-08-27 22:56:44",
+        "category": "Local Events"
     },
     {
         "title": "Who is Mar\u00eda del Mar Pizarro Garc\u00eda",
@@ -406,10 +469,24 @@
         "category": "Local Events"
     },
     {
+        "title": "Video |They capture a man under house arrest who was traveling in a car with false license plates and attacked traffic agents in Candelaria",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/video-capturan-a-un-hombre-con-prision-domiciliaria-que-se-movilizaba-en-un-carro-con-placas-falsas-y-agredio-a-agentes-de-transito-en-candelaria-3581690",
+        "published_date": "2026-08-27 20:43:40",
+        "category": "Local Events"
+    },
+    {
         "title": "Who is Laura Daniela Beltr\u00e1n Palomares",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-laura-daniela-beltran-palomares/",
         "published_date": "2026-08-27 20:34:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "This is the baby opossum that Cortolima rescued from the voracious fires in Tolima",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/esta-es-la-zarigueeya-bebe-que-cortolima-rescato-de-los-voraces-incendios-en-tolima-3581689",
+        "published_date": "2026-08-27 20:30:00",
         "category": "Local Events"
     },
     {
@@ -427,6 +504,13 @@
         "category": "Local Events"
     },
     {
+        "title": "Video |'I was ready to push when the earth started moving!': mother of baby born in Cali earthquake sends message of hope",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/video-estaba-lista-para-pujar-cuando-la-tierra-comenzo-a-moverse-la-madre-de-bebe-nacido-en-el-terremoto-de-cali-envia-un-mensaje-de-esperanza-3581638",
+        "published_date": "2026-08-27 20:12:28",
+        "category": "Local Events"
+    },
+    {
         "title": "Who is Carol Stefanny Borda Acevedo",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-carol-stefanny-borda-acevedo/",
@@ -441,101 +525,24 @@
         "category": "Local Events"
     },
     {
-        "title": "Who is David Gerardo Cote Rodr\u00edguez",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-david-gerardo-cote-rodriguez/",
-        "published_date": "2026-08-27 19:21:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Who is Jos\u00e9 Jaime Usc\u00e1tegui Pastrana",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-jose-jaime-uscategui-pastrana/",
-        "published_date": "2026-08-27 19:07:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "Drones: Colombia cannot regulate the sky of the future with old rules",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-ciencia-e-innovacion/drones-colombia-no-puede-regular-el-cielo-del-futuro-con-reglas-viejas/",
-        "published_date": "2026-08-27 19:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Government will deliver 363 subsidies of $65 million to producers in Tolima",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/de-la-espriella-anuncio-subsidios-de-65-millones-para-productores-afectados-en-tolima-4468500",
-        "published_date": "2026-08-27 18:39:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "Colombian Geological Service reported a 4.4 magnitude earthquake in Choc\u00f3",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/servicio-geologico-colombiano-reporto-sismo-de-magnitud-4-4-en-istmina-choco-4468344",
-        "published_date": "2026-08-27 16:16:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "From the United States, Mayor Federico Guti\u00e9rrez announced a strengthened strategy to prevent the sexual exploitation of minors in Medell\u00edn",
+        "title": "The mayor of Cali, the district manager and the first lady of the country announce alliances to promote reconstruction after the earthquake",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/desde-estados-unidos-el-alcalde-federico-gutierrez-anuncio-estrategia-fortalecida-para-prevenir-la-explotacion-sexual-de-menores-en-medellin-3581597",
-        "published_date": "2026-08-27 15:33:16",
+        "url": "https://www.eltiempo.com/colombia/cali/el-alcalde-de-cali-la-gestora-del-distrito-y-la-primera-dama-del-pais-anuncian-alianzas-para-impulsar-la-reconstruccion-tras-el-terremoto-3581680",
+        "published_date": "2026-08-27 19:56:48",
         "category": "Local Events"
     },
     {
-        "title": "With drones and dogs they search in Antioquia for six-year-old Michelle Dayana Henao: the minor disappeared in Buritic\u00e1 last Monday",
+        "title": "The vulnerability map: these are the areas of Medell\u00edn most exposed to a large earthquake",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/con-drones-y-perros-buscan-en-antioquia-a-michelle-dayana-henao-de-seis-anos-la-menor-desaparecio-en-buritica-el-pasado-lunes-3581534",
-        "published_date": "2026-08-27 15:09:39",
+        "url": "https://www.eltiempo.com/colombia/medellin/el-mapa-de-la-vulnerabilidad-estas-son-las-zonas-de-medellin-mas-expuestas-ante-un-sismo-de-gran-magnitud-3581668",
+        "published_date": "2026-08-27 19:32:08",
         "category": "Local Events"
     },
     {
-        "title": "'Hero forever': the drone war in Cauca claims the life of a young soldier from Neiva and shakes his Oro Negro neighborhood",
+        "title": "Consternation in Northeast Antioquia: Anor\u00ed fire commander was shot dead",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/heroe-por-siempre-la-guerra-con-drones-en-el-cauca-cobra-la-vida-de-un-joven-soldado-de-neiva-y-sacude-a-su-barrio-oro-negro-3581575",
-        "published_date": "2026-08-27 14:22:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Scare in Cali due to the 4.4 magnitude earthquake with its epicenter in Choc\u00f3: 'I ran out into the center'",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/susto-en-cali-por-el-sismo-de-magnitud-4-4-con-epicentro-en-choco-sali-corriendo-en-el-centro-3581568",
-        "published_date": "2026-08-27 13:38:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "New York would be the next international destination for Barranquilla: Mayor Char announces a new direct air route during the Anato Congress",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/nueva-york-seria-el-proximo-destino-internacional-de-barranquilla-alcalde-char-anuncia-nueva-ruta-aerea-directa-durante-congreso-de-anato-3581547",
-        "published_date": "2026-08-27 12:40:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Government opens talks with Japan to promote agricultural products",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/gobierno-abre-conversaciones-con-japon-para-impulsar-productos-del-agro-4468038",
-        "published_date": "2026-08-27 12:04:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cOne of the objectives must be to establish an agricultural export plan for Asia\u201d",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/inside-lr-con-el-presidente-de-analdex-javier-diaz-quien-hablo-sobre-el-potencial-exportador-4467557",
-        "published_date": "2026-08-27 05:01:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "After the earthquake on August 10, authorities reported another 2,158 tremors",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/tras-terremoto-del-10-de-agosto-servicio-geologico-reporto-otros-2-158-temblores-4467880",
-        "published_date": "2026-08-27 05:01:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "Colombia cannot continue waiting for the forest to burn to start protecting it",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/colombia-no-puede-seguir-esperando-a-que-arda-el-bosque-para-empezar-a-protegerlo/",
-        "published_date": "2026-08-27 02:38:45",
+        "url": "https://www.eltiempo.com/colombia/medellin/consternacion-en-el-nordeste-antioqueno-comandante-de-bomberos-de-anori-fue-asesinado-a-tiros-3581677",
+        "published_date": "2026-08-27 19:30:58",
         "category": "Local Events"
     }
 ]
