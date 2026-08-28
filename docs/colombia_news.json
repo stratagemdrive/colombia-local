@@ -49,11 +49,32 @@
         "category": "Diplomacy"
     },
     {
-        "title": "The governments of the US and Colombia announced that they are working on a reciprocal trade agreement",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/gobiernos-de-ee-uu-y-colombia-trabajan-en-acuerdo-sobre-comercio-reciproco-4462929",
-        "published_date": "2026-08-20 16:45:53",
-        "category": "Diplomacy"
+        "title": "UNP orders to withdraw security scheme for Beto Coral and Juliana Guerrero",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/unp-ordena-retirar-esquema-de-seguridad-de-guerrero-y-coral/",
+        "published_date": "2026-08-28 19:23:28",
+        "category": "Military"
+    },
+    {
+        "title": "Authorities rule out security alert on the Cali-Jamund\u00ed highway after the capture of two people with explosives",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/autoridades-descartan-alerta-de-seguridad-en-la-via-cali-jamundi-tras-captura-de-dos-personas-con-explosivos-3581926",
+        "published_date": "2026-08-28 15:16:53",
+        "category": "Military"
+    },
+    {
+        "title": "Barranquilla |A motorcyclist tried to evade a checkpoint and ended up crashing while fleeing: the police captured him and he had a revolver",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-un-motociclista-intento-evadir-un-puesto-de-control-y-termino-chocandose-en-plena-huida-la-policia-lo-capturo-y-tenia-un-revolver-3581933",
+        "published_date": "2026-08-28 15:01:00",
+        "category": "Military"
+    },
+    {
+        "title": "The first version that a CTI agent gave to the Police after the strange death of her magistrate husband in Barranquilla: was there a third person?",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/la-primera-version-que-dio-a-la-policia-agente-del-cti-tras-extrana-muerte-de-su-esposo-magistrado-en-barranquilla-hubo-tercera-persona-3581865",
+        "published_date": "2026-08-28 12:56:38",
+        "category": "Military"
     },
     {
         "title": "Colombian-French citizen, member of the French Army, would be kidnapped in Nari\u00f1o: authorities investigate",
@@ -168,32 +189,11 @@
         "category": "Military"
     },
     {
-        "title": "End to the blockade in the north of Antioquia: Army neutralizes cylinder with explosive on the Medell\u00edn-Ituango highway",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/fin-al-bloqueo-en-el-norte-de-antioquia-ejercito-neutraliza-cilindro-con-explosivo-en-la-via-medellin-ituango-3580305",
-        "published_date": "2026-08-22 15:43:40",
-        "category": "Military"
-    },
-    {
-        "title": "The mother of General (r.) Jos\u00e9 Luis Esparza died after a month in the ICU: rapone attack in Bucaramanga had a fatal outcome",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/murio-la-madre-del-general-r-jose-luis-esparza-tras-un-mes-en-uci-ataque-de-raponero-en-bucaramanga-tuvo-desenlace-fatal-3580288",
-        "published_date": "2026-08-22 15:17:33",
-        "category": "Military"
-    },
-    {
-        "title": "Alias \u200b\u200bBairon, an alleged member of the support network of the 'Ad\u00e1n Izquierdo' front, fell after the attack on the Police substation in El Cerrito",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/cayo-alias-bairon-presunto-integrante-de-la-red-de-apoyo-del-frente-adan-izquierdo-tras-el-atentado-a-la-subestacion-de-policia-en-el-cerrito-3580287",
-        "published_date": "2026-08-22 14:08:47",
-        "category": "Military"
-    },
-    {
-        "title": "Exemplary sentence: eight years in prison for former police officer for demanding $300,000 not to immobilize a motorcycle in Valledupar",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/condena-ejemplar-ocho-anos-de-carcel-a-expolicia-por-exigir-300-000-para-no-inmovilizar-una-motocicleta-en-valledupar-3580246",
-        "published_date": "2026-08-22 10:01:00",
-        "category": "Military"
+        "title": "Extraordinary assembly to renew the Ecopetrol Board will be on September 15",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/asamblea-extraordinaria-para-renovar-la-junta-de-ecopetrol-sera-el-15-de-septiembre-4469052",
+        "published_date": "2026-08-28 11:32:12",
+        "category": "Energy"
     },
     {
         "title": "The portfolios with the largest additions and cuts from the 2027 Budget project",
@@ -329,11 +329,18 @@
         "category": "Energy"
     },
     {
-        "title": "Union Council highlighted the $1.5 billion fund to begin debt payment",
+        "title": "Ministry of Finance aims for a fiscal deficit of 9.4% of GDP by 2027",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/consejo-gremial-destaco-el-fondo-de-1-5-billones-para-iniciar-el-pago-de-deuda-a-termicas-4465633",
-        "published_date": "2026-08-24 18:37:52",
-        "category": "Energy"
+        "url": "https://www.larepublica.co/economia/ministerio-de-hacienda-apunta-a-un-deficit-fiscal-de-9-4-del-pib-para-2027-4469474",
+        "published_date": "2026-08-28 17:52:42",
+        "category": "Economy"
+    },
+    {
+        "title": "MinHacienda affirmed that the increase in PGN 2027 is due to the level of debt of the previous government",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/minhacienda-afirmo-que-alza-en-pgn-2027-se-debe-a-exclusiones-en-proyecto-anterior-4469067",
+        "published_date": "2026-08-28 11:52:11",
+        "category": "Economy"
     },
     {
         "title": "Abelardo's first budget comes to \"honest accounts\", without cuts",
@@ -406,143 +413,143 @@
         "category": "Economy"
     },
     {
-        "title": "The key dates that will define the future of the General Budget of the Nation for 2027",
+        "title": "Bukele did not propose Shakira as president instead of Abelardo;video is AI",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/bukele-no-propuso-a-shakira-como-presidenta-en-vez-de-abelardo-video-es-ia/",
+        "published_date": "2026-08-28 20:57:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cali: Abelardo announces subsidies of $1,050,000 for three months",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/cali-abelardo-anuncia-subsidios-de-1-050-000-por-tres-meses/",
+        "published_date": "2026-08-28 20:38:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "De la Espriella did not launch a millionaire platform: it is another potential scam with AI",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/de-la-espriella-no-lanzo-plataforma-millonaria-es-otra-potencial-estafa-con-ia/",
+        "published_date": "2026-08-28 19:50:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Book of Truth sheds little light on Petro's corruption",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/el-libro-de-la-verdad-esclarece-muy-poco-la-corrupcion-de-petro/",
+        "published_date": "2026-08-28 19:43:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "Who is Camilo Alfonso Torres Prada",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-camilo-alfonso-torres-prada/",
+        "published_date": "2026-08-28 18:48:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "Who is Miguel \u00c1ngel Pinto Rueda",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-miguel-angel-pinto-rueda/",
+        "published_date": "2026-08-28 18:45:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "Who is Jonathan Eduardo Pineda L\u00f3pez",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-jonathan-eduardo-pineda-lopez/",
+        "published_date": "2026-08-28 18:39:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "Who is Diego Fran Ariza P\u00e9rez",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-diego-fran-ariza-perez/",
+        "published_date": "2026-08-28 18:13:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "Who is Guillermo Le\u00f3n Blanco Valencia",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-guillermo-leon-blanco-valencia/",
+        "published_date": "2026-08-28 18:10:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "Dian denounced false auctions of vehicles promoted on social networks",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/las-fechas-claves-que-definiran-el-futuro-del-presupuesto-general-de-2027-4468889",
-        "published_date": "2026-08-28 05:03:48",
+        "url": "https://www.larepublica.co/economia/dian-denuncio-falsos-remates-de-vehiculos-promocionados-por-redes-sociales-4469524",
+        "published_date": "2026-08-28 17:56:00",
         "category": "Local Events"
     },
     {
-        "title": "\u201cWe have opportunities to reach China, the Middle East, Japan and Central America\u201d",
+        "title": "De la Espriella confirmed a subsidy of up to $3.15 million for families affected in Risaralda",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/inside-lr-con-gustavo-moreno-presidente-de-fenavi-sobre-la-expansion-de-exportaciones-de-huevo-y-pollo-4468589",
-        "published_date": "2026-08-28 05:01:19",
+        "url": "https://www.larepublica.co/economia/de-la-espriella-confirmo-subsidio-por-hasta-3-15-millones-para-familias-en-risaralda-4469342",
+        "published_date": "2026-08-28 16:17:43",
         "category": "Local Events"
     },
     {
-        "title": "Again, Cepeda did not curse the Santandereans;video was created with AI",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/de-nuevo-cepeda-no-maldijo-a-los-santandereanos-video-fue-creado-con-ia/",
-        "published_date": "2026-08-28 00:05:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "This image of Abelardo with balls and a National Team uniform is false",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/esta-imagen-de-abelardo-con-balones-y-uniforme-de-la-seleccion-es-falsa/",
-        "published_date": "2026-08-27 23:44:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Abelardo's cousins \u200b\u200bwere invited to MinMinas to bless the building",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/primos-de-abelardo-fueron-invitados-al-minminas-para-bendecir-el-edificio/",
-        "published_date": "2026-08-27 23:30:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "This girl was saved by firefighters, not by Israeli rescuers.",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/detector-de-mentiras/enganoso/esta-nina-fue-salvada-por-los-bomberos-no-por-rescatistas-de-israel/",
-        "published_date": "2026-08-27 23:08:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "Guaviare seeks to achieve zero deforestation in ten years",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/guaviare-busca-alcanzar-la-deforestacion-cero-en-diez-anos/",
-        "published_date": "2026-08-27 23:03:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tremor today in Colombia |They report a new earthquake of magnitude greater than 3 in Choc\u00f3 during the night of this Thursday, August 27: epicenter and depth",
+        "title": "Four more inmates are transferred from Barranquilla prisons: one of them is the alleged hitman from Los Pepes who had smiled in the police file",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-hoy-en-colombia-reportan-nuevo-sismo-de-magnitud-mayor-a-3-en-choco-durante-la-noche-de-este-jueves-27-de-agosto-epicentro-y-profundidad-3581699",
-        "published_date": "2026-08-27 22:56:44",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/trasladan-cuatro-reclusos-mas-desde-carceles-de-barranquilla-uno-de-ellos-es-el-presunto-sicario-de-los-pepes-que-habia-sonreido-en-la-ficha-policial-3581942",
+        "published_date": "2026-08-28 16:05:00",
         "category": "Local Events"
     },
     {
-        "title": "Who is Mar\u00eda del Mar Pizarro Garc\u00eda",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-maria-del-mar-pizarro-garcia/",
-        "published_date": "2026-08-27 20:46:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "Video |They capture a man under house arrest who was traveling in a car with false license plates and attacked traffic agents in Candelaria",
+        "title": "These were the publications of Kevin Thobias, famous for bringing the first Tesla Cybertruck to Colombia and showing off a life of luxury on social networks",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/video-capturan-a-un-hombre-con-prision-domiciliaria-que-se-movilizaba-en-un-carro-con-placas-falsas-y-agredio-a-agentes-de-transito-en-candelaria-3581690",
-        "published_date": "2026-08-27 20:43:40",
+        "url": "https://www.eltiempo.com/colombia/medellin/estas-eran-las-publicaciones-de-kevin-thobias-famoso-por-traer-el-primer-tesla-cybertruck-a-colombia-y-presumir-una-vida-de-lujos-en-redes-sociales-3581928",
+        "published_date": "2026-08-28 15:58:19",
         "category": "Local Events"
     },
     {
-        "title": "Who is Laura Daniela Beltr\u00e1n Palomares",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-laura-daniela-beltran-palomares/",
-        "published_date": "2026-08-27 20:34:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "This is the baby opossum that Cortolima rescued from the voracious fires in Tolima",
+        "title": "From Asobancaria, the governor of C\u00f3rdoba asked the bank to include his town, hit by floods, in an aid package for victims",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/esta-es-la-zarigueeya-bebe-que-cortolima-rescato-de-los-voraces-incendios-en-tolima-3581689",
-        "published_date": "2026-08-27 20:30:00",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/desde-asobancaria-el-gobernador-de-cordoba-pidio-a-la-banca-incluir-a-su-pueblo-golpeado-por-inundaciones-en-un-paquete-de-ayudas-para-damnificados-3581884",
+        "published_date": "2026-08-28 14:54:53",
         "category": "Local Events"
     },
     {
-        "title": "Who is Mar\u00eda Fernanda Carrascal Rojas",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-maria-fernanda-carrascal-rojas/",
-        "published_date": "2026-08-27 20:27:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "Who is Nelly Patricia Mosquera Murcia",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-nelly-patricia-mosquera-murcia/",
-        "published_date": "2026-08-27 20:13:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "Video |'I was ready to push when the earth started moving!': mother of baby born in Cali earthquake sends message of hope",
+        "title": "'A lot of luxury, little explanation': the strong message from Mayor Federico Guti\u00e9rrez after millionaire seizure from influencer Kevin Alex Thobias",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/video-estaba-lista-para-pujar-cuando-la-tierra-comenzo-a-moverse-la-madre-de-bebe-nacido-en-el-terremoto-de-cali-envia-un-mensaje-de-esperanza-3581638",
-        "published_date": "2026-08-27 20:12:28",
+        "url": "https://www.eltiempo.com/colombia/medellin/mucho-lujo-poca-explicacion-el-contundente-mensaje-del-alcalde-federico-gutierrez-tras-millonaria-incautacion-al-influencer-kevin-alex-thobias-3581913",
+        "published_date": "2026-08-28 14:40:09",
         "category": "Local Events"
     },
     {
-        "title": "Who is Carol Stefanny Borda Acevedo",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-carol-stefanny-borda-acevedo/",
-        "published_date": "2026-08-27 20:07:09",
+        "title": "National Development Plan for 2027-2030 would include elimination of entities",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/plan-nacional-de-desarrollo-de-2027-2030-incluiria-la-eliminacion-y-fusion-de-entidades-4469170",
+        "published_date": "2026-08-28 14:39:06",
         "category": "Local Events"
     },
     {
-        "title": "Abelardo declares public calamity in Tolima due to forest fires",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/abelardo-declara-calamidad-publica-en-tolima-por-incendios-forestales/",
-        "published_date": "2026-08-27 20:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The mayor of Cali, the district manager and the first lady of the country announce alliances to promote reconstruction after the earthquake",
+        "title": "Medell\u00edn enters nighttime water rationing in more than 10 neighborhoods: these are the affected areas and the cut-off times",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/el-alcalde-de-cali-la-gestora-del-distrito-y-la-primera-dama-del-pais-anuncian-alianzas-para-impulsar-la-reconstruccion-tras-el-terremoto-3581680",
-        "published_date": "2026-08-27 19:56:48",
+        "url": "https://www.eltiempo.com/colombia/medellin/medellin-entra-en-racionamiento-nocturno-de-agua-en-mas-de-10-barrios-estas-son-las-zonas-afectadas-y-los-horarios-de-corte-3581905",
+        "published_date": "2026-08-28 14:18:58",
         "category": "Local Events"
     },
     {
-        "title": "The vulnerability map: these are the areas of Medell\u00edn most exposed to a large earthquake",
+        "title": "Fear due to violence in Soledad (Atl\u00e1ntico): hitmen interrupted a children's party with gunshots and left one dead and two injured",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/el-mapa-de-la-vulnerabilidad-estas-son-las-zonas-de-medellin-mas-expuestas-ante-un-sismo-de-gran-magnitud-3581668",
-        "published_date": "2026-08-27 19:32:08",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/zozobra-por-la-violencia-en-soledad-atlantico-sicarios-interrumpieron-con-disparos-una-fiesta-infantil-y-dejaron-un-muerto-y-dos-heridos-3581900",
+        "published_date": "2026-08-28 14:02:55",
         "category": "Local Events"
     },
     {
-        "title": "Consternation in Northeast Antioquia: Anor\u00ed fire commander was shot dead",
+        "title": "'We do this reconstruction together': Dilian Francisca Toro promises structural evaluation and economic reactivation for Chiminangos",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/consternacion-en-el-nordeste-antioqueno-comandante-de-bomberos-de-anori-fue-asesinado-a-tiros-3581677",
-        "published_date": "2026-08-27 19:30:58",
+        "url": "https://www.eltiempo.com/colombia/cali/esta-reconstruccion-la-hacemos-juntos-dilian-francisca-toro-promete-evaluacion-estructural-y-reactivacion-economica-para-chiminangos-3581889",
+        "published_date": "2026-08-28 14:01:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "MinCiencias will allocate $109,000 million for care in affected areas",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/minciencias-destinara-109-000-millones-para-atencion-sanitaria-en-zonas-afectadas-4469125",
+        "published_date": "2026-08-28 12:57:55",
         "category": "Local Events"
     }
 ]
