@@ -1,5 +1,12 @@
 [
     {
+        "title": "Colombia, the US and Ecuador analyze creating a binational base",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/colombia-ee-uu-y-ecuador-analizan-crear-una-base-binacional/",
+        "published_date": "2026-08-28 21:57:41",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Sleep informed with the movements of this August 27, 2026",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-movidas-de-este-27-de-agosto-de-2026/",
@@ -189,6 +196,13 @@
         "category": "Military"
     },
     {
+        "title": "Ecopetrol made the extraordinary assembly official and nominated the candidates",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/ecopetrol-oficializo-la-asamblea-extraordinaria-y-postulo-a-los-candidatos-4470091",
+        "published_date": "2026-08-29 01:18:49",
+        "category": "Energy"
+    },
+    {
         "title": "Extraordinary assembly to renew the Ecopetrol Board will be on September 15",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/asamblea-extraordinaria-para-renovar-la-junta-de-ecopetrol-sera-el-15-de-septiembre-4469052",
@@ -322,11 +336,11 @@
         "category": "Energy"
     },
     {
-        "title": "Ecopetrol: Ricardo Rodr\u00edguez's position on the board of directors is at stake",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/ecopetrol-en-juego-el-puesto-de-ricardo-rodriguez-en-la-junta-directiva/",
-        "published_date": "2026-08-24 19:42:31",
-        "category": "Energy"
+        "title": "Expocamacol 2026 will close with business projections exceeding 1.2 billion dollars: more than 60,000 people attended the fair",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/expocamacol-2026-cerrara-con-proyecciones-de-negocios-superiores-a-los-1-200-millones-de-dolares-mas-de-60-000-personas-asistieron-a-la-feria-3581996",
+        "published_date": "2026-08-28 19:43:39",
+        "category": "Economy"
     },
     {
         "title": "Ministry of Finance aims for a fiscal deficit of 9.4% of GDP by 2027",
@@ -399,18 +413,95 @@
         "category": "Economy"
     },
     {
-        "title": "Investment would have to recover 6.4 points of GDP in the next 10 years",
+        "title": "The entities with the most resources in the Budget project for 2027",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/inversion-tendria-que-recuperar-6-4-puntos-del-pib-en-los-proximos-10-anos-4463217",
-        "published_date": "2026-08-20 22:04:01",
-        "category": "Economy"
+        "url": "https://www.larepublica.co/economia/las-entidades-con-mas-recursos-en-el-proyecto-de-presupuesto-para-2027-4470126",
+        "published_date": "2026-08-29 02:35:14",
+        "category": "Local Events"
     },
     {
-        "title": "Ministry of Finance issued $200,000 million in TES denominated in UVR",
+        "title": "Remittances have not fallen from US$1 billion 26 months ago;in July they were US$1,078.39 million",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/ministerio-de-hacienda-emitio-200-000-millones-en-tes-denominados-en-uvr-4463180",
-        "published_date": "2026-08-20 21:47:56",
-        "category": "Economy"
+        "url": "https://www.larepublica.co/economia/remesas-no-caen-de-us-1-000-millones-hace-26-meses-en-julio-fueron-de-us-1-078-39-millones-4470066",
+        "published_date": "2026-08-29 01:11:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "Sleep informed with the movements of this August 28, 2026",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-movidas-de-este-28-de-agosto-de-2026/",
+        "published_date": "2026-08-29 00:47:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "There was no overwhelming growth in contractors via the Fund for Life",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/no-hubo-un-crecimiento-desbordado-de-contratistas-via-fondo-para-la-vida/",
+        "published_date": "2026-08-29 00:04:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cepeda and Uribe meet with Governor Nubia C\u00f3rdoba in Choc\u00f3",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/choco-cepeda-y-uribe-se-reunen-con-la-gobernadora-nubia-cordoba/",
+        "published_date": "2026-08-28 23:55:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The opposition of the Pact takes its first steps under the discipline of Petro",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/la-oposicion-del-pacto-da-sus-primeros-pasos-bajo-la-disciplina-de-petro/",
+        "published_date": "2026-08-28 23:43:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Int\u00e9grate Centers, at risk to serve migrants",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/los-centros-integrate-en-riesgo-para-atender-a-migrantes/",
+        "published_date": "2026-08-28 23:00:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "This is how forests should be recovered after fires: Humboldt",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/asi-se-deben-recuperar-los-bosques-tras-los-incendios-humboldt/",
+        "published_date": "2026-08-28 22:07:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "'I will be aware of the reconstruction that is carried out in the Valley': President De La Espriella will allocate drug goods for the victims of the earthquake",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/estare-al-tanto-de-la-reconstruccion-que-se-haga-en-el-valle-presidente-de-la-espriella-destinara-bienes-de-narcos-para-las-victimas-del-terremoto-3581949",
+        "published_date": "2026-08-28 21:59:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "'The reconstruction of the Valley is starting now': Juan Manuel Mu\u00f1oz has the priorities ready, such as aqueducts, abiding by the Government's guidelines",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/la-reconstruccion-del-valle-arranca-ya-juan-manuel-munoz-tiene-listas-las-prioridades-como-acueductos-acatando-las-directrices-del-gobierno-3582008",
+        "published_date": "2026-08-28 21:55:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "Solidarity tourism: this is the strategy to reactivate the areas affected by the 7.4 magnitude earthquake in Colombia",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/turismo-solidario-esta-es-la-estrategia-para-reactivar-las-zonas-afectadas-por-el-terremoto-de-magnitud-7-4-en-colombia-3581404",
+        "published_date": "2026-08-28 21:49:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "The 2027 budget must be accompanied by fiscal sustainability",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/el-presupuesto-de-2027-debe-ir-acompanado-de-sostenibilidad-fiscal/",
+        "published_date": "2026-08-28 21:46:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "Colombia extradites alias \u201cGocho\u201d, leader of the Aragua Train, to Chile",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/colombia-extradita-a-chile-a-alias-gocho-cabecilla-del-tren-de-aragua/",
+        "published_date": "2026-08-28 21:37:17",
+        "category": "Local Events"
     },
     {
         "title": "Bukele did not propose Shakira as president instead of Abelardo;video is AI",
@@ -427,10 +518,24 @@
         "category": "Local Events"
     },
     {
+        "title": "Video |Firefighters fight three simultaneous forest fires in Medell\u00edn: Mayor's Office reports that emergencies are 90% controlled",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/video-bomberos-combaten-tres-incendios-forestales-simultaneos-en-medellin-alcaldia-reporta-que-las-emergencias-estan-controladas-en-un-3582007",
+        "published_date": "2026-08-28 20:33:55",
+        "category": "Local Events"
+    },
+    {
         "title": "De la Espriella did not launch a millionaire platform: it is another potential scam with AI",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/de-la-espriella-no-lanzo-plataforma-millonaria-es-otra-potencial-estafa-con-ia/",
         "published_date": "2026-08-28 19:50:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "'Cale\u00f1os working together with the support of Colombians are going to improve,' said Mayor Eder, while the Government urges to accelerate reconstruction",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/los-calenos-trabajando-unidos-con-apoyo-de-los-colombianos-vamos-a-superarnos-dijo-alcalde-eder-mientras-gobierno-insta-a-acelerar-reconstruccion-3581965",
+        "published_date": "2026-08-28 19:49:35",
         "category": "Local Events"
     },
     {
@@ -441,115 +546,10 @@
         "category": "Local Events"
     },
     {
-        "title": "Who is Camilo Alfonso Torres Prada",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-camilo-alfonso-torres-prada/",
-        "published_date": "2026-08-28 18:48:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "Who is Miguel \u00c1ngel Pinto Rueda",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-miguel-angel-pinto-rueda/",
-        "published_date": "2026-08-28 18:45:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "Who is Jonathan Eduardo Pineda L\u00f3pez",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-jonathan-eduardo-pineda-lopez/",
-        "published_date": "2026-08-28 18:39:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "Who is Diego Fran Ariza P\u00e9rez",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-diego-fran-ariza-perez/",
-        "published_date": "2026-08-28 18:13:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "Who is Guillermo Le\u00f3n Blanco Valencia",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-guillermo-leon-blanco-valencia/",
-        "published_date": "2026-08-28 18:10:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Dian denounced false auctions of vehicles promoted on social networks",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/dian-denuncio-falsos-remates-de-vehiculos-promocionados-por-redes-sociales-4469524",
-        "published_date": "2026-08-28 17:56:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "De la Espriella confirmed a subsidy of up to $3.15 million for families affected in Risaralda",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/de-la-espriella-confirmo-subsidio-por-hasta-3-15-millones-para-familias-en-risaralda-4469342",
-        "published_date": "2026-08-28 16:17:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Four more inmates are transferred from Barranquilla prisons: one of them is the alleged hitman from Los Pepes who had smiled in the police file",
+        "title": "'I didn't have the opportunity to talk for a minute': Juan Ospino reveals the reasons for his surprising departure from the direction of the Barranquilla Carnival",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/trasladan-cuatro-reclusos-mas-desde-carceles-de-barranquilla-uno-de-ellos-es-el-presunto-sicario-de-los-pepes-que-habia-sonreido-en-la-ficha-policial-3581942",
-        "published_date": "2026-08-28 16:05:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "These were the publications of Kevin Thobias, famous for bringing the first Tesla Cybertruck to Colombia and showing off a life of luxury on social networks",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/estas-eran-las-publicaciones-de-kevin-thobias-famoso-por-traer-el-primer-tesla-cybertruck-a-colombia-y-presumir-una-vida-de-lujos-en-redes-sociales-3581928",
-        "published_date": "2026-08-28 15:58:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "From Asobancaria, the governor of C\u00f3rdoba asked the bank to include his town, hit by floods, in an aid package for victims",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/desde-asobancaria-el-gobernador-de-cordoba-pidio-a-la-banca-incluir-a-su-pueblo-golpeado-por-inundaciones-en-un-paquete-de-ayudas-para-damnificados-3581884",
-        "published_date": "2026-08-28 14:54:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "'A lot of luxury, little explanation': the strong message from Mayor Federico Guti\u00e9rrez after millionaire seizure from influencer Kevin Alex Thobias",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/mucho-lujo-poca-explicacion-el-contundente-mensaje-del-alcalde-federico-gutierrez-tras-millonaria-incautacion-al-influencer-kevin-alex-thobias-3581913",
-        "published_date": "2026-08-28 14:40:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "National Development Plan for 2027-2030 would include elimination of entities",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/plan-nacional-de-desarrollo-de-2027-2030-incluiria-la-eliminacion-y-fusion-de-entidades-4469170",
-        "published_date": "2026-08-28 14:39:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "Medell\u00edn enters nighttime water rationing in more than 10 neighborhoods: these are the affected areas and the cut-off times",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/medellin-entra-en-racionamiento-nocturno-de-agua-en-mas-de-10-barrios-estas-son-las-zonas-afectadas-y-los-horarios-de-corte-3581905",
-        "published_date": "2026-08-28 14:18:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fear due to violence in Soledad (Atl\u00e1ntico): hitmen interrupted a children's party with gunshots and left one dead and two injured",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/zozobra-por-la-violencia-en-soledad-atlantico-sicarios-interrumpieron-con-disparos-una-fiesta-infantil-y-dejaron-un-muerto-y-dos-heridos-3581900",
-        "published_date": "2026-08-28 14:02:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "'We do this reconstruction together': Dilian Francisca Toro promises structural evaluation and economic reactivation for Chiminangos",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/esta-reconstruccion-la-hacemos-juntos-dilian-francisca-toro-promete-evaluacion-estructural-y-reactivacion-economica-para-chiminangos-3581889",
-        "published_date": "2026-08-28 14:01:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "MinCiencias will allocate $109,000 million for care in affected areas",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/minciencias-destinara-109-000-millones-para-atencion-sanitaria-en-zonas-afectadas-4469125",
-        "published_date": "2026-08-28 12:57:55",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/no-tuve-oportunidad-de-dialogar-un-minuto-juan-ospino-revela-las-razones-de-su-sorpresiva-salida-de-la-direccion-del-carnaval-de-barranquilla-3581995",
+        "published_date": "2026-08-28 19:10:00",
         "category": "Local Events"
     }
 ]
