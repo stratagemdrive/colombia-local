@@ -1,5 +1,12 @@
 [
     {
+        "title": "Colombian Geological Service issues extraordinary bulletin due to 'swarm' of tremors in Purac\u00e9 Volcano: there is rock fracturing",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/servicio-geologico-colombiano-emite-boletin-extraordinario-por-enjambre-de-temblores-en-volcan-purace-hay-fracturamiento-de-roca-3582178",
+        "published_date": "2026-08-30 07:32:56",
+        "category": "Diplomacy"
+    },
+    {
         "title": "The US provides donation to fight fires in Tolima, Valle and Nari\u00f1o",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/ee-uu-entrega-donacion-para-combatir-incendios-en-tolima-valle-y-narino-4470376",
@@ -189,6 +196,20 @@
         "category": "Military"
     },
     {
+        "title": "They denounce \u00c1vila for alleged inconsistencies in the 2027 Budget",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/denuncian-a-avila-por-presuntas-inconsistencias-en-el-presupuesto-de-2027-4470469",
+        "published_date": "2026-08-30 13:48:37",
+        "category": "Energy"
+    },
+    {
+        "title": "Roa left Ecopetrol behind, recovery needs expert hands",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/opinion/el-rezago-de-ecopetrol-bajo-ricardo-roa/",
+        "published_date": "2026-08-30 06:00:00",
+        "category": "Energy"
+    },
+    {
         "title": "The Government froze gasoline and diesel prices in September after the earthquake",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/el-gobierno-congelo-los-precios-de-gasolina-y-diesel-durante-septiembre-tras-terremoto-4470452",
@@ -315,20 +336,6 @@
         "category": "Energy"
     },
     {
-        "title": "Will they reach $1.5 billion to face the energy crisis in the Caribbean?User League alert due to Air-e situation",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/alcanzaran-1-5-billones-para-enfrentar-la-crisis-de-energia-en-el-caribe-liga-de-usuarios-alerta-por-situacion-de-air-e-3580991",
-        "published_date": "2026-08-25 18:01:00",
-        "category": "Energy"
-    },
-    {
-        "title": "Attention Caribbean Region: Attorney General's Office opens investigation against former Minister Edwin Palma and former officials for alleged failures in Air-e intervention",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/atencion-region-caribe-procuraduria-abre-investigacion-contra-exministro-edwin-palma-y-exfuncionarios-por-presuntas-fallas-en-intervencion-de-air-e-3581020",
-        "published_date": "2026-08-25 17:40:00",
-        "category": "Energy"
-    },
-    {
         "title": "Expocamacol 2026 will close with business projections exceeding 1.2 billion dollars: more than 60,000 people attended the fair",
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/medellin/expocamacol-2026-cerrara-con-proyecciones-de-negocios-superiores-a-los-1-200-millones-de-dolares-mas-de-60-000-personas-asistieron-a-la-feria-3581996",
@@ -399,6 +406,104 @@
         "category": "Economy"
     },
     {
+        "title": "Reconstructing Colombia also requires rebuilding the rules of access to decent housing for Colombians.",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-derecho-constitucional/reconstruir-colombia-exige-reconstruir-tambien-las-reglas-de-acceso-a-una-vivienda-digna-de-los-colombianos/",
+        "published_date": "2026-08-30 14:10:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "'Behind there are mafias from Barranquilla': De La Espriella proposes to reform the traffic code",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/detras-hay-mafias-de-barranquilla-de-la-espriella-sobre-reformar-codigo-de-transito/",
+        "published_date": "2026-08-30 14:05:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "Colombia and the Caribbean: from the periphery to the strategy",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/colombia-y-el-caribe-de-la-periferia-a-la-estrategia/",
+        "published_date": "2026-08-30 13:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The energy crisis requires reform of the General Royalties System",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-verde/la-crisis-energetica-exige-reformar-el-sistema-general-de-regalias/",
+        "published_date": "2026-08-30 13:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Where is Michelle Dayana Chavarr\u00eda, a 6-year-old girl with epilepsy who disappeared in Buritic\u00e1, Antioquia?They offer up to $50 million to find her",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/donde-esta-michelle-dayana-chavarria-de-6-anos-desaparecida-en-buritica-antioquia-50-millones-por-encontrarla-en-operativo-con-drones-y-perros-3582186",
+        "published_date": "2026-08-30 10:01:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "Pain and indignation over the murder of a 16-year-old student in a house in the municipality of Florida, Valle: the minor was in ninth grade",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/dolor-e-indignacion-por-el-asesinato-de-un-estudiante-de-16-anos-en-una-casa-del-municipio-de-florida-valle-el-menor-cursaba-noveno-grado-3582192",
+        "published_date": "2026-08-30 09:31:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mother of Lucas, the boy who asked for help due to a serious medical condition, sent an emotional message to President De La Espriella: 'They are opening doors for us'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/mama-de-lucas-el-nino-que-pidio-ayuda-por-grave-condicion-medica-envio-emotivo-mensaje-al-presidente-de-la-espriella-nos-estan-abriendo-puertas-3582181",
+        "published_date": "2026-08-30 09:10:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "There have been two drone attacks in less than 24 hours in the north of Cauca: the first in Su\u00e1rez and the second in Caloto, near the hospital",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/reportaron-dos-ataques-con-drones-en-menos-de-24-horas-en-el-norte-del-cauca-el-primero-en-suarez-y-el-segundo-en-caloto-cerca-del-hospital-3582179",
+        "published_date": "2026-08-30 09:04:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "The shadow of corruption over Mompox: charges against former mayor and former secretary for unfinished works on the Magdalena River",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/la-sombra-de-la-corrupcion-sobre-mompox-cargos-a-exalcalde-y-exsecretario-por-obras-inconclusas-del-rio-magdalena-3582183",
+        "published_date": "2026-08-30 08:46:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "The pension survived the Court, but a counter-reform is lurking",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/la-pensional-sobrevivio-a-la-corte-pero-la-acecha-una-contrarreforma/",
+        "published_date": "2026-08-30 06:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ministry of Health establishes measures to reinforce hospital preparation for the possible effects of the El Ni\u00f1o phenomenon",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/ministerio-de-salud-establece-medidas-para-reforzar-la-preparacion-hospitalaria-ante-los-posibles-efectos-del-fenomeno-de-el-nino-3582176",
+        "published_date": "2026-08-30 03:25:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "Purac\u00e9 Volcano presented an increase in seismic activity in Cauca on Saturday, August 29: Colombian Geological Service reported 58 events",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/volcan-purace-presento-un-incremento-de-actividad-sismica-en-el-cauca-durante-el-sabado-29-de-agosto-servicio-geologico-colombiano-reporto-58-eventos-3582175",
+        "published_date": "2026-08-30 02:08:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "Rains in Choc\u00f3 hit Quibd\u00f3 again: floods affect homes and roads after more than 10 hours of rainfall",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/lluvias-en-choco-vuelven-a-golpear-a-quibdo-inundaciones-afectan-viviendas-y-vias-tras-mas-de-10-horas-de-precipitaciones-3582173",
+        "published_date": "2026-08-30 00:27:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "New earthquake in Colombia |They report an earthquake of magnitude 4.3 in Cauca during the night of this Saturday, August 29: epicenter and depth",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/nuevo-temblor-en-colombia-reportan-sismo-de-magnitud-4-3-en-cauca-durante-la-noche-de-este-sabado-29-de-agosto-epicentro-y-profundidad-3582172",
+        "published_date": "2026-08-30 00:14:38",
+        "category": "Local Events"
+    },
+    {
         "title": "The concepts of JP Morgan and Goldman Sachs on the Budget and the deficit",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/estos-son-los-conceptos-de-jp-morgan-y-goldman-sachs-sobre-el-presupuesto-y-el-deficit-fiscal-4470413",
@@ -438,104 +543,6 @@
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/abelardo-desmonta-tres-mesas-de-dialogo-de-la-paz-total/",
         "published_date": "2026-08-29 21:09:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "Earthquake, fires and El Ni\u00f1o: a single box and the same hands",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-verde/terremoto-incendios-y-el-nino-una-sola-caja-y-las-mismas-manos/",
-        "published_date": "2026-08-29 21:03:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cI am ready\u201d: Uribe responds to congressmen about his judicial process",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/estoy-listo-uribe-ante-audiencia-en-el-congreso-por-sus-investigaciones/",
-        "published_date": "2026-08-29 19:55:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "CoCrea brought to Honda the memory of the Magdalena River: communities and knowledge that seek to protect its waters and preserve its cultural legacy throughout Colombia",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cocrea-llevo-a-honda-la-memoria-del-rio-magdalena-comunidades-y-saberes-que-buscan-proteger-sus-aguas-y-preservar-su-legado-cultural-en-todo-colombia-3582123",
-        "published_date": "2026-08-29 19:12:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "New earthquake today in Colombia |Earthquake reported in Cauca on the afternoon of this Saturday, August 29: epicenter, depth and details",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/nuevo-temblor-hoy-en-colombia-reportan-sismo-en-cauca-en-la-tarde-de-este-sabado-29-de-agosto-epicentro-profundidad-y-detalles-3582125",
-        "published_date": "2026-08-29 18:46:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Prison for those involved in serious attacks against a woman and a girl in Antioquia: one of them was sentenced to nine years in prison",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/carcel-para-implicados-en-graves-agresiones-contra-una-mujer-y-una-nina-en-antioquia-uno-de-ellos-fue-condenado-a-nueve-anos-de-prision-3582132",
-        "published_date": "2026-08-29 18:25:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Forest fires in the Valley: 40 firefighters are fighting the fire in about 400 hectares that has not given up for almost a week in Buga",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/incendios-forestales-en-el-valle-40-bomberos-luchan-contra-el-fuego-en-unas-400-hectareas-que-no-da-tregua-desde-hace-casi-una-semana-en-buga-3582129",
-        "published_date": "2026-08-29 18:03:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "De la Espriella will propose to Congress to reduce traffic fines by up to 50%",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/presidente-de-la-espriella-propondra-al-congreso-reducir-hasta-50-las-multas-de-transito-4470331",
-        "published_date": "2026-08-29 17:42:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "Why did a man allegedly cause a fire under a vehicle bridge in Valle in the midst of a forest emergency crisis in the country?",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/por-que-un-hombre-presuntamente-provocaba-un-incendio-debajo-de-un-puente-vehicular-en-valle-en-plena-crisis-por-emergencias-forestales-en-el-pais-3582116",
-        "published_date": "2026-08-29 17:19:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "'Dress yourself in hope', fashion industry unites for earthquake victims: 'Sometimes starting over comes from something as essential as what to wear'",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/vistete-de-esperanza-industria-de-la-moda-se-une-por-victimas-del-terremoto-a-veces-volver-a-empezar-surge-de-algo-tan-esencial-como-que-ponerse-3582122",
-        "published_date": "2026-08-29 17:14:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "What the center does not understand",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/opinion/lo-que-el-centro-no-entiende/",
-        "published_date": "2026-08-29 15:42:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "On video, two girls asked President De La Espriella for a house in Cali: this was his moving response when he was giving aid for the earthquake",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/en-video-dos-ninas-le-pidieron-casa-al-presidente-abelardo-de-la-espriella-en-cali-esta-fue-su-conmovedora-respuesta-cuando-daba-ayudas-a-victimas-3582106",
-        "published_date": "2026-08-29 15:41:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "The use of AI in political communication affects trust even when it is not detected",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/el-uso-de-la-ia-en-la-comunicacion-politica-afecta-la-confianza-aun-cuando-no-se-detecta/",
-        "published_date": "2026-08-29 15:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The government repealed the suspension of glyphosate and other news",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/cifra-de-contratistas-en-libro-de-la-verdad-esta-inflada-y-otras-noticias/",
-        "published_date": "2026-08-29 14:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tension on the coast of Nari\u00f1o: community made complaints to a group of marines in the area of \u200b\u200bthe municipality of El Charco",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/tension-en-el-litoral-de-narino-comunidad-hizo-reclamos-a-un-grupo-de-infantes-de-marina-en-zona-del-municipio-de-el-charco-3582091",
-        "published_date": "2026-08-29 13:49:11",
         "category": "Local Events"
     }
 ]
