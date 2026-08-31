@@ -1,5 +1,19 @@
 [
     {
+        "title": "The photo: Nicol\u00e1s Maduro from prison",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/la-foto-nicolas-maduro-desde-la-prision/",
+        "published_date": "2026-08-30 22:34:06",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "The health of the child Lucas Murillo has been complicated by lack of attention, reveals the Cardiovascular Foundation: this is how he will be treated",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/salud-del-nino-lucas-murillo-se-ha-complicado-por-falta-de-atencion-revela-fundacion-cardiovascular-asi-sera-tratado-3582215",
+        "published_date": "2026-08-30 12:32:52",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Colombian Geological Service issues extraordinary bulletin due to 'swarm' of tremors in Purac\u00e9 Volcano: there is rock fracturing",
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/otras-ciudades/servicio-geologico-colombiano-emite-boletin-extraordinario-por-enjambre-de-temblores-en-volcan-purace-hay-fracturamiento-de-roca-3582178",
@@ -46,13 +60,6 @@
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/presidencia-se-pronuncio-sobre-curriculum-y-declaracion-de-renta-de-de-la-espriella-4466896",
         "published_date": "2026-08-26 02:11:58",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Rodrigo Pinz\u00f3n Navarro will now be the new director of Protocol in the Foreign Ministry",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/rodrigo-pinzon-navarro-es-el-nuevo-director-de-protocolo-de-cancilleria-4464837",
-        "published_date": "2026-08-22 19:51:07",
         "category": "Diplomacy"
     },
     {
@@ -196,6 +203,13 @@
         "category": "Military"
     },
     {
+        "title": "Mac Master warns that the Budget debate cannot be limited to the amount",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/mac-master-advierte-que-debate-del-presupuesto-no-puede-limitarse-al-monto-4470490",
+        "published_date": "2026-08-30 15:46:51",
+        "category": "Energy"
+    },
+    {
         "title": "They denounce \u00c1vila for alleged inconsistencies in the 2027 Budget",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/denuncian-a-avila-por-presuntas-inconsistencias-en-el-presupuesto-de-2027-4470469",
@@ -329,13 +343,6 @@
         "category": "Energy"
     },
     {
-        "title": "Fracking will begin to develop in Colombia in 2027",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/el-fracking-empezara-a-desarrollarse-en-colombia-en-2027/",
-        "published_date": "2026-08-25 23:05:57",
-        "category": "Energy"
-    },
-    {
         "title": "Expocamacol 2026 will close with business projections exceeding 1.2 billion dollars: more than 60,000 people attended the fair",
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/medellin/expocamacol-2026-cerrara-con-proyecciones-de-negocios-superiores-a-los-1-200-millones-de-dolares-mas-de-60-000-personas-asistieron-a-la-feria-3581996",
@@ -406,6 +413,118 @@
         "category": "Economy"
     },
     {
+        "title": "De la Espriella announced the resumption of negotiations for an FTA with Japan",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/de-la-espriella-anuncio-reanudacion-de-negociaciones-para-un-tlc-con-japon-4470633",
+        "published_date": "2026-08-31 00:54:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "De La Espriella apologized for the religious act in his possession",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/de-la-espriella-se-disculpo-por-el-acto-religioso-en-su-posesion/",
+        "published_date": "2026-08-31 00:45:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "Abelardo's Budget: From bad to worse",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/presupuesto-de-abelardo-de-mal-en-peor/",
+        "published_date": "2026-08-31 00:10:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "Who is Juan Pablo Rojas Su\u00e1rez",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-juan-pablo-rojas-suarez/",
+        "published_date": "2026-08-30 22:00:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "Who is Jaime Ignacio Arizabaleta Fajardo",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-jaime-ignacio-arizabaleta-fajardo/",
+        "published_date": "2026-08-30 21:50:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Who is Santiago Castro G\u00f3mez",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/quien-es-quien/santiago-castro-gomez/",
+        "published_date": "2026-08-30 21:41:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Who is Luis Alfonso Ch\u00e1vez Rivera",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-luis-alfonso-chavez-rivera/",
+        "published_date": "2026-08-30 21:01:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "Who is V\u00edctor Manuel Salcedo Guerrero",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-victor-manuel-salcedo-guerrero/",
+        "published_date": "2026-08-30 20:42:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "The destruction of the city is immense, but so is solidarity",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/la-destruccion-de-la-ciudad-es-inmensa-pero-la-solidaridad-tambien/",
+        "published_date": "2026-08-30 20:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Petro now moves his theory of fraud with the Cerimedo case",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/petro-ahora-mueve-su-teoria-de-fraude-con-el-caso-cerimedo/",
+        "published_date": "2026-08-30 18:49:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Colombian Geological Service reported 58 seismic events in the Purac\u00e9 volcano area",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/servicio-geologico-reporto-58-eventos-sismicos-en-area-del-volcan-purace-4470533",
+        "published_date": "2026-08-30 18:24:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "Story of the cry of two girls whose homes are in ruins;one of them, daughter of the rescue firefighter who changed protocol after the earthquake in Cali",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/historia-de-clamor-de-dos-ninas-cuyos-hogares-estan-en-ruinas-una-de-ellas-hija-del-bombero-rescatista-que-cambio-protocolo-tras-terremoto-en-cali-3582244",
+        "published_date": "2026-08-30 18:04:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "They are the girls who asked President Abelardo De La Espriella for a house in Cali because of the earthquake: 'My heart was bursting with emotion!'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/ellas-son-las-ninas-que-le-pidieron-casa-al-presidente-abelardo-de-la-espriella-en-cali-por-el-terremoto-el-corazon-se-me-salia-de-la-emocion-3582197",
+        "published_date": "2026-08-30 17:28:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "Liam Santiago, a boy with Duchenne dystrophy, asked President Abelardo de la Espriella for help: 'It could change the lives of many children'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/liam-santiago-nino-con-distrofia-de-duchenne-le-pidio-ayuda-al-presidente-abelardo-de-la-espriella-podria-cambiar-la-vida-de-muchos-ninos-3582241",
+        "published_date": "2026-08-30 17:26:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Shock in Medell\u00edn due to the murder of an LGBTIQ+ minor: the mother found him gagged, with scratches and other wounds in a house",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/conmocion-en-medellin-investigan-el-asesinato-de-un-menor-lgbtiq-la-mama-de-la-victima-lo-encontro-amordazado-con-rasgunos-y-otras-heridas-3582233",
+        "published_date": "2026-08-30 16:26:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "They release one of the four kidnapped by the 'Gulf clan' in the rural area of \u200b\u200bAnor\u00ed, Antioquia: he is the president of a Community Action Board",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/liberan-a-uno-de-los-cuatro-secuestrados-en-zona-rural-del-municipio-de-anori-antioquia-es-el-presidente-de-una-junta-de-accion-comunal-3582228",
+        "published_date": "2026-08-30 15:47:43",
+        "category": "Local Events"
+    },
+    {
         "title": "Reconstructing Colombia also requires rebuilding the rules of access to decent housing for Colombians.",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/red-de-expertos/red-de-derecho-constitucional/reconstruir-colombia-exige-reconstruir-tambien-las-reglas-de-acceso-a-una-vivienda-digna-de-los-colombianos/",
@@ -420,129 +539,17 @@
         "category": "Local Events"
     },
     {
+        "title": "They attacked the Urbaser cleaning company in Popay\u00e1n with explosives: they reported damage to trucks that would affect the public collection service",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/atacaron-con-explosivos-la-empresa-de-aseo-urbaser-en-popayan-reportaron-danos-en-camiones-que-afectarian-el-servicio-publico-de-recoleccion-3582219",
+        "published_date": "2026-08-30 13:48:59",
+        "category": "Local Events"
+    },
+    {
         "title": "Colombia and the Caribbean: from the periphery to the strategy",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/red-de-expertos/colombia-y-el-caribe-de-la-periferia-a-la-estrategia/",
         "published_date": "2026-08-30 13:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The energy crisis requires reform of the General Royalties System",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-verde/la-crisis-energetica-exige-reformar-el-sistema-general-de-regalias/",
-        "published_date": "2026-08-30 13:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Where is Michelle Dayana Chavarr\u00eda, a 6-year-old girl with epilepsy who disappeared in Buritic\u00e1, Antioquia?They offer up to $50 million to find her",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/donde-esta-michelle-dayana-chavarria-de-6-anos-desaparecida-en-buritica-antioquia-50-millones-por-encontrarla-en-operativo-con-drones-y-perros-3582186",
-        "published_date": "2026-08-30 10:01:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "Pain and indignation over the murder of a 16-year-old student in a house in the municipality of Florida, Valle: the minor was in ninth grade",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/dolor-e-indignacion-por-el-asesinato-de-un-estudiante-de-16-anos-en-una-casa-del-municipio-de-florida-valle-el-menor-cursaba-noveno-grado-3582192",
-        "published_date": "2026-08-30 09:31:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mother of Lucas, the boy who asked for help due to a serious medical condition, sent an emotional message to President De La Espriella: 'They are opening doors for us'",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/mama-de-lucas-el-nino-que-pidio-ayuda-por-grave-condicion-medica-envio-emotivo-mensaje-al-presidente-de-la-espriella-nos-estan-abriendo-puertas-3582181",
-        "published_date": "2026-08-30 09:10:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "There have been two drone attacks in less than 24 hours in the north of Cauca: the first in Su\u00e1rez and the second in Caloto, near the hospital",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/reportaron-dos-ataques-con-drones-en-menos-de-24-horas-en-el-norte-del-cauca-el-primero-en-suarez-y-el-segundo-en-caloto-cerca-del-hospital-3582179",
-        "published_date": "2026-08-30 09:04:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "The shadow of corruption over Mompox: charges against former mayor and former secretary for unfinished works on the Magdalena River",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/la-sombra-de-la-corrupcion-sobre-mompox-cargos-a-exalcalde-y-exsecretario-por-obras-inconclusas-del-rio-magdalena-3582183",
-        "published_date": "2026-08-30 08:46:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "The pension survived the Court, but a counter-reform is lurking",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/la-pensional-sobrevivio-a-la-corte-pero-la-acecha-una-contrarreforma/",
-        "published_date": "2026-08-30 06:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ministry of Health establishes measures to reinforce hospital preparation for the possible effects of the El Ni\u00f1o phenomenon",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/ministerio-de-salud-establece-medidas-para-reforzar-la-preparacion-hospitalaria-ante-los-posibles-efectos-del-fenomeno-de-el-nino-3582176",
-        "published_date": "2026-08-30 03:25:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Purac\u00e9 Volcano presented an increase in seismic activity in Cauca on Saturday, August 29: Colombian Geological Service reported 58 events",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/volcan-purace-presento-un-incremento-de-actividad-sismica-en-el-cauca-durante-el-sabado-29-de-agosto-servicio-geologico-colombiano-reporto-58-eventos-3582175",
-        "published_date": "2026-08-30 02:08:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "Rains in Choc\u00f3 hit Quibd\u00f3 again: floods affect homes and roads after more than 10 hours of rainfall",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/lluvias-en-choco-vuelven-a-golpear-a-quibdo-inundaciones-afectan-viviendas-y-vias-tras-mas-de-10-horas-de-precipitaciones-3582173",
-        "published_date": "2026-08-30 00:27:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "New earthquake in Colombia |They report an earthquake of magnitude 4.3 in Cauca during the night of this Saturday, August 29: epicenter and depth",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/nuevo-temblor-en-colombia-reportan-sismo-de-magnitud-4-3-en-cauca-durante-la-noche-de-este-sabado-29-de-agosto-epicentro-y-profundidad-3582172",
-        "published_date": "2026-08-30 00:14:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "The concepts of JP Morgan and Goldman Sachs on the Budget and the deficit",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/estos-son-los-conceptos-de-jp-morgan-y-goldman-sachs-sobre-el-presupuesto-y-el-deficit-fiscal-4470413",
-        "published_date": "2026-08-29 23:22:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "The photo: second council of ministers continues in Barranquilla",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/la-foto-continua-segundo-consejo-de-ministros-en-barranquilla/",
-        "published_date": "2026-08-29 23:17:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Ungrd is monitoring 19 active fires in six departments",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/la-ungrd-esta-monitoreando-a-19-incendios-activos-en-seis-departamentos-4470411",
-        "published_date": "2026-08-29 22:42:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Political interior decoration: Botero paints Abelardo de la Espriella",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/opinion/decoracion-politica-de-interiores-botero-pinta-a-abelardo-de-la-espriella/",
-        "published_date": "2026-08-29 22:37:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "Shadows, nothing more",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/opinion/sombras-nada-mas/",
-        "published_date": "2026-08-29 22:11:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "Abelardo dismantles three spaces for dialogue of total peace",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/abelardo-desmonta-tres-mesas-de-dialogo-de-la-paz-total/",
-        "published_date": "2026-08-29 21:09:11",
         "category": "Local Events"
     }
 ]
