@@ -63,6 +63,13 @@
         "category": "Diplomacy"
     },
     {
+        "title": "'I handed over names, companies and addresses of alleged front men of the Quintero clan in Medell\u00edn': Federico Guti\u00e9rrez after meeting with the FBI",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/federico-gutierrez-alcalde-de-medellin-entrego-pruebas-de-presunta-corrupcion-en-la-administracion-de-daniel-quintero-al-fbi-senala-testaferratos-3582410",
+        "published_date": "2026-08-31 12:34:18",
+        "category": "Military"
+    },
+    {
         "title": "Abelardo's terrorist statute, security or political strategy?",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/opinion/estatuto-anterrorista-de-abelardo-estrategia-de-seguridad-o-politica/",
@@ -196,11 +203,18 @@
         "category": "Military"
     },
     {
-        "title": "De la Espriella heads extraordinary security council in Barranquilla",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/de-la-espriella-encabeza-consejo-de-seguridad-extraordinario-en-barranquilla/",
-        "published_date": "2026-08-23 20:00:04",
-        "category": "Military"
+        "title": "Pepper spray and tickling, the new modality that would be used to rob concerts in Bucaramanga: it happened at a Ryan Castro event",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/gas-pimienta-y-cosquilleo-la-nueva-modalidad-que-se-estaria-utilizando-para-robar-en-conciertos-de-bucaramanga-sucedio-en-un-evento-de-ryan-castro-3582389",
+        "published_date": "2026-08-31 11:18:04",
+        "category": "Energy"
+    },
+    {
+        "title": "Congress of the Republic will receive a Tax Law for $40 billion in September",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/congreso-de-la-republica-recibira-una-ley-fiscal-por-40-billones-en-septiembre-4470302",
+        "published_date": "2026-08-31 05:00:32",
+        "category": "Energy"
     },
     {
         "title": "Mac Master warns that the Budget debate cannot be limited to the amount",
@@ -329,18 +343,18 @@
         "category": "Energy"
     },
     {
-        "title": "State company could not guarantee that the gold it exported was legal",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/empresa-estatal-no-pudo-garantizar-que-el-oro-que-exporto-fuera-legal/",
-        "published_date": "2026-08-26 23:57:18",
-        "category": "Energy"
+        "title": "The Minister of Finance, Miguel G\u00f3mez Mart\u00ednez, made his debut on the Board of Directors of the Issuer",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/miguel-gomez-se-estreno-en-la-junta-directiva-del-banco-de-la-republica-4470949",
+        "published_date": "2026-08-31 14:32:25",
+        "category": "Economy"
     },
     {
-        "title": "The ANH enabled specialized equipment to unblock awarded gas projects",
+        "title": "The fundamentals in the macroeconomy with which the \u201cbre\u201d months will begin",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/la-anh-habilito-equipo-especializado-para-destrabar-proyectos-de-gas-adjudicados-4467387",
-        "published_date": "2026-08-26 16:36:04",
-        "category": "Energy"
+        "url": "https://www.larepublica.co/economia/los-fundamentales-macroeconomicos-con-los-que-empiezan-los-meses-bre-4469643",
+        "published_date": "2026-08-31 05:03:22",
+        "category": "Economy"
     },
     {
         "title": "Expocamacol 2026 will close with business projections exceeding 1.2 billion dollars: more than 60,000 people attended the fair",
@@ -413,143 +427,143 @@
         "category": "Economy"
     },
     {
-        "title": "De la Espriella announced the resumption of negotiations for an FTA with Japan",
+        "title": "Who is Yamit Noe Hurtado Neira",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-yamit-noe-hurtado-neira/",
+        "published_date": "2026-08-31 17:47:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Who is Ingrid Marlen Sogamoso Alfonso",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-ingrid-marlen-sogamoso-alfonso/",
+        "published_date": "2026-08-31 17:36:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ungrd: six forest fires are still active in the country",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/ungrd-seis-incendios-forestales-siguen-activos-en-el-pais/",
+        "published_date": "2026-08-31 17:27:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "Who is H\u00e9ctor David Chaparro Chaparro",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-hector-david-chaparro-chaparro/",
+        "published_date": "2026-08-31 17:18:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "They impersonate the La Silla Investigative Unit to request information",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/suplantan-a-unidad-investigativa-de-la-silla-para-pedir-informacion/",
+        "published_date": "2026-08-31 17:02:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "Who is Jes\u00fas Salim Lorduy Mart\u00ednez",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-jesus-salim-lorduy-martinez/",
+        "published_date": "2026-08-31 17:00:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "Bogot\u00e1 Metro reaches 81.2% completion with new bridge over Calle 26 and Av. Caracas",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/de-la-espriella-anuncio-reanudacion-de-negociaciones-para-un-tlc-con-japon-4470633",
-        "published_date": "2026-08-31 00:54:59",
+        "url": "https://www.larepublica.co/economia/metro-de-bogota-alcanza-81-2-de-ejecucion-con-nuevo-puente-sobre-calle-26-4471011",
+        "published_date": "2026-08-31 16:55:41",
         "category": "Local Events"
     },
     {
-        "title": "De La Espriella apologized for the religious act in his possession",
+        "title": "Who is Luz Marina Gordillo Salinas",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/de-la-espriella-se-disculpo-por-el-acto-religioso-en-su-posesion/",
-        "published_date": "2026-08-31 00:45:35",
+        "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-luz-marina-gordillo-salinas/",
+        "published_date": "2026-08-31 16:49:20",
         "category": "Local Events"
     },
     {
-        "title": "Abelardo's Budget: From bad to worse",
+        "title": "Who is Bleidy del Carmen P\u00e9rez Ballestas",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/presupuesto-de-abelardo-de-mal-en-peor/",
-        "published_date": "2026-08-31 00:10:16",
+        "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-bleidy-del-carmen-perez-ballestas/",
+        "published_date": "2026-08-31 16:43:12",
         "category": "Local Events"
     },
     {
-        "title": "Who is Juan Pablo Rojas Su\u00e1rez",
+        "title": "July unemployment continued to decline and reached 8.1%",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-juan-pablo-rojas-suarez/",
-        "published_date": "2026-08-30 22:00:16",
+        "url": "https://www.lasillavacia.com/en-vivo/desempleo-de-julio-siguio-bajando-y-llego-a-81/",
+        "published_date": "2026-08-31 16:19:38",
         "category": "Local Events"
     },
     {
-        "title": "Who is Jaime Ignacio Arizabaleta Fajardo",
+        "title": "Who is C\u00e9sar Antonio Barrera Vergara",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-jaime-ignacio-arizabaleta-fajardo/",
-        "published_date": "2026-08-30 21:50:44",
+        "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-cesar-antonio-barrera-vergara/",
+        "published_date": "2026-08-31 16:14:20",
         "category": "Local Events"
     },
     {
-        "title": "Who is Santiago Castro G\u00f3mez",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/quien-es-quien/santiago-castro-gomez/",
-        "published_date": "2026-08-30 21:41:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Who is Luis Alfonso Ch\u00e1vez Rivera",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-luis-alfonso-chavez-rivera/",
-        "published_date": "2026-08-30 21:01:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Who is V\u00edctor Manuel Salcedo Guerrero",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-victor-manuel-salcedo-guerrero/",
-        "published_date": "2026-08-30 20:42:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "The destruction of the city is immense, but so is solidarity",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/la-destruccion-de-la-ciudad-es-inmensa-pero-la-solidaridad-tambien/",
-        "published_date": "2026-08-30 20:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Petro now moves his theory of fraud with the Cerimedo case",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/petro-ahora-mueve-su-teoria-de-fraude-con-el-caso-cerimedo/",
-        "published_date": "2026-08-30 18:49:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Colombian Geological Service reported 58 seismic events in the Purac\u00e9 volcano area",
+        "title": "Unemployed population decreased by 160,000 people in one year and reached 2.16 million",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/servicio-geologico-reporto-58-eventos-sismicos-en-area-del-volcan-purace-4470533",
-        "published_date": "2026-08-30 18:24:05",
+        "url": "https://www.larepublica.co/economia/poblacion-desocupada-se-redujo-en-160-000-personas-y-llego-a-2-16-millones-4471035",
+        "published_date": "2026-08-31 15:50:18",
         "category": "Local Events"
     },
     {
-        "title": "Story of the cry of two girls whose homes are in ruins;one of them, daughter of the rescue firefighter who changed protocol after the earthquake in Cali",
+        "title": "The profits of the Bank of the Republic as of July fell by 39%",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/las-utilidades-del-banco-de-la-republica-con-corte-a-julio-cayeron-en-39-4470887",
+        "published_date": "2026-08-31 14:14:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Those affected by the earthquake may suspend services for up to six months without paying for reconnection",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/afectados-por-sismo-podran-suspender-servicios-hasta-seis-meses-sin-pagar-reconexion-4470788",
+        "published_date": "2026-08-31 12:59:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "Lucas Murillo, the boy who asked the President for a heart transplant, is transferred to Bucaramanga for key medical evaluation: 'Pray for us'",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/historia-de-clamor-de-dos-ninas-cuyos-hogares-estan-en-ruinas-una-de-ellas-hija-del-bombero-rescatista-que-cambio-protocolo-tras-terremoto-en-cali-3582244",
-        "published_date": "2026-08-30 18:04:22",
+        "url": "https://www.eltiempo.com/colombia/santander/lucas-murillo-el-nino-que-pidio-un-trasplante-de-corazon-al-presidente-es-trasladado-a-bucaramanga-para-valoracion-medica-clave-oren-por-nosotros-3582424",
+        "published_date": "2026-08-31 12:32:45",
         "category": "Local Events"
     },
     {
-        "title": "They are the girls who asked President Abelardo De La Espriella for a house in Cali because of the earthquake: 'My heart was bursting with emotion!'",
+        "title": "The fatal coincidences between the murder of the notary H\u00e9ctor Bastidas Ibarra and the massacre of eight young people in Samaniego, Nari\u00f1o, six years ago",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/ellas-son-las-ninas-que-le-pidieron-casa-al-presidente-abelardo-de-la-espriella-en-cali-por-el-terremoto-el-corazon-se-me-salia-de-la-emocion-3582197",
-        "published_date": "2026-08-30 17:28:32",
+        "url": "https://www.eltiempo.com/colombia/cali/las-fatales-coincidencias-entre-el-asesinato-del-notario-hector-bastidas-ibarra-y-la-masacre-de-ocho-jovenes-en-samaniego-narino-hace-seis-anos-3582333",
+        "published_date": "2026-08-31 12:20:44",
         "category": "Local Events"
     },
     {
-        "title": "Liam Santiago, a boy with Duchenne dystrophy, asked President Abelardo de la Espriella for help: 'It could change the lives of many children'",
+        "title": "Barranquilla: this will be the 360\u00b0 screen of the Metropolitano: assembly has begun and there will be another giant 36 meter screen on Murillo Street",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/liam-santiago-nino-con-distrofia-de-duchenne-le-pidio-ayuda-al-presidente-abelardo-de-la-espriella-podria-cambiar-la-vida-de-muchos-ninos-3582241",
-        "published_date": "2026-08-30 17:26:43",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-asi-sera-la-pantalla-360-del-metropolitano-comenzo-el-montaje-y-habra-otra-gigante-de-36-metros-sobre-la-calle-murillo-3582376",
+        "published_date": "2026-08-31 12:01:00",
         "category": "Local Events"
     },
     {
-        "title": "Shock in Medell\u00edn due to the murder of an LGBTIQ+ minor: the mother found him gagged, with scratches and other wounds in a house",
+        "title": "Payment of interest alone would take $94.42 billion from next year's budget",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/pago-de-intereses-se-lleva-94-42-billones-del-presupuesto-del-proximo-ano-4470775",
+        "published_date": "2026-08-31 11:54:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "EPM debunks myths about water cuts in Medell\u00edn: it is not due to stratum or consumption",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/conmocion-en-medellin-investigan-el-asesinato-de-un-menor-lgbtiq-la-mama-de-la-victima-lo-encontro-amordazado-con-rasgunos-y-otras-heridas-3582233",
-        "published_date": "2026-08-30 16:26:09",
+        "url": "https://www.eltiempo.com/colombia/medellin/epm-desmiente-mitos-sobre-los-cortes-de-agua-en-medellin-no-es-por-estrato-ni-por-consumo-3582405",
+        "published_date": "2026-08-31 11:49:19",
         "category": "Local Events"
     },
     {
-        "title": "They release one of the four kidnapped by the 'Gulf clan' in the rural area of \u200b\u200bAnor\u00ed, Antioquia: he is the president of a Community Action Board",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/liberan-a-uno-de-los-cuatro-secuestrados-en-zona-rural-del-municipio-de-anori-antioquia-es-el-presidente-de-una-junta-de-accion-comunal-3582228",
-        "published_date": "2026-08-30 15:47:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Reconstructing Colombia also requires rebuilding the rules of access to decent housing for Colombians.",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-derecho-constitucional/reconstruir-colombia-exige-reconstruir-tambien-las-reglas-de-acceso-a-una-vivienda-digna-de-los-colombianos/",
-        "published_date": "2026-08-30 14:10:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "'Behind there are mafias from Barranquilla': De La Espriella proposes to reform the traffic code",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/detras-hay-mafias-de-barranquilla-de-la-espriella-sobre-reformar-codigo-de-transito/",
-        "published_date": "2026-08-30 14:05:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "They attacked the Urbaser cleaning company in Popay\u00e1n with explosives: they reported damage to trucks that would affect the public collection service",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/atacaron-con-explosivos-la-empresa-de-aseo-urbaser-en-popayan-reportaron-danos-en-camiones-que-afectarian-el-servicio-publico-de-recoleccion-3582219",
-        "published_date": "2026-08-30 13:48:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "Colombia and the Caribbean: from the periphery to the strategy",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/colombia-y-el-caribe-de-la-periferia-a-la-estrategia/",
-        "published_date": "2026-08-30 13:00:00",
+        "title": "More than 28,000 hectares of crops have been affected by fires in Tolima",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/mas-de-28-000-hectareas-agropecuarias-han-sido-afectadas-por-incendios-en-tolima-4470777",
+        "published_date": "2026-08-31 11:36:46",
         "category": "Local Events"
     }
 ]
