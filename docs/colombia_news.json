@@ -1,5 +1,12 @@
 [
     {
+        "title": "Detector: Petro did not assume the presidency of the United Nations",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/detector-petro-no-asumio-la-presidencia-de-las-naciones-unidas/",
+        "published_date": "2026-09-01 00:29:09",
+        "category": "Diplomacy"
+    },
+    {
         "title": "The photo: Nicol\u00e1s Maduro from prison",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/la-foto-nicolas-maduro-desde-la-prision/",
@@ -61,6 +68,13 @@
         "url": "https://www.larepublica.co/economia/presidencia-se-pronuncio-sobre-curriculum-y-declaracion-de-renta-de-de-la-espriella-4466896",
         "published_date": "2026-08-26 02:11:58",
         "category": "Diplomacy"
+    },
+    {
+        "title": "Detector: this uniformed man who thanks Petro is not from the Army",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/detector-este-hombre-uniformado-que-agradece-a-petro-no-es-del-ejercito/",
+        "published_date": "2026-09-01 00:07:03",
+        "category": "Military"
     },
     {
         "title": "'I handed over names, companies and addresses of alleged front men of the Quintero clan in Medell\u00edn': Federico Guti\u00e9rrez after meeting with the FBI",
@@ -196,11 +210,32 @@
         "category": "Military"
     },
     {
-        "title": "Married to Trump: the security bet without proven results",
+        "title": "Abelardo increased operating expenses and decreased investment in Environment",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/casado-con-trump-la-apuesta-de-seguridad-sin-resultados-probados/",
-        "published_date": "2026-08-24 06:00:00",
-        "category": "Military"
+        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/abelardo-aumento-gastos-de-funcionamiento-y-disminuyo-inversion-en-ambiente/",
+        "published_date": "2026-09-01 00:45:41",
+        "category": "Energy"
+    },
+    {
+        "title": "Guilds expect one million barrels per day by 2038 with exploratory policy",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/gremios-esperan-un-millon-de-barriles-diarios-a-2038-con-politica-exploratoria-4471469",
+        "published_date": "2026-09-01 00:21:24",
+        "category": "Energy"
+    },
+    {
+        "title": "Starting tomorrow, the government activates an energy saving program due to El Ni\u00f1o",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/desde-manana-gobierno-activa-programa-de-ahorro-de-energia-por-el-nino/",
+        "published_date": "2026-08-31 23:57:21",
+        "category": "Energy"
+    },
+    {
+        "title": "Ecopetrol reported changes in two positions of its senior management after extraordinary session",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/ecopetrol-informo-cambios-en-dos-posiciones-de-su-alta-gerencia-tras-sesion-extraordinaria-4471266",
+        "published_date": "2026-08-31 22:23:25",
+        "category": "Energy"
     },
     {
         "title": "Pepper spray and tickling, the new modality that would be used to rob concerts in Bucaramanga: it happened at a Ryan Castro event",
@@ -315,32 +350,11 @@
         "category": "Energy"
     },
     {
-        "title": "Ready the Budget coordinators in the Third Committee of the Senate",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/listos-los-coordinadores-del-presupuesto-en-la-comision-tercera/",
-        "published_date": "2026-08-28 00:33:04",
-        "category": "Energy"
-    },
-    {
-        "title": "MinHacienda seeks to reduce spending by $40 billion through 'Fiscal Law'",
+        "title": "Anif warns that financing needs double and reach $266 billion",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/minhacienda-busca-reducir-en-40-billones-el-gasto-por-medio-de-ley-fiscal-4468329",
-        "published_date": "2026-08-28 00:23:10",
-        "category": "Energy"
-    },
-    {
-        "title": "Ecopetrol Board of Directors authorized five changes in senior management since September",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/junta-directiva-de-ecopetrol-autorizo-cinco-cambios-en-la-alta-gerencia-desde-septiembre-4468837",
-        "published_date": "2026-08-27 23:49:34",
-        "category": "Energy"
-    },
-    {
-        "title": "Gasnova rejected the Vanti group's statements on the LPG sector",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/gasnova-rechazo-las-declaraciones-del-grupo-vanti-sobre-el-sector-del-glp-4468261",
-        "published_date": "2026-08-27 16:14:16",
-        "category": "Energy"
+        "url": "https://www.larepublica.co/economia/anif-alerta-que-necesidades-de-financiamiento-se-duplican-y-llegan-a-266-billones-4471108",
+        "published_date": "2026-08-31 18:06:29",
+        "category": "Economy"
     },
     {
         "title": "The Minister of Finance, Miguel G\u00f3mez Mart\u00ednez, made his debut on the Board of Directors of the Issuer",
@@ -427,6 +441,118 @@
         "category": "Economy"
     },
     {
+        "title": "Who is Elizabeth Jay-Pang D\u00edaz",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-elizabeth-jay-pang-diaz/",
+        "published_date": "2026-09-01 01:24:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "Who is John Edgar P\u00e9rez Rojas",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-john-edgar-perez-rojas/",
+        "published_date": "2026-09-01 01:10:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "Who is Franklin del Cristo Lozano De la Ossa",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-franklin-del-cristo-lozano-de-la-ossa/",
+        "published_date": "2026-09-01 01:07:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "Asointermedias proposes Works for Taxes and SAE assets for reconstruction",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/asointermedias-plantea-obras-por-impuestos-y-activos-de-sae-para-reconstruccion-4471487",
+        "published_date": "2026-09-01 00:55:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "This video shows scientists in Mexico, not fracking exploration in Colombia",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/este-video-muestra-cientificos-en-mexico-no-exploracion-de-fracking-en-colombia/",
+        "published_date": "2026-09-01 00:55:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "Detector: this video of prisoners with cell phones is from Brazil, not Colombia",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/detector-este-video-de-presos-con-celulares-es-de-brasil-no-de-colombia/",
+        "published_date": "2026-09-01 00:44:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "Sleep informed with the keys for this August 31, 2026",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-claves-de-este-31-de-agosto-de-2026/",
+        "published_date": "2026-09-01 00:15:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "Andi called to strengthen the generation of formal employment, after the impact of the earthquake",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/la-andi-llamo-a-fortalecer-la-generacion-de-empleo-formal-tras-impacto-del-terremoto-4471304",
+        "published_date": "2026-08-31 22:09:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "Why is the influencer Kevin Thobias still in his luxurious mansion in Las Palmas, in Medell\u00edn, after a domain forfeiture measure was imposed on him?",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/por-que-el-influencer-kevin-thobias-sigue-en-su-lujosa-mansion-de-las-palmas-en-medellin-luego-de-que-le-impusieran-medida-de-extincion-de-dominio-3582544",
+        "published_date": "2026-08-31 20:07:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "New UIS Physicomechanical Engineering building will have the first space laboratory in a Colombian university",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/nuevo-edificio-de-ingenierias-fisicomecanicas-de-la-uis-tendra-el-primer-laboratorio-espacial-en-una-universidad-colombiana-3582545",
+        "published_date": "2026-08-31 19:39:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "Video: the conclusions of the technical table between Camacol and engineers on the impact of buildings in Cali, according to types of earthquakes and the standard",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/cuales-son-las-conclusiones-de-mesa-tecnica-entre-camacol-e-ingenieros-sobre-afectacion-de-edificaciones-en-cali-segun-tipos-de-sismos-y-la-norma-3582529",
+        "published_date": "2026-08-31 19:18:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "Atlantic |Sadness in Soledad due to the violent crime of a young soccer player who had gone through the Millonarios youth academy: 'They took your dream away here'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/atlantico-tristeza-en-soledad-por-violento-crimen-de-joven-futbolista-que-habia-pasado-por-la-cantera-de-millonarios-aqui-te-arrebataron-el-sueno-3582539",
+        "published_date": "2026-08-31 19:04:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "Former Minister \u00c1vila criticized the level of debt of De la Espriella's PGN",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/exministro-avila-critico-nivel-de-endeudamiento-del-pgn-de-de-la-espriella-4471176",
+        "published_date": "2026-08-31 18:45:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "After a week of searching, Michelle Dayana Henao, six years old, was found dead in a rural area of \u200b\u200bBuritic\u00e1, Antioquia",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/tras-una-semana-de-busqueda-michelle-dayana-henao-de-10-anos-fue-encontrada-sin-vida-en-zona-rural-de-buritica-antioquia-3582526",
+        "published_date": "2026-08-31 18:45:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tolima under the flames: more than 50,000 hectares in ashes",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/tolima-bajo-las-llamas-mas-de-50-000-hectareas-en-cenizas-3582537",
+        "published_date": "2026-08-31 18:36:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "Air-e responds to concerns about $1 billion financing: 'It is not a blank check or an immediate disbursement'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/air-e-responde-a-reparos-por-financiacion-de-1-billon-no-es-un-cheque-en-blanco-ni-un-desembolso-inmediato-3582509",
+        "published_date": "2026-08-31 18:24:00",
+        "category": "Local Events"
+    },
+    {
         "title": "Who is Yamit Noe Hurtado Neira",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-yamit-noe-hurtado-neira/",
@@ -441,129 +567,17 @@
         "category": "Local Events"
     },
     {
+        "title": "The religious heritage of the Valley enters a critical phase after the earthquake: demolitions of 17 church domes will be carried out due to the risk of collapse",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/el-patrimonio-religioso-del-valle-entra-en-fase-critica-tras-el-terremoto-asi-se-haran-demoliciones-de-17-cupulas-de-iglesias-por-riesgo-de-colapso-3582502",
+        "published_date": "2026-08-31 17:34:58",
+        "category": "Local Events"
+    },
+    {
         "title": "Ungrd: six forest fires are still active in the country",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/ungrd-seis-incendios-forestales-siguen-activos-en-el-pais/",
         "published_date": "2026-08-31 17:27:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "Who is H\u00e9ctor David Chaparro Chaparro",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-hector-david-chaparro-chaparro/",
-        "published_date": "2026-08-31 17:18:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "They impersonate the La Silla Investigative Unit to request information",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/suplantan-a-unidad-investigativa-de-la-silla-para-pedir-informacion/",
-        "published_date": "2026-08-31 17:02:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Who is Jes\u00fas Salim Lorduy Mart\u00ednez",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-jesus-salim-lorduy-martinez/",
-        "published_date": "2026-08-31 17:00:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Bogot\u00e1 Metro reaches 81.2% completion with new bridge over Calle 26 and Av. Caracas",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/metro-de-bogota-alcanza-81-2-de-ejecucion-con-nuevo-puente-sobre-calle-26-4471011",
-        "published_date": "2026-08-31 16:55:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "Who is Luz Marina Gordillo Salinas",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-luz-marina-gordillo-salinas/",
-        "published_date": "2026-08-31 16:49:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "Who is Bleidy del Carmen P\u00e9rez Ballestas",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-bleidy-del-carmen-perez-ballestas/",
-        "published_date": "2026-08-31 16:43:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "July unemployment continued to decline and reached 8.1%",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/desempleo-de-julio-siguio-bajando-y-llego-a-81/",
-        "published_date": "2026-08-31 16:19:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "Who is C\u00e9sar Antonio Barrera Vergara",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-cesar-antonio-barrera-vergara/",
-        "published_date": "2026-08-31 16:14:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "Unemployed population decreased by 160,000 people in one year and reached 2.16 million",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/poblacion-desocupada-se-redujo-en-160-000-personas-y-llego-a-2-16-millones-4471035",
-        "published_date": "2026-08-31 15:50:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "The profits of the Bank of the Republic as of July fell by 39%",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/las-utilidades-del-banco-de-la-republica-con-corte-a-julio-cayeron-en-39-4470887",
-        "published_date": "2026-08-31 14:14:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Those affected by the earthquake may suspend services for up to six months without paying for reconnection",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/afectados-por-sismo-podran-suspender-servicios-hasta-seis-meses-sin-pagar-reconexion-4470788",
-        "published_date": "2026-08-31 12:59:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "Lucas Murillo, the boy who asked the President for a heart transplant, is transferred to Bucaramanga for key medical evaluation: 'Pray for us'",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/lucas-murillo-el-nino-que-pidio-un-trasplante-de-corazon-al-presidente-es-trasladado-a-bucaramanga-para-valoracion-medica-clave-oren-por-nosotros-3582424",
-        "published_date": "2026-08-31 12:32:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "The fatal coincidences between the murder of the notary H\u00e9ctor Bastidas Ibarra and the massacre of eight young people in Samaniego, Nari\u00f1o, six years ago",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/las-fatales-coincidencias-entre-el-asesinato-del-notario-hector-bastidas-ibarra-y-la-masacre-de-ocho-jovenes-en-samaniego-narino-hace-seis-anos-3582333",
-        "published_date": "2026-08-31 12:20:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Barranquilla: this will be the 360\u00b0 screen of the Metropolitano: assembly has begun and there will be another giant 36 meter screen on Murillo Street",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-asi-sera-la-pantalla-360-del-metropolitano-comenzo-el-montaje-y-habra-otra-gigante-de-36-metros-sobre-la-calle-murillo-3582376",
-        "published_date": "2026-08-31 12:01:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Payment of interest alone would take $94.42 billion from next year's budget",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/pago-de-intereses-se-lleva-94-42-billones-del-presupuesto-del-proximo-ano-4470775",
-        "published_date": "2026-08-31 11:54:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "EPM debunks myths about water cuts in Medell\u00edn: it is not due to stratum or consumption",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/epm-desmiente-mitos-sobre-los-cortes-de-agua-en-medellin-no-es-por-estrato-ni-por-consumo-3582405",
-        "published_date": "2026-08-31 11:49:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "More than 28,000 hectares of crops have been affected by fires in Tolima",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/mas-de-28-000-hectareas-agropecuarias-han-sido-afectadas-por-incendios-en-tolima-4470777",
-        "published_date": "2026-08-31 11:36:46",
         "category": "Local Events"
     }
 ]
