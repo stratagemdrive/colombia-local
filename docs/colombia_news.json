@@ -77,6 +77,20 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Court orders the UNP to apologize to Miguel Uribe's family",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/corte-ordena-a-la-unp-pedir-disculpas-a-la-familia-de-miguel-uribe/",
+        "published_date": "2026-09-02 21:33:08",
+        "category": "Military"
+    },
+    {
+        "title": "Mayor of C\u00facuta apologized to Abelardo De La Espriella for not being on the security council after car bomb: he gave the reasons for the attack",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/alcalde-de-cucuta-se-disculpo-con-abelardo-de-la-espriella-por-no-estar-en-el-consejo-de-seguridad-tras-carro-bomba-dio-las-razones-del-atentado-3583115",
+        "published_date": "2026-09-02 18:37:58",
+        "category": "Military"
+    },
+    {
         "title": "Army thwarted car bomb attack in C\u00facuta",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/ejercito-frustro-atentado-con-carro-bomba-en-cucuta/",
@@ -200,20 +214,6 @@
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-un-motociclista-intento-evadir-un-puesto-de-control-y-termino-chocandose-en-plena-huida-la-policia-lo-capturo-y-tenia-un-revolver-3581933",
         "published_date": "2026-08-28 15:01:00",
-        "category": "Military"
-    },
-    {
-        "title": "The first version that a CTI agent gave to the Police after the strange death of her magistrate husband in Barranquilla: was there a third person?",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/la-primera-version-que-dio-a-la-policia-agente-del-cti-tras-extrana-muerte-de-su-esposo-magistrado-en-barranquilla-hubo-tercera-persona-3581865",
-        "published_date": "2026-08-28 12:56:38",
-        "category": "Military"
-    },
-    {
-        "title": "Colombian-French citizen, member of the French Army, would be kidnapped in Nari\u00f1o: authorities investigate",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/autoridades-investigan-posible-secuestro-en-narino-de-jose-olger-melo-charry-ciudadano-colombiano-perteneciente-a-las-fuerzas-armadas-de-francia-3581664",
-        "published_date": "2026-08-27 22:21:32",
         "category": "Military"
     },
     {
@@ -357,6 +357,13 @@
         "category": "Energy"
     },
     {
+        "title": "Commissions suspend second day of PGN debate due to non-attendance of ministers",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/comisiones-suspenden-segundo-dia-de-debate-del-pgn-por-inasistencia-de-ministros-4472975",
+        "published_date": "2026-09-02 17:43:45",
+        "category": "Economy"
+    },
+    {
         "title": "Ministry of Finance will open a quota of internal and external debt to finance $35 billion",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/ministerio-de-hacienda-abrira-cupo-de-deuda-interna-y-externa-para-financiar-35-billones-4472321",
@@ -462,143 +469,143 @@
         "category": "Economy"
     },
     {
-        "title": "AmCham Colombia warned that fiscal adjustment will not be enough without investment",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/amcham-colombia-advirtio-que-el-ajuste-fiscal-no-sera-suficiente-sin-inversion-4472820",
-        "published_date": "2026-09-02 14:41:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Latin right meets in Chile tomorrow for the Madrid Forum",
+        "title": "Sleep informed with the keys to this September 2, 2026",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/la-derecha-latina-se-reune-en-chile-manana-para-el-foro-de-madrid/",
-        "published_date": "2026-09-02 14:28:11",
+        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-claves-de-este-2-de-septiembre-de-2026/",
+        "published_date": "2026-09-03 00:44:46",
         "category": "Local Events"
     },
     {
-        "title": "Inravisi\u00f3n retracts its link to La Silla with \u201cOperation Jupiter\u201d",
+        "title": "Viviane Morales leaves MinEducaci\u00f3n.She is replaced by Ilva Miryam Hoyos",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/inravision-se-retracta-de-vincular-a-la-silla-con-la-operacion-jupiter/",
-        "published_date": "2026-09-02 13:48:40",
+        "url": "https://www.lasillavacia.com/en-vivo/viviane-morales-sale-de-mineducacion-la-reemplaza-ilva-miryam-hoyos/",
+        "published_date": "2026-09-03 00:14:08",
         "category": "Local Events"
     },
     {
-        "title": "Ungrd activated economic support of up to $1.05 million for those affected by the earthquake",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/ungrd-activo-apoyo-economico-de-hasta-1-05-millones-a-afectados-por-sismo-4472750",
-        "published_date": "2026-09-02 13:26:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "MinAgricultura prepares financial measures to strengthen national poultry farming",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/minagricultura-alista-medidas-financieras-para-fortalecer-la-avicultura-nacional-4472667",
-        "published_date": "2026-09-02 13:02:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tender for the second line of the Bogot\u00e1 Metro will end on September 7",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/licitacion-de-la-segunda-linea-del-metro-de-bogota-terminara-el-7-de-septiembre-4472621",
-        "published_date": "2026-09-02 12:27:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "For a national science library in Colombia",
+        "title": "Conservative bench proposes up to 100 years for crimes against minors",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-ciencia-e-innovacion/por-una-biblioteca-nacional-de-la-ciencia-en-colombia/",
-        "published_date": "2026-09-02 12:00:00",
+        "url": "https://www.lasillavacia.com/en-vivo/bancada-conservadora-propone-hasta-100-anos-por-delitos-contra-menores/",
+        "published_date": "2026-09-02 23:40:36",
         "category": "Local Events"
     },
     {
-        "title": "The new beginning for the first victims of the earthquake in Cali and the strategic reconstruction plan, according to Minvivienda: 'It is a blessing'",
+        "title": "Democratic Center files project to regulate prior consultation",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/centro-democratico-radica-proyecto-para-reglamentar-la-consulta-previa/",
+        "published_date": "2026-09-02 23:39:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cI imagine he is a strong guy\u201d: Trump talks about Abelardo again",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/me-imagino-que-es-un-tipo-fuerte-trump-vuelve-a-hablar-de-abelardo/",
+        "published_date": "2026-09-02 22:27:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "Kiko G\u00f3mez would be behind the attack on the Attorney General's Office, warns magistrate",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/kiko-gomez-estaria-detras-de-ataque-a-procuraduria-advierte-magistrado/",
+        "published_date": "2026-09-02 22:21:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cThere are sectors of Uribism determined to attack the president\u201d: Sim\u00f3n Molina",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/hay-sectores-del-uribismo-empenados-en-atacar-al-presidente-simon-molina/",
+        "published_date": "2026-09-02 20:55:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "The fallacies in \u201cThe Book of Truth\u201d about agrarian reform and deforestation",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-verde/las-falacias-en-el-libro-de-la-verdad-sobre-reforma-agraria-y-deforestacion/",
+        "published_date": "2026-09-02 20:34:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "The photo: Abelardo visits the works of the Bogot\u00e1 Metro",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/la-foto-abelardo-visita-las-obras-del-metro-de-bogota/",
+        "published_date": "2026-09-02 20:15:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "German content creator reported that a bar in Cartagena denied entry to his girlfriend, whom they identified as a sex worker",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/el-nuevo-comienzo-para-primeros-damnificados-del-terremoto-en-cali-y-el-plan-estrategico-de-reconstruccion-segun-minvivienda-es-una-bendicion-3582890",
-        "published_date": "2026-09-02 09:23:32",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/creador-de-contenido-aleman-denuncio-que-un-bar-de-cartagena-nego-el-ingreso-a-su-novia-a-quien-senalaron-como-trabajadora-sexual-3583009",
+        "published_date": "2026-09-02 19:47:07",
         "category": "Local Events"
     },
     {
-        "title": "Attention Cartagena: emergencies at the San Fernando Health Management Clinic are temporarily closed due to remodeling",
+        "title": "Shooting in the north of Barranquilla left a bodyguard dead, the alleged hitman captured and two people injured: motive points to land disputes",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/atencion-cartagena-cierran-temporalmente-urgencias-en-la-clinica-gestion-salud-de-san-fernando-por-remodelacion-3582908",
-        "published_date": "2026-09-02 08:40:51",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/balacera-en-el-norte-de-barranquilla-dejo-un-escolta-muerto-al-presunto-sicario-capturado-y-dos-personas-heridas-movil-apunta-a-disputas-por-tierras-3583143",
+        "published_date": "2026-09-02 19:40:00",
         "category": "Local Events"
     },
     {
-        "title": "Totor\u00f3 under surveillance due to a seismic swarm near the Purac\u00e9 volcano: the orange alert continues after a month of activity",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/totoro-bajo-vigilancia-por-enjambre-sismico-cerca-del-volcan-purace-continua-la-alerta-naranja-tras-un-mes-de-actividad-3582881",
-        "published_date": "2026-09-02 07:26:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "Why will there be no water rationing in Cali, despite El Ni\u00f1o?This was reported to the Mayor's Office and the city's public services company.",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/por-que-no-habra-racionamiento-de-agua-en-cali-pese-a-el-nino-esto-informaron-en-la-alcaldia-y-en-la-empresa-de-servicios-publicos-de-la-ciudad-3582879",
-        "published_date": "2026-09-02 07:20:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "UNGRD announces support of up to $3.1 million for families affected by the August 10 earthquake: How to access it?",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/ungrd-anuncia-apoyo-de-hasta-3-1-millones-para-familias-damnificadas-por-el-terremoto-del-10-de-agosto-como-acceder-3582873",
-        "published_date": "2026-09-02 06:40:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "Caracol TV releases Camila Zuluaga just when the government blocks uncomfortable voices",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/caracol-tv-saca-a-camila-zuluaga-justo-cuando-el-gobierno-bloquea-voces-incomodas/",
-        "published_date": "2026-09-02 06:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Railway projects, the commitment of regions and businessmen to connect Colombia",
+        "title": "MinVivienda will request an additional $4 billion from the PGN for reconstruction after the earthquake",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/los-proyectos-ferroviarios-la-apuesta-de-regiones-y-empresarios-para-conectar-al-pais-4471707",
-        "published_date": "2026-09-02 05:01:46",
+        "url": "https://www.larepublica.co/economia/minvivienda-pedira-4-billones-adicionales-al-pgn-para-reconstruccion-tras-sismo-4473078",
+        "published_date": "2026-09-02 19:32:17",
         "category": "Local Events"
     },
     {
-        "title": "\u201cToday we have a portfolio of projects that is around US$187 million\u201d",
+        "title": "There is a red alert in the San Jorge region, in C\u00f3rdoba and Sucre, due to flooding due to flooding of the river",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/hay-alerta-roja-en-la-region-del-san-jorge-en-cordoba-y-sucre-por-inundaciones-ante-creciente-del-rio-3583132",
+        "published_date": "2026-09-02 19:03:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tragedy and persecution in Valle del Cauca: the human and millionaire cost of trafficking 1.3 tons of marijuana",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/tragedia-y-persecucion-en-el-valle-del-cauca-el-costo-humano-y-millonario-del-trafico-de-1-3-toneladas-de-marihuana-3583116",
+        "published_date": "2026-09-02 19:01:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "Three failed hearings and an explosive file: the bumpy path of Miguel Quintero's trial for the mega corruption scandal in Medell\u00edn",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/tres-audiencias-caidas-y-un-expediente-explosivo-el-accidentado-camino-del-juicio-de-miguel-quintero-por-el-megaescandalo-de-corrupcion-en-medellin-3583090",
+        "published_date": "2026-09-02 19:01:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "This was the route that President De la Espriella took aboard the Bogot\u00e1 Metro",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/entrevista-con-gheidy-gallo-santos-presidente-ejecutiva-de-proboyaca-sobre-los-proyectos-ferrovarios-4472443",
-        "published_date": "2026-09-02 05:01:42",
+        "url": "https://www.larepublica.co/economia/este-fue-el-recorrido-que-el-presidente-de-la-espriella-hizo-a-bordo-del-metro-de-bogota-4473010",
+        "published_date": "2026-09-02 18:41:12",
         "category": "Local Events"
     },
     {
-        "title": "As of July, the Dian reached 62% of the tax collection goal for the course, with $197.4 billion",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/a-julio-la-dian-alcanzo-62-de-la-meta-de-recaudo-tributario-con-197-4-billones-4472284",
-        "published_date": "2026-09-02 05:01:40",
+        "title": "Indications and clues that preceded the crime of the leaders murdered in a peaceful territory in Cauca: on video, their requests for the Cajib\u00edo massacre",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/indicios-y-pistas-que-precedieron-crimen-de-los-lideres-asesinados-en-un-territorio-de-paz-en-cauca-en-video-sus-peticiones-por-masacre-de-cajibio-3583097",
+        "published_date": "2026-09-02 18:30:45",
         "category": "Local Events"
     },
     {
-        "title": "Who is Tatiana Judith Gaona Pinz\u00f3n",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-tatiana-judith-gaona-pinzon/",
-        "published_date": "2026-09-02 01:51:32",
+        "title": "Atlantic land cartels set their sights on public properties facing the sea in Puerto Colombia, but bureaucracy stopped the attempt",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/carteles-de-tierra-del-atlantico-pusieron-la-mira-en-predios-publicos-frente-al-mar-en-puerto-colombia-pero-la-burocracia-freno-el-intento-3583126",
+        "published_date": "2026-09-02 18:30:00",
         "category": "Local Events"
     },
     {
-        "title": "Who is Mar\u00eda Janeth Sabogal Robles",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-maria-janeth-sabogal-robles/",
-        "published_date": "2026-09-02 01:48:26",
+        "title": "Andicom: The European Union seals a strategic alliance with Colombia to promote digital transformation and the regions will benefit",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/andicom-la-union-europea-sella-alianza-estrategica-con-colombia-para-impulsar-la-transformacion-digital-y-las-regiones-seran-beneficiadas-3583098",
+        "published_date": "2026-09-02 18:25:04",
         "category": "Local Events"
     },
     {
-        "title": "Who is Jhon Fredi Valencia Caicedo",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-john-fredi-valencia-caicedo/",
-        "published_date": "2026-09-02 01:40:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sleep informed with the keys for this September 1, 2026",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-claves-de-este-1-de-septiembre-de-2026/",
-        "published_date": "2026-09-02 00:27:12",
+        "title": "From tragedy to renewal: this is Cali's plan to rebuild its tourist infrastructure after the earthquake",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/de-la-tragedia-a-la-renovacion-asi-es-el-plan-de-cali-para-reconstruir-su-infraestructura-turistica-tras-el-terremoto-3583100",
+        "published_date": "2026-09-02 17:38:19",
         "category": "Local Events"
     }
 ]
