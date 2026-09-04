@@ -1,5 +1,12 @@
 [
     {
+        "title": "The UN warned that this El Ni\u00f1o phenomenon will be the strongest in the last 40 years",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/onu-alerto-que-este-fenomeno-de-el-nino-sera-el-mas-fuerte-en-los-ultimos-40-anos-4473487",
+        "published_date": "2026-09-04 05:01:20",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Analdex said that the US could remove the tariff from 12.5% \u200b\u200bto 0% in the coming days",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/analdex-dijo-que-estados-unidos-desmontaria-arancel-de-12-5-en-los-proximos-dias-4474066",
@@ -89,6 +96,13 @@
         "url": "https://www.lasillavacia.com/en-vivo/la-foto-mindefensa-se-reune-con-comando-sur-de-ee-uu/",
         "published_date": "2026-08-27 22:00:06",
         "category": "Diplomacy"
+    },
+    {
+        "title": "Although they are prohibited, the Police confirmed that the collapse of a stage at Corralejas parties in Bol\u00edvar left 25 people injured",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/pese-a-que-estan-prohibidas-la-policia-confirmo-que-el-desplome-de-un-tablado-en-fiestas-de-corralejas-en-bolivar-dejo-25-personas-heridas-3583527",
+        "published_date": "2026-09-04 08:16:42",
+        "category": "Military"
     },
     {
         "title": "Counting captures and casualties does not measure security in Colombia",
@@ -224,11 +238,18 @@
         "category": "Military"
     },
     {
-        "title": "Serious accident on the Medell\u00edn-Manizales highway due to a passenger bus that collided head-on with a tractor-trailer;there are three dead and 18 injured",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/grave-accidente-en-la-via-medellin-manizales-por-bus-de-pasajeros-que-choco-de-frente-con-un-tractocamion-hay-tres-muertos-y-15-heridos-3582133",
-        "published_date": "2026-08-29 19:44:50",
-        "category": "Military"
+        "title": "Ecopetrol, Trump and the oil fever in Venezuela",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/ecopetrol-trump-y-la-fiebre-petrolera-en-venezuela/",
+        "published_date": "2026-09-04 12:33:09",
+        "category": "Energy"
+    },
+    {
+        "title": "MinMinas ends mining restrictions in 119 municipalities by repealing districts",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/minminas-tumba-restricciones-mineras-en-119-municipios-derogando-distritos-4474093",
+        "published_date": "2026-09-04 05:03:56",
+        "category": "Energy"
     },
     {
         "title": "Vice President Restrepo announced investments of $8 billion in Colombia from the EU",
@@ -357,18 +378,18 @@
         "category": "Energy"
     },
     {
-        "title": "Ecopetrol reported changes in two positions of its senior management after extraordinary session",
+        "title": "Market analysts anticipate that annual inflation for August will close above 6.10%",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/ecopetrol-informo-cambios-en-dos-posiciones-de-su-alta-gerencia-tras-sesion-extraordinaria-4471266",
-        "published_date": "2026-08-31 22:23:25",
-        "category": "Energy"
+        "url": "https://www.larepublica.co/economia/analistas-del-mercado-financiero-anticipan-que-la-inflacion-anual-de-agosto-cerro-en-6-10-4474142",
+        "published_date": "2026-09-04 05:01:39",
+        "category": "Economy"
     },
     {
-        "title": "Pepper spray and tickling, the new modality that would be used to rob concerts in Bucaramanga: it happened at a Ryan Castro event",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/gas-pimienta-y-cosquilleo-la-nueva-modalidad-que-se-estaria-utilizando-para-robar-en-conciertos-de-bucaramanga-sucedio-en-un-evento-de-ryan-castro-3582389",
-        "published_date": "2026-08-31 11:18:04",
-        "category": "Energy"
+        "title": "XM: Guaviare, Meta and Bogot\u00e1 at risk of electricity shortages",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/xm-guaviare-meta-y-bogota-en-riesgo-de-desabastecimiento-electrico/",
+        "published_date": "2026-09-04 01:14:15",
+        "category": "Economy"
     },
     {
         "title": "Issuer made second dollar purchase auction official for US$400 million",
@@ -476,150 +497,143 @@
         "category": "Economy"
     },
     {
-        "title": "Why don't imported foods drop in price even when the dollar is cheap?",
+        "title": "Government closes dialogue tables with Communeros del Sur and Paisa combos",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/gobierno-cierra-mesas-de-dialogo-con-comuneros-del-sur-y-combos-paisas/",
+        "published_date": "2026-09-04 14:41:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "Alias \u200b\u200bBendito Menor, leader of the Acsn, was killed in La Guajira",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/alias-bendito-menor-lider-de-las-acsn-fue-abatido-en-la-guajira/",
+        "published_date": "2026-09-04 13:25:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "Supersalud began a dialogue agenda to learn about the problems of the sector",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/por-que-no-bajan-de-precio-los-alimentos-importados-aun-cuando-hay-dolar-barato-4467860",
-        "published_date": "2026-08-27 05:01:25",
-        "category": "Economy"
-    },
-    {
-        "title": "Sleep informed with the keys for this September 3, 2026",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-claves-de-este-3-de-septiembre-de-2026/",
-        "published_date": "2026-09-04 00:06:29",
+        "url": "https://www.larepublica.co/economia/supersalud-inicio-agenda-de-dialogo-para-conocer-las-problematicas-del-sector-4474357",
+        "published_date": "2026-09-04 13:22:13",
         "category": "Local Events"
     },
     {
-        "title": "\u201cTransparent and organized\u201d: The EU-EOM's assessment of the elections",
+        "title": "Earthquake in the heart of coffee: to the fallen, fall",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/transparentes-y-organizadas-el-balance-de-la-moe-ue-sobre-las-elecciones/",
-        "published_date": "2026-09-03 23:55:28",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-rural/terremoto-en-el-corazon-del-cafe-al-caido-caerle/",
+        "published_date": "2026-09-04 13:00:00",
         "category": "Local Events"
     },
     {
-        "title": "Four peace stations will go off the air for not meeting requirements",
+        "title": "Nubia Carolina C\u00f3rdoba: leadership and humanity to rebuild Choc\u00f3",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/cuatro-emisoras-de-paz-saldran-del-aire-por-no-cumplir-requisitos/",
-        "published_date": "2026-09-03 23:48:42",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-etnica/nubia-carolina-cordoba-liderazgo-y-humanidad-para-reconstruir-el-choco/",
+        "published_date": "2026-09-04 12:47:50",
         "category": "Local Events"
     },
     {
-        "title": "Circular from MinAmbiente Petro advanced in regulating indigenous environmental authority",
+        "title": "Breakfast informed with the movements of this September 4, 2026",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/circular-de-minambiente-petro-avanzo-en-regular-autoridad-ambiental-indigena/",
-        "published_date": "2026-09-03 23:27:34",
+        "url": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-movidas-de-este-4-de-septiembre-de-2026/",
+        "published_date": "2026-09-04 12:36:47",
         "category": "Local Events"
     },
     {
-        "title": "Juan Felipe Lemos is the president of the CNE.Jos\u00e9 Antonio Parra, the vice",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/juan-felipe-lemos-es-el-presidente-del-cne-jose-antonio-parra-el-vice/",
-        "published_date": "2026-09-03 23:06:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "Abelardo ordered to transfer Kiko G\u00f3mez from prison \u201cif necessary\u201d",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/abelardo-ordeno-trasladar-de-carcel-a-kiko-gomez-de-ser-necesario/",
-        "published_date": "2026-09-03 22:24:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "Government will appeal ruling that forces it not to bomb if there are minors",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/gobierno-apelara-fallo-que-lo-obliga-a-no-bombardear-si-hay-menores/",
-        "published_date": "2026-09-03 21:11:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fumigation does not replace the commitments of the State with the coca-growing territories",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/la-fumigacion-no-reemplaza-los-compromisos-del-estado-con-los-territorios-cocaleros/",
-        "published_date": "2026-09-03 20:35:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "This is how the new communication strategy of the De la Espriella Government will work",
+        "title": "MinInterior reported that there are 46 fires liquidated and two active in Tolima",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/asi-funcionara-la-nueva-estrategia-de-comunicacion-del-gobierno-de-de-la-espriella-4473930",
-        "published_date": "2026-09-03 19:54:18",
+        "url": "https://www.larepublica.co/economia/mininterior-reporto-que-hay-46-incendios-liquidados-y-dos-activos-en-tolima-4474352",
+        "published_date": "2026-09-04 12:18:08",
         "category": "Local Events"
     },
     {
-        "title": "Tremor today in Colombia |An earthquake of magnitude greater than 3 was reported this September 3 in Choc\u00f3: they warn that it was felt in Cali and other cities",
+        "title": "The risk that AI will prevent us from learning: the era of knowledge without genealogy",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-democracia-y-tecnologia/el-riesgo-de-que-la-ia-nos-impida-aprender-la-era-del-conocimiento-sin-genealogia/",
+        "published_date": "2026-09-04 12:15:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "Social networks captured 44% of children recruited in Colombia in 2025",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/redes-sociales-captaron-al-44-de-los-ninos-reclutados-en-colombia-en-2025/",
+        "published_date": "2026-09-04 12:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "After the death of 'Bendito Menor', an expert warns of a power vacuum and possible criminal dispute over the control of La Guajira and its illegal income",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-hoy-en-colombia-sismo-de-magnitud-mayor-a-3-fue-reportado-este-3-de-septiembre-en-choco-alertan-que-se-sintio-en-cali-y-otras-ciudades-3583458",
-        "published_date": "2026-09-03 19:32:16",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/tras-la-muerte-de-bendito-menor-experto-alerta-por-vacio-de-poder-y-posible-disputa-criminal-por-el-control-de-la-guajira-y-sus-rentas-ilegales-3583546",
+        "published_date": "2026-09-04 09:12:46",
         "category": "Local Events"
     },
     {
-        "title": "Searching for Pablo Carrizo, Argentine missing in Medell\u00edn since August 18",
+        "title": "Men with rifles kidnapped a merchant in his own hardware store in Popay\u00e1n: there are already 12 captives in the department of Cauca",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/se-busca-a-pablo-carrizo-argentino-desaparecido-en-medellin-desde-el-18-de-agosto-3583451",
-        "published_date": "2026-09-03 19:26:34",
+        "url": "https://www.eltiempo.com/colombia/cali/hombres-con-fusiles-secuestraron-a-un-comerciante-en-su-propia-ferreteria-en-popayan-ya-son-12-los-cautivos-en-el-departamento-del-cauca-3583540",
+        "published_date": "2026-09-04 09:11:56",
         "category": "Local Events"
     },
     {
-        "title": "When will Michel Dahiana's body be handed over?In approximately a month the cause of death of the 6-year-old girl will be known.",
+        "title": "Char's announcement about Villa Campestre triggers a clash with Puerto Colombia: Congress warns that there is still no final decision",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/cuando-entregaran-el-cuerpo-de-michel-dahiana-en-aproximadamente-un-mes-se-tendra-la-causa-de-la-muerte-de-la-nina-de-6-anos-3583446",
-        "published_date": "2026-09-03 19:00:23",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/anuncio-de-char-sobre-villa-campestre-desata-choque-con-puerto-colombia-congreso-advierte-que-aun-no-hay-decision-final-3583537",
+        "published_date": "2026-09-04 08:54:22",
         "category": "Local Events"
     },
     {
-        "title": "Businessmen from the European Union would invest more than 2,000 million euros in Colombia during the next four years",
+        "title": "Tragic end for Pablo Carrizo: the renowned Argentine consultant was found dead after several days of agonizing search",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/empresarios-de-la-union-europea-invertirian-mas-de-2-000-millones-de-euros-en-colombia-durante-el-proximo-cuatrienio-3583422",
-        "published_date": "2026-09-03 18:50:32",
+        "url": "https://www.eltiempo.com/colombia/medellin/tragico-final-para-pablo-carrizo-el-reconocido-consultor-argentino-fue-hallado-sin-vida-tras-varios-dias-de-angustiosa-busqueda-3583535",
+        "published_date": "2026-09-04 08:31:43",
         "category": "Local Events"
     },
     {
-        "title": "They denounce that the alleged person responsible for the death of Gabriela Pe\u00f1a, who died on the Bogot\u00e1-Girardot road, had already caused other drunken accidents",
+        "title": "From La Guajira, De La Espriella held an operation in Riohacha that left 'Bendito Menor' dead: he reiterated 'I will not negotiate with criminal structures'",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/denuncian-que-el-presunto-responsable-de-la-muerte-de-gabriela-pena-fallecida-en-la-via-bogota-girardot-ya-habria-causado-otros-accidentes-ebrio-3583421",
-        "published_date": "2026-09-03 18:37:51",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/desde-la-guajira-de-la-espriella-celebro-operacion-en-riohacha-que-dejo-muerto-a-bendito-menor-reitero-no-negociare-con-estructuras-criminales-3583534",
+        "published_date": "2026-09-04 08:24:55",
         "category": "Local Events"
     },
     {
-        "title": "Violence at the General Hospital of Medell\u00edn: aggressors of medical staff are captured after the death of a family member",
+        "title": "Barranquilla brings together nearly 50 mayors and authorities from 30 countries to debate the future of Latin American cities",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/violencia-en-el-hospital-general-de-medellin-capturan-a-agresores-del-personal-medico-tras-la-muerte-de-un-familiar-3583439",
-        "published_date": "2026-09-03 18:25:43",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-reune-a-cerca-de-50-alcaldes-y-autoridades-de-30-paises-para-debatir-el-futuro-de-las-ciudades-de-america-latina-3583520",
+        "published_date": "2026-09-04 07:56:30",
         "category": "Local Events"
     },
     {
-        "title": "Compulsory military service in Colombia 2026: this is the financial fine you face for not completing the required paperwork",
+        "title": "The first images of the bodies of 'Bendito Menor', 'Bebesita' and their two bodyguards are known: President De La Espriella is already in La Guajira",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/economia/finanzas-personales/servicio-militar-obligatorio-en-colombia-2026-esta-es-la-multa-economica-a-la-que-se-enfrenta-por-no-realizar-el-tramite-de-los-papeles-requeridos-3583316",
-        "published_date": "2026-09-03 17:38:23",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/se-conocen-las-primeras-imagenes-de-los-cuerpos-de-bendito-menor-bebesita-y-sus-dos-escoltas-presidente-de-la-espriella-ya-esta-en-la-guajira-3583526",
+        "published_date": "2026-09-04 07:55:00",
         "category": "Local Events"
     },
     {
-        "title": "This is how victims of the August 10 earthquake can process compensation, disability resources and other aid",
+        "title": "The final hours of 'Bendito Menor': details of the operation in which the dangerous ringleader and three other members of the ACSN were killed in Riohacha",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/asi-pueden-los-damnificados-del-terremoto-del-10-de-agosto-tramitar-indemnizaciones-recursos-por-incapacidad-y-otras-ayudas-3583413",
-        "published_date": "2026-09-03 17:30:45",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/las-horas-finales-de-bendito-menor-detalles-del-operativo-en-el-que-fue-abatido-el-peligroso-cabecilla-y-tres-miembros-mas-de-las-acsn-en-riohacha-3583505",
+        "published_date": "2026-09-04 07:39:38",
         "category": "Local Events"
     },
     {
-        "title": "Erasmo Zuleta alerts about the transfer of $1.9 billion destined for those affected by the cold front",
+        "title": "The 'Macondo' of Nari\u00f1o: this is the town that suffered misfortunes and today seeks to rise from the ashes",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/el-macondo-de-narino-este-es-el-pueblo-al-que-se-le-juntaron-las-desgracias-y-hoy-busca-levantarse-de-entre-las-cenizas-3583502",
+        "published_date": "2026-09-04 07:26:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "From Euclides to Colpatria: the powers affected by the reform of Abelardo's transit",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/de-euclides-a-colpatria-los-poderes-que-toca-la-reforma-al-transito-de-abelardo/",
+        "published_date": "2026-09-04 06:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Of the 42 compensation funds that make up the system, there are 11 that are intervened",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/erasmo-zuleta-alerta-por-traslado-de-1-9-billones-destinados-a-afectados-del-frente-frio-4473747",
-        "published_date": "2026-09-03 17:26:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "Danger on the Medell\u00edn-Bogot\u00e1 highway: they report that there are two sectors without lighting in which accidents increased",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/peligro-en-la-via-medellin-bogota-denuncian-que-hay-dos-sectores-sin-iluminacion-en-los-cuales-aumentaron-los-accidentes-3583409",
-        "published_date": "2026-09-03 17:20:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Exports total US$32,489 million so far this year, growing 12.7%",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/exportaciones-suman-us-32-489-millones-en-lo-que-va-del-ano-crecieron-12-7-4473707",
-        "published_date": "2026-09-03 15:54:57",
+        "url": "https://www.larepublica.co/economia/de-42-cajas-de-compensacion-que-integran-el-sistema-hay-11-que-estan-intervenidas-4474117",
+        "published_date": "2026-09-04 05:01:22",
         "category": "Local Events"
     }
 ]
