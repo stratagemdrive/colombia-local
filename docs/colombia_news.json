@@ -98,11 +98,25 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Sleep informed with the movements of this August 27, 2026",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-movidas-de-este-27-de-agosto-de-2026/",
-        "published_date": "2026-08-28 00:42:51",
-        "category": "Diplomacy"
+        "title": "Return of Ciclovida in Cali is waiting for a security concept after the earthquake of August 10",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/retorno-de-la-ciclovida-en-cali-queda-a-la-espera-de-un-concepto-de-seguridad-tras-el-terremoto-del-10-de-agosto-3583802",
+        "published_date": "2026-09-05 07:29:50",
+        "category": "Military"
+    },
+    {
+        "title": "He was Captain Marco David Piraj\u00f3n, one of the two soldiers killed in the ELN attack on the Oca\u00f1a battalion, Norte de Santander;his story",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/el-era-el-capitan-marco-david-pirajon-uno-de-los-dos-uniformados-asesinados-en-ataque-del-eln-al-batallon-de-ocana-norte-de-santander-su-historia-3583797",
+        "published_date": "2026-09-05 03:50:24",
+        "category": "Military"
+    },
+    {
+        "title": "They attacked the Army battalion in Oca\u00f1a, Norte de Santander with a swarm of drones: captain and soldier died and the FAC helicopter was hit",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/atacaron-con-enjambre-de-drones-cargados-con-artefactos-explosivos-el-batallon-de-ocana-en-norte-de-santander-la-accion-criminal-se-atribuye-al-eln-3583761",
+        "published_date": "2026-09-05 01:27:54",
+        "category": "Military"
     },
     {
         "title": "12 thousand captured: Abelardo's data is neither \u201cinvented\u201d nor exceptional",
@@ -221,27 +235,6 @@
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/fiscalia-reactiva-ordenes-de-captura-contra-calarca-y-otros-cabecillas/",
         "published_date": "2026-09-01 21:25:39",
-        "category": "Military"
-    },
-    {
-        "title": "A prison at sea",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/una-carcel-en-el-mar/",
-        "published_date": "2026-09-01 20:10:00",
-        "category": "Military"
-    },
-    {
-        "title": "From Bucaramanga they oppose the announcement of the transfer of more than 50 highly dangerous criminals to the maximum security Palogordo prison",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/desde-bucaramanga-se-oponen-al-anuncio-del-traslado-de-mas-de-50-delincuentes-de-alta-peligrosidad-a-la-carcel-palogordo-de-maxima-seguridad-3582738",
-        "published_date": "2026-09-01 16:14:48",
-        "category": "Military"
-    },
-    {
-        "title": "Attack at the Los Patios Police Station leaves one dead and 11 injured",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/atentado-en-los-patios-deja-11-personas-heridas-y-una-fallecida/",
-        "published_date": "2026-09-01 13:01:12",
         "category": "Military"
     },
     {
@@ -385,6 +378,13 @@
         "category": "Energy"
     },
     {
+        "title": "Remittances only boost GDP in those departments with more financial inclusion",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/remesas-solo-impulsan-el-pib-en-aquellos-departamentos-con-mas-inclusion-financiera-4474963",
+        "published_date": "2026-09-05 05:01:10",
+        "category": "Economy"
+    },
+    {
         "title": "The CARF warned that the GNC's net debt would reach 67.3% of GDP next year",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/el-carf-advirtio-que-la-deuda-neta-llegaria-a-67-3-del-pib-el-proximo-ano-4474750",
@@ -483,24 +483,66 @@
         "category": "Economy"
     },
     {
-        "title": "MinHacienda affirmed that the increase in PGN 2027 is due to the level of debt of the previous government",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/minhacienda-afirmo-que-alza-en-pgn-2027-se-debe-a-exclusiones-en-proyecto-anterior-4469067",
-        "published_date": "2026-08-28 11:52:11",
-        "category": "Economy"
+        "title": "The Government of Norte de Santander offers a $100 million peso reward for information after the attack against the Public Force in Oca\u00f1a",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/la-gobernacion-de-norte-de-santander-ofrece-100-millones-de-pesos-de-recompensa-por-informacion-tras-el-atentado-contra-la-fuerza-publica-en-ocana-3583798",
+        "published_date": "2026-09-05 05:22:49",
+        "category": "Local Events"
     },
     {
-        "title": "Abelardo's first budget comes to \"honest accounts\", without cuts",
+        "title": "Public information cannot depend on the sympathy of power",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/el-primer-presupuesto-de-abelardo-llega-a-sincerar-cuentas-sin-recortes/",
-        "published_date": "2026-08-28 06:01:18",
-        "category": "Economy"
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/la-informacion-publica-no-puede-depender-de-la-simpatia-del-poder/",
+        "published_date": "2026-09-05 05:05:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Of every 10 municipalities, approximately two are on alert for forest fires",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/de-cada-10-municipios-aproximadamente-dos-estan-en-alerta-por-incendios-forestales-4475014",
+        "published_date": "2026-09-05 05:01:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "More than 349,900 coffee growers will vote to elect representatives within Fedecaf\u00e9",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/mas-de-349-900-cafeteros-votaran-para-elegir-a-4-848-representantes-de-la-fedecafe-4474975",
+        "published_date": "2026-09-05 05:01:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "Colombia in Peace Fund will mobilize US$135 million for Sustainable Colombia",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/fondo-colombia-en-paz-movilizara-us-135-millones-para-nueva-etapa-de-colombia-sostenible-4474175",
+        "published_date": "2026-09-05 01:24:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "Law against child marriage was sanctioned by the Petro government, not by Abelardo",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/detector-de-mentiras/enganoso/ley-contra-matrimonio-infantil-fue-sancionada-en-gobierno-petro-no-de-abelardo/",
+        "published_date": "2026-09-05 00:36:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Car sales in 2026 will grow by 42.1 percent",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/las-ventas-de-carros-en-2026-van-creciendo-en-42-1-por-ciento-3583794",
+        "published_date": "2026-09-05 00:04:35",
+        "category": "Local Events"
     },
     {
         "title": "Sleep informed with the keys of this September 4, 2026",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-claves-de-este-4-de-septiembre-de-2026/",
         "published_date": "2026-09-05 00:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Is it right to reduce traffic fines?/ Analysis by Jos\u00e9 Clopatofsky",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/es-correcto-rebajar-las-multas-de-transito-analisis-de-jose-clopatofsky-3583793",
+        "published_date": "2026-09-04 23:47:34",
         "category": "Local Events"
     },
     {
@@ -518,10 +560,24 @@
         "category": "Local Events"
     },
     {
+        "title": "The most ferocious El Ni\u00f1o phenomenon of the century threatens Antioquia: these are the three critical alerts that EPM and the UdeA ask not to ignore",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/el-fenomeno-de-el-nino-mas-feroz-del-siglo-amenaza-a-antioquia-estas-son-las-tres-alertas-criticas-que-epm-y-la-udea-piden-no-ignorar-3583637",
+        "published_date": "2026-09-04 23:07:14",
+        "category": "Local Events"
+    },
+    {
         "title": "Avianca canceled Petro's tickets for being on the Clinton List",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/avianca-le-cancelo-los-tiquetes-a-petro-por-estar-en-la-lista-clinton/",
         "published_date": "2026-09-04 22:11:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "Massacre in Obando, Valle: shooting attack in the Villa Sol neighborhood leaves three people dead, including a woman",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/masacre-en-obando-valle-ataque-a-tiros-en-el-barrio-villa-sol-deja-tres-personas-muertas-entre-ellas-una-mujer-3583773",
+        "published_date": "2026-09-04 21:48:55",
         "category": "Local Events"
     },
     {
@@ -553,87 +609,17 @@
         "category": "Local Events"
     },
     {
+        "title": "She 'threw herself into the ring' for the Mayor of Cali: former governor of Valle del Cauca, Clara Luz Rold\u00e1n, confirmed that she will be a candidate for the La U Party",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/se-lanzo-al-ruedo-por-la-alcaldia-de-cali-exgobernadora-del-valle-del-cauca-clara-luz-roldan-confirmo-que-sera-candidata-por-el-partido-de-la-u-3583747",
+        "published_date": "2026-09-04 19:51:50",
+        "category": "Local Events"
+    },
+    {
         "title": "Two flamingos die after colliding with power lines in La Guajira: there are already six this year and new measures are announced",
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/otras-ciudades/dos-flamencos-mueren-al-chocar-con-lineas-electricas-en-la-guajira-ya-son-seis-este-ano-y-anuncian-nuevas-medidas-3583736",
         "published_date": "2026-09-04 18:33:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "Supreme Court of Justice will debate artificial intelligence, disinformation and freedom of expression in a forum in Barranquilla",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/corte-suprema-de-justicia-debatira-sobre-inteligencia-artificial-desinformacion-y-libertad-de-expresion-en-foro-en-barranquilla-3583731",
-        "published_date": "2026-09-04 18:05:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "President of the Senate said that he will not allow the absence of ministers in PGN debates",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/presidente-del-senado-dijo-que-no-permitira-ausencia-de-ministros-en-debates-del-pgn-4474641",
-        "published_date": "2026-09-04 17:33:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Authorities in Antioquia have sealed 17 irregular aesthetic centers in 2026: these are the ways to evade controls",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/autoridades-en-antioquia-han-sellado-17-centros-esteticos-irregulares-en-2026-estas-son-las-modalidades-para-evadir-los-controles-3583722",
-        "published_date": "2026-09-04 17:23:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "'El Chico de las Fresas' in Cartagena already has its own location in Bocagrande: 'I am very happy with my new space to continue working'",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/el-chico-de-las-fresas-en-cartagena-ya-tiene-su-propio-local-en-bocagrande-estoy-muy-feliz-con-mi-nuevo-espacio-para-seguir-trabajando-3583713",
-        "published_date": "2026-09-04 17:18:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "'Bendito Menor' and 'La Bebesita', a love story marked by secrecy, weapons, an escape and a death together in Riohacha, La Guajira",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/bendito-menor-y-la-bebesita-una-historia-de-amor-marcada-por-la-clandestinidad-las-armas-una-fuga-y-una-muerte-juntos-en-riohacha-la-guajira-3583712",
-        "published_date": "2026-09-04 16:47:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "The resolution on 'express' delimitation in the Santurb\u00e1n moor in the Petro government fell: court ruling suspended it",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/se-cayo-la-resolucion-sobre-delimitacion-expres-en-el-paramo-de-santurban-en-el-gobierno-de-petro-fallo-judicial-la-suspendio-3583703",
-        "published_date": "2026-09-04 16:29:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "National coffee production in August was 1.09 million 60 kg bags and fell 12%",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/produccion-nacional-de-cafe-en-agosto-fue-de-1-09-millones-de-sacos-y-cayo-12-4474559",
-        "published_date": "2026-09-04 16:01:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Government closes dialogue tables with Communeros del Sur and Paisa combos",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/gobierno-cierra-mesas-de-dialogo-con-comuneros-del-sur-y-combos-paisas/",
-        "published_date": "2026-09-04 14:41:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "Alias \u200b\u200bBendito Menor, leader of the Acsn, was killed in La Guajira",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/alias-bendito-menor-lider-de-las-acsn-fue-abatido-en-la-guajira/",
-        "published_date": "2026-09-04 13:25:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "Supersalud began a dialogue agenda to learn about the problems of the sector",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/supersalud-inicio-agenda-de-dialogo-para-conocer-las-problematicas-del-sector-4474357",
-        "published_date": "2026-09-04 13:22:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "Earthquake in the heart of coffee: to the fallen, fall",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-rural/terremoto-en-el-corazon-del-cafe-al-caido-caerle/",
-        "published_date": "2026-09-04 13:00:00",
         "category": "Local Events"
     }
 ]
