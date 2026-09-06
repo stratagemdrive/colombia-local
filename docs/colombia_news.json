@@ -238,6 +238,13 @@
         "category": "Military"
     },
     {
+        "title": "Colombia grew old without getting rich",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/colombia-envejecio-sin-enriquecerse/",
+        "published_date": "2026-09-06 13:00:00",
+        "category": "Energy"
+    },
+    {
         "title": "Details of the case of the two music teachers in Geneva, Valle, prosecuted for allegedly sexually assaulting seven minor students",
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/cali/detalles-del-caso-de-los-dos-profesores-de-musica-en-ginebra-valle-judicializados-por-presuntamente-agredir-sexualmente-a-siete-estudiantes-menores-3583884",
@@ -371,13 +378,6 @@
         "category": "Energy"
     },
     {
-        "title": "Guilds expect one million barrels per day by 2038 with exploratory policy",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/gremios-esperan-un-millon-de-barriles-diarios-a-2038-con-politica-exploratoria-4471469",
-        "published_date": "2026-09-01 00:21:24",
-        "category": "Energy"
-    },
-    {
         "title": "Remittances only boost GDP in those departments with more financial inclusion",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/remesas-solo-impulsan-el-pib-en-aquellos-departamentos-con-mas-inclusion-financiera-4474963",
@@ -469,6 +469,41 @@
         "category": "Economy"
     },
     {
+        "title": "Kfir fighter planes fly over Oca\u00f1a and C\u00facuta after terrorist attack in Catatumbo",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/aviones-de-combate-kfir-sobrevuelan-ocana-y-cucuta-tras-ataque-terrorista-en-el-catatumbo-3583941",
+        "published_date": "2026-09-06 07:43:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "More than 150,000 Venezuelans would remain illegal in Colombia for not claiming their Temporary Protection Permit: they have 60 days to do so",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/migracion-colombia-hace-ultimo-llamado-a-ciudadanos-venezolanos-para-reclamar-mas-de-150-000-permisos-por-proteccion-temporal-3583928",
+        "published_date": "2026-09-06 06:39:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "A Choc\u00f3 in ruins due to the earthquake will measure the reconstruction of De la Espriella",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/un-choco-en-ruinas-por-el-terremoto-medira-la-reconstruccion-de-de-la-espriella/",
+        "published_date": "2026-09-06 05:32:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "Abelardo De La Espriella announced measures to accelerate the reconstruction of Cali after the earthquake, with actions in housing, employment and the economy",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/abelardo-de-la-espriella-anuncio-medidas-para-acelerar-la-reconstruccion-de-cali-tras-el-terremoto-con-acciones-en-vivienda-empleo-y-economia-3583937",
+        "published_date": "2026-09-06 04:08:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "MinAmbiente announces release of Orinoco crocodiles in rivers and wetlands",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/minambiente-anuncia-liberacion-de-cocodrilos-del-orinoco-en-rios-y-humedales-4475573",
+        "published_date": "2026-09-06 00:49:33",
+        "category": "Local Events"
+    },
+    {
         "title": "Will God provide?On the idea of \u200b\u200ba \u201cMiracle Homeland\u201d",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/red-de-expertos/dios-proveera-sobre-la-idea-de-una-patria-milagro/",
@@ -508,6 +543,13 @@
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/otro-juez-restringe-al-gobierno-bombardear-si-hay-menores-en-guaviare/",
         "published_date": "2026-09-05 21:17:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "It shook near Bogot\u00e1: a 3.1 magnitude earthquake was recorded this Saturday in Cundinamarca and had a depth of 145 kilometers",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblo-cerca-de-bogota-sismo-de-magnitud-3-1-se-registro-este-sabado-en-cundinamarca-y-tuvo-una-profundidad-de-145-kilometros-3583905",
+        "published_date": "2026-09-05 20:04:43",
         "category": "Local Events"
     },
     {
@@ -564,48 +606,6 @@
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/el-presidente-abelardo-de-la-espriella-anuncio-inversiones-para-la-reconstruccion-de-buga-4475442",
         "published_date": "2026-09-05 17:44:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "The untold story behind Pablo Carrizo's fatal trip to Colombia and the critical hours on the road that ended his life",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/la-historia-no-contada-detras-del-fatal-viaje-de-pablo-carrizo-a-colombia-y-las-horas-criticas-en-carretera-que-terminaron-con-su-vida-3583889",
-        "published_date": "2026-09-05 17:32:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "Humanitarian aid cannot become a business",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/la-ayuda-humanitaria-no-puede-convertirse-en-negocio/",
-        "published_date": "2026-09-05 17:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "On video |From a movie!A hippopotamus chased a vehicle in the middle of the road in Puerto Triunfo, Antioquia",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/en-video-de-pelicula-un-hipopotamo-persiguio-a-un-vehiculo-en-plena-via-de-puerto-triunfo-antioquia-3583882",
-        "published_date": "2026-09-05 16:32:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Attorney General's Office investigates the mayor of Barbosa, Santander, for alleged irregularities in the controversial corraleja of January of this year",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/la-procuraduria-investiga-al-alcalde-de-barbosa-santander-por-presuntas-irregularidades-en-la-polemica-corraleja-de-enero-de-este-ano-3583879",
-        "published_date": "2026-09-05 16:18:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Community of Colombians in New York asks for help to send 34 tons of humanitarian assistance to those affected by the earthquake",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/comunidad-de-colombianos-en-nueva-york-pide-ayuda-para-enviar-34-toneladas-de-asistencia-humanitaria-a-los-afectados-por-el-terremoto-3583872",
-        "published_date": "2026-09-05 15:51:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "Barranquilla: ANI confirms public hearing on October 28 for the modernization of the Ernesto Cortissoz airport",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-ani-confirma-audiencia-publica-el-28-de-octubre-por-la-modernizacion-del-aeropuerto-ernesto-cortissoz-3583868",
-        "published_date": "2026-09-05 15:26:34",
         "category": "Local Events"
     }
 ]
