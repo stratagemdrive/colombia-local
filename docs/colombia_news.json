@@ -84,18 +84,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "The US provides donation to fight fires in Tolima, Valle and Nari\u00f1o",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/ee-uu-entrega-donacion-para-combatir-incendios-en-tolima-valle-y-narino-4470376",
-        "published_date": "2026-08-29 20:45:59",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "The US allocates US$48,000 to deal with fires in Tolima, Nari\u00f1o and Valle",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/ee-uu-destina-us48-mil-para-atender-incendios-en-tolima-narino-y-valle/",
-        "published_date": "2026-08-29 18:00:15",
-        "category": "Diplomacy"
+        "title": "Tension in Riohacha: funeral of a police officer murdered in Putumayo would coincide with that of the escort of the 'Bendito Menor'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/tension-en-riohacha-sepelio-de-policia-asesinado-en-putumayo-coincidiria-con-el-de-escolta-del-bendito-menor-3584008",
+        "published_date": "2026-09-06 14:41:18",
+        "category": "Military"
     },
     {
         "title": "Hit to 'Los Flacos' of Cartago, Valle, gang accused of murders, disappearances and drug trafficking: 130 arrests of the structure in the year",
@@ -231,11 +224,32 @@
         "category": "Military"
     },
     {
-        "title": "Army thwarted car bomb attack in C\u00facuta",
+        "title": "De la Espriella announces 'Energy Now Plan' to avoid rationing due to El Ni\u00f1o",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/ejercito-frustro-atentado-con-carro-bomba-en-cucuta/",
-        "published_date": "2026-09-02 14:17:57",
-        "category": "Military"
+        "url": "https://www.lasillavacia.com/en-vivo/de-la-espriella-anuncia-plan-energia-ya-para-evitar-racionamiento-por-el-nino/",
+        "published_date": "2026-09-06 22:54:01",
+        "category": "Energy"
+    },
+    {
+        "title": "Creg approved two measures within the Energy NOW Plan to anticipate El Ni\u00f1o",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/creg-aprobo-dos-medidas-dentro-del-plan-energia-ya-para-anticiparse-a-el-nino-4475746",
+        "published_date": "2026-09-06 21:49:29",
+        "category": "Energy"
+    },
+    {
+        "title": "Antioquia is not a paradise for birds",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-verde/antioquia-no-es-un-paraiso-para-las-aves/",
+        "published_date": "2026-09-06 19:00:00",
+        "category": "Energy"
+    },
+    {
+        "title": "Ecopetrol reported approval for the merger project with Parque Solar Port\u00f3n del Sol",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/ecopetrol-informo-aprobacion-para-proyecto-de-fusion-con-parque-solar-porton-del-sol-4475620",
+        "published_date": "2026-09-06 15:20:00",
+        "category": "Energy"
     },
     {
         "title": "Colombia grew old without getting rich",
@@ -350,34 +364,6 @@
         "category": "Energy"
     },
     {
-        "title": "Shock plan against El Ni\u00f1o: CREG activates energy savings program with surcharges and balances in favor starting this September 1st",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/plan-de-choque-frente-a-el-nino-la-creg-activa-programa-de-ahorro-energetico-con-recargos-y-saldos-a-favor-a-partir-de-este-primero-de-septiembre-3582621",
-        "published_date": "2026-09-01 09:17:15",
-        "category": "Energy"
-    },
-    {
-        "title": "Is your neighborhood on the list?This will be Emcali's interventions in aqueduct, energy and sewage this Tuesday, September 1",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/su-barrio-esta-en-la-lista-asi-seran-las-intervenciones-de-emcali-en-acueducto-energia-y-alcantarillado-este-martes-1-de-septiembre-3582591",
-        "published_date": "2026-09-01 07:58:43",
-        "category": "Energy"
-    },
-    {
-        "title": "The hydrocarbon sector could contribute up to $695 billion in income",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/el-sector-de-hidrocarburos-podria-aportar-hasta-695-billones-en-ingresos-durante-25-anos-4471388",
-        "published_date": "2026-09-01 05:01:10",
-        "category": "Energy"
-    },
-    {
-        "title": "Abelardo increased operating expenses and decreased investment in Environment",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/abelardo-aumento-gastos-de-funcionamiento-y-disminuyo-inversion-en-ambiente/",
-        "published_date": "2026-09-01 00:45:41",
-        "category": "Energy"
-    },
-    {
         "title": "Remittances only boost GDP in those departments with more financial inclusion",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/remesas-solo-impulsan-el-pib-en-aquellos-departamentos-con-mas-inclusion-financiera-4474963",
@@ -469,6 +455,111 @@
         "category": "Economy"
     },
     {
+        "title": "De la Espriella orders to review all photo fines after detecting possible irregularities",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/de-la-espriella-ordena-revisar-todas-las-fotomultas-tras-detectar-posibles-irregularidades-4475779",
+        "published_date": "2026-09-06 23:30:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cI let them rest\u201d: Roy Barreras announces that he is retiring from politics",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/los-dejo-descansar-roy-barreras-anuncia-que-se-retira-de-la-politica/",
+        "published_date": "2026-09-06 21:42:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "Spend your Sunday afternoon with our selection of recommended columns",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/pase-su-tarde-de-domingo-con-nuestra-seleccion-de-columnas-recomendadas/",
+        "published_date": "2026-09-06 19:20:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cali promotes the passion of being a birdkeeper: the 'Francisco Piedrahita Plata' diploma is born to promote birdwatching",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/cali-promueve-la-pasion-de-ser-pajarero-nace-el-diplomado-francisco-piedrahita-plata-para-potenciar-el-aviturismo-3584042",
+        "published_date": "2026-09-06 19:20:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "Governor of Choc\u00f3 asks for help in English, French, Italian, Portuguese and Spanish after strong earthquake in Colombia: 'Together for reconstruction'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/gobernadora-del-choco-pide-ayuda-en-ingles-frances-italiano-portugues-y-espanol-tras-fuerte-terremoto-en-colombia-juntos-por-la-reconstruccion-3584035",
+        "published_date": "2026-09-06 18:48:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "Power outages this Monday, September 7 in Barranquilla: these are the addresses and times announced by Air-e",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/cortes-de-luz-este-lunes-7-de-septiembre-en-barranquilla-estas-son-las-direcciones-y-horarios-anunciados-por-air-e-3584032",
+        "published_date": "2026-09-06 18:21:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "More than a thousand tons of materials begin the reconstruction of homes after the earthquake in Antioquia",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/mas-de-mil-toneladas-de-materiales-ponen-en-marcha-la-reconstruccion-de-viviendas-tras-el-terremoto-en-antioquia-3584029",
+        "published_date": "2026-09-06 18:06:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tremor today in Choc\u00f3 |They report an earthquake of magnitude greater than 3 on the afternoon of this Sunday, September 6: depth",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-hoy-en-choco-reportan-sismo-de-magnitud-mayor-a-3-en-la-tarde-de-este-domingo-6-de-septiembre-profundidad-3584028",
+        "published_date": "2026-09-06 17:54:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ungrd: there are 13 active fires in the country",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/ungrd-hay-13-incendios-activos-en-el-pais/",
+        "published_date": "2026-09-06 17:50:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tremor today in Colombia |They report an earthquake of greater magnitude 3 on the afternoon of this Sunday, September 6: epicenter and depth",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-hoy-en-colombia-reportan-sismo-de-magnitud-mayor-3-en-la-tarde-de-este-domingo-6-de-septiembre-epicentro-y-profundidad-3584021",
+        "published_date": "2026-09-06 17:05:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "Barranquilla will have new sources and climatic shelters to face the heat: these are the sectors where they could be located",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-tendra-nuevas-fuentes-y-refugios-climaticos-para-enfrentar-el-calor-estos-son-los-sectores-donde-podrian-ubicarse-3584019",
+        "published_date": "2026-09-06 16:46:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ombudsman questions De la Espriella for walking among corpses in Guaviare",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/defensoria-cuestiona-a-de-la-espriella-por-caminar-entre-cadaveres-en-guaviare/",
+        "published_date": "2026-09-06 15:44:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "President De La Espriella says he has identified those who shot in the air at the reception of the body of 'Bendito Menor' in Riohacha",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/el-presidente-de-la-espriella-dice-tener-identificados-a-quienes-dispararon-al-aire-en-el-recibimiento-del-cuerpo-de-bendito-menor-en-riohacha-3584012",
+        "published_date": "2026-09-06 15:36:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "Two runners suffered health complications during the Medell\u00edn Marathon: report from Mayor Federico Guti\u00e9rrez",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/dos-corredores-sufrieron-complicaciones-de-salud-durante-la-maraton-medellin-reporte-del-alcalde-federico-gutierrez-3584010",
+        "published_date": "2026-09-06 15:10:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "Public schools must protect pluralism",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-educacion/la-escuela-publica-debe-proteger-el-pluralismo/",
+        "published_date": "2026-09-06 15:00:00",
+        "category": "Local Events"
+    },
+    {
         "title": "Kfir fighter planes fly over Oca\u00f1a and C\u00facuta after terrorist attack in Catatumbo",
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/otras-ciudades/aviones-de-combate-kfir-sobrevuelan-ocana-y-cucuta-tras-ataque-terrorista-en-el-catatumbo-3583941",
@@ -501,111 +592,6 @@
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/minambiente-anuncia-liberacion-de-cocodrilos-del-orinoco-en-rios-y-humedales-4475573",
         "published_date": "2026-09-06 00:49:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "Will God provide?On the idea of \u200b\u200ba \u201cMiracle Homeland\u201d",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/dios-proveera-sobre-la-idea-de-una-patria-milagro/",
-        "published_date": "2026-09-05 23:48:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "President announces measures to accelerate reconstruction of Cuarto de Legua, Cali neighborhood",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/presidente-anuncia-medidas-para-acelerar-reconstruccion-de-cuarto-de-legua-barrio-de-cali-4475549",
-        "published_date": "2026-09-05 23:22:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Coffee growers went to the polls on the first day of the 2026 Coffee Elections",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/caficultores-acudieron-a-las-urnas-en-la-primera-jornada-de-las-elecciones-cafeteras-2026-4475538",
-        "published_date": "2026-09-05 22:58:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "Will de la Espriella make political sacrifices to save the economy?",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/opinion/de-la-espriella-hara-sacrificios-politicos-para-salvar-la-economia/",
-        "published_date": "2026-09-05 22:09:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cundinamarca Government reported that there are six forest fires in the department",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/gobernacion-de-cundinamarca-informo-que-hay-seis-incendios-forestales-en-el-departamento-4475513",
-        "published_date": "2026-09-05 21:41:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Another judge restricts the government from bombing if there are minors in Guaviare",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/otro-juez-restringe-al-gobierno-bombardear-si-hay-menores-en-guaviare/",
-        "published_date": "2026-09-05 21:17:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "It shook near Bogot\u00e1: a 3.1 magnitude earthquake was recorded this Saturday in Cundinamarca and had a depth of 145 kilometers",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblo-cerca-de-bogota-sismo-de-magnitud-3-1-se-registro-este-sabado-en-cundinamarca-y-tuvo-una-profundidad-de-145-kilometros-3583905",
-        "published_date": "2026-09-05 20:04:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "XM asks to increase thermal generation due to the risk of a very strong El Ni\u00f1o",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/xm-pide-aumentar-generacion-termica-ante-el-riesgo-de-un-fenomeno-de-el-nino-muy-fuerte-4475440",
-        "published_date": "2026-09-05 19:35:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Organizations denounce an increase in femicides in the region: 'They are killing the women of Nari\u00f1o'",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/organizaciones-denuncian-un-incremento-de-feminicidios-en-la-region-a-las-mujeres-narinenses-nos-estan-matando-3583904",
-        "published_date": "2026-09-05 19:15:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Heat wave in Colombia: these are the municipalities that recorded the highest temperatures, according to the latest Ideam report",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/ola-de-calor-en-colombia-estos-son-los-municipios-que-registraron-las-temperaturas-mas-altas-segun-el-ultimo-informe-del-ideam-3583902",
-        "published_date": "2026-09-05 19:09:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "Public information is not restricted to friendly media",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/la-informacion-publica-no-se-restringe-a-medios-amigos/",
-        "published_date": "2026-09-05 19:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Latin America and the Caribbean, trapped between disasters and low growth",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/opinion/america-latina-y-el-caribe-atrapada-entre-desastres-y-bajo-crecimiento/",
-        "published_date": "2026-09-05 18:39:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ideam alerts about landslides in Colombia: these are the departments and municipalities at greatest risk",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/ideam-alerta-por-deslizamientos-en-colombia-estos-son-los-departamentos-y-municipios-bajo-mayor-riesgo-3583894",
-        "published_date": "2026-09-05 18:20:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cabal asks the Constitutional Court to review his case on the UP genocide",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/cabal-pide-a-la-corte-constitucional-revisar-su-caso-sobre-genocidio-de-la-up/",
-        "published_date": "2026-09-05 17:50:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "President Abelardo de la Espriella announced investments for the reconstruction of Buga",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/el-presidente-abelardo-de-la-espriella-anuncio-inversiones-para-la-reconstruccion-de-buga-4475442",
-        "published_date": "2026-09-05 17:44:15",
         "category": "Local Events"
     }
 ]
