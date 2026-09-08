@@ -1,5 +1,19 @@
 [
     {
+        "title": "Chancellor said that meeting with Rubio will serve to rebuild the alliance with the United States.",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/canciller-bula-dijo-que-reunion-con-rubio-servira-para-reconstruir-la-alianza-con-ee-uu-4476781",
+        "published_date": "2026-09-08 11:38:39",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Marco Rubio comes to discuss a binational relationship of US$31,000 million",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/marco-rubio-llega-a-barranquilla-a-discutir-una-relacion-binacional-de-us-31-000-millones-4476786",
+        "published_date": "2026-09-08 05:01:50",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Abelardo ordered support for Plazas Vega in his trial in the US.",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/abelardo-ordeno-respaldar-a-plazas-vega-en-su-proceso-en-ee-uu/",
@@ -75,6 +89,27 @@
         "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/detector-petro-no-asumio-la-presidencia-de-las-naciones-unidas/",
         "published_date": "2026-09-01 00:29:09",
         "category": "Diplomacy"
+    },
+    {
+        "title": "Prosecutor's Office reactivates arrest warrants against former members of Comuneros del Sur",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/fiscalia-reactiva-ordenes-de-captura-contra-exmiembros-de-comuneros-del-sur/",
+        "published_date": "2026-09-08 14:21:15",
+        "category": "Military"
+    },
+    {
+        "title": "Security, trade and values: the agenda of De la Espriella and Rubio",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/seguridad-comercio-y-valores-la-agenda-de-de-la-espriella-y-rubio/",
+        "published_date": "2026-09-08 13:47:14",
+        "category": "Military"
+    },
+    {
+        "title": "They report an attack against the Police substation of the Guamalito district, Norte de Santander;Gunshots and gunshots were heard.",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/reportan-un-ataque-contra-la-subestacion-de-policia-del-corregimiento-de-guamalito-norte-de-santander-se-escucharon-detonaciones-y-rafagas-de-fusil-3584364",
+        "published_date": "2026-09-08 00:55:58",
+        "category": "Military"
     },
     {
         "title": "This was the life of Marco David Piraj\u00f3n, captain murdered in Oca\u00f1a: his father, Major (r) Marco Binicio Piraj\u00f3n, broke silence about his death",
@@ -196,25 +231,11 @@
         "category": "Military"
     },
     {
-        "title": "Counting captures and casualties does not measure security in Colombia",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/contar-capturas-y-bajas-no-mide-la-seguridad-en-colombia/",
-        "published_date": "2026-09-03 21:00:00",
-        "category": "Military"
-    },
-    {
-        "title": "In a stolen truck, a man tried to ram a Police checkpoint in San Pedro, Valle: he was captured with 458.5 kilos of marijuana",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/en-una-camioneta-robada-un-hombre-intento-embestir-un-puesto-de-control-de-la-policia-en-san-pedro-valle-fue-capturado-con-458-5-kilos-de-marihuana-3583434",
-        "published_date": "2026-09-03 18:58:00",
-        "category": "Military"
-    },
-    {
-        "title": "Kidnapping of eight people revealed the public order crisis in Anor\u00ed: Governor of Antioquia called for urgent intervention",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/secuestro-de-ocho-personas-dejo-en-evidencia-la-crisis-de-orden-publico-de-anori-gobernador-de-antioquia-hizo-llamado-a-intervencion-urgente-3583224",
-        "published_date": "2026-09-03 09:38:53",
-        "category": "Military"
+        "title": "Deficit in the first half of the year reached $66 billion and 3.3% of the Gross Domestic Product",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/deficit-del-primer-semestre-del-ano-llego-hasta-66-billones-y-3-3-del-pib-4476467",
+        "published_date": "2026-09-08 05:01:09",
+        "category": "Energy"
     },
     {
         "title": "This is Sebasti\u00e1n Ortega, the man who will be charged along with Miguel Quintero and that Federico Guti\u00e9rrez points out as key in the Ecopetrol file",
@@ -350,11 +371,11 @@
         "category": "Energy"
     },
     {
-        "title": "\u201cThe train should be the backbone; let the trucks cover the last mile\u201d",
+        "title": "Accommodation and food pressured the cost of living in the eighth month of this course",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/el-tren-debe-ser-la-columna-vertebral-que-la-ultima-milla-la-cubran-los-camiones-4472181",
-        "published_date": "2026-09-01 21:01:46",
-        "category": "Energy"
+        "url": "https://www.larepublica.co/economia/alojamiento-y-alimentos-presionaron-el-costo-de-vida-en-el-octavo-mes-del-ano-4476655",
+        "published_date": "2026-09-08 05:01:38",
+        "category": "Economy"
     },
     {
         "title": "Sleep informed with the movements of this September 7, 2026",
@@ -469,18 +490,102 @@
         "category": "Economy"
     },
     {
-        "title": "The Minister of Finance, Miguel G\u00f3mez Mart\u00ednez, made his debut on the Board of Directors of the Issuer",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/miguel-gomez-se-estreno-en-la-junta-directiva-del-banco-de-la-republica-4470949",
-        "published_date": "2026-08-31 14:32:25",
-        "category": "Economy"
+        "title": "And the opposition?",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/y-la-oposicion/",
+        "published_date": "2026-09-08 12:34:44",
+        "category": "Local Events"
     },
     {
-        "title": "The fundamentals in the macroeconomy with which the \u201cbre\u201d months will begin",
+        "title": "Breakfast informed with the movements of this September 8, 2026",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-movidas-de-este-8-de-septiembre-de-2026/",
+        "published_date": "2026-09-08 12:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The miracle: the Development Plan must start with the regions",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/el-milagro-el-plan-de-desarrollo-debe-empezar-por-las-regiones/",
+        "published_date": "2026-09-08 12:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Video |This is how two men and three women committed crimes who, through ant thefts, had hit a chain of stores in Yumbo",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/video-asi-delinquian-dos-hombres-y-tres-mujeres-que-mediante-hurtos-hormiga-tenian-azotada-una-cadena-de-almacenes-en-yumbo-3584417",
+        "published_date": "2026-09-08 09:42:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "The emotional message that 'Lucho' D\u00edaz gave to Lucas Murillo, a boy who went viral for asking President De La Espriella for help for his health",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/el-emotivo-mensaje-que-le-dio-lucho-diaz-a-lucas-murillo-nino-que-se-hizo-viral-por-pedir-ayuda-para-su-salud-al-presidente-de-la-espriella-3584404",
+        "published_date": "2026-09-08 08:56:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "Video |For defending 'La Blanquita'?The Spanish streamer Naim Darrechi came to blows with a merchant from the center of Cali",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/video-por-defender-a-la-blanquita-el-streamer-espanol-naim-darrechi-se-fue-a-los-golpes-con-un-comerciante-del-centro-de-cali-3584403",
+        "published_date": "2026-09-08 08:32:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "Prohibition law, yellow alert and road closures in Barranquilla due to Marco Rubio's visit this September 8 and 9",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/ley-seca-alerta-amarilla-y-cierres-viales-en-barranquilla-por-la-visita-de-marco-rubio-este-8-y-9-de-septiembre-3584386",
+        "published_date": "2026-09-08 07:04:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "Inside De la Espriella's meeting with the cocoas in Choc\u00f3",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/dentro-de-la-reunion-de-de-la-espriella-con-los-cacaos-en-choco/",
+        "published_date": "2026-09-08 06:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tremor today in Colombia |Earthquake during the early hours of this Tuesday, September 8: epicenter, depth and details",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-hoy-en-colombia-sismo-durante-la-madrugada-de-este-martes-8-de-septiembre-epicentro-profundidad-y-detalles-3584370",
+        "published_date": "2026-09-08 05:37:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "Who is who among the bidders to build Line 2 of the Bogot\u00e1 Metro?",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/los-fundamentales-macroeconomicos-con-los-que-empiezan-los-meses-bre-4469643",
-        "published_date": "2026-08-31 05:03:22",
-        "category": "Economy"
+        "url": "https://www.larepublica.co/economia/quien-es-quien-entre-los-oferentes-para-la-linea-2-del-metro-de-bogota-4476556",
+        "published_date": "2026-09-08 05:02:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "Watch out for the beak and plate in Medell\u00edn!These are the license plates of cars, motorcycles and taxis that will not be able to circulate this Tuesday, September 8",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/ojo-al-pico-y-placa-en-medellin-estas-son-las-placas-de-carros-motos-y-taxis-que-no-podran-circular-este-martes-8-de-septiembre-3584215",
+        "published_date": "2026-09-08 03:44:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Drive carefully!Peak and plate in Cali for this Tuesday, September 8, 2026: these are the plates with restriction",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/conduzca-con-precaucion-pico-y-placa-en-cali-para-este-martes-8-de-septiembre-de-2026-estas-son-las-placas-con-restriccion-3584213",
+        "published_date": "2026-09-08 03:38:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Batteries with the pick and plate in Bucaramanga!These are the license plates of cars, motorcycles and taxis that will not be able to circulate this Tuesday, September 8",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/pilas-con-el-pico-y-placa-en-bucaramanga-estas-son-las-placas-de-carros-motos-y-taxis-que-no-podran-circular-este-martes-8-de-septiembre-3584210",
+        "published_date": "2026-09-08 03:29:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The USC Arena, the scene where President Abelardo De La Espriella took office, the best in Latin America, according to specialized media",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/la-arena-usc-escenario-donde-se-posesiono-el-presidente-abelardo-de-la-espriella-el-mejor-de-latinoamerica-segun-medio-especializado-3584363",
+        "published_date": "2026-09-07 23:48:51",
+        "category": "Local Events"
     },
     {
         "title": "With internal differences, the liberals declare themselves the government party",
@@ -522,104 +627,6 @@
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/deficit-comercial-con-china-ya-ronda-los-us-20-000-millones-el-mayor-de-suramerica-4476493",
         "published_date": "2026-09-07 22:08:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "This was Arjona's intervention in the dialogue of the Biodiversity Convention",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/asi-fue-la-intervencion-de-arjona-en-dialogo-de-la-convencion-de-biodiversidad/",
-        "published_date": "2026-09-07 22:03:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "Robert Alexy, the jurist who returned reason to the law",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-derecho-constitucional/robert-alexy-el-jurista-que-devolvio-la-razon-al-derecho/",
-        "published_date": "2026-09-07 22:01:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Together with the cocoas, Abelardo announces a reconstruction plan for Choc\u00f3",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/junto-a-los-cacaos-abelardo-anuncia-un-plan-de-reconstruccion-para-choco/",
-        "published_date": "2026-09-07 21:04:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "Issuer made definitive purchases of TES B in the market for $1.5 billion",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/emisor-efectuo-compras-definitivas-de-tes-b-en-el-mercado-por-1-5-billones-4476286",
-        "published_date": "2026-09-07 19:16:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tragedy in the Medell\u00edn Marathon: the young athlete who suffered a medical complication in the middle of the race died",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/tragedia-en-la-maraton-medellin-murio-la-joven-atleta-que-sufrio-una-complicacion-medica-en-plena-carrera-3584323",
-        "published_date": "2026-09-07 19:00:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "Unexpected twist in the death of a young man in Floridablanca: victim did not die from medication consumption, but from strangulation at the hands of her boyfriend",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/giro-inesperado-en-la-muerte-de-joven-en-floridablanca-victima-no-murio-por-consumo-de-medicamentos-sino-por-estrangulamiento-a-manos-de-su-novio-3584247",
-        "published_date": "2026-09-07 18:31:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "'Don't eat a story': the Cali Mayor's Office clarifies that there will be no earthquake evacuation drill this Tuesday, September 8",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/no-coma-cuento-la-alcaldia-de-cali-aclara-que-no-habra-simulacro-de-evacuacion-este-martes-8-de-septiembre-3584308",
-        "published_date": "2026-09-07 18:15:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tutela ruled in favor of the mayor of Medell\u00edn: Federico Guti\u00e9rrez will not have to recant after describing Daniel Quintero as the 'chief of the gang'",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/tutela-fallo-a-favor-del-alcalde-de-medellin-federico-gutierrez-no-tendra-que-retractarse-tras-calificar-a-daniel-quintero-como-el-jefe-de-la-banda-3584297",
-        "published_date": "2026-09-07 17:44:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "The international bidders competing for the second line of the Bogot\u00e1 Metro",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/estos-son-los-grupos-internacionales-que-compiten-por-construir-la-segunda-linea-del-metro-4476187",
-        "published_date": "2026-09-07 17:32:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Articulated work managed to put out a voracious forest fire of more than 5 hectares in Guatap\u00e9, Antioquia",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/trabajo-articulado-logro-apagar-un-voraz-incendio-forestal-de-mas-de-5-hectareas-en-guatape-antioquia-3584284",
-        "published_date": "2026-09-07 17:11:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "Two Metro trains traveled together along the Line 1 viaduct during tests",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/dos-trenes-del-metro-recorrieron-juntos-el-viaducto-de-la-linea-1-durante-pruebas-4476174",
-        "published_date": "2026-09-07 17:08:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "He sold tamales and raffles in Monter\u00eda to fulfill his dream of celebrating his 15th birthday: his favorite artist arrived as a surprise and sang to him in the middle of the party",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/vendia-tamales-y-rifas-en-monteria-para-cumplir-su-sueno-de-celebrar-sus-15-anos-su-artista-favorito-llego-de-sorpresa-y-le-canto-en-plena-fiesta-3584272",
-        "published_date": "2026-09-07 17:06:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "End of 'Hope' in the north of the Valley: authorities dismantle criminal network that generated up to $45 million monthly",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/fin-de-la-esperanza-en-el-norte-del-valle-autoridades-desarticulan-red-criminal-que-generaba-hasta-45-millones-mensuales-3584277",
-        "published_date": "2026-09-07 17:06:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "Changes in mobility after dismantling the Seventh and 100th vehicular bridge",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/los-cambios-en-movilidad-con-el-desmonte-del-puente-vehicular-de-la-septima-con-100-4476139",
-        "published_date": "2026-09-07 16:56:43",
         "category": "Local Events"
     }
 ]
