@@ -1,5 +1,47 @@
 [
     {
+        "title": "Rubio and Abelardo announce \u201crebirth\u201d of the relationship between Colombia and the United States",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/rubio-y-abelardo-firman-acuerdos-y-anuncian-renacer-diplomatico/",
+        "published_date": "2026-09-08 21:59:32",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Colombia and the US sign the \"Barranquilla Agreement\" for binational cooperation",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/siga-el-cubrimiento-del-encuentro-entre-el-secretario-marco-rubio-y-el-gobierno-4477119",
+        "published_date": "2026-09-08 18:24:05",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "The Son de Negro Festival of Santa Luc\u00eda will have a House Museum, a monument and training schools thanks to the law that declared it national heritage",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/el-festival-son-de-negro-de-santa-lucia-tendra-casa-museo-monumento-y-escuelas-de-formacion-gracias-a-la-ley-que-lo-declaro-patrimonio-de-la-nacion-3584584",
+        "published_date": "2026-09-08 18:01:00",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "In the coming days the dismantling of the 12.5% \u200b\u200btariff with the US will be announced.",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/en-proximos-dias-se-anunciara-el-desmonte-del-arancel-de-12-5-con-ee-uu-4477058",
+        "published_date": "2026-09-08 17:15:41",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "\"Colombia elected someone I know very well, very aligned with the US.\"",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/marco-rubio-hablo-previo-al-encuentro-con-de-la-espriella-4477059",
+        "published_date": "2026-09-08 16:55:32",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Santander reacted to Marco Rubio's visit to Colombia: this is what the governor said after his arrival in Barranquilla",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/santander-reacciono-a-la-visita-de-marco-rubio-a-colombia-esto-fue-lo-que-dijo-el-gobernador-tras-su-llegada-a-barranquilla-3584570",
+        "published_date": "2026-09-08 16:47:53",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Chancellor said that meeting with Rubio will serve to rebuild the alliance with the United States.",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/canciller-bula-dijo-que-reunion-con-rubio-servira-para-reconstruir-la-alianza-con-ee-uu-4476781",
@@ -84,11 +126,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Detector: Petro did not assume the presidency of the United Nations",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/detector-petro-no-asumio-la-presidencia-de-las-naciones-unidas/",
-        "published_date": "2026-09-01 00:29:09",
-        "category": "Diplomacy"
+        "title": "Cartagena Police exceeds 490 illegal firearms seized on the streets from crime so far in 2026",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/policia-de-cartagena-supera-las-490-armas-de-fuego-ilegales-incautadas-en-las-calles-a-la-delincuencia-en-lo-que-va-del-3584582",
+        "published_date": "2026-09-08 17:30:54",
+        "category": "Military"
     },
     {
         "title": "Prosecutor's Office reactivates arrest warrants against former members of Comuneros del Sur",
@@ -224,11 +266,18 @@
         "category": "Military"
     },
     {
-        "title": "Although they are prohibited, the Police confirmed that the collapse of a stage at Corralejas parties in Bol\u00edvar left 25 people injured",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/pese-a-que-estan-prohibidas-la-policia-confirmo-que-el-desplome-de-un-tablado-en-fiestas-de-corralejas-en-bolivar-dejo-25-personas-heridas-3583527",
-        "published_date": "2026-09-04 08:16:42",
-        "category": "Military"
+        "title": "De la Espriella's first mining congress: the mining sector asks for more State and clear rules",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-verde/primer-congreso-minero-de-de-la-espriella-el-sector-minero-pide-mas-estado-y-reglas-claras/",
+        "published_date": "2026-09-08 21:00:00",
+        "category": "Energy"
+    },
+    {
+        "title": "Government has not consulted the entry of gringo troops with the Council of State",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/gobierno-no-ha-consultado-ingreso-de-tropas-gringas-con-consejo-de-estado/",
+        "published_date": "2026-09-08 20:39:34",
+        "category": "Energy"
     },
     {
         "title": "Deficit in the first half of the year reached $66 billion and 3.3% of the Gross Domestic Product",
@@ -357,18 +406,18 @@
         "category": "Energy"
     },
     {
-        "title": "Acolgen pointed out that they support the energy saving program established by the Creg",
+        "title": "MinMinas assured that it has a $6 billion deficit for subsidies in the electricity sector",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/acolgen-senalo-que-respaldan-el-programa-de-ahorro-de-energia-establecido-por-la-creg-4472471",
-        "published_date": "2026-09-02 00:36:40",
-        "category": "Energy"
+        "url": "https://www.larepublica.co/economia/minminas-aseguro-que-tiene-6-billones-de-deficit-para-subsidios-del-sector-electrico-4477026",
+        "published_date": "2026-09-08 16:41:41",
+        "category": "Economy"
     },
     {
-        "title": "Community organization must compensate Ecopetrol for blockages",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/organizacion-comunitaria-debera-indemnizar-a-ecopetrol-por-bloqueos/",
-        "published_date": "2026-09-01 23:36:42",
-        "category": "Energy"
+        "title": "Gross debt reached levels of $1,160 trillion at the end of July, which is equivalent to 60.1% of GDP",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/deuda-bruta-llego-a-1-160-billones-en-julio-equivale-a-60-1-del-pib-4476919",
+        "published_date": "2026-09-08 16:18:32",
+        "category": "Economy"
     },
     {
         "title": "Accommodation and food pressured the cost of living in the eighth month of this course",
@@ -483,150 +532,143 @@
         "category": "Economy"
     },
     {
-        "title": "Anif warns that financing needs double and reach $266 billion",
+        "title": "Such a peasantry does exist",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-rural/el-tal-campesinado-si-existe/",
+        "published_date": "2026-09-09 00:26:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "Sleep informed with the keys to this September 8, 2026",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-claves-de-este-8-de-septiembre-de-2026/",
+        "published_date": "2026-09-09 00:19:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "In his first 18 days, Abelardo's trips cost more than a billion",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/en-sus-primeros-18-dias-viajes-de-abelardo-costaron-mas-de-mil-millones/",
+        "published_date": "2026-09-09 00:10:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "Peasants ask the new government to be recognized as political subjects",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/campesinos-piden-a-nuevo-gobierno-ser-reconocidos-como-sujetos-politicos/",
+        "published_date": "2026-09-08 23:23:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "Andi elects board of directors, while Mac Master remains president",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/andi-elige-mesa-directiva-mientras-mac-master-sigue-en-presidencia/",
+        "published_date": "2026-09-08 23:09:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "They are not farmers, but small rural businessmen: MinAgricultura",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/no-son-campesinos-sino-pequenos-empresarios-del-campo-minagricultura/",
+        "published_date": "2026-09-08 22:40:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "Councilor asked to archive Gal\u00e1n's tax reform due to alleged procedural defects",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/anif-alerta-que-necesidades-de-financiamiento-se-duplican-y-llegan-a-266-billones-4471108",
-        "published_date": "2026-08-31 18:06:29",
-        "category": "Economy"
+        "url": "https://www.larepublica.co/economia/concejal-pidio-archivar-reforma-tributaria-de-galan-por-presuntos-vicios-de-tramite-4477430",
+        "published_date": "2026-09-08 22:36:28",
+        "category": "Local Events"
     },
     {
-        "title": "And the opposition?",
+        "title": "Government congressmen ask to increase investment in the budget",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/y-la-oposicion/",
-        "published_date": "2026-09-08 12:34:44",
+        "url": "https://www.lasillavacia.com/en-vivo/congresistas-gobiernistas-piden-aumentar-la-inversion-en-el-presupuesto/",
+        "published_date": "2026-09-08 22:28:13",
         "category": "Local Events"
     },
     {
-        "title": "Breakfast informed with the movements of this September 8, 2026",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-movidas-de-este-8-de-septiembre-de-2026/",
-        "published_date": "2026-09-08 12:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The miracle: the Development Plan must start with the regions",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/el-milagro-el-plan-de-desarrollo-debe-empezar-por-las-regiones/",
-        "published_date": "2026-09-08 12:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Video |This is how two men and three women committed crimes who, through ant thefts, had hit a chain of stores in Yumbo",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/video-asi-delinquian-dos-hombres-y-tres-mujeres-que-mediante-hurtos-hormiga-tenian-azotada-una-cadena-de-almacenes-en-yumbo-3584417",
-        "published_date": "2026-09-08 09:42:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "The emotional message that 'Lucho' D\u00edaz gave to Lucas Murillo, a boy who went viral for asking President De La Espriella for help for his health",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/el-emotivo-mensaje-que-le-dio-lucho-diaz-a-lucas-murillo-nino-que-se-hizo-viral-por-pedir-ayuda-para-su-salud-al-presidente-de-la-espriella-3584404",
-        "published_date": "2026-09-08 08:56:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "Video |For defending 'La Blanquita'?The Spanish streamer Naim Darrechi came to blows with a merchant from the center of Cali",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/video-por-defender-a-la-blanquita-el-streamer-espanol-naim-darrechi-se-fue-a-los-golpes-con-un-comerciante-del-centro-de-cali-3584403",
-        "published_date": "2026-09-08 08:32:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "Prohibition law, yellow alert and road closures in Barranquilla due to Marco Rubio's visit this September 8 and 9",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/ley-seca-alerta-amarilla-y-cierres-viales-en-barranquilla-por-la-visita-de-marco-rubio-este-8-y-9-de-septiembre-3584386",
-        "published_date": "2026-09-08 07:04:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "Inside De la Espriella's meeting with the cocoas in Choc\u00f3",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/dentro-de-la-reunion-de-de-la-espriella-con-los-cacaos-en-choco/",
-        "published_date": "2026-09-08 06:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tremor today in Colombia |Earthquake during the early hours of this Tuesday, September 8: epicenter, depth and details",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-hoy-en-colombia-sismo-durante-la-madrugada-de-este-martes-8-de-septiembre-epicentro-profundidad-y-detalles-3584370",
-        "published_date": "2026-09-08 05:37:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Who is who among the bidders to build Line 2 of the Bogot\u00e1 Metro?",
+        "title": "Allies presented a report to reduce labor informality in the national territory",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/quien-es-quien-entre-los-oferentes-para-la-linea-2-del-metro-de-bogota-4476556",
-        "published_date": "2026-09-08 05:02:28",
+        "url": "https://www.larepublica.co/economia/aliadas-presento-informe-para-reducir-la-informalidad-laboral-en-el-pais-4477240",
+        "published_date": "2026-09-08 19:59:53",
         "category": "Local Events"
     },
     {
-        "title": "Watch out for the beak and plate in Medell\u00edn!These are the license plates of cars, motorcycles and taxis that will not be able to circulate this Tuesday, September 8",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/ojo-al-pico-y-placa-en-medellin-estas-son-las-placas-de-carros-motos-y-taxis-que-no-podran-circular-este-martes-8-de-septiembre-3584215",
-        "published_date": "2026-09-08 03:44:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Drive carefully!Peak and plate in Cali for this Tuesday, September 8, 2026: these are the plates with restriction",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/conduzca-con-precaucion-pico-y-placa-en-cali-para-este-martes-8-de-septiembre-de-2026-estas-son-las-placas-con-restriccion-3584213",
-        "published_date": "2026-09-08 03:38:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Batteries with the pick and plate in Bucaramanga!These are the license plates of cars, motorcycles and taxis that will not be able to circulate this Tuesday, September 8",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/pilas-con-el-pico-y-placa-en-bucaramanga-estas-son-las-placas-de-carros-motos-y-taxis-que-no-podran-circular-este-martes-8-de-septiembre-3584210",
-        "published_date": "2026-09-08 03:29:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The USC Arena, the scene where President Abelardo De La Espriella took office, the best in Latin America, according to specialized media",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/la-arena-usc-escenario-donde-se-posesiono-el-presidente-abelardo-de-la-espriella-el-mejor-de-latinoamerica-segun-medio-especializado-3584363",
-        "published_date": "2026-09-07 23:48:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "With internal differences, the liberals declare themselves the government party",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/con-diferencias-internas-los-liberales-se-declaran-partido-de-gobierno/",
-        "published_date": "2026-09-07 23:40:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "Detector: there is no national strike called for September 20",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/detector-no-hay-un-paro-nacional-convocado-para-el-20-de-septiembre/",
-        "published_date": "2026-09-07 23:35:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "Without polls: the mystery of De la Espriella's favorability",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/sin-encuestas-el-misterio-de-la-favorabilidad-de-de-la-espriella/",
-        "published_date": "2026-09-07 23:16:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "Protect minors without violating their rights",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-democracia-y-tecnologia/los-inciertos-caminos-de-la-union-europea-y-ee-uu-para-obligar-a-las-redes-a-proteger-a-los-menores/",
-        "published_date": "2026-09-07 22:42:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "MinTransporte proposes a $1 billion package for roads and connectivity in Choc\u00f3",
+        "title": "Andeg and Fenalcarb\u00f3n ask to include thermal generation in expansion auction",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/mintransporte-plantea-paquete-de-1-billon-para-vias-y-conectividad-del-choco-4476527",
-        "published_date": "2026-09-07 22:32:55",
+        "url": "https://www.larepublica.co/economia/andeg-y-fenalcarbon-piden-incluir-generacion-termica-en-subasta-de-expansion-4477222",
+        "published_date": "2026-09-08 19:51:53",
         "category": "Local Events"
     },
     {
-        "title": "Trade deficit with China is already around US$20 billion, the largest in South America",
+        "title": "President of the Council asked for a minute of silence for Juliana, a young woman who died in the Medell\u00edn Marathon: she had a connection with the vice president's family",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/presidente-del-concejo-de-medellin-pidio-un-minuto-de-silencio-por-la-muerte-en-la-maraton-de-juliana-novia-de-un-hijo-del-vicepresidente-restrepo-3584575",
+        "published_date": "2026-09-08 19:45:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Video: Migration Colombia assures that operations in search of irregular foreign citizens have not suffered alterations",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/video-migracion-colombia-asegura-que-operativos-en-busca-de-ciudadanos-extranjeros-irregulares-no-han-sufrido-alteraciones-3584600",
+        "published_date": "2026-09-08 18:22:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "In video: Tension in Manrique due to an evacuation operation of families from 73 homes in a high-risk area of \u200b\u200bthe La Tebaida ravine",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/en-video-tension-en-manrique-por-operativo-de-evacuacion-de-familias-de-73-viviendas-en-zona-de-alto-riesgo-de-la-quebrada-la-tebaida-3584606",
+        "published_date": "2026-09-08 18:07:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "Rubio responds to Verano that the US will study the reopening of the Consular Agency in Barranquilla after receiving the formal letter of intent",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/rubio-le-responde-a-verano-que-ee-uu-estudiara-la-reapertura-de-la-agencia-consular-en-barranquilla-tras-recibir-la-carta-de-intencion-formal-3584595",
+        "published_date": "2026-09-08 17:53:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Medell\u00edn recorded better water saving figures, but is still far from the goals: Federico Guti\u00e9rrez once again issued warnings in the face of the crisis",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/medellin-registro-mejores-cifras-de-ahorro-de-agua-pero-aun-esta-lejos-de-las-metas-federico-gutierrez-volvio-a-lanzar-advertencias-ante-la-crisis-3584580",
+        "published_date": "2026-09-08 17:29:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "The drastic sanction to a doctor in Medell\u00edn for a case of sexual abuse within his office",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/la-drastica-sancion-a-un-medico-en-medellin-por-un-caso-de-abuso-sexual-dentro-de-su-consultorio-3584591",
+        "published_date": "2026-09-08 17:23:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "Democratic Center proposes to MinVivienda to take back Mi Casa Ya due to earthquake",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/deficit-comercial-con-china-ya-ronda-los-us-20-000-millones-el-mayor-de-suramerica-4476493",
-        "published_date": "2026-09-07 22:08:02",
+        "url": "https://www.larepublica.co/economia/centro-democratico-propone-a-minvivienda-retomar-mi-casa-ya-por-terremoto-4477067",
+        "published_date": "2026-09-08 17:07:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "Carlos Vives concert in Bucaramanga is rescheduled: the date that was for October 16 will now be for 2027;these were the reasons",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/reprograman-concierto-de-carlos-vives-en-bucaramanga-la-fecha-que-era-para-el-16-de-octubre-ahora-sera-para-el-2027-estas-fueron-las-razones-3584581",
+        "published_date": "2026-09-08 17:04:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "Minister of Agriculture reported that hectares of land will no longer be purchased",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/ministro-de-agricultura-informo-que-no-se-seguiran-comprando-hectareas-de-tierra-4477047",
+        "published_date": "2026-09-08 17:02:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tatyana Orozco was elected as the new president of the Chamber of Infrastructure",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/la-economista-tatyana-orozco-fue-elegida-como-nueva-presidente-de-la-cci-4476987",
+        "published_date": "2026-09-08 15:33:58",
         "category": "Local Events"
     }
 ]
