@@ -126,6 +126,20 @@
         "category": "Diplomacy"
     },
     {
+        "title": "The debate on carrying weapons must consider the risks for women",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-las-mujeres/el-debate-sobre-el-porte-de-armas-debe-considerar-los-riesgos-para-las-mujeres/",
+        "published_date": "2026-09-09 23:04:01",
+        "category": "Military"
+    },
+    {
+        "title": "A mother and her three minor children were poisoned with benzodiazepines after consuming rice with chicken offered by a neighbor in Soledad",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/una-madre-y-sus-tres-hijos-menores-resultaron-intoxicados-con-benzodiacepinas-tras-consumir-un-arroz-con-pollo-ofrecido-por-un-vecino-en-soledad-3584900",
+        "published_date": "2026-09-09 17:30:00",
+        "category": "Military"
+    },
+    {
         "title": "The industry should not decide what Colombians eat",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/red-de-expertos/red-social/la-industria-no-debe-decidir-que-comen-los-colombianos/",
@@ -252,18 +266,18 @@
         "category": "Military"
     },
     {
-        "title": "Governor of Tolima decided to dispatch from Ataco, an area where armed groups murder police officers and attack mayors and military bases with drones",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/gobernadora-del-tolima-decidio-despachar-desde-ataco-zona-donde-grupos-armados-asesinan-a-policias-y-atacan-con-drones-alcaldias-y-bases-militares-3583729",
-        "published_date": "2026-09-04 17:59:59",
-        "category": "Military"
+        "title": "Ecopetrol prepares statutory reform and would keep Henao on the Board",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/ecopetrol-prepara-reforma-estatutaria-y-mantendria-a-henao-en-la-presidencia-de-la-junta-4477986",
+        "published_date": "2026-09-09 17:22:29",
+        "category": "Energy"
     },
     {
-        "title": "President De La Espriella announced the capture in Norte de Santander of 'Firulais', an ELN sniper accused of planning an attack against him",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/presidente-abelardo-de-la-espriella-anuncio-la-captura-en-santander-de-firulais-francotirador-del-eln-senalado-de-planear-un-atentado-en-su-contra-3583707",
-        "published_date": "2026-09-04 17:27:50",
-        "category": "Military"
+        "title": "Regasificadora del Pac\u00edfico will begin operating with 60 Mpcd of gas for Ecopetrol",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/regasificadora-del-pacifico-iniciara-a-operar-con-90-mpcd-de-gas-para-ecopetrol-4477985",
+        "published_date": "2026-09-09 16:44:13",
+        "category": "Energy"
     },
     {
         "title": "Public spending in Colombia can be reduced",
@@ -392,20 +406,6 @@
         "category": "Energy"
     },
     {
-        "title": "Ecopetrol exported 2,100 tons of solid sulfur to Brazil, Peru and Tanzania",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/ecopetrol-exporto-2-100-toneladas-de-azufre-solido-con-destino-a-brasil-peru-y-tanzania-4473781",
-        "published_date": "2026-09-03 17:36:46",
-        "category": "Energy"
-    },
-    {
-        "title": "Ministry of Mines and Energy repeals 10 resolutions that delimited mining districts",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/minminas-deroga-10-resoluciones-que-delimitaba-los-distritos-mineros-4473721",
-        "published_date": "2026-09-03 16:02:01",
-        "category": "Energy"
-    },
-    {
         "title": "External debt reached US$247,908 million in June, equivalent to 48.6% of GDP",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/deuda-externa-alcanzo-us-247-908-millones-en-junio-equivalente-a-48-6-del-pib-4477691",
@@ -525,150 +525,143 @@
         "category": "Economy"
     },
     {
-        "title": "\"The agreement has to be around fiscal adjustment because there is no other alternative\"",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/el-ministro-de-hacienda-miguel-gomez-aseguro-que-el-congreso-debe-apoyar-el-ajuste-fiscal-4471995",
-        "published_date": "2026-09-01 18:15:44",
-        "category": "Economy"
-    },
-    {
-        "title": "RegioTram del Norte opened the door to companies from 17 countries for its construction",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/regiotram-del-norte-abre-la-puerta-a-empresas-de-17-paises-para-su-construccion-4477802",
-        "published_date": "2026-09-09 13:51:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "Winners of the 2026 National Human Rights Award",
-        "source": "Verdad Abierta",
-        "url": "https://verdadabierta.com/ganadores-del-premio-nacional-de-derechos-humanos-de-2026/",
-        "published_date": "2026-09-09 13:40:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Artificial intelligence reproduces the history of exclusion of Latin America",
+        "title": "Sleep informed with the movements of this September 9, 2026",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-democracia-y-tecnologia/la-inteligencia-artificial-reproduce-la-historia-de-exclusion-de-america-latina/",
-        "published_date": "2026-09-09 13:28:25",
+        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-movidas-de-este-9-de-septiembre-de-2026/",
+        "published_date": "2026-09-10 00:50:57",
         "category": "Local Events"
     },
     {
-        "title": "Debate on the motion of censure against minVivienda will be today in the Senate",
+        "title": "JEP resolved the legal situation of more than a thousand appearing parties",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/debate-de-mocion-de-censura-contra-minvivienda-sera-hoy-en-el-senado/",
-        "published_date": "2026-09-09 13:14:30",
+        "url": "https://www.lasillavacia.com/en-vivo/jep-resolvio-la-situacion-juridica-de-mas-de-1-000-comparecientes/",
+        "published_date": "2026-09-10 00:28:49",
         "category": "Local Events"
     },
     {
-        "title": "Banco de Bogot\u00e1 warns that PGN suggests the worst scenario with a fiscal deficit of 9.4%",
+        "title": "School of Government of the Andes celebrated 20 years amidst challenges due to the era of AI",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/banco-de-bogota-advierte-que-pgn-sugiere-el-peor-escenario-con-deficit-fiscal-en-9-4-4477729",
-        "published_date": "2026-09-09 12:36:57",
+        "url": "https://www.larepublica.co/economia/escuela-de-gobierno-de-los-andes-cumplio-20-anos-en-medio-retos-por-la-era-de-la-ia-4478391",
+        "published_date": "2026-09-10 00:27:20",
         "category": "Local Events"
     },
     {
-        "title": "Have an informed breakfast with the keys to this September 9, 2026",
+        "title": "An agriculture without farmers?The bad start of De la Espriella's agrarian policy",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-claves-de-este-9-de-septiembre-de-2026/",
-        "published_date": "2026-09-09 12:31:00",
+        "url": "https://www.lasillavacia.com/red-de-expertos/un-agro-sin-campesinos-el-mal-comienzo-de-la-politica-agraria-de-de-la-espriella/",
+        "published_date": "2026-09-09 23:43:47",
         "category": "Local Events"
     },
     {
-        "title": "The religious power around Abelard",
+        "title": "Flip asks the government not to pressure the media one month into his mandate",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/el-poder-religioso-alrededor-de-abelardo/",
-        "published_date": "2026-09-09 12:00:00",
+        "url": "https://www.lasillavacia.com/en-vivo/flip-pide-al-gobierno-no-presionar-medios-a-un-mes-de-su-mandato/",
+        "published_date": "2026-09-09 23:40:52",
         "category": "Local Events"
     },
     {
-        "title": "Images |Chaos in Medell\u00edn following damage to an auxiliary Metro vehicle that forced the suspension of service at seven stations, including San Antonio",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/imagenes-caos-en-medellin-a-raiz-de-dano-en-vehiculo-auxiliar-del-metro-que-obligo-a-suspender-el-servicio-en-siete-estaciones-incluida-san-antonio-3584708",
-        "published_date": "2026-09-09 09:49:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "The man who caused the death in an attempted robbery of the mother of General Esparza, a key officer in Operation Jaque, is sentenced to 17 years in prison.",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/condenan-a-17-anos-a-hombre-que-causo-la-muerte-en-intento-de-robo-a-madre-de-general-esparza-oficial-clave-en-la-operacion-jaque-3584712",
-        "published_date": "2026-09-09 09:31:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tension due to fire in the Metr\u00f3polis Plaza hotel, one of the buildings affected by the earthquake in Cali that will be demolished",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/tension-por-incendio-en-el-hotel-metropolis-plaza-uno-de-los-edificios-afectados-por-el-terremoto-en-cali-que-sera-demolido-3584691",
-        "published_date": "2026-09-09 09:31:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "Medell\u00edn Metro reports that 7 stations on Line A are without service this September 9: 'Technical inconvenience with auxiliary vehicle'",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/metro-de-medellin-reporta-que-7-estaciones-de-la-linea-a-estan-sin-servicio-inconveniente-tecnico-con-vehiculo-auxiliar-3584669",
-        "published_date": "2026-09-09 09:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Uniatl\u00e1ntico develops a method that identifies which companies and brands produce the plastic garbage that accumulates on Caribbean beaches",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/la-uniatlantico-desarrolla-un-metodo-que-identifica-que-empresas-y-marcas-producen-la-basura-plastica-que-se-acumula-en-playas-del-caribe-3584315",
-        "published_date": "2026-09-09 08:55:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cali will commemorate one month of the earthquake with 90 seconds of silence and ringing of bells in honor of the victims",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/cali-conmemorara-un-mes-del-terremoto-con-90-segundos-de-silencio-y-toque-de-campanas-en-honor-a-las-victimas-3584707",
-        "published_date": "2026-09-09 08:52:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "A rancher, husband of the former mayor of La Paz, and a merchant are kidnapped in Cesar in less than 24 hours",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/alerta-en-cesar-hombres-armados-secuestraron-a-un-ganadero-y-a-un-comerciante-en-zona-rural-de-manaure-y-tamalameque-3584701",
-        "published_date": "2026-09-09 08:37:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Colombian Geological Service denies predictions of earthquakes in Colombia that circulate in networks: these are the areas with the greatest seismic threat",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/servicio-geologico-colombiano-desmiente-predicciones-de-terremotos-en-colombia-que-circulan-en-redes-estas-son-las-zonas-con-mayor-amenaza-sismica-3584685",
-        "published_date": "2026-09-09 08:14:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "Despite El Ni\u00f1o, Ideam predicts heavy rains in 10 departments in October",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/pese-a-el-nino-ideam-preve-lluvias-fuertes-en-10-departamentos-en-octubre-4477451",
-        "published_date": "2026-09-09 05:04:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Aliadas proposes 30 measures to reduce informality within the labor market",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/aliadas-propone-30-medidas-para-reducir-la-informalidad-laboral-en-el-pais-4477518",
-        "published_date": "2026-09-09 05:01:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "This is how the power of faith moves in the De la Espriella government",
+        "title": "Official: General (r) Jorge Zuluaga is the new director of the DNI",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/asi-se-mueve-el-poder-de-la-fe-en-el-gobierno-de-la-espriella/",
-        "published_date": "2026-09-09 05:01:00",
+        "url": "https://www.lasillavacia.com/en-vivo/oficial-general-r-jorge-zuluaga-es-el-nuevo-director-de-la-dni/",
+        "published_date": "2026-09-09 23:24:22",
         "category": "Local Events"
     },
     {
-        "title": "Tremor today in Colombia |Earthquake during the early hours of this Wednesday, September 9: epicenter, depth and details",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-hoy-en-colombia-sismo-durante-la-madrugada-de-este-miercoles-9-de-septiembre-epicentro-profundidad-y-detalles-3584660",
-        "published_date": "2026-09-09 04:38:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "This was the vote of the Mayor's tax in the Bogot\u00e1 Council",
+        "title": "De la Espriella led his first council of ministers in the Casa de Nari\u00f1o",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/votacion-de-la-reforma-tributaria-en-el-concejo-de-bogota-4477650",
-        "published_date": "2026-09-09 01:51:26",
+        "url": "https://www.larepublica.co/economia/de-la-espriella-lidero-su-primer-consejo-de-ministros-en-la-casa-de-narino-4478357",
+        "published_date": "2026-09-09 23:17:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Bogot\u00e1 tax reform advanced to second debate, will be discussed in Plenary",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/reforma-tributaria-de-bogota-avanzo-a-segundo-debate-se-discutira-en-plenaria-4478266",
+        "published_date": "2026-09-09 22:45:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Government seeks to return guardianships against the president to the Council of State",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/gobierno-busca-devolver-al-consejo-de-estado-las-tutelas-contra-el-presidente/",
+        "published_date": "2026-09-09 22:16:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Naming the peasantry is also recognizing their rights",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-rural/nombrar-al-campesinado-tambien-es-reconocer-sus-derechos/",
+        "published_date": "2026-09-09 21:44:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "One month after the earthquake: Cali tries to get up from the wounds and uncertainty",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/un-mes-del-terremoto-cali-intenta-levantarse-entre-las-heridas-y-la-incertidumbre-3584921",
+        "published_date": "2026-09-09 19:25:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "What is known about the two captured after the shooting at a school in Medell\u00edn: they took the weapon with which the 17-year-old minor shot and injured himself",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/lo-que-se-sabe-de-capturados-tras-tiroteo-en-colegio-de-medellin-se-llevaron-el-arma-con-la-que-menor-disparo-historial-del-joven-antes-de-balacera-3584931",
+        "published_date": "2026-09-09 19:25:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The other tragedy in Pereira after a month of the earthquake in Colombia: thousands of people who lost their homes have not yet received subsidies",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/la-otra-tragedia-en-pereira-tras-un-mes-del-terremoto-en-colombia-miles-de-personas-que-perdieron-sus-casas-aun-no-han-recibido-subsidios-3584920",
+        "published_date": "2026-09-09 18:56:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "Emergency in Tolima: massive air and land operation to quell voracious forest fire in the mountains of San Luis",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/emergencia-en-tolima-masivo-operativo-por-aire-y-tierra-para-sofocar-voraz-incendio-forestal-en-las-montanas-de-san-luis-3584929",
+        "published_date": "2026-09-09 18:52:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "'Mom, come on, they're going to kill us': the testimony of the mother of one of the students at the Medell\u00edn school where a 17-year-old young man fired shots",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/mama-venga-que-nos-van-a-matar-el-testimonio-de-la-madre-de-uno-de-los-estudiantes-del-colegio-de-medellin-donde-un-joven-de-17-anos-hizo-disparos-3584841",
+        "published_date": "2026-09-09 18:30:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "One month of the earthquake in Colombia: the dilemma of Quind\u00edo that did not have buildings collapsed, but there are more than 74,000 victims",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/un-mes-del-terremoto-en-colombia-el-dilema-del-quindio-que-no-tuvo-edificios-colapsados-pero-hay-mas-de-74-000-damnificados-3584915",
+        "published_date": "2026-09-09 18:22:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "Camacol joins the reconstruction plan of Valle del Cauca: it will provide materials, training and technical investment",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/camacol-se-suma-al-plan-de-reconstruccion-del-valle-del-cauca-aportara-materiales-capacitacion-e-inversion-tecnica-3584906",
+        "published_date": "2026-09-09 18:20:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "At least one minor died and more than 20 injured: tragedy due to a school bus that lost its brakes and collided with a dump truck on Sucre road",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/al-menos-un-menor-fallecido-y-mas-de-20-heridos-tragedia-por-bus-escolar-que-habria-perdido-los-frenos-y-chocado-con-una-volqueta-en-via-de-sucre-3584917",
+        "published_date": "2026-09-09 18:10:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Until September 11, Dian will hold a virtual public jewelry auction",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/hasta-el-11-de-septiembre-la-dian-realizara-subasta-publica-virtual-de-joyas-y-otros-productos-4478053",
+        "published_date": "2026-09-09 17:50:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "Bluman appointed Carlos Plata P\u00e9rez as Vice President of Investment of ProColombia",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/bluman-designo-a-carlos-plata-perez-como-vicepresidente-de-inversion-de-procolombia-4478051",
+        "published_date": "2026-09-09 17:48:29",
         "category": "Local Events"
     }
 ]
