@@ -126,6 +126,27 @@
         "category": "Diplomacy"
     },
     {
+        "title": "With explosives and drones they destroyed the police station in El Carmen and at risk to their lives, they took the uniformed officers by helicopter.",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/con-explosivos-y-drones-destruyeron-la-estacion-de-policia-en-el-carmen-y-por-riesgo-a-sus-vidas-se-llevaron-a-los-uniformados-en-helicoptero-3585201",
+        "published_date": "2026-09-10 18:08:21",
+        "category": "Military"
+    },
+    {
+        "title": "They investigate the disappearance of an ambulance with its driver in Tib\u00fa, Norte de Santander: armed men took it away and detained the staff",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/investigan-desaparicion-de-ambulancia-con-su-conductor-en-tibu-norte-de-santander-hombres-armados-se-la-llevaron-y-retuvieron-al-personal-3585193",
+        "published_date": "2026-09-10 17:34:05",
+        "category": "Military"
+    },
+    {
+        "title": "Technical institutions invite to strengthen the training of human talent for reconstruction after the earthquake",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/instituciones-tecnicas-invitan-a-fortalecer-la-formacion-de-talento-humano-para-la-reconstruccion-tras-el-terremoto-3585181",
+        "published_date": "2026-09-10 16:48:03",
+        "category": "Military"
+    },
+    {
         "title": "The debate on carrying weapons must consider the risks for women",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/red-de-expertos/red-de-las-mujeres/el-debate-sobre-el-porte-de-armas-debe-considerar-los-riesgos-para-las-mujeres/",
@@ -245,25 +266,25 @@
         "category": "Military"
     },
     {
-        "title": "They attacked the Army battalion in Oca\u00f1a, Norte de Santander with a swarm of drones: captain and soldier died and the FAC helicopter was hit",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/atacaron-con-enjambre-de-drones-cargados-con-artefactos-explosivos-el-batallon-de-ocana-en-norte-de-santander-la-accion-criminal-se-atribuye-al-eln-3583761",
-        "published_date": "2026-09-05 01:27:54",
-        "category": "Military"
+        "title": "Uribismo responds to G\u00f3mez's criticism of the Uribe government's state spending",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/uribismo-responde-a-criticas-de-gomez-por-gasto-del-estado-del-gobierno-uribe/",
+        "published_date": "2026-09-11 00:50:01",
+        "category": "Energy"
     },
     {
-        "title": "12 thousand captured: Abelardo's data is neither \u201cinvented\u201d nor exceptional",
+        "title": "The pulse of the Earth altered by human activity",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/detector-de-mentiras/12-mil-capturados-dato-de-abelardo-no-es-inventado-ni-excepcional/",
-        "published_date": "2026-09-05 00:10:40",
-        "category": "Military"
+        "url": "https://www.lasillavacia.com/opinion/el-pulso-de-la-tierra-alterado-por-la-actividad-humana/",
+        "published_date": "2026-09-10 23:44:05",
+        "category": "Energy"
     },
     {
-        "title": "\u201cThere will be no retaliation\u201d: Acsn after the death of Bendito Menor in an operation",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/no-habra-retaliaciones-acsn-tras-muerte-de-bendito-menor-en-operativo/",
-        "published_date": "2026-09-04 20:47:35",
-        "category": "Military"
+        "title": "Northern energy substation receives the green light from the Ministry of the Environment",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/subestacion-norte-de-energia-recibe-luz-verde-del-ministerio-de-ambiente-4478865",
+        "published_date": "2026-09-10 17:38:16",
+        "category": "Energy"
     },
     {
         "title": "De la Espriella announced measures to finance and attend to the reconstruction after the earthquake",
@@ -385,25 +406,11 @@
         "category": "Energy"
     },
     {
-        "title": "Ecopetrol reported approval for the merger project with Parque Solar Port\u00f3n del Sol",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/ecopetrol-informo-aprobacion-para-proyecto-de-fusion-con-parque-solar-porton-del-sol-4475620",
-        "published_date": "2026-09-06 15:20:00",
-        "category": "Energy"
-    },
-    {
-        "title": "Colombia grew old without getting rich",
+        "title": "Government extended the internal debt ceiling to $110.25 billion for 2026",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/colombia-envejecio-sin-enriquecerse/",
-        "published_date": "2026-09-06 13:00:00",
-        "category": "Energy"
-    },
-    {
-        "title": "Details of the case of the two music teachers in Geneva, Valle, prosecuted for allegedly sexually assaulting seven minor students",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/detalles-del-caso-de-los-dos-profesores-de-musica-en-ginebra-valle-judicializados-por-presuntamente-agredir-sexualmente-a-siete-estudiantes-menores-3583884",
-        "published_date": "2026-09-05 16:56:55",
-        "category": "Energy"
+        "url": "https://www.lasillavacia.com/en-vivo/gobierno-amplio-a-11025-billones-el-tope-de-deuda-interna-para-2026/",
+        "published_date": "2026-09-10 23:24:22",
+        "category": "Economy"
     },
     {
         "title": "Government distributes the Ministry of Equality between the Interior, Treasury, Justice and DPS",
@@ -539,150 +546,143 @@
         "category": "Economy"
     },
     {
-        "title": "Issuer made second dollar purchase auction official for US$400 million",
+        "title": "Autobombo: La Silla Vac\u00eda is the digital native medium most read by opinion leaders",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/autobombo-la-silla-vacia-es-el-medio-nativo-digital-mas-leido-por-lideres-de-opinion/",
+        "published_date": "2026-09-11 00:26:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "De la Espriella Government prepares to dismantle Petro's pension repatriation",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/gobierno-de-la-espriella-alista-desmonte-de-la-repatriacion-pensional-de-petro/",
+        "published_date": "2026-09-11 00:25:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "Prosecutor's Office accuses Miguel Quintero Calle in a case of contractual corruption",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/fiscalia-imputa-a-miguel-quintero-calle-por-caso-de-corrupcion-contractual/",
+        "published_date": "2026-09-10 23:59:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "European Union Mission did not confirm that the \u201crifle vote\u201d existed",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/mision-de-la-union-europea-no-confirmo-que-existio-el-voto-fusil/",
+        "published_date": "2026-09-10 23:50:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "Works on the Toyo Tunnel are reactivated: it will enter into operation in October 2027",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/emisor-oficializo-segunda-subasta-de-compra-de-dolares-por-us-400-millones-4473483",
-        "published_date": "2026-09-03 12:25:49",
-        "category": "Economy"
+        "url": "https://www.larepublica.co/economia/reactivan-obras-en-el-tunel-del-toyo-entrara-en-operacion-en-octubre-de-2027-4479086",
+        "published_date": "2026-09-10 23:04:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "They ratify an arrest warrant against Carlos Ram\u00f3n Gonz\u00e1lez in the Ungrd case",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/ratifican-orden-de-captura-contra-carlos-ramon-gonzalez-por-caso-ungrd/",
+        "published_date": "2026-09-10 22:48:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "This is what Fabio Arjona said in the political control debates in the Senate",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/esto-dijo-fabio-arjona-en-los-debates-de-control-politico-en-el-senado/",
+        "published_date": "2026-09-10 21:36:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "North Access Phase II achieved financial closure and advances to the construction phase",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/accesos-norte-fase-ii-logro-cierre-financiero-y-avanza-a-la-fase-de-construccion-4478969",
+        "published_date": "2026-09-10 20:49:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cIt will take time\u201d: Claudia L\u00f3pez on Alianza por la Vida with Petro",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/tomara-tiempo-claudia-lopez-sobre-alianza-por-la-vida-con-petro/",
+        "published_date": "2026-09-10 20:42:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "Beads in X stigmatize indigenous communities after the earthquake",
+        "source": "Verdad Abierta",
+        "url": "https://verdadabierta.com/cuentas-en-x-estigmatiza-a-comunidades-indigenas-despues-del-terremoto/",
+        "published_date": "2026-09-10 20:15:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "A respite for the victims of the earthquake in Cali: the Council advances a project that seeks to exempt them from taxes on properties and industries",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/un-respiro-para-las-victimas-del-terremoto-en-cali-avanza-en-el-concejo-proyecto-que-busca-exonerarlas-de-impuestos-a-predios-e-industrias-3585211",
+        "published_date": "2026-09-10 19:07:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "'Lucid Dreams': the new exhibition by Barranquilla artist Javier Caraballo that has its doors open to the public in Medell\u00edn",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/suenos-lucidos-la-nueva-exposicion-del-artista-barranquillero-javier-caraballo-que-tiene-sus-puertas-abiertas-al-publico-en-medellin-3585210",
+        "published_date": "2026-09-10 19:01:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Video |Ana Mar\u00eda Saavedra, the only triplet who survived the 7.4 earthquake in which her parents and sisters died, reappeared: a tribute she paid",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/video-reaparecio-ana-maria-saavedra-unica-trilliza-que-sobrevivio-al-terremoto-de-7-4-que-mato-a-su-familia-y-a-sus-hermanas-el-homenaje-que-hizo-3585212",
+        "published_date": "2026-09-10 18:40:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "Antioquia, between fire and drought: the alarming balance of environmental emergencies that August left",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/antioquia-entre-el-fuego-y-la-sequia-el-alarmante-balance-de-emergencias-ambientales-que-dejo-agosto-3585199",
+        "published_date": "2026-09-10 18:06:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "Barranquilla |Hitmen waited for him when he got out of the car: this is what is known about the murder of a mechanic in the 7 de Abril neighborhood",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-sicarios-lo-esperaron-al-bajarse-del-carro-esto-es-lo-que-se-sabe-del-asesinato-contra-un-mecanico-en-el-barrio-7-de-abril-3585198",
+        "published_date": "2026-09-10 18:05:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "Video |Man pulled out a firearm and made threats in the middle of an argument after a traffic accident in Piedecuesta, Santander;they immobilized him",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/video-hombre-saco-un-arma-de-fuego-y-lanzo-amenazas-en-medio-de-discusion-tras-accidente-de-transito-en-piedecuesta-santander-lo-inmovilizaron-3585086",
+        "published_date": "2026-09-10 17:23:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Javier Arias 'Stunt', the influencer of the million-dollar raffles captured for illegal possession of firearms, was acquitted by a court in Antioquia",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/javier-arias-stunt-el-influencer-de-las-millonarias-rifas-capturado-por-porte-ilegal-de-armas-de-fuego-fue-absuelto-por-un-juzgado-de-antioquia-3585133",
+        "published_date": "2026-09-10 16:55:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "Find out where the 14.4 kilometers underground of Line 2 of the Bogot\u00e1 Metro will be",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/conozca-donde-quedaran-los-14-4-kilometros-subterraneos-de-la-linea-2-del-metro-4478790",
+        "published_date": "2026-09-10 15:55:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "Asocapitales estimates that reconstruction in cities could cost up to $21 billion",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/asocapitales-estima-que-reconstruccion-en-ciudades-podria-costar-hasta-21-billones-4478722",
+        "published_date": "2026-09-10 15:35:56",
+        "category": "Local Events"
     },
     {
         "title": "Abelardo gives Restrepo powers in economy and diplomacy",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/abelardo-le-da-poderes-a-restrepo-en-economia-y-diplomacia/",
         "published_date": "2026-09-10 14:01:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "The 11 decrees with which Abelardo seeks to address the earthquake",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/los-11-decretos-con-los-que-abelardo-busca-atender-la-emergencia/",
-        "published_date": "2026-09-10 13:58:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Restrepo visited Armas, the town of Aguadas hardest hit by the earthquake",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/restrepo-visito-armas-el-corregimiento-de-aguadas-mas-golpeado-por-el-terremoto-4478665",
-        "published_date": "2026-09-10 13:45:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "Earthquake, day 30: reconstruction",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/terremoto-dia-30-la-reconstruccion/",
-        "published_date": "2026-09-10 12:41:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "One month after the earthquake, the government issues a cascade of 11 decrees to address the crisis",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/a-un-mes-del-terremoto-gobierno-expide-cascada-de-11-decretos-para-atender-la-crisis-4478593",
-        "published_date": "2026-09-10 12:39:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Breakfast informed with the movements of this September 10, 2026",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-movidas-de-este-10-de-septiembre-de-2026/",
-        "published_date": "2026-09-10 12:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sometimes preventing suicide starts with saying \u201cgood morning.\u201d",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/a-veces-prevenir-un-suicidio-empieza-con-decir-buenos-dias/",
-        "published_date": "2026-09-10 12:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Paying for the past or investing in the future: the fiscal crossroads",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/pagar-el-pasado-o-invertir-en-el-futuro-la-encrucijada-fiscal/",
-        "published_date": "2026-09-10 11:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "'Financial Times' highlights Cartagena as the departure port for luxury cruises on the Magdalena River",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/financial-times-destaca-a-cartagena-como-puerto-de-partida-de-los-cruceros-de-lujo-por-el-rio-magdalena-3585024",
-        "published_date": "2026-09-10 09:38:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Atrocious case of abuse against a child under 7 years old sent from Barranquilla to the Casa del Ni\u00f1o in Cartagena",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/atroz-caso-de-maltrato-contra-menor-de-7-anos-remitido-desde-barranquilla-a-la-casa-del-nino-en-cartagena-3585005",
-        "published_date": "2026-09-10 08:27:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "With sensations of up to 50 degrees, Char and Verano denounce that the CREG punishes the Caribbean with a savings measure that risks people's health",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/con-sensaciones-de-hasta-50-grados-char-y-verano-denuncian-que-la-creg-castiga-al-caribe-con-una-medida-de-ahorro-que-arriesga-la-salud-de-la-gente-3585002",
-        "published_date": "2026-09-10 08:19:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "They investigate the death of Andrea Paola P\u00e9rez Palac\u00edn, the young woman from Malambo, Atl\u00e1ntico, who fell from a building in Santa Marta",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/investigan-la-muerte-de-andrea-paola-perez-palacin-la-joven-de-malambo-atlantico-que-cayo-de-un-edificio-en-santa-marta-3584988",
-        "published_date": "2026-09-10 08:04:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "Jos\u00e9 Fernando Pati\u00f1o remembers his father, victim of the earthquake in Cali: this was his farewell among the rubble: 'My father was my life teacher'",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/jose-fernando-patino-recuerda-a-su-padre-victima-del-terremoto-en-cali-asi-fue-su-despedida-entre-los-escombros-mi-papa-fue-mi-maestro-de-vida-3584967",
-        "published_date": "2026-09-10 07:54:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ideam issues an alert for strong storms in Antioquia, Sucre, C\u00f3rdoba and Santander with concentrations of cloudiness, winds and electrical activity",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/ideam-emite-alerta-por-fuertes-tormentas-en-antioquia-sucre-cordoba-y-santander-con-concentraciones-de-nubosidades-vientos-y-actividad-electrica-3584973",
-        "published_date": "2026-09-10 07:17:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "The government by decree of Abelardo advances more slowly than it promised",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/el-gobierno-por-decreto-de-abelardo-avanza-mas-lento-de-lo-que-prometio/",
-        "published_date": "2026-09-10 06:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tremor today in Colombia |Earthquake during the early hours of this Thursday, September 10: epicenter, depth and details",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/temblor-hoy-en-colombia-sismo-durante-la-madrugada-de-este-jueves-10-de-septiembre-epicentro-profundidad-y-detalles-3584966",
-        "published_date": "2026-09-10 02:28:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Government ends ZUT of the Commandos in Putumayo and aims for individual reintegration",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/gobierno-termina-zona-de-ubicacion-temporal-de-los-comandos-en-putumayo/",
-        "published_date": "2026-09-10 02:17:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "District Habitat Secretariat launched \u201cImprove your Quota\u201d for housing improvement",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/subsidio-mejora-tu-cuota-de-la-secretaria-distrital-del-habitat-4478435",
-        "published_date": "2026-09-10 01:09:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sleep informed with the movements of this September 9, 2026",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-movidas-de-este-9-de-septiembre-de-2026/",
-        "published_date": "2026-09-10 00:50:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "JEP resolved the legal situation of more than a thousand appearing parties",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/jep-resolvio-la-situacion-juridica-de-mas-de-1-000-comparecientes/",
-        "published_date": "2026-09-10 00:28:49",
         "category": "Local Events"
     }
 ]
