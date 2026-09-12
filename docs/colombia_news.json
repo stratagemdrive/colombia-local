@@ -119,13 +119,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "The UN warned that this El Ni\u00f1o phenomenon will be the strongest in the last 40 years",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/onu-alerto-que-este-fenomeno-de-el-nino-sera-el-mas-fuerte-en-los-ultimos-40-anos-4473487",
-        "published_date": "2026-09-04 05:01:20",
-        "category": "Diplomacy"
-    },
-    {
         "title": "They investigate a violent double homicide on the road to the Barranquilla Airport: the bodies were thrown under a bridge in Soledad",
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/barranquilla/investigan-violento-doble-homicidio-en-la-via-hacia-al-aeropuerto-de-barranquilla-los-cuerpos-fueron-arrojados-debajo-de-un-puente-en-soledad-3585495",
@@ -406,6 +399,20 @@
         "category": "Energy"
     },
     {
+        "title": "Carf doubts the return to the fiscal rule in 2028 and asks to make a more \u201cconvincing\u201d adjustment",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/carf-duda-sobre-retorno-a-la-regla-fiscal-en-2028-y-pide-hacer-un-ajuste-convincente-4480024",
+        "published_date": "2026-09-12 05:01:18",
+        "category": "Economy"
+    },
+    {
+        "title": "Carf calls for \"convincing\" adjustment, with a surplus of 2% of GDP to return to the rule",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/carf-pide-plan-fiscal-convincente-se-requiere-superavit-de-2-del-pib-en-2028-para-retornar-a-la-regla-fiscal-4479418",
+        "published_date": "2026-09-11 12:40:32",
+        "category": "Economy"
+    },
+    {
         "title": "Government extended the internal debt ceiling to $110.25 billion for 2026",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/gobierno-amplio-a-11025-billones-el-tope-de-deuda-interna-para-2026/",
@@ -532,24 +539,80 @@
         "category": "Economy"
     },
     {
-        "title": "Market analysts anticipate that annual inflation for August will close above 6.10%",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/analistas-del-mercado-financiero-anticipan-que-la-inflacion-anual-de-agosto-cerro-en-6-10-4474142",
-        "published_date": "2026-09-04 05:01:39",
-        "category": "Economy"
+        "title": "Tremor today, Saturday, September 12, 2026: 4.6 magnitude earthquake in Choc\u00f3 was felt in Cali, Pereira and Armenia",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/sismo-de-magnitud-4-6-se-registro-en-la-manana-de-este-sabado-se-sintio-en-cali-pereira-y-varios-municipios-este-fue-el-epicentro-3585549",
+        "published_date": "2026-09-12 08:04:00",
+        "category": "Local Events"
     },
     {
-        "title": "XM: Guaviare, Meta and Bogot\u00e1 at risk of electricity shortages",
+        "title": "Tremor today in Colombia |Two earthquakes were recorded during the early hours of this Saturday, September 12: epicenter and depth",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/temblor-hoy-en-colombia-dos-sismos-se-registraron-durante-la-madrugada-de-este-sabado-12-de-septiembre-epicentro-y-profundidad-3585545",
+        "published_date": "2026-09-12 06:01:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "The agreement with the United States can turn Colombia into a mine for AI",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/xm-guaviare-meta-y-bogota-en-riesgo-de-desabastecimiento-electrico/",
-        "published_date": "2026-09-04 01:14:15",
-        "category": "Economy"
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-democracia-y-tecnologia/el-acuerdo-con-estados-unidos-puede-convertir-a-colombia-en-una-mina-para-la-ia/",
+        "published_date": "2026-09-12 05:05:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Brent at US$100 per barrel would take royalties up to $40 billion by the end of 2026",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/brent-en-us-100-por-barril-llevaria-las-regalias-hasta-40-billones-a-cierre-de-este-ano-4479828",
+        "published_date": "2026-09-12 05:01:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "Of every 10 young people who are between 15 and 28 years old, two do not study or work in the country",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/de-cada-10-jovenes-que-tienen-entre-15-y-hasta-28-anos-dos-no-estudian-ni-trabajan-4479987",
+        "published_date": "2026-09-12 05:01:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "Informal workers totaled 13.3 million at the end of July and the rate was 54.6%",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/informales-sumaron-13-3-millones-al-cierre-de-julio-y-la-tasa-fue-de-54-6-4480181",
+        "published_date": "2026-09-12 00:58:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "154 trees, 154 stories: the emotional tribute to the victims of the earthquake that shook Cali on August 10",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/154-arboles-154-historias-el-emotivo-homenaje-a-las-victimas-del-terremoto-que-sacudio-a-cali-el-10-de-agosto-3585542",
+        "published_date": "2026-09-12 00:09:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "The 'loneliness epidemic' of youth that worries the authorities in Medell\u00edn",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/la-epidemia-de-soledad-de-la-juventud-que-preocupa-a-las-autoridades-en-medellin-3585474",
+        "published_date": "2026-09-12 00:01:00",
+        "category": "Local Events"
     },
     {
         "title": "Sleep informed with the keys to September 11, 2026",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-claves-del-11-de-septiembre-de-2026/",
         "published_date": "2026-09-12 00:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Merchants from San Andresito del Sur will no longer sell their products on the street: they will be relocated to the second floor of La 14",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/comerciantes-de-san-andresito-del-sur-ya-no-venderan-sus-productos-en-la-calle-seran-reubicados-en-el-segundo-piso-de-la-3585529",
+        "published_date": "2026-09-11 23:39:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "Detail that saved the life of Alejandro Eder, mayor of Cali, on September 11, 2001: he was going to the Twin Towers in the middle of an attack in the United States.",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/detalle-que-le-salvo-la-vida-a-alejandro-eder-alcalde-de-cali-el-11-de-septiembre-del-2001-iba-a-las-torres-gemelas-en-medio-de-ataque-en-ee-uu-3585539",
+        "published_date": "2026-09-11 23:20:05",
         "category": "Local Events"
     },
     {
@@ -571,6 +634,13 @@
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/detector-de-mentiras/enganoso/este-video-de-marchas-en-pasto-contra-abelardo-es-de-junio-no-reciente/",
         "published_date": "2026-09-11 21:35:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "New details of the shooting at a Medell\u00edn school: a 17-year-old boy was allegedly looking for a teacher;teacher requested a change from the Ministry of Education",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/nuevos-detalles-de-tiroteo-en-colegio-de-medellin-joven-de-17-anos-habria-buscado-a-profesora-docente-solicito-cambio-a-la-secretaria-de-educacion-3585511",
+        "published_date": "2026-09-11 20:57:36",
         "category": "Local Events"
     },
     {
@@ -606,83 +676,6 @@
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/gobierno-nacional-cancelo-licitacion-del-estadio-marino-klinger-en-buenaventura-4479756",
         "published_date": "2026-09-11 19:01:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "Has feminism gone too far?",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-las-mujeres/el-feminismo-fue-demasiado-lejos/",
-        "published_date": "2026-09-11 19:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Earthquake: government does not have damage data for 204 municipalities",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/terremoto-gobierno-no-tiene-datos-de-danos-de-204-municipios/",
-        "published_date": "2026-09-11 18:56:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "The postponed dream of the boardwalk in Barrancabermeja: unfulfilled promises, stopped works and displaced cooks",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/el-sueno-aplazado-del-malecon-en-barrancabermeja-promesas-incumplidas-obras-detenidas-y-cocineras-desplazadas-3585441",
-        "published_date": "2026-09-11 18:25:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "A 48-year-old woman died in an aesthetic clinic in Envigado, Antioquia: she reported severe pain before anesthesia was applied.",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/mujer-de-48-anos-murio-en-una-clinica-estetica-de-envigado-en-antioquia-reporto-fuerte-dolor-antes-de-que-le-aplicaran-la-anestesia-3585443",
-        "published_date": "2026-09-11 18:01:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "This is the pilot plan with which Roldanillo aims to rise from the rubble and be a model for the reconstruction of Valle del Cauca",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/asi-es-el-plan-piloto-con-el-que-roldanillo-le-apuesta-a-levantarse-de-los-escombros-y-ser-modelo-para-la-reconstruccion-del-valle-del-cauca-3585486",
-        "published_date": "2026-09-11 17:57:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Barranquilla |What is the story behind the giant sculptures by Mar\u00eda Mo\u00f1itos and Nelson Pinedo located on the Malec\u00f3n del Suroriente?",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-cual-es-la-historia-detras-de-las-gigantes-esculturas-de-maria-monitos-y-nelson-pinedo-ubicadas-en-el-malecon-del-suroriente-3585479",
-        "published_date": "2026-09-11 17:45:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Father of Juan Felipe Giraldo, a young man who was going to get married and died in the earthquake in Pereira, recalled what the search for his son was like for four days",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/tras-un-mes-del-terremoto-en-pereira-el-padre-de-juan-felipe-giraldo-cuenta-la-incansable-busqueda-de-su-hijo-que-duro-cuatro-dias-bajo-los-escombros-3585476",
-        "published_date": "2026-09-11 17:43:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "This is how 'ticket hunting cars' operated in Colombia, which will no longer be able to impose summonses without a traffic agent: these are the new rules",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/asi-operaban-los-carros-cazafotomultas-durante-el-gobierno-petro-y-estas-son-las-nuevas-reglas-de-la-administracion-del-presidente-de-la-espriella-3585427",
-        "published_date": "2026-09-11 16:46:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Damaged temples and faith in the open air: the drama of the churches affected by the earthquake in Valle del Cauca",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/templos-averiados-y-la-fe-al-aire-libre-el-drama-de-las-iglesias-afectadas-por-el-terremoto-en-el-valle-del-cauca-3585454",
-        "published_date": "2026-09-11 16:09:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "These are the sectors that will be without electricity in Barranquilla and Soledad this Saturday, September 12 due to work at the electrical substation",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/estos-son-los-sectores-que-estaran-sin-luz-en-barranquilla-y-soledad-este-sabado-12-de-septiembre-por-trabajos-en-subestacion-electrica-3585385",
-        "published_date": "2026-09-11 16:01:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "MinComercio seeks to accelerate the process of the agreement between the Pacific Alliance and Singapore",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/gobierno-busca-acelerar-tramite-del-acuerdo-entre-la-alianza-del-pacifico-y-singapur-4479651",
-        "published_date": "2026-09-11 15:48:07",
         "category": "Local Events"
     }
 ]
