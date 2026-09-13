@@ -105,6 +105,20 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Colombia remains indebted to the recruited children",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/colombia-sigue-en-deuda-con-la-ninez-reclutada/",
+        "published_date": "2026-09-13 12:00:00",
+        "category": "Military"
+    },
+    {
+        "title": "Construction crane lifted a backhoe up to a building in Dosquebradas for demolition work",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/grua-de-construccion-subio-una-retroexcavadora-hasta-un-edificio-en-dosquebradas-para-trabajos-de-demolicion-3585683",
+        "published_date": "2026-09-13 07:28:15",
+        "category": "Military"
+    },
+    {
         "title": "Head of the Cneb asks De la Espriella to resume talks",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/jefe-del-cneb-pide-a-de-la-espriella-reanudar-dialogos/",
@@ -231,18 +245,11 @@
         "category": "Military"
     },
     {
-        "title": "Barranquilla dawns under secrecy for the security of Marco Rubio's visit;The only public detail so far is the road closure plan",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-amanece-bajo-hermetismo-por-la-seguridad-de-la-visita-de-marco-rubio-el-unico-detalle-publico-hasta-ahora-es-el-plan-de-cierres-viales-3584176",
-        "published_date": "2026-09-07 10:52:09",
-        "category": "Military"
-    },
-    {
-        "title": "Tension in Riohacha: funeral of a police officer murdered in Putumayo would coincide with that of the escort of the 'Bendito Menor'",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/tension-en-riohacha-sepelio-de-policia-asesinado-en-putumayo-coincidiria-con-el-de-escolta-del-bendito-menor-3584008",
-        "published_date": "2026-09-06 14:41:18",
-        "category": "Military"
+        "title": "Starting tomorrow, ANI will launch a shock plan to unblock 553 procedures",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/desde-manana-ani-pondra-en-marcha-plan-de-choque-para-destrabar-553-tramites-4480664",
+        "published_date": "2026-09-13 13:33:12",
+        "category": "Energy"
     },
     {
         "title": "\u201cWe have to discuss VAT exemptions within the national fiscal adjustment plan\u201d",
@@ -378,13 +385,6 @@
         "category": "Energy"
     },
     {
-        "title": "Creg approved two measures within the Energy NOW Plan to anticipate El Ni\u00f1o",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/creg-aprobo-dos-medidas-dentro-del-plan-energia-ya-para-anticiparse-a-el-nino-4475746",
-        "published_date": "2026-09-06 21:49:29",
-        "category": "Energy"
-    },
-    {
         "title": "Carf doubts the return to the fiscal rule in 2028 and asks to make a more \u201cconvincing\u201d adjustment",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/carf-duda-sobre-retorno-a-la-regla-fiscal-en-2028-y-pide-hacer-un-ajuste-convincente-4480024",
@@ -511,11 +511,67 @@
         "category": "Economy"
     },
     {
-        "title": "Remittances only boost GDP in those departments with more financial inclusion",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/remesas-solo-impulsan-el-pib-en-aquellos-departamentos-con-mas-inclusion-financiera-4474963",
-        "published_date": "2026-09-05 05:01:10",
-        "category": "Economy"
+        "title": "Chats between Vladimir Fern\u00e1ndez and Olmedo L\u00f3pez revealed",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/revelan-chats-entre-vladimir-fernandez-y-olmedo-lopez/",
+        "published_date": "2026-09-13 14:14:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "The words and things of the field",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-derecho-constitucional/las-palabras-y-las-cosas-del-campo/",
+        "published_date": "2026-09-13 13:48:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "They report an earthquake in Choc\u00f3 on the morning of this Sunday, September 13: this was the magnitude and the epicenter",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/reportan-sismo-en-choco-en-la-manana-de-este-domingo-13-de-septiembre-esta-fue-la-magnitud-y-el-epicentro-3585695",
+        "published_date": "2026-09-13 09:16:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tremor today in Colombia |Earthquake reported in Choc\u00f3 the night of this Saturday, September 12: epicenter and depth",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-hoy-en-colombia-reportan-sismo-en-choco-la-noche-de-este-sabado-12-de-septiembre-epicentro-y-profundidad-3585675",
+        "published_date": "2026-09-13 08:24:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "The return of women to Mampuj\u00e1n (Bol\u00edvar) was for the non-repetition of violence",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/el-retorno-de-mujeres-a-mampujan-bolivar-fue-por-la-no-repeticion-de-violencia-3585636",
+        "published_date": "2026-09-13 08:23:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Elderly adult died after being hit by a motorcycle in Manizales",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/adulto-mayor-murio-tras-ser-arrollado-por-una-motocicleta-en-manizales-3585682",
+        "published_date": "2026-09-13 07:35:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Pisa tests in Colombia: the weight of gender, religion and class",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/pruebas-pisa-en-colombia-el-peso-del-genero-la-religion-y-la-clase/",
+        "published_date": "2026-09-13 06:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The charm of the boardwalks that is changing the face of Colombia's cities",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/el-encanto-de-los-malecones-que-esta-cambiando-la-cara-de-las-ciudades-de-colombia-3585562",
+        "published_date": "2026-09-13 00:07:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "Alert for forest fires in Colombia: 18 are still active and Tolima concentrates almost half, according to the UNGRD",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/alerta-por-incendios-forestales-en-colombia-18-siguen-activos-y-tolima-concentra-casi-la-mitad-segun-la-ungrd-3585657",
+        "published_date": "2026-09-12 22:37:18",
+        "category": "Local Events"
     },
     {
         "title": "What's behind the president's use of religion",
@@ -529,6 +585,13 @@
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/consejo-de-estado-mantiene-investidura-de-congresistas-en-caso-de-vias-4g/",
         "published_date": "2026-09-12 21:15:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "'I'm here, I'm Liz': she survived hours under the rubble of the Pereira earthquake, but lost her house, her mother, her brother and her partner",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/estoy-aqui-soy-liz-sobrevivio-horas-bajo-los-escombros-del-terremoto-de-pereira-pero-perdio-su-casa-a-su-mama-a-su-hermano-y-a-su-pareja-3585527",
+        "published_date": "2026-09-12 20:15:05",
         "category": "Local Events"
     },
     {
@@ -585,76 +648,6 @@
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/opinion/el-mismo-milagro-de-siempre/",
         "published_date": "2026-09-12 16:49:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "Government prepares technical table to unblock works at the Rafael N\u00fa\u00f1ez airport",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/gobierno-prepara-mesa-para-obras-del-aeropuerto-rafael-nunez-4480444",
-        "published_date": "2026-09-12 16:49:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "The two houses",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/opinion/las-dos-casas/",
-        "published_date": "2026-09-12 16:12:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Prosecutor's Office charged \u201cChal\u00e1\u201d with the alleged murder of journalist Mateo P\u00e9rez",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/fiscalia-imputo-a-chala-por-caso-del-periodista-mateo-perez/",
-        "published_date": "2026-09-12 16:11:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "The 13 strategic and reconstruction priorities for Valle del Cauca defined in a multi-sector meeting after the earthquake",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/las-13-prioridades-estrategicas-y-de-reconstruccion-para-el-valle-del-cauca-definidas-en-un-encuentro-multisectorial-tras-el-terremoto-3585624",
-        "published_date": "2026-09-12 16:07:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Another 11 foreigners were expelled in Bucaramanga for repeating illegal behavior: Migration Colombia operations continue",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/otros-11-extranjeros-fueron-expulsados-en-bucaramanga-por-reincidir-en-conductas-ilegales-continuan-los-operativos-de-migracion-colombia-3585620",
-        "published_date": "2026-09-12 15:34:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Marlon Andr\u00e9s Giraldo, 18, was murdered after being summoned by WhatsApp in Barrancabermeja",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/marlon-andres-giraldo-de-18-anos-fue-asesinado-tras-ser-citado-por-whatsapp-en-barrancabermeja-3585610",
-        "published_date": "2026-09-12 14:56:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Two hundred families lost the dream of obtaining a home in Antioquia: there was a false project and the couple kept more than 500 million pesos",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/doscientas-familias-perdieron-el-sueno-de-obtener-una-vivienda-en-medellin-hubo-falso-proyecto-y-pareja-se-quedo-con-mas-de-500-millones-de-pesos-3585615",
-        "published_date": "2026-09-12 14:50:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Barranquilla already has its carnival royalty complete: Isabella Daes will be Children's Queen and Abraham C\u00e1ceres, King Momo of Carnival 2027",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-ya-tiene-completa-su-realeza-carnavalera-isabella-daes-sera-reina-infantil-y-abraham-caceres-rey-momo-del-carnaval-3585608",
-        "published_date": "2026-09-12 14:23:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "They captured a subject in Santander for attempted femicide: he had just served a sentence for domestic violence",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/capturaron-en-santander-a-sujeto-por-tentativa-de-feminicidio-acababa-de-cumplir-una-condena-por-violencia-intrafamiliar-3585611",
-        "published_date": "2026-09-12 14:17:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Caribbean asks for help due to the severe drought: farmers warn of crop losses, livestock at risk and water problems in several departments",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/el-caribe-pide-auxilio-por-la-fuerte-sequia-campesinos-alertan-perdidas-de-cultivos-ganado-en-riesgo-y-problemas-de-agua-en-varios-departamentos-3585603",
-        "published_date": "2026-09-12 13:25:54",
         "category": "Local Events"
     }
 ]
