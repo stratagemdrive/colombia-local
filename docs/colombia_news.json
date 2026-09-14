@@ -98,11 +98,32 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Foreign Ministry asks Russia and Ukraine to stop the recruitment of Colombians",
+        "title": "Governor of Choc\u00f3 reported that the search for a small plane is concentrated in the rural area of \u200b\u200bTad\u00f3: the Army deployed a helicopter",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/gobernadora-del-choco-informo-que-busqueda-de-avioneta-se-concentra-en-zona-rural-de-tado-ejercito-desplego-un-helicoptero-3585761",
+        "published_date": "2026-09-13 18:00:01",
+        "category": "Military"
+    },
+    {
+        "title": "Protecting young people is protecting the future of Bogot\u00e1",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/cancilleria-pide-a-rusia-y-ucrania-frenar-el-reclutamiento-de-colombianos/",
-        "published_date": "2026-09-05 19:52:34",
-        "category": "Diplomacy"
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-cachaca/proteger-a-los-jovenes-es-proteger-el-futuro-de-bogota/",
+        "published_date": "2026-09-13 17:00:00",
+        "category": "Military"
+    },
+    {
+        "title": "This is how the works on the 'Paz a lo Bien' Coexistence Center in Baranoa (Atl\u00e1ntico) are progressing: the goal is to turn the abandoned lot into a community space",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/asi-avanzan-las-obras-del-centro-de-convivencia-paz-a-lo-bien-en-baranoa-atlantico-la-meta-es-convertir-en-espacio-comunitario-el-lote-abandonado-3585738",
+        "published_date": "2026-09-13 15:25:00",
+        "category": "Military"
+    },
+    {
+        "title": "President De La Espriella revealed that six minors had been recovered by the Army after fighting with the 'Gulf clan' in Antioquia",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/presidente-de-la-espriella-revelo-que-seis-menores-de-edad-habrian-sido-recuperados-por-el-ejercito-tras-combates-con-el-clan-del-golfo-en-antioquia-3585732",
+        "published_date": "2026-09-13 13:42:32",
+        "category": "Military"
     },
     {
         "title": "Colombia remains indebted to the recruited children",
@@ -217,32 +238,18 @@
         "category": "Military"
     },
     {
-        "title": "They report an attack against the Police substation of the Guamalito district, Norte de Santander;Gunshots and gunshots were heard.",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/reportan-un-ataque-contra-la-subestacion-de-policia-del-corregimiento-de-guamalito-norte-de-santander-se-escucharon-detonaciones-y-rafagas-de-fusil-3584364",
-        "published_date": "2026-09-08 00:55:58",
-        "category": "Military"
+        "title": "Procedures, energy and investment: Restrepo presents his tasks in the government",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/tramites-energia-e-inversion-restrepo-presenta-sus-tareas-en-el-gobierno/",
+        "published_date": "2026-09-13 21:41:52",
+        "category": "Energy"
     },
     {
-        "title": "This was the life of Marco David Piraj\u00f3n, captain murdered in Oca\u00f1a: his father, Major (r) Marco Binicio Piraj\u00f3n, broke silence about his death",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/asi-era-la-vida-de-marco-david-pirajon-capitan-asesinado-en-ocana-su-padre-el-mayor-r-marco-binicio-pirajon-rompio-silencio-sobre-su-muerte-3584279",
-        "published_date": "2026-09-07 17:20:32",
-        "category": "Military"
-    },
-    {
-        "title": "Acolgen supported measures of the Energy NOW Plan to mitigate risks in supply",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/acolgen-respaldo-medidas-del-plan-energia-ya-para-mitigar-riesgos-en-el-suministro-4476050",
-        "published_date": "2026-09-07 15:05:24",
-        "category": "Military"
-    },
-    {
-        "title": "The keys to the meeting that De la Espriella and Marco Rubio will have in Barranquilla",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/las-claves-del-encuentro-que-tendran-de-la-espriella-y-marco-rubio-en-barranquilla-4476025",
-        "published_date": "2026-09-07 14:44:58",
-        "category": "Military"
+        "title": "Manel Grau would have been recorded talking about positions and contracts at Ecopetrol",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/manel-grau-habria-sido-grabado-hablando-de-cargos-y-contratos-en-ecopetrol/",
+        "published_date": "2026-09-13 18:07:02",
+        "category": "Energy"
     },
     {
         "title": "Starting tomorrow, ANI will launch a shock plan to unblock 553 procedures",
@@ -368,20 +375,6 @@
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/medellin/este-es-sebastian-ortega-el-hombre-que-sera-imputado-junto-a-miguel-quintero-y-que-federico-gutierrez-senala-como-clave-en-el-expediente-ecopetrol-3583314",
         "published_date": "2026-09-07 19:04:44",
-        "category": "Energy"
-    },
-    {
-        "title": "Fiscal deficit closed the first semester at 3.3% of GDP, equivalent to $66 billion",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/deficit-fiscal-cerro-el-primer-semestre-en-3-3-del-pib-equivale-a-66-billones-4475928",
-        "published_date": "2026-09-07 13:23:13",
-        "category": "Energy"
-    },
-    {
-        "title": "De la Espriella announces 'Energy Now Plan' to avoid rationing due to El Ni\u00f1o",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/de-la-espriella-anuncia-plan-energia-ya-para-evitar-racionamiento-por-el-nino/",
-        "published_date": "2026-09-06 22:54:01",
         "category": "Energy"
     },
     {
@@ -511,10 +504,101 @@
         "category": "Economy"
     },
     {
+        "title": "Spend your Sunday afternoon with this selection of opinion columns",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/pase-la-tarde-de-domingo-con-esta-seleccion-de-columnas-de-opinion/",
+        "published_date": "2026-09-13 19:43:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "More than 56 thousand people attended the C\u00facuta Book Festival",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/mas-de-56-mil-personas-asistieron-a-la-fiesta-del-libro-de-cucuta-3585759",
+        "published_date": "2026-09-13 19:28:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "Massacre in Sima\u00f1a, Cesar: four people killed in an armed attack;there are several injured",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/masacre-en-simana-cesar-cuatro-personas-asesinadas-en-un-ataque-armado-hay-varios-heridos-3585766",
+        "published_date": "2026-09-13 18:38:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Three facts from the PISA tests that we overlooked",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-educacion/tres-datos-de-las-pruebas-pisa-que-pasamos-por-alto/",
+        "published_date": "2026-09-13 18:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "This is what the first day of dismantling of the 100th and Seventh Street vehicular bridge looks like",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/asi-se-ve-el-primer-dia-de-desmonte-del-puente-vehicular-de-la-calle-100-con-septima-4480785",
+        "published_date": "2026-09-13 17:33:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "The names of the crew member and passengers who were on the aircraft that crashed are known, while the search for its location in Choc\u00f3 continues.",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/se-conocen-los-nombres-del-tripulante-y-las-pasajeras-que-iban-en-la-aeronave-que-se-estrello-mientras-continua-la-busqueda-de-su-ubicacion-en-choco-3585754",
+        "published_date": "2026-09-13 16:54:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "This is how Sergio Arboleda became a quarry of power for the right",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/asi-se-volvio-la-sergio-arboleda-una-cantera-de-poder-de-derecha/",
+        "published_date": "2026-09-13 16:38:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mayor of Tad\u00f3, Choc\u00f3, confirmed aircraft accident with five crew members: search suspended due to heavy rains",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/alcalde-de-tado-choco-confirmo-accidente-de-aeronave-con-cinco-tripulantes-suspendieron-busqueda-por-fuertes-lluvias-3585742",
+        "published_date": "2026-09-13 16:15:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "Prosecutor's Office reactivates arrest warrants against leaders of the Gulf Clan",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/fiscalia-reactiva-ordenes-de-capturas-contra-jefes-del-clan-del-golfo/",
+        "published_date": "2026-09-13 16:12:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "Rain in Colombia September 13: Ideam says that rainfall will intensify during the next few hours in these regions",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/lluvia-en-colombia-13-de-septiembre-ideam-dice-que-se-intensificaran-las-precipitaciones-durante-las-proximas-horas-en-estas-regiones-3585739",
+        "published_date": "2026-09-13 15:55:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "What voices are we willing to listen to?",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/que-voces-estamos-dispuestos-a-escuchar/",
+        "published_date": "2026-09-13 15:43:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "Three members of the 'Yair Berm\u00fadez' front of the dissidents in Valle del Cauca were captured in Seville with weapons and a grenade",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/tres-integrantes-del-frente-yair-bermudez-de-las-disidencias-en-el-valle-del-cauca-fueron-capturados-en-sevilla-con-armas-y-una-granada-3585730",
+        "published_date": "2026-09-13 15:30:45",
+        "category": "Local Events"
+    },
+    {
         "title": "Chats between Vladimir Fern\u00e1ndez and Olmedo L\u00f3pez revealed",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/revelan-chats-entre-vladimir-fernandez-y-olmedo-lopez/",
         "published_date": "2026-09-13 14:14:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Video|The route that the aircraft had before it was reported missing on the route from Pereira to Guaymaral is known.",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/video-se-conoce-recorrido-que-tenia-aeronave-antes-de-que-se-reportara-como-desaparecida-en-la-ruta-desde-pereira-hasta-gaymaral-hay-cinco-pasajeros-3585735",
+        "published_date": "2026-09-13 13:59:26",
         "category": "Local Events"
     },
     {
@@ -557,97 +641,6 @@
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/silla-nacional/pruebas-pisa-en-colombia-el-peso-del-genero-la-religion-y-la-clase/",
         "published_date": "2026-09-13 06:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The charm of the boardwalks that is changing the face of Colombia's cities",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/el-encanto-de-los-malecones-que-esta-cambiando-la-cara-de-las-ciudades-de-colombia-3585562",
-        "published_date": "2026-09-13 00:07:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "Alert for forest fires in Colombia: 18 are still active and Tolima concentrates almost half, according to the UNGRD",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/alerta-por-incendios-forestales-en-colombia-18-siguen-activos-y-tolima-concentra-casi-la-mitad-segun-la-ungrd-3585657",
-        "published_date": "2026-09-12 22:37:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "What's behind the president's use of religion",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/opinion/lo-que-hay-detras-del-uso-de-la-religion-por-parte-del-presidente/",
-        "published_date": "2026-09-12 22:02:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Council of State maintains investiture of congressmen in case of 4G roads",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/consejo-de-estado-mantiene-investidura-de-congresistas-en-caso-de-vias-4g/",
-        "published_date": "2026-09-12 21:15:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "'I'm here, I'm Liz': she survived hours under the rubble of the Pereira earthquake, but lost her house, her mother, her brother and her partner",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/estoy-aqui-soy-liz-sobrevivio-horas-bajo-los-escombros-del-terremoto-de-pereira-pero-perdio-su-casa-a-su-mama-a-su-hermano-y-a-su-pareja-3585527",
-        "published_date": "2026-09-12 20:15:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "De la Espriella announced restriction of the entry of chemical precursors",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/de-la-espriella-anuncio-restriccion-del-ingreso-de-precursores-quimicos-4480535",
-        "published_date": "2026-09-12 20:08:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Miracle journalism",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/opinion/periodismo-milagro/",
-        "published_date": "2026-09-12 19:56:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "The country in caricature: the United States visits Colombia",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/opinion/el-pais-en-caricatura-estados-unidos-visita-colombia/",
-        "published_date": "2026-09-12 19:39:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "Superfinanciera confirmed sanction to Coltefinanciera and set a fine of $295.5 million",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/superfinanciera-confirma-sancion-a-coltefinanciera-y-fija-multa-en-295-5-millones-4480533",
-        "published_date": "2026-09-12 19:38:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Government confirmed extradition of \u201cMedia Arepa\u201d, cousin of \u201cChiquito Malo\u201d",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/gobierno-confirmo-extradicion-de-media-arepa-primo-de-chiquito-malo/",
-        "published_date": "2026-09-12 18:51:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Video |Foreign tourist is victim of rape in the Historic Center of Cartagena: the thief tore the chain from her neck and fled on foot",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/video-turista-extranjera-es-victima-de-raponazo-en-el-centro-historico-de-cartagena-el-ladron-le-arranco-la-cadena-del-cuello-y-huyo-a-pie-3585644",
-        "published_date": "2026-09-12 17:40:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Respice Pollum",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/opinion/respice-pollum/",
-        "published_date": "2026-09-12 17:26:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "The same old miracle",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/opinion/el-mismo-milagro-de-siempre/",
-        "published_date": "2026-09-12 16:49:37",
         "category": "Local Events"
     }
 ]
