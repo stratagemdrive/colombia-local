@@ -1,5 +1,12 @@
 [
     {
+        "title": "Bula: Colombia will continue in the UN and will support the Verification Mission",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/bula-colombia-seguira-en-la-onu-y-apoyara-mision-de-verificacion/",
+        "published_date": "2026-09-15 20:14:46",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Papa Smurf sues the Prosecutor's Office for \u201cemotional damages\u201d after his extradition",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/papa-pitufo-demanda-a-la-fiscalia-por-danos-emocionales-tras-su-extradicion/",
@@ -98,11 +105,25 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Abelardo ordered support for Plazas Vega in his trial in the US.",
+        "title": "Minerals and security: the true scope of the pact with Rubio",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/abelardo-ordeno-respaldar-a-plazas-vega-en-su-proceso-en-ee-uu/",
-        "published_date": "2026-09-07 16:08:19",
-        "category": "Diplomacy"
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/minerales-y-seguridad-el-verdadero-alcance-del-pacto-con-rubio/",
+        "published_date": "2026-09-15 22:01:58",
+        "category": "Military"
+    },
+    {
+        "title": "This is how the construction of the 'Pentagon' in Medell\u00edn, which will host the Shield of the Americas in Colombia, is going: it promises to be a benchmark for global security",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/asi-va-la-construccion-del-pentagono-de-medellin-que-sera-sede-del-escudo-de-las-americas-en-colombia-promete-ser-un-referente-de-seguridad-mundial-3586336",
+        "published_date": "2026-09-15 18:40:30",
+        "category": "Military"
+    },
+    {
+        "title": "Eduardo Verano supports President De La Espriella's plan to recover public order in universities and asks to take care of the infrastructure",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/eduardo-verano-defendio-la-autonomia-universitaria-y-el-respeto-por-los-bienes-publicos-tras-el-anuncio-del-presidente-sobre-la-policia-en-los-campus-3586338",
+        "published_date": "2026-09-15 18:10:42",
+        "category": "Military"
     },
     {
         "title": "Eight men, six cell phones and a territory in check: this is how the criminal structure of alias Yeiner operated in the center of Valle del Cauca",
@@ -224,25 +245,11 @@
         "category": "Military"
     },
     {
-        "title": "With explosives and drones they destroyed the police station in El Carmen and at risk to their lives, they took the uniformed officers by helicopter.",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/con-explosivos-y-drones-destruyeron-la-estacion-de-policia-en-el-carmen-y-por-riesgo-a-sus-vidas-se-llevaron-a-los-uniformados-en-helicoptero-3585201",
-        "published_date": "2026-09-10 18:08:21",
-        "category": "Military"
-    },
-    {
-        "title": "They investigate the disappearance of an ambulance with its driver in Tib\u00fa, Norte de Santander: armed men took it away and detained the staff",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/investigan-desaparicion-de-ambulancia-con-su-conductor-en-tibu-norte-de-santander-hombres-armados-se-la-llevaron-y-retuvieron-al-personal-3585193",
-        "published_date": "2026-09-10 17:34:05",
-        "category": "Military"
-    },
-    {
-        "title": "Technical institutions invite to strengthen the training of human talent for reconstruction after the earthquake",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/instituciones-tecnicas-invitan-a-fortalecer-la-formacion-de-talento-humano-para-la-reconstruccion-tras-el-terremoto-3585181",
-        "published_date": "2026-09-10 16:48:03",
-        "category": "Military"
+        "title": "Without surprises, the Ecopetrol assembly ratified the plan that the Treasury had presented",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/sin-sorpresas-asamblea-de-ecopetrol-ratifico-la-plancha-que-habia-presentado-hacienda-4482204",
+        "published_date": "2026-09-15 16:36:38",
+        "category": "Energy"
     },
     {
         "title": "Upme offers co-financing of up to 70% for gas infrastructure works",
@@ -378,13 +385,6 @@
         "category": "Energy"
     },
     {
-        "title": "El Ni\u00f1o phenomenon would push inflation up to 7.3% at the end of this year",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/fenomeno-de-el-nino-presionaria-la-inflacion-hasta-7-3-a-finales-de-este-ano-4478364",
-        "published_date": "2026-09-10 05:01:16",
-        "category": "Energy"
-    },
-    {
         "title": "BNP Paribas projects economic growth of 2.5% and inflation would close at 6%",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/bnp-paribas-proyecta-crecimiento-economico-de-2-5-e-inflacion-cerraria-en-6-4480178",
@@ -483,178 +483,143 @@
         "category": "Economy"
     },
     {
-        "title": "Sleep informed with the movements of this September 7, 2026",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-movidas-de-este-7-de-septiembre-de-2026/",
-        "published_date": "2026-09-08 00:05:41",
-        "category": "Economy"
-    },
-    {
-        "title": "August inflation was 6.24%.Maintains the upward streak",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/inflacion-de-agosto-fue-de-624-mantiene-la-racha-al-alza/",
-        "published_date": "2026-09-07 23:50:11",
-        "category": "Economy"
-    },
-    {
-        "title": "Inflation accelerated to 6.24% in August driven by accommodation and services",
+        "title": "Four out of ten workers trained up to secondary education",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/inflacion-se-acelero-a-6-24-en-agosto-impulsada-por-alojamiento-y-servicios-4476593",
-        "published_date": "2026-09-07 23:16:06",
-        "category": "Economy"
+        "url": "https://www.larepublica.co/economia/cuatro-de-cada-diez-trabajadores-se-formaron-hasta-la-educacion-media-4482598",
+        "published_date": "2026-09-16 00:23:49",
+        "category": "Local Events"
     },
     {
-        "title": "\u201cVery positive\u201d: minHacienda after meeting with economic commissions",
+        "title": "Sleep informed with the keys to this September 15, 2026",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/muy-positivo-minhacienda-tras-reunion-con-comisiones-economicas/",
-        "published_date": "2026-09-07 22:38:03",
-        "category": "Economy"
+        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-claves-de-este-15-de-septiembre-de-2026/",
+        "published_date": "2026-09-16 00:17:29",
+        "category": "Local Events"
     },
     {
-        "title": "August inflation accelerated to 6.24% driven by accommodation and services",
+        "title": "Bogot\u00e1: politicians demand answers for missing minors",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/bogota-politicos-exigen-respuestas-por-menores-desaparecidos/",
+        "published_date": "2026-09-16 00:06:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "Duss\u00e1n's ally tutored to receive a notary that Petro gave her",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/aliada-de-dussan-entutelo-para-recibir-notaria-que-le-entrego-petro/",
+        "published_date": "2026-09-15 23:22:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "These are the government's arguments for the coca fumigation pilot plan",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/estos-son-los-argumentos-del-gobierno-para-plan-piloto-de-fumigacion-de-coca/",
+        "published_date": "2026-09-15 23:21:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "Senate saves minVivienda for travel in earthquake emergency",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/senado-salva-a-minvivienda-por-viaje-en-emergencia-por-terremoto/",
+        "published_date": "2026-09-15 22:21:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Fitch does not believe that emergency decrees will affect local and regional grades",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/el-dane-revelara-el-dato-correspondiente-a-la-inflacion-anual-durante-agosto-4476452",
-        "published_date": "2026-09-07 21:35:33",
-        "category": "Economy"
+        "url": "https://www.larepublica.co/economia/fitch-no-cree-que-decretos-de-emergencia-afecten-notas-locales-y-regionales-4482318",
+        "published_date": "2026-09-15 21:42:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "Abelardo orders the transfer of 120 leaders of Buenaventura from prison",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/abelardo-ordena-trasladar-de-carcel-a-120-cabecillas-de-buenaventura/",
+        "published_date": "2026-09-15 21:20:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "Government begins delivery of 1,000 houses after earthquake, Choc\u00f3 will have half",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/gobierno-inicia-entrega-de-1-000-casas-tras-terremoto-choco-tendra-la-mitad-4482378",
+        "published_date": "2026-09-15 20:39:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "Pisa tests: school science is the solution",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-educacion/pruebas-pisa-la-ciencia-escolar-es-la-solucion/",
+        "published_date": "2026-09-15 20:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Former Minister of Justice Wilson Ruiz will assume the legal defense of the traffic agent hit by a driver in Ibagu\u00e9",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/exministro-de-justicia-wilson-ruiz-asumira-la-defensa-legal-de-la-agente-de-transito-golpeada-por-una-conductora-en-ibague-3586288",
+        "published_date": "2026-09-15 19:45:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "To show unity, mayor and governor of Caquet\u00e1 came to blows",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/para-mostrar-union-alcalde-y-gobernador-de-caqueta-se-fueron-a-punos/",
+        "published_date": "2026-09-15 19:30:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "The tragedy that Melany's family is experiencing in Barranquilla: a motorcyclist ran over her when she was crossing the pedestrian crossing and now her body does not respond",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/la-tragedia-que-vive-la-familia-de-melany-en-barranquilla-un-motociclista-la-arrollo-cuando-cruzaba-el-paso-peatonal-y-ahora-su-cuerpo-no-responde-3586343",
+        "published_date": "2026-09-15 19:01:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "A teacher, two assistants and a family: the self-construction formula with which Buenaventura hopes to get back up after the earthquake",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/un-maestro-dos-ayudantes-y-una-familia-la-formula-de-autoconstruccion-con-la-que-buenaventura-le-apuesta-a-levantarse-tras-el-terremoto-3586330",
+        "published_date": "2026-09-15 17:56:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "A national milestone: Bucaramanga and Gir\u00f3n receive the Constitutional Court for the first time in their almost 35 years: this is what the programming will be like",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/un-hito-nacional-bucaramanga-y-giron-reciben-por-primera-vez-a-la-corte-constitucional-en-sus-casi-35-anos-asi-sera-la-programacion-3586324",
+        "published_date": "2026-09-15 17:35:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "Barranquilla and Puerto Colombia will have to wait six or seven more months for the ruling that will define their limits: Senator Carlos Meisel",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-y-puerto-colombia-tendran-que-esperar-seis-o-siete-meses-mas-por-el-fallo-que-definira-sus-limites-senador-carlos-meisel-3586316",
+        "published_date": "2026-09-15 17:17:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "New risk map in Medell\u00edn: the dilemma of updating the POT between the protection of life and the brake on housing",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/nuevo-mapa-de-riesgo-en-medellin-el-dilema-de-actualizar-el-pot-entre-la-proteccion-de-la-vida-y-el-freno-a-la-vivienda-3586309",
+        "published_date": "2026-09-15 17:12:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "Real income from accommodation fell 7.4% in July according to Dane",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/ingresos-reales-de-alojamientos-cayeron-7-4-en-julio-segun-informo-el-dane-4482133",
+        "published_date": "2026-09-15 16:52:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "From deceptive gifts to family threats: the criminal pattern of three men accused of abusing minors in Cali and Jamund\u00ed",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/de-los-regalos-enganosos-a-las-amenazas-familiares-el-patron-criminal-de-tres-hombres-senalados-de-abusar-de-menores-en-cali-y-jamundi-3586300",
+        "published_date": "2026-09-15 16:43:50",
+        "category": "Local Events"
     },
     {
         "title": "More than fact-checking: misinformation is defeated with trust and deliberation",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/red-de-expertos/red-de-democracia-y-tecnologia/mas-que-fact-checking-la-desinformacion-se-vence-con-confianza-y-deliberacion/",
         "published_date": "2026-09-15 15:18:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Who is Luis Ramiro Ricardo Buelvas",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-luis-ramiro-ricardo-buelvas/",
-        "published_date": "2026-09-15 14:04:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "Juli\u00e1n Bedoya said that it was \u201cfrom the government.\u201dHe had to collect pita",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/julian-bedoya-dijo-que-era-de-gobierno-le-toco-recoger-pita/",
-        "published_date": "2026-09-15 14:01:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "Decentralization in Colombia beyond the distribution of money",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/la-descentralizacion-en-colombia-mas-alla-de-la-reparticion-de-dinero/",
-        "published_date": "2026-09-15 14:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Who is Juan David Londo\u00f1o Arango",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-juan-david-londono-arango/",
-        "published_date": "2026-09-15 13:53:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "Who is Luis Carlos \u00c1lvarez Morales",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-luis-carlos-alvarez-morales/",
-        "published_date": "2026-09-15 13:46:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Who is Oscar Fabi\u00e1n Espinosa",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-oscar-fabian-espinosa/",
-        "published_date": "2026-09-15 13:36:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Exposed former director of Dane defends independence of the entity",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/echado-exdirector-del-dane-defiende-independencia-de-la-entidad/",
-        "published_date": "2026-09-15 13:25:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "Who is Camilo Esteban \u00c1vila Morales",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-camilo-esteban-avila-morales/",
-        "published_date": "2026-09-15 13:20:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "Reservoir level is at 79.24%, 0.43 pps.below the Creg reference path",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/nivel-de-embalses-esta-en-79-24-0-43-pps-debajo-de-la-senda-de-referencia-de-la-creg-4481898",
-        "published_date": "2026-09-15 12:44:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u00c1lvaro Leyva sends a letter to the Secretary of State of the United States, Marco Rubio, after denouncing former President Gustavo Petro: 'Embarrassing'",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/politica/partidos-politicos/alvaro-leyva-envia-carta-al-secretario-de-estado-de-estados-unidos-marco-rubio-tras-denunciar-al-expresidente-gustavo-petro-bochornoso-3586161",
-        "published_date": "2026-09-15 10:21:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tension in Urab\u00e1 due to the surprise capture of Juan Moreno Mena, mayor of Riosucio, Choc\u00f3: this is what is known about the case",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/tension-en-el-uraba-por-la-sorpresiva-captura-de-juan-moreno-mena-alcalde-de-riosucio-choco-esto-es-lo-que-se-conoce-del-caso-3586170",
-        "published_date": "2026-09-15 09:50:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "This is how the controversial eviction progresses in the Manrique neighborhood: between the humanitarian drama and the race to prevent a tragedy from being repeated",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/asi-avanza-el-polemico-desalojo-en-el-barrio-manrique-entre-el-drama-humanitario-y-la-carrera-por-evitar-que-se-repita-una-tragedia-3586152",
-        "published_date": "2026-09-15 09:26:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "A couple riding a motorcycle was killed by heavy machinery in La Guajira: they leave behind three little ones",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/pareja-que-iba-en-moto-murio-arrollada-por-maquinaria-pesada-en-la-guajira-dejan-tres-pequenos-3586124",
-        "published_date": "2026-09-15 09:19:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "He fell in full collection: an alleged member of Los Espartanos is captured for extorting a merchant in Buenaventura",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/cayo-en-pleno-cobro-capturan-a-presunto-integrante-de-los-espartanos-por-extorsionar-a-comerciante-en-buenaventura-3586156",
-        "published_date": "2026-09-15 09:18:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "Why De La Espriella fears pressure from the Torres family on Congress in the definition of the boundaries between Barranquilla and Puerto Colombia",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/por-que-de-la-espriella-teme-presiones-de-la-familia-torres-sobre-el-congreso-en-la-definicion-de-los-linderos-entre-barranquilla-y-puerto-colombia-3586148",
-        "published_date": "2026-09-15 09:16:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "They denounce the hunting of a Vitelino Toucan in Betulia, Santander: the bird was found with a bullet wound",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/denuncian-la-caza-de-un-tucan-vitelino-en-betulia-santander-el-ave-fue-hallado-con-un-impacto-de-bala-3586146",
-        "published_date": "2026-09-15 09:08:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "The dramatic operation by air and land to reach the plane that crashed in Choc\u00f3 with five people on board",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/el-dramatico-operativo-por-aire-y-tierra-para-llegar-a-la-avioneta-siniestrada-en-choco-con-cinco-personas-a-bordo-3586130",
-        "published_date": "2026-09-15 09:03:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "Home almost ended in tragedy in Barranquilla: deliveryman was shot twice for not delivering to a second floor",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/domicilio-casi-termina-en-tragedia-en-barranquilla-repartidor-recibio-dos-disparos-por-no-realizar-la-entrega-en-un-segundo-piso-3586111",
-        "published_date": "2026-09-15 07:53:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "Oil tankers do the math with an average brent of US$93 per barrel for this course",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/los-petroleros-hacen-cuentas-con-un-brent-promedio-de-us-93-por-barril-4480960",
-        "published_date": "2026-09-15 05:01:50",
         "category": "Local Events"
     }
 ]
