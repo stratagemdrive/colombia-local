@@ -1,5 +1,12 @@
 [
     {
+        "title": "Foreign Minister stressed that cooperating with Israel will be key to stopping security threats",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/canciller-recalco-que-cooperar-con-israel-sera-clave-para-frenar-las-amenazas-a-seguridad-4483614",
+        "published_date": "2026-09-17 11:56:49",
+        "category": "Diplomacy"
+    },
+    {
         "title": "65 billion barrels later, the US certifies Venezuela",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/65-mil-millones-de-barriles-despues-ee-uu-certifica-a-venezuela/",
@@ -63,11 +70,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "\"Security relationship between the US and Colombia will not be the same as before, it will be better\"",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/entrevista-con-marco-rubio-secretario-de-estado-de-ee-uu-sobre-las-relaciones-con-colombia-4477735",
-        "published_date": "2026-09-09 13:11:46",
-        "category": "Diplomacy"
+        "title": "Moments of anguish in El Remolino, Nari\u00f1o: confrontation between the Army and armed men paralyzed the Pan-American Highway",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/momentos-de-angustia-en-el-remolino-narino-enfrentamiento-entre-el-ejercito-y-hombres-armados-paralizo-la-via-panamericana-3586746",
+        "published_date": "2026-09-17 08:43:13",
+        "category": "Military"
     },
     {
         "title": "De la Espriella and the president of Costa Rica will talk about security in Barranquilla",
@@ -203,11 +210,18 @@
         "category": "Military"
     },
     {
-        "title": "President De La Espriella revealed that six minors had been recovered by the Army after fighting with the 'Gulf clan' in Antioquia",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/presidente-de-la-espriella-revelo-que-seis-menores-de-edad-habrian-sido-recuperados-por-el-ejercito-tras-combates-con-el-clan-del-golfo-en-antioquia-3585732",
-        "published_date": "2026-09-13 13:42:32",
-        "category": "Military"
+        "title": "Carlos Su\u00e1rez will be president of the board of directors of Ecopetrol",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/carlos-suarez-sera-presidente-de-la-junta-directiva-de-ecopetrol/",
+        "published_date": "2026-09-17 13:36:00",
+        "category": "Energy"
+    },
+    {
+        "title": "There are more hectares planted with coca leaves than with tomatoes, beans and onions combined.",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/hay-mas-hectareas-sembradas-de-coca-que-de-tomate-frijol-y-cebolla-juntos-4483413",
+        "published_date": "2026-09-17 05:03:23",
+        "category": "Energy"
     },
     {
         "title": "The United States maintains the decertification with conditions for Colombia",
@@ -336,18 +350,11 @@
         "category": "Energy"
     },
     {
-        "title": "Starting tomorrow, ANI will launch a shock plan to unblock 553 procedures",
+        "title": "\"We need investment to once again represent $25 of every $100 of GDP\"",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/desde-manana-ani-pondra-en-marcha-plan-de-choque-para-destrabar-553-tramites-4480664",
-        "published_date": "2026-09-13 13:33:12",
-        "category": "Energy"
-    },
-    {
-        "title": "\u201cWe have to discuss VAT exemptions within the national fiscal adjustment plan\u201d",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/inside-con-marcela-melendez-directora-de-fedesarrollo-4478944",
-        "published_date": "2026-09-11 05:00:29",
-        "category": "Energy"
+        "url": "https://www.larepublica.co/economia/discurso-de-apertura-del-congreso-anual-de-energia-de-acolgen-4483780",
+        "published_date": "2026-09-17 15:02:58",
+        "category": "Economy"
     },
     {
         "title": "MinHacienda transferred $300,000 million to alleviate liquidity in the electricity sector",
@@ -434,150 +441,143 @@
         "category": "Economy"
     },
     {
-        "title": "External debt reached US$247,908 million in June, equivalent to 48.6% of GDP",
+        "title": "Supreme Court renews the Investigative Chamber with five magistrates",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/corte-suprema-de-justicia-cinco-magistrados-renuevan-la-sala-de-instruccion/",
+        "published_date": "2026-09-17 15:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Radio Nacional is public property, not an instrument of government",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/radio-nacional-es-patrimonio-publico-no-instrumento-de-gobierno/",
+        "published_date": "2026-09-17 14:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Dian warned about $1.28 billion in withholdings at source that have not been paid",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/deuda-externa-alcanzo-us-247-908-millones-en-junio-equivalente-a-48-6-del-pib-4477691",
-        "published_date": "2026-09-09 11:46:34",
-        "category": "Economy"
+        "url": "https://www.larepublica.co/economia/dian-alerto-sobre-1-28-billones-de-retencion-en-la-fuente-que-no-han-sido-pagados-4483758",
+        "published_date": "2026-09-17 13:33:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "Corficolombiana estimates that the ISE growth will be 0.3% in July, the lowest of the year",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/corficolombiana-estima-que-crecimiento-del-ise-sea-de-0-3-en-julio-el-mas-bajo-del-ano-4483696",
+        "published_date": "2026-09-17 12:57:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "Breakfast informed with the movements of this September 17, 2026",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-movidas-de-este-17-de-septiembre-de-2026/",
+        "published_date": "2026-09-17 12:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Trumpist circle around Abelardo",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/el-circulo-trumpista-alrededor-de-abelardo/",
+        "published_date": "2026-09-17 12:21:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "The paradox of informing: guaranteed in the norm, drowned in the market",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/la-paradoja-de-informar-garantizada-en-la-norma-ahogada-en-el-mercado/",
+        "published_date": "2026-09-17 12:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Medell\u00edn Metro account was hacked to spread a false cryptocurrency advertisement: this is what the company said",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/hackearon-la-cuenta-del-metro-de-medellin-para-difundir-un-falso-anuncio-de-criptomonedas-esto-dijo-la-empresa-3586755",
+        "published_date": "2026-09-17 09:41:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Metropolitan Stadium of Barranquilla already turns on the more than 74,000 LED lights on its fa\u00e7ade, two months before the final of the Copa Sudamericana",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/el-estadio-metropolitano-de-barranquilla-ya-enciende-las-mas-de-74-000-luces-led-de-su-fachada-a-dos-meses-de-la-final-de-la-copa-sudamericana-3586758",
+        "published_date": "2026-09-17 09:33:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "Judge confirmed arrest warrant for the mayor of Villa de Leyva (Boyac\u00e1), V\u00edctor Gamboa, who is imprisoned in La Picota",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/juez-confirmo-medida-de-aseguramiento-al-alcalde-de-villa-de-leyva-boyaca-victor-gamboa-quien-esta-preso-en-la-picota-3586735",
+        "published_date": "2026-09-17 08:16:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "Fake priest who 'blessed' cars in exchange for money in Medell\u00edn ended up expelled from the country: he had already done the same in Bogot\u00e1",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/falso-cura-que-bendecia-carros-a-cambio-de-dinero-en-medellin-termino-expulsado-del-pais-ya-habia-hecho-lo-mismo-en-bogota-3586739",
+        "published_date": "2026-09-17 08:12:20",
+        "category": "Local Events"
+    },
+    {
+        "title": "'During the last seven months they played with the mental health of our university': rector of the Universidad del Atl\u00e1ntico",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/durante-los-ultimos-siete-meses-jugaron-con-la-salud-mental-de-nuestra-universidad-rector-de-la-universidad-del-atlantico-3586726",
+        "published_date": "2026-09-17 07:57:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "Beneficiaries of subsidies for the earthquake receive first transfers from the UNGRD in Buenaventura and Roldanillo: this is how they can claim aid",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/beneficiarios-de-subsidios-en-buenaventura-y-roldanillo-por-terremoto-reciben-primeros-giros-de-la-ungrd-asi-puede-aplicar-3586716",
+        "published_date": "2026-09-17 07:50:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Is your neighborhood on the list?Learn about the works, repairs and Emcali water cut for this Thursday, September 17 in Cali and Yumbo",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/esta-su-barrio-en-la-lista-conozca-las-obras-reparaciones-y-el-corte-de-agua-de-emcali-para-este-jueves-17-de-septiembre-en-cali-y-yumbo-3586732",
+        "published_date": "2026-09-17 07:47:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "The advance of Trumpism in Colombia and its access to the De la Espriella circle",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/la-avanzada-del-trumpismo-en-colombia-y-su-acceso-al-circulo-de-la-espriella/",
+        "published_date": "2026-09-17 06:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The TES are close to 13% after the approval of the record budget amount for 2027",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/tes-rozan-13-tras-luz-verde-al-monto-del-presupuesto-record-para-2027-4483396",
+        "published_date": "2026-09-17 05:03:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Fertilizer prices hit highs due to Middle East conflict",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/los-precios-de-fertilizantes-estan-en-maximos-por-la-guerra-en-medio-oriente-4483254",
+        "published_date": "2026-09-17 05:01:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "De La Espriella Government would appoint Lucas Eduardo Ariza to head Indumil",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/gobierno-de-la-espriella-designaria-a-lucas-eduardo-ariza-al-frente-de-indumil-4483467",
+        "published_date": "2026-09-17 01:51:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Government of La Guajira announced a new variant that will connect with Venezuela",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/gobernacion-de-la-guajira-anuncio-construccion-de-variante-que-conectara-con-venezuela-4483459",
+        "published_date": "2026-09-17 01:08:56",
+        "category": "Local Events"
     },
     {
         "title": "Germany secures US$28.65 million for rural road infrastructure in Caquet\u00e1",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/alemania-asegura-us-28-65-millones-para-infraestructura-vial-rural-en-caqueta-4483460",
         "published_date": "2026-09-17 00:58:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "The level of the reservoirs reached 79.36% of their useful capacity in August",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/el-nivel-de-los-embalses-llego-a-79-36-de-su-capacidad-util-en-agosto-4483432",
-        "published_date": "2026-09-17 00:04:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sleep informed with the keys to this September 16, 2026",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-claves-de-este-16-de-septiembre-de-2026/",
-        "published_date": "2026-09-17 00:02:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "The photo: Abelardo possesses Ilva Myriam Hoyos in MinEducaci\u00f3n",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/la-foto-abelardo-posesiona-a-ilva-myriam-hoyos-en-mineducacion/",
-        "published_date": "2026-09-16 23:54:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "Amaz\u00f3nica LNG hires Jereh to advance the construction of the LNG plant",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/amazonica-lng-contrata-a-jereh-para-avanzar-en-construccion-de-planta-de-gnl-4483395",
-        "published_date": "2026-09-16 23:28:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "With precautions, judge lifts suspension of bombings where there are minors",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/con-precauciones-juez-levanta-suspension-a-bombardeos-donde-haya-menores/",
-        "published_date": "2026-09-16 23:12:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "MinTrabajo points out a deficit of $5 billion for pension coverage",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/mintrabajo-senala-un-deficit-de-5-billones-para-el-cubrimiento-de-pensiones-4483300",
-        "published_date": "2026-09-16 22:47:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Guaviare Book Fair puts the Peace Agreements at the center",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/feria-del-libro-del-guaviare-pone-en-el-centro-los-acuerdos-de-paz/",
-        "published_date": "2026-09-16 22:43:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "Opposition will coordinate accidental commission to defend agrarian reform",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/oposicion-coordinara-comision-accidental-para-defender-reforma-agraria/",
-        "published_date": "2026-09-16 22:27:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Returning to coca fumigation will not work a miracle",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/volver-a-la-fumigacion-de-coca-no-hara-el-milagro/",
-        "published_date": "2026-09-16 21:39:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "Uribismo goes against Enrique G\u00f3mez for calling Uribe \u201csocial democrat\u201d",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/uribismo-se-va-contra-enrique-gomez-por-decirle-socialdemocrata-a-uribe/",
-        "published_date": "2026-09-16 21:24:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "MinJusticia: Commandos in Putumayo will be the first sign of submission",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/minjusticia-comandos-en-putumayo-seran-primera-muestra-de-sometimiento/",
-        "published_date": "2026-09-16 20:27:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "Abelardo's second bilateral will be with the president of Costa Rica",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/la-segunda-bilateral-de-abelardo-sera-con-la-presidenta-de-costa-rica/",
-        "published_date": "2026-09-16 20:19:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Andi warned that manufacturing industry growth is \"moderate\"",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/andi-advirtio-que-el-crecimiento-de-la-industria-manufacturera-es-moderado-4483196",
-        "published_date": "2026-09-16 20:04:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "A relative of one of the victims of the tragic small plane accident on the Condoto-Guaymaral route spoke: video of the minutes before the disappearance was revealed",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/hablo-familiar-de-una-de-las-victimas-del-tragico-accidente-de-avioneta-en-ruta-condoto-guaymaral-revelan-video-de-los-minutos-previos-a-desaparicion-3586653",
-        "published_date": "2026-09-16 19:45:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Thirst advances in Alta Guajira: Wayuu communities dig the earth to get water to drink while their animals continue to die",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/la-sed-avanza-en-la-alta-guajira-comunidades-wayus-excavan-la-tierra-para-conseguir-agua-para-beber-mientras-se-les-siguen-muriendo-los-animales-3586652",
-        "published_date": "2026-09-16 19:25:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "More than 500 hectares affected: forest fire keeps the Colombian Massif in emergency",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/mas-de-500-hectareas-afectadas-incendio-forestal-mantiene-en-emergencia-al-macizo-colombiano-3586650",
-        "published_date": "2026-09-16 19:13:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "They investigate the murder of 'DJ Samplista' in Barranquilla: he was shot eight times and left mysterious messages that are being reviewed today by the authorities",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/investigan-asesinato-de-dj-samplista-en-barranquilla-recibio-ocho-disparos-y-dejo-misteriosos-mensajes-que-hoy-son-revisados-por-las-autoridades-3586643",
-        "published_date": "2026-09-16 18:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "They rescue a pitbull in a serious state of malnutrition after an alleged case of animal abuse in the north of Bucaramanga",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/rescatan-a-pitbull-en-grave-estado-de-desnutricion-tras-presunto-caso-de-maltrato-animal-en-el-norte-de-bucaramanga-3586635",
-        "published_date": "2026-09-16 18:02:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Play\u00f3n 4 is preparing its opening: 246 meat and flower merchants will debut renovated spaces in the traditional market in the Center of Barranquilla",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/playon-4-alista-su-apertura-246-comerciantes-de-carnes-y-flores-estrenaran-espacios-renovados-en-el-mercado-tradicional-del-centro-de-barranquilla-3586637",
-        "published_date": "2026-09-16 17:30:00",
         "category": "Local Events"
     }
 ]
