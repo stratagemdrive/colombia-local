@@ -91,11 +91,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "They reveal hypotheses of the school bus accident that left two dead in Sucre: driver would have protected minors;Mineducaci\u00f3n spoke out",
+        "title": "Buses and parcels: the silent route of ketamine to the tusi laboratories in Valle del Cauca",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/revelan-hipotesis-del-accidente-de-bus-escolar-que-dejo-dos-muertos-en-sucre-conductor-habria-protegido-a-menores-mineducacion-se-pronuncio-3585261",
-        "published_date": "2026-09-11 09:15:00",
-        "category": "Diplomacy"
+        "url": "https://www.eltiempo.com/colombia/cali/buses-y-encomiendas-la-ruta-silenciosa-de-la-ketamina-hacia-los-laboratorios-de-tusi-en-el-valle-del-cauca-3587268",
+        "published_date": "2026-09-19 08:30:51",
+        "category": "Military"
     },
     {
         "title": "This protest video in Cali is from July and not against De la Espriella",
@@ -228,13 +228,6 @@
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/cali/video-atacan-con-drones-el-radar-de-la-aeronautica-civil-en-zona-rural-de-candelaria-valle-del-cauca-alcaldia-activa-protocolo-de-seguridad-3586443",
         "published_date": "2026-09-16 09:55:27",
-        "category": "Military"
-    },
-    {
-        "title": "130 kilos of explosives from the 36th front of the dissidents were destroyed by the National Army in Antioquia: there were bombs for drones",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/130-kilos-de-explosivos-del-frente-36-de-las-disidencias-fueron-destruidos-por-el-ejercito-nacional-en-antioquia-habia-bombas-para-drones-3586394",
-        "published_date": "2026-09-15 23:20:11",
         "category": "Military"
     },
     {
@@ -434,11 +427,95 @@
         "category": "Economy"
     },
     {
-        "title": "Carf calls for \"convincing\" adjustment, with a surplus of 2% of GDP to return to the rule",
+        "title": "Tremor today in Colombia |They report a strong earthquake of 4.3 magnitude on the morning of this Saturday, September 19: it was felt in Cali and other cities",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-hoy-en-colombia-reportan-fuerte-sismo-de-4-3-de-magnitud-la-manana-de-este-sabado-19-de-septiembre-se-sintio-en-cali-y-otras-ciudades-3587275",
+        "published_date": "2026-09-19 08:51:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "Colombia continues to burn: 15 forest fires remain active and Tolima concentrates more than half",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/colombia-sigue-ardiendo-15-incendios-forestales-permanecen-activos-y-tolima-concentra-mas-de-la-mitad-3587274",
+        "published_date": "2026-09-19 08:45:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "Alias \u200b\u200bCuba, designated head of 'La Cordillera' hitmen, falls: this is how this structure operates in Risaralda",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/cae-alias-cuba-senalado-jefe-de-sicarios-de-la-cordillera-asi-opera-esta-estructura-en-risaralda-3587269",
+        "published_date": "2026-09-19 08:40:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Barranquilla is experiencing days of extreme heat: thermal sensation reaches 55 \u00b0C and the Ideam maintains alerts for fires in the Atlantic",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-vive-jornadas-de-calor-extremo-sensacion-termica-llega-a-55-c-y-el-ideam-mantiene-alertas-por-incendios-en-el-atlantico-3587273",
+        "published_date": "2026-09-19 08:32:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Air Force continues to recover the bodies of passengers in a small plane that crashed on the Condoto-Guaymaral route: new videos of the crash zone are revealed",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/fuerza-aerea-avanza-en-recuperacion-de-cuerpos-de-pasajeros-de-avioneta-accidentada-en-ruta-condoto-guaymaral-revelan-nuevos-videos-de-zona-de-choque-3587267",
+        "published_date": "2026-09-19 07:34:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "Get to know the neighborhoods of Cali with maintenance and repairs from Emcali this Saturday, September 19",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/conozca-los-barrios-de-cali-con-mantenimientos-y-reparaciones-de-emcali-este-sabado-19-de-septiembre-3587266",
+        "published_date": "2026-09-19 07:17:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tremor today in Colombia |They report eight earthquakes during the early hours of this Saturday, September 19;the largest was magnitude 4.0: details",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-hoy-en-colombia-reportan-sismo-de-magnitud-4-0-en-istmina-choco-durante-la-madrugada-del-sabado-19-de-septiembre-profundidad-y-detalles-3587259",
+        "published_date": "2026-09-19 06:38:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "This is known about the identity of the Israeli citizen who died in a paragliding accident in Bello, Antioquia",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/esto-se-sabe-sobre-la-identidad-del-ciudadano-israeli-que-murio-en-un-accidente-de-parapente-en-bello-antioquia-3587128",
+        "published_date": "2026-09-19 05:08:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "AI will probably end a world, but not humanity",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-democracia-y-tecnologia/la-ia-probablemente-acabe-con-un-mundo-pero-no-con-la-humanidad/",
+        "published_date": "2026-09-19 05:05:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "New wave of 15 decrees to accelerate reconstruction after the national earthquake",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/carf-pide-plan-fiscal-convincente-se-requiere-superavit-de-2-del-pib-en-2028-para-retornar-a-la-regla-fiscal-4479418",
-        "published_date": "2026-09-11 12:40:32",
-        "category": "Economy"
+        "url": "https://www.larepublica.co/economia/ola-de-15-decretos-para-acelerar-la-reconstruccion-luego-del-terremoto-4485725",
+        "published_date": "2026-09-19 05:04:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "Nearly 290,000 people work as street vendors in the country",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/cerca-de-290-000-personas-trabajan-como-vendedores-ambulantes-en-el-pais-4485736",
+        "published_date": "2026-09-19 05:01:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cWe have opened more than 343 sanctioning processes for burning and forest fires\u201d",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/entrevista-con-la-directora-de-cortolima-olga-lucia-alfonso-sobre-el-impacto-de-los-incendios-en-tolima-4485683",
+        "published_date": "2026-09-19 05:01:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "The ISE for July rose 1.1% during July, but agriculture and mines still do not raise their heads",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/el-ise-de-julio-subio-1-1-pero-el-agro-y-minas-siguen-sin-levantar-cabeza-4485708",
+        "published_date": "2026-09-19 05:01:25",
+        "category": "Local Events"
     },
     {
         "title": "Sleep informed with the keys to this September 18, 2026",
@@ -483,101 +560,10 @@
         "category": "Local Events"
     },
     {
-        "title": "Six skills to train young people for the labor market of 2040",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/seis-habilidades-para-formar-a-los-jovenes-frente-al-mercado-laboral-de-2040/",
-        "published_date": "2026-09-18 20:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "'We have learned the terrible truth about the macabre murder of Andr\u00e9s Camilo': lawyer for the family of the engineer who disappeared in Antioquia in 2022",
+        "title": "The former treasurer of the Itag\u00fc\u00ed firefighters, the first convicted of corruption in the AMVA case during the Quintero administration, will not go to prison",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/hemos-conocido-la-terrible-verdad-sobre-el-macabro-asesinato-de-andres-camilo-abogado-de-la-familia-del-ingeniero-desaparecido-en-antioquia-en-3587189",
-        "published_date": "2026-09-18 19:55:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "Heat alert in Barranquilla this Friday, September 18: thermal sensations of 55 \u00b0C are reported, according to meteorological records",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/alerta-por-calor-en-barranquilla-este-viernes-18-de-septiembre-se-reportan-sensaciones-termicas-de-55-c-segun-registros-meteorologicos-3587166",
-        "published_date": "2026-09-18 18:32:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "MinEducaci\u00f3n will promote the reconstruction of public HEIs affected by the earthquake",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/ministerio-de-educacion-impulsara-la-reconstruccion-de-72-ies-publicas-afectadas-por-sismo-4485490",
-        "published_date": "2026-09-18 18:27:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "AmCham backed tax incentives to attract investment after the earthquake",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/amcham-respaldo-incentivos-tributarios-para-atraer-inversion-tras-el-terremoto-4485500",
-        "published_date": "2026-09-18 18:19:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "Why buying a home in Antioquia no longer depends only on the price?This is what buyers are looking for now",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/por-que-comprar-vivienda-en-antioquia-ya-no-depende-solo-del-precio-esto-es-lo-que-estan-buscando-ahora-los-compradores-3587204",
-        "published_date": "2026-09-18 18:06:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "TransMiCable of San Crist\u00f3bal reaches 94% progress and passed all technical tests",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/transmicable-de-san-cristobal-alcanza-94-de-avance-y-supera-pruebas-tecnicas-4485454",
-        "published_date": "2026-09-18 17:45:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "Santa Marta recovers a street that for six years lived under the shadow of an improvised prison: goodbye to the North Transitional Detention Center",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/santa-marta-recupera-una-calle-que-durante-seis-anos-vivio-bajo-la-sombra-de-una-carcel-improvisada-adios-al-centro-de-reclusion-transitorio-norte-3587199",
-        "published_date": "2026-09-18 17:40:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mac Master toured Pereira and visited the areas and companies affected by the earthquake",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/mac-master-recorrio-pereira-y-visito-las-zonas-y-empresas-afectadas-por-el-terremoto-4485459",
-        "published_date": "2026-09-18 17:39:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "David V\u00e9lez will be an ad honorem advisor to the Government to promote AI in Colombia",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/david-velez-sera-asesor-ad-honorem-del-gobierno-para-impulsar-la-ia-en-colombia-4485434",
-        "published_date": "2026-09-18 17:18:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "MinAmbiente will allow opening earthquake debris management sites without a license",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/minambiente-permitira-abrir-sitios-de-manejo-de-escombros-del-terremoto-sin-licencia-4485414",
-        "published_date": "2026-09-18 17:13:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "MinVivienda will enable modifications to the POT in cities affected by the earthquake",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/minvivienda-habilitara-modificaciones-al-pot-en-ciudades-afectadas-por-sismo-4485404",
-        "published_date": "2026-09-18 17:02:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "MinTrabajo will give $700,362 per affected employee to micro and small businesses",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/mintrabajo-dara-700-362-por-empleado-damnificado-a-micro-y-pequenas-empresas-4485356",
-        "published_date": "2026-09-18 16:52:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "Those Cl\u00e1sicos: Jessi Uribe's new album that she made with Franko, her 'neighborhood' friend with whom she grew up in Bucaramanga;This was its launch",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/aquellos-clasicos-el-nuevo-album-de-jessi-uribe-que-hizo-con-franko-su-amigo-de-barrio-con-el-que-crecio-en-bucaramanga-asi-fue-su-lanzamiento-3587126",
-        "published_date": "2026-09-18 16:41:52",
+        "url": "https://www.eltiempo.com/colombia/medellin/el-extesorero-de-los-bomberos-de-itaguei-el-primer-condenado-por-corrupcion-en-el-caso-del-amva-durante-la-administracion-quintero-no-ira-a-prision-3587236",
+        "published_date": "2026-09-18 21:05:31",
         "category": "Local Events"
     }
 ]
