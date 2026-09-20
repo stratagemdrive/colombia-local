@@ -1,5 +1,12 @@
 [
     {
+        "title": "Minister of the Interior, Rodrigo Lara, speaks about the serious fire in Villa de Leyva, Boyac\u00e1: 'It is the largest in the country'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/ministro-del-interior-rodrigo-lara-se-pronuncia-sobre-el-grave-incendio-en-villa-de-leyva-boyaca-es-el-de-mayor-magnitud-en-el-pais-3587400",
+        "published_date": "2026-09-19 22:51:37",
+        "category": "Diplomacy"
+    },
+    {
         "title": "De la Espriella will not be in the UN General Assembly and Restrepo will replace him",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/de-la-espriella-no-ira-a-la-asamblea-general-de-la-onu-y-restrepo-ira-en-su-reemplazo-4485614",
@@ -217,6 +224,20 @@
         "category": "Military"
     },
     {
+        "title": "The macro cases that emerged from the internal audit carried out by Ecopetrol",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/los-macrocasos-que-se-desprendieron-de-la-auditoria-interna-de-ecopetrol-4486418",
+        "published_date": "2026-09-20 13:35:38",
+        "category": "Energy"
+    },
+    {
+        "title": "Condemned by Centros Poblados is behind million-dollar solar panel contracts from the Petro government",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/condenado-por-centros-poblados-esta-detras-de-millonarios-contratos-de-paneles-solares-de-gobierno-petro/",
+        "published_date": "2026-09-20 06:00:00",
+        "category": "Energy"
+    },
+    {
         "title": "Oil and mining attract US$83 of every US$100 that comes from foreign investment",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/petroleo-y-mineria-atraen-us-83-de-cada-us-100-que-llegan-por-inversion-extranjera-4486326",
@@ -343,20 +364,6 @@
         "category": "Energy"
     },
     {
-        "title": "Without surprises, the Ecopetrol assembly ratified the plan that the Treasury had presented",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/sin-sorpresas-asamblea-de-ecopetrol-ratifico-la-plancha-que-habia-presentado-hacienda-4482204",
-        "published_date": "2026-09-15 16:36:38",
-        "category": "Energy"
-    },
-    {
-        "title": "Upme offers co-financing of up to 70% for gas infrastructure works",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/upme-ofrece-cofinanciacion-de-hasta-70-para-obras-de-infraestructura-de-gas-4482128",
-        "published_date": "2026-09-15 15:17:55",
-        "category": "Energy"
-    },
-    {
         "title": "Ministry of Finance approved addition of $624,656 million to address emergency",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/ministerio-de-hacienda-aprobo-adicion-de-624-656-millones-para-atender-emergencia-4485373",
@@ -406,17 +413,73 @@
         "category": "Economy"
     },
     {
-        "title": "Carf doubts the return to the fiscal rule in 2028 and asks to make a more \u201cconvincing\u201d adjustment",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/carf-duda-sobre-retorno-a-la-regla-fiscal-en-2028-y-pide-hacer-un-ajuste-convincente-4480024",
-        "published_date": "2026-09-12 05:01:18",
-        "category": "Economy"
+        "title": "Spend the morning of Sunday, September 20, with this opinion column recommendation",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/pase-la-manana-del-domingo-20-de-septiembre-con-esta-recomendacion-de-columnas-de-opinion/",
+        "published_date": "2026-09-20 14:00:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "Leaving the Rome Statute is not a presidential decision",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-derecho-constitucional/salir-del-estatuto-de-roma-no-es-una-decision-presidencial/",
+        "published_date": "2026-09-20 13:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "From elected to elected: Abelard and the dispute of faith",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/de-electo-a-elegido-abelardo-y-la-disputa-de-la-fe/",
+        "published_date": "2026-09-20 12:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Minister of the Interior Rodrigo Lara delivers an optimistic assessment of the fire in Villa de Leyva: work continues",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/ministro-del-interior-rodrigo-lara-entrega-balance-optimista-sobre-el-incendio-en-villa-de-leyva-siguen-las-labores-3587420",
+        "published_date": "2026-09-20 09:05:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "Is your neighborhood on the list?These are the areas of Cali and Yumbo with interventions by Emcali this Sunday, September 20",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/su-barrio-esta-en-la-lista-estas-son-las-zonas-de-cali-y-yumbo-con-intervenciones-de-emcali-este-domingo-20-de-septiembre-3587413",
+        "published_date": "2026-09-20 08:02:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "Serious forest fire in Villa de Leyva: helicopters arrive this Sunday, September 20 to support work;actions announced by the Government",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/grave-incendio-forestal-en-villa-de-leyva-helicopteros-llegan-este-domingo-20-de-septiembre-para-apoyar-labores-acciones-anunciadas-por-el-gobierno-3587409",
+        "published_date": "2026-09-20 07:04:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tremor today in Colombia |They report a strong earthquake of 4.1 magnitude on the morning of this Sunday, September 20: it was felt in Pereira and other cities",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-hoy-en-colombia-reportan-fuerte-sismo-de-4-1-de-magnitud-la-manana-de-este-domingo-20-de-septiembre-se-sintio-en-pereira-y-otras-ciudades-3587407",
+        "published_date": "2026-09-20 05:43:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "Serious fire consumes San Marcos Hill in Villa de Leyva: Mininterior gave a new report and assured that 'the speed of the fire slowed down': hotels are evacuated",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/grave-incendio-consume-el-cerro-de-san-marcos-en-villa-de-leyva-boyaca-abelardo-de-la-espriella-anuncia-apoyo-estatal-para-combatir-el-fuego-3587403",
+        "published_date": "2026-09-20 05:01:13",
+        "category": "Local Events"
     },
     {
         "title": "Forest fire is still active in Villa de Leyva and already affects more than three hectares of vegetation",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/incendio-forestal-sigue-activo-en-villa-de-leyva-y-afecta-mas-de-tres-hectareas-4486382",
         "published_date": "2026-09-20 00:12:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "Carousel of interveners, a billion-dollar debt and the risk of electrical blackout in the Caribbean, the portrait of the 2 years of Air-e's intervention",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/carrusel-de-interventores-una-deuda-billonaria-y-el-riesgo-de-apagon-electrico-en-el-caribe-el-retrato-de-los-2-anos-de-la-intervencion-de-air-e-3587151",
+        "published_date": "2026-09-20 00:01:00",
         "category": "Local Events"
     },
     {
@@ -487,69 +550,6 @@
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/nuevo-dique-flotante-para-colombia-4486245",
         "published_date": "2026-09-19 18:51:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tremor today in Colombia |They report a new earthquake of 4.3 in Istmina, Choc\u00f3 on the afternoon of this September 19",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-hoy-en-colombia-reportan-nuevo-sismo-de-4-1-en-istmina-choco-en-la-tarde-de-este-19-de-septiembre-3587372",
-        "published_date": "2026-09-19 18:43:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "Traffic agent was attacked while imposing a summons in Santander: video is key to finding the subject",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/agente-de-transito-fue-agredido-mientras-imponia-un-comparendo-en-santander-video-es-clave-para-encontrar-al-sujeto-3587351",
-        "published_date": "2026-09-19 18:23:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "Government increases its complaints about alleged corruption in the Petro era",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/gobierno-aumenta-sus-denuncias-sobre-supuesta-corrupcion-en-la-era-petro/",
-        "published_date": "2026-09-19 18:02:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "This was the transfer of alias 'Firu' by presidential order: They will take him to a prison where 'not even the sign of the Holy Cross will enter'",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/asi-fue-el-traslado-de-alias-firu-por-orden-presidencial-lo-llevaran-a-una-reclusion-donde-no-entre-ni-la-senal-de-la-santa-cruz-3587368",
-        "published_date": "2026-09-19 17:53:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Air Force recovered the bodies of the four doctors who died after an accident in Choc\u00f3: 'They gave their lives to the service of those most in need'",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/fuerza-aerea-recupero-los-cuerpos-de-las-cuatro-medicas-que-murieron-tras-accidente-en-choco-3587361",
-        "published_date": "2026-09-19 17:41:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "Scoop: The confession that clarified the details of the macabre murder of engineer Andr\u00e9s Camilo Pel\u00e1ez in Antioquia at the hands of the 'El Mesa' gang",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/primicia-la-confesion-que-esclarecio-los-detalles-del-macabro-homicidio-del-ingeniero-andres-camilo-pelaez-en-antioquia-a-manos-de-la-banda-el-mesa-3587256",
-        "published_date": "2026-09-19 17:20:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "Scare at Alfonso Bonilla Arag\u00f3n Airport: smoke in the front of a Wingo plane activated emergency protocols",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/susto-en-el-aeropuerto-alfonso-bonilla-aragon-humo-en-la-parte-delantera-de-un-avion-de-wingo-activo-los-protocolos-de-emergencia-3587350",
-        "published_date": "2026-09-19 17:12:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "Legal Medicine confirmed that Michel Dahiana, a 6-year-old girl found dead in Antioquia, was murdered",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/medicina-legal-confirma-la-causa-de-la-muerte-de-la-nina-de-6-anos-michel-dahiana-henao-fue-asesinada-3587343",
-        "published_date": "2026-09-19 16:42:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "MinJusticia details the Submission Law that the government will promote",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/minjusticia-detalla-la-ley-de-sometimiento-que-impulsara-el-gobierno/",
-        "published_date": "2026-09-19 15:55:53",
         "category": "Local Events"
     }
 ]
