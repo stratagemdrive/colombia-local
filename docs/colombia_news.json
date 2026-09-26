@@ -1,5 +1,12 @@
 [
     {
+        "title": "Castrochavism arrived at the UN",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-venezuela/a-la-onu-llego-el-castrumpchavismo/",
+        "published_date": "2026-09-26 05:05:00",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Colombia spends trust in the UN that it will need",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/red-de-expertos/red-social/colombia-gasta-en-la-onu-confianza-que-va-a-necesitar/",
@@ -119,11 +126,25 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Ambassador said that companies have experience for Metro Line 2",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/embajador-dijo-que-las-empresas-chinas-tienen-la-experiencia-para-la-linea-2-del-metro-4482804",
-        "published_date": "2026-09-18 05:01:15",
-        "category": "Diplomacy"
+        "title": "Strong shooting leaves three injured after attack on the Police in Andes, Antioquia: among the victims are a teenager and an elderly adult",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/fuerte-balacera-deja-tres-heridos-tras-ataque-a-la-policia-en-andes-antioquia-dos-de-ellos-son-un-adolescente-y-un-adulto-mayor-3589151",
+        "published_date": "2026-09-26 09:03:58",
+        "category": "Military"
+    },
+    {
+        "title": "This was the coup against a gang in Medell\u00edn with nine captured, including five police officers: 'We do not tolerate bandits and neither do we tolerate the corrupt'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/asi-fue-el-golpe-contra-banda-en-medellin-con-nueve-capturados-entre-ellos-cinco-policias-no-toleramos-a-los-bandidos-y-tampoco-a-los-corruptos-3589145",
+        "published_date": "2026-09-26 08:21:39",
+        "category": "Military"
+    },
+    {
+        "title": "They thwart an attack in Jamund\u00ed, Valle: what is known about the attack by Farc dissidents with explosives in the Las Pi\u00f1as sector against the Public Force",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/frustran-atentado-en-jamundi-valle-lo-que-se-sabe-del-ataque-de-disidentes-de-farc-con-explosivos-en-el-sector-de-las-pinas-contra-la-fuerza-publica-3589141",
+        "published_date": "2026-09-26 07:40:48",
+        "category": "Military"
     },
     {
         "title": "Sleep informed with the movements of this September 25, 2026",
@@ -242,27 +263,6 @@
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/otras-ciudades/santa-marta-ataques-quema-de-vehiculos-y-amenazas-tras-operativo-contra-las-acsn-siga-el-minuto-a-minuto-de-la-tension-en-la-ciudad-3588192",
         "published_date": "2026-09-23 09:03:57",
-        "category": "Military"
-    },
-    {
-        "title": "This was the meeting between De la Espriella and the president of Costa Rica, Laura Fern\u00e1ndez",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/asi-fue-el-encuentro-entre-de-la-espriella-y-la-presidenta-de-costa-rica-laura-fernandez-4487997",
-        "published_date": "2026-09-22 19:09:45",
-        "category": "Military"
-    },
-    {
-        "title": "Barranquilla: 417 arrests during September, 44 of them by court order against organized crime structures",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-van-417-capturas-durante-septiembre-44-de-ellas-por-orden-judicial-contra-estructuras-del-crimen-organizado-3587910",
-        "published_date": "2026-09-22 09:03:55",
-        "category": "Military"
-    },
-    {
-        "title": "Catatumbo demands justice after the murder of the 13-year-old girl who had been recruited by the FARC dissidents",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/el-catatumbo-exige-justicia-tras-el-asesinato-de-la-nina-de-13-anos-que-habia-sido-reclutada-por-las-disidencias-de-las-farc-3587909",
-        "published_date": "2026-09-22 09:01:32",
         "category": "Military"
     },
     {
@@ -469,6 +469,76 @@
         "category": "Economy"
     },
     {
+        "title": "Seven of nine planetary limits at their worst levels and other news",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/siete-de-nueve-limites-planetarios-en-sus-peores-niveles-y-otras-noticias/",
+        "published_date": "2026-09-26 14:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "A defense of the Constitution with lip service",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/opinion/una-defensa-de-la-constitucion-de-dientes-para-afuera/",
+        "published_date": "2026-09-26 12:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Petro and Abelardo are not the same",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/opinion/petro-y-abelardo-no-son-iguales/",
+        "published_date": "2026-09-26 12:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The miraculous Choc\u00f3",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/opinion/el-choco-milagroso/",
+        "published_date": "2026-09-26 12:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "One less leader, a city locked up",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/opinion/un-cabecilla-menos-una-ciudad-encerrada/",
+        "published_date": "2026-09-26 12:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cartagena de Indias commemorates 10 years since the signing of peace: the afternoon when some Kfir planes flew through the Cartagena sky for pacifist purposes",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/cartagena-de-indias-conmemora-los-10-anos-de-la-firma-de-la-paz-la-tarde-en-que-unos-aviones-kfir-surcaron-el-cielo-cartagenero-con-fines-pacifistas-3589143",
+        "published_date": "2026-09-26 08:14:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tremor in Colombia |An earthquake of magnitude 4.5 was reported during the early hours of this Saturday, September 26 in Chaparral, Tolima: depth and details",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-en-colombia-reportan-sismo-de-magnitud-4-5-durante-la-madrugada-de-este-sabado-26-de-septiembre-en-chaparral-tolima-profundidad-y-detalles-3589135",
+        "published_date": "2026-09-26 06:47:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cIn Quibd\u00f3 there is everything to do and a range of opportunities to invest opens up\u201d",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/entrevista-con-el-alcalde-de-quibdo-rafael-bolanos-sobre-el-terremoto-4490850",
+        "published_date": "2026-09-26 05:01:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cBogot\u00e1 is not going to have water rationing during this El Ni\u00f1o phenomenon\u201d",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/entrevista-con-natasha-avendano-gerente-del-acueducto-de-bogota-4490203",
+        "published_date": "2026-09-26 05:00:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "From November, the capital will have a property surcharge to finance new lighting",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/desde-noviembre-la-capital-tendra-sobretasa-al-predial-para-financiar-nuevo-alumbrado-4490776",
+        "published_date": "2026-09-26 05:00:20",
+        "category": "Local Events"
+    },
+    {
         "title": "Urban logistics heritage",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/red-de-expertos/patrimonio-logistico-urbano/",
@@ -487,6 +557,20 @@
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/ungrd-consejo-de-estado-decreto-perdida-de-investidura-contra-ivan-name/",
         "published_date": "2026-09-25 23:14:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "They capture alias La Zenaida in Pereira: details are known of how the woman acted to rob the homes of her victims",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/capturan-a-alias-la-zenaida-en-pereira-se-conocen-detalles-de-como-actuaba-la-mujer-para-robar-las-viviendas-de-sus-victimas-3588988",
+        "published_date": "2026-09-25 23:04:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "The battle to recover Santa Marta from criminal power that has been disputed for 60 years",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/la-batalla-por-recuperar-santa-marta-del-poder-criminal-que-se-ha-disputado-durante-60-anos-3589098",
+        "published_date": "2026-09-25 23:01:00",
         "category": "Local Events"
     },
     {
@@ -522,90 +606,6 @@
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/barranquilla/se-viene-el-agua-barranquilla-se-prepara-para-los-meses-mas-lluviosos-del-ano-pese-a-las-altas-temperaturas-por-el-intenso-fenomeno-de-el-nino-3588995",
         "published_date": "2026-09-25 19:01:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The new gateway to the Pacific: Bah\u00eda Solano opens air terminal after seven decades",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/la-nueva-puerta-del-pacifico-bahia-solano-estrena-terminal-aerea-tras-siete-decadas-3589052",
-        "published_date": "2026-09-25 18:55:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "This is the strategy against extortion that has left 330 captured in Barranquilla and seeks to hit the gangs that intimidate merchants",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/esta-es-la-estrategia-contra-la-extorsion-que-ha-dejado-330-capturados-en-barranquilla-y-busca-golpear-a-las-bandas-que-amedrentan-a-comerciantes-3589068",
-        "published_date": "2026-09-25 18:10:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Medell\u00edn is preparing to have a month full of culture, art and music with the second Cultural Season 'El Amor de mis Amores'",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/medellin-se-prepara-para-tener-un-mes-cargado-de-cultura-arte-y-musica-con-la-segunda-temporada-cultural-el-amor-de-mis-amores-3588994",
-        "published_date": "2026-09-25 16:09:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "Custom rules?Controversy grows over the schedule and technical profiles of the Emcali public lighting contract",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/reglas-a-la-medida-crece-la-controversia-por-el-cronograma-y-los-perfiles-tecnicos-del-contrato-de-alumbrado-publico-de-emcali-3589012",
-        "published_date": "2026-09-25 16:02:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "Culiacanazo in the Caribbean?",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/culiacanazo-en-el-caribe/",
-        "published_date": "2026-09-25 15:40:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "Registration open for the AI \u200b\u200bfor productivity course",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/abiertas-las-inscripciones-para-el-curso-de-ia-para-la-productividad-2/",
-        "published_date": "2026-09-25 14:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "David Murcia retracted his accusations against Abelardo, his former lawyer",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/david-murcia-se-retracto-de-sus-senalamientos-contra-abelardo-su-exabogado/",
-        "published_date": "2026-09-25 13:14:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "Bogot\u00e1 Council approved adjustment to ICA rates and surcharge on tax lighting",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/concejo-de-bogota-avanza-en-la-aprobacion-del-articulado-de-la-tributaria-4490103",
-        "published_date": "2026-09-25 12:40:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Constitutional Court set the conditions for the definition of next year's UPC",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/corte-constitucional-fijo-condiciones-para-la-definicion-de-la-upc-de-2027-4490139",
-        "published_date": "2026-09-25 12:28:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "Have an informed breakfast with the keys for this September 25, 2026",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-claves-de-este-25-de-septiembre-de-2026/",
-        "published_date": "2026-09-25 12:21:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "Such \u201cgender ideology\u201d in school does exist",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-educacion/la-tal-ideologia-de-genero-en-la-escuela-si-existe/",
-        "published_date": "2026-09-25 12:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "They launch a contest to write stories about your dog or cat: you can win a million pesos",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/lanzan-concurso-para-escribir-cuentos-sobre-su-perro-o-gato-podra-ganar-un-millon-de-pesos-3588873",
-        "published_date": "2026-09-25 10:17:34",
         "category": "Local Events"
     }
 ]
