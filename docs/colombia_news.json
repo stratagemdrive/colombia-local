@@ -119,6 +119,13 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Tragic accident in Medell\u00edn: a police patrol car died after a crash in the depressed area of \u200b\u200bLa Minorista in the capital of Antioquia",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/tragico-accidente-en-medellin-fallecio-patrullero-de-la-policia-tras-choque-en-el-deprimido-de-la-minorista-3589297",
+        "published_date": "2026-09-27 10:29:16",
+        "category": "Military"
+    },
+    {
         "title": "Women-focused security: hidden costs of militarization",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/red-de-expertos/red-de-las-mujeres/seguridad-con-enfoque-en-las-mujeres-costos-ocultos-de-la-militarizacion/",
@@ -130,6 +137,13 @@
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/otras-ciudades/asesinan-al-subcomandante-de-la-policia-de-bolivar-cauca-habria-sido-obligado-a-bajar-de-un-bus-de-transporte-publico-mientras-viajaba-de-civil-3589206",
         "published_date": "2026-09-26 16:55:00",
+        "category": "Military"
+    },
+    {
+        "title": "JAC denounces that the Army murdered an unarmed farmer in Meta",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/jac-denuncia-que-el-ejercito-disparo-y-mato-a-un-campesino-desarmado-en-el-meta/",
+        "published_date": "2026-09-26 16:25:53",
         "category": "Military"
     },
     {
@@ -245,18 +259,11 @@
         "category": "Military"
     },
     {
-        "title": "Outrage in Norte de Santander: fourth and fifth grade teacher asked her children to draw FARC and ELN flags",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/indignacion-en-norte-de-santander-profesora-de-cuarto-y-quinto-de-primaria-en-el-catatumbo-pidio-a-sus-ninos-dibujar-banderas-de-las-farc-y-el-eln-3588388",
-        "published_date": "2026-09-23 17:50:01",
-        "category": "Military"
-    },
-    {
-        "title": "'They take longer to share the loot than to be captured': mayor of Pasto defends security management in the city",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/mas-se-demoran-en-buscar-repartirse-el-botin-que-en-estar-capturados-alcalde-de-pasto-defiende-la-gestion-de-seguridad-en-la-ciudad-3588414",
-        "published_date": "2026-09-23 17:00:50",
-        "category": "Military"
+        "title": "Carlos Su\u00e1rez: From Abelardo's partner's mine in the Amazon to the Ecopetrol Board",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/carlos-suarez-de-la-mina-del-socio-de-abelardo-en-la-amazonia-a-la-junta-de-ecopetrol/",
+        "published_date": "2026-09-27 06:00:00",
+        "category": "Energy"
     },
     {
         "title": "Will there be energy rationing in Colombia?The commitments after the meeting of Abelardo De la Espriella and Federico Guti\u00e9rrez due to the Afinia crisis",
@@ -392,13 +399,6 @@
         "category": "Energy"
     },
     {
-        "title": "Ricardo Roa's 901: an apartment seized and for rent",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/el-901-de-ricardo-roa-un-apartamento-embargado-y-en-arriendo/",
-        "published_date": "2026-09-21 21:02:00",
-        "category": "Energy"
-    },
-    {
         "title": "Government seeks to secure $5.4 billion to guarantee the payment of pensions at the end of the year",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/gobierno-busca-asegurar-5-4-billones-para-pagar-pensiones-de-fin-de-ano-4491109",
@@ -462,10 +462,80 @@
         "category": "Economy"
     },
     {
+        "title": "Marshall Plan contemplates $1 billion to improve roads and the Bah\u00eda Solano airport",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/plan-marshall-contempla-1-billon-para-mejorar-vias-y-el-aeropuerto-de-bahia-solano-en-choco-4491315",
+        "published_date": "2026-09-27 15:08:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "New AI course: stop rewriting the same prompt",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/nuevo-curso-de-ia-deje-de-reescribir-el-mismo-prompt/",
+        "published_date": "2026-09-27 15:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Colombian Geological Service reports a 4.2 magnitude earthquake in Roncesvalles, Tolima",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/servicio-geologico-colombiano-reporta-sismo-de-magnitud-4-2-en-roncesvalles-tolima-4491289",
+        "published_date": "2026-09-27 13:38:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The challenge is not to reduce the State, but to articulate it better",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-educacion/el-reto-no-es-reducir-el-estado-sino-articularlo-mejor/",
+        "published_date": "2026-09-27 13:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Journey inside the ARC Sim\u00f3n Bol\u00edvar ship, the imposing floating laboratory that deciphers the El Ni\u00f1o phenomenon in Pacific waters",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/viaje-al-interior-del-buque-arc-simon-bolivar-el-imponente-laboratorio-flotante-que-descifra-el-fenomeno-de-el-nino-en-aguas-del-pacifico-3589236",
+        "published_date": "2026-09-27 09:43:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "Media and union leaders send messages to EL TIEMPO for the redesign of their printed newspaper: 'A step in the right direction'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/lideres-de-medios-y-gremios-envian-mensajes-a-el-tiempo-por-el-rediseno-de-su-periodico-impreso-un-paso-en-la-direccion-correcta-3589239",
+        "published_date": "2026-09-27 08:55:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ministry of Health prioritizes 1,462 critical patients in San Andr\u00e9s and Providencia with a shock plan to expedite treatments and procedures",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/ministerio-de-salud-prioriza-1-462-pacientes-criticos-en-san-andres-y-providencia-con-plan-de-choque-para-agilizar-tratamientos-y-procedimientos-3589289",
+        "published_date": "2026-09-27 03:43:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "Explosion of device on the Magdalena railway caused material damage in Aracataca;authorities called permanent PMU and reported no injuries",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/explosion-de-artefacto-en-via-ferrea-del-magdalena-causo-danos-materiales-en-aracataca-autoridades-convocaron-pmu-permanente-y-no-reportaron-heridos-3589285",
+        "published_date": "2026-09-26 23:38:36",
+        "category": "Local Events"
+    },
+    {
         "title": "Do counterweights work with President De la Espriella?",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/opinion/funcionan-los-contrapesos-con-el-presidente-de-la-espriella/",
         "published_date": "2026-09-26 22:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "EL TIEMPO launches new design of its printed newspaper this Sunday, September 27 throughout the country: editorial on the change of format",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/el-tiempo-lanza-nuevo-diseno-de-su-periodico-impreso-este-domingo-27-de-septiembre-en-todo-el-pais-editorial-sobre-el-cambio-de-formato-3589232",
+        "published_date": "2026-09-26 22:10:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Lucas Murillo overcame a complex heart surgery and reappeared with an emotional message: 'It hurts a little, but they give me medication;I feel good'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/lucas-murillo-supero-una-compleja-cirugia-de-corazon-y-reaparecio-con-emotivo-mensaje-me-duele-un-poco-pero-me-ponen-medicamentos-me-siento-bien-3589266",
+        "published_date": "2026-09-26 22:08:46",
         "category": "Local Events"
     },
     {
@@ -497,6 +567,13 @@
         "category": "Local Events"
     },
     {
+        "title": "To the 'heroes of Iguaque': Villa de Leyva honored firefighters, first responders, pilots and volunteers who put out a fire that devastated almost 1,500 hectares",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/a-los-heroes-de-iguaque-villa-de-leyva-rindio-honores-a-bomberos-socorristas-pilotos-y-voluntarios-que-apagaron-incendio-que-arraso-casi-1-500-ha-3589230",
+        "published_date": "2026-09-26 17:44:43",
+        "category": "Local Events"
+    },
+    {
         "title": "This is how the vehicular contraflow pilot will work at the northern exit of Bogot\u00e1",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/inicia-piloto-de-contraflujo-vehicular-en-el-norte-de-bogota-podria-ser-permanente-4491131",
@@ -522,83 +599,6 @@
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/use-la-ia-a-su-favor-con-este-curso-de-cuatro-sesiones/",
         "published_date": "2026-09-26 15:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Videos |The operation to find safe and sound a minor who was missing in Medell\u00edn, allowing the moving reunion with the mother",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/videos-el-operativo-para-encontrar-sano-y-salvo-a-un-menor-que-estuvo-desaparecido-en-medellin-permitiendo-el-conmovedor-reencuentro-con-la-mama-3589201",
-        "published_date": "2026-09-26 14:42:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "Seven of nine planetary limits at their worst levels and other news",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/siete-de-nueve-limites-planetarios-en-sus-peores-niveles-y-otras-noticias/",
-        "published_date": "2026-09-26 14:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "They murdered a man in the south of Cali and he has already been identified: he was left dead in his truck and the community almost lynched one of the two hitmen",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/asesinaron-a-un-hombre-en-el-sur-de-cali-y-ya-fue-identificado-quedo-muerto-en-su-camioneta-y-la-comunidad-casi-lincha-a-uno-de-los-dos-sicarios-3589195",
-        "published_date": "2026-09-26 13:40:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "President Abelardo De La Espriella orders 'immediate monitoring' of the University of Pamplona: 'There are complaints about contractual management'",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/presidente-abelardo-de-la-espriella-ordena-vigilar-de-inmediato-la-universidad-de-pamplona-hay-denuncias-sobre-manejos-contractuales-3589192",
-        "published_date": "2026-09-26 13:08:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "Diplomacy is an imperfect technology, but indispensable",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-democracia-y-tecnologia/la-diplomacia-es-una-tecnologia-imperfecta-pero-indispensable/",
-        "published_date": "2026-09-26 13:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "A defense of the Constitution with lip service",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/opinion/una-defensa-de-la-constitucion-de-dientes-para-afuera/",
-        "published_date": "2026-09-26 12:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Petro and Abelardo are not the same",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/opinion/petro-y-abelardo-no-son-iguales/",
-        "published_date": "2026-09-26 12:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The miraculous Choc\u00f3",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/opinion/el-choco-milagroso/",
-        "published_date": "2026-09-26 12:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "One less leader, a city locked up",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/opinion/un-cabecilla-menos-una-ciudad-encerrada/",
-        "published_date": "2026-09-26 12:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cartagena de Indias commemorates 10 years since the signing of peace: the afternoon when some Kfir planes flew through the Cartagena sky for pacifist purposes",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/cartagena-de-indias-conmemora-los-10-anos-de-la-firma-de-la-paz-la-tarde-en-que-unos-aviones-kfir-surcaron-el-cielo-cartagenero-con-fines-pacifistas-3589143",
-        "published_date": "2026-09-26 08:14:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tremor in Colombia |An earthquake of magnitude 4.5 was reported during the early hours of this Saturday, September 26 in Chaparral, Tolima: depth and details",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-en-colombia-reportan-sismo-de-magnitud-4-5-durante-la-madrugada-de-este-sabado-26-de-septiembre-en-chaparral-tolima-profundidad-y-detalles-3589135",
-        "published_date": "2026-09-26 06:47:42",
         "category": "Local Events"
     }
 ]
