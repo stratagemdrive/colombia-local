@@ -1,5 +1,12 @@
 [
     {
+        "title": "Bula closes agenda in New York with energy and security agreements",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/bula-cierra-agenda-en-nueva-york-con-acuerdos-de-energia-y-seguridad/",
+        "published_date": "2026-09-26 17:45:55",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Castrochavism arrived at the UN",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/red-de-expertos/red-de-venezuela/a-la-onu-llego-el-castrumpchavismo/",
@@ -112,18 +119,25 @@
         "category": "Diplomacy"
     },
     {
-        "title": "De la Espriella will not be in the UN General Assembly and Restrepo will replace him",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/de-la-espriella-no-ira-a-la-asamblea-general-de-la-onu-y-restrepo-ira-en-su-reemplazo-4485614",
-        "published_date": "2026-09-18 21:10:21",
-        "category": "Diplomacy"
+        "title": "Women-focused security: hidden costs of militarization",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-las-mujeres/seguridad-con-enfoque-en-las-mujeres-costos-ocultos-de-la-militarizacion/",
+        "published_date": "2026-09-26 18:00:00",
+        "category": "Military"
     },
     {
-        "title": "Due to false report made with AI, the US almost \u201cstarted a war\u201d: CNN",
+        "title": "Details of the crime of the deputy commander of the Bol\u00edvar Police, Cauca, are revealed: he was allegedly forced to get off a bus while traveling in civilian clothes",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/asesinan-al-subcomandante-de-la-policia-de-bolivar-cauca-habria-sido-obligado-a-bajar-de-un-bus-de-transporte-publico-mientras-viajaba-de-civil-3589206",
+        "published_date": "2026-09-26 16:55:00",
+        "category": "Military"
+    },
+    {
+        "title": "The failure of the JEP",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/por-informe-falso-hecho-con-ia-ee-uu-casi-inicio-una-guerra-cnn/",
-        "published_date": "2026-09-18 21:04:11",
-        "category": "Diplomacy"
+        "url": "https://www.lasillavacia.com/opinion/el-fracaso-de-la-jep/",
+        "published_date": "2026-09-26 15:40:21",
+        "category": "Military"
     },
     {
         "title": "Strong shooting leaves three injured after attack on the Police in Andes, Antioquia: among the victims are a teenager and an elderly adult",
@@ -245,25 +259,18 @@
         "category": "Military"
     },
     {
-        "title": "With a gun on his belt, Abelardo announces security measures for Santa Marta",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/con-arma-en-cinto-abelardo-anuncia-medidas-de-seguridad-para-santa-marta/",
-        "published_date": "2026-09-23 13:11:06",
-        "category": "Military"
+        "title": "Will there be energy rationing in Colombia?The commitments after the meeting of Abelardo De la Espriella and Federico Guti\u00e9rrez due to the Afinia crisis",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/crisis-de-afinia-proteger-la-estabilidad-energetica-y-el-orden-publico-compromisos-tras-encuentro-de-de-la-espriella-con-federico-gutierrez-3589220",
+        "published_date": "2026-09-26 17:15:00",
+        "category": "Energy"
     },
     {
-        "title": "This is how Riohacha responded to the day of fear and attacks on commerce: arrests, patrols and more police in the streets",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/riohacha-refuerza-la-seguridad-tras-ataques-y-amenazas-atribuidos-a-un-presunto-paro-armado-de-las-acsn-3588250",
-        "published_date": "2026-09-23 10:02:08",
-        "category": "Military"
-    },
-    {
-        "title": "Tension in Santa Marta after operations against Acsn: Army reinforces security with more troops and patrols after meeting with the president",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/santa-marta-ataques-quema-de-vehiculos-y-amenazas-tras-operativo-contra-las-acsn-siga-el-minuto-a-minuto-de-la-tension-en-la-ciudad-3588192",
-        "published_date": "2026-09-23 09:03:57",
-        "category": "Military"
+        "title": "Guti\u00e9rrez announced that Ecopetrol will once again explore with fracking and offshore projects",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/gutierrez-anuncio-que-ecopetrol-volvera-a-explorar-con-fracking-y-proyectos-costa-afuera-4490961",
+        "published_date": "2026-09-26 01:58:19",
+        "category": "Energy"
     },
     {
         "title": "MinEnerg\u00eda announces gas rationing after failure in Spec regasification plant",
@@ -392,18 +399,11 @@
         "category": "Energy"
     },
     {
-        "title": "Restrepo delivered a balance of \"Mission Crecer\", a strategy he presented in New York",
+        "title": "Government seeks to secure $5.4 billion to guarantee the payment of pensions at the end of the year",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/restrepo-entrego-balance-de-mision-crecer-la-estrategia-que-esta-presentando-en-nueva-york-4487141",
-        "published_date": "2026-09-21 19:03:06",
-        "category": "Energy"
-    },
-    {
-        "title": "Villa de Leyva: fire is 50% controlled.There are 19 assets in the country",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/villa-de-leyva-incendio-esta-controlado-en-50-hay-19-activos-en-el-pais/",
-        "published_date": "2026-09-21 13:03:13",
-        "category": "Energy"
+        "url": "https://www.larepublica.co/economia/gobierno-busca-asegurar-5-4-billones-para-pagar-pensiones-de-fin-de-ano-4491109",
+        "published_date": "2026-09-26 15:54:17",
+        "category": "Economy"
     },
     {
         "title": "Board of 4-72, led by the MinTIC, removed Fuad Abdala Salaiman from the presidency",
@@ -462,17 +462,101 @@
         "category": "Economy"
     },
     {
-        "title": "Ministry of Finance approved addition of $624,656 million to address emergency",
+        "title": "Do counterweights work with President De la Espriella?",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/opinion/funcionan-los-contrapesos-con-el-presidente-de-la-espriella/",
+        "published_date": "2026-09-26 22:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Videos |Heavy rains hit Santa Marta and caused flooding and mobility problems: this was said by Ideam",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/videos-fuertes-lluvias-golpearon-a-santa-marta-y-provocaron-inundaciones-y-problemas-de-movilidad-esto-dijo-el-ideam-3589252",
+        "published_date": "2026-09-26 20:01:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "The submission law must include restorative justice",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/la-ley-de-sometimiento-debe-incluir-la-justicia-restaurativa/",
+        "published_date": "2026-09-26 20:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "De la Espriella appoints Beatriz V\u00e9lez as the new president of Colpensiones",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/de-la-espriella-nombra-nueva-presidenta-de-colpensiones-tras-la-salida-de-montoya/",
+        "published_date": "2026-09-26 19:19:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "EL TIEMPO Editorial House moves to its headquarters of the future",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/el-tiempo-casa-editorial-se-traslada-a-su-sede-del-futuro-3589244",
+        "published_date": "2026-09-26 19:09:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "This is how the vehicular contraflow pilot will work at the northern exit of Bogot\u00e1",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/ministerio-de-hacienda-aprobo-adicion-de-624-656-millones-para-atender-emergencia-4485373",
-        "published_date": "2026-09-18 17:04:33",
-        "category": "Economy"
+        "url": "https://www.larepublica.co/economia/inicia-piloto-de-contraflujo-vehicular-en-el-norte-de-bogota-podria-ser-permanente-4491131",
+        "published_date": "2026-09-26 17:31:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "'Rebuilding is not just putting up walls': the call not to make care work in homes invisible after the devastating earthquake in Cali",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/reconstruir-no-es-solo-levantar-paredes-el-llamado-a-no-invisibilizar-el-trabajo-de-cuidado-en-los-hogares-tras-el-devastador-terremoto-en-cali-3589210",
+        "published_date": "2026-09-26 15:22:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "MinMinas announced changes in the maintenance date of two power plants",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/minminas-anuncio-cambios-en-la-fecha-de-mantenimiento-de-dos-centrales-electricas-4491101",
+        "published_date": "2026-09-26 15:20:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "Use AI to your advantage with this four-session course",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/use-la-ia-a-su-favor-con-este-curso-de-cuatro-sesiones/",
+        "published_date": "2026-09-26 15:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Videos |The operation to find safe and sound a minor who was missing in Medell\u00edn, allowing the moving reunion with the mother",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/videos-el-operativo-para-encontrar-sano-y-salvo-a-un-menor-que-estuvo-desaparecido-en-medellin-permitiendo-el-conmovedor-reencuentro-con-la-mama-3589201",
+        "published_date": "2026-09-26 14:42:15",
+        "category": "Local Events"
     },
     {
         "title": "Seven of nine planetary limits at their worst levels and other news",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/siete-de-nueve-limites-planetarios-en-sus-peores-niveles-y-otras-noticias/",
         "published_date": "2026-09-26 14:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "They murdered a man in the south of Cali and he has already been identified: he was left dead in his truck and the community almost lynched one of the two hitmen",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/asesinaron-a-un-hombre-en-el-sur-de-cali-y-ya-fue-identificado-quedo-muerto-en-su-camioneta-y-la-comunidad-casi-lincha-a-uno-de-los-dos-sicarios-3589195",
+        "published_date": "2026-09-26 13:40:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "President Abelardo De La Espriella orders 'immediate monitoring' of the University of Pamplona: 'There are complaints about contractual management'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/presidente-abelardo-de-la-espriella-ordena-vigilar-de-inmediato-la-universidad-de-pamplona-hay-denuncias-sobre-manejos-contractuales-3589192",
+        "published_date": "2026-09-26 13:08:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "Diplomacy is an imperfect technology, but indispensable",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-democracia-y-tecnologia/la-diplomacia-es-una-tecnologia-imperfecta-pero-indispensable/",
+        "published_date": "2026-09-26 13:00:00",
         "category": "Local Events"
     },
     {
@@ -515,97 +599,6 @@
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-en-colombia-reportan-sismo-de-magnitud-4-5-durante-la-madrugada-de-este-sabado-26-de-septiembre-en-chaparral-tolima-profundidad-y-detalles-3589135",
         "published_date": "2026-09-26 06:47:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cIn Quibd\u00f3 there is everything to do and a range of opportunities to invest opens up\u201d",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/entrevista-con-el-alcalde-de-quibdo-rafael-bolanos-sobre-el-terremoto-4490850",
-        "published_date": "2026-09-26 05:01:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cBogot\u00e1 is not going to have water rationing during this El Ni\u00f1o phenomenon\u201d",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/entrevista-con-natasha-avendano-gerente-del-acueducto-de-bogota-4490203",
-        "published_date": "2026-09-26 05:00:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "From November, the capital will have a property surcharge to finance new lighting",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/desde-noviembre-la-capital-tendra-sobretasa-al-predial-para-financiar-nuevo-alumbrado-4490776",
-        "published_date": "2026-09-26 05:00:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "Urban logistics heritage",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/patrimonio-logistico-urbano/",
-        "published_date": "2026-09-26 00:56:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "Santa Marta enters the \u201cUrban Defense Block\u201d of De la Espriella",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/de-la-espriella-incluye-a-santa-marta-en-su-bloque-de-defensa-urbana/",
-        "published_date": "2026-09-26 00:27:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ungrd: Council of State decreed the loss of investiture of Iv\u00e1n Name",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/ungrd-consejo-de-estado-decreto-perdida-de-investidura-contra-ivan-name/",
-        "published_date": "2026-09-25 23:14:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "They capture alias La Zenaida in Pereira: details are known of how the woman acted to rob the homes of her victims",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/capturan-a-alias-la-zenaida-en-pereira-se-conocen-detalles-de-como-actuaba-la-mujer-para-robar-las-viviendas-de-sus-victimas-3588988",
-        "published_date": "2026-09-25 23:04:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "The battle to recover Santa Marta from criminal power that has been disputed for 60 years",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/la-batalla-por-recuperar-santa-marta-del-poder-criminal-que-se-ha-disputado-durante-60-anos-3589098",
-        "published_date": "2026-09-25 23:01:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Abelardo lifted the suspension of carrying weapons only for those who already had a permit",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/abelardo-levanto-suspension-de-porte-de-armas-solo-para-quien-ya-tenia-permiso/",
-        "published_date": "2026-09-25 22:43:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "Daniel Brice\u00f1o and Carol Borda omit evidence to overthrow healthy taxes",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/detector-de-mentiras/enganoso/daniel-briceno-y-carol-borda-omiten-evidencia-para-tumbar-impuestos-saludables/",
-        "published_date": "2026-09-25 22:31:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "Governor of Choc\u00f3 delivered new terminal at the Jos\u00e9 Celestino Mutis airport",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/gobernadora-del-choco-entrego-nueva-terminal-del-aeropuerto-jose-celestino-mutis-4490634",
-        "published_date": "2026-09-25 21:52:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "After a week, fire in Villa de Leyva is 98% controlled",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/tras-una-semana-incendio-en-villa-de-leyva-esta-controlado-en-un-98/",
-        "published_date": "2026-09-25 20:16:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "The water is coming: Barranquilla prepares for the rainiest months of the year, despite the high temperatures due to the intense El Ni\u00f1o phenomenon",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/se-viene-el-agua-barranquilla-se-prepara-para-los-meses-mas-lluviosos-del-ano-pese-a-las-altas-temperaturas-por-el-intenso-fenomeno-de-el-nino-3588995",
-        "published_date": "2026-09-25 19:01:00",
         "category": "Local Events"
     }
 ]
