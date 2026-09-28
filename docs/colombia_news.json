@@ -112,11 +112,25 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Minister of the Interior, Rodrigo Lara, speaks about the serious fire in Villa de Leyva, Boyac\u00e1: 'It is the largest in the country'",
+        "title": "Video: Secretary of Security of C\u00facuta hid in the bushes to avoid the agents after an accident that left three cyclists run over",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/ministro-del-interior-rodrigo-lara-se-pronuncia-sobre-el-grave-incendio-en-villa-de-leyva-boyaca-es-el-de-mayor-magnitud-en-el-pais-3587400",
-        "published_date": "2026-09-19 22:51:37",
-        "category": "Diplomacy"
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/video-secretario-de-seguridad-de-cucuta-se-escondio-entre-arbustos-para-evitar-a-las-autoridades-tras-accidente-que-dejo-tres-ciclistas-atropellados-3589360",
+        "published_date": "2026-09-27 19:25:00",
+        "category": "Military"
+    },
+    {
+        "title": "FARC dissidents stole the body of a soldier murdered in Cauca and the Army denounces a war crime: 'They took our hero'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/el-ejercito-denuncia-crimen-de-guerra-tras-robo-del-cuerpo-de-un-soldado-asesinado-en-cauca-luego-del-ataque-con-drones-se-llevaron-a-nuestro-heroe-3589341",
+        "published_date": "2026-09-27 19:09:01",
+        "category": "Military"
+    },
+    {
+        "title": "Leader of 'Shottas' falls, while the Prosecutor's Office collects clues to locate Nicol\u00e1s Valencia, whose father was murdered by the gang in Buenaventura",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/cae-cabecilla-de-shottas-mientras-la-fiscalia-recopila-pistas-para-ubicar-a-nicolas-valencia-cuyo-padre-fue-asesinado-por-la-banda-en-buenaventura-3589335",
+        "published_date": "2026-09-27 15:23:28",
+        "category": "Military"
     },
     {
         "title": "Tragic accident in Medell\u00edn: a police patrol car died after a crash in the depressed area of \u200b\u200bLa Minorista in the capital of Antioquia",
@@ -238,25 +252,32 @@
         "category": "Military"
     },
     {
-        "title": "Children were left in the middle of fighting and had to crawl out of a school in Timba, between Cauca and Valle",
+        "title": "Government activates plan against El Ni\u00f1o and allocates $1.9 billion to protect energy",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/gobierno-activa-plan-ante-el-nino-y-destina-1-9-billones-para-proteger-energia-4491463",
+        "published_date": "2026-09-27 22:14:42",
+        "category": "Energy"
+    },
+    {
+        "title": "Ecopetrol asked to investigate the Regasificadora del Pac\u00edfico contract before the Prosecutor's Office",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/ecopetrol-pidio-investigar-ante-la-fiscalia-contrato-de-regasificadora-del-pacifico-4491436",
+        "published_date": "2026-09-27 20:43:30",
+        "category": "Energy"
+    },
+    {
+        "title": "Abelardo De La Espriella announced a scholarship for Mat\u00edas Luengas Vergel, the 16-year-old boy from Cucuta who achieved the perfect Icfes",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/ninos-quedaron-en-medio-de-combates-y-tuvieron-que-salir-gateando-de-un-colegio-en-timba-entre-cauca-y-valle-3588552",
-        "published_date": "2026-09-24 09:13:07",
-        "category": "Military"
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/abelardo-de-la-espriella-anuncio-beca-para-matias-luengas-vergel-el-joven-cucuteno-de-16-anos-que-alcanzo-el-icfes-perfecto-3589354",
+        "published_date": "2026-09-27 19:26:44",
+        "category": "Energy"
     },
     {
-        "title": "The photo: the execution of the JEP sanctions against exFarc begins",
+        "title": "Petro vs.De la Espriella fiscally: the debt is eating the budget",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/la-foto-asi-arranca-la-ejecucion-de-las-sanciones-de-la-jep-a-exfarc/",
-        "published_date": "2026-09-23 23:26:02",
-        "category": "Military"
-    },
-    {
-        "title": "Armed strike in Santa Marta: the acid test of Abelardo's security \u201cmiracle\u201d",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/paro-armado-en-santa-marta-la-prueba-de-fuego-del-milagro-de-la-seguridad-de-abelardo/",
-        "published_date": "2026-09-23 23:00:48",
-        "category": "Military"
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/petro-vs-de-la-espriella-fiscalmente-la-deuda-se-esta-comiendo-el-presupuesto/",
+        "published_date": "2026-09-27 17:00:00",
+        "category": "Energy"
     },
     {
         "title": "Carlos Su\u00e1rez: From Abelardo's partner's mine in the Amazon to the Ecopetrol Board",
@@ -371,34 +392,6 @@
         "category": "Energy"
     },
     {
-        "title": "Fiscal deficit as of July reached almost 4% of GDP and maintains pressure on public accounts",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/deficit-fiscal-a-julio-llego-a-3-9-del-pib-y-mantiene-presion-sobre-las-cuentas-publicas-4487993",
-        "published_date": "2026-09-22 19:00:49",
-        "category": "Energy"
-    },
-    {
-        "title": "Competencies Law: Abelardo's crossroads to comply with decentralization",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/ley-de-competencias-la-encrucijada-de-abelardo-para-cumplir-con-la-descentralizacion/",
-        "published_date": "2026-09-22 06:00:00",
-        "category": "Energy"
-    },
-    {
-        "title": "\u201cThe best antidote to avoid a blackout due to El Ni\u00f1o is for more supply to come in\u201d",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/inside-con-camilo-sanchez-presidente-de-andesco-sobre-impacto-del-fenomeno-de-el-nino-4486913",
-        "published_date": "2026-09-22 05:01:50",
-        "category": "Energy"
-    },
-    {
-        "title": "The price of a kilowatt-hour on the stock market reached 13-month highs and exceeded $1,500",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/el-precio-del-kilovatio-hora-en-bolsa-alcanzo-maximos-de-13-meses-y-paso-los-1-500-4487363",
-        "published_date": "2026-09-22 05:01:36",
-        "category": "Energy"
-    },
-    {
         "title": "Government seeks to secure $5.4 billion to guarantee the payment of pensions at the end of the year",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/gobierno-busca-asegurar-5-4-billones-para-pagar-pensiones-de-fin-de-ano-4491109",
@@ -462,6 +455,76 @@
         "category": "Economy"
     },
     {
+        "title": "Ricardo Rodr\u00edguez's family says he was a farmer, not a member of the Acsn",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/familia-de-ricardo-rodriguez-dice-que-era-campesino-no-miembro-de-las-acsn/",
+        "published_date": "2026-09-27 21:09:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "Video shows the exact moment of the capture of the wife and daughter of alias 'Fito' for money laundering and linked to 'Los Choneros' in Santander",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/video-muestra-el-momento-exacto-de-la-captura-de-la-esposa-e-hija-de-alias-fito-por-lavado-de-activos-y-vinculadas-a-los-choneros-en-santander-3589348",
+        "published_date": "2026-09-27 19:21:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "The wall of a communal booth collapsed on top of two young people during a party in Ituango, north of Antioquia: both died and one was injured",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/tragedia-en-el-norte-de-antioquia-la-pared-de-la-caseta-comunal-se-vino-abajo-durante-una-fiesta-causando-la-muerte-de-dos-jovenes-en-ituango-3589347",
+        "published_date": "2026-09-27 19:21:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "Spend your Sunday afternoon with this selection of opinion columns",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/pase-la-tarde-de-domingo-con-esta-seleccion-de-columnas-de-opinion-2/",
+        "published_date": "2026-09-27 19:13:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "Videos |SOS for drama that workers are still experiencing due to cracks and more damage in Forensic Medicine and the Cali Palace of Justice after the earthquake",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/videos-sos-por-drama-que-aun-viven-trabajadores-por-grietas-y-mas-danos-en-medicina-legal-y-el-palacio-de-justicia-de-cali-tras-el-terremoto-3589345",
+        "published_date": "2026-09-27 19:13:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "The ETIs do not break the State: they are part of it",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-etnica/las-eti-no-rompen-el-estado-hacen-parte-de-el/",
+        "published_date": "2026-09-27 19:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "MinComercio incorporates artificial intelligence and technology in regional tourism strategy",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/mincomercio-incorporara-inteligencia-artifical-y-tecnologia-en-estrategia-de-turismo-regional-4491392",
+        "published_date": "2026-09-27 18:49:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "MinTransporte: 1 billion will be invested in roads and Choc\u00f3 airport",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/mintransporte-se-invertira-1-billon-en-vias-y-aeropuerto-de-choco/",
+        "published_date": "2026-09-27 17:59:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "False veterinarian medicated a puppy with bovine substances, performed an alleged euthanasia and buried him alive in Flandes, Tolima",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/falso-veterinario-medico-a-un-perrito-con-sustancias-para-bovinos-realizo-una-supuesta-eutanasia-y-lo-enterro-vivo-en-flandes-tolima-3589344",
+        "published_date": "2026-09-27 17:47:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cRobinson\u201d, leader of the Second Marquetalia, was discharged",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/dieron-de-baja-a-robinson-cabecilla-de-la-segunda-marquetalia/",
+        "published_date": "2026-09-27 15:36:24",
+        "category": "Local Events"
+    },
+    {
         "title": "Marshall Plan contemplates $1 billion to improve roads and the Bah\u00eda Solano airport",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/plan-marshall-contempla-1-billon-para-mejorar-vias-y-el-aeropuerto-de-bahia-solano-en-choco-4491315",
@@ -476,10 +539,24 @@
         "category": "Local Events"
     },
     {
+        "title": "Exclusive: The history of the 'San Ram\u00f3n' property and the rector of the University of La Guajira: threats, dispossession by force and abuse of power",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/exclusivo-la-historia-del-predio-san-ramon-y-el-rector-de-la-universidad-de-la-guajira-amenazas-despojos-por-la-fuerza-y-abuso-de-poder-3589329",
+        "published_date": "2026-09-27 13:49:59",
+        "category": "Local Events"
+    },
+    {
         "title": "Colombian Geological Service reports a 4.2 magnitude earthquake in Roncesvalles, Tolima",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/servicio-geologico-colombiano-reporta-sismo-de-magnitud-4-2-en-roncesvalles-tolima-4491289",
         "published_date": "2026-09-27 13:38:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Dimar confirmed a new boat capsize with tourists in Santa Marta: everyone was rescued and was wearing life jackets",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/dimar-confirmo-nuevo-volcamiento-de-lancha-con-turistas-en-santa-marta-todos-fueron-rescatados-y-llevaban-chalecos-salvavidas-3589327",
+        "published_date": "2026-09-27 13:11:33",
         "category": "Local Events"
     },
     {
@@ -515,90 +592,6 @@
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/otras-ciudades/explosion-de-artefacto-en-via-ferrea-del-magdalena-causo-danos-materiales-en-aracataca-autoridades-convocaron-pmu-permanente-y-no-reportaron-heridos-3589285",
         "published_date": "2026-09-26 23:38:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "Do counterweights work with President De la Espriella?",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/opinion/funcionan-los-contrapesos-con-el-presidente-de-la-espriella/",
-        "published_date": "2026-09-26 22:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "EL TIEMPO launches new design of its printed newspaper this Sunday, September 27 throughout the country: editorial on the change of format",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/el-tiempo-lanza-nuevo-diseno-de-su-periodico-impreso-este-domingo-27-de-septiembre-en-todo-el-pais-editorial-sobre-el-cambio-de-formato-3589232",
-        "published_date": "2026-09-26 22:10:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Lucas Murillo overcame a complex heart surgery and reappeared with an emotional message: 'It hurts a little, but they give me medication;I feel good'",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/lucas-murillo-supero-una-compleja-cirugia-de-corazon-y-reaparecio-con-emotivo-mensaje-me-duele-un-poco-pero-me-ponen-medicamentos-me-siento-bien-3589266",
-        "published_date": "2026-09-26 22:08:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Videos |Heavy rains hit Santa Marta and caused flooding and mobility problems: this was said by Ideam",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/videos-fuertes-lluvias-golpearon-a-santa-marta-y-provocaron-inundaciones-y-problemas-de-movilidad-esto-dijo-el-ideam-3589252",
-        "published_date": "2026-09-26 20:01:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "The submission law must include restorative justice",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/la-ley-de-sometimiento-debe-incluir-la-justicia-restaurativa/",
-        "published_date": "2026-09-26 20:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "De la Espriella appoints Beatriz V\u00e9lez as the new president of Colpensiones",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/de-la-espriella-nombra-nueva-presidenta-de-colpensiones-tras-la-salida-de-montoya/",
-        "published_date": "2026-09-26 19:19:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "EL TIEMPO Editorial House moves to its headquarters of the future",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/el-tiempo-casa-editorial-se-traslada-a-su-sede-del-futuro-3589244",
-        "published_date": "2026-09-26 19:09:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "To the 'heroes of Iguaque': Villa de Leyva honored firefighters, first responders, pilots and volunteers who put out a fire that devastated almost 1,500 hectares",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/a-los-heroes-de-iguaque-villa-de-leyva-rindio-honores-a-bomberos-socorristas-pilotos-y-voluntarios-que-apagaron-incendio-que-arraso-casi-1-500-ha-3589230",
-        "published_date": "2026-09-26 17:44:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "This is how the vehicular contraflow pilot will work at the northern exit of Bogot\u00e1",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/inicia-piloto-de-contraflujo-vehicular-en-el-norte-de-bogota-podria-ser-permanente-4491131",
-        "published_date": "2026-09-26 17:31:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "'Rebuilding is not just putting up walls': the call not to make care work in homes invisible after the devastating earthquake in Cali",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/reconstruir-no-es-solo-levantar-paredes-el-llamado-a-no-invisibilizar-el-trabajo-de-cuidado-en-los-hogares-tras-el-devastador-terremoto-en-cali-3589210",
-        "published_date": "2026-09-26 15:22:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "MinMinas announced changes in the maintenance date of two power plants",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/minminas-anuncio-cambios-en-la-fecha-de-mantenimiento-de-dos-centrales-electricas-4491101",
-        "published_date": "2026-09-26 15:20:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "Use AI to your advantage with this four-session course",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/use-la-ia-a-su-favor-con-este-curso-de-cuatro-sesiones/",
-        "published_date": "2026-09-26 15:00:00",
         "category": "Local Events"
     }
 ]
