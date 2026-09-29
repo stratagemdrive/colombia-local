@@ -1,5 +1,12 @@
 [
     {
+        "title": "Ambassador Mauricio Gaona rules out Colombia leaving the UN",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/embajador-mauricio-gaona-descarta-que-colombia-salga-de-la-onu/",
+        "published_date": "2026-09-28 23:11:28",
+        "category": "Diplomacy"
+    },
+    {
         "title": "UN High Commissioner highlights reparation to victims of the JEP",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/alto-comisionado-de-la-onu-destaca-reparacion-a-victimas-de-la-jep/",
@@ -110,6 +117,13 @@
         "url": "https://www.eltiempo.com/colombia/otras-ciudades/rodrigo-lara-ministro-del-interior-confirma-que-grave-incendio-en-el-cerro-de-san-marcos-villa-de-leyva-esta-controlado-en-un-3587791",
         "published_date": "2026-09-21 17:34:18",
         "category": "Diplomacy"
+    },
+    {
+        "title": "'Fito', Ecuadorian capo, sought protection for his family in Colombia: they revealed that illegal groups would be in charge of their security in Santander",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/fito-capo-ecuatoriano-busco-proteccion-para-su-familia-en-colombia-revelaron-que-grupos-ilegales-estarian-a-cargo-de-su-seguridad-en-santander-3589655",
+        "published_date": "2026-09-28 18:40:50",
+        "category": "Military"
     },
     {
         "title": "\u201cIt was not a fight or a confusion\u201d: they denounce police abuse in the Balanta case",
@@ -242,13 +256,6 @@
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/otras-ciudades/policia-e-infanteria-de-marina-lideran-operativos-en-tres-localidades-de-cartagena-como-parte-de-las-operaciones-avispa-ordenadas-por-el-gobierno-3588861",
         "published_date": "2026-09-25 09:01:55",
-        "category": "Military"
-    },
-    {
-        "title": "The Donovan Balanta case and violence against the black population",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-etnica/el-caso-donovan-balanta-y-la-violencia-contra-la-poblacion-negra/",
-        "published_date": "2026-09-24 22:13:21",
         "category": "Military"
     },
     {
@@ -392,6 +399,20 @@
         "category": "Energy"
     },
     {
+        "title": "\"The damage of these four years is not resolved in the 50 days we have been in administration\"",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/ministro-de-hacienda-senala-al-gobierno-petro-por-el-deficit-fiscal-4492409",
+        "published_date": "2026-09-29 00:34:01",
+        "category": "Economy"
+    },
+    {
+        "title": "De la Espriella Government asks the IMF to begin an evaluation of the Colombian economy",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/gobierno-de-la-espriella-pide-al-fmi-iniciar-evaluacion-de-la-economia-colombiana-4492280",
+        "published_date": "2026-09-28 22:54:43",
+        "category": "Economy"
+    },
+    {
         "title": "Fixed investment and construction will be the new drivers of the economy in 2027",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/la-inversion-fija-y-la-edificacion-seran-los-nuevos-motores-de-la-economia-en-2027-4490909",
@@ -476,11 +497,123 @@
         "category": "Economy"
     },
     {
-        "title": "Minister of Finance plans to reduce external debt in 2027 by almost half",
+        "title": "University democracy in crisis",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-educacion/la-democracia-universitaria-en-crisis/",
+        "published_date": "2026-09-29 01:00:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "Sleep informed with the keys for September 28, 2026",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-claves-del-28-de-septiembre-de-2026/",
+        "published_date": "2026-09-29 00:03:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "MinComercio prohibited the import of goods produced with forced labor",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/ministro-de-hacienda-preve-reducir-a-casi-la-mitad-el-endeudamiento-externo-de-2027-4486623",
-        "published_date": "2026-09-20 22:18:10",
-        "category": "Economy"
+        "url": "https://www.larepublica.co/economia/mincomercio-prohibio-la-importacion-de-bienes-producidos-mediante-trabajo-forzoso-4492305",
+        "published_date": "2026-09-28 23:53:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "Council of State will once again study the protections against the president",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/consejo-de-estado-volvera-a-estudiar-las-tutelas-contra-el-presidente/",
+        "published_date": "2026-09-28 23:51:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "Again, Historical Pact did not propose a $200,000 bill with Petro's face",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/de-nuevo-pacto-historico-no-propuso-un-billete-de-200-000-con-la-cara-de-petro/",
+        "published_date": "2026-09-28 23:28:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "Congress seeks to give 200 billion to the CNE and budget autonomy",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/congreso-busca-darle-200-mil-millones-al-cne-y-autonomia-presupuestal/",
+        "published_date": "2026-09-28 22:07:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "Fitch Ratings warns of pressure on companies due to lower cash flow and high rates",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/fitch-advierte-presion-sobre-empresas-colombianas-por-menor-flujo-de-caja-y-altas-tasas-4492170",
+        "published_date": "2026-09-28 22:06:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "Uribismo calls Enrique G\u00f3mez sectarian and closes the door to the coalition",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/uribismo-llama-sectario-a-enrique-gomez-y-cierra-puerta-a-coalicion/",
+        "published_date": "2026-09-28 21:53:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "Bogot\u00e1 Council gave the green light to tax reform, it will be sanctioned by the Mayor's Office",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/concejo-de-bogota-dio-luz-verde-a-reforma-tributaria-pasara-a-sancion-de-la-alcaldia-4492084",
+        "published_date": "2026-09-28 20:50:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "The indigenous people do not deforest in their territories, the settlers do",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-amazonia/los-indigenas-no-deforestan-en-sus-territorios-los-colonos-si/",
+        "published_date": "2026-09-28 20:44:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "In firm condemnation against Jos\u00e9 Miguel Narv\u00e1ez for kidnapping of Piedad C\u00f3rdoba",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/en-firme-condena-contra-jose-miguel-narvaez-por-secuestro-de-piedad-cordoba/",
+        "published_date": "2026-09-28 20:38:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "Colombia needs to strengthen its presence on the African continent",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-etnica/colombia-necesita-fortalecer-su-presencia-en-el-continente-africano/",
+        "published_date": "2026-09-28 19:56:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "Council approves debt quota for $1 billion for Barranquilla: obligations would be extended until 2038",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/concejo-aprueba-cupo-de-endeudamiento-por-1-billon-para-barranquilla-obligaciones-se-extenderian-hasta-3589656",
+        "published_date": "2026-09-28 19:18:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "'Mommy, I'm not going to leave her': heartbreaking awakening in the ICU of a victim, after the earthquake that took away her mother and her home;cry out for help",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/mamita-no-la-voy-a-dejar-desgarrador-despertar-en-uci-de-una-damnificada-tras-el-terremoto-que-le-arrebato-a-su-madre-y-su-hogar-clama-por-ayuda-3589642",
+        "published_date": "2026-09-28 19:01:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "More than 21,000 foreigners have entered the country for medical treatments",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/mas-de-21-000-extranjeros-han-ingresado-al-pais-para-hacerse-tratamientos-medicos-4491973",
+        "published_date": "2026-09-28 19:00:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Attention: Aguas de Cartagena will begin this Tuesday a 40-hour technical stoppage that will affect 40% of the city due to optimization works",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/atencion-aguas-de-cartagena-iniciara-este-martes-parada-tecnica-de-40-horas-que-afectara-al-40-de-la-ciudad-debido-a-obras-de-optimizacion-3589652",
+        "published_date": "2026-09-28 18:33:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "Max Henr\u00edquez warns of an intense storm over Barranquilla and asks to prepare for possible extreme winds",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/max-henriquez-advierte-de-una-intensa-tormenta-sobre-barranquilla-y-pide-prepararse-ante-posibles-vientos-extremos-3589639",
+        "published_date": "2026-09-28 18:28:07",
+        "category": "Local Events"
     },
     {
         "title": "Abelardo government diary: the doubts left by three operations",
@@ -490,136 +623,17 @@
         "category": "Local Events"
     },
     {
-        "title": "Francia Marquez: lessons and challenges for the anti-racist and Human Rights movement in Colombia",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-etnica/francia-marquez-lecciones-y-retos-para-el-movimiento-antirracista-y-de-derechos-humanos-en-colombia/",
-        "published_date": "2026-09-28 17:37:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "The government's \u201cMilagroWeek\u201d to attract investment will be in New York",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/la-milagroweek-del-gobierno-para-atraer-inversion-sera-en-nueva-york/",
-        "published_date": "2026-09-28 17:10:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "Insist on the error: megaprisons will not reduce crime",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-las-mujeres/insistir-en-el-error-las-megacarceles-no-reduciran-el-delito/",
-        "published_date": "2026-09-28 17:05:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Enroll in the new AI course and go from chatbot to gems",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/inscribase-en-el-nuevo-curso-de-ia-y-pase-del-chatbot-a-las-gemas-2/",
-        "published_date": "2026-09-28 16:53:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "In 2027 the national government will have to pay $71 billion in debt interest alone",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/en-2027-gobierno-nacional-debera-pagar-71-billones-solo-en-intereses-de-deuda-4491845",
-        "published_date": "2026-09-28 16:16:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "Claudia Macero, press chief of Mar\u00eda Corina Machado, returned to Venezuela",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/claudia-macero-jefa-de-prensa-de-maria-corina-machado-regreso-a-venezuela/",
-        "published_date": "2026-09-28 15:51:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Foreign Direct Investment has been surpassed 1.5 times by remittances so far this year",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/inversion-extranjera-directa-ha-superado-en-1-5-veces-las-remesas-en-lo-corrido-del-ano-4491701",
-        "published_date": "2026-09-28 13:56:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "Pizarro distances himself from the ruling that decrees the \u201cpolitical death\u201d of Iv\u00e1n Name",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/pizarro-se-desmarca-del-fallo-que-decreta-la-muerte-politica-de-ivan-name/",
-        "published_date": "2026-09-28 13:36:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "Serious accident between intermunicipal bus and truck on the Chicoral - El Espinal road, Tolima, left one person dead and several injured: this is known",
+        "title": "Superior Court of Cali ratified the femicide of Luz Mery Trist\u00e1n committed by Andr\u00e9s Ricci, but lowered her sentence by excluding the carrying of weapons",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/aparatoso-accidente-entre-bus-intermunicipal-y-camion-en-la-via-chicoral-el-espinal-tolima-dejo-una-persona-muerta-y-varios-heridos-esto-se-sabe-3589465",
-        "published_date": "2026-09-28 13:04:41",
+        "url": "https://www.eltiempo.com/colombia/cali/tribunal-superior-de-cali-ratifico-el-feminicidio-de-luz-mery-tristan-por-parte-de-andres-ricci-pero-le-bajo-la-condena-al-excluir-el-porte-de-armas-3589648",
+        "published_date": "2026-09-28 18:25:54",
         "category": "Local Events"
     },
     {
-        "title": "We have the right to know about the technologies used by the State",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/tenemos-derecho-a-conocer-sobre-las-tecnologias-que-usa-el-estado/",
-        "published_date": "2026-09-28 13:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Study revealed that Santander has more than 69 thousand complaints against the EPS so far in 2026: they report 285 complaints per day",
+        "title": "Why the defunding of the JEP would put at risk the advances of peace and justice throughout the territory: victims call for international oversight",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/estudio-revelo-que-santander-tiene-mas-de-69-mil-reclamos-contra-las-eps-en-lo-corrido-de-2026-reportan-285-quejas-por-dia-3589537",
-        "published_date": "2026-09-28 12:47:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "Pereira prepares for a 'civic day' for solidarity: this is how you can join the activities on October 10",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/pereira-se-prepara-para-un-dia-civico-por-la-solidaridad-asi-puede-sumarse-a-las-actividades-del-10-de-octubre-3589507",
-        "published_date": "2026-09-28 12:29:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "OAS sets its eyes on Barranquilla: leaders from 20 countries tour investment, technology and urban transformation projects",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/oea-pone-los-ojos-en-barranquilla-lideres-de-20-paises-recorren-proyectos-de-inversion-tecnologia-y-transformacion-urbana-3589517",
-        "published_date": "2026-09-28 12:15:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "Government announced 'Milagro Week' in November to attract international investment",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/gobierno-anuncio-la-milagro-week-en-noviembre-para-atraer-inversion-internacional-4491593",
-        "published_date": "2026-09-28 11:49:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Prosecutor's Office occupies 42 properties of heirs of the drug trafficker 'Pacho' Herrera for $44.9 billion in Bogot\u00e1, Antioquia and Valle: these are the properties",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/asi-fue-el-gigantesco-operativo-de-la-fiscalia-para-ocupar-42-bienes-del-clan-herrera-valorados-en-44-900-millones-en-bogota-antioquia-y-valle-3589476",
-        "published_date": "2026-09-28 11:23:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "OAS Secretary highlights relationship with Colombia and proposes that Barranquilla or Bogot\u00e1 host the organization's 80th anniversary in 2028",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/secretario-de-la-oea-destaca-relacion-con-colombia-y-plantea-que-barranquilla-o-bogota-sean-sede-del-aniversario-80-del-organismo-en-3589492",
-        "published_date": "2026-09-28 10:51:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "Dian will reveal the tax collection for August, as of July it reached $197.4 billion",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/dian-revelara-este-miercoles-el-recaudo-tributario-de-agosto-que-en-julio-llego-a-197-4-billones-4490904",
-        "published_date": "2026-09-28 05:01:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Dane will publish labor market data for August after unemployment falls to 8.1%",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/dane-publicara-datos-del-mercado-laboral-de-agosto-tras-caida-del-desempleo-a-8-1-4490984",
-        "published_date": "2026-09-28 05:01:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Bah\u00eda Solano launched an air terminal worth $31,195 million to double tourism",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/bahia-solano-estreno-terminal-aerea-de-31-195-millones-para-duplicar-el-turismo-en-la-region-4490864",
-        "published_date": "2026-09-28 05:01:37",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/por-que-la-desfinanciacion-de-la-jep-pondria-en-riesgo-los-avances-de-paz-y-justicia-en-todo-el-territorio-victimas-convocan-veeduria-internacional-3589645",
+        "published_date": "2026-09-28 18:11:24",
         "category": "Local Events"
     }
 ]
