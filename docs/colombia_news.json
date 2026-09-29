@@ -119,6 +119,20 @@
         "category": "Diplomacy"
     },
     {
+        "title": "They seized 2.5 tons of marijuana sold by Cauca dissidents to the 'Los Triana' gang: the drug would be distributed in the Aburr\u00e1 Valley",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/incautaron-2-5-toneladas-de-marihuana-vendida-por-las-disidencias-del-cauca-a-la-banda-los-triana-la-droga-seria-distribuida-en-el-valle-de-aburra-3589820",
+        "published_date": "2026-09-29 11:36:57",
+        "category": "Military"
+    },
+    {
+        "title": "Love, extortion and blood: this is how 'Cortico' and 'Sonia' operated, the couple that supported the logistical gear of the Ad\u00e1n Izquierdo structure in the Valley",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/amor-extorsion-y-sangre-asi-operaban-cortico-y-sonia-la-pareja-que-sostenia-el-engranaje-logistico-de-la-estructura-adan-izquierdo-en-el-valle-3589798",
+        "published_date": "2026-09-29 09:54:06",
+        "category": "Military"
+    },
+    {
         "title": "'Fito', Ecuadorian capo, sought protection for his family in Colombia: they revealed that illegal groups would be in charge of their security in Santander",
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/santander/fito-capo-ecuatoriano-busco-proteccion-para-su-familia-en-colombia-revelaron-que-grupos-ilegales-estarian-a-cargo-de-su-seguridad-en-santander-3589655",
@@ -245,18 +259,25 @@
         "category": "Military"
     },
     {
-        "title": "Judge stopped the suspension of the ZUT of the Commandos in Putumayo",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/juez-freno-la-suspension-de-la-zut-de-los-comandos-en-putumayo/",
-        "published_date": "2026-09-25 13:57:31",
-        "category": "Military"
+        "title": "Energy demand reached a historical maximum on August 28 with 263.2 GWh",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/demanda-de-energia-alcanzo-maximo-historico-el-28-de-agosto-con-263-2-gwh-4492603",
+        "published_date": "2026-09-29 13:28:42",
+        "category": "Energy"
     },
     {
-        "title": "Police and Marine Corps lead operations in three towns in Cartagena as part of the 'wasp operations' ordered by the Government",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/policia-e-infanteria-de-marina-lideran-operativos-en-tres-localidades-de-cartagena-como-parte-de-las-operaciones-avispa-ordenadas-por-el-gobierno-3588861",
-        "published_date": "2026-09-25 09:01:55",
-        "category": "Military"
+        "title": "The link that unites Serafino with Carlos Su\u00e1rez and Ecopetrol",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/podcasts/el-nexo-que-une-a-serafino-con-carlos-suarez-y-ecopetrol/",
+        "published_date": "2026-09-29 12:26:38",
+        "category": "Energy"
+    },
+    {
+        "title": "Risk of power outages increases due to lower thermal generation",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/aumenta-riesgo-de-racionamiento-de-energia-por-una-menor-generacion-de-termicas-4492337",
+        "published_date": "2026-09-29 05:01:58",
+        "category": "Energy"
     },
     {
         "title": "Thermal plants have been generating below the XM recommendation for 20 days",
@@ -378,25 +399,39 @@
         "category": "Energy"
     },
     {
-        "title": "Ecopetrol Board of Directors chose Joaqu\u00edn Guti\u00e9rrez as new president",
+        "title": "Colombia maintains current issues for US$39,564 million in global bonds",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/junta-directiva-de-ecopetrol-escogio-a-joaquin-gutierrez-como-presidente-4489623",
-        "published_date": "2026-09-24 19:03:56",
-        "category": "Energy"
+        "url": "https://www.larepublica.co/economia/colombia-mantiene-emisiones-vigentes-por-us-39-564-millones-en-bonos-globales-4492521",
+        "published_date": "2026-09-29 15:00:58",
+        "category": "Economy"
     },
     {
-        "title": "Four dead manatees were found in swamps and canals in Barrancabermeja: what is happening with the tributaries in the oil port?",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/hallaron-cuatro-manaties-muertos-en-cienagas-y-canos-de-barrancabermeja-que-esta-sucediendo-con-los-afluentes-en-el-puerto-petrolero-3588559",
-        "published_date": "2026-09-24 10:05:32",
-        "category": "Energy"
-    },
-    {
-        "title": "The Board will elect Abelardo's friend as the new president of Ecopetrol",
+        "title": "Colombia will sit down with the IMF in Washington to review its accounts",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/la-junta-elegira-al-amigo-de-abelardo-como-nuevo-presidente-de-ecopetrol/",
-        "published_date": "2026-09-23 23:30:00",
-        "category": "Energy"
+        "url": "https://www.lasillavacia.com/en-vivo/colombia-se-sentara-con-el-fmi-en-washington-para-revisar-sus-cuentas/",
+        "published_date": "2026-09-29 13:48:21",
+        "category": "Economy"
+    },
+    {
+        "title": "Clarke highlights the Government's commitment to fiscal discipline and investment attraction",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/clarke-destaca-apuesta-de-gobierno-por-disciplina-fiscal-y-atraccion-de-inversion-4492673",
+        "published_date": "2026-09-29 13:43:45",
+        "category": "Economy"
+    },
+    {
+        "title": "Development Bank of Latin America will approve a loan of 300 million dollars for the San Antonio de Prado metrocable, in Medell\u00edn",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/banco-de-desarrollo-de-america-latina-aprobara-un-credito-de-300-millones-de-dolares-para-el-metrocable-de-san-antonio-de-prado-en-medellin-3589846",
+        "published_date": "2026-09-29 11:46:22",
+        "category": "Economy"
+    },
+    {
+        "title": "National Government knocks on the doors of the IMF for the fourth time since the beginning of the century",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/gobierno-toca-las-puertas-del-fmi-por-cuarta-vez-desde-comienzos-de-siglo-4492321",
+        "published_date": "2026-09-29 05:01:03",
+        "category": "Economy"
     },
     {
         "title": "\"The damage of these four years is not resolved in the 50 days we have been in administration\"",
@@ -490,11 +525,123 @@
         "category": "Economy"
     },
     {
-        "title": "The Bank of the Republic has purchased almost US$700 million since the beginning of last month",
+        "title": "Mattelsa and the sustainable commitment to another business model",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-verde/mattelsa-y-la-batalla-cultural-que-la-sostenibilidad-y-colombia-necesita/",
+        "published_date": "2026-09-29 16:07:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "Petro presents the direction of the Pact and calls for the election of delegates",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/petro-presenta-la-direccion-del-pacto-y-llama-a-eleccion-de-delegados/",
+        "published_date": "2026-09-29 15:58:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Iv\u00e1n Name will appeal the ruling that decrees his \u201cpolitical death\u201d in the Ungrd case",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/ivan-name-apelara-fallo-que-decreta-su-muerte-politica-por-caso-ungrd/",
+        "published_date": "2026-09-29 15:40:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "Civil society does not have resources to participate in digital governance spaces",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-democracia-y-tecnologia/la-sociedad-civil-no-tiene-recursos-para-participar-en-espacios-de-gobernanza-digital/",
+        "published_date": "2026-09-29 15:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "With Torres and Peralta, Abelardo opens list of visas revoked in the US.",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/con-torres-y-peralta-abelardo-estrena-lista-de-visas-revocadas-en-ee-uu/",
+        "published_date": "2026-09-29 14:45:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "Death Came from the Sky, and No One Is Claiming Responsibility",
+        "source": "Verdad Abierta",
+        "url": "https://verdadabierta.com/death-came-from-the-sky-and-no-one-is-claiming-responsibility/",
+        "published_date": "2026-09-29 13:56:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "Bogot\u00e1 is the city with the highest tax burden, ICA and property taxes are the main income",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/banco-central-ha-comprado-casi-us-700-millones-desde-inicios-de-agosto-4485884",
-        "published_date": "2026-09-21 05:03:06",
-        "category": "Economy"
+        "url": "https://www.larepublica.co/economia/bogota-es-la-ciudad-con-mayor-carga-tributaria-ica-y-predial-son-la-principal-fuente-de-ingresos-4492629",
+        "published_date": "2026-09-29 13:14:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "Breakfast informed with the movements of this September 29, 2026",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-movidas-de-este-29-e-septiembre-de-2026/",
+        "published_date": "2026-09-29 12:33:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Property tax surcharge and changes in the ICA: the ABCs of the tax reform for Bogot\u00e1",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/sobretasa-al-predial-y-cambios-en-el-ica-el-abc-de-la-reforma-tributaria-para-bogota-4492558",
+        "published_date": "2026-09-29 12:07:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "This is how the Cali innovation center will work, which will reuse the earthquake debris for urban reconstruction: they have already defined the lot",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/asi-funcionara-el-centro-de-innovacion-de-cali-que-reutilizara-los-escombros-del-terremoto-para-la-reconstruccion-urbana-ya-definieron-el-lote-3589826",
+        "published_date": "2026-09-29 11:40:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "Medell\u00edn Councilor proposes stopping the expansion of short-term rentals in residential neighborhoods: he proposes specific areas for this activity",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/concejal-de-medellin-propone-frenar-expansion-de-rentas-cortas-en-barrios-residenciales-plantea-zonas-especificas-para-esta-actividad-3589814",
+        "published_date": "2026-09-29 11:20:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "Would Bucaramanga enter into water rationing after drought in Santander?Metropolitan Aqueduct responds and gives the reasons",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/bucaramanga-entraria-en-racionamiento-de-agua-tras-sequia-en-santander-acueducto-metropolitano-explica-las-razones-3589816",
+        "published_date": "2026-09-29 10:51:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "Atlantic |After 11 days in the ICU, Daniel Barrios, the young man hit by a motorcyclist who was performing pirouettes in the middle of a public street in Soledad, died.",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/atlantico-tras-11-dias-en-uci-murio-daniel-barrios-el-joven-arrollado-por-motociclista-que-hacia-piruetas-en-plena-via-publica-de-soledad-3589809",
+        "published_date": "2026-09-29 10:20:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "At this time the first debate begins in Congress to evaluate the bill that constitutes the 'Caribbean Territorial Entity Region'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/a-esta-hora-inicia-el-primer-debate-en-el-congreso-para-evaluar-el-proyecto-de-ley-que-constituye-la-region-entidad-territorial-caribe-3589795",
+        "published_date": "2026-09-29 10:07:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Pro Islands Committee was born in Cartagena to stop the leak of environmental taxes and order departures to the islands of Rosario, Bar\u00fa and Tierrabomba.",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/en-cartagena-nace-el-comite-pro-islas-para-frenar-la-fuga-del-tributo-ambiental-y-ordenar-los-zarpes-hacia-las-islas-del-rosario-baru-y-tierrabomba-3589773",
+        "published_date": "2026-09-29 09:36:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "With critical minerals, Colombia saddles the horse before buying it",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-amazonia/con-los-minerales-criticos-colombia-ensilla-el-caballo-antes-de-comprarlo/",
+        "published_date": "2026-09-29 06:01:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "Income from remittances has been above US$1 billion for 27 consecutive months",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/ingresos-por-remesas-llevan-27-meses-consecutivos-por-encima-de-los-us-1-000-millones-4492339",
+        "published_date": "2026-09-29 05:01:27",
+        "category": "Local Events"
     },
     {
         "title": "University democracy in crisis",
@@ -515,125 +662,6 @@
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/mincomercio-prohibio-la-importacion-de-bienes-producidos-mediante-trabajo-forzoso-4492305",
         "published_date": "2026-09-28 23:53:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "Council of State will once again study the protections against the president",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/consejo-de-estado-volvera-a-estudiar-las-tutelas-contra-el-presidente/",
-        "published_date": "2026-09-28 23:51:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "Again, Historical Pact did not propose a $200,000 bill with Petro's face",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/de-nuevo-pacto-historico-no-propuso-un-billete-de-200-000-con-la-cara-de-petro/",
-        "published_date": "2026-09-28 23:28:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Congress seeks to give 200 billion to the CNE and budget autonomy",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/congreso-busca-darle-200-mil-millones-al-cne-y-autonomia-presupuestal/",
-        "published_date": "2026-09-28 22:07:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fitch Ratings warns of pressure on companies due to lower cash flow and high rates",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/fitch-advierte-presion-sobre-empresas-colombianas-por-menor-flujo-de-caja-y-altas-tasas-4492170",
-        "published_date": "2026-09-28 22:06:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "Uribismo calls Enrique G\u00f3mez sectarian and closes the door to the coalition",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/uribismo-llama-sectario-a-enrique-gomez-y-cierra-puerta-a-coalicion/",
-        "published_date": "2026-09-28 21:53:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Bogot\u00e1 Council gave the green light to tax reform, it will be sanctioned by the Mayor's Office",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/concejo-de-bogota-dio-luz-verde-a-reforma-tributaria-pasara-a-sancion-de-la-alcaldia-4492084",
-        "published_date": "2026-09-28 20:50:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "The indigenous people do not deforest in their territories, the settlers do",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/los-indigenas-no-deforestan-en-sus-territorios-los-colonos-si/",
-        "published_date": "2026-09-28 20:44:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "In firm condemnation against Jos\u00e9 Miguel Narv\u00e1ez for kidnapping of Piedad C\u00f3rdoba",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/en-firme-condena-contra-jose-miguel-narvaez-por-secuestro-de-piedad-cordoba/",
-        "published_date": "2026-09-28 20:38:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Colombia needs to strengthen its presence on the African continent",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-etnica/colombia-necesita-fortalecer-su-presencia-en-el-continente-africano/",
-        "published_date": "2026-09-28 19:56:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "Council approves debt quota for $1 billion for Barranquilla: obligations would be extended until 2038",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/concejo-aprueba-cupo-de-endeudamiento-por-1-billon-para-barranquilla-obligaciones-se-extenderian-hasta-3589656",
-        "published_date": "2026-09-28 19:18:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "'Mommy, I'm not going to leave her': heartbreaking awakening in the ICU of a victim, after the earthquake that took away her mother and her home;cry out for help",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/mamita-no-la-voy-a-dejar-desgarrador-despertar-en-uci-de-una-damnificada-tras-el-terremoto-que-le-arrebato-a-su-madre-y-su-hogar-clama-por-ayuda-3589642",
-        "published_date": "2026-09-28 19:01:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "More than 21,000 foreigners have entered the country for medical treatments",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/mas-de-21-000-extranjeros-han-ingresado-al-pais-para-hacerse-tratamientos-medicos-4491973",
-        "published_date": "2026-09-28 19:00:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Attention: Aguas de Cartagena will begin this Tuesday a 40-hour technical stoppage that will affect 40% of the city due to optimization works",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/atencion-aguas-de-cartagena-iniciara-este-martes-parada-tecnica-de-40-horas-que-afectara-al-40-de-la-ciudad-debido-a-obras-de-optimizacion-3589652",
-        "published_date": "2026-09-28 18:33:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Max Henr\u00edquez warns of an intense storm over Barranquilla and asks to prepare for possible extreme winds",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/max-henriquez-advierte-de-una-intensa-tormenta-sobre-barranquilla-y-pide-prepararse-ante-posibles-vientos-extremos-3589639",
-        "published_date": "2026-09-28 18:28:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Abelardo government diary: the doubts left by three operations",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/diario-del-gobierno-de-abelardo-las-dudas-que-dejan-tres-operativos/",
-        "published_date": "2026-09-28 18:27:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "Superior Court of Cali ratified the femicide of Luz Mery Trist\u00e1n committed by Andr\u00e9s Ricci, but lowered her sentence by excluding the carrying of weapons",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/tribunal-superior-de-cali-ratifico-el-feminicidio-de-luz-mery-tristan-por-parte-de-andres-ricci-pero-le-bajo-la-condena-al-excluir-el-porte-de-armas-3589648",
-        "published_date": "2026-09-28 18:25:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Why the defunding of the JEP would put at risk the advances of peace and justice throughout the territory: victims call for international oversight",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/por-que-la-desfinanciacion-de-la-jep-pondria-en-riesgo-los-avances-de-paz-y-justicia-en-todo-el-territorio-victimas-convocan-veeduria-internacional-3589645",
-        "published_date": "2026-09-28 18:11:24",
         "category": "Local Events"
     }
 ]
