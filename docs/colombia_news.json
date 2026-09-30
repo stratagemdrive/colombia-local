@@ -1,5 +1,19 @@
 [
     {
+        "title": "Government will finance works on the Inem de Soledad pedestrian bridge through the Invias",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/gobierno-financiara-obras-del-puente-peatonal-del-inem-de-soledad-a-traves-del-invias-4493513",
+        "published_date": "2026-09-30 14:40:02",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Abelardo appoints Pastor Miguel Arr\u00e1zola as ambassador to El Salvador",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/abelardo-designa-al-pastor-miguel-arrazola-como-embajador-en-el-salvador/",
+        "published_date": "2026-09-30 13:35:29",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Ambassador Mauricio Gaona rules out Colombia leaving the UN",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/embajador-mauricio-gaona-descarta-que-colombia-salga-de-la-onu/",
@@ -91,18 +105,25 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Parents of Lucas Murillo, a boy who asked Abelardo De La Espriella for help, spoke out after open heart surgery: the next 72 hours are key",
+        "title": "Attention: they report an attack against the N\u00f3vita Police Station, in Choc\u00f3;six grenades would have been thrown from drones by the ELN",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/hablan-los-padres-de-lucas-murillo-tras-la-cirugia-a-corazon-abierto-el-nino-ha-salido-de-una-manera-admirable-para-nosotros-3587872",
-        "published_date": "2026-09-22 09:14:19",
-        "category": "Diplomacy"
+        "url": "https://www.eltiempo.com/colombia/medellin/atencion-reportan-ataque-contra-la-estacion-de-policia-de-novita-en-el-choco-seis-granadas-habrian-sido-lanzadas-desde-drones-por-el-eln-3590146",
+        "published_date": "2026-09-30 11:25:27",
+        "category": "Military"
     },
     {
-        "title": "Chronology of the violent murder of Esteban Ram\u00edrez, Coca-Cola sales manager who was shot during robbery in Medell\u00edn: company spoke out",
+        "title": "'Las Invisibles' fell, the network of women supplied drugs and cell phones to maximum security prisons: there were those captured in Barranquilla and Soledad",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/cronologia-de-violento-robo-y-asesinato-de-esteban-ramirez-jefe-de-ventas-de-coca-cola-que-recibio-disparos-en-medellin-empresa-se-pronuncio-3587903",
-        "published_date": "2026-09-22 08:35:00",
-        "category": "Diplomacy"
+        "url": "https://www.eltiempo.com/colombia/barranquilla/cayeron-las-invisibles-la-red-de-mujeres-abastecia-con-droga-y-celulares-a-carceles-de-maxima-seguridad-hubo-capturadas-en-barranquilla-y-soledad-3590135",
+        "published_date": "2026-09-30 10:20:00",
+        "category": "Military"
+    },
+    {
+        "title": "Santander invested $42,094 million to strengthen its Public Force with technology",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/santander-invirtio-42-094-millones-para-fortalecer-su-fuerza-publica-con-tecnologia-4493134",
+        "published_date": "2026-09-30 05:01:59",
+        "category": "Military"
     },
     {
         "title": "Governor of Cauca asks the National Government to militarize the Pan-American highway after the attack that left nine police officers injured in Tun\u00eda",
@@ -224,25 +245,25 @@
         "category": "Military"
     },
     {
-        "title": "Sleep informed with the movements of this September 25, 2026",
+        "title": "MinMinas lifts natural gas rationing due to failure at Spec plant",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-movidas-de-este-25-de-septiembre-de-2026/",
-        "published_date": "2026-09-26 00:48:52",
-        "category": "Military"
+        "url": "https://www.lasillavacia.com/en-vivo/minminas-levanta-racionamiento-de-gas-natural-por-falla-en-planta-spec/",
+        "published_date": "2026-09-30 14:24:23",
+        "category": "Energy"
     },
     {
-        "title": "National Government announces shielding of Santa Marta after armed strike: there will be a special security block and permanent presence of the Public Force",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/gobierno-nacional-anuncia-blindaje-a-santa-marta-tras-paro-armado-habra-bloque-especial-de-seguridad-y-presencia-permanente-de-la-fuerza-publica-3589090",
-        "published_date": "2026-09-25 19:35:00",
-        "category": "Military"
+        "title": "MinMinas ended natural gas rationing due to work at Spec LNG",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/minminas-finalizo-racionamiento-de-gas-natural-por-culminacion-de-trabajos-en-spec-4493407",
+        "published_date": "2026-09-30 12:34:00",
+        "category": "Energy"
     },
     {
-        "title": "Police lieutenant (r) is sent to jail, accused of shooting at singer Luis Alfonso's home: he would have threatened the artist",
+        "title": "Comfandi agrees to sell its network of drugstores to the Unidrogas S. A. group: general manager of the compensation fund explains the process",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/envian-a-la-carcel-a-teniente-r-de-la-policia-por-disparar-contra-la-vivienda-del-cantante-luis-alfonso-los-llamaba-para-amenazarlos-3589009",
-        "published_date": "2026-09-25 17:37:16",
-        "category": "Military"
+        "url": "https://www.eltiempo.com/colombia/cali/comfandi-acuerda-la-venta-de-su-red-de-droguerias-al-grupo-unidrogas-s-a-directivo-general-de-la-caja-de-compensacion-explica-el-proceso-3590091",
+        "published_date": "2026-09-30 11:07:51",
+        "category": "Energy"
     },
     {
         "title": "Data portal launched to monitor illegal mining in the Amazon",
@@ -364,25 +385,25 @@
         "category": "Energy"
     },
     {
-        "title": "Video |Man hit Air-e car with a hammer after claiming an alleged unfair charge in Barranquilla: he owed $2.6 million and was captured",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/video-hombre-golpeo-con-un-martillo-carro-de-air-e-tras-reclamar-un-presunto-cobro-injusto-en-barranquilla-debia-2-6-millones-y-fue-capturado-3589050",
-        "published_date": "2026-09-25 17:20:00",
-        "category": "Energy"
-    },
-    {
-        "title": "MinMinas announces gas rationing due to Spec maintenance",
+        "title": "Bogot\u00e1's GDP grew 2.8% in the first quarter, driven by trade and services",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/minminas-anuncia-racionamiento-de-gas-por-trabajos-en-regasificadora-spec-4490345",
-        "published_date": "2026-09-25 16:01:27",
-        "category": "Energy"
+        "url": "https://www.larepublica.co/economia/pib-de-bogota-crecio-2-8-en-el-primer-trimestre-jalonado-por-comercio-y-servicios-4493634",
+        "published_date": "2026-09-30 16:34:28",
+        "category": "Economy"
     },
     {
-        "title": "Joaqu\u00edn Guti\u00e9rrez: from friend of Abelardo to president of Ecopetrol",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/joaquin-gutierrez-de-amigo-de-abelardo-a-presidente-de-ecopetrol/",
-        "published_date": "2026-09-25 12:00:01",
-        "category": "Energy"
+        "title": "The deadline to pay the third property installment in Bogot\u00e1 expires on Friday, October 2",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/el-viernes-2-de-octubre-vence-el-plazo-para-pagar-la-tercera-cuota-del-predial-en-bogota-4493446",
+        "published_date": "2026-09-30 13:35:43",
+        "category": "Economy"
+    },
+    {
+        "title": "\u201cICA will have reductions in nine out of 10 industries with the Bogot\u00e1 tax\u201d",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/secretaria-de-hacienda-de-bogota-explico-los-detalles-de-la-reforma-tributaria-aprobada-4492997",
+        "published_date": "2026-09-30 05:01:52",
+        "category": "Economy"
     },
     {
         "title": "The Treasury asks to modify the budget for the Miracle Fund and Air-e debt",
@@ -504,150 +525,143 @@
         "category": "Economy"
     },
     {
-        "title": "Historic Pact presented alternative presentation to the Budget for 2027",
+        "title": "Unemployment rose to 9.4% in August, with an increase of more than 207,000 unemployed",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/bancada-del-pacto-historico-presento-ponencia-alternativa-al-presupuesto-por-598-6-billones-4488675",
-        "published_date": "2026-09-23 15:46:44",
-        "category": "Economy"
+        "url": "https://www.larepublica.co/economia/en-agosto-hubo-207-000-desocupados-mas-que-en-el-mismo-mes-de-2025-4493591",
+        "published_date": "2026-09-30 15:55:12",
+        "category": "Local Events"
     },
     {
-        "title": "MinAgricultura announced subsidized rates and will reprofile flower growers' debts",
+        "title": "Government of De la Espriella prepares decree to regulate demonstrations",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/gobierno-de-de-la-espriella-alista-decreto-para-regular-manifestaciones/",
+        "published_date": "2026-09-30 15:54:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "Are techbros afraid of AI?",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-democracia-y-tecnologia/los-techbros-tienen-miedo-de-la-ia/",
+        "published_date": "2026-09-30 15:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Trump did not order military intervention in Colombia;viral video is clickbait",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/trump-no-ordeno-intervencion-militar-en-colombia-video-viral-es-clickbait/",
+        "published_date": "2026-09-30 15:24:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "When idols and ideas fall, the past is reborn with force",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/cuando-caen-los-idolos-y-las-ideas-renace-el-pasado-con-fuerza/",
+        "published_date": "2026-09-30 15:23:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "Sof\u00eda Petro did not warn Abelardo of an outbreak \u201cif the wave of violence continues\u201d",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/sofia-petro-no-advirtio-a-abelardo-de-estallido-si-continua-ola-de-violencia/",
+        "published_date": "2026-09-30 14:18:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "Get the most out of AI with this new course from La Silla",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/saquele-el-jugo-a-la-ia-con-este-nuevo-curso-de-la-silla-2/",
+        "published_date": "2026-09-30 14:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Breakfast informed with the movements of this September 30, 2026",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-movidas-de-este-30-de-septiembre-de-2026/",
+        "published_date": "2026-09-30 12:26:55",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Airbnb lobby in Medell\u00edn",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/el-lobby-de-airbnb-en-medellin/",
+        "published_date": "2026-09-30 12:24:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Philippines endorsed certificates and opens the door to Colombian beef and pork",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/minagricultura-anuncio-tasas-subsidiada-y-reperfilamiento-de-deudas-para-floricultores-4493234",
-        "published_date": "2026-09-30 00:10:05",
+        "url": "https://www.larepublica.co/economia/filipinas-avalo-certificados-sanitarios-y-abre-la-puerta-a-carne-bovina-y-porcina-colombiana-4493388",
+        "published_date": "2026-09-30 12:15:09",
         "category": "Local Events"
     },
     {
-        "title": "Credit of up to $1.3 billion is authorized to Bogot\u00e1 for the first line of the Metro",
+        "title": "Government appointed Jairo Alexis Fr\u00edas as the new director of the Agust\u00edn Codazzi Institute",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/autorizan-credito-de-hasta-1-3-billones-a-bogota-para-financiar-primera-linea-del-metro-4493241",
-        "published_date": "2026-09-30 00:08:49",
+        "url": "https://www.larepublica.co/economia/gobierno-designo-a-jairo-alexis-frias-como-nuevo-director-del-instituto-agustin-codazzi-4493356",
+        "published_date": "2026-09-30 11:53:38",
         "category": "Local Events"
     },
     {
-        "title": "Sleep informed with the keys for this September 29, 2026",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-claves-de-este-29-de-septiembre-de-2026/",
-        "published_date": "2026-09-30 00:01:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "Abelardo appoints Cristina Lombana as Secretary of Transparency",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/abelardo-designa-a-cristina-lombana-como-secretaria-de-transparencia/",
-        "published_date": "2026-09-29 23:54:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "This capture was in Valledupar in 2025, not of motorcycle taxi drivers in Santa Marta",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/esta-captura-fue-en-valledupar-en-2025-no-de-mototaxistas-en-santa-marta/",
-        "published_date": "2026-09-29 22:53:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "MinAmbiente repealed the extension of the P\u00e1ramo de Santurb\u00e1n reserve",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/minambiente-derogo-extension-de-reserva-del-paramo-de-santurban/",
-        "published_date": "2026-09-29 22:52:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Inpec returns Antonio Guerra de la Espriella to La Picota prison",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/inpec-devuelve-a-antonio-guerra-de-la-espriella-a-carcel-la-picota/",
-        "published_date": "2026-09-29 21:01:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "45% of migratory birds are in decline, according to report",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/el-45-de-las-aves-migratorias-estan-en-declive-segun-reporte/",
-        "published_date": "2026-09-29 20:59:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "Videos of the strong tractor-trailer accident that crashed into a house on the Lebrija - Gir\u00f3n road, leaving 7 injured and one person dead",
+        "title": "Four of six people kidnapped by an armed group in Nari\u00f1o are released: they were threatened because of the volume of the music at a party",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/videos-del-fuerte-accidente-del-tractocamion-que-se-estrello-contra-una-vivienda-en-la-via-lebrija-giron-dejando-7-heridos-y-una-persona-muerta-3590008",
-        "published_date": "2026-09-29 20:08:05",
+        "url": "https://www.eltiempo.com/colombia/cali/liberan-a-cuatro-de-seis-personas-secuestradas-por-un-grupo-armado-en-narino-las-amenazaron-por-el-volumen-de-la-musica-en-una-fiesta-3590158",
+        "published_date": "2026-09-30 11:22:53",
         "category": "Local Events"
     },
     {
-        "title": "UNP director apologizes to Uribismo for campaign comments",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/director-de-unp-se-disculpa-con-el-uribismo-por-comentarios-en-campana/",
-        "published_date": "2026-09-29 19:43:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "Who pays when artificial intelligence makes mistakes?",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-democracia-y-tecnologia/quien-paga-cuando-se-equivoca-la-inteligencia-artificial/",
-        "published_date": "2026-09-29 19:34:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Strong accident originated in Gir\u00f3n: tractor-trailer crashed heavily into a house and destroyed several cars, one dead and 7 injured reported",
+        "title": "The ordeal of the man who was supplanted has been trying to correct this process for 10 years: his namesake changed the document with other characteristics",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/fuerte-accidente-se-origino-en-giron-tractocamion-se-estrello-fuertemente-contra-una-casa-y-arraso-con-varios-carros-reportan-un-muerto-y-heridos-3590001",
-        "published_date": "2026-09-29 19:10:01",
+        "url": "https://www.eltiempo.com/colombia/santander/extrano-caso-en-santander-hay-dos-ruben-gomez-en-colombia-con-la-misma-cedula-hombre-denuncia-suplantacion-y-registraduria-no-corrige-el-error-3590127",
+        "published_date": "2026-09-30 11:12:36",
         "category": "Local Events"
     },
     {
-        "title": "They capture in Cali a woman accused of sexually abusing her 9-year-old daughter, recording her and marketing her videos",
+        "title": "Barranquilla attracts investment of $65,000 million: new plant will allocate 70% of its jobs to people with disabilities",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/capturan-en-cali-a-mujer-senalada-de-abusar-sexualmente-de-su-hija-grabarla-y-comercializar-sus-videos-3589998",
-        "published_date": "2026-09-29 18:56:51",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-atrae-inversion-de-65-000-millones-para-nueva-planta-industrial-que-generara-175-empleos-esto-es-lo-que-se-sabe-3590136",
+        "published_date": "2026-09-30 11:01:00",
         "category": "Local Events"
     },
     {
-        "title": "Public Credit will carry out this Thursday the first of three exchanges planned for 2026",
+        "title": "Outrage over theft from a red wine seller in Sincelejo: they took his thermoses and $15,000",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/indignacion-por-robo-a-vendedor-de-tinto-en-sincelejo-le-quitaron-los-termos-y-15-3590128",
+        "published_date": "2026-09-30 10:48:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ambulance awaiting location of 93-year-old patient was fined and immobilized in Medell\u00edn",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/ambulancia-que-esperaba-ubicacion-de-paciente-de-93-anos-fue-multada-e-inmovilizada-en-medellin-3590132",
+        "published_date": "2026-09-30 10:35:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "It could have ended in tragedy: an attack with stones and sticks against the Real Cartagena team bus on the Ci\u00e9naga-Barranquilla road left players injured",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/pudo-terminar-en-tragedia-ataque-con-piedras-y-palos-contra-bus-del-equipo-real-cartagena-en-via-cienaga-barranquilla-dejo-jugadores-heridos-3590129",
+        "published_date": "2026-09-30 10:21:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "They investigate the discovery of a human head inside a plastic bag in Puerto Tejada, in the north of Cauca: what is known about the case",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/investigan-el-hallazgo-de-una-cabeza-humana-dentro-de-una-bolsa-plastica-en-puerto-tejada-en-el-norte-del-cauca-lo-que-se-sabe-del-caso-3589781",
+        "published_date": "2026-09-30 09:53:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cHigher education is strategic for the development of Santander and its economy\u201d",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/credito-publico-realizara-este-jueves-el-primero-de-tres-canjes-de-tes-previstos-para-2026-4492948",
-        "published_date": "2026-09-29 18:49:03",
+        "url": "https://www.larepublica.co/economia/entrevista-con-el-rector-de-la-uis-hernan-porras-sobre-el-impacto-de-la-educacion-superior-en-santander-4493143",
+        "published_date": "2026-09-30 05:01:54",
         "category": "Local Events"
     },
     {
-        "title": "Daughter of Luz Mery Trist\u00e1n, former skater murdered in 2023 by Andr\u00e9s Gustavo Ricci, spoke about the reduction of sentence: 'It's hard that she hasn't asked for forgiveness'",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/hija-de-luz-mery-tristan-exciclista-asesinada-en-2023-por-andres-gustavo-ricci-hablo-sobre-la-reduccion-de-pena-duro-que-no-haya-pedido-perdon-3589964",
-        "published_date": "2026-09-29 18:46:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "Lack of supply and great thirst: the drama for drinking water that affects the towns of Sucre, Sincelejo and their rural areas",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/falta-de-suministro-y-mucha-sed-el-drama-por-el-agua-potable-que-afecta-a-los-pueblos-de-sucre-sincelejo-y-sus-zonas-rurales-3589988",
-        "published_date": "2026-09-29 18:10:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Crisis in prison health in Cali: medical care for inmates in Villahermosa worsens after the earthquake",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/crisis-en-la-salud-carcelaria-de-cali-la-atencion-medica-de-internos-en-villahermosa-empeora-tras-el-terremoto-3589980",
-        "published_date": "2026-09-29 17:55:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tremor today in Colombia |They report a strong earthquake of magnitude 4.2 in Chaparral this September 29: they warn of feeling it in Bogot\u00e1, Ibagu\u00e9 and more cities",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-hoy-en-colombia-reportan-fuerte-sismo-de-4-2-de-magnitud-en-chaparral-tolima-usuarios-alertan-sentirlo-en-bogota-ibague-y-mas-ciudades-3589972",
-        "published_date": "2026-09-29 17:04:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "Governor of Quind\u00edo asks to stop the demolition of a parish and the emblematic and tourist viewpoint after the earthquake of August 10",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/gobernador-del-quindio-pide-frenar-la-demolicion-de-una-parroquia-y-el-emblematico-y-turistico-mirador-tras-terremoto-de-10-agosto-3589968",
-        "published_date": "2026-09-29 16:59:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Man would have died after choking on a chorizo \u200b\u200bduring Jhonny Rivera's concert in Huila",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/hombre-habria-muerto-tras-atragantarse-con-un-chorizo-durante-concierto-de-jhonny-rivera-en-el-huila-3589945",
-        "published_date": "2026-09-29 16:55:16",
+        "title": "This is how the construction of the third lane that connects Floridablanca with Piedecuesta is going",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/asi-va-la-construccion-del-tercer-carril-que-conecta-a-floridablanca-con-piedecuesta-4493113",
+        "published_date": "2026-09-30 05:01:43",
         "category": "Local Events"
     }
 ]
