@@ -1,5 +1,12 @@
 [
     {
+        "title": "Tania Gilinski took over as Colombia's new ambassador to the State of Israel",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/tania-gilinski-asume-como-nueva-embajadora-de-colombia-ante-el-estado-de-israel-4496172",
+        "published_date": "2026-10-03 14:00:39",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Government will finance new Inem pedestrian bridge in Soledad through Inv\u00edas",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/gobierno-financiara-nuevo-puente-peatonal-del-inem-en-soledad-a-traves-de-invias-4494160",
@@ -67,13 +74,6 @@
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/otras-ciudades/denuncian-a-personas-que-habrian-dado-cerveza-a-un-perro-sediento-en-bucaramanga-comunidad-pide-investigar-el-caso-3588990",
         "published_date": "2026-09-25 15:41:02",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Ara\u00f1a's extradition to the US begins. He will first stop in Barranquilla",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/arranca-extradicion-de-arana-a-ee-uu-primero-hara-parada-en-barranquilla/",
-        "published_date": "2026-09-25 15:02:03",
         "category": "Diplomacy"
     },
     {
@@ -217,6 +217,13 @@
         "category": "Military"
     },
     {
+        "title": "Acolgen warned that almost 60% of energy demand in two years is not insured",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/acolgen-alerto-que-casi-60-de-la-demanda-de-energia-en-dos-anos-no-esta-asegurada-4495953",
+        "published_date": "2026-10-03 05:01:04",
+        "category": "Energy"
+    },
+    {
         "title": "Alluvial gold exploitation grew by 4.5% in 2025: Unodc",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/explotacion-de-oro-de-aluvion-crecio-un-45-en-2025-unodc/",
@@ -347,13 +354,6 @@
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/villavicencio-cali-y-bogota-tendran-la-gasolina-mas-cara-en-octubre-el-diesel-no-subio-4494157",
         "published_date": "2026-10-01 02:06:08",
-        "category": "Energy"
-    },
-    {
-        "title": "Congress, Education and Mines and Energy led the budget execution in August",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/congreso-educacion-y-minas-lideraron-la-ejecucion-presupuestal-en-agosto-4493603",
-        "published_date": "2026-09-30 18:32:31",
         "category": "Energy"
     },
     {
@@ -497,6 +497,104 @@
         "category": "Economy"
     },
     {
+        "title": "New closing date for AI course registrations",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/nueva-fecha-de-cierre-para-las-inscripciones-del-curso-de-ia/",
+        "published_date": "2026-10-03 15:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Judge gives house to prison to Daniel Quintero's brother",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/juez-da-casa-por-carcel-al-hermano-de-daniel-quintero/",
+        "published_date": "2026-10-03 14:18:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "President De la Espriella asked to remove Germ\u00e1n Miranda, director of the Fire Department, from office",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/presidente-de-la-espriella-pidio-retirar-del-cargo-a-german-miranda-director-de-los-bomberos-4496176",
+        "published_date": "2026-10-03 14:17:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "In 40 years, the Amazonian indigenous territories are the ones that have deforested the least and other news",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/en-40-anos-los-territorios-indigenas-amazonicos-son-los-que-menos-han-deforestado-y-otras-noticias/",
+        "published_date": "2026-10-03 14:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Raising the age of women does not solve the problems of the pension system",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/subir-edad-de-mujeres-no-soluciona-los-problemas-del-sistema-pensional/",
+        "published_date": "2026-10-03 14:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Of realities and miracles",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/opinion/de-realidades-y-milagros/",
+        "published_date": "2026-10-03 13:36:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "The State cannot choose which family is worth more",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/opinion/el-estado-no-puede-elegir-que-familia-vale-mas/",
+        "published_date": "2026-10-03 13:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The public and the private",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/opinion/lo-publico-y-lo-privado/",
+        "published_date": "2026-10-03 13:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Controversy over a bull with fire on its horns during a corraleja in Atl\u00e1ntico",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/polemica-por-toro-con-fuego-en-los-cuernos-durante-una-corraleja-en-atlantico-3590977",
+        "published_date": "2026-10-03 09:23:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "President De La Espriella announces exclusive manager to solve the gap in Caregato, Sucre, and promises to find the resources",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/presidente-de-la-espriella-anuncia-gerente-exclusivo-para-solucionar-el-boquete-de-caregato-sucre-y-promete-buscar-los-recursos-3590968",
+        "published_date": "2026-10-03 08:48:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "Megaprisons will cost the country millions of pesos over 30 years",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/las-megacarceles-le-costaran-al-pais-millones-de-pesos-durante-30-anos/",
+        "published_date": "2026-10-03 05:05:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cWe estimate that the reconstruction of Caldas after the earthquake would cost $4 billion\u201d",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/entrevista-con-juanita-espeleta-secretaria-de-desarrollo-de-caldas-sobre-el-terremoto-4495934",
+        "published_date": "2026-10-03 05:01:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "During October, the temperature will be up to 2.5\u00b0C above the historical average",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/durante-octubre-la-temperatura-estara-hasta-2-5c-por-encima-del-promedio-historico-4495962",
+        "published_date": "2026-10-03 05:01:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "Government announced Special Zone in Sucre with aluminum project of up to US$5.2 billion",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/gobierno-anuncio-zona-especial-en-sucre-con-proyecto-de-aluminio-de-hasta-us-5-200-millones-4496090",
+        "published_date": "2026-10-03 02:15:13",
+        "category": "Local Events"
+    },
+    {
         "title": "Sleep informed with the keys for this October 2, 2026",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-claves-de-este-2-de-octubre-de-2026/",
@@ -504,10 +602,24 @@
         "category": "Local Events"
     },
     {
+        "title": "Valle del Cauca has a new queen: Valentina Duque, the communicator and model who seeks the crown in Cartagena",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/el-valle-del-cauca-tiene-nueva-reina-valentina-duque-la-comunicadora-y-modelo-que-busca-la-corona-en-cartagena-3590953",
+        "published_date": "2026-10-03 00:25:44",
+        "category": "Local Events"
+    },
+    {
         "title": "Brazil: Lula seeks re-election and Bolsonaro to join Trump's club",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/brasil-lula-busca-la-reeleccion-y-bolsonaro-entrar-al-club-de-trump/",
         "published_date": "2026-10-03 00:12:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "Videos |Emergency in Ibagu\u00e9 due to heavy rains: floods, fallen trees, sewer collapse and damage to the Tolima Theater",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/videos-emergencia-en-ibague-por-fuertes-lluvias-inundaciones-arboles-caidos-colapso-del-alcantarillado-y-afectaciones-en-el-teatro-tolima-3590937",
+        "published_date": "2026-10-03 00:03:10",
         "category": "Local Events"
     },
     {
@@ -522,118 +634,6 @@
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/vincent-ramos-rectifica-que-paloma-quisiera-que-mataran-a-abelardo/",
         "published_date": "2026-10-02 22:41:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u00c1lvaro Jos\u00e9 Cifuentes would be the new Vice Minister of Basic and Secondary Education of the Government",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/alvaro-jose-cifuentes-seria-el-nuevo-viceministro-de-educacion-basica-y-media-del-gobierno-4495731",
-        "published_date": "2026-10-02 22:08:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Government reactivated alliance with Colfuturo and projects 3,000 postgraduate scholarships by 2027",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/gobierno-reactivo-alianza-con-colfuturo-y-proyecta-3-000-becas-de-posgrado-para-2027-4495720",
-        "published_date": "2026-10-02 21:49:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "'Cali is my center in cinema': Camila Beltr\u00e1n, the filmmaker who chose the capital of the Valley as the creative headquarters of her projects",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/cali-es-mi-centro-en-el-cine-camila-beltran-la-realizadora-que-eligio-la-capital-del-valle-como-cuartel-creativo-de-sus-proyectos-3590896",
-        "published_date": "2026-10-02 20:41:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "Government reactivated alliance with Colfuturo and will invest US$25 million",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/gobierno-reactivo-alianza-con-colfuturo-e-invertira-us25-millones/",
-        "published_date": "2026-10-02 20:33:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "The JEP and the proposal for a new instance for the military",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-derecho-constitucional/la-jep-y-la-propuesta-de-una-nueva-instancia-para-militares/",
-        "published_date": "2026-10-02 19:48:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "The pending conversations at Climate Week in Medell\u00edn",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-verde/las-conversaciones-pendientes-de-la-climate-week-de-medellin/",
-        "published_date": "2026-10-02 19:41:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "'I do not agree that he complies with security measures in the house': Federico Guti\u00e9rrez on the decision against Miguel Quintero for the AMVA case",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/no-estoy-de-acuerdo-con-que-cumpla-medida-de-aseguramiento-en-la-casa-federico-gutierrez-sobre-decision-contra-miguel-quintero-por-el-caso-del-amva-3590877",
-        "published_date": "2026-10-02 17:48:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "The testimonies of corruption in the AMVA for which they imposed house arrest on Miguel Quintero, brother of former mayor Daniel Quintero",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/las-pruebas-y-testimonios-de-corrupcion-en-el-amva-por-los-que-enviaron-a-casa-por-carcel-a-miguel-quintero-hermano-del-exalcalde-daniel-quintero-3590886",
-        "published_date": "2026-10-02 17:48:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "They seize 1.2 tons of cocaine hydrochloride in Meta from dissidents of 'Iv\u00e1n Mordisco' that were destined for the United States",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/incautan-en-el-meta-1-2-toneladas-de-clorhidrato-de-cocaina-a-disidentes-de-ivan-mordisco-que-tendrian-como-destino-los-estados-unidos-3590891",
-        "published_date": "2026-10-02 17:46:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cartagena advances in the environmental and risk management roadmap within the POT projected to 2040",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/cartagena-ya-tiene-un-modelo-de-desarrollo-ambiental-sostenibilidad-y-gestion-del-riesgo-para-el-pot-proyectado-al-3590881",
-        "published_date": "2026-10-02 17:30:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Alluvial gold exploitation reached 118,410 hectares in 2025 and increased 4.5%",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/la-explotacion-de-oro-de-aluvion-llego-a-118-410-hectareas-en-2025-y-aumento-4-5-4495461",
-        "published_date": "2026-10-02 17:30:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "Video: Councilor of C\u00facuta generates controversy for video with AI in which he appears confronting street residents with grenades",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/video-concejal-de-cucuta-genera-polemica-por-video-con-ia-en-el-que-aparece-enfrentando-con-granadas-a-habitantes-de-calle-3590871",
-        "published_date": "2026-10-02 16:54:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "OAS delegates look at the projects with which Barranquilla seeks to attract investment and generate employment",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/delegados-de-la-oea-ponen-la-mirada-en-los-proyectos-con-los-que-barranquilla-busca-atraer-inversion-y-generar-empleo-3590866",
-        "published_date": "2026-10-02 16:41:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "Pereira has to demolish more than 250 buildings at risk of collapse: this is the process",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/pereira-tiene-que-demoler-mas-de-250-edificaciones-en-riesgo-de-colapso-este-es-el-proceso-3590865",
-        "published_date": "2026-10-02 16:33:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Video |Outrage in Barranquilla over a person who threw refrigerator waste directly into the sewer;authorities announce their search",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/video-indignacion-en-barranquilla-por-sujeto-que-arrojo-residuos-de-neveras-directamente-al-alcantarillado-autoridades-anuncian-su-busqueda-3590870",
-        "published_date": "2026-10-02 16:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Public Credit exchanged TES for $11.15 billion to reprofile the Nation's debt",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/credito-publico-canjeo-tes-por-11-15-billones-para-reperfilar-deuda-de-la-nacion-4495343",
-        "published_date": "2026-10-02 16:05:49",
         "category": "Local Events"
     }
 ]
