@@ -63,11 +63,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Castrochavism arrived at the UN",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-venezuela/a-la-onu-llego-el-castrumpchavismo/",
-        "published_date": "2026-09-26 05:05:00",
-        "category": "Diplomacy"
+        "title": "Land invasions in the southwest of the country: the anxiety experienced in the farms 'sieged' by FARC dissidents",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/invasiones-de-tierras-en-el-suroccidente-del-pais-la-zozobra-que-se-vive-en-las-fincas-sitiadas-por-los-disidentes-de-las-farc-3590983",
+        "published_date": "2026-10-04 10:35:33",
+        "category": "Military"
     },
     {
         "title": "Is there a security policy in the De la Espriella government or a communications strategy?",
@@ -200,13 +200,6 @@
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/medellin/atencion-reportan-ataque-contra-la-estacion-de-policia-de-novita-en-el-choco-seis-granadas-habrian-sido-lanzadas-desde-drones-por-el-eln-3590146",
         "published_date": "2026-09-30 11:25:27",
-        "category": "Military"
-    },
-    {
-        "title": "'Las Invisibles' fell, the network of women supplied drugs and cell phones to maximum security prisons: there were those captured in Barranquilla and Soledad",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/cayeron-las-invisibles-la-red-de-mujeres-abastecia-con-droga-y-celulares-a-carceles-de-maxima-seguridad-hubo-capturadas-en-barranquilla-y-soledad-3590135",
-        "published_date": "2026-09-30 10:20:00",
         "category": "Military"
     },
     {
@@ -490,10 +483,80 @@
         "category": "Economy"
     },
     {
+        "title": "Enroll in the new AI course and go from chatbot to gems",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/reabrimos-las-inscripciones-del-curso-de-ia-hasta-el-8-de-octubre/",
+        "published_date": "2026-10-04 15:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Start Sunday, October 4, 2026 with these opinion columns",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/comience-el-domingo-4-de-octubre-de-2026-con-estas-columnas-de-opinion/",
+        "published_date": "2026-10-04 14:13:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "Just energy transition or a new sacrifice for La Guajira",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-verde/transicion-energetica-justa-o-un-nuevo-sacrificio-para-la-guajira/",
+        "published_date": "2026-10-04 14:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Fentanyl on the Barranquilla-Santa Marta route: 500 vials of the dangerous substance that unleashed a health crisis in the United States are seized",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/fentanilo-en-la-ruta-barranquilla-santa-marta-incautan-500-ampollas-de-la-peligrosa-sustancia-que-desato-crisis-sanitaria-en-estados-unidos-3591114",
+        "published_date": "2026-10-04 10:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Humanitarian crisis in Choc\u00f3: Catholic Church asks to stop violence in R\u00edo Ir\u00f3, Condoto and N\u00f3vita",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/crisis-humanitaria-en-el-choco-iglesia-catolica-pide-freno-de-la-violencia-en-rio-iro-condoto-y-novita-3591110",
+        "published_date": "2026-10-04 10:12:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Barranquilla-New York takes shape: they announce a new connection that promises to boost tourism, investment and business for the Atlantic and the Caribbean",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-nueva-york-toma-forma-anuncian-nueva-conexion-que-promete-impulsar-turismo-inversion-y-negocios-para-atlantico-y-el-caribe-3591109",
+        "published_date": "2026-10-04 09:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "A roadmap to get out of the challenging fiscal deficit and grow",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/una-hoja-de-ruta-para-salir-del-desafiante-deficit-fiscal-y-crecer-3591049",
+        "published_date": "2026-10-04 00:01:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tremor in Colombia |An earthquake of magnitude 4.1 is reported in Istmina, Choc\u00f3, on the night of October 3: epicenter and depth",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-en-colombia-reportan-sismo-de-magnitud-4-1-en-istmina-choco-en-la-noche-del-3-de-octubre-epicentro-y-profundidad-3591085",
+        "published_date": "2026-10-03 22:45:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "In the bowels of the ARC Sim\u00f3n Bol\u00edvar, the ship that keeps track of the El Ni\u00f1o phenomenon",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/en-las-entranas-del-arc-simon-bolivar-el-buque-que-le-sigue-la-pista-al-fenomeno-de-el-nino-3590995",
+        "published_date": "2026-10-03 22:01:00",
+        "category": "Local Events"
+    },
+    {
         "title": "De la Espriella revives and awards manual eradication contract",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/de-la-espriella-revive-y-adjudica-contrato-de-erradicacion-manual/",
         "published_date": "2026-10-03 21:45:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "Couple in Caucasia, Antioquia, is expecting identical male quadruplets: an unprecedented case in Colombia",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/pareja-en-caucasia-antioquia-espera-cuatrillizos-varones-identicos-un-caso-inedito-en-colombia-3591067",
+        "published_date": "2026-10-03 21:37:41",
         "category": "Local Events"
     },
     {
@@ -557,76 +620,6 @@
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/nueva-fecha-de-cierre-para-las-inscripciones-del-curso-de-ia/",
         "published_date": "2026-10-03 15:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "House in prison for woman prosecuted for alleged trafficking of 4 young people in Meta: she offered them employment and they ended up being victims of sexual exploitation",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/casa-por-carcel-para-mujer-procesada-por-presunta-trata-de-4-mujeres-en-meta-les-ofrecio-empleo-y-terminaron-siendo-victimas-de-explotacion-sexual-3591031",
-        "published_date": "2026-10-03 14:59:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "ANT will refrain from executing up to $200 billion this year due to the country's fiscal situation",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/ant-se-abstendra-de-ejecutar-hasta-200-mil-millones-este-ano-ante-la-situacion-fiscal-del-pais-3590913",
-        "published_date": "2026-10-03 14:55:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "Judge gives house to prison to Daniel Quintero's brother",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/juez-da-casa-por-carcel-al-hermano-de-daniel-quintero/",
-        "published_date": "2026-10-03 14:18:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "President De la Espriella asked to remove Germ\u00e1n Miranda, director of the Fire Department, from office",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/presidente-de-la-espriella-pidio-retirar-del-cargo-a-german-miranda-director-de-los-bomberos-4496176",
-        "published_date": "2026-10-03 14:17:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "In 40 years, the Amazonian indigenous territories are the ones that have deforested the least and other news",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/en-40-anos-los-territorios-indigenas-amazonicos-son-los-que-menos-han-deforestado-y-otras-noticias/",
-        "published_date": "2026-10-03 14:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Raising the age of women does not solve the problems of the pension system",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/subir-edad-de-mujeres-no-soluciona-los-problemas-del-sistema-pensional/",
-        "published_date": "2026-10-03 14:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "More than 2,000 birds, 200 species and a decade of conservation: special celebration of the National Aviary for its 10 years this Sunday in Bar\u00fa",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/mas-de-2-000-aves-200-especies-y-una-decada-de-conservacion-celebracion-especial-del-aviario-nacional-por-sus-10-anos-este-domingo-en-baru-3591023",
-        "published_date": "2026-10-03 13:55:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Of realities and miracles",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/opinion/de-realidades-y-milagros/",
-        "published_date": "2026-10-03 13:36:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "The State cannot choose which family is worth more",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/opinion/el-estado-no-puede-elegir-que-familia-vale-mas/",
-        "published_date": "2026-10-03 13:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The public and the private",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/opinion/lo-publico-y-lo-privado/",
-        "published_date": "2026-10-03 13:00:00",
         "category": "Local Events"
     }
 ]
