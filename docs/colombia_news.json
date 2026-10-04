@@ -1,5 +1,19 @@
 [
     {
+        "title": "Foreign Minister Omar Bula appointed Tania Gillinski as Ambassador to Israel",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/canciller-omar-bula-posesiono-a-tania-gillinski-como-embajadora-en-israel/",
+        "published_date": "2026-10-03 19:24:24",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Changing the outcome: Abelardo and the Afro-Colombian critical tradition",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/cambiarle-el-desenlace-abelardo-y-la-tradicion-critica-afrocolombiana/",
+        "published_date": "2026-10-03 18:31:37",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Tania Gilinski took over as Colombia's new ambassador to the State of Israel",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/tania-gilinski-asume-como-nueva-embajadora-de-colombia-ante-el-estado-de-israel-4496172",
@@ -56,25 +70,25 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Colombia spends trust in the UN that it will need",
+        "title": "Is there a security policy in the De la Espriella government or a communications strategy?",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/colombia-gasta-en-la-onu-confianza-que-va-a-necesitar/",
-        "published_date": "2026-09-25 23:54:35",
-        "category": "Diplomacy"
+        "url": "https://www.lasillavacia.com/opinion/hay-una-politica-de-seguridad-en-el-gobierno-de-la-espriella-o-una-estrategia-de-comunicaciones/",
+        "published_date": "2026-10-03 21:03:00",
+        "category": "Military"
     },
     {
-        "title": "Restrepo announced the first \"Miracle Week\" in New York on November 16",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/restrepo-anuncio-la-primera-semana-milagro-llegara-a-nueva-york-el-16-de-noviembre-4490480",
-        "published_date": "2026-09-25 18:25:13",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "They denounce people who gave beer to a thirsty dog \u200b\u200bin Bucaramanga: community asks to investigate the case",
+        "title": "Barranquilla enters recess operation: 1,000 police officers will reinforce security during a week of high tourist mobility",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/denuncian-a-personas-que-habrian-dado-cerveza-a-un-perro-sediento-en-bucaramanga-comunidad-pide-investigar-el-caso-3588990",
-        "published_date": "2026-09-25 15:41:02",
-        "category": "Diplomacy"
+        "url": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-entra-en-operacion-receso-1-000-policias-reforzaran-la-seguridad-durante-una-semana-de-alta-movilidad-turistica-3591018",
+        "published_date": "2026-10-03 14:01:00",
+        "category": "Military"
+    },
+    {
+        "title": "Police seize a ton of cocaine hidden in the rural area of \u200b\u200bC\u00facuta: this is the criminal group that was guarding it",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/policia-incauta-una-tonelada-de-cocaina-escondida-en-zona-rural-de-cucuta-este-es-el-grupo-criminal-que-la-custodiaba-3590997",
+        "published_date": "2026-10-03 10:51:50",
+        "category": "Military"
     },
     {
         "title": "Six things we don't know about crime and security in Colombia",
@@ -196,25 +210,11 @@
         "category": "Military"
     },
     {
-        "title": "Santander invested $42,094 million to strengthen its Public Force with technology",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/santander-invirtio-42-094-millones-para-fortalecer-su-fuerza-publica-con-tecnologia-4493134",
-        "published_date": "2026-09-30 05:01:59",
-        "category": "Military"
-    },
-    {
-        "title": "Governor of Cauca asks the National Government to militarize the Pan-American highway after the attack that left nine police officers injured in Tun\u00eda",
+        "title": "Climate warning for Atl\u00e1ntico, Magdalena and La Guajira: they predict a weekend of heavy rains, electric shocks and possible gales",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/gobernador-del-cauca-pide-al-gobierno-nacional-militarizar-la-via-panamericana-tras-el-ataque-que-dejo-nueve-policias-heridos-en-tunia-3589996",
-        "published_date": "2026-09-29 20:14:25",
-        "category": "Military"
-    },
-    {
-        "title": "They seized 2.5 tons of marijuana sold by Cauca dissidents to the 'Los Triana' gang: the drug would be distributed in the Aburr\u00e1 Valley",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/incautaron-2-5-toneladas-de-marihuana-vendida-por-las-disidencias-del-cauca-a-la-banda-los-triana-la-droga-seria-distribuida-en-el-valle-de-aburra-3589820",
-        "published_date": "2026-09-29 11:36:57",
-        "category": "Military"
+        "url": "https://www.eltiempo.com/colombia/barranquilla/advertencia-climatica-para-atlantico-magdalena-y-la-guajira-pronostican-fin-de-semana-de-lluvias-fuertes-descargas-electricas-y-posibles-vendavales-3590988",
+        "published_date": "2026-10-03 10:01:00",
+        "category": "Energy"
     },
     {
         "title": "Acolgen warned that almost 60% of energy demand in two years is not insured",
@@ -347,13 +347,6 @@
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/ecopetrol-anuncia-cambios-en-su-equipo-directivo-con-tres-nuevas-designaciones-4494156",
         "published_date": "2026-10-01 02:20:00",
-        "category": "Energy"
-    },
-    {
-        "title": "Villavicencio, Cali and Bogot\u00e1 will have the most expensive gasoline in October;diesel did not rise",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/villavicencio-cali-y-bogota-tendran-la-gasolina-mas-cara-en-octubre-el-diesel-no-subio-4494157",
-        "published_date": "2026-10-01 02:06:08",
         "category": "Energy"
     },
     {
@@ -497,10 +490,87 @@
         "category": "Economy"
     },
     {
+        "title": "De la Espriella revives and awards manual eradication contract",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/de-la-espriella-revive-y-adjudica-contrato-de-erradicacion-manual/",
+        "published_date": "2026-10-03 21:45:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "The JEP cannot reach its decisive phase weakened",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/la-jep-no-puede-llegar-debilitada-a-su-fase-decisiva/",
+        "published_date": "2026-10-03 21:16:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "They found the body of communicator Juli\u00e1n Andr\u00e9s Hincapi\u00e9, who had disappeared on September 10 in Anor\u00ed, Antioquia",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/hallaron-el-cuerpo-del-comunicador-julian-andres-hincapie-quien-habia-desaparecido-el-10-de-septiembre-en-anori-antioquia-3591062",
+        "published_date": "2026-10-03 20:51:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "The streets are also for cyclists",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-derecho-constitucional/las-calles-tambien-son-de-los-ciclistas/",
+        "published_date": "2026-10-03 20:35:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "MinAgricultura releases first restricted area with the so-called Petro Appa",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/minagricultura-libera-primera-area-restringida-con-las-llamadas-appa-de-petro-4496228",
+        "published_date": "2026-10-03 18:24:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "De la Espriella asked Satena for a direct Monter\u00eda-Miami route, after opening the Panama route",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/de-la-espriella-pidio-a-satena-una-ruta-directa-monteria-miami-tras-abrir-la-de-panama-4496206",
+        "published_date": "2026-10-03 17:30:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "De la Espriella reverses appointment of the Fire Director",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/de-la-espriella-reversa-nombramiento-del-director-de-bomberos/",
+        "published_date": "2026-10-03 17:11:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "Serious accident on the Medell\u00edn-Salgar highway after rockfall: four people died and three were injured",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/grave-accidente-en-la-via-medellin-salgar-tras-desprendimiento-de-rocas-habria-cuatro-personas-fallecidas-y-tres-heridas-3591034",
+        "published_date": "2026-10-03 16:26:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "Fedearroz assures that it is willing to audit the resources of the rice sector",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/fedearroz-asegura-que-esta-dispuesta-a-la-auditoria-sobre-los-recursos-del-sector-arrocero-4496198",
+        "published_date": "2026-10-03 16:24:40",
+        "category": "Local Events"
+    },
+    {
         "title": "New closing date for AI course registrations",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/nueva-fecha-de-cierre-para-las-inscripciones-del-curso-de-ia/",
         "published_date": "2026-10-03 15:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "House in prison for woman prosecuted for alleged trafficking of 4 young people in Meta: she offered them employment and they ended up being victims of sexual exploitation",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/casa-por-carcel-para-mujer-procesada-por-presunta-trata-de-4-mujeres-en-meta-les-ofrecio-empleo-y-terminaron-siendo-victimas-de-explotacion-sexual-3591031",
+        "published_date": "2026-10-03 14:59:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "ANT will refrain from executing up to $200 billion this year due to the country's fiscal situation",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/ant-se-abstendra-de-ejecutar-hasta-200-mil-millones-este-ano-ante-la-situacion-fiscal-del-pais-3590913",
+        "published_date": "2026-10-03 14:55:36",
         "category": "Local Events"
     },
     {
@@ -532,6 +602,13 @@
         "category": "Local Events"
     },
     {
+        "title": "More than 2,000 birds, 200 species and a decade of conservation: special celebration of the National Aviary for its 10 years this Sunday in Bar\u00fa",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/mas-de-2-000-aves-200-especies-y-una-decada-de-conservacion-celebracion-especial-del-aviario-nacional-por-sus-10-anos-este-domingo-en-baru-3591023",
+        "published_date": "2026-10-03 13:55:00",
+        "category": "Local Events"
+    },
+    {
         "title": "Of realities and miracles",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/opinion/de-realidades-y-milagros/",
@@ -550,90 +627,6 @@
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/opinion/lo-publico-y-lo-privado/",
         "published_date": "2026-10-03 13:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Controversy over a bull with fire on its horns during a corraleja in Atl\u00e1ntico",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/polemica-por-toro-con-fuego-en-los-cuernos-durante-una-corraleja-en-atlantico-3590977",
-        "published_date": "2026-10-03 09:23:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "President De La Espriella announces exclusive manager to solve the gap in Caregato, Sucre, and promises to find the resources",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/presidente-de-la-espriella-anuncia-gerente-exclusivo-para-solucionar-el-boquete-de-caregato-sucre-y-promete-buscar-los-recursos-3590968",
-        "published_date": "2026-10-03 08:48:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "Megaprisons will cost the country millions of pesos over 30 years",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/las-megacarceles-le-costaran-al-pais-millones-de-pesos-durante-30-anos/",
-        "published_date": "2026-10-03 05:05:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cWe estimate that the reconstruction of Caldas after the earthquake would cost $4 billion\u201d",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/entrevista-con-juanita-espeleta-secretaria-de-desarrollo-de-caldas-sobre-el-terremoto-4495934",
-        "published_date": "2026-10-03 05:01:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "During October, the temperature will be up to 2.5\u00b0C above the historical average",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/durante-octubre-la-temperatura-estara-hasta-2-5c-por-encima-del-promedio-historico-4495962",
-        "published_date": "2026-10-03 05:01:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "Government announced Special Zone in Sucre with aluminum project of up to US$5.2 billion",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/gobierno-anuncio-zona-especial-en-sucre-con-proyecto-de-aluminio-de-hasta-us-5-200-millones-4496090",
-        "published_date": "2026-10-03 02:15:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sleep informed with the keys for this October 2, 2026",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-claves-de-este-2-de-octubre-de-2026/",
-        "published_date": "2026-10-03 00:32:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "Valle del Cauca has a new queen: Valentina Duque, the communicator and model who seeks the crown in Cartagena",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/el-valle-del-cauca-tiene-nueva-reina-valentina-duque-la-comunicadora-y-modelo-que-busca-la-corona-en-cartagena-3590953",
-        "published_date": "2026-10-03 00:25:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Brazil: Lula seeks re-election and Bolsonaro to join Trump's club",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/brasil-lula-busca-la-reeleccion-y-bolsonaro-entrar-al-club-de-trump/",
-        "published_date": "2026-10-03 00:12:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Videos |Emergency in Ibagu\u00e9 due to heavy rains: floods, fallen trees, sewer collapse and damage to the Tolima Theater",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/videos-emergencia-en-ibague-por-fuertes-lluvias-inundaciones-arboles-caidos-colapso-del-alcantarillado-y-afectaciones-en-el-teatro-tolima-3590937",
-        "published_date": "2026-10-03 00:03:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "Colombia has already made the first payment to Saab for the Gripen planes",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/colombia-ya-hizo-el-primer-pago-a-saab-por-los-aviones-gripen/",
-        "published_date": "2026-10-02 23:12:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "Vincent Ramos rectifies that Paloma wanted Abelardo to be killed",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/vincent-ramos-rectifica-que-paloma-quisiera-que-mataran-a-abelardo/",
-        "published_date": "2026-10-02 22:41:50",
         "category": "Local Events"
     }
 ]
