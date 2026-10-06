@@ -1,5 +1,12 @@
 [
     {
+        "title": "Video |Journalist chained herself at the Hospital Universitario del Valle in Cali to demand pending surgery for her husband: they have been waiting for seven months",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/video-periodista-se-encadeno-en-el-hospital-universitario-del-valle-en-cali-para-exigir-cirugia-pendiente-de-su-esposo-llevan-siete-meses-esperando-3591465",
+        "published_date": "2026-10-05 20:24:00",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Foreign Minister Omar Bula appointed Tania Gillinski as Ambassador to Israel",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/canciller-omar-bula-posesiono-a-tania-gillinski-como-embajadora-en-israel/",
@@ -54,6 +61,27 @@
         "url": "https://www.lasillavacia.com/en-vivo/alto-comisionado-de-la-onu-destaca-reparacion-a-victimas-de-la-jep/",
         "published_date": "2026-09-28 18:08:05",
         "category": "Diplomacy"
+    },
+    {
+        "title": "Fall in crimes that Abelardo highlighted is real, but omits context",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/detector-de-mentiras/caida-en-delitos-que-destaco-abelardo-es-real-pero-omite-contexto/",
+        "published_date": "2026-10-05 22:39:35",
+        "category": "Military"
+    },
+    {
+        "title": "After two years, Abelardo revives the Joint Task Forces",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/abelardo-apuesta-de-nuevo-por-las-fuerzas-de-tarea-conjunta-con-urano/",
+        "published_date": "2026-10-05 20:37:56",
+        "category": "Military"
+    },
+    {
+        "title": "Woman ended up with her vehicle inside a swimming pool in Valledupar: the accident was recorded on the security cameras of the residential complex",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/mujer-termino-con-su-vehiculo-dentro-de-una-piscina-en-valledupar-el-accidente-quedo-grabado-en-las-camaras-de-seguridad-del-conjunto-residencial-3591401",
+        "published_date": "2026-10-05 18:14:07",
+        "category": "Military"
     },
     {
         "title": "Alias \u200b\u200b'Ozuna', a man accused of spreading fear in the north of Barranquilla, fell: at least 12 violent robberies are attributed to him",
@@ -175,25 +203,32 @@
         "category": "Military"
     },
     {
-        "title": "\u201cIt is a lack of knowledge\u201d: Secretary of Security rejects militarization",
+        "title": "La Silla responds to Carlos Su\u00e1rez, president of the Ecopetrol Board",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/es-un-desconocimiento-secretario-de-seguridad-rechaza-militarizacion/",
-        "published_date": "2026-10-01 15:18:35",
-        "category": "Military"
+        "url": "https://www.lasillavacia.com/en-vivo/la-silla-responde-a-carlos-suarez-presidente-de-la-junta-de-ecopetrol/",
+        "published_date": "2026-10-05 22:16:55",
+        "category": "Energy"
     },
     {
-        "title": "From rescuing bodies in the Vanessa building to surviving four gunshots in Palmira: the miraculous story of an Army corporal in the Valley",
+        "title": "Nation supports the structuring of the Atlantic Green Hydrogen Hub: industry, ports and universities join in",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/de-rescatar-cuerpos-en-el-edificio-vanessa-a-sobrevivir-a-cuatro-balazos-en-palmira-la-milagrosa-historia-de-un-cabo-del-ejercito-en-el-valle-3590320",
-        "published_date": "2026-09-30 19:05:26",
-        "category": "Military"
+        "url": "https://www.eltiempo.com/colombia/barranquilla/nacion-respalda-la-estructuracion-del-hub-de-hidrogeno-verde-del-atlantico-industria-puertos-y-universidades-se-suman-3591408",
+        "published_date": "2026-10-05 17:01:00",
+        "category": "Energy"
     },
     {
-        "title": "A three-year-old girl died after falling from the 14th floor of her home in Neiva, Huila, when she was in the company of her mother: 'She is destroyed'",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/menor-de-tres-anos-murio-al-caer-de-un-piso-14-de-su-vivienda-en-neiva-huila-cuando-estaba-en-compania-de-su-madre-autoridades-investigan-3590278",
-        "published_date": "2026-09-30 17:22:43",
-        "category": "Military"
+        "title": "Despite the appreciation of the peso, exports have grown 12.8% so far this year",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/pese-a-apreciacion-del-peso-las-exportaciones-han-crecido-12-8-en-lo-que-va-del-ano-4496887",
+        "published_date": "2026-10-05 15:46:53",
+        "category": "Energy"
+    },
+    {
+        "title": "Petrobras and Ecopetrol completed exploration with an investment of US$1,000 million",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/petrobras-y-ecopetrol-culminaron-campana-exploratoria-con-inversion-de-us-1-000-millones-4496769",
+        "published_date": "2026-10-05 13:42:37",
+        "category": "Energy"
     },
     {
         "title": "Climate warning for Atl\u00e1ntico, Magdalena and La Guajira: they predict a weekend of heavy rains, electric shocks and possible gales",
@@ -308,32 +343,18 @@
         "category": "Energy"
     },
     {
-        "title": "Colombia is among the 10 countries with the cheapest gasoline per liter in Latin America",
+        "title": "Colombia could save up to 290 basic interest if it reaches an agreement with the IMF",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/colombia-esta-entre-los-10-paises-con-la-gasolina-por-litro-mas-barata-de-la-region-4494353",
-        "published_date": "2026-10-01 13:49:15",
-        "category": "Energy"
+        "url": "https://www.larepublica.co/economia/colombia-podria-ahorrarse-hasta-290-puntos-basicos-de-tasa-de-interes-si-logra-acuerdo-con-el-fmi-4496980",
+        "published_date": "2026-10-05 18:45:00",
+        "category": "Economy"
     },
     {
-        "title": "Mauricio Guti\u00e9rrez, new VP of Strategy and New Businesses of Ecopetrol",
+        "title": "Market analysts predict that inflation will rise to 6.33% in September",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/mauricio-gutierrez-fue-designado-como-vp-de-estrategia-y-nuevos-negocios-de-ecopetrol-4494268",
-        "published_date": "2026-10-01 12:10:43",
-        "category": "Energy"
-    },
-    {
-        "title": "In less than 15 days the Economic Rescue Law will be filed in the Congress of the Republic",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/en-menos-de-15-dias-se-radicara-la-ley-de-rescate-en-el-congreso-de-la-republica-4494104",
-        "published_date": "2026-10-01 05:00:52",
-        "category": "Energy"
-    },
-    {
-        "title": "Ecopetrol announces changes in its management team with three new appointments",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/ecopetrol-anuncia-cambios-en-su-equipo-directivo-con-tres-nuevas-designaciones-4494156",
-        "published_date": "2026-10-01 02:20:00",
-        "category": "Energy"
+        "url": "https://www.larepublica.co/economia/analistas-del-mercado-preven-que-la-inflacion-repuntara-hasta-6-33-en-septiembre-4495988",
+        "published_date": "2026-10-05 05:01:24",
+        "category": "Economy"
     },
     {
         "title": "CAF's US$1 billion fund will seek to protect the region against the \"super Ni\u00f1o\"",
@@ -462,150 +483,143 @@
         "category": "Economy"
     },
     {
-        "title": "The market foresees stability within the interest rates of the Bank of the Republic",
+        "title": "The non-negotiables of indigenous communities in the PND: counselor Onic",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/los-no-negociables-de-las-comunidades-indigenas-en-el-pnd-consejero-onic/",
+        "published_date": "2026-10-06 01:01:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "Sleep informed with the movements of this October 5, 2026",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-movidas-de-este-5-de-octubre-de-2026/",
+        "published_date": "2026-10-06 00:28:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Flip rejects accusations from Carlos Su\u00e1rez against La Silla and Cambio",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/flip-rechaza-senalamientos-de-carlos-suarez-contra-la-silla-y-cambio/",
+        "published_date": "2026-10-06 00:18:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "Increase of 25 bps.The Issuer's rate reflected caution due to the effect on the risk premium",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/mercado-preve-estabilidad-en-las-tasas-de-interes-del-banco-de-la-republica-4490842",
-        "published_date": "2026-09-28 05:00:26",
-        "category": "Economy"
-    },
-    {
-        "title": "Brazil elections: Bolsonaro and Lula will go to the second presidential round",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/elecciones-brasil-bolsonaro-y-lula-iran-a-segunda-vuelta-presidencial/",
-        "published_date": "2026-10-04 23:14:26",
+        "url": "https://www.larepublica.co/economia/alza-de-25-pbs-en-tasa-del-emisor-reflejo-cautela-por-efecto-en-prima-de-riesgo-4497395",
+        "published_date": "2026-10-06 00:08:20",
         "category": "Local Events"
     },
     {
-        "title": "Abelardo accuses Yahir Acu\u00f1a of being corrupt;the mayor accuses him of intimidating him",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/abelardo-senala-de-corrupto-a-yahir-acuna-el-alcalde-lo-acusa-de-intimidarlo/",
-        "published_date": "2026-10-04 20:50:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "Why did Pablo Escobar's red truck end up in a family dispute?Tails of the domain forfeiture process",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/por-que-la-camioneta-roja-de-pablo-escobar-termino-en-disputa-familiar-coletazos-del-proceso-de-extincion-de-dominio-3591135",
-        "published_date": "2026-10-04 19:30:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "The heartbreaking story of a father who witnessed the accident in which his son died in Barranquilla: 'I saw the motorcycle and the license plate, but I didn't know if it was him'",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/el-desgarrador-relato-de-padre-que-fue-testigo-del-accidente-en-el-que-murio-su-hijo-en-barranquilla-vi-la-moto-y-la-placa-pero-no-sabia-si-era-el-3591146",
-        "published_date": "2026-10-04 19:24:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "They deny the death of Yamid Amat and report satisfactory progress",
+        "title": "The FND warned about the impacts of increasing the minimum wage in tax categories",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/desmienten-fallecimiento-de-yamid-amat-e-informan-evolucion-satisfactoria-4496429",
-        "published_date": "2026-10-04 18:52:37",
+        "url": "https://www.larepublica.co/economia/la-fnd-alerto-por-los-impactos-aumento-del-salario-minimo-en-categorias-fiscales-4497400",
+        "published_date": "2026-10-05 23:55:06",
         "category": "Local Events"
     },
     {
-        "title": "Public innovation: what the Jaguar teaches us",
+        "title": "\u201cI have nothing to hide\u201d: Sneyder Pinilla responds to chats with Fern\u00e1ndez",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/opinion/innovacion-publica-lo-que-el-jaguar-nos-ensena/",
-        "published_date": "2026-10-04 18:10:46",
+        "url": "https://www.lasillavacia.com/en-vivo/no-tengo-nada-que-esconder-sneyder-pinilla-responde-a-chats-con-fernandez/",
+        "published_date": "2026-10-05 23:18:06",
         "category": "Local Events"
     },
     {
-        "title": "Yahir Acu\u00f1a, mayor of Sincelejo, responds to a message from President Abelardo De La Espriella: 'The video is edited and manipulated'",
+        "title": "Trends in executive training to achieve organizational success based on knowledge and the application of new tools",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-educacion/tendencias-en-la-formacion-ejecutiva-para-lograr-el-exito-organizacional-basada-en-conocimiento-y-la-aplicacion-de-nuevas-herramientas/",
+        "published_date": "2026-10-05 23:16:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "Government evaluates 20 million hectares for hydrocarbon exploration",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/gobierno-evalua-20-millones-de-hectareas-para-exploracion-de-hidrocarburos-4497155",
+        "published_date": "2026-10-05 22:32:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "Banco de la Rep\u00fablica is $3 billion away from reaching its 2026 profit goal",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/banco-de-la-republica-esta-a-3-billones-de-alcanzar-meta-de-utilidades-de-2026-4497224",
+        "published_date": "2026-10-05 22:25:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "Prosecutor's Office asks to save economic emergency due to the earthquake",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/procuraduria-pide-salvar-emergencia-economica-de-abelardo-por-el-terremoto/",
+        "published_date": "2026-10-05 21:47:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "Aerocivil resumed operations at El Dorado Airport after heavy rains",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/aerocivil-reanudo-las-operaciones-en-el-aeropuerto-el-dorado-tras-fuertes-lluvias-4496817",
+        "published_date": "2026-10-05 21:44:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "Government announced new $8.6 billion sports venue in Monter\u00eda",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/gobierno-anuncio-nuevo-escenario-deportivo-de-8-600-millones-en-monteria-4497168",
+        "published_date": "2026-10-05 21:20:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Colombian passenger who was expelled from a Delta flight between Bogot\u00e1 and the United States spoke after the airline's response: he received a reward",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/video-escala-la-confrontacion-entre-de-la-espriella-y-yahir-acuna-el-alcalde-de-sincelejo-denuncia-intimidacion-armada-y-habla-de-perfilamiento-3591149",
-        "published_date": "2026-10-04 17:54:46",
+        "url": "https://www.eltiempo.com/colombia/pasajero-colombiano-que-fue-expulsado-de-un-vuelo-de-delta-entre-bogota-y-estados-unidos-hablo-tras-respuesta-de-la-aerolinea-recibio-una-recompensa-3591474",
+        "published_date": "2026-10-05 20:49:20",
         "category": "Local Events"
     },
     {
-        "title": "Andi Bol\u00edvar asks the Board to keep Mac Master in the presidency",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/andi-bolivar-pide-a-la-junta-mantener-a-mac-master-en-la-presidencia/",
-        "published_date": "2026-10-04 17:53:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Clean car, dirty conscience",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/opinion/carro-limpio-conciencia-sucia/",
-        "published_date": "2026-10-04 16:47:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "Abelardo seeks to remove the rector of UniC\u00f3rdoba despite the ruling of the Council of State",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/abelardo-busca-sacar-a-rector-de-unicordoba-pese-a-fallo-del-consejo-de-estado/",
-        "published_date": "2026-10-04 16:15:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "Patria Milagro or Patria Boba?",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/patria-milagro-o-patria-boba/",
-        "published_date": "2026-10-04 15:10:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Enroll in the new AI course and go from chatbot to gems",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/reabrimos-las-inscripciones-del-curso-de-ia-hasta-el-8-de-octubre/",
-        "published_date": "2026-10-04 15:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Start Sunday, October 4, 2026 with these opinion columns",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/comience-el-domingo-4-de-octubre-de-2026-con-estas-columnas-de-opinion/",
-        "published_date": "2026-10-04 14:13:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Just energy transition or a new sacrifice for La Guajira",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-verde/transicion-energetica-justa-o-un-nuevo-sacrificio-para-la-guajira/",
-        "published_date": "2026-10-04 14:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "From Barranquilla to the world: Shakira opened her concert in Madrid with Salwa Maloof, Isabella Daes and the entire monarchy of Carnival 2027",
+        "title": "Common crime or gang retaliation?The criminal plot that would be behind the murder of a young woman cremated in a pipe in Cali",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/de-barranquilla-pa-l-mundo-shakira-abrio-su-concierto-en-madrid-junto-a-salwa-maloof-y-toda-la-monarquia-del-carnaval-3591130",
-        "published_date": "2026-10-04 12:40:00",
+        "url": "https://www.eltiempo.com/colombia/cali/delincuencia-comun-o-retaliacion-entre-bandas-la-trama-criminal-que-estaria-detras-del-asesinato-de-una-joven-incinerada-en-un-cano-en-cali-3591478",
+        "published_date": "2026-10-05 20:42:38",
         "category": "Local Events"
     },
     {
-        "title": "Colombian Geological Service reports earthquake of magnitude 4.6 in the Pacific",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/servicio-geologico-colombiano-reporta-temblor-de-magnitud-4-6-en-el-pacifico-3591119",
-        "published_date": "2026-10-04 11:02:33",
+        "title": "Enroll in this AI course and learn how to automate tasks",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/inscribase-a-este-curso-de-ia-y-aprenda-a-automatizar-tareas-2/",
+        "published_date": "2026-10-05 20:32:02",
         "category": "Local Events"
     },
     {
-        "title": "Fentanyl on the Barranquilla-Santa Marta route: 500 vials of the dangerous substance that unleashed a health crisis in the United States are seized",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/fentanilo-en-la-ruta-barranquilla-santa-marta-incautan-500-ampollas-de-la-peligrosa-sustancia-que-desato-crisis-sanitaria-en-estados-unidos-3591114",
-        "published_date": "2026-10-04 10:30:00",
+        "title": "There are three weeks left until the closing of the income tax return season",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/quedan-tres-semanas-para-el-cierre-de-la-temporada-de-declaracion-de-renta-4496860",
+        "published_date": "2026-10-05 20:26:10",
         "category": "Local Events"
     },
     {
-        "title": "Humanitarian crisis in Choc\u00f3: Catholic Church asks to stop violence in R\u00edo Ir\u00f3, Condoto and N\u00f3vita",
+        "title": "The strong hail that fell in Santander, similar to that of Bogot\u00e1: it strongly affected crops and farmers claim to have lost almost everything",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/crisis-humanitaria-en-el-choco-iglesia-catolica-pide-freno-de-la-violencia-en-rio-iro-condoto-y-novita-3591110",
-        "published_date": "2026-10-04 10:12:46",
+        "url": "https://www.eltiempo.com/colombia/santander/la-fuerte-granizada-que-cayo-en-santander-similar-a-la-de-bogota-afecto-fuertemente-cultivos-y-campesinos-aseguran-haberlo-perdido-casi-todo-3591472",
+        "published_date": "2026-10-05 19:45:57",
         "category": "Local Events"
     },
     {
-        "title": "Barranquilla-New York takes shape: they announce a new connection that promises to boost tourism, investment and business for the Atlantic and the Caribbean",
+        "title": "Miguel Quintero defends himself through social networks in the case of millionaire appropriation of resources: 'It is a political persecution in another's body'",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-nueva-york-toma-forma-anuncian-nueva-conexion-que-promete-impulsar-turismo-inversion-y-negocios-para-atlantico-y-el-caribe-3591109",
-        "published_date": "2026-10-04 09:30:00",
+        "url": "https://www.eltiempo.com/colombia/medellin/miguel-quintero-se-defiende-a-traves-de-redes-sociales-por-caso-de-millonaria-apropiacion-de-recursos-es-una-persecucion-politica-en-cuerpo-ajeno-3591436",
+        "published_date": "2026-10-05 18:20:59",
         "category": "Local Events"
     },
     {
-        "title": "A roadmap to get out of the challenging fiscal deficit and grow",
+        "title": "Nine Venezuelans with criminal records and intelligence reports were expelled from Colombia in Medell\u00edn: there is one convicted of kidnapping in the United States",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/una-hoja-de-ruta-para-salir-del-desafiante-deficit-fiscal-y-crecer-3591049",
-        "published_date": "2026-10-04 00:01:00",
+        "url": "https://www.eltiempo.com/colombia/medellin/fueron-expulsados-del-pais-nueve-venezolanos-con-antecedentes-y-reportes-de-inteligencia-en-medellin-hay-un-condenado-por-secuestro-en-estados-unidos-3591392",
+        "published_date": "2026-10-05 17:34:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mexico, Brazil and Argentina already add 545,152 travelers to Colombia this year",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/mexico-brasil-y-argentina-ya-suman-545-152-viajeros-hacia-colombia-este-ano-4496982",
+        "published_date": "2026-10-05 17:13:06",
         "category": "Local Events"
     }
 ]
