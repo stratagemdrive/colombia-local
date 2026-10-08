@@ -1,5 +1,26 @@
 [
     {
+        "title": "The US accuses Nicol\u00e1s Maduro and his wife, Cilia Flores, of torture",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/ee-uu-acusa-por-tortura-a-nicolas-maduro-y-su-esposa-cilia-flores/",
+        "published_date": "2026-10-08 17:37:56",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Colombia distanced itself from the concept of \u201csexual and reproductive rights\u201d",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/colombia-se-desmarco-del-concepto-derechos-sexuales-y-reproductivos/",
+        "published_date": "2026-10-08 14:32:42",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Important and imposing sculpture of the Industrial University of Santander was vandalized: it is presumed that it was due to the conflict between Palestine and Israel",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/importante-e-imponente-escultura-de-la-universidad-industrial-de-santander-fue-vandalizada-se-presume-que-fue-por-conflicto-entre-palestina-e-israel-3592165",
+        "published_date": "2026-10-08 09:37:48",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Video |They denounce animal abuse of an iguana on the campus of the San Mart\u00edn University Foundation, in Atl\u00e1ntico: 'The worker will be removed'",
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/otras-ciudades/video-denuncia-de-maltrato-animal-a-una-iguana-en-el-campus-de-la-fundacion-universitaria-san-martin-en-el-atlantico-se-retirara-al-trabajador-3591949",
@@ -56,18 +77,18 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Government will finance works on the Inem de Soledad pedestrian bridge through the Invias",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/gobierno-financiara-obras-del-puente-peatonal-del-inem-de-soledad-a-traves-del-invias-4493513",
-        "published_date": "2026-09-30 14:40:02",
-        "category": "Diplomacy"
+        "title": "Ungrd: for security, the Prosecutor's Office had asked not to transfer Olmedo and Pinilla",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/ungrd-por-seguridad-fiscalia-habia-pedido-no-trasladar-a-olmedo-y-pinilla/",
+        "published_date": "2026-10-08 15:47:57",
+        "category": "Military"
     },
     {
-        "title": "Abelardo appoints Pastor Miguel Arr\u00e1zola as ambassador to El Salvador",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/abelardo-designa-al-pastor-miguel-arrazola-como-embajador-en-el-salvador/",
-        "published_date": "2026-09-30 13:35:29",
-        "category": "Diplomacy"
+        "title": "With reduction in all crimes and pending challenges, Medell\u00edn Security Secretariat presented balance after 1,000 days of management",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/con-reduccion-en-todos-los-delitos-y-desafios-pendientes-secretaria-de-seguridad-de-medellin-presento-balance-tras-1-000-dias-de-gestion-3592027",
+        "published_date": "2026-10-08 10:37:46",
+        "category": "Military"
     },
     {
         "title": "They report sexual abuse in Santander against an adult over 70 years of age: they search for those responsible and provide a security council",
@@ -196,18 +217,25 @@
         "category": "Military"
     },
     {
-        "title": "Government announced return of the Meteor Plan to reinforce safety on the roads",
+        "title": "Capital inflows grew 17.1% in the first semester and reached $52.4 billion",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/gobierno-anuncio-regreso-del-plan-meteoro-para-reforzar-seguridad-en-las-vias-4495588",
-        "published_date": "2026-10-02 19:42:09",
-        "category": "Military"
+        "url": "https://www.larepublica.co/economia/ingresos-de-capitales-crecieron-17-1-en-el-primer-semestre-y-llegaron-a-52-4-billones-4499347",
+        "published_date": "2026-10-08 15:55:48",
+        "category": "Energy"
     },
     {
-        "title": "Bogot\u00e1 closed September with 73 homicides, the lowest figure in 24 years",
+        "title": "Fuller classrooms are not enough if learning does not become human capital",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/bogota-cerro-septiembre-con-73-homicidios-la-cifra-mas-baja-en-24-anos/",
-        "published_date": "2026-10-02 16:03:06",
-        "category": "Military"
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-educacion/aulas-mas-llenas-no-bastan-si-el-aprendizaje-no-se-vuelve-capital-humano/",
+        "published_date": "2026-10-08 14:00:00",
+        "category": "Energy"
+    },
+    {
+        "title": "The risky maneuver of the pilot of a FAC helicopter when trying to land between rifle bursts in El Pe\u00f1ol, Nari\u00f1o: 'They hit him... they hit him'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/la-arriesgada-maniobra-del-piloto-de-un-helicoptero-de-la-fac-al-intentar-aterrizar-entre-rafagas-de-fusil-en-el-penol-narino-le-dieron-le-dieron-3592173",
+        "published_date": "2026-10-08 09:27:35",
+        "category": "Energy"
     },
     {
         "title": "Presidency issues circular that sets limits on trips abroad and spending on state advertising",
@@ -329,25 +357,25 @@
         "category": "Energy"
     },
     {
-        "title": "Acolgen warned that almost 60% of energy demand in two years is not insured",
+        "title": "Congress gave the green light to the government to request three loans from Germany",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/congreso-dio-luz-verde-al-gobierno-para-pedir-tres-creditos-a-alemania/",
+        "published_date": "2026-10-08 16:39:01",
+        "category": "Economy"
+    },
+    {
+        "title": "Basic inflation, without food or energy, also returned to levels from two years ago",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/acolgen-alerto-que-casi-60-de-la-demanda-de-energia-en-dos-anos-no-esta-asegurada-4495953",
-        "published_date": "2026-10-03 05:01:04",
-        "category": "Energy"
+        "url": "https://www.larepublica.co/economia/inflacion-basica-sin-alimentos-ni-energeticos-tambien-regreso-a-niveles-de-hace-dos-anos-4499257",
+        "published_date": "2026-10-08 13:43:34",
+        "category": "Economy"
     },
     {
-        "title": "Alluvial gold exploitation grew by 4.5% in 2025: Unodc",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/explotacion-de-oro-de-aluvion-crecio-un-45-en-2025-unodc/",
-        "published_date": "2026-10-03 00:32:52",
-        "category": "Energy"
-    },
-    {
-        "title": "Prosecutor's Office will charge Ricardo Orrego with harassment and violent sexual act",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/fiscalia-imputara-a-ricardo-orrego-por-acoso-y-acto-sexual-violento/",
-        "published_date": "2026-10-02 21:17:59",
-        "category": "Energy"
+        "title": "Cost of living rose to two-year highs with inflation of 6.29% in September",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/el-costo-de-vida-subio-hasta-maximos-de-dos-anos-con-inflacion-de-6-29-4498539",
+        "published_date": "2026-10-08 05:03:40",
+        "category": "Economy"
     },
     {
         "title": "MinHacienda has endorsement to request loans from KfW and finance Budget 2026",
@@ -455,164 +483,143 @@
         "category": "Economy"
     },
     {
-        "title": "Bogot\u00e1's GDP grew 2.8% in the first quarter, driven by trade and services",
+        "title": "DNP projects investments of nearly $7 billion in Choc\u00f3 in the next four years",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/pib-de-bogota-crecio-2-8-en-el-primer-trimestre-jalonado-por-comercio-y-servicios-4493634",
-        "published_date": "2026-09-30 16:34:28",
-        "category": "Economy"
-    },
-    {
-        "title": "The deadline to pay the third property installment in Bogot\u00e1 expires on Friday, October 2",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/el-viernes-2-de-octubre-vence-el-plazo-para-pagar-la-tercera-cuota-del-predial-en-bogota-4493446",
-        "published_date": "2026-09-30 13:35:43",
-        "category": "Economy"
-    },
-    {
-        "title": "\u201cICA will have reductions in nine out of 10 industries with the Bogot\u00e1 tax\u201d",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/secretaria-de-hacienda-de-bogota-explico-los-detalles-de-la-reforma-tributaria-aprobada-4492997",
-        "published_date": "2026-09-30 05:01:52",
-        "category": "Economy"
-    },
-    {
-        "title": "Federation of Coffee Growers questions the charge of $4,235 per ton of cargo in Buenaventura",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/federacion-de-cafeteros-cuestiona-cobro-de-4-235-por-tonelada-de-carga-en-buenaventura-4499136",
-        "published_date": "2026-10-08 02:04:34",
+        "url": "https://www.larepublica.co/economia/dnp-proyecta-inversiones-por-cerca-de-7-billones-en-choco-en-el-proximo-cuatrienio-4499428",
+        "published_date": "2026-10-08 17:38:24",
         "category": "Local Events"
     },
     {
-        "title": "The Courageous Leadership Summit awards distinction to President De la Espriella",
+        "title": "Troncal del Magdalena 2 reached 45.31% progress after two years of works",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/el-summit-de-liderazgo-valiente-otorga-distincion-al-presidente-de-la-espriella-4499084",
-        "published_date": "2026-10-08 00:30:43",
+        "url": "https://www.larepublica.co/economia/troncal-del-magdalena-2-alcanzo-45-31-de-avance-tras-dos-anos-de-obras-4499415",
+        "published_date": "2026-10-08 17:12:22",
         "category": "Local Events"
     },
     {
-        "title": "Following order from judges, Comptroller's Office reactivates merit contest",
+        "title": "Government defined roadmap for the reactivation of Risaralda after the earthquake",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/gobierno-definio-hoja-de-ruta-para-la-reactivacion-de-risaralda-tras-el-sismo-4499348",
+        "published_date": "2026-10-08 15:33:09",
+        "category": "Local Events"
+    },
+    {
+        "title": "Fenalco reiterated its request to the Council of State to annul the minimum decree",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/fenalco-reitero-solicitud-al-consejo-de-estado-para-que-se-anule-decreto-del-minimo-4499302",
+        "published_date": "2026-10-08 14:28:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "95% drop in terrestrial and freshwater species in Latin America",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/tras-orden-de-jueces-contraloria-reactiva-concurso-de-meritos/",
-        "published_date": "2026-10-07 23:33:59",
+        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/caida-del-95-en-especies-terrestres-y-de-agua-dulce-de-latinoamerica/",
+        "published_date": "2026-10-08 14:17:47",
         "category": "Local Events"
     },
     {
-        "title": "Effects of transforming the Orinoqu\u00eda into a world pantry: El Espectador",
+        "title": "Last day to register for the AI \u200b\u200bcourse",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/efectos-de-transformar-la-orinoquia-en-despensa-mundial-el-espectador/",
-        "published_date": "2026-10-07 22:45:29",
+        "url": "https://www.lasillavacia.com/en-vivo/ultimo-dia-para-inscribirse-en-el-curso-de-ia/",
+        "published_date": "2026-10-08 14:00:00",
         "category": "Local Events"
     },
     {
-        "title": "Abelardo enters the Brazilian campaign with an interview with Flavio Bolsonaro",
+        "title": "Friendly fire: Abelardists criticize Lara for hiring at MinInterior",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/abelardo-entra-a-campana-de-brasil-con-entrevista-a-flavio-bolsonaro/",
-        "published_date": "2026-10-07 22:16:30",
+        "url": "https://www.lasillavacia.com/en-vivo/fuego-amigo-abelardistas-critican-a-lara-por-contratacion-en-mininterior/",
+        "published_date": "2026-10-08 13:19:02",
         "category": "Local Events"
     },
     {
-        "title": "Javier D\u00edaz Molina leaves the presidency of Analdex after 29 years at the head of the union",
+        "title": "US$22.4 million lands in MinAmbiente for the protection of forests",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/javier-diaz-deja-la-presidencia-de-analdex-tras-29-anos-al-frente-del-gremio-4498827",
-        "published_date": "2026-10-07 21:41:47",
+        "url": "https://www.larepublica.co/economia/en-minambiente-aterrizan-us-22-4-millones-para-la-proteccion-de-bosques-amazonicos-4499200",
+        "published_date": "2026-10-08 13:09:37",
         "category": "Local Events"
     },
     {
-        "title": "Discussion of the minimum will come with inflationary pressures and fiscal tightness",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/discusion-del-minimo-vendra-con-presiones-inflacionarias-y-estrechez-fiscal-4498772",
-        "published_date": "2026-10-07 21:41:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Pact asked the CNE to set a date for the election of its Founding Congress",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/pacto-pidio-al-cne-fijar-fecha-para-eleccion-de-su-congreso-fundacional/",
-        "published_date": "2026-10-07 21:33:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "De la Espriella reviewed with the United States strategy to combat drug trafficking",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/de-la-espriella-reviso-con-estados-unidos-estrategia-para-combatir-el-narcotrafico-4498812",
-        "published_date": "2026-10-07 21:28:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "Update of the Social Sciences Curricular Guidelines",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-educacion/actualizacion-de-los-lineamientos-curriculares-de-ciencias-sociales/",
-        "published_date": "2026-10-07 21:14:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "They ask to annul the choice of the comptroller for express books on their resume",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/piden-anular-eleccion-del-contralor-por-libros-expres-en-su-hoja-de-vida/",
-        "published_date": "2026-10-07 21:08:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "Council of State admits lawsuit against Lina Garrido in the ANT",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/consejo-de-estado-admite-demanda-contra-lina-garrido-en-la-ant/",
-        "published_date": "2026-10-07 20:38:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "They capture a man accused of sexual abuse against an adult over 70 years of age in Santander: he is a 28-year-old man;I would have intercepted her on a walk",
+        "title": "Tragedy in Cartagena: a minor shot another's life, responding to a challenge on social networks",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/capturan-a-senalado-de-abuso-sexual-contra-una-adulta-mayor-de-70-anos-en-santander-es-un-hombre-de-28-anos-la-habria-interceptado-en-una-caminata-3592083",
-        "published_date": "2026-10-07 20:13:26",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/tragedia-en-cartagena-un-menor-de-edad-le-quito-la-vida-a-otro-de-un-disparo-respondiendo-a-un-reto-por-redes-sociales-3592240",
+        "published_date": "2026-10-08 12:26:51",
         "category": "Local Events"
     },
     {
-        "title": "A 70-year-old woman died in Medell\u00edn after being run over by two minors aboard a motorcycle: the community incinerated the vehicle",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/una-mujer-de-70-anos-murio-en-medellin-tras-ser-arrollada-por-dos-menores-de-edad-a-bordo-de-una-motocicleta-la-comunidad-incinero-el-vehiculo-3592069",
-        "published_date": "2026-10-07 19:54:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "Higher education in Santander breaks barriers and grows excessively: it occupies second place with the largest accredited programs;your strategy",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/la-educacion-superior-en-santander-rompe-barreras-y-crece-desmedidamente-ocupa-el-segundo-lugar-con-mayores-programas-acreditados-su-estrategia-3592057",
-        "published_date": "2026-10-07 18:41:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tragedy in Santa Marta: Andr\u00e9s Sebasti\u00e1n Tolero Su\u00e1rez, young promise of Medicine at the University of Magdalena, dies in a traffic accident",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/tragedia-en-santa-marta-muere-en-accidente-de-transito-andres-sebastian-tolero-suarez-joven-promesa-de-la-medicina-de-la-universidad-del-magdalena-3592015",
-        "published_date": "2026-10-07 17:43:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "Colfecar rejects a charge of $4,235 per ton to circulate in Buenaventura ports",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/colfecar-rechaza-cobro-de-4-235-por-tonelada-para-circular-en-puertos-de-buenaventura-4498595",
-        "published_date": "2026-10-07 17:31:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "La Guajira |Uncle of prosecutor Rafael Rojas accuses him of using his position to link the Uniguajira property dispute with drug trafficking",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/tio-del-fiscal-rafael-rojas-lo-senala-por-usar-su-cargo-para-relacionar-con-el-narcotrafico-la-disputa-por-el-predio-que-involucra-a-la-uniguajira-3592031",
-        "published_date": "2026-10-07 17:06:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Atl\u00e1ntico: Eduardo Pulgar confirmed that his daughter will aspire to be governor",
+        "title": "Have an informed breakfast with the keys for this October 8, 2026",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/atlantico-eduardo-pulgar-confirmo-que-su-hija-aspirara-a-la-gobernacion/",
-        "published_date": "2026-10-07 16:55:44",
+        "url": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-claves-de-este-8-de-octubre-de-2026/",
+        "published_date": "2026-10-08 12:15:00",
         "category": "Local Events"
     },
     {
-        "title": "They captured the second person involved in the murder of the former mayor of Yopal 'Jhon Calzones': they found him in Tunja;this would have been his role",
+        "title": "Fedetranscarga asked to repeal transportation rate decree in Buenaventura",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/fedetranscarga-pidio-derogar-decreto-de-tarifa-de-transporte-en-buenaventura-4499179",
+        "published_date": "2026-10-08 12:07:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "A woman who worked as a motorcycle taxi driver in Tolima is found dead: she was in an advanced state of decomposition",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/capturaron-al-segundo-implicado-en-el-asesinato-del-exalcalde-de-yopal-jhon-calzones-lo-encontraron-en-tunja-este-habria-sido-su-papel-3592029",
-        "published_date": "2026-10-07 16:40:25",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/hallan-muerta-a-mujer-que-trabajaba-como-mototaxista-en-tolima-estaba-en-avanzado-estado-de-descomposicion-3592230",
+        "published_date": "2026-10-08 12:04:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "Even when the tragedy passes, we must continue talking about Choc\u00f3",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-etnica/aun-cuando-pase-la-tragedia-hay-que-seguir-hablando-del-choco/",
+        "published_date": "2026-10-08 12:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "CAR warned that the rains are temporary until El Ni\u00f1o consolidates strongly",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/car-advirtio-que-las-lluvias-son-temporales-hasta-que-se-consolide-con-fuerza-el-nino-4499160",
+        "published_date": "2026-10-08 11:49:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "Outrage over controversial contest 'The largest morrocoya': Repel\u00f3n Mayor's Office denied permits and said that 'a woman's body is not an object of ridicule'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/alcaldia-de-repelon-nego-permisos-para-el-concurso-la-morrocoya-mas-grande-el-cuerpo-de-la-mujer-no-es-un-objeto-de-mofa-3592177",
+        "published_date": "2026-10-08 10:59:41",
+        "category": "Local Events"
+    },
+    {
+        "title": "Operation exodus in Cartagena: Rafael N\u00fa\u00f1ez International Airport prepares to move more than 120,000 travelers during the school recess week",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/operacion-exodo-en-cartagena-el-aeropuerto-internacional-rafael-nunez-se-prepara-para-mover-a-mas-de-120-000-viajeros-en-la-semana-de-receso-escolar-3592206",
+        "published_date": "2026-10-08 10:49:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cartagena faces the first rains of the season as it prepares for the impact of a tropical wave",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/cartagena-enfrenta-las-primeras-lluvias-de-la-temporada-mientras-se-prepara-para-el-coletazo-de-una-onda-tropical-3592159",
+        "published_date": "2026-10-08 10:33:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "They rescue a mother puma and her calf threatened by residents in Miranda, Cauca",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/rescatan-a-una-madre-puma-y-su-cria-amenazadas-por-pobladores-en-miranda-cauca-3592183",
+        "published_date": "2026-10-08 10:13:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "'Mom, I love you!': this was the reunion of Estefany Echavarr\u00eda with her daughter after losing her legs in the earthquake",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/mama-te-amo-asi-fue-el-reencuentro-de-estefany-echavarria-con-su-hija-tras-perder-las-piernas-en-el-terremoto-3592154",
+        "published_date": "2026-10-08 09:37:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "These are the businessmen who will make up the Miracle Fund Board",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/estos-son-los-empresarios-que-conformaran-la-junta-directiva-del-fondo-milagro-4498926",
+        "published_date": "2026-10-08 05:01:37",
         "category": "Local Events"
     }
 ]
