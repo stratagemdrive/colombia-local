@@ -112,6 +112,20 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Express messaging moved 87.9 million shipments;$706,595 million in revenue",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/la-mensajeria-express-movilizo-87-9-millones-de-envios-706-595-millones-en-ingresos-4500995",
+        "published_date": "2026-10-10 13:39:57",
+        "category": "Military"
+    },
+    {
+        "title": "The Prosecutor's Office is looking for four suspects for the appearance of ELN cylinders and flags in Barranquilla and Soledad: a BMW, the centerpiece of the investigation",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/fiscalia-busca-a-cuatro-sospechosos-por-aparicion-de-cilindros-y-banderas-del-eln-en-barranquilla-y-soledad-un-bmw-pieza-central-de-la-investigacion-3592721",
+        "published_date": "2026-10-10 08:41:42",
+        "category": "Military"
+    },
+    {
         "title": "Interpol already has an office in Barranquilla: this is how it will work against organized crime, cybercrimes and corruption",
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/barranquilla/interpol-ya-tiene-oficina-en-barranquilla-asi-trabajara-contra-el-crimen-organizado-los-ciberdelitos-y-la-corrupcion-3592608",
@@ -238,18 +252,11 @@
         "category": "Military"
     },
     {
-        "title": "The Cartagena Police trained a specialized group to combat human trafficking and migrant smuggling: this is how they will operate",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/la-policia-de-cartagena-entreno-a-un-grupo-especializado-para-combatir-la-trata-de-personas-y-el-trafico-de-migrantes-asi-operaran-3591711",
-        "published_date": "2026-10-06 16:46:23",
-        "category": "Military"
-    },
-    {
-        "title": "Fall in crimes that Abelardo highlighted is real, but omits context",
+        "title": "A world in debt",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/detector-de-mentiras/caida-en-delitos-que-destaco-abelardo-es-real-pero-omite-contexto/",
-        "published_date": "2026-10-05 22:39:35",
-        "category": "Military"
+        "url": "https://www.lasillavacia.com/red-de-expertos/un-mundo-endeudado/",
+        "published_date": "2026-10-10 13:00:00",
+        "category": "Energy"
     },
     {
         "title": "Regasificadora del Pac\u00edfico storage unit arrived in Buenaventura",
@@ -385,11 +392,11 @@
         "category": "Energy"
     },
     {
-        "title": "Exports grow driven by oil, but agriculture is declining",
+        "title": "The country's external debt reached US$255,632 million as of July",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/las-exportaciones-crecen-jalonadas-por-el-petroleo-pero-el-agro-esta-a-la-baja-4497365",
-        "published_date": "2026-10-06 05:01:19",
-        "category": "Energy"
+        "url": "https://www.larepublica.co/economia/la-deuda-externa-del-pais-llego-hasta-los-us-255-632-millones-con-corte-a-julio-4500794",
+        "published_date": "2026-10-10 05:01:57",
+        "category": "Economy"
     },
     {
         "title": "Ending coal is easy, but not the economy that exists around it",
@@ -525,11 +532,130 @@
         "category": "Economy"
     },
     {
-        "title": "CAF's US$1 billion fund will seek to protect the region against the \"super Ni\u00f1o\"",
+        "title": "John Milton Rodr\u00edguez denounces debts and expired contracts in MinEgualdad",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/john-milton-rodriguez-denuncia-deudas-y-contratos-vencidos-en-minigualdad/",
+        "published_date": "2026-10-10 14:10:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Two months after the earthquake: 243,409 homes affected and more than 486,000 victims",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/bolsa-de-us-1-000-millones-de-caf-buscara-blindar-a-la-region-frente-al-super-nino-4495608",
-        "published_date": "2026-10-02 20:20:45",
-        "category": "Economy"
+        "url": "https://www.larepublica.co/economia/tras-dos-meses-de-terremoto-243-409-viviendas-afectadas-y-mas-de-486-000-damnificados-4500998",
+        "published_date": "2026-10-10 14:02:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "After the earthquake: recognizing what we feel and regaining hope",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/despues-del-terremoto-reconocer-lo-que-sentimos-y-recuperar-la-esperanza/",
+        "published_date": "2026-10-10 14:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Gaza three years later: another generation without a future?",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/opinion/gaza-tres-anos-despues-otra-generacion-sin-futuro/",
+        "published_date": "2026-10-10 13:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The non-negotiables of indigenous communities in the PND and other news",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/los-no-negociables-de-las-comunidades-indigenas-en-el-pnd-y-otras-noticias/",
+        "published_date": "2026-10-10 13:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Catholic fundamentalism that surrounds Abelardo",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/opinion/el-integrismo-catolico-que-rodea-a-abelardo/",
+        "published_date": "2026-10-10 13:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Guilds: what the State does not achieve",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/opinion/gremios-lo-que-el-estado-no-alcanza/",
+        "published_date": "2026-10-10 13:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Late and in red",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/opinion/tarde-y-en-rojo/",
+        "published_date": "2026-10-10 13:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Marco and the decline of the West",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/opinion/marco-y-la-decadencia-de-occidente/",
+        "published_date": "2026-10-10 13:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "And what about democracy being eaten by the tiger?",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/opinion/y-la-democracia-que-se-la-coma-el-tigre/",
+        "published_date": "2026-10-10 12:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "A church and two homes were affected by drone attacks in Catatumbo: this is the panorama in Norte de Santander",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/una-iglesia-y-dos-viviendas-fueron-afectadas-por-ataques-con-drones-en-el-catatumbo-asi-esta-el-panorama-en-norte-de-santander-3592738",
+        "published_date": "2026-10-10 10:25:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "The chicharr\u00f3n that was born at the stops on the Barranquilla-Cartagena highway has its party in Baranoa: starting today the XXIII edition of the festival",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/el-chicharron-que-nacio-en-los-paraderos-de-la-via-barranquilla-cartagena-tiene-su-fiesta-en-baranoa-desde-hoy-la-edicion-xxiii-del-festival-3592731",
+        "published_date": "2026-10-10 09:50:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "Festive long weekend in Colombia: state of the weather, rain and main roads to travel during the Exodus plan this Saturday, October 10",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/puente-festivo-en-colombia-estado-del-clima-lluvias-y-vias-principales-para-viajar-este-fin-de-semana-3592713",
+        "published_date": "2026-10-10 08:56:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tremors in Colombia this Saturday, October 10: four earthquakes of up to magnitude 4.0 are reported during the early morning",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/temblores-en-colombia-este-sabado-10-de-octubre-reportan-sismos-de-hasta-magnitud-4-0-durante-la-madrugada-del-puente-festivo-3592718",
+        "published_date": "2026-10-10 07:55:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "Aerocivil and the Mayor's Office of Barranquilla coordinate care and contingency plan after a 7.7 magnitude earthquake in Panama",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/aerocivil-y-alcaldia-de-barranquilla-coordinan-atencion-y-plan-de-contingencia-tras-terremoto-de-magnitud-7-7-en-panama-3592719",
+        "published_date": "2026-10-10 07:51:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cIn the first semester, 54 projects arrived to invest US$454 million in Bogot\u00e1\u201d",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/inside-lr-con-isis-duran-directora-ejecutiva-de-invest-in-bogota-sobre-la-llegada-de-nuevos-proyectos-4500063",
+        "published_date": "2026-10-10 05:01:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "The four economists who are dreaming of winning the Nobel Prize this Monday",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/los-cuatros-economistas-que-suenan-para-quedarse-con-el-nobel-este-lunes-4500755",
+        "published_date": "2026-10-10 05:01:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "A false license plate gave away a vehicle that was hiding two cylinders loaded with explosives in the streets of Pasto: they attribute the fact to dissidents",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/una-placa-falsa-delato-a-un-vehiculo-que-ocultaba-dos-cilindros-cargados-con-explosivos-en-calles-de-pasto-atribuyen-el-hecho-a-las-disidencias-3592708",
+        "published_date": "2026-10-10 00:59:07",
+        "category": "Local Events"
     },
     {
         "title": "Sleep informed with the movements of this October 9, 2026",
@@ -539,136 +665,10 @@
         "category": "Local Events"
     },
     {
-        "title": "\u201cCount on the support of Colombia\u201d: Abelardo after the earthquake in Panama",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/cuenten-con-el-respaldo-de-colombia-abelardo-tras-terremoto-en-panama/",
-        "published_date": "2026-10-09 23:08:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "Name and Calle are provisionally released due to expiration of terms",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/name-y-calle-quedan-en-libertad-provisional-por-vencimiento-de-terminos/",
-        "published_date": "2026-10-09 21:34:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ver\u00eddicos.org, the opaque \u201cverifier\u201d favorable to De la Espriella",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/detector-de-mentiras/veridicos-org-el-opaco-verificador-favorable-a-de-la-espriella/",
-        "published_date": "2026-10-09 20:53:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "Wilmer Carrillo sentenced to eight years for irregularities in road contract",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/wilmer-carrillo-condenado-a-ocho-anos-por-irregularidades-en-contrato-vial/",
-        "published_date": "2026-10-09 20:52:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Gran Fondo Nairo Quintana Fest in Cartagena: learn about road closures and contraflows between October 8 and 12;This is how mobility will work",
+        "title": "Passenger on the Medell\u00edn - New York flight told details about the anguish and fear in the face of strong turbulence: 'We didn't kill ourselves by a little bit'",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/el-gran-fondo-nairo-quintana-fest-en-cartagena-conozca-los-cierres-viales-y-contraflujos-entre-el-8-y-el-12-de-octubre-asi-funcionara-la-movilidad-3592524",
-        "published_date": "2026-10-09 20:48:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "They rescued a cat in Dosquebradas, Risaralda, which had been missing for two months after the 7.4 magnitude earthquake in Colombia",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/rescataron-a-un-gato-en-dosquebradas-risaralda-que-permanecia-desaparecido-desde-hacia-dos-meses-tras-el-terremoto-de-magnitud-7-4-en-colombia-3592457",
-        "published_date": "2026-10-09 20:42:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "The fleeting appointment at Anla of former manager in Alex Saab's company",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/el-fugaz-nombramiento-en-la-anla-de-exgerente-en-empresa-de-alex-saab/",
-        "published_date": "2026-10-09 20:09:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "Supreme Court acquitted An\u00edbal Gaviria for the Troncal de Paz case",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/corte-suprema-absolvio-a-anibal-gaviria-por-caso-troncal-de-paz/",
-        "published_date": "2026-10-09 19:29:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "Piero, for a life so beautiful and so hard, a lot of tenderness",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/piero-para-una-vida-tan-bella-y-tan-dura-mucha-ternura/",
-        "published_date": "2026-10-09 19:27:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "ANM signs contracts resulting from mining rounds with an investment of $54,000 million",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/anm-firma-contratos-de-rondas-mineras-con-inversion-de-54-000-millones-4500314",
-        "published_date": "2026-10-09 19:19:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "Juan Carlos L\u00f3pez, recognized as \u201cBest Municipal Mayor\u201d at the Politika Awards",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/juan-carlos-lopez-fue-reconocido-como-mejor-alcalde-municipal-en-los-premios-politika-4500375",
-        "published_date": "2026-10-09 19:16:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Government presented decree to modernize port concessions regime",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/de-la-espriella-presento-decreto-que-moderniza-el-regimen-de-concesiones-portuarias-4500335",
-        "published_date": "2026-10-09 19:01:38",
-        "category": "Local Events"
-    },
-    {
-        "title": "The rebusque is part of the development of the economy of the municipalities",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/el-rebusque-hace-parte-del-desarrollo-de-la-economia-de-los-municipios/",
-        "published_date": "2026-10-09 19:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "'The fight is to get to December alive': the drama of a Cali beautician who relived in Panama the nightmare of the August 10 earthquake in Cali",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/la-lucha-es-llegar-vivos-a-diciembre-el-drama-de-una-esteticista-calena-que-revivio-en-panama-la-pesadilla-del-terremoto-del-10-de-agosto-en-cali-3592658",
-        "published_date": "2026-10-09 18:42:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "They murder Oliver S\u00e1nchez, a social leader who accompanied young people in vulnerable conditions in Catatumbo",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/asesinan-a-oliver-sanchez-lider-social-que-acompanaba-a-jovenes-en-condicion-de-vulnerabilidad-en-el-catatumbo-3592660",
-        "published_date": "2026-10-09 18:35:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "Government expressed urgency to Congress to add money to the Budget",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/gobierno-radico-urgencia-al-congreso-para-agregar-plata-al-presupuesto/",
-        "published_date": "2026-10-09 17:01:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "IDU continues work on northeastern main line after pipeline untie",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/idu-continua-trabajos-en-linea-matriz-nororiental-tras-desempate-de-tuberia-4500200",
-        "published_date": "2026-10-09 16:39:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "The strategies that UNAB has implemented to now be part of the 200 best universities in Latin America and be a reference in Santander",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/las-estrategias-que-ha-implementado-la-unab-para-ahora-hacer-parte-de-las-200-mejores-universidades-de-america-latina-y-ser-referente-en-santander-3592636",
-        "published_date": "2026-10-09 16:30:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Judge denies Silvia Gette's return to the rectory of the Autonomous University of the Caribbean and orders her to hand over the position she regained in April",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/juez-tumba-el-regreso-de-silvia-gette-a-la-rectoria-de-la-universidad-autonoma-del-caribe-y-le-ordena-entregar-el-cargo-que-recupero-en-abril-3592614",
-        "published_date": "2026-10-09 16:01:00",
+        "url": "https://www.eltiempo.com/colombia/medellin/pasajera-del-vuelo-medellin-nueva-york-conto-detalles-sobre-la-angustia-y-el-susto-ante-las-fuertes-turbulencias-no-nos-matamos-por-un-poquito-3592704",
+        "published_date": "2026-10-09 23:53:48",
         "category": "Local Events"
     }
 ]
