@@ -105,11 +105,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Tania Gilinski took over as Colombia's new ambassador to the State of Israel",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/tania-gilinski-asume-como-nueva-embajadora-de-colombia-ante-el-estado-de-israel-4496172",
-        "published_date": "2026-10-03 14:00:39",
-        "category": "Diplomacy"
+        "title": "Security cameras followed the route of a stolen truck in Sabanalarga and allowed it to be recovered in Soledad: four captured",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/camaras-de-seguridad-siguieron-la-ruta-de-un-camion-robado-en-sabanalarga-y-permitieron-recuperarlo-en-soledad-cuatro-capturados-3592868",
+        "published_date": "2026-10-11 10:01:00",
+        "category": "Military"
     },
     {
         "title": "What happens to women when the State recovers the territory?",
@@ -245,11 +245,11 @@
         "category": "Military"
     },
     {
-        "title": "The photo: Abelardo installed the new president of Colpensiones",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/la-foto-abelardo-posesiono-a-la-nueva-presidenta-de-colpensiones/",
-        "published_date": "2026-10-06 23:34:00",
-        "category": "Military"
+        "title": "Council of State denies compensation to families of victims of the tank car explosion in Tasajera, which left 45 dead in Magdalena in 2020",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/consejo-de-estado-niega-indemnizacion-a-familias-de-victimas-de-la-explosion-del-carrotanque-en-tasajera-que-dejo-45-muertos-en-el-magdalena-en-3592876",
+        "published_date": "2026-10-11 09:21:47",
+        "category": "Energy"
     },
     {
         "title": "ADLE asks the FAC to investigate accusations against former first lady, Ver\u00f3nica Alcocer",
@@ -385,11 +385,11 @@
         "category": "Energy"
     },
     {
-        "title": "Rifle bursts since dawn: community of Pedregal, in Inz\u00e1, experiences hours of anguish due to combat",
+        "title": "Nairo Quintana said goodbye in Cartagena with a 186-kilometer Gran Fondo that brought together Froome, Contador, Ur\u00e1n and thousands of cyclists from 21 countries",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/rafagas-de-fusil-desde-la-madrugada-comunidad-de-pedregal-en-inza-vive-horas-de-angustia-por-combates-3591565",
-        "published_date": "2026-10-06 09:18:44",
-        "category": "Energy"
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/nairo-quintana-se-despidio-en-cartagena-con-un-gran-fondo-de-186-kilometros-que-reunio-a-froome-contador-uran-y-miles-de-ciclistas-de-21-paises-3592889",
+        "published_date": "2026-10-11 10:49:16",
+        "category": "Economy"
     },
     {
         "title": "The country's external debt reached US$255,632 million as of July",
@@ -525,11 +525,109 @@
         "category": "Economy"
     },
     {
-        "title": "Market analysts predict that inflation will rise to 6.33% in September",
+        "title": "Restrepo will bring \u201ccritical minerals\u201d projects from Tolima to Milagro Week",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/restrepo-llevara-proyectos-de-minerales-criticos-del-tolima-a-la-milagro-week/",
+        "published_date": "2026-10-11 16:13:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Start Sunday, October 11, 2026 with these opinion columns.",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/comience-el-domingo-11-de-octubre-de-2026-con-estas-columnas-de-opinion/",
+        "published_date": "2026-10-11 15:52:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "The stained glass windows of Manizales: what the earthquake did not break",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/los-vitrales-de-manizales-lo-que-el-terremoto-no-rompio/",
+        "published_date": "2026-10-11 15:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Abelardo asks to investigate accusations of drug trafficking against Ver\u00f3nica Alcocer",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/abelardo-pide-investigar-acusaciones-de-narcotrafico-contra-veronica-alcocer/",
+        "published_date": "2026-10-11 14:18:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "The time has come to talk about autonomous weapons",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/llego-la-hora-de-hablar-de-armas-autonomas/",
+        "published_date": "2026-10-11 14:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Government asks to accelerate Metro works due to delays in stations and public spaces",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/analistas-del-mercado-preven-que-la-inflacion-repuntara-hasta-6-33-en-septiembre-4495988",
-        "published_date": "2026-10-05 05:01:24",
-        "category": "Economy"
+        "url": "https://www.larepublica.co/economia/gobierno-pide-acelerar-obras-del-metro-ante-retrasos-en-estaciones-y-espacio-publico-4501156",
+        "published_date": "2026-10-11 13:48:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "Reproductive rights are human rights and protect life",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/colombia-retrocede-en-la-defensa-de-los-derechos-reproductivos/",
+        "published_date": "2026-10-11 12:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "A foreigner died during the first day of the EDC electronic music festival at the Atanasio Girardot Sports Unit in Medell\u00edn",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/un-extranjero-murio-durante-el-primer-dia-del-festival-de-musica-electronica-edc-en-la-unidad-deportiva-atanasio-girardot-de-medellin-3592891",
+        "published_date": "2026-10-11 11:23:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "Attack against two Inpec guards in Barranquilla triggers a Government alert: threats would reach the president and the Minister of Justice",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/atentado-contra-dos-guardianes-del-inpec-en-barranquilla-desata-alerta-del-gobierno-amenazas-alcanzarian-al-presidente-y-al-ministro-de-justicia-3592861",
+        "published_date": "2026-10-11 07:53:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "'I thought I had reached that point, I felt like I was plummeting': the distressing story of one of the passengers on the flight between Medell\u00edn and New York",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/pense-que-hasta-aqui-habia-llegado-sentimos-que-caia-en-picada-el-angustiante-relato-de-una-de-las-pasajeras-del-vuelo-entre-medellin-y-nueva-york-3592812",
+        "published_date": "2026-10-11 06:01:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "De la Espriella seeks to grow at 6% aligned with Trump and with old recipes",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/de-la-espriella-busca-crecer-al-6-alineado-a-trump-y-con-recetas-viejas/",
+        "published_date": "2026-10-11 06:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "LaCardio and Fundaci\u00f3n Valle del Lili, with a better investigative reputation",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/lacardio-y-fundacion-valle-del-lili-entre-los-hospitales-con-mejor-reputacion-investigativa-4501103",
+        "published_date": "2026-10-11 05:01:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "More intense El Ni\u00f1o episodes and the extreme temperatures that left",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/los-episodios-mas-intensos-del-fenomeno-de-el-nino-y-las-temperaturas-extremas-que-dejaron-4501109",
+        "published_date": "2026-10-11 05:01:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "Operations at the Jos\u00e9 Mar\u00eda C\u00f3rdova airport in Rionegro, Antioquia, are temporarily suspended due to the presence of a drone",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/suspenden-temporalmente-las-operaciones-en-el-aeropuerto-jose-maria-cordova-de-rionegro-antioquia-por-presencia-de-un-dron-3592843",
+        "published_date": "2026-10-10 23:27:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "From a polluted swamp to a jewel of nature tourism: Mallorqu\u00edn, the treasure that Barranquilla recovered and today attracts thousands of visitors",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/de-cienaga-contaminada-a-joya-del-turismo-de-naturaleza-mallorquin-el-tesoro-que-barranquilla-recupero-y-hoy-atrae-a-miles-de-visitantes-3592808",
+        "published_date": "2026-10-10 22:01:00",
+        "category": "Local Events"
     },
     {
         "title": "Iv\u00e1n Cepeda summons the Minister of Agriculture to a political control debate",
@@ -546,6 +644,13 @@
         "category": "Local Events"
     },
     {
+        "title": "Mass tourism has costs for Caribbean youth",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/el-turismo-masivo-tiene-costos-para-los-jovenes-del-caribe/",
+        "published_date": "2026-10-10 20:00:00",
+        "category": "Local Events"
+    },
+    {
         "title": "MinAmbiente proposes decree to evaluate licenses without waiting for prior consultation",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/minambiente-propone-decreto-para-evaluar-licencias-sin-esperar-a-la-consulta-previa/",
@@ -557,118 +662,6 @@
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/red-de-expertos/red-de-ciencia-e-innovacion/la-ia-acelera-la-ciencia-y-tambien-los-riesgos/",
         "published_date": "2026-10-10 19:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Ministry of Housing warned about false job offers and contracts",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/el-ministerio-de-vivienda-alerto-por-falsas-ofertas-de-empleo-y-contratos-4501052",
-        "published_date": "2026-10-10 18:44:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "Colombia and Israel agreed to cooperation to strengthen agriculture",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/colombia-e-israel-acordaron-cooperacion-para-el-fortalecimiento-del-agro-nacional-4501044",
-        "published_date": "2026-10-10 18:33:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "The whim, the million-dollar fine and the false meeting that would have preceded the murder of the best mule rider in Colombia in Antioquia",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/el-capricho-operativo-la-millonaria-multa-y-la-falsa-reunion-que-habrian-antecedido-el-homicidio-del-mejor-montador-de-mulas-de-colombia-en-antioquia-3592790",
-        "published_date": "2026-10-10 18:12:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "\u201cIncredible\u201d: Donald Trump criticizes not having won the Nobel Peace Prize",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/increible-donald-trump-reprocha-no-haber-ganado-el-premio-nobel-de-la-paz/",
-        "published_date": "2026-10-10 17:48:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "More than 300 taxi drivers from the Barranquilla airport will be trained to become tourism promoters",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/mas-de-300-taxistas-del-aeropuerto-de-barranquilla-seran-capacitados-para-convertirse-en-promotores-turisticos-3592803",
-        "published_date": "2026-10-10 17:36:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Of witches, censorship and Rock in the Park",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-las-mujeres/de-brujas-censuras-y-rock-al-parque/",
-        "published_date": "2026-10-10 17:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Government seeks to unblock projects with changes to environmental licenses",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/el-gobierno-busca-acelerar-licencias-ambientales-con-nuevo-decreto-publico-borrador-4501023",
-        "published_date": "2026-10-10 16:55:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Barranquilla: a sky of 756 hand-woven pieces transforms the streets of Barrio Abajo;61 women are behind the work",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-un-cielo-de-756-piezas-tejidas-a-mano-transforma-las-calles-de-barrio-abajo-61-mujeres-estan-detras-de-la-obra-3592798",
-        "published_date": "2026-10-10 16:39:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "Looting and distress |The other tragedy left by the earthquake in Colombia on August 10: this is what has happened in two months",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/saqueos-y-zozobra-la-otra-tragedia-que-dejo-el-terremoto-en-colombia-del-pasado-10-de-agosto-esto-es-lo-que-ha-sucedido-en-dos-meses-3592770",
-        "published_date": "2026-10-10 16:27:14",
-        "category": "Local Events"
-    },
-    {
-        "title": "Miss Universe Colombia 2026: election and coronation time, where to watch the gala live and who the candidates are",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/miss-universo-colombia-2026-hora-de-la-eleccion-y-coronacion-donde-ver-la-gala-en-vivo-y-quienes-son-las-candidatas-3592779",
-        "published_date": "2026-10-10 16:15:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "Eva Ferrer accuses Ver\u00f3nica Alcocer of trafficking drugs to Venezuela",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/eva-ferrer-acusa-a-veronica-alcocer-de-traficar-droga-a-venezuela/",
-        "published_date": "2026-10-10 16:08:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sincelejo reduces homicides and reports drops of up to 33% in main crimes during 2026",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/sincelejo-reduce-los-homicidios-y-reporta-caidas-de-hasta-el-33-en-los-principales-delitos-durante-3592788",
-        "published_date": "2026-10-10 15:25:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "They confirm the arrest of alias 'Rambo', allegedly involved in the death of an ICBF caregiver in Barrancabermeja: the woman avoided a rape",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/confirman-aprehension-de-alias-rambo-presunto-implicado-en-la-muerte-de-una-cuidadora-del-icbf-en-barrancabermeja-la-mujer-evito-una-violacion-3592781",
-        "published_date": "2026-10-10 14:58:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "John Milton Rodr\u00edguez denounces debts and expired contracts in MinEgualdad",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/john-milton-rodriguez-denuncia-deudas-y-contratos-vencidos-en-minigualdad/",
-        "published_date": "2026-10-10 14:10:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Two months after the earthquake: 243,409 homes affected and more than 486,000 victims",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/tras-dos-meses-de-terremoto-243-409-viviendas-afectadas-y-mas-de-486-000-damnificados-4500998",
-        "published_date": "2026-10-10 14:02:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "After the earthquake: recognizing what we feel and regaining hope",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/despues-del-terremoto-reconocer-lo-que-sentimos-y-recuperar-la-esperanza/",
-        "published_date": "2026-10-10 14:00:00",
         "category": "Local Events"
     }
 ]
