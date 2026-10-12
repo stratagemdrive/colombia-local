@@ -1,5 +1,19 @@
 [
     {
+        "title": "Colombia proposes to modify the international verification of the Peace Agreement before the UN",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/colombia-propone-modificar-la-verificacion-internacional-del-acuerdo-de-paz-ante-la-onu-4501410",
+        "published_date": "2026-10-12 19:44:09",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Chancellor Bula asked to remove Comprehensive Rural Reform from the Verification Mission",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/canciller-bula-pidio-sacar-reforma-rural-integral-de-mision-de-verificacion/",
+        "published_date": "2026-10-12 18:48:03",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Girls DO EXIST: October 11, International Day of the Girl",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/red-de-expertos/las-ninas-si-existen-11-de-octubre-dia-internacional-de-la-nina/",
@@ -96,6 +110,20 @@
         "url": "https://www.eltiempo.com/colombia/cali/video-periodista-se-encadeno-en-el-hospital-universitario-del-valle-en-cali-para-exigir-cirugia-pendiente-de-su-esposo-llevan-siete-meses-esperando-3591465",
         "published_date": "2026-10-05 20:24:00",
         "category": "Diplomacy"
+    },
+    {
+        "title": "Abelardo changes colonel of the Santa Marta Police after the escape of 41 detainees",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/abelardo-cambia-coronel-de-la-policia-de-santa-marta-tras-fuga-de-41-detenidos/",
+        "published_date": "2026-10-12 16:47:12",
+        "category": "Military"
+    },
+    {
+        "title": "'Mongolo' and 'Guajiro', fugitives for whom President De La Espriella ordered the departure of the Santa Marta Police commander: there is a reward",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/alias-mongolo-y-alias-guajiro-los-dos-fugados-que-mas-preocupan-al-gobierno-tras-la-evasion-de-41-detenidos-en-santa-marta-hay-recompensa-3593003",
+        "published_date": "2026-10-12 12:45:00",
+        "category": "Military"
     },
     {
         "title": "Security cameras followed the route of a stolen truck in Sabanalarga and allowed it to be recovered in Soledad: four captured",
@@ -224,18 +252,11 @@
         "category": "Military"
     },
     {
-        "title": "Attack with an explosive device against a police patrol leaves two injured in Popay\u00e1n this Wednesday, October 7: this is known",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/atencion-atentado-con-explosivos-contra-la-policia-deja-al-menos-dos-uniformados-heridos-en-popayan-3591926",
-        "published_date": "2026-10-07 11:59:25",
-        "category": "Military"
-    },
-    {
-        "title": "Attention travelers, the Caribbean awaits you: this is how the security devices will be in the road corridors of C\u00f3rdoba and Sucre for the week of school recess",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/atencion-viajeros-el-caribe-los-espera-asi-seran-los-dispositivos-de-seguridad-en-corredores-viales-de-cordoba-y-sucre-para-semana-de-receso-escolar-3591914",
-        "published_date": "2026-10-07 10:55:21",
-        "category": "Military"
+        "title": "La Silla responds to Enrique G\u00f3mez's request to Ecopetrol",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/la-silla-responde-a-la-solicitud-de-enrique-gomez-a-ecopetrol/",
+        "published_date": "2026-10-12 19:54:47",
+        "category": "Energy"
     },
     {
         "title": "Government proposes addressing criminal mining as an illegal financing activity",
@@ -368,13 +389,6 @@
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/colombia-suspendio-oficialmente-suministro-de-energia-electrica-hacia-ecuador-4498078",
         "published_date": "2026-10-06 23:10:19",
-        "category": "Energy"
-    },
-    {
-        "title": "Pact requests information on first lady's expenses in Paris",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/pacto-pide-informacion-sobre-gastos-de-primera-dama-en-paris/",
-        "published_date": "2026-10-06 21:45:39",
         "category": "Energy"
     },
     {
@@ -518,143 +532,143 @@
         "category": "Economy"
     },
     {
-        "title": "MinTransporte announced the progress of phase 3 of the infrastructure project in Bol\u00edvar",
+        "title": "Cartagena has one year to bring more women into politics",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-las-mujeres/cartagena-tiene-un-ano-para-llevar-mas-mujeres-a-la-politica/",
+        "published_date": "2026-10-12 19:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Nearly 500 notary offices would be at risk of closure due to lack of budget planning",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/mintransporte-anuncio-el-avance-de-la-fase-3-de-proyecto-de-infraestructura-en-bolivar-4501288",
-        "published_date": "2026-10-11 22:15:52",
+        "url": "https://www.larepublica.co/economia/cerca-de-500-notarias-en-colombia-estarian-en-riesgo-de-cierre-4501370",
+        "published_date": "2026-10-12 16:38:42",
         "category": "Local Events"
     },
     {
-        "title": "With the blessing of maestro Eddie Santiago, Ryan Castro recorded a new version of one of the great classics of the genre at the Cali Salsa Museum",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/con-la-bendicion-del-maestro-eddie-santiago-ryan-castro-grabo-nueva-version-de-uno-de-los-grandes-clasicos-del-genero-en-el-museo-de-la-salsa-de-cali-3592936",
-        "published_date": "2026-10-11 18:58:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "'Whoever messes with government officials, messes with the Tiger': De la Espriella after attack against two Inpec guards in Barranquilla",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/quien-se-mete-con-los-funcionarios-del-gobierno-se-mete-con-el-tigre-de-la-espriella-tras-atentado-contra-dos-guardianes-del-inpec-en-barranquilla-3592939",
-        "published_date": "2026-10-11 18:57:43",
-        "category": "Local Events"
-    },
-    {
-        "title": "Australian citizen received 25 stab wounds in Medell\u00edn: possible theft investigated after leaving an event",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/australiano-recibio-25-punaladas-en-medellin-tras-salir-del-festival-edc-investigan-posible-hurto-3592919",
-        "published_date": "2026-10-11 18:00:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Civil Aeronautics normalizes flights between Barranquilla and Panama after earthquake",
+        "title": "President and ministers ask to investigate 'Matador' for attacks on the first lady",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/aeronautica-civil-normaliza-vuelos-entre-barranquilla-y-panama-tras-terremoto-4501195",
-        "published_date": "2026-10-11 17:52:24",
+        "url": "https://www.larepublica.co/economia/gobierno-pide-a-la-fiscalia-investigar-comentarios-de-matador-contra-la-primera-dama-4501361",
+        "published_date": "2026-10-12 15:50:36",
         "category": "Local Events"
     },
     {
-        "title": "Blockade in Tasajera paralyzes the Santa Marta-Barranquilla highway: community protests due to lack of drinking water",
+        "title": "\u201cEnough of misogyny\u201d, Presidency due to publication by Matador against First Lady",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/basta-ya-de-misoginia-presidencia-por-publicacion-de-matador-contra-primera-dama/",
+        "published_date": "2026-10-12 15:32:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "Sexual violence is sustained in silence",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-las-mujeres/la-violencia-sexual-se-sostiene-en-el-silencio/",
+        "published_date": "2026-10-12 15:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "12-year-old boy was injured after attempting to steal a gold chain from his father in Bucaramanga",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/bloqueo-en-tasajera-paraliza-la-via-santa-marta-barranquilla-comunidad-protesta-por-falta-de-agua-potable-3592929",
-        "published_date": "2026-10-11 17:27:08",
+        "url": "https://www.eltiempo.com/colombia/santander/nino-de-12-anos-resulto-herido-tras-intento-de-robo-de-una-cadena-de-oro-a-su-padre-en-bucaramanga-3593029",
+        "published_date": "2026-10-12 14:35:18",
         "category": "Local Events"
     },
     {
-        "title": "Ecuadorian newspaper stops printing after pressure from President Noboa",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/diario-ecuatoriano-deja-de-imprimirse-tras-presiones-del-presidente-noboa/",
-        "published_date": "2026-10-11 17:23:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Restrepo will bring \u201ccritical minerals\u201d projects from Tolima to Milagro Week",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/restrepo-llevara-proyectos-de-minerales-criticos-del-tolima-a-la-milagro-week/",
-        "published_date": "2026-10-11 16:13:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Start Sunday, October 11, 2026 with these opinion columns.",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/comience-el-domingo-11-de-octubre-de-2026-con-estas-columnas-de-opinion/",
-        "published_date": "2026-10-11 15:52:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "The stained glass windows of Manizales: what the earthquake did not break",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/los-vitrales-de-manizales-lo-que-el-terremoto-no-rompio/",
-        "published_date": "2026-10-11 15:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "'Transit suspended due to unknown drone': what is known about the episode that forced the operation of the Jos\u00e9 Mar\u00eda C\u00f3rdova airport to stop",
+        "title": "Be careful with spam messages that seek to steal data: they are impersonating Banco de Bogot\u00e1 and Seguros Bol\u00edvar;this is the code from where they send them",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/transito-suspendido-por-dron-desconocido-lo-que-se-sabe-del-episodio-que-obligo-a-detener-la-operacion-del-aeropuerto-jose-maria-cordova-3592912",
-        "published_date": "2026-10-11 14:35:21",
+        "url": "https://www.eltiempo.com/colombia/ojo-con-los-mensajes-spam-que-buscan-robar-datos-estan-suplantando-al-banco-de-bogota-y-seguros-bolivar-este-es-el-codigo-desde-donde-los-envian-3593022",
+        "published_date": "2026-10-12 14:25:47",
         "category": "Local Events"
     },
     {
-        "title": "Abelardo asks to investigate accusations of drug trafficking against Ver\u00f3nica Alcocer",
+        "title": "Military headquarters will travel to Cali, after attack in Cauca",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/abelardo-pide-investigar-acusaciones-de-narcotrafico-contra-veronica-alcocer/",
-        "published_date": "2026-10-11 14:18:49",
+        "url": "https://www.lasillavacia.com/en-vivo/cupula-militar-viajara-a-cali-tras-atentado-en-cauca/",
+        "published_date": "2026-10-12 14:17:06",
         "category": "Local Events"
     },
     {
-        "title": "The time has come to talk about autonomous weapons",
+        "title": "The Week in U.S.Security Policy in Latin America",
+        "source": "Adam Isacson",
+        "url": "https://adamisacson.com/the-week-in-u-s-security-policy-in-latin-america-3/",
+        "published_date": "2026-10-12 14:15:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "USPolicy and Drones in Latin America: Some Recent Developments",
+        "source": "Adam Isacson",
+        "url": "https://adamisacson.com/u-s-policy-and-drones-in-latin-america-some-recent-developments/",
+        "published_date": "2026-10-12 13:46:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Earthquake in Panama leaves damage in Colombia: work on the Turbo - Nuevo Antioquia highway is activated and houses and infrastructure are evaluated",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/terremoto-en-panama-deja-danos-en-colombia-activan-trabajos-en-la-via-turbo-nuevo-antioquia-y-evaluan-casas-e-infraestructuras-3593025",
+        "published_date": "2026-10-12 13:37:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "Despite the heavy rains and an improvement in water saving behavior, EPM announced that nighttime outages will continue in Medell\u00edn",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/pese-a-las-fuertes-lluvias-y-a-una-mejoria-en-el-comportamiento-de-ahorro-de-agua-epm-anuncio-que-se-mantendran-los-cortes-nocturnos-en-medellin-3593019",
+        "published_date": "2026-10-12 13:17:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "Science is not built from call to call",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/llego-la-hora-de-hablar-de-armas-autonomas/",
-        "published_date": "2026-10-11 14:00:00",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-ciencia-e-innovacion/la-ciencia-no-se-construye-de-convocatoria-en-convocatoria/",
+        "published_date": "2026-10-12 13:00:00",
         "category": "Local Events"
     },
     {
-        "title": "Government asks to accelerate Metro works due to delays in stations and public spaces",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/gobierno-pide-acelerar-obras-del-metro-ante-retrasos-en-estaciones-y-espacio-publico-4501156",
-        "published_date": "2026-10-11 13:48:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "Atl\u00e1ntico: plastic companies in Galapa had 14 illegal transformers and debts of $2.7 billion: connections affect services for vulnerable families",
+        "title": "Tremor in Colombia today, October 12: 3.3 magnitude earthquake shook Chaparral, Tolima, according to the Colombian Geological Service",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/atlantico-plastiqueras-en-galapa-tenian-14-transformadores-ilegales-y-deudas-por-2-700-millones-conexiones-afectan-servicio-de-familias-vulnerables-3592886",
-        "published_date": "2026-10-11 12:30:00",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-en-colombia-hoy-12-de-octubre-sismo-de-magnitud-3-3-sacudio-a-chaparral-tolima-segun-el-servicio-geologico-colombiano-3592991",
+        "published_date": "2026-10-12 12:45:00",
         "category": "Local Events"
     },
     {
-        "title": "Reproductive rights are human rights and protect life",
+        "title": "Videos show destruction of the El Bordo tollgate after a car bomb in Cauca: an injured woman is identified",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/videos-muestran-destruccion-del-peaje-de-el-bordo-tras-carro-bomba-en-cauca-identifican-a-una-mujer-herida-3593009",
+        "published_date": "2026-10-12 12:00:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "Human rights in check due to the cultural battle",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/colombia-retrocede-en-la-defensa-de-los-derechos-reproductivos/",
-        "published_date": "2026-10-11 12:00:00",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/los-derechos-humanos-en-jaque-por-la-batalla-cultural/",
+        "published_date": "2026-10-12 12:00:00",
         "category": "Local Events"
     },
     {
-        "title": "A foreigner died during the first day of the EDC electronic music festival at the Atanasio Girardot Sports Unit in Medell\u00edn",
+        "title": "Four people died and 15 were injured in a serious traffic accident between three vehicles in Meta",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/un-extranjero-murio-durante-el-primer-dia-del-festival-de-musica-electronica-edc-en-la-unidad-deportiva-atanasio-girardot-de-medellin-3592891",
-        "published_date": "2026-10-11 11:23:59",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/cuatro-personas-murieron-y-15-resultaron-heridas-en-grave-accidente-de-transito-entre-tres-vehiculos-en-el-meta-3593012",
+        "published_date": "2026-10-12 11:48:58",
         "category": "Local Events"
     },
     {
-        "title": "Attack against two Inpec guards in Barranquilla triggers a Government alert: threats would reach the president and the Minister of Justice",
+        "title": "Colombian Melany Mej\u00eda was crowned world bachata champion in Switzerland after passing various tests",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/atentado-contra-dos-guardianes-del-inpec-en-barranquilla-desata-alerta-del-gobierno-amenazas-alcanzarian-al-presidente-y-al-ministro-de-justicia-3592861",
-        "published_date": "2026-10-11 07:53:07",
+        "url": "https://www.eltiempo.com/colombia/colombiana-melany-mejia-se-corono-campeona-mundial-de-bachata-en-suiza-tras-superar-distintas-pruebas-3593014",
+        "published_date": "2026-10-12 11:47:42",
         "category": "Local Events"
     },
     {
-        "title": "'I thought I had reached that point, I felt like I was plummeting': the distressing story of one of the passengers on the flight between Medell\u00edn and New York",
+        "title": "Why are there so many mosquitoes in Barranquilla: the majority are Culex, which does not transmit dengue, and they multiply with the rains and heat of October",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/pense-que-hasta-aqui-habia-llegado-sentimos-que-caia-en-picada-el-angustiante-relato-de-una-de-las-pasajeras-del-vuelo-entre-medellin-y-nueva-york-3592812",
-        "published_date": "2026-10-11 06:01:00",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/por-que-hay-tantos-mosquitos-en-barranquilla-la-mayoria-son-culex-que-no-transmite-dengue-y-se-multiplican-con-las-lluvias-y-el-calor-de-octubre-3592989",
+        "published_date": "2026-10-12 10:01:00",
         "category": "Local Events"
     },
     {
-        "title": "De la Espriella seeks to grow at 6% aligned with Trump and with old recipes",
+        "title": "With the first marches, the opposition is tested on a cold street",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/de-la-espriella-busca-crecer-al-6-alineado-a-trump-y-con-recetas-viejas/",
-        "published_date": "2026-10-11 06:00:00",
+        "url": "https://www.lasillavacia.com/silla-nacional/con-las-primeras-marchas-la-oposicion-se-pone-a-prueba-en-una-calle-fria/",
+        "published_date": "2026-10-12 06:00:00",
         "category": "Local Events"
     }
 ]
