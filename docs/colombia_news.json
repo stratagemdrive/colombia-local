@@ -1,5 +1,12 @@
 [
     {
+        "title": "Girls DO EXIST: October 11, International Day of the Girl",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/las-ninas-si-existen-11-de-octubre-dia-internacional-de-la-nina/",
+        "published_date": "2026-10-11 22:12:24",
+        "category": "Diplomacy"
+    },
+    {
         "title": "The US sanctions the ICC after the Nobel Peace Prize to its former judge, Navi Pillay",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/ee-uu-sanciona-a-la-cpi-tras-el-nobel-de-paz-a-su-exjueza-navi-pillay/",
@@ -88,20 +95,6 @@
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/cali/video-periodista-se-encadeno-en-el-hospital-universitario-del-valle-en-cali-para-exigir-cirugia-pendiente-de-su-esposo-llevan-siete-meses-esperando-3591465",
         "published_date": "2026-10-05 20:24:00",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Foreign Minister Omar Bula appointed Tania Gillinski as Ambassador to Israel",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/canciller-omar-bula-posesiono-a-tania-gillinski-como-embajadora-en-israel/",
-        "published_date": "2026-10-03 19:24:24",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Changing the outcome: Abelardo and the Afro-Colombian critical tradition",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/cambiarle-el-desenlace-abelardo-y-la-tradicion-critica-afrocolombiana/",
-        "published_date": "2026-10-03 18:31:37",
         "category": "Diplomacy"
     },
     {
@@ -245,6 +238,20 @@
         "category": "Military"
     },
     {
+        "title": "Government proposes addressing criminal mining as an illegal financing activity",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/gobierno-propone-abordar-la-mineria-criminal-como-actividad-de-financiacion-de-grupos-armados-4501208",
+        "published_date": "2026-10-11 18:49:41",
+        "category": "Energy"
+    },
+    {
+        "title": "Attack with explosives and rifle rounds against a military base in Torib\u00edo, Cauca: five villages remain confined",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/ataque-con-explosivos-y-rafagas-de-fusil-contra-base-militar-en-toribio-cauca-cinco-veredas-permanecen-confinadas-3592896",
+        "published_date": "2026-10-11 11:46:07",
+        "category": "Energy"
+    },
+    {
         "title": "Council of State denies compensation to families of victims of the tank car explosion in Tasajera, which left 45 dead in Magdalena in 2020",
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/otras-ciudades/consejo-de-estado-niega-indemnizacion-a-familias-de-victimas-de-la-explosion-del-carrotanque-en-tasajera-que-dejo-45-muertos-en-el-magdalena-en-3592876",
@@ -371,18 +378,11 @@
         "category": "Energy"
     },
     {
-        "title": "Council of State orders to review energy rates in the Caribbean and reduce the impact of losses recognized to users in the region in 2026",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/consejo-de-estado-ordena-revisar-tarifas-de-energia-en-el-caribe-y-reducir-el-impacto-de-las-perdidas-reconocidas-a-los-usuarios-de-la-region-en-3591713",
-        "published_date": "2026-10-06 16:34:34",
-        "category": "Energy"
-    },
-    {
-        "title": "Santa Marta judge sends couple alias 'Pinocchio' to prison for alleged money laundering: Prosecutor's Office had requested house arrest",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/juez-de-santa-marta-envia-a-prision-a-pareja-de-alias-pinocho-por-presunto-lavado-de-activos-fiscalia-habia-pedido-detencion-domiciliaria-3591637",
-        "published_date": "2026-10-06 12:01:14",
-        "category": "Energy"
+        "title": "With union proposals close to 9%, discussion of the minimum advances",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/con-propuestas-de-gremios-cercanas-al-9-avanza-discusion-del-minimo/",
+        "published_date": "2026-10-11 21:59:09",
+        "category": "Economy"
     },
     {
         "title": "Nairo Quintana said goodbye in Cartagena with a 186-kilometer Gran Fondo that brought together Froome, Contador, Ur\u00e1n and thousands of cyclists from 21 countries",
@@ -518,11 +518,53 @@
         "category": "Economy"
     },
     {
-        "title": "Colombia could save up to 290 basic interest if it reaches an agreement with the IMF",
+        "title": "MinTransporte announced the progress of phase 3 of the infrastructure project in Bol\u00edvar",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/colombia-podria-ahorrarse-hasta-290-puntos-basicos-de-tasa-de-interes-si-logra-acuerdo-con-el-fmi-4496980",
-        "published_date": "2026-10-05 18:45:00",
-        "category": "Economy"
+        "url": "https://www.larepublica.co/economia/mintransporte-anuncio-el-avance-de-la-fase-3-de-proyecto-de-infraestructura-en-bolivar-4501288",
+        "published_date": "2026-10-11 22:15:52",
+        "category": "Local Events"
+    },
+    {
+        "title": "With the blessing of maestro Eddie Santiago, Ryan Castro recorded a new version of one of the great classics of the genre at the Cali Salsa Museum",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/con-la-bendicion-del-maestro-eddie-santiago-ryan-castro-grabo-nueva-version-de-uno-de-los-grandes-clasicos-del-genero-en-el-museo-de-la-salsa-de-cali-3592936",
+        "published_date": "2026-10-11 18:58:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "'Whoever messes with government officials, messes with the Tiger': De la Espriella after attack against two Inpec guards in Barranquilla",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/quien-se-mete-con-los-funcionarios-del-gobierno-se-mete-con-el-tigre-de-la-espriella-tras-atentado-contra-dos-guardianes-del-inpec-en-barranquilla-3592939",
+        "published_date": "2026-10-11 18:57:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "Australian citizen received 25 stab wounds in Medell\u00edn: possible theft investigated after leaving an event",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/australiano-recibio-25-punaladas-en-medellin-tras-salir-del-festival-edc-investigan-posible-hurto-3592919",
+        "published_date": "2026-10-11 18:00:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "Civil Aeronautics normalizes flights between Barranquilla and Panama after earthquake",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/aeronautica-civil-normaliza-vuelos-entre-barranquilla-y-panama-tras-terremoto-4501195",
+        "published_date": "2026-10-11 17:52:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "Blockade in Tasajera paralyzes the Santa Marta-Barranquilla highway: community protests due to lack of drinking water",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/bloqueo-en-tasajera-paraliza-la-via-santa-marta-barranquilla-comunidad-protesta-por-falta-de-agua-potable-3592929",
+        "published_date": "2026-10-11 17:27:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ecuadorian newspaper stops printing after pressure from President Noboa",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/diario-ecuatoriano-deja-de-imprimirse-tras-presiones-del-presidente-noboa/",
+        "published_date": "2026-10-11 17:23:51",
+        "category": "Local Events"
     },
     {
         "title": "Restrepo will bring \u201ccritical minerals\u201d projects from Tolima to Milagro Week",
@@ -546,6 +588,13 @@
         "category": "Local Events"
     },
     {
+        "title": "'Transit suspended due to unknown drone': what is known about the episode that forced the operation of the Jos\u00e9 Mar\u00eda C\u00f3rdova airport to stop",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/transito-suspendido-por-dron-desconocido-lo-que-se-sabe-del-episodio-que-obligo-a-detener-la-operacion-del-aeropuerto-jose-maria-cordova-3592912",
+        "published_date": "2026-10-11 14:35:21",
+        "category": "Local Events"
+    },
+    {
         "title": "Abelardo asks to investigate accusations of drug trafficking against Ver\u00f3nica Alcocer",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/abelardo-pide-investigar-acusaciones-de-narcotrafico-contra-veronica-alcocer/",
@@ -564,6 +613,13 @@
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/gobierno-pide-acelerar-obras-del-metro-ante-retrasos-en-estaciones-y-espacio-publico-4501156",
         "published_date": "2026-10-11 13:48:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "Atl\u00e1ntico: plastic companies in Galapa had 14 illegal transformers and debts of $2.7 billion: connections affect services for vulnerable families",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/atlantico-plastiqueras-en-galapa-tenian-14-transformadores-ilegales-y-deudas-por-2-700-millones-conexiones-afectan-servicio-de-familias-vulnerables-3592886",
+        "published_date": "2026-10-11 12:30:00",
         "category": "Local Events"
     },
     {
@@ -599,69 +655,6 @@
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/silla-nacional/de-la-espriella-busca-crecer-al-6-alineado-a-trump-y-con-recetas-viejas/",
         "published_date": "2026-10-11 06:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "LaCardio and Fundaci\u00f3n Valle del Lili, with a better investigative reputation",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/lacardio-y-fundacion-valle-del-lili-entre-los-hospitales-con-mejor-reputacion-investigativa-4501103",
-        "published_date": "2026-10-11 05:01:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "More intense El Ni\u00f1o episodes and the extreme temperatures that left",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/los-episodios-mas-intensos-del-fenomeno-de-el-nino-y-las-temperaturas-extremas-que-dejaron-4501109",
-        "published_date": "2026-10-11 05:01:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "Operations at the Jos\u00e9 Mar\u00eda C\u00f3rdova airport in Rionegro, Antioquia, are temporarily suspended due to the presence of a drone",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/suspenden-temporalmente-las-operaciones-en-el-aeropuerto-jose-maria-cordova-de-rionegro-antioquia-por-presencia-de-un-dron-3592843",
-        "published_date": "2026-10-10 23:27:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "From a polluted swamp to a jewel of nature tourism: Mallorqu\u00edn, the treasure that Barranquilla recovered and today attracts thousands of visitors",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/de-cienaga-contaminada-a-joya-del-turismo-de-naturaleza-mallorquin-el-tesoro-que-barranquilla-recupero-y-hoy-atrae-a-miles-de-visitantes-3592808",
-        "published_date": "2026-10-10 22:01:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Iv\u00e1n Cepeda summons the Minister of Agriculture to a political control debate",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/ivan-cepeda-cita-a-debate-de-control-politico-al-ministro-de-agricultura/",
-        "published_date": "2026-10-10 21:42:33",
-        "category": "Local Events"
-    },
-    {
-        "title": "Asocapitales and UNDP Colombia presented a guide to anticipate the risks due to El Ni\u00f1o",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/asocapitales-y-pnud-colombia-presentaron-guia-para-anticipar-los-riesgos-por-el-nino-4501069",
-        "published_date": "2026-10-10 20:18:46",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mass tourism has costs for Caribbean youth",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/el-turismo-masivo-tiene-costos-para-los-jovenes-del-caribe/",
-        "published_date": "2026-10-10 20:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "MinAmbiente proposes decree to evaluate licenses without waiting for prior consultation",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/minambiente-propone-decreto-para-evaluar-licencias-sin-esperar-a-la-consulta-previa/",
-        "published_date": "2026-10-10 19:39:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "AI accelerates science and also risks",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-ciencia-e-innovacion/la-ia-acelera-la-ciencia-y-tambien-los-riesgos/",
-        "published_date": "2026-10-10 19:00:00",
         "category": "Local Events"
     }
 ]
