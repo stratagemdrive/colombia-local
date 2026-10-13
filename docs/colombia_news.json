@@ -1,5 +1,12 @@
 [
     {
+        "title": "Why sexual and reproductive rights?",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/para-que-los-derechos-sexuales-y-reproductivos/",
+        "published_date": "2026-10-13 01:27:44",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Colombia proposes to modify the international verification of the Peace Agreement before the UN",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/colombia-propone-modificar-la-verificacion-internacional-del-acuerdo-de-paz-ante-la-onu-4501410",
@@ -112,10 +119,59 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Presidential address: energy, security, Anti-Terrorist Statute, Marches",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/alocucion-presidencial-energia-seguridad-estatuto-antiterrorista-marchas/",
+        "published_date": "2026-10-13 02:50:10",
+        "category": "Military"
+    },
+    {
+        "title": "De la Espriella announced measures to avoid a blackout and reported security results",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/de-la-espriella-anuncio-medidas-para-evitar-apagon-y-reporto-resultados-en-seguridad-4501532",
+        "published_date": "2026-10-13 02:07:01",
+        "category": "Military"
+    },
+    {
+        "title": "Santa Marta Metropolitan Police: fourteen years of escapes, weapons and cover-ups",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/policia-metropolitana-de-santa-marta-catorce-anos-de-fugas-armas-y-encubrimientos/",
+        "published_date": "2026-10-12 22:47:43",
+        "category": "Military"
+    },
+    {
+        "title": "De la Espriella and Marco Rubio talked about security and bilateral cooperation",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/de-la-espriella-y-marco-rubio-conversaron-sobre-seguridad-y-cooperacion-bilateral-4501459",
+        "published_date": "2026-10-12 21:57:18",
+        "category": "Military"
+    },
+    {
+        "title": "From Cauca they ask President Abelardo de la Espriella to visit the department in the midst of the security crisis and the violent escalation",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/desde-el-cauca-le-piden-al-presidente-abelardo-de-la-espriella-que-visite-el-departamento-en-medio-de-la-crisis-de-seguridad-y-la-escalada-violenta-3593081",
+        "published_date": "2026-10-12 20:55:37",
+        "category": "Military"
+    },
+    {
+        "title": "More than 1.3 million vehicles moved through Antioquia during the festive long weekend at the end of the school break: there were more than 25 accidents",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/mas-de-1-3-millones-de-vehiculos-se-movilizaron-por-antioquia-durante-el-puente-festivo-del-fin-del-receso-escolar-hubo-mas-de-25-accidentes-3593075",
+        "published_date": "2026-10-12 20:42:07",
+        "category": "Military"
+    },
+    {
         "title": "Abelardo changes colonel of the Santa Marta Police after the escape of 41 detainees",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/abelardo-cambia-coronel-de-la-policia-de-santa-marta-tras-fuga-de-41-detenidos/",
         "published_date": "2026-10-12 16:47:12",
+        "category": "Military"
+    },
+    {
+        "title": "Escape in Santa Marta: three fugitives surrender and one is captured;40 detainees are transferred to the Rodrigo de Bastidas prison",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/fuga-en-santa-marta-tres-profugos-se-entregan-y-uno-es-capturado-trasladan-a-40-detenidos-a-la-carcel-rodrigo-de-bastidas-3593031",
+        "published_date": "2026-10-12 16:45:46",
         "category": "Military"
     },
     {
@@ -200,55 +256,6 @@
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/barranquilla/aqui-el-miedo-esta-cambiando-de-bando-alejandro-char-celebra-la-captura-por-la-aparicion-de-una-bandera-y-cilindros-del-eln-en-barranquilla-3592374",
         "published_date": "2026-10-08 19:52:51",
-        "category": "Military"
-    },
-    {
-        "title": "President announces arrest for installation of ELN cylinders and flag in Barranquilla: 'I am not going to allow them to intimidate Colombians'",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/presidente-anuncia-captura-por-instalacion-de-cilindros-y-bandera-del-eln-en-barranquilla-no-voy-a-permitir-que-intimiden-a-los-colombianos-3592367",
-        "published_date": "2026-10-08 19:03:56",
-        "category": "Military"
-    },
-    {
-        "title": "Bodyguards of the leader of the 36th front of the dissidents, close to 'Primo Gay' and an ally of the 'Gulf clan', were killed in Antioquia",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/guardaespaldas-de-cabecilla-del-frente-36-de-las-disidencias-cercano-a-primo-gay-y-aliado-del-clan-del-golfo-fueron-abatidos-en-antioquia-3592320",
-        "published_date": "2026-10-08 17:28:29",
-        "category": "Military"
-    },
-    {
-        "title": "Ungrd: for security, the Prosecutor's Office had asked not to transfer Olmedo and Pinilla",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/ungrd-por-seguridad-fiscalia-habia-pedido-no-trasladar-a-olmedo-y-pinilla/",
-        "published_date": "2026-10-08 15:47:57",
-        "category": "Military"
-    },
-    {
-        "title": "With reduction in all crimes and pending challenges, Medell\u00edn Security Secretariat presented balance after 1,000 days of management",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/con-reduccion-en-todos-los-delitos-y-desafios-pendientes-secretaria-de-seguridad-de-medellin-presento-balance-tras-1-000-dias-de-gestion-3592027",
-        "published_date": "2026-10-08 10:37:46",
-        "category": "Military"
-    },
-    {
-        "title": "They report sexual abuse in Santander against an adult over 70 years of age: they search for those responsible and provide a security council",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/denuncian-brutal-abuso-sexual-en-santander-contra-una-adulta-mayor-de-70-anos-buscan-a-los-responsables-y-hacen-consejo-de-seguridad-3592047",
-        "published_date": "2026-10-07 19:43:43",
-        "category": "Military"
-    },
-    {
-        "title": "They denounce the Army for war crimes, kidnapping and torture in Meta: Vor\u00e1gine",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/denuncian-al-ejercito-por-crimen-de-guerra-secuestro-y-tortura-en-meta-voragine/",
-        "published_date": "2026-10-07 17:30:08",
-        "category": "Military"
-    },
-    {
-        "title": "Security should not depend on the presidential spectacle",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/la-seguridad-no-debe-depender-del-espectaculo-presidencial/",
-        "published_date": "2026-10-07 14:00:00",
         "category": "Military"
     },
     {
@@ -532,10 +539,52 @@
         "category": "Economy"
     },
     {
+        "title": "Abelardo points to Petrism for promoting a strike to \u201ccause chaos\u201d",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/abelardo-senala-al-petrismo-de-impulsar-un-paro-para-causar-el-caos/",
+        "published_date": "2026-10-13 02:17:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "Donald Trump opened the door to withdraw tariffs on several Colombian products",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/donald-trump-abrio-la-puerta-a-retirar-aranceles-a-productos-colombianos-4501497",
+        "published_date": "2026-10-12 23:20:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "This is how the recovery of 'Golondrina' and 'Llamarada', the horses that suffered burns during the Tolima forest fires, progresses",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/asi-avanza-la-recuperacion-de-golondrina-y-llamarada-los-equinos-que-sufrieron-quemaduras-durante-los-incendios-forestales-del-tolima-3593089",
+        "published_date": "2026-10-12 21:29:41",
+        "category": "Local Events"
+    },
+    {
         "title": "Cartagena has one year to bring more women into politics",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/red-de-expertos/red-de-las-mujeres/cartagena-tiene-un-ano-para-llevar-mas-mujeres-a-la-politica/",
         "published_date": "2026-10-12 19:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Barranquilla took over Madrid: the Carnival danced with Shakira and Be\u00e9le before 60,000 people at the close of her European tour and she received her marimonda",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-se-tomo-madrid-el-carnaval-bailo-con-shakira-y-beele-ante-60-000-personas-en-el-cierre-de-su-gira-europea-y-ella-recibio-su-marimonda-3593059",
+        "published_date": "2026-10-12 18:48:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "Panic in the corralejas of Ayapel, C\u00f3rdoba: attendees came down from the boxes with children in their arms due to fear of a collapse",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/panico-en-las-corralejas-de-ayapel-cordoba-asistentes-bajaron-de-los-palcos-con-ninos-en-brazos-ante-el-temor-de-un-derrumbe-3593055",
+        "published_date": "2026-10-12 18:17:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "C\u00facuta Councilor Carlos Due\u00f1as pushed and insulted a supermarket worker and then published a video to apologize: 'There is no justification'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/concejal-de-cucuta-carlos-duenas-empujo-e-insulto-a-trabajador-de-supermercado-y-despues-publico-video-para-pedir-disculpas-no-tiene-justificacion-3593035",
+        "published_date": "2026-10-12 16:41:23",
         "category": "Local Events"
     },
     {
@@ -546,6 +595,13 @@
         "category": "Local Events"
     },
     {
+        "title": "Salwa and Isabella take the Barranquilla Carnival to Paris and New York",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/salwa-e-isabella-llevan-el-carnaval-de-barranquilla-a-paris-y-nueva-york-3593045",
+        "published_date": "2026-10-12 16:13:38",
+        "category": "Local Events"
+    },
+    {
         "title": "President and ministers ask to investigate 'Matador' for attacks on the first lady",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/gobierno-pide-a-la-fiscalia-investigar-comentarios-de-matador-contra-la-primera-dama-4501361",
@@ -553,10 +609,24 @@
         "category": "Local Events"
     },
     {
+        "title": "Power outages this Tuesday, October 13 in Barranquilla: check the neighborhoods, sectors and schedules",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/cortes-de-luz-este-martes-13-de-octubre-en-barranquilla-consulte-los-barrios-sectores-y-horarios-3593038",
+        "published_date": "2026-10-12 15:42:08",
+        "category": "Local Events"
+    },
+    {
         "title": "\u201cEnough of misogyny\u201d, Presidency due to publication by Matador against First Lady",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/basta-ya-de-misoginia-presidencia-por-publicacion-de-matador-contra-primera-dama/",
         "published_date": "2026-10-12 15:32:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "Sudden current surprised spa tourists in Piedecuesta;two people, including a minor, were referred to medical centers",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/corriente-subita-sorprendio-a-turistas-de-balneario-en-piedecuesta-dos-personas-entre-ellas-un-menor-de-edad-fueron-remitidas-a-centros-medicos-3593036",
+        "published_date": "2026-10-12 15:30:53",
         "category": "Local Events"
     },
     {
@@ -606,69 +676,6 @@
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/otras-ciudades/terremoto-en-panama-deja-danos-en-colombia-activan-trabajos-en-la-via-turbo-nuevo-antioquia-y-evaluan-casas-e-infraestructuras-3593025",
         "published_date": "2026-10-12 13:37:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "Despite the heavy rains and an improvement in water saving behavior, EPM announced that nighttime outages will continue in Medell\u00edn",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/pese-a-las-fuertes-lluvias-y-a-una-mejoria-en-el-comportamiento-de-ahorro-de-agua-epm-anuncio-que-se-mantendran-los-cortes-nocturnos-en-medellin-3593019",
-        "published_date": "2026-10-12 13:17:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "Science is not built from call to call",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-ciencia-e-innovacion/la-ciencia-no-se-construye-de-convocatoria-en-convocatoria/",
-        "published_date": "2026-10-12 13:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tremor in Colombia today, October 12: 3.3 magnitude earthquake shook Chaparral, Tolima, according to the Colombian Geological Service",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-en-colombia-hoy-12-de-octubre-sismo-de-magnitud-3-3-sacudio-a-chaparral-tolima-segun-el-servicio-geologico-colombiano-3592991",
-        "published_date": "2026-10-12 12:45:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Videos show destruction of the El Bordo tollgate after a car bomb in Cauca: an injured woman is identified",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/videos-muestran-destruccion-del-peaje-de-el-bordo-tras-carro-bomba-en-cauca-identifican-a-una-mujer-herida-3593009",
-        "published_date": "2026-10-12 12:00:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "Human rights in check due to the cultural battle",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/los-derechos-humanos-en-jaque-por-la-batalla-cultural/",
-        "published_date": "2026-10-12 12:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Four people died and 15 were injured in a serious traffic accident between three vehicles in Meta",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/cuatro-personas-murieron-y-15-resultaron-heridas-en-grave-accidente-de-transito-entre-tres-vehiculos-en-el-meta-3593012",
-        "published_date": "2026-10-12 11:48:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Colombian Melany Mej\u00eda was crowned world bachata champion in Switzerland after passing various tests",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/colombiana-melany-mejia-se-corono-campeona-mundial-de-bachata-en-suiza-tras-superar-distintas-pruebas-3593014",
-        "published_date": "2026-10-12 11:47:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "Why are there so many mosquitoes in Barranquilla: the majority are Culex, which does not transmit dengue, and they multiply with the rains and heat of October",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/por-que-hay-tantos-mosquitos-en-barranquilla-la-mayoria-son-culex-que-no-transmite-dengue-y-se-multiplican-con-las-lluvias-y-el-calor-de-octubre-3592989",
-        "published_date": "2026-10-12 10:01:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "With the first marches, the opposition is tested on a cold street",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/con-las-primeras-marchas-la-oposicion-se-pone-a-prueba-en-una-calle-fria/",
-        "published_date": "2026-10-12 06:00:00",
         "category": "Local Events"
     }
 ]
