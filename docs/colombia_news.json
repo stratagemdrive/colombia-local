@@ -1,5 +1,26 @@
 [
     {
+        "title": "Government appointed Edgardo Tom\u00e1s Jaramillo as new ambassador to Panama",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/gobierno-designo-a-edgardo-tomas-jaramillo-como-nuevo-embajador-ante-panama-4502681",
+        "published_date": "2026-10-14 15:30:08",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Colombia inaugurated its Embassy in Jerusalem after reestablishing relations with Israel",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/colombia-inauguro-su-embajada-en-jerusalen-tras-restablecer-relaciones-con-israel-4502516",
+        "published_date": "2026-10-14 12:59:19",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "More than 8,000 items would be exempt from the 12.5% \u200b\u200btariff from the United States",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/mas-de-8-000-articulos-quedarian-exentos-del-arancel-de-12-5-de-ee-uu-4502269",
+        "published_date": "2026-10-14 05:03:25",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Colombia has not fully recognized what happened in Israel: Foreign Minister",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/colombia-no-ha-reconocido-a-cabalidad-lo-que-paso-en-israel-canciller/",
@@ -116,13 +137,6 @@
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/cali/asi-cayo-el-cargamento-de-400-kilos-de-explosivos-desde-el-cauca-hacia-cali-el-proceso-judicial-que-afrontara-el-conductor-del-vehiculo-bomba-3591744",
         "published_date": "2026-10-06 18:21:39",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Abelardo ordered assistance to those detained for the assassination of the president of Haiti",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/abelardo-ordeno-asistir-a-detenidos-por-magnicidio-del-presidente-de-haiti/",
-        "published_date": "2026-10-06 16:15:19",
         "category": "Diplomacy"
     },
     {
@@ -266,6 +280,20 @@
         "category": "Military"
     },
     {
+        "title": "The sectors that would receive more resources in the Budget and where the scissors would be passed",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/los-sectores-que-recibirian-mas-recursos-en-el-presupuesto-de-2027-y-donde-se-pasaria-tijera-4502463",
+        "published_date": "2026-10-14 12:21:47",
+        "category": "Energy"
+    },
+    {
+        "title": "Eva Ferrer's most serious accusations are based only on her word",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/las-acusaciones-mas-graves-de-eva-ferrer-se-sostienen-solo-sobre-su-palabra/",
+        "published_date": "2026-10-14 04:30:00",
+        "category": "Energy"
+    },
+    {
         "title": "Demolition began in El Poblado of a house that belonged to Pablo Escobar's family and that was used for satanic rituals and drug consumption",
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/medellin/inicio-demolicion-en-el-poblado-de-una-casa-que-pertenecia-a-la-familia-de-pablo-escobar-y-que-era-usada-para-rituales-satanicos-y-consumo-de-drogas-3593307",
@@ -392,18 +420,11 @@
         "category": "Energy"
     },
     {
-        "title": "Fuller classrooms are not enough if learning does not become human capital",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-educacion/aulas-mas-llenas-no-bastan-si-el-aprendizaje-no-se-vuelve-capital-humano/",
-        "published_date": "2026-10-08 14:00:00",
-        "category": "Energy"
-    },
-    {
-        "title": "The risky maneuver of the pilot of a FAC helicopter when trying to land between rifle bursts in El Pe\u00f1ol, Nari\u00f1o: 'They hit him... they hit him'",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/la-arriesgada-maniobra-del-piloto-de-un-helicoptero-de-la-fac-al-intentar-aterrizar-entre-rafagas-de-fusil-en-el-penol-narino-le-dieron-le-dieron-3592173",
-        "published_date": "2026-10-08 09:27:35",
-        "category": "Energy"
+        "title": "IMF technical table will arrive in Bogot\u00e1 in November to explore financial support",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/mesa-tecnica-del-fmi-llegara-a-bogota-en-noviembre-para-explorar-apoyo-financiero-4502552",
+        "published_date": "2026-10-14 14:28:38",
+        "category": "Economy"
     },
     {
         "title": "It was a foregone conclusion: Congress and government agree to pay less debt in 2027",
@@ -539,11 +560,102 @@
         "category": "Economy"
     },
     {
-        "title": "Inflation in the ninth month of the year stood at 6.29% driven by food and services",
+        "title": "CAR proposes stricter environmental offsets to protect water",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/inflacion-alcanzo-6-29-en-septiembre-jalonada-por-alimentos-y-servicios-4498967",
-        "published_date": "2026-10-07 23:17:12",
-        "category": "Economy"
+        "url": "https://www.larepublica.co/economia/la-car-propone-compensaciones-ambientales-mas-estrictas-para-proteger-el-agua-4502704",
+        "published_date": "2026-10-14 15:28:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Consumer confidence rose to 15.7% in September, but household perception fell",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/indice-de-confianza-al-consumidor-en-septiembre-de-2026-entregado-por-fedesarrollo-4502556",
+        "published_date": "2026-10-14 13:56:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Abelardo has already signed the decree that modifies the rules for the protest",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/abelardo-ya-firmo-el-decreto-que-modifica-las-reglas-para-la-protesta/",
+        "published_date": "2026-10-14 13:27:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "Who is who in the Ver\u00f3nica Alcocer scandal",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/podcasts/quien-es-quien-en-el-escandalo-de-veronica-alcocer/",
+        "published_date": "2026-10-14 12:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Buenaventura will not apply a charge to cargo vehicles and unlocked nine units via Buga",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/buenaventura-no-aplicara-cobro-a-vehiculos-de-carga-y-destrabo-nueve-unidades-via-a-buga-4502445",
+        "published_date": "2026-10-14 11:42:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "The last and moving farewell to the little dog Leyenda with a parish mass, a parade in the streets and the tribute of firefighters in a municipality of Nari\u00f1o",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/el-ultimo-y-conmovedor-adios-al-perrito-leyenda-con-misa-parroquial-un-desfile-en-las-calles-y-el-homenaje-de-los-bomberos-en-un-municipio-de-narino-3593467",
+        "published_date": "2026-10-14 10:34:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "They had only been open for two days!Armed thieves attacked a cell phone store in Soledad, emptied the display cases and fled with more than 25 iPhones",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/solo-llevaban-dos-dias-abiertos-ladrones-armados-asaltaron-una-tienda-de-celulares-en-soledad-vaciaron-las-vitrinas-y-huyeron-con-mas-de-25-iphones-3593440",
+        "published_date": "2026-10-14 09:16:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Attention: the alleged person responsible for sexually abusing an 83-year-old woman in La Uni\u00f3n, Antioquia was captured;had fled the municipality",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/atencion-fue-capturado-el-presunto-responsable-de-abusar-sexualmente-de-una-mujer-de-83-anos-en-la-union-antioquia-habia-huido-del-municipio-3593430",
+        "published_date": "2026-10-14 09:03:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "The right to protest is put to the test with the new decree",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/el-derecho-a-la-protesta-se-pone-a-prueba-con-el-nuevo-decreto/",
+        "published_date": "2026-10-14 05:05:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The El Ni\u00f1o phenomenon has not yet scared away traditional downpours during October",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/fenomeno-de-el-nino-aun-no-espanta-los-aguaceros-tradicionales-de-octubre-4502251",
+        "published_date": "2026-10-14 05:03:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Informality falls slightly in the country, but it is more than half of the labor market",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/informalidad-cae-levemente-pero-es-mas-de-la-mitad-del-mercado-laboral-4502284",
+        "published_date": "2026-10-14 05:00:58",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Government reactivated the alliance with Colfuturo as part of the Talento Colombia program",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/reactivacion-del-programa-talento-colombia-4502350",
+        "published_date": "2026-10-14 02:13:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ministry of the Interior updated protocol of the public force in social protests",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/ministerio-del-interior-actualizo-protocolo-de-la-fuerza-publica-en-protestas-sociales-4502314",
+        "published_date": "2026-10-14 01:38:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Petro questioned Abelardo de la Espriella for his handling of the El Ni\u00f1o emergency",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/petro-cuestiono-a-abelardo-de-la-espriella-por-su-manejo-de-la-emergencia-de-el-nino-4502307",
+        "published_date": "2026-10-14 01:17:28",
+        "category": "Local Events"
     },
     {
         "title": "Sleep informed with the key moves of this October 13, 2026",
@@ -585,104 +697,6 @@
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/ley-de-sometimiento-30-de-rebaja-de-pena-a-lideres-de-grupos-armados/",
         "published_date": "2026-10-13 22:04:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Barranquilla: Ana Aljure, Char's popular candidate for 2027, resigned",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/barranquilla-renuncio-ana-aljure-cantada-candidata-de-char-para-2027/",
-        "published_date": "2026-10-13 21:26:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Social protest decree comes out tomorrow during opposition demonstration",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/decreto-de-protesta-social-sale-manana-durante-manifestacion-de-oposicion/",
-        "published_date": "2026-10-13 20:55:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "Between June and August, 13.2 million people worked informally",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/entre-junio-y-agosto-13-2-millones-de-personas-trabajaron-en-el-mercado-informal-4502039",
-        "published_date": "2026-10-13 20:31:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "Street vendor who needs urgent surgery claims that he cannot access the EPS because he appears deceased in records: this is the reason",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/vendedor-ambulante-que-necesita-operacion-urgente-asegura-que-no-puede-acceder-a-la-eps-porque-figura-como-fallecido-en-registros-esta-es-la-razon-3593270",
-        "published_date": "2026-10-13 19:56:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "With triple murder in Caquet\u00e1, Colombia approaches 100 massacres",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/con-triple-asesinato-en-caqueta-colombia-se-acerca-a-las-100-masacres/",
-        "published_date": "2026-10-13 19:47:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "Shock over the murder of Isabella Prado in Florida, Valle: these are the hypotheses of the case in the southeast of the department",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/conmocion-por-el-asesinato-de-isabella-prado-en-florida-valle-hipotesis-y-senalamientos-de-un-politico-que-califico-el-hecho-como-feminicidio-3593308",
-        "published_date": "2026-10-13 18:42:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "Dian says first lady's foundation can receive donations",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/dian-dice-que-la-fundacion-de-la-primera-dama-puede-recibir-donaciones/",
-        "published_date": "2026-10-13 17:55:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "More than 100 people suffered poisoning due to substance use during the two days of the EDC festival: Medell\u00edn Health Secretariat",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/mas-de-100-personas-sufrieron-intoxicacion-por-consumo-de-sustancias-durante-los-dos-dias-del-festival-edc-secretaria-de-salud-de-medellin-3593282",
-        "published_date": "2026-10-13 16:58:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "Elite antimilitarism and the limits of military power",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/el-antimilitarismo-de-elites-y-los-limites-del-poder-militar/",
-        "published_date": "2026-10-13 16:55:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "A strong earthquake was felt in the department of Santander with a magnitude of 5.0: this is known",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/un-fuerte-sismo-se-sintio-en-el-departamento-de-santander-con-una-magnitud-de-5-0-esto-se-sabe-3593293",
-        "published_date": "2026-10-13 16:37:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Santiago Uribe seeks that the Constitutional Court review his case",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/santiago-uribe-busca-que-la-constitucional-revise-su-caso/",
-        "published_date": "2026-10-13 16:14:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Anguish in the Atlantic: man missing for more than 72 hours after a jet ski accident on the beaches of Tubar\u00e1",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/angustia-en-el-atlantico-hombre-completa-mas-de-72-horas-desaparecido-tras-accidente-en-moto-acuatica-en-playas-de-tubara-3593278",
-        "published_date": "2026-10-13 15:53:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Minimum wage, Petro's flag for tomorrow's march",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/salario-minimo-la-bandera-de-petro-para-la-marcha-de-manana/",
-        "published_date": "2026-10-13 15:52:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "Minor died in the fourth government bombing in El Catatumbo",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/menor-murio-en-el-cuarto-bombardeo-del-gobierno-en-el-catatumbo/",
-        "published_date": "2026-10-13 15:00:00",
         "category": "Local Events"
     }
 ]
