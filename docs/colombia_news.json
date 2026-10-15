@@ -1,5 +1,12 @@
 [
     {
+        "title": "Governor of Choc\u00f3, Nubia Carolina C\u00f3rdoba, spoke after an attack with a swarm of drones against a military base in San Jos\u00e9 del Palmar: 'Siege'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/gobernadora-del-choco-nubia-carolina-cordoba-se-pronuncio-tras-ataque-con-enjambre-de-drones-contra-base-militar-en-san-jose-del-palmar-asedio-3593686",
+        "published_date": "2026-10-15 06:55:00",
+        "category": "Diplomacy"
+    },
+    {
         "title": "\u201cColombia is with us\u201d: Netanyahu after reactivating relations",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/colombia-esta-con-nosotros-netanyahu-tras-reactivacion-de-relaciones/",
@@ -133,11 +140,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Video |They denounce animal abuse of an iguana on the campus of the San Mart\u00edn University Foundation, in Atl\u00e1ntico: 'The worker will be removed'",
+        "title": "12 fugitives surrendered in Santa Marta, but 'Mongolo', a high-value target of 'Los Pachencas', remains among the 29 fugitives",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/video-denuncia-de-maltrato-animal-a-una-iguana-en-el-campus-de-la-fundacion-universitaria-san-martin-en-el-atlantico-se-retirara-al-trabajador-3591949",
-        "published_date": "2026-10-07 17:04:10",
-        "category": "Diplomacy"
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/12-fugados-se-entregaron-en-santa-marta-pero-mongolo-objetivo-de-alto-valor-de-los-pachencas-continua-entre-los-29-profugos-3593709",
+        "published_date": "2026-10-15 08:35:35",
+        "category": "Military"
     },
     {
         "title": "\u201cUntil the general strike\u201d: Petro during the march",
@@ -273,11 +280,25 @@
         "category": "Military"
     },
     {
-        "title": "Security cameras followed the route of a stolen truck in Sabanalarga and allowed it to be recovered in Soledad: four captured",
+        "title": "Ecopetrol appointed Jos\u00e9 Barreneche as corporate compliance director",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/ecopetrol-nombro-a-jose-eduardo-barreneche-como-director-corporativo-de-cumplimiento-4503323",
+        "published_date": "2026-10-15 12:43:27",
+        "category": "Energy"
+    },
+    {
+        "title": "Solar energy in the Caribbean: Cesar attracts investments and plans to exceed 1,200 renewable megawatts with new solar parks and mini-farms",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/camaras-de-seguridad-siguieron-la-ruta-de-un-camion-robado-en-sabanalarga-y-permitieron-recuperarlo-en-soledad-cuatro-capturados-3592868",
-        "published_date": "2026-10-11 10:01:00",
-        "category": "Military"
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/energia-solar-en-el-caribe-el-cesar-atrae-inversiones-y-proyecta-superar-los-1-200-megavatios-renovables-con-nuevos-parques-y-minigranjas-solares-3593714",
+        "published_date": "2026-10-15 08:30:09",
+        "category": "Energy"
+    },
+    {
+        "title": "Mines and Energy would receive $3 billion for energy and gas subsidies in the PGN",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/minas-y-energia-recibiria-3-billones-para-los-subsidios-de-energia-y-gas-4503129",
+        "published_date": "2026-10-15 05:04:23",
+        "category": "Energy"
     },
     {
         "title": "Ideam warns of rain with electric shocks in Andean and Pacific regions",
@@ -399,25 +420,18 @@
         "category": "Energy"
     },
     {
-        "title": "Nearly 258,000 Air-e users exceeded their energy consumption goal in September and could see an additional charge on their next bill",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/cerca-de-258-000-usuarios-de-air-e-se-pasaron-de-su-meta-de-consumo-de-energia-en-septiembre-y-podrian-ver-un-cobro-adicional-en-su-proxima-factura-3592495",
-        "published_date": "2026-10-09 09:47:50",
-        "category": "Energy"
+        "title": "Bogot\u00e1 Treasury Secretariat enabled 60% discounts on debt interest",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/secretaria-de-hacienda-de-bogota-habilito-descuentos-de-60-en-intereses-de-deudas-4503305",
+        "published_date": "2026-10-15 12:21:36",
+        "category": "Economy"
     },
     {
-        "title": "Travel and advertising: the austerity order for Abelardo's team",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/viajes-y-publicidad-la-apuesta-de-austeridad-para-el-equipo-de-abelardo/",
-        "published_date": "2026-10-08 21:19:49",
-        "category": "Energy"
-    },
-    {
-        "title": "The pedagogical period of the energy saving program was just a role for thousands of Air-e users, denounces the Barranquilla Ombudsman",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/el-periodo-pedagogico-del-programa-de-ahorro-de-energia-fue-solo-un-papel-para-miles-de-usuarios-de-air-e-denuncia-la-personeria-de-barranquilla-3592311",
-        "published_date": "2026-10-08 16:04:34",
-        "category": "Energy"
+        "title": "Chamber Plenary will begin the second debate on the 2027 General Budget",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/plenaria-de-camara-dara-inicio-a-segundo-debate-de-presupuesto-este-jueves-a-las-9-00-a-m-4503231",
+        "published_date": "2026-10-15 01:59:03",
+        "category": "Economy"
     },
     {
         "title": "IMF technical table will arrive in Bogot\u00e1 in November to explore financial support",
@@ -546,157 +560,143 @@
         "category": "Economy"
     },
     {
-        "title": "Sleep informed with the movements of that October 7, 2026",
+        "title": "Judge in Mo\u00efse case asks to clarify resources of accused former Colombian soldiers",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-movidas-de-ese-7-de-octubre-de-2026/",
-        "published_date": "2026-10-08 00:12:07",
-        "category": "Economy"
-    },
-    {
-        "title": "Inflation reached 6.29% in September and completes 8 months of growth",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/inflacion-llego-al-629-en-septiembre-y-completa-8-meses-al-alza/",
-        "published_date": "2026-10-07 23:52:06",
-        "category": "Economy"
-    },
-    {
-        "title": "Government gave new guidelines for prior consultation",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/gobierno-dio-nuevos-lineamientos-para-la-consulta-previa/",
-        "published_date": "2026-10-15 01:00:00",
+        "url": "https://www.lasillavacia.com/en-vivo/jueza-de-caso-moise-pide-aclarar-recursos-de-exmilitares-colombianos-acusados/",
+        "published_date": "2026-10-15 15:10:58",
         "category": "Local Events"
     },
     {
-        "title": "De la Espriella has not prohibited protests: Decree 1346 is an appointment",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/de-la-espriella-no-ha-prohibido-protestas-decreto-1346-es-de-un-nombramiento/",
-        "published_date": "2026-10-15 00:25:20",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sleep informed with the key moves of this October 14, 2026",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-movidas-claves-de-este-14-de-octubre-de-2026/",
-        "published_date": "2026-10-15 00:12:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "First Lady promises accountability for earthquake donations",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/primera-dama-promete-rendicion-de-cuentas-por-donaciones-al-terremoto/",
-        "published_date": "2026-10-14 23:40:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Idiots and evil?The policy of looking the other way",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/idiotas-y-malvados-la-politica-de-mirar-para-otro-lado/",
-        "published_date": "2026-10-14 22:32:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "The indigenous movement distances itself from the Pact and claims its social agenda",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/el-movimiento-indigena-se-desmarca-del-pacto-y-reivindica-su-agenda-social/",
-        "published_date": "2026-10-14 21:38:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "Indigenous Jiw denounces displacement in Guaviare due to dissidents",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/lider-jiw-habla-del-desplazamiento-en-guaviare-por-las-disidencias/",
-        "published_date": "2026-10-14 21:03:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "In Medell\u00edn, the marches are also against Fico's mayor's office",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/en-medellin-las-marchas-tambien-son-en-contra-de-la-alcaldia-de-fico/",
-        "published_date": "2026-10-14 20:48:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "They remodeled the Nuestra Se\u00f1ora La Virgen de la Pe\u00f1a parish, located in a township of Yopal",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/remodelaron-la-parroquia-nuestra-senora-la-virgen-de-la-pena-ubicada-en-un-corregimiento-de-yopal-3593612",
-        "published_date": "2026-10-14 18:02:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "Camacero supports the ban on imports originating from forced labor",
+        "title": "Milagro Fund will open with $624,000 million and will begin with home demolitions",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/camacero-apoya-prohibicion-a-importaciones-producidos-con-trabajo-forzoso-4502781",
-        "published_date": "2026-10-14 17:16:10",
+        "url": "https://www.larepublica.co/economia/fondo-milagro-abrira-con-624-000-millones-e-iniciara-con-demoliciones-de-viviendas-4503465",
+        "published_date": "2026-10-15 15:04:09",
         "category": "Local Events"
     },
     {
-        "title": "Incidents and detonations of potato bombs disturb the tranquility in the center of Popay\u00e1n after a day of mobilization",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/desmanes-y-detonaciones-de-papas-bomba-alteran-la-tranquilidad-en-el-centro-de-popayan-tras-jornada-de-movilizacion-3593602",
-        "published_date": "2026-10-14 17:15:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "\"Colombia must evaluate whether it needs a law or a decree for compensation\"",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/colombia-debe-evaluar-si-necesita-una-ley-o-un-decreto-para-las-compensaciones-4502796",
-        "published_date": "2026-10-14 17:01:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Beware of fake bills!They seize $290 million and a kilo of drugs in Villa Campestre;They search for the occupants of the apartment",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/ojo-con-los-billetes-falsos-incautan-290-millones-y-un-kilo-de-droga-en-villa-campestre-buscan-a-los-ocupantes-del-apartamento-3593584",
-        "published_date": "2026-10-14 16:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "They investigate the murder of the leader Luz Deisy Pe\u00f1afiel in the south of Cauca: she was attacked with a firearm in the municipality of Santa Rosa",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/investigan-el-asesinato-de-la-lideresa-luz-deisy-penafiel-en-el-sur-del-cauca-fue-atacada-con-arma-de-fuego-en-el-municipio-de-santa-rosa-3593557",
-        "published_date": "2026-10-14 16:26:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "They report that an ANT official had cooked an armadillo, a protected wild species;They ask for government intervention",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/denuncian-que-un-funcionario-de-la-ant-habria-cocinado-un-armadillo-especie-silvestre-protegida-piden-intervencion-del-gobierno-3593573",
-        "published_date": "2026-10-14 15:47:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "Juan de Acosta, Tubar\u00e1, Ponedera and six other municipalities in the Atlantic are in a dengue outbreak: this is the campaign to stop the mosquito",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/juan-de-acosta-tubara-ponedera-y-otros-seis-municipios-del-atlantico-estan-en-brote-de-dengue-asi-es-la-campana-para-frenar-al-mosquito-3593571",
-        "published_date": "2026-10-14 15:33:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "CAR proposes stricter environmental offsets to protect water",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/la-car-propone-compensaciones-ambientales-mas-estrictas-para-proteger-el-agua-4502704",
-        "published_date": "2026-10-14 15:28:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Talent and female leadership: Cartagena already has a manager for the public company that will manage the Gran Malec\u00f3n del Mar",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/talento-y-liderazgo-femenino-cartagena-ya-tiene-gerente-para-la-empresa-publica-que-administrara-el-gran-malecon-del-mar-3593558",
-        "published_date": "2026-10-14 15:06:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "Consumer confidence rose to 15.7% in September, but household perception fell",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/indice-de-confianza-al-consumidor-en-septiembre-de-2026-entregado-por-fedesarrollo-4502556",
-        "published_date": "2026-10-14 13:56:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Abelardo has already signed the decree that modifies the rules for the protest",
+        "title": "98% of the marches passed peacefully: De la Espriella",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/abelardo-ya-firmo-el-decreto-que-modifica-las-reglas-para-la-protesta/",
-        "published_date": "2026-10-14 13:27:05",
+        "url": "https://www.lasillavacia.com/en-vivo/98-de-las-marchas-transcurrieron-de-manera-pacifica-de-la-espriella/",
+        "published_date": "2026-10-15 14:56:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "The 35 entities that the Comptroller's Office closed due to inconsistencies in their financial statements",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/las-35-entidades-que-recibieron-opinion-negativa-de-la-contraloria-sobre-sus-estados-financieros-4503318",
+        "published_date": "2026-10-15 14:05:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "The United States will send \u201chundreds\u201d of soldiers to Latin America: NYT",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/estados-unidos-enviara-cientos-de-soldados-a-latinoamerica-nyt/",
+        "published_date": "2026-10-15 13:50:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "IDU completed the dismantling of the eastern side of the Seventh and 100th Street bridge",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/idu-termino-el-desmonte-del-costado-oriental-del-puente-de-la-septima-con-calle-100-4503340",
+        "published_date": "2026-10-15 13:06:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "After the marches: the reorganization of the social movement",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/luego-de-las-marchas-la-reorganizacion-del-movimiento-social/",
+        "published_date": "2026-10-15 12:44:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "Breakfast informed with the movements of this October 15, 2026",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-movidas-de-este-15-de-octubre-de-2026/",
+        "published_date": "2026-10-15 12:20:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The El Ni\u00f1o phenomenon in Bogot\u00e1 is going to be difficult",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-cachaca/el-fenomeno-de-el-nino-en-bogota-va-a-ser-dificil/",
+        "published_date": "2026-10-15 12:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "They capture the alleged person responsible for murdering Esteban Ram\u00edrez, a Coca-Cola sales manager who was shot during a robbery in Medell\u00edn",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/capturan-en-medellin-al-presunto-responsable-de-asesinar-a-esteban-ramirez-jefe-de-ventas-de-coca-cola-que-recibio-disparo-durante-un-robo-3593722",
+        "published_date": "2026-10-15 10:00:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "The bus attacked by armed men on the Pan-American Highway was from an Ecuadorian company: it left La Guajira towards Peru",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/el-bus-atacado-por-hombres-armados-en-la-via-panamericana-era-de-una-empresa-ecuatoriana-salio-de-la-guajira-hacia-peru-3593727",
+        "published_date": "2026-10-15 09:59:54",
+        "category": "Local Events"
+    },
+    {
+        "title": "Given the advance of the El Ni\u00f1o Phenomenon, ANLA authorized urgent hydraulic works in El Laguito, a body of water that threatens to disappear in Cartagena",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/ante-avance-del-fenomeno-de-el-nino-anla-autorizo-obras-hidraulicas-urgentes-en-el-laguito-cuerpo-de-agua-que-amenaza-con-desaparecer-en-cartagena-3593711",
+        "published_date": "2026-10-15 08:43:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tragedy on the Pan-American Highway: what is known about the robbery and armed attack on a bus that left four dead, including a minor, and 56 injured",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/tragedia-en-la-via-panamericana-dos-mujeres-un-hombre-y-un-menor-victimas-fatales-y-56-heridos-tras-atraco-y-ataque-que-causo-volcamiento-de-bus-3593693",
+        "published_date": "2026-10-15 08:27:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tragedy in Bucaramanga: an environmental engineer who suffered serious burns in a renowned restaurant in Cabecera died",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/tragedia-en-bucaramanga-murio-ingeniera-ambiental-que-sufrio-graves-quemaduras-en-un-restaurante-reconocido-de-cabecera-3593692",
+        "published_date": "2026-10-15 07:58:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "103 young chess players from 18 departments and Bogot\u00e1 will compete in Barranquilla in the final of the VIII Caribbean Wheel Chess Tournament",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/103-jovenes-ajedrecistas-de-18-departamentos-y-bogota-disputaran-en-barranquilla-la-final-del-viii-torneo-de-ajedrez-del-caribe-a-la-rueda-rueda-3593696",
+        "published_date": "2026-10-15 07:30:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "Two months after the earthquake in Cali: 'The number of buildings to be demolished could reach up to 150,' said Mayor Alejandro Eder",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/dos-meses-tras-el-terremoto-en-cali-el-numero-de-edificios-por-demoler-podria-llegar-hasta-los-150-dijo-el-alcalde-alejandro-eder-3593690",
+        "published_date": "2026-10-15 07:07:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "Israel: from Colombia's ally to Abelardo's reference",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/israel-de-aliado-de-colombia-a-referente-de-abelardo/",
+        "published_date": "2026-10-15 05:30:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "National environmental authorities propose reforming compensation",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/autoridades-ambientales-plantean-reformar-compensaciones-en-esta-area-4503082",
+        "published_date": "2026-10-15 05:04:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "Academics and companies propose a map to direct resources to ecosystems",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/academicos-y-empresas-proponen-mapa-para-orientar-recursos-a-ecosistemas-4503073",
+        "published_date": "2026-10-15 05:04:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cJust because it is raining does not mean that we have already passed the El Ni\u00f1o phenomenon\u201d",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/entrevista-con-alfred-ballesteros-director-de-la-car-cundinamarca-sobre-la-situacion-ambiental-y-hidrologica-4503055",
+        "published_date": "2026-10-15 05:03:32",
         "category": "Local Events"
     }
 ]
