@@ -140,6 +140,27 @@
         "category": "Diplomacy"
     },
     {
+        "title": "The 23-year-old man captured and the new clues for the explosion against police officers in Cali: the status of five injured uniformed officers is reported",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/el-hombre-de-23-anos-capturado-y-las-nuevas-pistas-por-la-explosion-contra-policias-en-cali-reportan-el-estado-de-cinco-uniformados-heridos-3593971",
+        "published_date": "2026-10-16 08:22:06",
+        "category": "Military"
+    },
+    {
+        "title": "Early morning operation in Barranquilla leaves 56 captured and 34 raids: president announces offensive against five gangs",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/operacion-de-madrugada-en-barranquilla-deja-56-capturados-y-34-allanamientos-presidente-anuncia-ofensiva-contra-cinco-bandas-3593981",
+        "published_date": "2026-10-16 08:08:13",
+        "category": "Military"
+    },
+    {
+        "title": "Terror in eastern Cali: five police officers were injured after the launch of an explosive device",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/terror-en-el-oriente-de-cali-cinco-policias-resultaron-heridos-tras-el-lanzamiento-de-un-artefacto-explosivo-3593949",
+        "published_date": "2026-10-16 04:25:46",
+        "category": "Military"
+    },
+    {
         "title": "'Four armed men go out to shoot a bus on the Pan-American highway and the driver loses control;We reiterate the call to the Government'",
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/cali/cuatro-hombres-armados-salen-a-hacer-disparos-a-un-bus-en-la-via-panamericana-y-el-conductor-pierde-el-control-reiteramos-el-llamado-al-gobierno-3593829",
@@ -256,27 +277,6 @@
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/cali/desde-el-cauca-le-piden-al-presidente-abelardo-de-la-espriella-que-visite-el-departamento-en-medio-de-la-crisis-de-seguridad-y-la-escalada-violenta-3593081",
         "published_date": "2026-10-12 20:55:37",
-        "category": "Military"
-    },
-    {
-        "title": "More than 1.3 million vehicles moved through Antioquia during the festive long weekend at the end of the school break: there were more than 25 accidents",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/mas-de-1-3-millones-de-vehiculos-se-movilizaron-por-antioquia-durante-el-puente-festivo-del-fin-del-receso-escolar-hubo-mas-de-25-accidentes-3593075",
-        "published_date": "2026-10-12 20:42:07",
-        "category": "Military"
-    },
-    {
-        "title": "Abelardo changes colonel of the Santa Marta Police after the escape of 41 detainees",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/abelardo-cambia-coronel-de-la-policia-de-santa-marta-tras-fuga-de-41-detenidos/",
-        "published_date": "2026-10-12 16:47:12",
-        "category": "Military"
-    },
-    {
-        "title": "Escape in Santa Marta: three fugitives surrender and one is captured;40 detainees are transferred to the Rodrigo de Bastidas prison",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/fuga-en-santa-marta-tres-profugos-se-entregan-y-uno-es-capturado-trasladan-a-40-detenidos-a-la-carcel-rodrigo-de-bastidas-3593031",
-        "published_date": "2026-10-12 16:45:46",
         "category": "Military"
     },
     {
@@ -420,6 +420,13 @@
         "category": "Energy"
     },
     {
+        "title": "Ministry of Finance declared a new contingency on the information platform",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/secretaria-de-hacienda-declaro-nueva-contingencia-en-plataforma-de-informacion-exogena-4504017",
+        "published_date": "2026-10-16 01:22:41",
+        "category": "Economy"
+    },
+    {
         "title": "G\u00f3mez warned about $17 billion in sentences that the previous government did not pay",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/gomez-defendio-el-presupuesto-y-advirtio-por-un-pasivo-de-17-billones-por-sentencias-4503769",
@@ -539,164 +546,143 @@
         "category": "Economy"
     },
     {
-        "title": "Basic inflation, without food or energy, also returned to levels from two years ago",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/inflacion-basica-sin-alimentos-ni-energeticos-tambien-regreso-a-niveles-de-hace-dos-anos-4499257",
-        "published_date": "2026-10-08 13:43:34",
-        "category": "Economy"
+        "title": "From Cali to Armenia: who decides on the future of Colombian biodiversity?",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-verde/de-cali-a-armenia-quien-decide-sobre-el-futuro-de-la-biodiversidad-colombiana/",
+        "published_date": "2026-10-16 14:32:29",
+        "category": "Local Events"
     },
     {
-        "title": "Cost of living rose to two-year highs with inflation of 6.29% in September",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/el-costo-de-vida-subio-hasta-maximos-de-dos-anos-con-inflacion-de-6-29-4498539",
-        "published_date": "2026-10-08 05:03:40",
-        "category": "Economy"
+        "title": "\u201cIt cannot be a political operation\u201d: Abelardo on journalism",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/no-puede-ser-una-operacion-politica-abelardo-sobre-el-periodismo/",
+        "published_date": "2026-10-16 14:01:17",
+        "category": "Local Events"
     },
     {
-        "title": "MinHacienda has endorsement to request loans from KfW and finance Budget 2026",
+        "title": "Attack on Inpec: message of power or local weakness?",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/ataque-al-inpec-mensaje-de-poder-o-debilidad-local/",
+        "published_date": "2026-10-16 12:57:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Government appointed \u00c1lvaro Jos\u00e9 Cifuentes as the new Vice Minister of Education",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/minhacienda-tiene-aval-para-pedir-creditos-a-kfw-y-financiar-presupuesto-2026-4499127",
-        "published_date": "2026-10-08 01:54:44",
-        "category": "Economy"
+        "url": "https://www.larepublica.co/economia/alvaro-jose-cifuentes-fue-nombrado-como-viceministro-de-educacion-preescolar-basica-y-media-4504225",
+        "published_date": "2026-10-16 12:55:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "Breakfast informed with the movements of this October 16, 2026",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-movidas-de-este-16-de-octubre-de-2026/",
+        "published_date": "2026-10-16 12:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Opacity in the Miracle Fund",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/la-opacidad-en-el-fondo-milagro/",
+        "published_date": "2026-10-16 12:22:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "IMF warns that Colombia's primary deficit is very high and is no longer sustainable",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/fmi-advierte-que-deficit-primario-de-colombia-es-muy-alto-y-no-es-sostenible-4504196",
+        "published_date": "2026-10-16 12:04:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "She was Janeth Su\u00e1rez, the renowned environmental engineer who died after suffering burns in a famous restaurant in Bucaramanga.",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/ella-era-janeth-suarez-la-reconocida-ingeniera-ambiental-que-murio-tras-sufrir-quemaduras-en-un-famoso-restaurante-de-bucaramanga-3594007",
+        "published_date": "2026-10-16 09:26:42",
+        "category": "Local Events"
+    },
+    {
+        "title": "ANLA orders a public environmental hearing to debate the expansion of the Rafael N\u00fa\u00f1ez International Airport in Cartagena",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/anla-ordena-una-audiencia-publica-ambiental-para-debatir-sobre-la-ampliacion-del-aeropuerto-internacional-rafael-nunez-en-cartagena-3594014",
+        "published_date": "2026-10-16 09:25:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "Outrage over a young man who was discriminated against after arriving at a Junior game in flip flops: 'I saved $2,000 by $2,000 to be able to go'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/indignacion-por-joven-que-fue-discriminado-tra-llegar-a-un-partido-del-junior-en-chanclas-ahorre-de-a-2-000-en-2-000-para-poder-ir-3594006",
+        "published_date": "2026-10-16 09:22:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "A kidnapped engineer is rescued in Santa Marta: nine people were arrested when they demanded $50 million for his release",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/rescatan-en-santa-marta-a-ingeniero-secuestrado-nueve-personas-fueron-detenidas-cuando-exigian-50-millones-por-su-liberacion-3594000",
+        "published_date": "2026-10-16 08:48:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tremor today in Colombia |New earthquake of 4.1 magnitude reported in Choc\u00f3 the morning of this Friday, October 16: depth, epicenter and details",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-hoy-en-colombia-reportan-nuevo-sismo-de-4-1-de-magnitud-en-choco-la-manana-de-este-viernes-16-de-octubre-profundidad-epicentro-y-detalles-3593996",
+        "published_date": "2026-10-16 08:31:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "Heartbreaking account of the assistant of the bus that crashed on the Pan-American highway after shooting: transportation company revealed details of the route the vehicle took",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/desgarrador-relato-del-ayudante-del-bus-accidentado-en-via-panamericana-tras-disparos-empresa-de-transporte-revelo-detalles-de-ruta-que-tomo-vehiculo-3593985",
+        "published_date": "2026-10-16 08:22:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "PHOTOS |The DAVIarena, the new events center in the Aburr\u00e1 Valley, reached 97.4% of its construction and is finalizing details for its grand opening",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/fotos-el-daviarena-el-nuevo-centro-de-eventos-del-valle-de-aburra-alcanzo-el-97-4-de-su-construccion-y-ultima-detalles-para-su-gran-inauguracion-3593933",
+        "published_date": "2026-10-16 07:15:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Abelardo's approval in the survey falls and that of his rivals rises",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/aprobacion-de-abelardo-en-encuesta-cae-y-sube-la-de-sus-rivales/",
+        "published_date": "2026-10-16 06:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The number of young NEETs reached its lowest level since 2017, with 2.33 million",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/el-numero-de-jovenes-ninis-alcanzo-su-nivel-mas-bajo-en-casi-una-decada-4503982",
+        "published_date": "2026-10-16 05:03:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "Five out of 10 Colombians believe that the economy will improve in the next six months",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/cinco-de-cada-10-colombianos-cree-que-la-economia-mejorara-en-seis-meses-4503975",
+        "published_date": "2026-10-16 05:03:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "ANI and Dian are among the 35 entities that are split due to their financial statements",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/la-ani-y-la-dian-entre-las-35-entidades-que-se-rajan-por-sus-estados-financieros-4503978",
+        "published_date": "2026-10-16 05:00:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "\"My government is and will always continue to be a guarantor in relation to the press\"",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/abelardo-de-la-espriella-sobre-la-libertad-de-prensa-4504013",
+        "published_date": "2026-10-16 01:02:14",
+        "category": "Local Events"
     },
     {
         "title": "Government ordered the dismantling of more than 30 works from the National Museum",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/silla-nacional/gobierno-ordeno-desmontar-mas-de-30-obras-del-museo-nacional/",
         "published_date": "2026-10-16 00:20:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sleep informed with the keys for this October 15, 2026",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-claves-de-este-15-de-octubre-de-2026/",
-        "published_date": "2026-10-16 00:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Budget discussion will be done against the clock, next week is final",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/discusion-del-presupuesto-se-hara-a-contra-reloj-la-proxima-semana-es-definitiva-4503992",
-        "published_date": "2026-10-15 23:53:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "Colombian delegation met with El Salvador to talk about megaprisons",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/comitiva-colombiana-se-reunio-con-el-salvador-para-hablar-de-megacarceles/",
-        "published_date": "2026-10-15 23:48:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "Conserve beyond not deforesting: interview with indigenous leader Rosal\u00eda Le\u00f3n",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/conservar-mas-alla-de-no-deforestar-entrevista-a-lideresa-indigena-rosalia-leon/",
-        "published_date": "2026-10-15 23:21:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "Chamber postponed the second Budget debate due to lack of quorum",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/camara-aplazo-el-segundo-debate-del-presupuesto-por-falta-de-quorum/",
-        "published_date": "2026-10-15 22:57:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "As La Silla anticipated, MinAmbiente confirms that it wants to end Fondo para la Vida",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/como-lo-previo-la-silla-minambiente-confirma-que-quiere-acabar-fondo-para-la-vida/",
-        "published_date": "2026-10-15 22:03:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Emcali will acquire the Salvajina hydroelectric plant from Celsia Colombia",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/eder-confirma-que-emcali-adquirira-la-central-hidroelectrica-salvajina-a-celsia-4503755",
-        "published_date": "2026-10-15 20:35:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Abelardo will change the name of MinCultura and explains cultural battle",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/abelardo-le-cambiara-el-nombre-al-mincultura-y-explica-batalla-cultural/",
-        "published_date": "2026-10-15 20:35:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ferrer Case: the veracity of journalism requires more than just publishing",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/caso-ferrer-la-veracidad-del-periodismo-exige-mas-que-solo-publicar/",
-        "published_date": "2026-10-15 20:22:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Gal\u00e1n begins work to expand the North Highway to six lanes",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/galan-da-inicio-a-las-obras-de-ampliacion-a-seis-carriles-de-la-autopista-norte-4503609",
-        "published_date": "2026-10-15 20:14:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Government of Espriella announced change of name of the Ministry of Culture",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/gobierno-de-la-espriella-anuncio-cambio-de-nombre-del-ministerio-de-cultura-4503751",
-        "published_date": "2026-10-15 20:12:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "Issuer has purchased US$1,096 million since August to accumulate reserves",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/emisor-ha-comprado-us-1-039-millones-desde-agosto-para-acumular-reservas-4503646",
-        "published_date": "2026-10-15 18:46:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "Going to Ryan Castro's concert in Cali and looking for safe transportation?The MIO announced the activation of three special routes",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/va-al-concierto-de-ryan-castro-en-cali-y-busca-transporte-seguro-el-mio-anuncio-la-activacion-de-tres-rutas-especiales-3593881",
-        "published_date": "2026-10-15 17:42:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "If you are a high school graduate from a rural public school in C\u00f3rdoba, there are 14 places for you: this is how registration for Medicine works in Unic\u00f3rdoba",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/si-es-bachiller-de-un-colegio-publico-rural-de-cordoba-hay-14-cupos-para-usted-asi-funcionan-las-inscripciones-para-medicina-en-unicordoba-3593873",
-        "published_date": "2026-10-15 17:07:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "Barranquilla: Junior fans attacked sports venues and vandalized players' vehicles;They broke windows and painted threats",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-hinchas-del-junior-atacaron-sede-deportiva-y-vandalizaron-vehiculos-de-jugadores-rompieron-vidrios-y-pintaron-amenazas-3593860",
-        "published_date": "2026-10-15 16:17:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Port Guild of Cartagena consolidates its position as the leader of the sector with 27.1 million tons moved, and an increase of 7.7% compared to 2025",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/gremio-portuario-de-cartagena-se-consolida-en-la-cabeza-de-sector-con-27-1-millones-de-toneladas-movilizadas-e-incremento-del-7-7-respecto-a-3593835",
-        "published_date": "2026-10-15 15:46:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cali will have an exclusive team to maintain and modernize its traffic light network starting in January 2027",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/cali-contara-con-un-equipo-exclusivo-para-mantener-y-modernizar-su-red-semaforica-a-partir-de-enero-de-3593846",
-        "published_date": "2026-10-15 15:20:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "Judge in Mo\u00efse case asks to clarify resources of accused former Colombian soldiers",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/jueza-de-caso-moise-pide-aclarar-recursos-de-exmilitares-colombianos-acusados/",
-        "published_date": "2026-10-15 15:10:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Milagro Fund will open with $624,000 million and will begin with home demolitions",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/fondo-milagro-abrira-con-624-000-millones-e-iniciara-con-demoliciones-de-viviendas-4503465",
-        "published_date": "2026-10-15 15:04:09",
         "category": "Local Events"
     }
 ]
