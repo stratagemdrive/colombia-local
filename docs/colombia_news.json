@@ -1,5 +1,19 @@
 [
     {
+        "title": "Nine out of every 10 tons of rice imported come from the United States",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/nueve-de-cada-10-toneladas-de-arroz-que-se-importan-provienen-de-estados-unidos-4504928",
+        "published_date": "2026-10-17 05:01:44",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Former mayor of Jamund\u00ed, Andr\u00e9s Felipe Ram\u00edrez, spoke out after the attack in which his bodyguard was murdered in Valle del Cauca: 'I am miraculously alive'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/exalcalde-de-jamundi-andres-felipe-ramirez-se-pronuncio-tras-atentado-en-el-que-asesinaron-a-su-escolta-en-valle-del-cauca-estoy-vivo-de-milagro-3594234",
+        "published_date": "2026-10-17 03:50:00",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Director of the ANT spoke out after the resignation of the official who appeared on video cooking an armadillo: 'No one is above the law'",
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/otras-ciudades/directora-de-la-ant-se-pronuncio-tras-la-renuncia-del-funcionario-que-aparecio-en-video-cocinando-un-armadillo-nadie-esta-por-encima-de-la-ley-3594160",
@@ -126,13 +140,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Colombia adhered to the Geneva Consensus, which is against abortion",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/colombia-adhirio-al-consenso-de-ginebra-que-esta-en-contra-del-aborto/",
-        "published_date": "2026-10-09 13:12:30",
-        "category": "Diplomacy"
-    },
-    {
         "title": "Esmad returns: Police signed the resolution that replaces the Undmo",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/vuelve-el-esmad-policia-firmo-la-resolucion-que-reemplaza-la-undmo/",
@@ -151,6 +158,13 @@
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/detector-de-mentiras/enganoso/este-video-del-esmad-fue-grabado-hace-anos-en-tunja-no-es-de-marchas-recientes/",
         "published_date": "2026-10-16 20:54:04",
+        "category": "Military"
+    },
+    {
+        "title": "The alarm over the alleged removal of two bodies of street residents in Cali ended up being a pedagogical activity by the Police",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/la-alarma-por-el-levantamiento-de-dos-supuestos-cuerpos-de-habitantes-de-calle-en-cali-termino-siendo-una-actividad-pedagogica-de-la-policia-3594205",
+        "published_date": "2026-10-16 20:39:44",
         "category": "Military"
     },
     {
@@ -266,11 +280,18 @@
         "category": "Military"
     },
     {
-        "title": "This is how the criminal control that alias Bet\u00fan wove for two decades in commune 6 of Buenaventura worked",
+        "title": "They dismantle an alleged hitman gang in Caldas: they found Santeria altars and lists with possible names of the victims",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/asi-funcionaba-el-control-criminal-que-alias-betun-tejio-durante-dos-decadas-en-la-comuna-6-de-buenaventura-3593162",
-        "published_date": "2026-10-13 09:44:24",
-        "category": "Military"
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/desarticulan-presunta-banda-sicarial-en-caldas-encontraron-altares-de-santeria-y-presuntas-listas-con-nombres-de-las-victimas-3594229",
+        "published_date": "2026-10-17 05:48:51",
+        "category": "Energy"
+    },
+    {
+        "title": "\u201cFracking will require an investment of between US$10,000 and more than US$15,000 million\u201d",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/entrevista-con-lover-rodriguez-director-de-la-asociacion-colombiana-de-geologos-y-geofisicos-de-la-energia-sobre-el-costo-del-fracking-4503668",
+        "published_date": "2026-10-17 05:01:56",
+        "category": "Energy"
     },
     {
         "title": "Video |Plan for Cali to acquire one of the largest hydroelectric plants in the country and thus generate energy: 'It will not cost the people of Cali a single peso'",
@@ -399,20 +420,6 @@
         "category": "Energy"
     },
     {
-        "title": "Government proposes addressing criminal mining as an illegal financing activity",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/gobierno-propone-abordar-la-mineria-criminal-como-actividad-de-financiacion-de-grupos-armados-4501208",
-        "published_date": "2026-10-11 18:49:41",
-        "category": "Energy"
-    },
-    {
-        "title": "Attack with explosives and rifle rounds against a military base in Torib\u00edo, Cauca: five villages remain confined",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/ataque-con-explosivos-y-rafagas-de-fusil-contra-base-militar-en-toribio-cauca-cinco-veredas-permanecen-confinadas-3592896",
-        "published_date": "2026-10-11 11:46:07",
-        "category": "Energy"
-    },
-    {
         "title": "New president of the CUT will defend the living wage in the negotiation of the minimum",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/nuevo-presidente-de-la-cut-defendera-el-salario-vital-en-la-negociacion-del-minimo-4505003",
@@ -504,32 +511,67 @@
         "category": "Economy"
     },
     {
-        "title": "Ending coal is easy, but not the economy that exists around it",
+        "title": "The intersections of interests of Abelardo's environmental team and other news",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/acabar-con-el-carbon-es-sencillo-pero-no-la-economia-que-existe-alrededor/",
-        "published_date": "2026-10-09 14:00:00",
-        "category": "Economy"
+        "url": "https://www.lasillavacia.com/en-vivo/los-cruces-de-intereses-del-equipo-ambiental-de-abelardo-y-otras-noticias/",
+        "published_date": "2026-10-17 13:00:00",
+        "category": "Local Events"
     },
     {
-        "title": "External debt reached US$255,632 million in July, equivalent to 50.1% of GDP",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/deuda-externa-alcanzo-us-255-632-millones-en-julio-equivale-a-50-1-del-pib-4499998",
-        "published_date": "2026-10-09 13:49:08",
-        "category": "Economy"
+        "title": "The official story",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/opinion/la-historia-oficial/",
+        "published_date": "2026-10-17 13:00:00",
+        "category": "Local Events"
     },
     {
-        "title": "From a business trip to five days of hell: a Mexican citizen kidnapped by a gang of extortionists is released in Cali",
+        "title": "They attack Judge Lemaitre because they cannot attack her work",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/opinion/atacan-a-la-magistrada-lemaitre-porque-no-pueden-atacar-su-trabajo/",
+        "published_date": "2026-10-17 13:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cartago returns to uncertainty: Court orders the temporary suspension of the elected mayor Juan David Piedrah\u00edta",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/de-un-viaje-de-negocios-a-cinco-dias-de-infierno-liberan-en-cali-a-un-ciudadano-mexicano-secuestrado-por-una-banda-de-extorsionadores-3592532",
-        "published_date": "2026-10-09 11:28:55",
-        "category": "Economy"
+        "url": "https://www.eltiempo.com/colombia/cali/cartago-vuelve-a-la-incertidumbre-tribunal-ordena-la-suspension-temporal-del-alcalde-electo-juan-david-piedrahita-3594242",
+        "published_date": "2026-10-17 08:18:51",
+        "category": "Local Events"
     },
     {
-        "title": "The unions see a possible increase in the minimum wage for 2027 between 8% and 9.5%",
+        "title": "Bus belonging to the musical group of Alexis Escobar and other artists from Antioquia overturned on the Ruta del Sol: the accident occurred in Cundinamarca",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/bus-de-la-agrupacion-musical-de-alexis-escobar-y-otros-artistas-de-antioquia-se-volco-en-la-ruta-del-sol-el-accidente-ocurrio-en-cundinamarca-3594238",
+        "published_date": "2026-10-17 07:32:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Attorney General's Office formulated a statement of charges against the director (e) of the Itag\u00fc\u00ed prison, Antioquia, and five Inpec officials for Vallenata party",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/la-procuraduria-formulo-pliego-de-cargos-contra-el-director-e-de-la-carcel-de-itaguei-antioquia-y-seis-funcionarios-del-inpec-por-fiesta-vallenata-3594236",
+        "published_date": "2026-10-17 07:17:32",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Anti-Terrorist Statute must be reformed to respect the Constitution",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/el-estatuto-antiterrorista-debe-reformarse-para-respetar-la-constitucion/",
+        "published_date": "2026-10-17 05:05:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Even with the October downpours, the reservoirs do not exceed 75% full",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/gremios-ven-una-posible-alza-del-salario-minimo-de-2027-entre-8-y-9-5-4499694",
-        "published_date": "2026-10-09 05:03:18",
-        "category": "Economy"
+        "url": "https://www.larepublica.co/economia/aun-con-los-aguaceros-de-octubre-los-embalses-no-superan-75-de-llenado-4504902",
+        "published_date": "2026-10-17 05:00:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "Foreign Direct Investment reached US$885 million and grew 44% in September",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/inversion-extranjera-directa-alcanzo-us-885-millones-y-crecio-44-en-septiembre-4505170",
+        "published_date": "2026-10-17 02:23:07",
+        "category": "Local Events"
     },
     {
         "title": "Minister of Education requested to repeal the National Intersectoral Sexuality Policy",
@@ -560,6 +602,20 @@
         "category": "Local Events"
     },
     {
+        "title": "Hitman attack against the former mayor of Jamund\u00ed, Andr\u00e9s Felipe Ram\u00edrez, leaves his bodyguard murdered: they offer up to $100 million for those responsible",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/atencion-atentado-sicarial-contra-el-exalcalde-de-jamundi-andres-felipe-ramirez-deja-un-escolta-asesinado-3594221",
+        "published_date": "2026-10-16 23:22:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Hitman attack against a merchant on the Piedecuesta-Floridablanca road, Santander, caused the crash and fire of a vehicle that left six injured",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/ataque-sicarial-contra-comerciante-en-la-via-piedecuesta-floridablanca-santander-provoco-el-choque-e-incendio-de-un-vehiculo-que-dejo-seis-heridos-3594228",
+        "published_date": "2026-10-16 23:11:00",
+        "category": "Local Events"
+    },
+    {
         "title": "Carlos Meisel's decentralizing referendum has already started its process",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/referendo-descentralizador-de-carlos-meisel-ya-arranco-su-tramite/",
@@ -574,6 +630,13 @@
         "category": "Local Events"
     },
     {
+        "title": "Erasing Carlos Pizarro will not erase our violent history",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/borrar-a-carlos-pizarro-no-borrara-nuestra-historia-violenta/",
+        "published_date": "2026-10-16 21:58:27",
+        "category": "Local Events"
+    },
+    {
         "title": "Andi called for more investment and confidence in the face of contraction in the manufacturing industry",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/andi-pidio-mas-inversion-y-confianza-ante-contraccion-de-la-industria-manufacturera-4504782",
@@ -585,90 +648,6 @@
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/a-octubre-fundacion-de-primera-dama-ha-recaudado-54-mil-millones/",
         "published_date": "2026-10-16 21:49:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "The reform against jam runs the risk of legalizing clientelism",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/la-reforma-contra-la-mermelada-corre-el-riesgo-de-legalizar-el-clientelismo/",
-        "published_date": "2026-10-16 21:37:31",
-        "category": "Local Events"
-    },
-    {
-        "title": "Analysts predict an increase of 25 basis points in the monetary policy rate",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/analistas-preven-un-alza-de-25-puntos-basicos-en-la-tasa-de-politica-monetaria-4504617",
-        "published_date": "2026-10-16 19:01:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "Some Facts About the U.S.Jungle Operations Training Course in Panama",
-        "source": "Adam Isacson",
-        "url": "https://adamisacson.com/some-facts-about-the-u-s-jungle-operations-training-course-in-panama/",
-        "published_date": "2026-10-16 18:29:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Caja de la Naci\u00f3n recovered at the end of September due to the restart of TES auctions",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/caja-de-la-nacion-se-recupero-al-cierre-de-septiembre-por-el-reinicio-de-las-subastas-de-tes-4504575",
-        "published_date": "2026-10-16 18:11:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "Presto clarified what will happen to its restaurants after entering into judicial liquidation and revealed until when they will remain open",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/presto-aclaro-que-pasara-con-sus-restaurantes-tras-entrar-en-liquidacion-judicial-y-revelo-hasta-cuando-seguiran-abiertos-3594141",
-        "published_date": "2026-10-16 17:41:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Acoset will open dialogues with the new government to combat illegal labor outsourcing",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/acoset-abrira-dialogos-con-el-nuevo-gobierno-para-combatir-la-tercerizacion-laboral-ilegal-4504489",
-        "published_date": "2026-10-16 17:03:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "Manufacturing industry fell 3.7% in August and recorded its worst result so far this year",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/resultados-de-la-encuesta-mensual-manufacturera-de-agosto-del-dane-4504422",
-        "published_date": "2026-10-16 16:16:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Accommodation income fell 11.8% and hotel occupancy fell to 49.2%",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/resultados-de-la-encuesta-mensual-de-alojamiento-del-dane-de-agosto-4504448",
-        "published_date": "2026-10-16 15:58:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "Industrial production fell to -1.2% in August, the largest drop in 16 months",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/produccion-industrial-retrocedio-1-2-en-agosto-la-mayor-caida-en-16-meses-4504402",
-        "published_date": "2026-10-16 15:52:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "Retail sales rose 7.3% in August, driven by vehicles",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/comportamiento-del-comercio-en-agosto-de-2026-4504399",
-        "published_date": "2026-10-16 15:51:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "After murdering her husband in the middle of an argument, a young woman in Boyac\u00e1 will have to pay 20 years in prison",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/tras-asesinar-a-su-esposo-en-medio-de-una-discusion-una-joven-en-boyaca-tendra-que-pagar-20-anos-de-prision-3594132",
-        "published_date": "2026-10-16 15:39:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "From Cali to Armenia: who decides on the future of Colombian biodiversity?",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-verde/de-cali-a-armenia-quien-decide-sobre-el-futuro-de-la-biodiversidad-colombiana/",
-        "published_date": "2026-10-16 14:32:29",
         "category": "Local Events"
     }
 ]
