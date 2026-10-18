@@ -119,6 +119,20 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Two years after Perseus, the Micay Canyon still needs to be recovered",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/a-dos-anos-de-perseo-aun-falta-recuperar-el-canon-del-micay/",
+        "published_date": "2026-10-18 13:00:00",
+        "category": "Military"
+    },
+    {
+        "title": "Company of the burned bus reported extortion charges and a kidnapping by the ELN: 'We know who the bandits are,' said governor of Santander",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/empresa-del-bus-incinerado-denuncio-cobros-de-extorsiones-y-un-secuestro-por-el-eln-sabemos-quienes-son-los-bandidos-dijo-gobernador-de-santander-3594398",
+        "published_date": "2026-10-18 09:09:56",
+        "category": "Military"
+    },
+    {
         "title": "The invisible geographies of violence: an unavoidable agenda",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/red-de-expertos/red-de-las-mujeres/las-geografias-invisibles-de-la-violencia-una-agenda-ineludible/",
@@ -242,20 +256,6 @@
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/cali/terror-en-palmira-asi-funcionaba-los-sayayines-la-banda-que-atracaba-de-noche-a-civiles-policias-y-funcionarios-de-la-unp-3593624",
         "published_date": "2026-10-14 18:21:50",
-        "category": "Military"
-    },
-    {
-        "title": "'In Cali we monitor the march, as well as the entrances and exits of the city with the Police Halc\u00f3n helicopter': they enable passage on 5th Street",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/en-cali-monitoreamos-la-marcha-asi-como-las-entradas-y-salidas-de-la-ciudad-con-el-helicoptero-halcon-de-la-policia-habilitan-paso-en-la-calle-3593577",
-        "published_date": "2026-10-14 16:53:24",
-        "category": "Military"
-    },
-    {
-        "title": "Two minors surrendered to the Army in Nari\u00f1o after escaping from the FARC dissidents",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/dos-menores-de-edad-se-entregaron-al-ejercito-en-narino-tras-escapar-de-las-disidencias-de-las-farc-3593597",
-        "published_date": "2026-10-14 16:39:56",
         "category": "Military"
     },
     {
@@ -483,11 +483,67 @@
         "category": "Economy"
     },
     {
-        "title": "The country's external debt reached US$255,632 million as of July",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/la-deuda-externa-del-pais-llego-hasta-los-us-255-632-millones-con-corte-a-julio-4500794",
-        "published_date": "2026-10-10 05:01:57",
-        "category": "Economy"
+        "title": "The approaches of the Abelardo government with unions",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/los-acercamientos-del-gobierno-con-sindicatos/",
+        "published_date": "2026-10-18 14:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Licenses and queries in parallel: a shortcut that does not shorten the path",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-verde/licencias-y-consultas-en-paralelo-un-atajo-que-no-acorta-el-camino/",
+        "published_date": "2026-10-18 14:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Start Sunday with this selection of opinion columns",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/arranque-el-domingo-con-esta-seleccion-de-columnas-de-opinion-28/",
+        "published_date": "2026-10-18 12:58:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "1949: The year Colombian democracy collapsed.",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/podcasts/1949-el-ano-en-que-la-democracia-colombiana-colapso/",
+        "published_date": "2026-10-18 11:29:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "They offer a $50 million reward for an attack with explosives in Popay\u00e1n that left two injured",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/ofrecen-50-millones-de-recompensa-por-atentado-con-explosivos-en-popayan-que-dejo-dos-heridos-3594393",
+        "published_date": "2026-10-18 08:04:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "This is how the 'Gulf clan' was modernized: they capture in Urab\u00e1 a ringleader who used Starlink internet to coordinate extortions",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/asi-se-modernizo-el-clan-del-golfo-capturan-en-uraba-a-cabecilla-que-usaba-internet-starlink-para-coordinar-extorsiones-3594388",
+        "published_date": "2026-10-18 07:26:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Chronicle from the alternate capital: Abelardo puts Barranquilla in the center of Colombia",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/cronica-desde-la-capital-alterna-abelardo-pone-a-barranquilla-en-el-centro-de-colombia/",
+        "published_date": "2026-10-18 06:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "'The motorcycle is almost entering the family basket': Jos\u00e9 Stalin Rojas / Reina Interview",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/la-moto-esta-entrando-casi-en-la-canasta-familiar-jose-stalin-rojas-entrevista-reina-3594369",
+        "published_date": "2026-10-17 23:44:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Getting a rental home, a drama for thousands of Colombians: high prices and little supply",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/conseguir-una-vivienda-en-arriendo-un-drama-para-miles-de-colombianos-precios-altos-y-poca-oferta-3594336",
+        "published_date": "2026-10-17 23:01:00",
+        "category": "Local Events"
     },
     {
         "title": "Workers' confederations will go to the agreement of the 2027 minimum with a proposal of 38.5%",
@@ -564,69 +620,6 @@
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/barranquilla/incautan-en-barranquilla-3-043-articulos-importados-sin-soportes-por-mas-de-675-millones-habia-consolas-drones-y-accesorios-tecnologicos-en-bodega-3594318",
         "published_date": "2026-10-17 17:01:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Deja Vu: this is what the National Museum looked like before the pieces were dismantled",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/deja-vu-asi-era-el-museo-nacional-antes-del-desmonte-de-piezas/",
-        "published_date": "2026-10-17 16:57:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "'A miracle': Senator Duvalier S\u00e1nchez revealed the distressing moments in which the former mayor of Jamund\u00ed survived a hitman attack",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/un-milagro-el-senador-duvalier-sanchez-revelo-los-angustiantes-momentos-en-que-el-exalcalde-de-jamundi-sobrevivio-a-un-atentado-sicarial-3594315",
-        "published_date": "2026-10-17 16:32:40",
-        "category": "Local Events"
-    },
-    {
-        "title": "Shocking account of a witness of the tragedy in a restaurant that led to the death of an engineer in Bucaramanga: 'I still hear her screams'",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/estremecedor-relato-de-una-testigo-de-la-tragedia-en-un-restaurante-que-condujo-a-la-muerte-de-una-ingeniera-en-bucaramanga-aun-escucho-sus-gritos-3594319",
-        "published_date": "2026-10-17 16:31:07",
-        "category": "Local Events"
-    },
-    {
-        "title": "MinEducaci\u00f3n calls for overturning the sexual and reproductive education policy",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/mineducacion-pide-tumbar-politica-de-educacion-sexual-y-reproductiva/",
-        "published_date": "2026-10-17 16:20:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Works on section 1 of the new Calle 13 exceeded 50% progress after the implosion",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/avances-de-la-nueva-calle-13-4505410",
-        "published_date": "2026-10-17 15:43:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "Atlantic|Santa Ver\u00f3nica recovers 2.1 kilometers of coast after an investment of almost $94,000 million to stop erosion and reactivate tourism",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/santa-veronica-recupera-2-1-kilometros-de-costa-tras-inversion-de-casi-94-000-millones-para-frenar-la-erosion-y-reactivar-el-turismo-en-el-atlantico-3594308",
-        "published_date": "2026-10-17 15:01:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tremor today in Colombia, October 17: 3.2 magnitude earthquake reported in Tolima;This is known from the seismic movement",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-hoy-en-colombia-17-de-octubre-reportan-sismo-de-magnitud-3-2-en-tolima-esto-se-sabe-del-movimiento-sismico-3594312",
-        "published_date": "2026-10-17 14:51:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "Former mayor of Jamund\u00ed was unharmed by the attack.His UNP escort died",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/exalcalde-de-jamundi-salio-ileso-de-un-atentado-murio-su-escolta-de-la-unp/",
-        "published_date": "2026-10-17 14:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "'The bandits who have hit the island of San Andr\u00e9s have finished the party!': the investments in the archipelago announced by De La Espriella",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/a-los-bandidos-que-tienen-azotada-la-isla-de-san-andres-se-les-acabo-la-fiesta-las-inversiones-en-el-archipielago-anunciadas-por-de-la-espriella-3594307",
-        "published_date": "2026-10-17 14:15:53",
         "category": "Local Events"
     }
 ]
