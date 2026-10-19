@@ -1,5 +1,12 @@
 [
     {
+        "title": "An older adult was denied boarding a bus with his dog in El Santuario, Antioquia;company spoke out and apologized",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/a-un-adulto-mayor-le-negaron-subirse-a-un-bus-con-su-perro-en-el-santuario-antioquia-empresa-se-pronuncio-y-ofrecio-disculpas-3594461",
+        "published_date": "2026-10-18 18:14:41",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Nine out of every 10 tons of rice imported come from the United States",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/nueve-de-cada-10-toneladas-de-arroz-que-se-importan-provienen-de-estados-unidos-4504928",
@@ -123,6 +130,13 @@
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/a-dos-anos-de-perseo-aun-falta-recuperar-el-canon-del-micay/",
         "published_date": "2026-10-18 13:00:00",
+        "category": "Military"
+    },
+    {
+        "title": "The Army thwarts an ELN attack against the El Cerrej\u00f3n railway in La Guajira: it deactivated an explosive in an area of \u200b\u200bthe municipality of Maicao",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/el-ejercito-frustra-un-atentado-del-eln-contra-la-via-ferrea-de-el-cerrejon-en-la-guajira-desactivo-un-explosivo-en-una-zona-del-municipio-de-maicao-3594409",
+        "published_date": "2026-10-18 10:31:32",
         "category": "Military"
     },
     {
@@ -252,11 +266,11 @@
         "category": "Military"
     },
     {
-        "title": "Terror in Palmira: this is how 'the Sayayines' worked, the gang that robbed civilians, police and UNP officials at night",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/terror-en-palmira-asi-funcionaba-los-sayayines-la-banda-que-atracaba-de-noche-a-civiles-policias-y-funcionarios-de-la-unp-3593624",
-        "published_date": "2026-10-14 18:21:50",
-        "category": "Military"
+        "title": "A world in debt",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/un-mundo-endeudado/",
+        "published_date": "2026-10-18 13:00:00",
+        "category": "Energy"
     },
     {
         "title": "They dismantle an alleged hitman gang in Caldas: they found Santeria altars and lists with possible names of the victims",
@@ -392,13 +406,6 @@
         "category": "Energy"
     },
     {
-        "title": "La Silla responds to Enrique G\u00f3mez's request to Ecopetrol",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/la-silla-responde-a-la-solicitud-de-enrique-gomez-a-ecopetrol/",
-        "published_date": "2026-10-12 19:54:47",
-        "category": "Energy"
-    },
-    {
         "title": "New president of the CUT will defend the living wage in the negotiation of the minimum",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/nuevo-presidente-de-la-cut-defendera-el-salario-vital-en-la-negociacion-del-minimo-4505003",
@@ -483,6 +490,83 @@
         "category": "Economy"
     },
     {
+        "title": "Esmad disperses protesters in front of the National Museum",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/esmad-dispersa-a-manifestantes-frente-al-museo-nacional/",
+        "published_date": "2026-10-18 21:59:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "MinVivienda denounced unfinished works contracted by the Duque government",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/minvivienda-denuncio-obras-inconclusas-contratadas-por-el-gobierno-duque/",
+        "published_date": "2026-10-18 21:37:25",
+        "category": "Local Events"
+    },
+    {
+        "title": "How can you not aspire to be \u201cwoke\u201d?",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/como-no-aspirar-a-ser-woke/",
+        "published_date": "2026-10-18 20:07:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "Without money for restorative justice, the Submission Law is in danger",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/sin-plata-para-la-justicia-restaurativa-la-ley-de-sometimiento-peligra/",
+        "published_date": "2026-10-18 19:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "De La Espriella points to governor and representative of San Andr\u00e9s",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/de-la-espriella-intimida-a-gobernadora-y-representante-de-san-andres/",
+        "published_date": "2026-10-18 18:39:17",
+        "category": "Local Events"
+    },
+    {
+        "title": "Before tightening the pockets of Colombians, let's stop the bleeding of corruption",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/antes-de-apretar-el-bolsillo-de-los-colombianos-frenemos-el-desangre-de-la-corrupcion/",
+        "published_date": "2026-10-18 17:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Who are Girley Ord\u00f3\u00f1ez Bowie, the governor of San Andr\u00e9s, and Congresswoman Elizabeth Jay-Pang D\u00edaz, from President De La Espriella's confrontation?",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/quienes-son-girley-ordonez-bowie-la-gobernadora-de-san-andres-y-la-congresista-elizabeth-jay-pang-diaz-del-careo-del-presidente-de-la-espriella-3594418",
+        "published_date": "2026-10-18 16:45:56",
+        "category": "Local Events"
+    },
+    {
+        "title": "Medell\u00edn promotes the tourism of the future: more than 9,000 providers are betting on formality and artificial intelligence",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/medellin-impulsa-el-turismo-del-futuro-mas-de-9-000-prestadores-le-apuestan-a-la-formalidad-y-la-inteligencia-artificial-3594447",
+        "published_date": "2026-10-18 16:07:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "ACSA debt for pending works at the Cortissoz airport exceeds $147,000 million, according to documents reviewed by the State Auditor General",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/deuda-de-acsa-por-obras-pendientes-en-el-aeropuerto-cortissoz-supera-147-000-millones-segun-documentos-revisados-por-la-auditoria-general-del-estado-3594438",
+        "published_date": "2026-10-18 15:17:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The royalty budget still does not reflect the vision of Patria Milagro",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/el-presupuesto-de-regalias-aun-no-refleja-la-vision-de-la-patria-milagro/",
+        "published_date": "2026-10-18 15:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Videos |Moments of anguish due to drones loaded with explosives in Norte de Santander: 'There are people moving to the head of the city and another is trapped!'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/videos-momentos-de-angustia-por-drones-cargados-con-explosivos-en-norte-de-santander-hay-gente-desplazandose-a-la-cabecera-y-otra-esta-atrapada-3594436",
+        "published_date": "2026-10-18 14:54:08",
+        "category": "Local Events"
+    },
+    {
         "title": "The approaches of the Abelardo government with unions",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/los-acercamientos-del-gobierno-con-sindicatos/",
@@ -497,10 +581,24 @@
         "category": "Local Events"
     },
     {
+        "title": "Selective homicides, disappearances and threats: the complex panorama of violence surrounding the attack against the former mayor of Jamund\u00ed",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/homicidios-selectivos-desapariciones-y-amenazas-el-complejo-panorama-de-violencia-que-rodea-el-atentado-contra-el-exalcalde-de-jamundi-3594434",
+        "published_date": "2026-10-18 13:17:13",
+        "category": "Local Events"
+    },
+    {
         "title": "Start Sunday with this selection of opinion columns",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/arranque-el-domingo-con-esta-seleccion-de-columnas-de-opinion-28/",
         "published_date": "2026-10-18 12:58:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Rains in Atl\u00e1ntico cause emergencies in Soledad and Galapa: a taxi was swept away and six sectors reported flooding after heavy local downpour",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/lluvias-en-atlantico-causan-emergencias-en-soledad-y-galapa-un-taxi-fue-arrastrado-y-seis-sectores-reportaron-inundaciones-tras-fuerte-aguacero-local-3594429",
+        "published_date": "2026-10-18 12:11:43",
         "category": "Local Events"
     },
     {
@@ -511,115 +609,24 @@
         "category": "Local Events"
     },
     {
+        "title": "'I am aware of your husband's business and I am not going to allow it': harsh confrontation from President De La Espriella to the Representative and Governor of San Andr\u00e9s",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/estoy-enterado-de-negocios-de-su-marido-y-no-lo-voy-a-permitir-duro-careo-de-presidente-de-la-espriella-a-representante-y-gobernadora-de-san-andres-3594412",
+        "published_date": "2026-10-18 11:24:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ernesto Cortissoz Airport: this is how the works are progressing in the international rooms that are already seeking to speed up Migration before the final of the Sudamericana",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/aeropuerto-ernesto-cortissoz-asi-avanzan-las-obras-en-las-salas-internacionales-que-ya-buscan-agilizar-migracion-antes-de-la-final-de-la-sudamericana-3594416",
+        "published_date": "2026-10-18 10:40:46",
+        "category": "Local Events"
+    },
+    {
         "title": "They offer a $50 million reward for an attack with explosives in Popay\u00e1n that left two injured",
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/cali/ofrecen-50-millones-de-recompensa-por-atentado-con-explosivos-en-popayan-que-dejo-dos-heridos-3594393",
         "published_date": "2026-10-18 08:04:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "This is how the 'Gulf clan' was modernized: they capture in Urab\u00e1 a ringleader who used Starlink internet to coordinate extortions",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/asi-se-modernizo-el-clan-del-golfo-capturan-en-uraba-a-cabecilla-que-usaba-internet-starlink-para-coordinar-extorsiones-3594388",
-        "published_date": "2026-10-18 07:26:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Chronicle from the alternate capital: Abelardo puts Barranquilla in the center of Colombia",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/cronica-desde-la-capital-alterna-abelardo-pone-a-barranquilla-en-el-centro-de-colombia/",
-        "published_date": "2026-10-18 06:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "'The motorcycle is almost entering the family basket': Jos\u00e9 Stalin Rojas / Reina Interview",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/la-moto-esta-entrando-casi-en-la-canasta-familiar-jose-stalin-rojas-entrevista-reina-3594369",
-        "published_date": "2026-10-17 23:44:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Getting a rental home, a drama for thousands of Colombians: high prices and little supply",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/conseguir-una-vivienda-en-arriendo-un-drama-para-miles-de-colombianos-precios-altos-y-poca-oferta-3594336",
-        "published_date": "2026-10-17 23:01:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Workers' confederations will go to the agreement of the 2027 minimum with a proposal of 38.5%",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/centrales-obreras-iran-a-la-concertacion-del-minimo-con-propuesta-de-38-5-4505522",
-        "published_date": "2026-10-17 22:46:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ecuador will once again transport Colombian crude oil through the Sote and Osla pipelines",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/ecuador-volvera-a-transportar-crudo-colombiano-por-oleductos-sote-y-osla-4505504",
-        "published_date": "2026-10-17 22:19:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Nelson Alarc\u00f3n arrives at the CUT with the minimum wage as a priority",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/nelson-alarcon-llega-a-la-cut-con-el-salario-minimo-como-prioridad/",
-        "published_date": "2026-10-17 22:15:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "National Museum: there is no longer a trace of the works and the sit-in advances",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/museo-nacional-ya-no-queda-rastro-de-las-obras-y-avanza-el-planton/",
-        "published_date": "2026-10-17 21:42:03",
-        "category": "Local Events"
-    },
-    {
-        "title": "Thermal plants have a generation gap of 17 GWh/day compared to XM's suggestion",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/termicas-tienen-brecha-de-generacion-de-17-gwh-dia-frente-a-sugerencia-de-xm-4505441",
-        "published_date": "2026-10-17 21:32:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "The National Museum: prison or reconciliation with the past",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/opinion/el-museo-nacional-carcel-o-reconciliacion-con-el-pasado/",
-        "published_date": "2026-10-17 20:20:57",
-        "category": "Local Events"
-    },
-    {
-        "title": "This is how Abelardo's approval goes in the polls",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/opinion/asi-le-va-a-abelardo-en-la-primera-encuesta-despues-de-su-posesion/",
-        "published_date": "2026-10-17 20:14:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ungrd: Court will call former Public Credit congressmen to trial",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/ungrd-corte-llamara-a-juicio-a-excongresistas-de-credito-publico/",
-        "published_date": "2026-10-17 19:48:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "This is how Cartagena will protect its Varadero corals, the best kept secret of science in the Caribbean",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/asi-protegera-cartagena-a-sus-corales-de-varadero-el-secreto-mejor-guardado-de-la-ciencia-en-el-caribe-3594180",
-        "published_date": "2026-10-17 19:01:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Government announced $35,000 million for housing and water in San Andr\u00e9s and Providencia",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/gobierno-anuncio-35-000-millones-para-vivienda-y-agua-en-san-andres-y-providencia-4505425",
-        "published_date": "2026-10-17 17:13:59",
-        "category": "Local Events"
-    },
-    {
-        "title": "They seized in Barranquilla 3,043 imported items without supports for more than $675 million: there were consoles, drones and technological accessories in the warehouse",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/incautan-en-barranquilla-3-043-articulos-importados-sin-soportes-por-mas-de-675-millones-habia-consolas-drones-y-accesorios-tecnologicos-en-bodega-3594318",
-        "published_date": "2026-10-17 17:01:00",
         "category": "Local Events"
     }
 ]
