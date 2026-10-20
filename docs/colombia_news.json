@@ -119,11 +119,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Girls DO EXIST: October 11, International Day of the Girl",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/las-ninas-si-existen-11-de-octubre-dia-internacional-de-la-nina/",
-        "published_date": "2026-10-11 22:12:24",
-        "category": "Diplomacy"
+        "title": "A resident of El Carmen, Norte de Santander, removed a cylinder marked with the initials of the ELN that had been on the road for a week",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/habitante-de-el-carmen-norte-de-santander-retiro-un-cilindro-sospechoso-marcado-con-las-siglas-del-eln-que-llevaba-una-semana-en-la-via-3594767",
+        "published_date": "2026-10-19 19:40:48",
+        "category": "Military"
     },
     {
         "title": "MinInterior defended Esmad's intervention in a sit-in at the National Museum",
@@ -259,11 +259,18 @@
         "category": "Military"
     },
     {
-        "title": "Terror in eastern Cali: five police officers were injured after the launch of an explosive device",
+        "title": "\u201cLet everything be known\u201d: Petro denies Mancuso's statements",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/que-se-conozca-todo-petro-niega-declaraciones-de-mancuso/",
+        "published_date": "2026-10-19 23:28:13",
+        "category": "Energy"
+    },
+    {
+        "title": "The death toll rises to 14 in an artisanal gold mine in Santa B\u00e1rbara de Iscuand\u00e9, Nari\u00f1o: there are another seven people injured",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/terror-en-el-oriente-de-cali-cinco-policias-resultaron-heridos-tras-el-lanzamiento-de-un-artefacto-explosivo-3593949",
-        "published_date": "2026-10-16 04:25:46",
-        "category": "Military"
+        "url": "https://www.eltiempo.com/colombia/cali/a-14-ascienden-los-muertos-en-una-mina-artesanal-de-oro-en-santa-barbara-de-iscuande-narino-hay-otras-siete-personas-heridas-3594786",
+        "published_date": "2026-10-19 19:46:59",
+        "category": "Energy"
     },
     {
         "title": "Government reiterates austerity in travel, virtuality and lower airfares are prioritized",
@@ -392,20 +399,6 @@
         "category": "Energy"
     },
     {
-        "title": "Government spending triples investment and leaves debt at 8.5% of GDP",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/gasto-de-gobierno-triplica-inversion-y-deja-endeudamiento-en-8-5-del-pib-4501886",
-        "published_date": "2026-10-13 18:09:30",
-        "category": "Energy"
-    },
-    {
-        "title": "Acolgen asked to save energy and shield the thermal backup to avoid rationing",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/acolgen-pidio-ahorrar-energia-y-blindar-el-respaldo-termico-para-evitar-racionamiento-4501780",
-        "published_date": "2026-10-13 14:33:54",
-        "category": "Energy"
-    },
-    {
         "title": "Coffee exports fell 13.8% in September, hit by the depreciation of the dollar",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/exportaciones-de-cafe-cayeron-13-8-a-septiembre-golpeadas-por-depreciacion-del-dolar-4506171",
@@ -490,11 +483,116 @@
         "category": "Economy"
     },
     {
-        "title": "With union proposals close to 9%, discussion of the minimum advances",
+        "title": "Sleep informed with the movements of this October 19, 2026",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/con-propuestas-de-gremios-cercanas-al-9-avanza-discusion-del-minimo/",
-        "published_date": "2026-10-11 21:59:09",
-        "category": "Economy"
+        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-movidas-de-este-19-de-octubre-de-2026/",
+        "published_date": "2026-10-20 00:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Due to lack of quorum, House postpones budget debate to 8 p.m.",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/por-falta-de-quorum-camara-aplaza-debate-del-presupuesto-para-las-8-p-m/",
+        "published_date": "2026-10-19 22:50:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cThe Miracle Fund was not delayed\u201d: governor of Choc\u00f3, Nubia C\u00f3rdoba",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/el-fondo-milagro-no-se-demoro-gobernadora-del-choco-nubia-cordoba/",
+        "published_date": "2026-10-19 22:12:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "The challenge in conserving and marketing the In\u00edrida flower: Consonant",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/el-reto-en-conservar-y-comercializar-la-flor-de-inirida-consonante/",
+        "published_date": "2026-10-19 22:04:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "Consul in Miami goes to the inauguration of a church allied to the government",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/consul-en-miami-va-a-inauguracion-de-iglesia-aliada-al-gobierno/",
+        "published_date": "2026-10-19 21:37:49",
+        "category": "Local Events"
+    },
+    {
+        "title": "Defender: protest decree opens the way to \u201clight interpretations\u201d",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/defensora-decreto-de-protestas-abre-paso-a-interpretaciones-ligeras/",
+        "published_date": "2026-10-19 21:21:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "Prosecutor's Office investigates Lina Garrido for requirements to direct the ANT",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/procuraduria-investiga-a-lina-garrido-por-requisitos-para-dirigir-la-ant/",
+        "published_date": "2026-10-19 20:14:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "Woman reports alleged physical assault by her father-in-law in a shopping center in Cali: 'He told me that he had a lot of power because he works with the State'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/mujer-denuncia-presunta-agresion-fisica-de-su-suegro-en-un-centro-comercial-de-cali-me-dijo-que-tenia-mucho-poder-porque-trabaja-con-el-estado-3594756",
+        "published_date": "2026-10-19 20:00:57",
+        "category": "Local Events"
+    },
+    {
+        "title": "We are looking for more SuperFriends like the man from the airport",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/opinion/de-la-direccion/buscamos-mas-superamigos-como-el-senor-del-aeropuerto/",
+        "published_date": "2026-10-19 20:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Sillat\u00f3n 2026: our annual donation campaign starts",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/sillaton-2026-arranca-nuestra-campana-anual-de-donaciones/",
+        "published_date": "2026-10-19 19:40:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "Government announced plan to order planting and protect rice producers",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/gobierno-anuncio-plan-para-ordenar-siembras-y-proteger-a-los-productores-de-arroz-4506053",
+        "published_date": "2026-10-19 19:33:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "This is how the penultimate day of discussion of the 2027 Budget progresses in the Senate plenary session",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/asi-avanza-el-penultimo-dia-de-discusion-del-presupuesto-en-la-plenaria-de-senado-4506248",
+        "published_date": "2026-10-19 19:26:37",
+        "category": "Local Events"
+    },
+    {
+        "title": "Forest fire reported in Villa de Leyva, Boyac\u00e1: the emergency occurs in the upper part of the Boquer\u00f3n sector",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/reportan-incendio-en-forestal-en-villa-de-leyva-boyaca-la-emergencia-se-presenta-en-la-parte-alta-del-sector-de-boqueron-3594778",
+        "published_date": "2026-10-19 19:18:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "Andi warned about the decline in agriculture, industry and construction in August",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/andi-alerto-por-el-retroceso-del-agro-la-industria-y-la-construccion-en-agosto-4506300",
+        "published_date": "2026-10-19 19:09:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "Alejandro Char thanks Abelardo De La Espriella for the support of $300,000 million to recover Bocas de Ceniza in Barranquilla",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/alejandro-char-agradece-a-abelardo-de-la-espriella-el-respaldo-de-300-000-millones-para-recuperar-bocas-de-ceniza-en-barranquilla-3594752",
+        "published_date": "2026-10-19 18:08:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "The first six bodies are rescued after the fatal collapse in the Santa B\u00e1rbara de Iscuand\u00e9 mine, Nari\u00f1o: a woman was identified among the victims",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/rescatan-los-primeros-seis-cuerpos-tras-el-fatal-derrumbe-en-mina-de-santa-barbara-de-iscuande-una-mujer-fue-identificada-entre-las-victimas-3594739",
+        "published_date": "2026-10-19 17:28:44",
+        "category": "Local Events"
     },
     {
         "title": "In the National Museum the cultural battle went beyond the Constitution",
@@ -511,129 +609,17 @@
         "category": "Local Events"
     },
     {
+        "title": "The drama that doctors live in San Andr\u00e9s Islas: the other side of the coin after the 'confrontation' between De La Espriella, governor and congressman",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/el-drama-que-viven-los-medicos-en-san-andres-islas-la-otra-cara-de-la-moneda-tras-el-careo-entre-de-la-espriella-gobernadora-y-congresista-3594728",
+        "published_date": "2026-10-19 16:59:29",
+        "category": "Local Events"
+    },
+    {
         "title": "Who decides what is exhibited in Colombia's museums: the dispute over the National Museum",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/red-de-expertos/red-social/quien-decide-lo-que-se-expone-en-los-museos-de-colombia/",
         "published_date": "2026-10-19 16:43:29",
-        "category": "Local Events"
-    },
-    {
-        "title": "The MinTrabajo agenda: an affront to unions and workers",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/la-agenda-del-mintrabajo-una-afrenta-a-sindicatos-y-trabajadores/",
-        "published_date": "2026-10-19 16:41:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "Corficolombiana proposes to follow the technical rule and increase minimum wage 8% by 2027",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/corficolombiana-propone-seguir-regla-tecnica-para-aumentar-el-salario-minimo-8-4506131",
-        "published_date": "2026-10-19 16:23:13",
-        "category": "Local Events"
-    },
-    {
-        "title": "Economy Monitoring Indicator had its worst record since 2025",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/el-indicador-de-seguimiento-de-la-economia-de-agosto-tuvo-su-peor-registro-desde-abril-de-2025-4506070",
-        "published_date": "2026-10-19 15:34:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "Abelardo spoke with a Democrat who criticized him for electoral interference",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/abelardo-hablo-con-democrata-que-lo-critico-por-injerencia-electoral/",
-        "published_date": "2026-10-19 14:59:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "Abelardo will decree the delimitation of San Andr\u00e9s and reopen the dispute with Nicaragua",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/abelardo-decretara-delimitacion-de-san-andres-y-reabre-disputa-con-nicaragua/",
-        "published_date": "2026-10-19 14:13:34",
-        "category": "Local Events"
-    },
-    {
-        "title": "Abelardo de la Espriella announced health infrastructure in Choc\u00f3",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/abelardo-de-la-espriella-anuncio-infraestructura-para-mejorar-atencion-en-salud-en-choco-4505877",
-        "published_date": "2026-10-19 12:46:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Have an informed breakfast with the keys for this October 19, 2026",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-claves-de-este-19-de-octubre-de-2026/",
-        "published_date": "2026-10-19 12:18:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Yahir Acu\u00f1a: Prosecutor's Office files case for $487 million seized in 2015 and orders the return of the resources",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/yahir-acuna-fiscalia-archiva-caso-por-487-millones-incautados-en-2015-y-ordena-devolver-los-recursos-3594635",
-        "published_date": "2026-10-19 12:04:35",
-        "category": "Local Events"
-    },
-    {
-        "title": "What is behind the incineration of the cleaning truck in Popay\u00e1n and the explosives on the Pan-American highway in Cauca?",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/que-hay-detras-de-la-incineracion-del-camion-de-aseo-en-popayan-y-los-explosivos-en-la-via-panamericana-en-cauca-3594631",
-        "published_date": "2026-10-19 11:58:08",
-        "category": "Local Events"
-    },
-    {
-        "title": "VIDEO |Tesla Cybertruck truck, valued at more than 600 million pesos, crashed into a light pole in eastern Antioquia",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/video-camioneta-cybertruck-de-tesla-avaluada-en-mas-600-millones-de-pesos-choco-contra-un-poste-de-luz-en-el-oriente-de-antioquia-3594580",
-        "published_date": "2026-10-19 11:35:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tomorrow is the deadline for the Congress of the Republic to approve the 2027 Budget",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/manana-vence-el-plazo-para-que-el-congreso-de-la-republica-apruebe-el-presupuesto-de-2027-4505803",
-        "published_date": "2026-10-19 11:26:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "'It cannot be that differences are resolved with violence;'my friend died': Andr\u00e9s Felipe Ram\u00edrez recounted the hard moments of the attack",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/no-puede-ser-que-las-diferencias-se-resuelvan-con-violencia-murio-mi-amigo-andres-felipe-ramirez-relato-los-duros-momentos-del-atentado-3594588",
-        "published_date": "2026-10-19 11:23:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mixtures, adulteration and misinformation: the dynamics and risks behind substance consumption at electronic music festivals in Colombia",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/mezclas-adulteracion-y-desinformacion-las-dinamicas-y-riesgos-detras-del-consumo-de-sustancias-en-festivales-de-musica-electronica-en-colombia-3594303",
-        "published_date": "2026-10-19 11:16:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "The crisis at the San Andr\u00e9s hospital that unleashed the clash between De La Espriella, the governor and a representative: they speak from the island",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/la-crisis-del-hospital-de-san-andres-que-desato-el-choque-entre-de-la-espriella-la-gobernadora-y-una-representante-hablan-desde-la-isla-3594581",
-        "published_date": "2026-10-19 10:22:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Foreign tourist recovered gold chain that had been taken from him in the Historic Center of Cartagena",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/turista-extranjero-recupero-cadena-de-oro-que-le-habia-sido-arrebatada-en-pleno-centro-historico-de-cartagena-3594585",
-        "published_date": "2026-10-19 10:10:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "These are the five most wanted in Bucaramanga: they reveal the cartel of the most dangerous after the capture of alias 'Julito', the most feared hitman",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/estos-son-los-cinco-mas-buscados-de-bucaramanga-revelan-el-cartel-de-los-mas-peligrosos-luego-de-la-captura-de-alias-julito-el-sicario-mas-temido-3594572",
-        "published_date": "2026-10-19 09:41:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "Christmas and the El Ni\u00f1o phenomenon would take the kilowatt above $800",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/la-navidad-y-el-fenomeno-de-el-nino-llevarian-el-kilovatio-a-mas-de-800-4505372",
-        "published_date": "2026-10-19 05:03:39",
         "category": "Local Events"
     }
 ]
