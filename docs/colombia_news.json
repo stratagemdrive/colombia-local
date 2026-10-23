@@ -1,5 +1,12 @@
 [
     {
+        "title": "Chancellor Bula inflated the titles on his resume, says investigation",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/canciller-bula-inflo-los-titulos-de-su-hoja-de-vida-dice-investigacion/",
+        "published_date": "2026-10-23 14:25:49",
+        "category": "Diplomacy"
+    },
+    {
         "title": "The US removed visas from Ricardo Roa, Yahir Acu\u00f1a and those linked to Ungrd",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/ee-uu-quito-visas-a-ricardo-roa-yahir-acuna-y-vinculados-a-ungrd/",
@@ -105,11 +112,25 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Governor of Choc\u00f3, Nubia Carolina C\u00f3rdoba, spoke after an attack with a swarm of drones against a military base in San Jos\u00e9 del Palmar: 'Siege'",
+        "title": "Viviane Morales returns to the government as peace commissioner",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/viviane-morales-vuelve-al-gobierno-como-comisionada-de-paz/",
+        "published_date": "2026-10-23 13:26:38",
+        "category": "Military"
+    },
+    {
+        "title": "Night of anxiety in Corinto: FARC dissidents patrolled the streets armed and paralyzed commerce",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/gobernadora-del-choco-nubia-carolina-cordoba-se-pronuncio-tras-ataque-con-enjambre-de-drones-contra-base-militar-en-san-jose-del-palmar-asedio-3593686",
-        "published_date": "2026-10-15 06:55:00",
-        "category": "Diplomacy"
+        "url": "https://www.eltiempo.com/colombia/cali/noche-de-zozobra-en-corinto-disidencias-de-las-farc-patrullaron-armadas-las-calles-y-paralizaron-el-comercio-3595774",
+        "published_date": "2026-10-23 09:57:13",
+        "category": "Military"
+    },
+    {
+        "title": "A 66-year-old man would have taken advantage of the distraction during a community bingo in Tulu\u00e1 to sexually harass a 7-year-old minor",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/un-hombre-de-66-anos-habria-aprovechado-la-distraccion-durante-un-bingo-comunitario-en-tulua-para-someter-a-vejamenes-sexuales-a-una-menor-de-7-anos-3595745",
+        "published_date": "2026-10-23 09:50:21",
+        "category": "Military"
     },
     {
         "title": "Clash between police and Yukpa indigenous people in the north of Barranquilla: three officials from the Mayor's Office were attacked",
@@ -231,31 +252,31 @@
         "category": "Military"
     },
     {
-        "title": "Rum advertising: Abelardo toasted the Navy with his liquor brand",
+        "title": "Government makes budget cut official by $13.8 billion by 2026",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/publicidad-al-ron-abelardo-brindo-con-la-armada-con-su-marca-de-licor/",
-        "published_date": "2026-10-20 14:11:09",
-        "category": "Military"
+        "url": "https://www.lasillavacia.com/en-vivo/gobierno-oficializa-recorte-del-presupuesto-en-138-billones-para-2026/",
+        "published_date": "2026-10-23 12:18:13",
+        "category": "Energy"
     },
     {
-        "title": "Police live the drama of serving and protecting while rebuilding their homes affected by the earthquake and recent windstorms in the Valley",
+        "title": "Cartagena: in the El Cabrero neighborhood the works of 'Coastal Defense 2050' against marine erosion begin",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/policias-viven-el-drama-de-servir-y-proteger-mientras-reconstruyen-sus-viviendas-afectadas-por-el-terremoto-y-los-recientes-vendavales-en-el-valle-3594854",
-        "published_date": "2026-10-20 08:20:35",
-        "category": "Military"
-    },
-    {
-        "title": "A resident of El Carmen, Norte de Santander, removed a cylinder marked with the initials of the ELN that had been on the road for a week",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/habitante-de-el-carmen-norte-de-santander-retiro-un-cilindro-sospechoso-marcado-con-las-siglas-del-eln-que-llevaba-una-semana-en-la-via-3594767",
-        "published_date": "2026-10-19 19:40:48",
-        "category": "Military"
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/cartagena-en-el-barrio-el-cabrero-inician-las-obras-de-defensa-costera-2050-contra-la-erosion-marina-3595740",
+        "published_date": "2026-10-23 08:47:38",
+        "category": "Energy"
     },
     {
         "title": "Influencer from Carlos Su\u00e1rez's orbit rectifies false statements about the family of the director of La Silla Vac\u00eda",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/influencer-de-la-orbita-de-carlos-suarez-rectifica-mentiras-sobre-la-silla-vacia-y-su-directora/",
         "published_date": "2026-10-22 21:48:09",
+        "category": "Energy"
+    },
+    {
+        "title": "Fiscal deficit between January and August reached 4.6% of GDP, equivalent to $91.2 billion",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/deficit-fiscal-llego-a-4-6-del-pib-con-corte-a-agosto-equivalente-a-91-billones-4508726",
+        "published_date": "2026-10-22 17:43:47",
         "category": "Energy"
     },
     {
@@ -371,25 +392,32 @@
         "category": "Energy"
     },
     {
-        "title": "Economic activity falls 0.04% annually, the first since April 2025",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/actividad-economica-cae-004-anual-la-primera-desde-abril-de-2025/",
-        "published_date": "2026-10-19 15:43:59",
-        "category": "Energy"
-    },
-    {
-        "title": "Ecopetrol activates and strengthens national gas production to face shortages",
+        "title": "The legislative team of the Treasury leaves after an error in the Budget process",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/ecopetrol-activa-produccion-de-gas-nacional-para-enfrentar-desabastecimiento-4505853",
-        "published_date": "2026-10-19 12:44:51",
-        "category": "Energy"
+        "url": "https://www.larepublica.co/economia/sale-el-equipo-legislativo-de-hacienda-tras-error-en-el-tramite-del-presupuesto-4509648",
+        "published_date": "2026-10-23 15:31:00",
+        "category": "Economy"
     },
     {
-        "title": "A world in debt",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/un-mundo-endeudado/",
-        "published_date": "2026-10-18 13:00:00",
-        "category": "Energy"
+        "title": "The fiscal deficit expanded to 4.6% of GDP as of August and has already managed to exceed the total record of 2023",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/el-deficit-fiscal-se-expandio-a-4-6-del-pib-a-agosto-y-ya-supero-al-registro-total-de-2023-4509036",
+        "published_date": "2026-10-23 05:01:29",
+        "category": "Economy"
+    },
+    {
+        "title": "\u201cThe devaluation of the dollar has cost coffee growers almost $2 billion in exports\u201d",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/inside-lr-con-gustavo-gomez-presidente-de-asoexport-sobre-el-impacto-de-la-devaluacion-del-dolar-4508563",
+        "published_date": "2026-10-23 05:01:13",
+        "category": "Economy"
+    },
+    {
+        "title": "Fiscal deficit reached 4.7% of GDP in August and interest consumes 28% of the collection",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/deficit-fiscal-llego-a-4-7-del-pib-a-agosto-y-los-intereses-consumen-28-del-recaudo-tributario-4508903",
+        "published_date": "2026-10-22 20:05:40",
+        "category": "Economy"
     },
     {
         "title": "The first stop of Abelardo's Budget complicates his relationship with Congress",
@@ -469,18 +497,123 @@
         "category": "Economy"
     },
     {
-        "title": "Bogot\u00e1 Treasury Secretariat enabled 60% discounts on debt interest",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/secretaria-de-hacienda-de-bogota-habilito-descuentos-de-60-en-intereses-de-deudas-4503305",
-        "published_date": "2026-10-15 12:21:36",
-        "category": "Economy"
+        "title": "Differences in criteria: Abelardo to Lara after dismissal from MinInterior",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/diferencias-de-criterio-abelardo-a-lara-tras-despido-de-mininterior/",
+        "published_date": "2026-10-23 15:19:53",
+        "category": "Local Events"
     },
     {
-        "title": "Chamber Plenary will begin the second debate on the 2027 General Budget",
+        "title": "Debris management in Cali needs urgent environmental control",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-verde/el-manejo-de-escombros-en-cali-necesita-control-ambiental-urgente/",
+        "published_date": "2026-10-23 15:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Minister of Mines repeals the resolutions that delimit the Mining Districts",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/plenaria-de-camara-dara-inicio-a-segundo-debate-de-presupuesto-este-jueves-a-las-9-00-a-m-4503231",
-        "published_date": "2026-10-15 01:59:03",
-        "category": "Economy"
+        "url": "https://www.larepublica.co/economia/ministra-de-minas-derogo-las-resoluciones-que-delimitaban-los-distritos-mineros-4509579",
+        "published_date": "2026-10-23 14:27:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "Connection of the El Cercado dam will supply water to 45,000 people in La Guajira",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/conexion-de-la-represa-el-cercado-abastecera-de-agua-a-45-000-habitantes-en-la-guajira-4509499",
+        "published_date": "2026-10-23 13:16:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cut of $13.8 billion to the 2026 PGN includes $4 billion to debt service",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/gobierno-recorto-13-8-billones-al-presupuesto-general-de-la-nacion-de-2026-4509412",
+        "published_date": "2026-10-23 12:28:12",
+        "category": "Local Events"
+    },
+    {
+        "title": "Supersalud presented a new strategy to reconcile portfolio between EPS and IPS in Tolima",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/supersalud-presento-nueva-estrategia-para-conciliar-cartera-entre-eps-e-ips-en-el-tolima-4509452",
+        "published_date": "2026-10-23 12:20:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "Colombia must regulate work in the field",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-rural/colombia-debe-regular-el-trabajo-en-el-campo/",
+        "published_date": "2026-10-23 12:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Have an informed breakfast with the keys for this October 23, 2026",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-claves-de-este-23-de-octubre-de-2026/",
+        "published_date": "2026-10-23 12:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The spark of the National Museum",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/la-chispa-del-museo-nacional/",
+        "published_date": "2026-10-23 11:42:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "The mysterious crime of Route 90: who was the public accountant who was shot inside a Chevrolet in the north of Cartagena",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/el-misterioso-crimen-de-la-ruta-90-quien-era-el-contador-publico-que-fue-baleado-dentro-de-un-chevrolet-en-el-norte-de-cartagena-3595758",
+        "published_date": "2026-10-23 10:02:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "Fire in the Fundadores Shopping Center in Manizales forces it to temporarily close its facilities after an emergency on the night of October 22",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/incendio-en-el-centro-comercial-fundadores-de-manizales-obliga-a-cerrar-temporalmente-sus-instalaciones-tras-emergencia-en-la-noche-del-22-de-octubre-3595736",
+        "published_date": "2026-10-23 09:58:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "Car bomb attack at the San Pedro tollbooth, Casanare: Governor C\u00e9sar Ortiz announces $50 million reward to locate those responsible",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/atentado-con-carro-bomba-en-el-peaje-san-pedro-casanare-ministra-de-transporte-elsa-noguera-se-pronuncia-tras-el-ataque-y-expresa-su-rechazo-3595741",
+        "published_date": "2026-10-23 09:44:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "Videos show the exact moment of the car bomb attack at the San Pedro tollbooth, in Casanare, which left three injured: criminals fled on motorcycles",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/videos-muestran-momento-exacto-del-atentado-con-carro-bomba-en-peaje-san-pedro-en-casanare-que-dejo-tres-heridos-delincuentes-huyeron-en-moto-3595724",
+        "published_date": "2026-10-23 08:35:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Mayor of Cartagena assured that he invests $6 billion in infrastructure for the city and urged Camacol to accelerate public-private alliances",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/alcalde-de-cartagena-asegura-que-invirtio-6-billones-en-infraestructura-en-la-ciudad-e-insto-a-camacol-a-acelerar-alianzas-publico-privadas-3595726",
+        "published_date": "2026-10-23 08:07:40",
+        "category": "Local Events"
+    },
+    {
+        "title": "'He is one in 15 million': the story of the father of the first identical quadruplets whose birth is recorded in Colombia",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/el-milagro-medico-de-uno-entre-15-millones-la-historia-de-los-primeros-cuatrillizos-identicos-de-los-que-se-tiene-registro-en-colombia-3595694",
+        "published_date": "2026-10-23 07:53:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "Be careful with the cuts: check if your neighborhood is on the Emcali job list for this October 23 in Cali",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/ojo-con-los-cortes-revise-si-su-barrio-esta-en-la-lista-de-trabajos-de-emcali-para-este-23-de-octubre-en-cali-3595723",
+        "published_date": "2026-10-23 07:29:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "Questions about the first lady's earthquake foundation",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-nacional/preguntas-sobre-la-fundacion-de-la-primera-dama-para-el-terremoto/",
+        "published_date": "2026-10-23 06:00:00",
+        "category": "Local Events"
     },
     {
         "title": "The Government has already issued the decree of the General Budget of the Nation",
@@ -501,125 +634,6 @@
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/michel-janna-asumira-la-representacion-de-colombia-ante-el-fmi-en-washington-4509158",
         "published_date": "2026-10-23 00:18:17",
-        "category": "Local Events"
-    },
-    {
-        "title": "Communities warn of risks regarding possible operations in Chiribiquete",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/comunidades-advierten-riesgos-ante-posibles-operaciones-en-chiribiquete/",
-        "published_date": "2026-10-23 00:13:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Dian will reduce 85% of the penalties for taxpayers in arrears with the earthquake decree",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/dian-rebajara-85-de-las-sanciones-a-contribuyentes-en-mora-con-el-decreto-del-terremoto-4509104",
-        "published_date": "2026-10-22 23:34:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "Esmad and labor complaints: inside the sit-in at the National Library",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/esmad-y-quejas-laborales-dentro-del-planton-en-la-biblioteca-nacional/",
-        "published_date": "2026-10-22 23:15:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Venezuelan opposition expects elections between the end of 2027 and the beginning of 2028",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/oposicion-venezolana-espera-elecciones-entre-finales-de-2027-y-principios-de-2028/",
-        "published_date": "2026-10-22 22:21:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "DNP proposes a fiscal adjustment and encourage private investment so that Colombia grows 6%",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/dnp-plantea-un-ajuste-fiscal-y-fomentar-la-inversion-privada-para-que-colombia-crezca-6-4508983",
-        "published_date": "2026-10-22 21:59:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "\"The truth is not only defended with words. It is also defended with decisions\"",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/discurso-jose-antonio-de-brigard-asamblea-general-de-la-sip-4508905",
-        "published_date": "2026-10-22 21:15:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Government started reconstruction of schools in Risaralda with an initial $4,000 million",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/gobierno-arranco-reconstruccion-de-colegios-en-risaralda-con-4-000-millones-iniciales-4508904",
-        "published_date": "2026-10-22 20:15:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "Regulation is not enough to guarantee digital sovereignty",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-democracia-y-tecnologia/la-regulacion-no-basta-para-garantizar-la-soberania-digital/",
-        "published_date": "2026-10-22 20:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Emergency in Moniquir\u00e1, Boyac\u00e1, due to a landslide in the Pajales village after heavy rains: three destroyed houses are reported",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/emergencia-en-moniquira-boyaca-por-deslizamiento-de-tierra-en-la-vereda-de-pajales-tras-fuertes-lluvias-se-reportan-tres-casas-destruidas-3595671",
-        "published_date": "2026-10-22 19:50:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "JEP sentences Colonel (r) Figueroa to 6 years in prison for false positives",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/jep-condena-a-6-anos-de-carcel-a-coronel-r-figueroa-por-falsos-positivos/",
-        "published_date": "2026-10-22 19:47:09",
-        "category": "Local Events"
-    },
-    {
-        "title": "President De La Espriella, witness to the demolition of a building that belonged to 'Pacho' Herrera in Cali: he announced with the Mayor's Office housing bonuses after the earthquake",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/presidente-de-la-espriella-testigo-de-demolicion-de-edificio-que-era-de-pacho-herrera-en-cali-anuncio-con-alcaldia-bonos-de-vivienda-tras-sismo-3595668",
-        "published_date": "2026-10-22 19:38:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "WMO anticipates that El Ni\u00f1o will reach its maximum intensity between December and January",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/omm-anticipa-que-el-nino-alcanzara-su-maxima-intensidad-entre-diciembre-y-enero-4508840",
-        "published_date": "2026-10-22 19:14:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Doctors and nurses would have performed cosmetic surgeries in 74 illegal clinics in two years in Nari\u00f1o: they uncover a network of clandestine centers",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/medicos-y-enfermeras-habrian-realizado-cirugias-esteticas-en-74-clinicas-ilegales-en-dos-anos-en-narino-destapan-una-red-de-centros-clandestinos-3595657",
-        "published_date": "2026-10-22 18:53:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "Energy crisis: hearing in Barranquilla leaves agreements to avoid rationing and address the situation of Air-e and Afinia",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/crisis-energetica-audiencia-en-barranquilla-deja-acuerdos-para-evitar-racionamientos-y-atender-la-situacion-de-air-e-y-afinia-3595643",
-        "published_date": "2026-10-22 18:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "\"The goal is to reach around 60,000 housing subsidies allocated in this government\"",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/intervencion-de-carlos-fernando-galan-alcalde-de-bogota-4508805",
-        "published_date": "2026-10-22 18:17:16",
-        "category": "Local Events"
-    },
-    {
-        "title": "Diary of Abelardo's government: Lara leaves and Ord\u00f3\u00f1ez arrives at the Ministry of the Interior",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/diario-del-gobierno-de-abelardo-lara-se-va-y-llega-ordonez-al-mininterior/",
-        "published_date": "2026-10-22 18:15:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "The reactions from Bucaramanga on the new appointment of Alejandro Ord\u00f3\u00f1ez from Santander as Minister of the Interior",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/las-reacciones-desde-bucaramanga-sobre-el-nuevo-nombramiento-del-santandereano-alejandro-ordonez-como-ministro-del-interior-3595639",
-        "published_date": "2026-10-22 17:39:37",
         "category": "Local Events"
     }
 ]
