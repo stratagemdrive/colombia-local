@@ -98,10 +98,38 @@
         "category": "Diplomacy"
     },
     {
+        "title": "Army reports discovery of more than 300 elements for illegal mining in Ataco, Tolima, amid environmental crisis",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/ejercito-reporta-hallazgo-de-mas-de-300-elementos-para-mineria-ilegal-en-ataco-tolima-en-medio-de-crisis-ambiental-3596004",
+        "published_date": "2026-10-24 08:22:18",
+        "category": "Military"
+    },
+    {
+        "title": "Day V\u00e1squez reported that her son was beaten and robbed outside his building: 'They took his cell phone'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/day-vasquez-denuncio-que-su-hijo-fue-golpeado-y-robado-afuera-de-su-edificio-le-quitaron-el-celular-3595997",
+        "published_date": "2026-10-24 07:27:58",
+        "category": "Military"
+    },
+    {
+        "title": "Exclusive: the sophisticated cameras worth 60 million pesos with which the FARC dissidents power their drones in Antioquia",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/exclusivo-las-sofisticadas-camaras-de-60-millones-de-pesos-con-las-que-disidencias-de-las-farc-potencian-sus-drones-en-antioquia-3595981",
+        "published_date": "2026-10-24 01:01:55",
+        "category": "Military"
+    },
+    {
         "title": "Army seizes ten tons of illegal Coltan in VIchada",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/ejercito-incauta-diez-toneladas-de-coltan-ilegal-en-vichada/",
         "published_date": "2026-10-23 22:25:33",
+        "category": "Military"
+    },
+    {
+        "title": "Three police officers were injured and an alleged criminal died after a shootout in the center of Cali: the uniformed officers responded for a robbery",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/tres-policias-quedaron-heridos-y-un-presunto-delincuente-murio-tras-una-balacera-en-el-centro-de-cali-los-uniformados-acudieron-por-un-robo-3595974",
+        "published_date": "2026-10-23 21:28:06",
         "category": "Military"
     },
     {
@@ -210,32 +238,11 @@
         "category": "Military"
     },
     {
-        "title": "Security cameras show the last moments of the Puerto Rican murdered in Medell\u00edn",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/camaras-de-seguridad-muestran-los-ultimos-momentos-del-puertorriqueno-asesinado-en-medellin-3595114",
-        "published_date": "2026-10-21 08:39:52",
-        "category": "Military"
-    },
-    {
-        "title": "De la Espriella's silence in the face of abuses by public forces sends signals of permissiveness",
+        "title": "Debt and interest take away space from Colombia's growth",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/el-silencio-de-de-la-espriella-ante-los-abusos-de-la-fuerza-publica-envian-senales-de-permisividad/",
-        "published_date": "2026-10-20 20:00:00",
-        "category": "Military"
-    },
-    {
-        "title": "There have been 25 tons of cocaine seized in the Port of Cartagena so far this year: only in the last few hours a shipment with 7.6 tons fell",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/van-25-toneladas-de-cocaina-incautadas-en-el-puerto-de-cartagena-en-lo-que-va-del-ano-solo-en-las-ultimas-horas-cayo-un-cargamento-con-7-6-toneladas-3594883",
-        "published_date": "2026-10-20 17:39:57",
-        "category": "Military"
-    },
-    {
-        "title": "Video revealed a man who threw helmets and motorcycle parts into a stream in Barranquilla: he must respond to a fine of $976,673",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/video-delato-a-un-hombre-que-arrojaba-cascos-y-partes-de-motos-a-un-arroyo-de-barranquilla-debera-responder-por-multa-de-976-3595015",
-        "published_date": "2026-10-20 16:42:32",
-        "category": "Military"
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/la-deuda-y-los-intereses-le-quitan-espacio-al-crecimiento-de-colombia/",
+        "published_date": "2026-10-24 12:12:00",
+        "category": "Energy"
     },
     {
         "title": "I supported him throughout the time he was there: Carlos Su\u00e1rez on Lara",
@@ -371,13 +378,6 @@
         "category": "Energy"
     },
     {
-        "title": "Impact of the earthquake led the ISE to its first contraction since April of last year",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/impacto-del-terremoto-llevo-al-ise-a-su-primera-contraccion-desde-abril-del-ano-pasado-4506438",
-        "published_date": "2026-10-20 05:01:20",
-        "category": "Energy"
-    },
-    {
         "title": "The story behind the Treasury error that destroyed Abelardo's budget",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/silla-nacional/la-historia-detras-del-error-de-hacienda-que-tumbo-el-presupuesto-de-abelardo/",
@@ -483,6 +483,90 @@
         "category": "Economy"
     },
     {
+        "title": "Four deficits complicate Colombia's fiscal accounts",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/cuatro-deficits-complican-las-cuentas-fiscales-de-colombia/",
+        "published_date": "2026-10-24 14:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Burying the Fund for Life keeps money away from the threatened forest",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/opinion/enterrar-el-fondo-para-la-vida-aleja-la-plata-del-bosque-amenazado/",
+        "published_date": "2026-10-24 14:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The first kilometers of the Gran Malec\u00f3n del Mar were inaugurated in Cartagena",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/se-inauguraron-los-primeros-kilometros-del-gran-malecon-del-mar-en-cartagena-4510253",
+        "published_date": "2026-10-24 13:56:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "Prejudice already has status",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/opinion/el-prejuicio-ya-tiene-estatuto/",
+        "published_date": "2026-10-24 13:54:44",
+        "category": "Local Events"
+    },
+    {
+        "title": "The new parapoliticians",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/opinion/los-nuevos-parapoliticos/",
+        "published_date": "2026-10-24 13:42:06",
+        "category": "Local Events"
+    },
+    {
+        "title": "One head for many hands",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/opinion/una-cabeza-por-muchas-manos/",
+        "published_date": "2026-10-24 13:24:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The story of the tragic death of the girl Jhady Sof\u00eda, in Frontino, Antioquia, which is now being investigated as murder: 'She dreamed of being a teacher'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/la-historia-de-la-tragica-muerte-de-la-nina-jhady-sofia-en-frontino-antioquia-que-ahora-es-investigada-como-asesinato-sonaba-con-ser-profesora-3596003",
+        "published_date": "2026-10-24 08:57:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "'The crime of the girl Jhady Sof\u00eda, 10 years old, in Frontino, Antioquia, cannot go unpunished!': they find evidence that her death would have been murder",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/crimen-de-la-nina-jhady-sofia-de-10-anos-en-frontino-antioquia-no-puede-quedar-impune-hallan-pruebas-de-que-su-muerte-habria-sido-asesinato-3595999",
+        "published_date": "2026-10-24 08:52:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Terror takes over Barranquilla: Criaturas Fest brings together short films, art and music this Saturday at Plaza 76",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/el-terror-se-toma-barranquilla-criaturas-fest-reune-cortometrajes-arte-y-musica-este-sabado-en-plaza-3595995",
+        "published_date": "2026-10-24 05:42:53",
+        "category": "Local Events"
+    },
+    {
+        "title": "The submission project recycles the JEP and Justice and Peace, but may be ineffective",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/el-proyecto-de-sometimiento-recicla-la-jep-y-justicia-y-paz-pero-puede-ser-poco-eficaz/",
+        "published_date": "2026-10-24 05:05:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The October downpours were not able to bring the reservoirs above 80%",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/los-aguaceros-de-octubre-no-llevaron-los-embalses-por-encima-de-80-4510024",
+        "published_date": "2026-10-24 05:02:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Government announces a budget cut to more than 110 entities for $9.8 billion",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/gobierno-nacional-anuncia-tijeretazo-presupuestal-a-114-entidades-por-9-8-billones-4509957",
+        "published_date": "2026-10-24 05:02:04",
+        "category": "Local Events"
+    },
+    {
         "title": "Remittances total 28 consecutive months above the threshold of US$1,000 million",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/remesas-suman-28-meses-consecutivos-arriba-del-techo-de-us-1-000-millones-4510091",
@@ -536,90 +620,6 @@
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/flip-rechaza-orden-de-detencion-contra-periodista-alejandro-villanueva/",
         "published_date": "2026-10-23 23:41:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "Abelardo wins the purchase of Nutresa from Presto",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/abelardo-se-marca-la-victoria-por-la-compra-de-nutresa-a-presto/",
-        "published_date": "2026-10-23 22:50:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "Governing without interlocutors: the risk of the arrival of Ord\u00f3\u00f1ez",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/gobernar-sin-interlocutores-el-riesgo-de-la-llegada-de-ordonez/",
-        "published_date": "2026-10-23 21:06:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Medell\u00edn was ranked as the second city in the country with the most cases of extortion in the last 15 years: arrests increased, but there is under-reporting",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/medellin-se-ubico-como-la-segunda-ciudad-del-pais-con-mas-casos-de-extorsion-en-los-ultimos-15-anos-aumentaron-las-capturas-pero-hay-subregistro-3595947",
-        "published_date": "2026-10-23 19:55:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "Director of the DNP talks about the budget allocation for Antioquia in 2027: Will there be fewer resources?What will happen to the great works?",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/director-del-dnp-habla-de-la-asignacion-presupuestal-para-antioquia-en-2027-habra-menos-recursos-que-pasara-con-las-grandes-obras-3595958",
-        "published_date": "2026-10-23 19:40:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "This is how moments of tension were experienced due to the raging fire in the central area of \u200b\u200bcommercial premises in Cali: in the last year, more than 500 emergencies",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/asi-se-vivieron-momentos-de-tension-por-el-voraz-incendio-en-la-zona-centrica-de-locales-comerciales-de-cali-en-el-ultimo-ano-mas-de-500-emergencias-3595942",
-        "published_date": "2026-10-23 19:09:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "The mother of Valentina Rodr\u00edguez, the young woman from Ubat\u00e9 who died after falling from a turbo in Cajic\u00e1, spoke: she reported abuse against her daughter",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/hablo-la-madre-de-valentina-rodriguez-la-joven-de-ubate-que-murio-tras-caer-de-una-turbo-en-cajica-denuncio-maltrato-a-su-hija-por-parte-de-expareja-3595913",
-        "published_date": "2026-10-23 18:47:41",
-        "category": "Local Events"
-    },
-    {
-        "title": "Power outages in Barranquilla this weekend: know the neighborhoods, addresses and schedules",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/cortes-de-luz-en-barranquilla-este-fin-de-semana-conozca-los-barrios-las-direcciones-y-los-horarios-3595939",
-        "published_date": "2026-10-23 18:45:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "The return of the Cali Philharmonic Orchestra to the theater this Friday, after a season away due to the earthquake that took it to the churches",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/el-regreso-de-la-filarmonica-de-cali-al-teatro-este-viernes-tras-una-temporada-fuera-por-el-terremoto-que-la-llevo-a-las-iglesias-de-la-ciudad-3595931",
-        "published_date": "2026-10-23 18:37:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "President Abelardo De la Espriella toured the Ernesto Cortissoz airport works with Mayor Alejandro Char: these are the progress",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/presidente-abelardo-de-la-espriella-recorrio-junto-al-alcalde-alejandro-char-las-obras-del-aeropuerto-ernesto-cortissoz-estos-son-los-avances-3595927",
-        "published_date": "2026-10-23 18:05:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "Woman dies in strange circumstances in Santander, mother asks for justice after alleged death threat messages from her boyfriend: 'I fear for my life'",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/mujer-muere-en-extranas-circunstancias-en-santander-mama-pide-justicia-tras-supuestos-mensajes-de-amenaza-de-muerte-de-su-novio-temo-por-mi-vida-3595910",
-        "published_date": "2026-10-23 17:55:49",
-        "category": "Local Events"
-    },
-    {
-        "title": "Only 72.5% of the goals of the National Petroleum Development Plan were met",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/solo-se-cumplieron-72-5-de-las-metas-del-plan-nacional-de-desarrollo-petro-4509729",
-        "published_date": "2026-10-23 17:51:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Analysts predict that the Bank of the Republic will raise rates to 12.50% in October",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/analistas-preven-que-el-banco-de-la-republica-suba-las-tasas-hasta-12-50-en-octubre-4509658",
-        "published_date": "2026-10-23 15:56:23",
         "category": "Local Events"
     }
 ]
