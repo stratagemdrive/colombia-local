@@ -1,5 +1,12 @@
 [
     {
+        "title": "The Colombian debates are repeated around the world: who will win?",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/opinion/en-el-mundo-se-repiten-los-debates-colombianos-quien-ganara/",
+        "published_date": "2026-10-24 20:03:00",
+        "category": "Diplomacy"
+    },
+    {
         "title": "Ambassador-designate to the Netherlands opposes the ICC, according to his tweets",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/embajador-designado-en-paises-bajos-se-opone-a-la-cpi-segun-sus-trinos/",
@@ -91,11 +98,25 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Director of the ANT spoke out after the resignation of the official who appeared on video cooking an armadillo: 'No one is above the law'",
+        "title": "Security: when military and punitive control ignores the lives of women",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-las-mujeres/seguridad-cuando-el-control-militar-y-punitivo-ignora-la-vida-de-las-mujeres/",
+        "published_date": "2026-10-24 20:00:00",
+        "category": "Military"
+    },
+    {
+        "title": "How will Medell\u00edn and the Government, with the support of the United States, combat criminal structures, drug trafficking and mining that fuel the war?",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/directora-de-la-ant-se-pronuncio-tras-la-renuncia-del-funcionario-que-aparecio-en-video-cocinando-un-armadillo-nadie-esta-por-encima-de-la-ley-3594160",
-        "published_date": "2026-10-16 19:37:34",
-        "category": "Diplomacy"
+        "url": "https://www.eltiempo.com/colombia/medellin/como-medellin-y-el-gobierno-con-el-respaldo-de-estados-unidos-combatiran-estructuras-criminales-narcotrafico-y-mineria-que-alimentan-la-guerra-3596059",
+        "published_date": "2026-10-24 16:49:46",
+        "category": "Military"
+    },
+    {
+        "title": "Unpublished: false police checkpoint ended in the theft of $260 million in silver bullion in Gir\u00f3n, Santander",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/inedito-falso-reten-policial-termino-en-robo-de-260-millones-en-lingotes-de-plata-en-giron-3596056",
+        "published_date": "2026-10-24 15:35:09",
+        "category": "Military"
     },
     {
         "title": "Army reports discovery of more than 300 elements for illegal mining in Ataco, Tolima, amid environmental crisis",
@@ -217,25 +238,18 @@
         "category": "Military"
     },
     {
-        "title": "Community removed three suspicious cylinders on the Popay\u00e1n\u2013El Tambo road;authorities found six more",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/comunidad-retiro-tres-cilindros-sospechosos-en-la-via-popayan-el-tambo-autoridades-hallaron-seis-mas-3595299",
-        "published_date": "2026-10-21 17:01:14",
-        "category": "Military"
+        "title": "There are less than 40 days left to store water in the reservoirs before the arrival of El Ni\u00f1o",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/quedan-menos-de-40-dias-para-almacenar-agua-en-los-embalses-ante-la-llegada-de-el-nino-4510299",
+        "published_date": "2026-10-24 18:06:48",
+        "category": "Energy"
     },
     {
-        "title": "El Ni\u00f1o threatens the nutrition of the most vulnerable",
+        "title": "New Vice Minister of Energy appointed",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/el-nino-amenaza-la-alimentacion-de-los-mas-vulnerables/",
-        "published_date": "2026-10-21 12:00:00",
-        "category": "Military"
-    },
-    {
-        "title": "Drone attack in the south of Cesar left six police officers injured: two remain serious;authorities offer $150 million",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/ataque-con-drones-en-el-sur-del-cesar-dejo-seis-policias-heridos-dos-siguen-graves-las-autoridades-ofrecen-150-millones-3595154",
-        "published_date": "2026-10-21 10:12:45",
-        "category": "Military"
+        "url": "https://www.lasillavacia.com/en-vivo/nombran-nuevo-viceministro-de-energia/",
+        "published_date": "2026-10-24 17:28:11",
+        "category": "Energy"
     },
     {
         "title": "Debt and interest take away space from Colombia's growth",
@@ -364,20 +378,6 @@
         "category": "Energy"
     },
     {
-        "title": "Outrageous: a company is sealed and five people are captured for criminal purposes for discharging hazardous waste into the Bay of Cartagena",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/indignante-sellan-una-empresa-y-capturan-a-cinco-personas-con-fines-penales-por-realizar-descargas-de-residuos-peligrosos-a-la-bahia-de-cartagena-3594997",
-        "published_date": "2026-10-20 15:28:26",
-        "category": "Energy"
-    },
-    {
-        "title": "'People didn't know what to do': the heartbreaking testimony of a resident after the tragedy at the Santa B\u00e1rbara de Iscuand\u00e9 mine, Nari\u00f1o",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/la-gente-no-sabia-que-hacer-el-desgarrador-testimonio-de-un-poblador-tras-la-tragedia-en-la-mina-de-santa-barbara-de-iscuande-narino-3594862",
-        "published_date": "2026-10-20 08:42:36",
-        "category": "Energy"
-    },
-    {
         "title": "The story behind the Treasury error that destroyed Abelardo's budget",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/silla-nacional/la-historia-detras-del-error-de-hacienda-que-tumbo-el-presupuesto-de-abelardo/",
@@ -476,11 +476,109 @@
         "category": "Economy"
     },
     {
-        "title": "New president of the CUT will defend the living wage in the negotiation of the minimum",
+        "title": "Minagriculture repeals the so-called Appa de Petro in the Southwest of Antioquia",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/nuevo-presidente-de-la-cut-defendera-el-salario-vital-en-la-negociacion-del-minimo-4505003",
-        "published_date": "2026-10-17 00:35:53",
-        "category": "Economy"
+        "url": "https://www.larepublica.co/economia/minagricultura-deroga-las-llamadas-appa-de-petro-en-el-suroeste-antioqueno-4510426",
+        "published_date": "2026-10-24 22:17:33",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Special Mining Districts created in the Petro government are repealed",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/derogan-los-distritos-mineros-especiales-creados-en-el-gobierno-de-petro-4510418",
+        "published_date": "2026-10-24 21:18:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "The next economic inequality will be discernment",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-educacion/la-proxima-desigualdad-economica-sera-el-discernimiento/",
+        "published_date": "2026-10-24 21:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Salvaci\u00f3n Nacional and Posada reject the defense of the Ombudsman's Office to the JEP",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/salvacion-nacional-y-posada-rechazan-defensa-de-la-defensoria-a-la-jep/",
+        "published_date": "2026-10-24 20:29:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "Rain emergencies in the Caribbean: first reports of floods and overflows in several cities;more rainfall expected",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/alcaldia-de-santa-marta-declara-alerta-roja-por-inundaciones-y-riesgo-de-crecientes-subitas-en-dos-rios-estas-son-las-recomendaciones-del-ideam-3596073",
+        "published_date": "2026-10-24 18:56:26",
+        "category": "Local Events"
+    },
+    {
+        "title": "Former directors of the National Library question the management of MinCultura",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/exdirectoras-de-la-biblioteca-nacional-cuestionan-gestion-de-mincultura/",
+        "published_date": "2026-10-24 18:22:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "'Works for taxes' make improvements in public schools possible to benefit 1,101 students in the municipality of Florida, Valle",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/obras-por-impuestos-viabilizan-mejoras-en-colegios-publicos-para-beneficiar-a-1-101-estudiantes-en-el-municipio-de-florida-valle-3596083",
+        "published_date": "2026-10-24 18:17:50",
+        "category": "Local Events"
+    },
+    {
+        "title": "A building collapsed in Pereira pending demolition this Saturday: two lifeless bodies were found among the rubble",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/emergencia-en-pereira-colapso-una-edificacion-que-estaba-pendiente-de-demolicion-tras-el-terremoto-hallaron-dos-cuerpos-sin-vida-entre-los-escombros-3596082",
+        "published_date": "2026-10-24 18:16:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "Emergency in Cartagena due to downpour: reports of cars dragged by streams, flooded streets and traffic jams in several sectors grow",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/emergencia-en-cartagena-por-aguacero-crecen-los-reportes-de-carros-arrastrados-por-arroyos-calles-inundadas-y-trancones-en-varios-sectores-3596064",
+        "published_date": "2026-10-24 17:51:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "Elections 2026: Brazil faces the risk of weakening its Constitution",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/elecciones-2026-brasil-enfrenta-el-riesgo-de-debilitar-su-constitucion/",
+        "published_date": "2026-10-24 17:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The rains do not stop in the Caribbean;Residents and authorities fear a new winter wave",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/no-cesan-las-lluvias-en-cordoba-y-sus-habitantes-temen-por-una-nueva-ola-invernal-4510287",
+        "published_date": "2026-10-24 16:10:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "De la Espriella's cultural counterrevolution tests the Constitution",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/la-contrarrevolucion-cultural-de-de-la-espriella-pone-a-prueba-la-constitucion/",
+        "published_date": "2026-10-24 16:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Ombudsman requests rectification from senators for attacks on JEP magistrate",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/defensoria-pide-rectificacion-a-senadores-por-ataques-a-la-jep/",
+        "published_date": "2026-10-24 15:31:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "Rains in Cartagena cause flooding and affect the water service of 15% of users due to electrical damage to the aqueduct system",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/lluvias-en-cartagena-provocan-inundaciones-y-afectan-el-servicio-de-agua-al-15-de-los-usuarios-por-danos-electricos-en-el-sistema-de-acueducto-3596067",
+        "published_date": "2026-10-24 15:28:10",
+        "category": "Local Events"
+    },
+    {
+        "title": "A bus with more than 40 passengers going to a religious pilgrimage, most of them elderly, overturned in Medell\u00edn: 16 people were injured",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/un-bus-con-mas-de-40-pasajeros-hacia-una-peregrinacion-la-mayoria-adultos-mayores-se-volco-en-medellin-16-personas-quedaron-heridas-3596050",
+        "published_date": "2026-10-24 14:08:17",
+        "category": "Local Events"
     },
     {
         "title": "Four deficits complicate Colombia's fiscal accounts",
@@ -515,111 +613,6 @@
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/opinion/los-nuevos-parapoliticos/",
         "published_date": "2026-10-24 13:42:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "One head for many hands",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/opinion/una-cabeza-por-muchas-manos/",
-        "published_date": "2026-10-24 13:24:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The story of the tragic death of the girl Jhady Sof\u00eda, in Frontino, Antioquia, which is now being investigated as murder: 'She dreamed of being a teacher'",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/la-historia-de-la-tragica-muerte-de-la-nina-jhady-sofia-en-frontino-antioquia-que-ahora-es-investigada-como-asesinato-sonaba-con-ser-profesora-3596003",
-        "published_date": "2026-10-24 08:57:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "'The crime of the girl Jhady Sof\u00eda, 10 years old, in Frontino, Antioquia, cannot go unpunished!': they find evidence that her death would have been murder",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/crimen-de-la-nina-jhady-sofia-de-10-anos-en-frontino-antioquia-no-puede-quedar-impune-hallan-pruebas-de-que-su-muerte-habria-sido-asesinato-3595999",
-        "published_date": "2026-10-24 08:52:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Terror takes over Barranquilla: Criaturas Fest brings together short films, art and music this Saturday at Plaza 76",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/el-terror-se-toma-barranquilla-criaturas-fest-reune-cortometrajes-arte-y-musica-este-sabado-en-plaza-3595995",
-        "published_date": "2026-10-24 05:42:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "The submission project recycles the JEP and Justice and Peace, but may be ineffective",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/el-proyecto-de-sometimiento-recicla-la-jep-y-justicia-y-paz-pero-puede-ser-poco-eficaz/",
-        "published_date": "2026-10-24 05:05:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The October downpours were not able to bring the reservoirs above 80%",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/los-aguaceros-de-octubre-no-llevaron-los-embalses-por-encima-de-80-4510024",
-        "published_date": "2026-10-24 05:02:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Government announces a budget cut to more than 110 entities for $9.8 billion",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/gobierno-nacional-anuncia-tijeretazo-presupuestal-a-114-entidades-por-9-8-billones-4509957",
-        "published_date": "2026-10-24 05:02:04",
-        "category": "Local Events"
-    },
-    {
-        "title": "Remittances total 28 consecutive months above the threshold of US$1,000 million",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/remesas-suman-28-meses-consecutivos-arriba-del-techo-de-us-1-000-millones-4510091",
-        "published_date": "2026-10-24 01:07:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Government has already exchanged $30.1 billion in TES, the next exchange will be made in November",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/gobierno-ya-canjeo-30-1-billones-en-tes-el-proximo-canje-se-hara-en-noviembre-4510067",
-        "published_date": "2026-10-24 01:04:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "Construction companies will contribute $300,000 million for reconstruction after the earthquake",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/constructoras-aportaran-300-000-millones-para-la-reconstruccion-tras-el-terremoto-4510061",
-        "published_date": "2026-10-24 00:57:32",
-        "category": "Local Events"
-    },
-    {
-        "title": "What is at risk throughout the Amazon if Bolsonaro wins",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/lo-que-esta-en-riesgo-en-toda-la-amazonia-si-gana-bolsonaro/",
-        "published_date": "2026-10-24 00:33:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Jos\u00e9 Manuel Restrepo proposes a fiscal adjustment of $70 billion for next year",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/jose-manuel-restrepo-plantea-ajuste-fiscal-de-70-billones-para-el-proximo-ano-4510040",
-        "published_date": "2026-10-24 00:33:51",
-        "category": "Local Events"
-    },
-    {
-        "title": "MinVivienda recalculated the cost of reconstruction due to the earthquake, which will need $54 billion",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/minvivienda-recalculo-costo-de-reconstruccion-por-el-sismo-que-necesitara-54-billones-4509940",
-        "published_date": "2026-10-24 00:10:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sleep informed with the keys for this October 23, 2026",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-claves-de-este-23-de-octubre-de-2026/",
-        "published_date": "2026-10-23 23:53:58",
-        "category": "Local Events"
-    },
-    {
-        "title": "Flip rejects arrest warrant against journalist Alejandro Villanueva",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/flip-rechaza-orden-de-detencion-contra-periodista-alejandro-villanueva/",
-        "published_date": "2026-10-23 23:41:10",
         "category": "Local Events"
     }
 ]
