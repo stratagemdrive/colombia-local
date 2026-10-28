@@ -84,25 +84,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Mayor of Barranquilla, Alejandro Char, spoke about video of men who threw helmets and waste into a stream: 'It cannot continue happening'",
+        "title": "Women's prison in Bucaramanga was the target of an attack with an explosive device: a fuse was thrown at this detention center",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/alcalde-de-barranquilla-alejandro-char-se-pronuncio-sobre-video-de-hombres-que-arrojaron-cascos-y-desechos-a-un-arroyo-no-puede-seguir-pasando-3594950",
-        "published_date": "2026-10-20 16:27:07",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "MinTrabajo will pay 25% of the minimum wage of each new employee hired",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/mintrabajo-pagara-25-del-minimo-de-cada-nuevo-empleado-contratado-en-empresas-4506973",
-        "published_date": "2026-10-20 16:19:49",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "Foreign Minister Omar Bula seeks to strengthen bilateral relations with Ukraine",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/canciller-omar-bula-busca-fortalecer-las-relaciones-bilaterales-con-ucrania-4506754",
-        "published_date": "2026-10-20 12:12:01",
-        "category": "Diplomacy"
+        "url": "https://www.eltiempo.com/colombia/santander/carcel-de-mujeres-en-bucaramanga-fue-blanco-de-atentado-con-artefacto-explosivo-lanzaron-una-espoleta-a-este-centro-de-reclusion-3596938",
+        "published_date": "2026-10-28 11:39:05",
+        "category": "Military"
     },
     {
         "title": "ProC\u00facuta asks to reinforce security in Norte de Santander after recent acts of violence",
@@ -238,11 +224,46 @@
         "category": "Military"
     },
     {
-        "title": "How will Medell\u00edn and the Government, with the support of the United States, combat criminal structures, drug trafficking and mining that fuel the war?",
+        "title": "MinMinas announced the issuance of a circular to hold an energy auction at the beginning of 2027",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/minminas-anuncio-emision-de-circular-para-realizar-subasta-de-energia-a-inicios-de-2027-4513060",
+        "published_date": "2026-10-28 16:11:09",
+        "category": "Energy"
+    },
+    {
+        "title": "Ecopetrol will reveal its third quarter results on November 10",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/ecopetrol-revelara-sus-resultados-de-tercer-trimestre-el-proximo-10-de-noviembre-4512826",
+        "published_date": "2026-10-28 12:24:24",
+        "category": "Energy"
+    },
+    {
+        "title": "Joaqu\u00edn Guti\u00e9rrez, president of Ecopetrol, was summoned to his first control debate",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/joaquin-gutierrez-presidente-ecopetrol-fue-citado-a-su-primer-debate-de-control-politico-4512803",
+        "published_date": "2026-10-28 12:03:40",
+        "category": "Energy"
+    },
+    {
+        "title": "Hard blow to the illegal mining of dissident 'Jaime Mart\u00ednez' of 'Mordisco' in Jamund\u00ed, Valle: armed group obtained $27,000 million a year for gold",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/como-medellin-y-el-gobierno-con-el-respaldo-de-estados-unidos-combatiran-estructuras-criminales-narcotrafico-y-mineria-que-alimentan-la-guerra-3596059",
-        "published_date": "2026-10-24 16:49:46",
-        "category": "Military"
+        "url": "https://www.eltiempo.com/colombia/cali/duro-golpe-a-la-mineria-ilegal-de-disidencia-jaime-martinez-de-mordisco-en-jamundi-valle-grupo-armado-obtenia-27-000-millones-al-ano-por-oro-3596902",
+        "published_date": "2026-10-28 10:07:01",
+        "category": "Energy"
+    },
+    {
+        "title": "Cartagena is preparing its 2026 Christmas lighting: District publishes austere draft for bidding for $19,994 million",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/cartagena-alista-su-alumbrado-navideno-2026-distrito-publica-borrador-austero-para-licitacion-por-19-994-millones-3596896",
+        "published_date": "2026-10-28 09:29:18",
+        "category": "Energy"
+    },
+    {
+        "title": "Colombia will have up to 12% less gas due to maintenance for the Spec regasification plant",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/colombia-tendra-hasta-12-menos-gas-por-mantenimiento-a-la-regasificadora-spec-4512618",
+        "published_date": "2026-10-28 05:01:59",
+        "category": "Energy"
     },
     {
         "title": "Energy demand grew 6.16% in September due to the onset of the El Ni\u00f1o phenomenon",
@@ -343,48 +364,6 @@
         "category": "Energy"
     },
     {
-        "title": "EPS spent in casinos and brothels while it was intervened",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/eps-gasto-en-casinos-y-prostibulos-mientras-estuvo-intervenida-en-era-petro/",
-        "published_date": "2026-10-25 15:30:27",
-        "category": "Energy"
-    },
-    {
-        "title": "Between the heat and the electricity bill: the dilemma of Caribbean families who fear paying more to consume energy",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/entre-el-calor-y-el-recibo-de-la-luz-el-dilema-de-las-familias-del-caribe-que-temen-pagar-mas-por-consumir-energia-3596088",
-        "published_date": "2026-10-24 20:35:00",
-        "category": "Energy"
-    },
-    {
-        "title": "There are less than 40 days left to store water in the reservoirs before the arrival of El Ni\u00f1o",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/quedan-menos-de-40-dias-para-almacenar-agua-en-los-embalses-ante-la-llegada-de-el-nino-4510299",
-        "published_date": "2026-10-24 18:06:48",
-        "category": "Energy"
-    },
-    {
-        "title": "New Vice Minister of Energy appointed",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/nombran-nuevo-viceministro-de-energia/",
-        "published_date": "2026-10-24 17:28:11",
-        "category": "Energy"
-    },
-    {
-        "title": "Debt and interest take away space from Colombia's growth",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/la-deuda-y-los-intereses-le-quitan-espacio-al-crecimiento-de-colombia/",
-        "published_date": "2026-10-24 12:12:00",
-        "category": "Energy"
-    },
-    {
-        "title": "I supported him throughout the time he was there: Carlos Su\u00e1rez on Lara",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/lo-apoye-durante-todo-el-tiempo-que-estuvo-carlos-suarez-sobre-lara/",
-        "published_date": "2026-10-23 21:52:54",
-        "category": "Energy"
-    },
-    {
         "title": "MinHacienda proposes to reallocate $750,000 million of works in Bogot\u00e1 for the Budget",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/minhacienda-propone-reasignar-750-000-millones-de-obras-en-bogota-para-el-presupuesto-4511948",
@@ -396,6 +375,13 @@
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/fenalco-pone-sobre-la-mesa-un-aumento-maximo-de-9-para-el-salario-minimo-4512122",
         "published_date": "2026-10-27 16:25:28",
+        "category": "Economy"
+    },
+    {
+        "title": "Issuance for US$5.2 billion from the MinHacienda closed the global bond program",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/emision-por-us-5-200-millones-cerro-el-programa-de-bonos-globales-de-2026-4512029",
+        "published_date": "2026-10-27 14:52:58",
         "category": "Economy"
     },
     {
@@ -476,25 +462,95 @@
         "category": "Economy"
     },
     {
-        "title": "Ministry of Finance signed credit operation for US$224 million with KfW",
+        "title": "One in five households in Bogot\u00e1 is single-person and 48% are headed by women",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/ministerio-de-hacienda-firmo-operacion-de-credito-por-us-224-millones-con-el-kfw-4506963",
-        "published_date": "2026-10-20 16:18:12",
-        "category": "Economy"
+        "url": "https://www.larepublica.co/economia/resultados-de-la-encuesta-multiproposito-del-dane-para-bogota-y-alrededores-4513065",
+        "published_date": "2026-10-28 16:42:23",
+        "category": "Local Events"
     },
     {
-        "title": "Congress approved a budget of $634.5 billion for 2027",
+        "title": "There are no Eggs today.Donate what you can to our Sillat\u00f3n",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/congreso-aprueba-presupuesto-de-6345-billones-para-2027/",
-        "published_date": "2026-10-20 13:25:32",
-        "category": "Economy"
+        "url": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/hoy-no-hay-huevos-done-lo-que-pueda-a-nuestra-sillaton/",
+        "published_date": "2026-10-28 12:30:00",
+        "category": "Local Events"
     },
     {
-        "title": "The Treasury seeks to transfer resources from the PGN to the Miracle Fund to respond to the earthquake",
+        "title": "4.1 tremor today, October 28 in Colombia: know magnitude, epicenter and details",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-de-4-1-hoy-28-de-octubre-en-colombia-conozca-magnitud-epicentro-y-detalles-3596925",
+        "published_date": "2026-10-28 11:40:16",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Government has only raised $1.1 billion of the $2.7 billion it seeks to add to the PGN",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/hacienda-busca-trasladar-recursos-del-pgn-al-fondo-milagro-para-atender-el-terremoto-4506499",
-        "published_date": "2026-10-20 05:01:47",
-        "category": "Economy"
+        "url": "https://www.larepublica.co/economia/gobierno-solo-ha-recaudado-1-1-billones-de-los-2-7-billones-que-busca-adicionar-al-presupuesto-4512660",
+        "published_date": "2026-10-28 11:31:31",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tragedy in Bar\u00fa: 18-year-old tourist from Antioquia died after a serious accident on a jet ski",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/tragedia-en-baru-turista-antioqueno-de-18-anos-murio-tras-grave-accidente-en-moto-acuatica-3596914",
+        "published_date": "2026-10-28 10:46:39",
+        "category": "Local Events"
+    },
+    {
+        "title": "Supreme Court orders to protect an engineer who reported alleged sexual abuse by the manager of the Sincelejo Hospital",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/corte-suprema-ordena-proteger-a-ingeniera-que-denuncio-presunto-abuso-sexual-del-gerente-del-hospital-de-sincelejo-3596910",
+        "published_date": "2026-10-28 10:40:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "Serious situation in Pereira: the cemetery continues with the bodies exposed and under rubble almost 3 months after the earthquake that shook Colombia",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/grave-situacion-en-pereira-el-cementerio-sigue-con-los-cuerpos-expuestos-y-bajo-escombros-casi-3-meses-despues-del-terremoto-que-sacudio-a-colombia-3596911",
+        "published_date": "2026-10-28 10:28:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "There are already more than 154 Venezuelan migrants expelled for committing crimes in Bucaramanga: five citizens had more than 130 judicial records",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/ya-son-mas-de-154-migrantes-venezolanos-expulsados-por-delinquir-en-bucaramanga-cinco-ciudadanos-sumaban-mas-de-130-antecedentes-judiciales-3596905",
+        "published_date": "2026-10-28 10:07:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "The story of Ronald, who underwent surgery for depression approved by the EPS and at no cost: talks about his new look and attitude",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/santander/la-historia-de-ronald-quien-se-sometio-a-una-cirugia-para-la-depresion-aprobada-por-la-eps-y-sin-ningun-costo-habla-de-su-nuevo-semblante-y-actitud-3596895",
+        "published_date": "2026-10-28 09:29:15",
+        "category": "Local Events"
+    },
+    {
+        "title": "Two days without news from Jorge Agudelo: they are looking for clues about the disappearance of the former candidate for Mayor of Santa Marta in Barranquilla;this is known",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/dos-dias-sin-noticias-de-jorge-agudelo-buscan-pistas-sobre-la-desaparicion-del-excandidato-a-la-alcaldia-de-santa-marta-en-barranquilla-esto-se-sabe-3596891",
+        "published_date": "2026-10-28 09:15:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "These are all the stages of the ordeal that marked the pension reform process",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/estas-son-todas-las-etapas-del-calvario-que-marco-el-tramite-de-la-reforma-pensional-4511971",
+        "published_date": "2026-10-28 05:01:51",
+        "category": "Local Events"
+    },
+    {
+        "title": "\u201cThe country has a relevant exposure to corrosive investments and their risks\u201d",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/entrevista-con-carlos-augusto-chacon-director-ejecutivo-del-icp-sobre-las-inversiones-corrosivas-4512643",
+        "published_date": "2026-10-28 05:01:34",
+        "category": "Local Events"
+    },
+    {
+        "title": "The House of Representatives denied three pension reform proposals",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/camara-nego-tres-proposiciones-de-la-reforma-pensional-y-continuara-el-debate-este-miercoles-4512674",
+        "published_date": "2026-10-28 02:23:07",
+        "category": "Local Events"
     },
     {
         "title": "Sleep informed with the keys for this October 27, 2026",
@@ -543,97 +599,6 @@
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/red-de-expertos/red-de-venezuela/colombia-y-venezuela-reactivan-su-comercio-y-abren-oportunidades-de-inversion/",
         "published_date": "2026-10-27 20:44:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tremor today in Colombia |They report an earthquake of magnitude 3.6 with an epicenter in Istmina, Choc\u00f3 this October 27: it was felt in Cali and the Coffee Region",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-hoy-en-colombia-reportan-sismo-de-magnitud-3-6-con-epicentro-en-istmina-choco-este-27-de-octubre-se-sintio-en-cali-y-el-eje-cafetero-3596806",
-        "published_date": "2026-10-27 20:40:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "98 Venezuelan citizens expelled from Medell\u00edn during the mega-operation accumulated 1,000 police measures and more than 240 judicial notes",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/98-ciudadanos-venezolanos-expulsados-de-medellin-durante-megaoperativo-acumulaban-1-000-medidas-policiales-y-mas-de-240-anotaciones-judiciales-3596794",
-        "published_date": "2026-10-27 19:52:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Director of the Metropolitan Area of \u200b\u200bthe Southwest of Colombia (AMSO) responds to criticism from Minambiente for environmental management",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/director-del-area-metropolitana-del-suroccidente-de-colombia-amso-responde-a-criticas-de-minambiente-por-gestion-ambiental-3596792",
-        "published_date": "2026-10-27 19:25:12",
-        "category": "Local Events"
-    },
-    {
-        "title": "MinSalud activated platform to follow care of 1.8 million patients",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/minsalud-activa-plataforma-para-seguir-atencion-de-1-8-millones-de-pacientes-4512231",
-        "published_date": "2026-10-27 18:49:36",
-        "category": "Local Events"
-    },
-    {
-        "title": "Barranquilla moves by motorcycle, but electric skateboards and bicycles continue to be shown as an alternative for mobility: is the city ready?",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-se-mueve-en-moto-pero-las-patinetas-y-bicicletas-electricas-siguen-mostrandose-como-alternativa-de-movilidad-esta-preparada-la-ciudad-3596780",
-        "published_date": "2026-10-27 18:40:27",
-        "category": "Local Events"
-    },
-    {
-        "title": "With picks and shovels: communities of El Pat\u00eda, Cauca, try to open an important rural road destroyed by an explosion attributed to dissidents",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/con-picos-y-palas-comunidades-de-el-patia-cauca-intentan-habilitar-importante-via-rural-destruida-por-explosion-atribuida-a-disidencias-3596776",
-        "published_date": "2026-10-27 18:14:11",
-        "category": "Local Events"
-    },
-    {
-        "title": "Santander Assembly elected new board of directors for 2027",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/santander/asamblea-de-santander-eligio-como-vicepresidente-a-un-diputado-investigado-por-presunto-abuso-sexual-asi-quedo-conformada-la-mesa-directiva-3596760",
-        "published_date": "2026-10-27 18:05:15",
-        "category": "Local Events"
-    },
-    {
-        "title": "Death rate of motorcyclists on the roads multiplied by 30 since 1979",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/como-ha-aumentado-la-mortalidad-de-los-motociclistas-en-el-ultimo-siglo-4512176",
-        "published_date": "2026-10-27 17:48:26",
-        "category": "Local Events"
-    },
-    {
-        "title": "Rice farmers from La Mojana (Sucre) are bankrupt and the insurer does not pay compensation: 3,000 hectares will be affected by El Ni\u00f1o in 2026",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/cultivadores-de-arroz-de-la-mojana-sucre-estan-en-quiebra-y-la-aseguradora-no-paga-indemnizacion-son-3-000-hectareas-afectadas-por-el-nino-en-3596766",
-        "published_date": "2026-10-27 17:10:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "These are the names of the firms that will compete for the construction of the Ptar Canoas",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/estos-son-los-nombres-de-las-firmas-que-competiran-por-la-construccion-de-la-ptar-canoas-4512149",
-        "published_date": "2026-10-27 17:09:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "Video |There will be road closure in the Eastern Tunnel due to works on the Saxony 2 bridge: know the detours and routes",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/video-habra-cierre-vial-en-el-tunel-de-oriente-por-obras-en-el-puente-sajonia-2-conozca-los-desvios-y-rutas-3596757",
-        "published_date": "2026-10-27 16:40:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "The budget decree could be unconstitutional",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/el-decreto-del-presupuesto-podria-ser-inconstitucional/",
-        "published_date": "2026-10-27 15:42:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "Pact accounts are seized due to Petro 2022 campaign debt",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/cuentas-del-pacto-estan-embargadas-por-deuda-de-campana-petro-2022/",
-        "published_date": "2026-10-27 15:21:56",
         "category": "Local Events"
     }
 ]
