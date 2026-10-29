@@ -70,20 +70,6 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Government, in its cultural battle, changed the name of the Chancellery patio",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/gobierno-en-su-batalla-cultural-cambio-el-nombre-del-patio-de-cancilleria/",
-        "published_date": "2026-10-21 13:08:59",
-        "category": "Diplomacy"
-    },
-    {
-        "title": "He was the sergeant murdered during a fight in the Tarqui Battalion of Sogamoso, Boyac\u00e1, which ended with two dead and one injured: Army ruled",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/el-era-el-sargento-asesinado-durante-rina-en-el-batallon-tarqui-de-sogamoso-boyaca-que-termino-con-dos-muertos-y-un-herido-ejercito-se-pronuncio-3595137",
-        "published_date": "2026-10-21 08:38:59",
-        "category": "Diplomacy"
-    },
-    {
         "title": "This video shows seizure in Spain and has no relationship with Petro or Alcocer",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/este-video-muestra-incautacion-en-espana-y-no-tiene-relacion-con-petro-ni-alcocer/",
@@ -224,6 +210,13 @@
         "category": "Military"
     },
     {
+        "title": "Reels, photos, more influencers: Carlos Su\u00e1rez explains the new Rtvc",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/reels-fotos-mas-influencers-carlos-suarez-explica-el-nuevo-rtvc/",
+        "published_date": "2026-10-29 14:29:54",
+        "category": "Energy"
+    },
+    {
         "title": "Strong blow to illegal mining near the Santurb\u00e1n moor: explosives, gold and more than 92 million pesos were found, this is known",
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/santander/contundente-golpe-a-la-mineria-ilegal-cerca-del-paramo-de-santurban-se-hallaron-explosivos-oro-y-mas-de-92-millones-de-pesos-esto-se-sabe-3597048",
@@ -357,11 +350,18 @@
         "category": "Energy"
     },
     {
-        "title": "Why hasn't the Hidroituango reservoir reached level 420?EPM explains the reasons and provides a possible date",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/por-que-el-embalse-de-hidroituango-no-ha-alcanzado-la-cota-420-epm-explica-las-razones-y-entrega-una-posible-fecha-3596477",
-        "published_date": "2026-10-26 16:40:24",
-        "category": "Energy"
+        "title": "Big Pharma tries to weaken Cali Fund rules",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/15-farmaceuticas-podrian-haber-dado-756-millones-de-dolares-al-fondo-cali/",
+        "published_date": "2026-10-29 14:00:00",
+        "category": "Economy"
+    },
+    {
+        "title": "For every $100 that the dollar falls, the coal sector loses about $450 billion",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/por-cada-100-que-cae-el-dolar-el-sector-del-carbon-pierde-cerca-de-450-000-millones-4513566",
+        "published_date": "2026-10-29 05:01:00",
+        "category": "Economy"
     },
     {
         "title": "The Treasury defended the 0.7% commission of the AFPs and warned about the cost of reducing weeks",
@@ -455,150 +455,143 @@
         "category": "Economy"
     },
     {
-        "title": "Cartagena Como Vamos takes the pulse of inflation, which reached 5.94% in September: education and restaurants recorded the largest increases",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/cartagena-como-vamos-le-toma-el-pulso-a-la-inflacion-que-llego-a-5-94-en-septiembre-educacion-y-restaurantes-registraron-los-mayores-aumentos-3595124",
-        "published_date": "2026-10-21 08:17:25",
-        "category": "Economy"
-    },
-    {
-        "title": "For the first time, domestic workers will participate in the agreement on the 2027 minimum wage",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/por-primera-vez-trabajadoras-domesticas-participaran-en-la-concertacion-del-salario-minimo-de-2027-4513618",
-        "published_date": "2026-10-29 00:12:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "Mauricio G\u00f3mez announced that taxes for platforms like Shein will be reviewed",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/mauricio-gomez-anuncio-que-se-revisaran-los-impuestos-para-plataformas-como-shein-4513605",
-        "published_date": "2026-10-29 00:09:39",
-        "category": "Local Events"
-    },
-    {
-        "title": "Gabriela Mu\u00f1oz did not say that Petro should return to the presidency in 2030",
+        "title": "Judge sanctions the comptroller for not reactivating the merit contest",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/gabriela-munoz-no-dijo-que-petro-deberia-volver-a-la-presidencia-en-2030/",
-        "published_date": "2026-10-28 23:39:09",
+        "url": "https://www.lasillavacia.com/en-vivo/jueza-sanciona-al-contralor-por-no-reactivar-el-concurso-de-meritos/",
+        "published_date": "2026-10-29 17:03:28",
         "category": "Local Events"
     },
     {
-        "title": "De la Espriella announced Fondes investment to design Line 4 of the Bogot\u00e1 Metro",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/de-la-espriella-anuncio-inversion-del-fondes-para-disenar-linea-4-del-metro-de-bogota-4513523",
-        "published_date": "2026-10-28 23:13:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The future of work needs tailored protection",
+        "title": "Without surprises, ISA adjusts rules to elect president and renews its Board",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-democracia-y-tecnologia/el-futuro-del-trabajo-necesita-proteccion-a-la-medida/",
-        "published_date": "2026-10-28 22:46:41",
+        "url": "https://www.lasillavacia.com/en-vivo/sin-sorpresas-isa-ajusta-reglas-para-elegir-presidente-y-renueva-su-junta/",
+        "published_date": "2026-10-29 16:17:29",
         "category": "Local Events"
     },
     {
-        "title": "Democratic Center bench filed its pension 'counter-reform'",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/bancada-del-centro-democratico-radico-oficialmente-su-contrarreforma-pensional-4513389",
-        "published_date": "2026-10-28 21:04:02",
-        "category": "Local Events"
-    },
-    {
-        "title": "Unions ask to modernize cargo transportation to improve competitiveness",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/gremios-piden-modernizar-el-transporte-de-carga-para-mejorar-la-competitividad-4513387",
-        "published_date": "2026-10-28 20:46:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "Plenary of the House of Representatives corrected the defects of the Pension Reform",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/plenaria-de-la-camara-de-representantes-subsano-los-vicios-de-la-reforma-pensional-4513313",
-        "published_date": "2026-10-28 19:37:37",
-        "category": "Local Events"
-    },
-    {
-        "title": "Plenary of the Chamber overturned the proposal to eliminate the 0.7% commissions to the AFPs",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/plenaria-de-la-camara-tumbo-la-propuesta-de-eliminar-las-comisiones-de-0-7-a-las-afp-4513216",
-        "published_date": "2026-10-28 19:05:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "Why the hot lawsuit over the Southwest Metropolitan Area?Governor, CVC and 38 mayors ask for a stop, while Cali councilors defend it",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/por-que-candente-pleito-por-area-metropolitana-del-suroccidente-gobernadora-cvc-y-38-alcaldes-piden-freno-mientras-concejales-de-cali-lo-defienden-3597047",
-        "published_date": "2026-10-28 19:05:30",
-        "category": "Local Events"
-    },
-    {
-        "title": "Valledupar fired Harold Santana, the guitarist who barely managed to play twice before the tragedy of Kbeto Zuleta's group",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/valledupar-despidio-a-harold-santana-el-guitarrista-que-apenas-alcanzo-a-tocar-dos-veces-antes-de-la-tragedia-de-la-agrupacion-de-kbeto-zuleta-3597066",
-        "published_date": "2026-10-28 18:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Banco de Bogot\u00e1 warned that the Government's global bond rate is around 15% in pesos",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/banco-de-bogota-advirtio-que-tasa-de-bonos-globales-del-gobierno-bordea-15-en-pesos-4513120",
-        "published_date": "2026-10-28 17:16:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "Eastern Antioquia under the shadow of an armed war: territorial disputes and invisible harassment of communities",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/medellin/el-oriente-antioqueno-bajo-la-sombra-de-una-guerra-armada-disputas-territoriales-y-el-acoso-invisible-a-las-comunidades-3597042",
-        "published_date": "2026-10-28 17:00:24",
-        "category": "Local Events"
-    },
-    {
-        "title": "'We are locked in': murder of leader Jos\u00e9 Sa\u00fal Sarria in Caldono raises the alert for violence against leaders in Cauca",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/estamos-encerrados-asesinato-del-dirigente-jose-saul-sarria-en-caldono-eleva-la-alerta-por-violencia-contra-lideres-en-el-cauca-3597038",
-        "published_date": "2026-10-28 16:47:44",
-        "category": "Local Events"
-    },
-    {
-        "title": "One in five households in Bogot\u00e1 is single-person and 48% are headed by women",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/resultados-de-la-encuesta-multiproposito-del-dane-para-bogota-y-alrededores-4513065",
-        "published_date": "2026-10-28 16:42:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "Songs, prayers and accordions: this is how they accompany the vallenato artist Kbeto Zuleta in front of the Barranquilla clinic where he fights for his recovery",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/canciones-oraciones-y-acordeones-asi-acompanan-al-artista-vallenato-kbeto-zuleta-frente-a-la-clinica-de-barranquilla-donde-lucha-por-su-recuperacion-3597034",
-        "published_date": "2026-10-28 16:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Fenalcarb\u00f3n estimates the sector could generate contributions to the State of over $10 billion",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/fenalcarbon-estima-el-sector-podria-generar-aportes-al-estado-encima-de-10-billones-4512988",
-        "published_date": "2026-10-28 15:26:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "'The party is on, little ones!': these are the legends that will roll through Cali and Valle del Cauca in the Giro de Rigo",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/se-armo-la-fiesta-mijitos-estas-son-las-leyendas-que-rodaran-por-cali-y-el-valle-del-cauca-en-el-giro-de-rigo-3597003",
-        "published_date": "2026-10-28 15:05:22",
-        "category": "Local Events"
-    },
-    {
-        "title": "There are no Eggs today.Donate what you can to our Sillat\u00f3n",
+        "title": "Three injured in drone attack in Norte de Santander",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/hoy-no-hay-huevos-done-lo-que-pueda-a-nuestra-sillaton/",
-        "published_date": "2026-10-28 12:30:00",
+        "url": "https://www.lasillavacia.com/en-vivo/tres-heridos-dejo-ataque-con-drones-en-norte-de-santander/",
+        "published_date": "2026-10-29 15:50:26",
         "category": "Local Events"
     },
     {
-        "title": "4.1 tremor today, October 28 in Colombia: know magnitude, epicenter and details",
+        "title": "Of Espriella and the limits of the Lone Ranger",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/de-la-espriella-y-los-limites-del-llanero-solitario/",
+        "published_date": "2026-10-29 15:50:05",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Nation becomes indebted again at levels close to 13% in short-term securities",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/la-nacion-se-vuelve-a-endeudar-a-niveles-cercanos-a-13-en-titulos-de-corto-plazo-4514003",
+        "published_date": "2026-10-29 15:40:24",
+        "category": "Local Events"
+    },
+    {
+        "title": "The dispute between Fenalco and Andi over the 40% tariff on clothing",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/la-disputa-entre-fenalco-y-la-andi-por-el-arancel-de-40-a-las-prendas-de-vestir-4514005",
+        "published_date": "2026-10-29 14:57:38",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Issuer's Profits as of September were $5.97 billion, registering a 45% drop",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/utilidades-del-emisor-a-septiembre-fueron-de-5-97-billones-cayeron-en-45-4513963",
+        "published_date": "2026-10-29 14:18:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "MinComercio: adjustment law will review online shopping platforms",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/mincomercio-ley-de-ajuste-revisara-a-plataformas-de-compras-en-linea/",
+        "published_date": "2026-10-29 14:13:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "The private sector must also commit to the PND",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/el-sector-privado-tambien-debe-comprometerse-con-el-pnd/",
+        "published_date": "2026-10-29 14:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Court gives 48 hours to reinstate works removed from the National Museum",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/juzgado-da-48-horas-para-reintegrar-obras-retiradas-del-museo-nacional/",
+        "published_date": "2026-10-29 13:09:59",
+        "category": "Local Events"
+    },
+    {
+        "title": "Confectionery and chocolate exports total US$248.5 million this year",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/exportaciones-de-confiteria-y-chocolateria-suman-us-248-5-millones-este-ano-4513805",
+        "published_date": "2026-10-29 12:40:13",
+        "category": "Local Events"
+    },
+    {
+        "title": "Breakfast informed with the movements of this October 29, 2026",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-movidas-de-este-29-de-octubre-de-2026/",
+        "published_date": "2026-10-29 12:21:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "They investigate the veracity of pamphlets from the 'Gulf clan' that generate alerts in Jamund\u00ed and Cali: the Ombudsman's Office had warned of their presence",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-de-4-1-hoy-28-de-octubre-en-colombia-conozca-magnitud-epicentro-y-detalles-3596925",
-        "published_date": "2026-10-28 11:40:16",
+        "url": "https://www.eltiempo.com/colombia/cali/investigan-la-veracidad-de-panfletos-del-clan-del-golfo-que-generan-alerta-en-jamundi-y-cali-la-defensoria-del-pueblo-habia-advertido-su-presencia-3597201",
+        "published_date": "2026-10-29 11:55:04",
+        "category": "Local Events"
+    },
+    {
+        "title": "Kbeto Zuleta's sister provided a new health report on the singer after a serious accident that kept him hospitalized in the ICU: 'Favourable vital signs'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/hermana-de-kbeto-zuleta-entrego-nuevo-reporte-de-salud-del-cantante-tras-grave-accidente-que-lo-mantiene-internado-en-uci-signos-vitales-favorables-3597195",
+        "published_date": "2026-10-29 11:53:14",
+        "category": "Local Events"
+    },
+    {
+        "title": "They launch a virtual pet costume contest;foundation seeks to give a new opportunity to dogs and cats waiting for a home",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/lanzan-concurso-virtual-de-disfraces-de-mascotas-fundacion-busca-darles-una-nueva-oportunidad-a-perros-y-gatos-que-esperan-un-hogar-3597189",
+        "published_date": "2026-10-29 11:11:03",
+        "category": "Local Events"
+    },
+    {
+        "title": "Another tragedy in Chol\u00f3n, the tourist resort of Cartagena, mourns a family from Antioquia: an 18-year-old boy died after a motorboat collision",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/otra-tragedia-en-cholon-el-balneario-turistico-de-cartagena-enluta-a-una-familia-antioquena-joven-de-18-anos-murio-tras-colision-de-motonaves-3597162",
+        "published_date": "2026-10-29 11:07:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "More than $12 billion in fines: the SIC uncovers the public 'procurement cartel' in Medell\u00edn during Daniel Quintero's Mayor's Office",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/mas-de-12-mil-millones-en-multas-la-sic-destapa-el-cartel-de-la-contratacion-publica-en-medellin-durante-la-alcaldia-de-daniel-quintero-3597198",
+        "published_date": "2026-10-29 11:07:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The last trace of Lizeth Alejandra Casta\u00f1o and the hypotheses that gain strength after her kidnapping in her father's bakery in Guacar\u00ed, Valle",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/el-ultimo-rastro-de-lizeth-alejandra-castano-y-las-hipotesis-que-toman-fuerza-tras-su-secuestro-en-la-panaderia-de-su-papa-en-guacari-valle-3597172",
+        "published_date": "2026-10-29 10:49:07",
+        "category": "Local Events"
+    },
+    {
+        "title": "Anonymous donor contributed $75 million to fulfill the dream of a family left homeless after the earthquake in Armenia: 'I want to help'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/un-donante-anonimo-entrego-75-millones-a-una-fundacion-y-cumplio-el-sueno-de-una-familia-que-perdio-su-casa-en-el-terremoto-en-armenia-3597178",
+        "published_date": "2026-10-29 10:15:11",
+        "category": "Local Events"
+    },
+    {
+        "title": "Disappearance of Jorge Agudelo in Barranquilla: they investigate alleged millionaire debts and offer $50 million to find him",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/barranquilla/desaparicion-de-jorge-agudelo-en-barranquilla-investigan-presuntas-deudas-millonarias-y-ofrecen-50-millones-para-encontrarlo-3597168",
+        "published_date": "2026-10-29 10:12:32",
         "category": "Local Events"
     }
 ]
