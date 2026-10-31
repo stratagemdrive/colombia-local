@@ -1,5 +1,12 @@
 [
     {
+        "title": "The De la Espriella government despises the national heritage",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/opinion/el-gobierno-de-la-espriella-desprecia-el-patrimonio-nacional/",
+        "published_date": "2026-10-31 14:54:00",
+        "category": "Diplomacy"
+    },
+    {
         "title": "UN renewed its mission in Colombia.He left out rural reform",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/onu-renueva-su-mision-en-colombia-pero-deja-por-fuera-la-reforma-rural/",
@@ -63,11 +70,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Chancellor Bula inflated the titles on his resume, says investigation",
+        "title": "Cauca: El Mango tollbooth was attacked with explosives, the second in the month",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/canciller-bula-inflo-los-titulos-de-su-hoja-de-vida-dice-investigacion/",
-        "published_date": "2026-10-23 14:25:49",
-        "category": "Diplomacy"
+        "url": "https://www.lasillavacia.com/en-vivo/cauca-peaje-el-mango-fue-atacado-con-explosivos-el-segundo-en-el-mes/",
+        "published_date": "2026-10-31 15:31:56",
+        "category": "Military"
     },
     {
         "title": "It is false that the JEP has never convicted \u201cany criminal\u201d of the guerrilla",
@@ -203,11 +210,25 @@
         "category": "Military"
     },
     {
-        "title": "Reward announced after murder of Miguel Castellanos, former Secretary of Government and pre-candidate for Mayor of C\u00facuta: politicians condemn crime",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/anuncian-recompensa-tras-asesinato-de-miguel-castellanos-exsecretario-de-gobierno-y-precandidato-a-alcaldia-de-cucuta-politicos-condenan-crimen-3596515",
-        "published_date": "2026-10-26 19:52:13",
-        "category": "Military"
+        "title": "For the second time, the government leaves fuel prices unchanged",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/por-segunda-vez-el-gobierno-deja-quieto-el-precio-de-los-combustibles/",
+        "published_date": "2026-10-31 14:15:37",
+        "category": "Energy"
+    },
+    {
+        "title": "Barranquilla announced that the works of the Tajamar Tourist Corridor have started",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/barranquilla-inicio-las-obras-del-corredor-turistico-del-tajamar-en-bocas-de-ceniza-4515760",
+        "published_date": "2026-10-31 14:09:23",
+        "category": "Energy"
+    },
+    {
+        "title": "The National Government announced that it is keeping gasoline and Acpm prices stable",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/el-gobierno-nacional-anuncio-que-mantiene-estables-los-precios-de-la-gasolina-y-acpm-4515626",
+        "published_date": "2026-10-31 02:21:06",
+        "category": "Energy"
     },
     {
         "title": "This video shows a river contaminated with oil, but not by fracking",
@@ -329,25 +350,11 @@
         "category": "Energy"
     },
     {
-        "title": "Indigenous people and politicians of the Amazon reject revocation of reservation",
+        "title": "The Treasury drawer",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/indigenas-y-politicos-de-la-amazonia-rechazan-revocatoria-de-reserva/",
-        "published_date": "2026-10-27 22:39:09",
-        "category": "Energy"
-    },
-    {
-        "title": "Fifth Commission summons Joaqu\u00edn Guti\u00e9rrez to political control debate",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/comision-quinta-cita-a-debate-de-control-politico-a-joaquin-gutierrez/",
-        "published_date": "2026-10-27 21:12:25",
-        "category": "Energy"
-    },
-    {
-        "title": "President of Anif asked that the 'Rescue Law' aim more at cutting public spending",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/presidente-de-anif-pidio-que-la-ley-de-rescate-apunte-a-recortar-el-gasto-publico-4512294",
-        "published_date": "2026-10-27 19:41:29",
-        "category": "Energy"
+        "url": "https://www.lasillavacia.com/opinion/la-gaveta-de-hacienda/",
+        "published_date": "2026-10-31 12:55:00",
+        "category": "Economy"
     },
     {
         "title": "Fecoljuegos asked to review tax adjustments for games of chance",
@@ -448,25 +455,95 @@
         "category": "Economy"
     },
     {
-        "title": "The legislative team of the Treasury leaves after an error in the Budget process",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/sale-el-equipo-legislativo-de-hacienda-tras-error-en-el-tramite-del-presupuesto-4509648",
-        "published_date": "2026-10-23 15:31:00",
-        "category": "Economy"
+        "title": "It is not enough to block online betting",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-democracia-y-tecnologia/no-basta-con-bloquear-las-apuestas-en-linea/",
+        "published_date": "2026-10-31 14:00:00",
+        "category": "Local Events"
     },
     {
-        "title": "The fiscal deficit expanded to 4.6% of GDP as of August and has already managed to exceed the total record of 2023",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/el-deficit-fiscal-se-expandio-a-4-6-del-pib-a-agosto-y-ya-supero-al-registro-total-de-2023-4509036",
-        "published_date": "2026-10-23 05:01:29",
-        "category": "Economy"
+        "title": "De la Espriella could not censor the diversity of the National Museum",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/opinion/de-la-espriella-no-pudo-censurar-la-diversidad-del-museo-nacional/",
+        "published_date": "2026-10-31 13:36:27",
+        "category": "Local Events"
     },
     {
-        "title": "\u201cThe devaluation of the dollar has cost coffee growers almost $2 billion in exports\u201d",
+        "title": "Government will not renew trust contract with Fiduprevisora \u200b\u200bto manage Fomag",
         "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/inside-lr-con-gustavo-gomez-presidente-de-asoexport-sobre-el-impacto-de-la-devaluacion-del-dolar-4508563",
-        "published_date": "2026-10-23 05:01:13",
-        "category": "Economy"
+        "url": "https://www.larepublica.co/economia/gobierno-no-renovara-contrato-de-fiducia-con-fiduprevisora-para-administrar-el-fomag-4515756",
+        "published_date": "2026-10-31 13:23:35",
+        "category": "Local Events"
+    },
+    {
+        "title": "MinAmbiente revokes resolution that declared the Amazon free of fossil fuels and other news",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/minambiente-revoca-resolucion-que-declaraba-la-amazonia-libre-de-combustibles-fosiles-y-otras-noticias/",
+        "published_date": "2026-10-31 13:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Let the left in Colombia get its Lula",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/opinion/que-la-izquierda-en-colombia-se-consiga-su-lula/",
+        "published_date": "2026-10-31 12:40:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "On an apocalyptic tone recently adopted in Colombia",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/opinion/sobre-un-tono-apocaliptico-adoptado-recientemente-en-colombia/",
+        "published_date": "2026-10-31 12:30:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Explosive attack in El Bordo, Cauca: this is known about those responsible for the motorbike bomb attack at the El Mango toll",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/atentado-con-explosivos-en-el-bordo-cauca-esto-se-sabe-de-los-responsables-del-atentado-con-motobomba-en-el-peaje-el-mango-3597677",
+        "published_date": "2026-10-31 09:51:28",
+        "category": "Local Events"
+    },
+    {
+        "title": "SpaceX spaceport in Colombia?Governor of Antioquia, Andr\u00e9s Juli\u00e1n Rend\u00f3n, reminds Elon Musk of the idea of \u200b\u200bbuilding it in Urab\u00e1",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/gobernador-de-antioquia-andres-julian-rendon-vuelve-a-proponerle-a-elon-musk-construir-un-puerto-espacial-de-spacex-en-uraba-estamos-listos-3597671",
+        "published_date": "2026-10-31 09:17:21",
+        "category": "Local Events"
+    },
+    {
+        "title": "Explosion of a motorcycle loaded with explosives at the El Mango toll plaza, south of Cauca: second time in a month that the Pan-American Highway has been closed due to an attack",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/explosion-de-una-motobomba-paraliza-el-transito-en-el-sur-del-cauca-3597668",
+        "published_date": "2026-10-31 08:45:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Luis Francisco Ram\u00edrez, Inpec dragooner, is murdered near the Villahermosa prison in Cali: this is known about the crime",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/asesinan-a-luis-francisco-ramirez-dragoneante-del-inpec-cerca-de-la-carcel-villahermosa-en-cali-esto-se-sabe-del-crimen-3597666",
+        "published_date": "2026-10-31 07:39:48",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Bible does not need a decree, but readers and practitioners",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/la-biblia-no-necesita-un-decreto-sino-lectores-y-practicantes/",
+        "published_date": "2026-10-31 06:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "The Bank of the Republic surprised the market and kept rates unchanged",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/el-banco-de-la-republica-sorprendio-al-mercado-y-mantuvo-las-tasas-quietas-en-12-25-4515408",
+        "published_date": "2026-10-31 05:01:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Unemployment rate in September fell to 8%, with nearly 2.11 million unemployed",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/tasa-de-desempleo-en-septiembre-bajo-a-8-con-cerca-de-2-11-millones-de-desocupados-4515442",
+        "published_date": "2026-10-31 05:01:10",
+        "category": "Local Events"
     },
     {
         "title": "These images of Petro and Kadamani, former Minister of Culture, were made with AI",
@@ -515,97 +592,6 @@
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/de-la-espriella-no-dijo-que-el-papa-leon-xiv-no-representa-a-un-verdadero-cristiano/",
         "published_date": "2026-10-31 00:12:50",
-        "category": "Local Events"
-    },
-    {
-        "title": "Caracol Radio did not publish that Petro distanced himself from attacks on Alcocer",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/caracol-radio-no-publico-que-petro-se-desmarco-de-ataques-a-alcocer/",
-        "published_date": "2026-10-31 00:04:52",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ataco, Tolima, endures a chain of murders and disappearances amid disputes between dissidents for control of gold exploitation",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/ataco-tolima-soporta-cadena-de-asesinatos-y-desapariciones-en-medio-de-disputas-de-las-disidencias-por-el-control-de-la-explotacion-de-oro-3597627",
-        "published_date": "2026-10-30 20:23:23",
-        "category": "Local Events"
-    },
-    {
-        "title": "A 13-year-old son, a homeless father and a grain that conquered Bogot\u00e1: the journey of the family behind Caf\u00e9 Don Argelino",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/un-hijo-de-13-anos-un-padre-sin-casa-y-un-grano-que-conquisto-a-bogota-la-travesia-de-la-familia-detras-de-cafe-don-argelino-3597569",
-        "published_date": "2026-10-30 20:11:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "H\u00e9ctor Zuleta spoke about the state of health of his brother 'Kbeto': he remains critical, but stable, and will undergo another intervention",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/hector-zuleta-hablo-del-estado-de-salud-de-su-hermano-kbeto-permanece-critico-pero-estable-y-sera-sometido-a-otra-intervencion-3597606",
-        "published_date": "2026-10-30 19:23:53",
-        "category": "Local Events"
-    },
-    {
-        "title": "Two others implicated in the crime of Alessandro Coatti, an Italian biologist who was dismembered in Santa Marta, are convicted: this was his role in the homicide",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/condenan-a-otros-dos-implicados-en-crimen-de-alessandro-coatti-biologo-italiano-que-fue-desmembrado-en-santa-marta-este-era-su-rol-en-el-homicidio-3597612",
-        "published_date": "2026-10-30 19:23:06",
-        "category": "Local Events"
-    },
-    {
-        "title": "First lane of the Le Champ depressed area is enabled: governor of Atl\u00e1ntico assures that this unit of 'La Gran V\u00eda' will be complete in 2027",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/habilitan-primer-carril-del-deprimido-de-le-champ-gobernador-del-atlantico-asegura-que-esta-unidad-de-la-gran-via-estara-completa-en-3597619",
-        "published_date": "2026-10-30 19:05:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Board of the Bank of the Republic kept the interest rate unchanged at 12.25%",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/junta-del-banco-de-la-republica-mantuvo-inalterada-la-tasa-de-interes-en-12-25-4515191",
-        "published_date": "2026-10-30 19:00:42",
-        "category": "Local Events"
-    },
-    {
-        "title": "Restrictions in C\u00facuta for Halloween: the Mayor's Office issued a new decree that prohibits caravans and sets a special schedule for motorcycles",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/restricciones-en-cucuta-por-halloween-la-alcaldia-expidio-un-nuevo-decreto-que-prohibe-las-caravanas-y-fija-un-horario-especial-para-motocicletas-3597523",
-        "published_date": "2026-10-30 18:22:18",
-        "category": "Local Events"
-    },
-    {
-        "title": "Popay\u00e1n tightens controls for Halloween: there will be restrictions on motorcyclists, fuel and gunpowder",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/popayan-endurece-controles-para-halloween-habra-restricciones-a-motociclistas-combustible-y-polvora-3597601",
-        "published_date": "2026-10-30 18:06:56",
-        "category": "Local Events"
-    },
-    {
-        "title": "Threats, reports of extortion and disputes in Playa Blanca set off alarms in the tourism sector of Santa Marta",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/amenazas-denuncia-de-extorsion-y-disputas-en-playa-blanca-encienden-las-alarmas-en-el-sector-turistico-de-santa-marta-3597549",
-        "published_date": "2026-10-30 17:45:28",
-        "category": "Local Events"
-    },
-    {
-        "title": "Prosecutor denounced for alleged investigation leak that linked Riohacha official to drug trafficking: San Ram\u00f3n, at the center of the case",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/denuncian-a-fiscal-por-presunta-filtracion-de-investigacion-que-vinculo-a-funcionario-de-riohacha-con-narcotrafico-san-ramon-en-el-centro-del-caso-3597593",
-        "published_date": "2026-10-30 17:35:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Government will announce an aqueduct project for Santa Marta and the surrounding municipalities",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/gobierno-anunciara-nuevo-proyecto-de-acueducto-para-santa-marta-y-municipios-aledanos-4515075",
-        "published_date": "2026-10-30 17:20:54",
-        "category": "Local Events"
-    },
-    {
-        "title": "Unusually late border data from CBP",
-        "source": "Adam Isacson",
-        "url": "https://adamisacson.com/unusually-late-border-data-from-cbp/",
-        "published_date": "2026-10-30 16:11:25",
         "category": "Local Events"
     }
 ]
