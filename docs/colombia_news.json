@@ -1,5 +1,26 @@
 [
     {
+        "title": "Trump supported Mar\u00eda Elvira Salazar despite differences over immigration",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/trump-respaldo-a-maria-elvira-salazar-pese-a-diferencias-por-inmigracion/",
+        "published_date": "2026-10-31 23:04:30",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "\u201cWe did not participate\u201d: Rubio denies that the US facilitated Bolsonaro's escape",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/no-participamos-rubio-niega-que-ee-uu-facilitara-huida-de-bolsonaro/",
+        "published_date": "2026-10-31 22:24:28",
+        "category": "Diplomacy"
+    },
+    {
+        "title": "Abelardo opened a call to five embassies for career diplomats",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/abelardo-abrio-convocatoria-a-cinco-embajadas-para-diplomaticos-de-carrera/",
+        "published_date": "2026-10-31 18:10:20",
+        "category": "Diplomacy"
+    },
+    {
         "title": "The De la Espriella government despises the national heritage",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/opinion/el-gobierno-de-la-espriella-desprecia-el-patrimonio-nacional/",
@@ -63,17 +84,31 @@
         "category": "Diplomacy"
     },
     {
-        "title": "Ambassador-designate to the Netherlands opposes the ICC, according to his tweets",
+        "title": "Colombia measures crimes, but not criminal power",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/embajador-designado-en-paises-bajos-se-opone-a-la-cpi-segun-sus-trinos/",
-        "published_date": "2026-10-23 21:01:57",
-        "category": "Diplomacy"
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-las-mujeres/colombia-mide-delitos-pero-no-el-poder-criminal/",
+        "published_date": "2026-10-31 19:00:00",
+        "category": "Military"
+    },
+    {
+        "title": "Cali and the Pacific outline their future with 54 megaprojects in the National Development Plan: investments could reach $49.2 billion",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/cali-y-el-pacifico-perfilan-su-futuro-con-54-megaproyectos-en-el-plan-nacional-de-desarrollo-las-inversiones-podrian-alcanzar-los-49-2-billones-3597734",
+        "published_date": "2026-10-31 16:31:27",
+        "category": "Military"
     },
     {
         "title": "Cauca: El Mango tollbooth was attacked with explosives, the second in the month",
         "source": "La Silla Vacia",
         "url": "https://www.lasillavacia.com/en-vivo/cauca-peaje-el-mango-fue-atacado-con-explosivos-el-segundo-en-el-mes/",
         "published_date": "2026-10-31 15:31:56",
+        "category": "Military"
+    },
+    {
+        "title": "They demolish the 'house of vice' number 85 in Antioquia: this is how this dangerous focus of insecurity operated in Cocorn\u00e1",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/derriban-la-casa-de-vicio-numero-85-en-antioquia-asi-operaba-este-peligroso-foco-de-inseguridad-en-cocorna-3597728",
+        "published_date": "2026-10-31 14:58:25",
         "category": "Military"
     },
     {
@@ -186,27 +221,6 @@
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/cali/miedo-en-el-pueblo-de-casas-agrietadas-por-el-terremoto-y-ahora-por-la-policia-bombardeada-por-drones-en-el-norte-del-valle-lo-que-se-sabe-3596583",
         "published_date": "2026-10-27 08:59:16",
-        "category": "Military"
-    },
-    {
-        "title": "Vice President Restrepo met with the Secretary General of the OAS, Albert Ramdin",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/vicepresidente-restrepo-se-reunio-con-el-secretario-general-de-la-oea-albert-ramdin-4511506",
-        "published_date": "2026-10-26 21:45:58",
-        "category": "Military"
-    },
-    {
-        "title": "Authorities investigate death threats against registrar Penagos",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/autoridades-investigan-amenazas-de-muerte-al-registrador-penagos/",
-        "published_date": "2026-10-26 21:41:13",
-        "category": "Military"
-    },
-    {
-        "title": "Distress in Suaza, Huila: armed men massacre six people and incinerate the vehicle in which they were traveling",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/zozobra-en-suaza-huila-hombres-armados-masacran-a-seis-personas-e-incineran-el-vehiculo-en-el-que-viajaban-3596517",
-        "published_date": "2026-10-26 20:00:09",
         "category": "Military"
     },
     {
@@ -441,18 +455,88 @@
         "category": "Economy"
     },
     {
-        "title": "The story behind the Treasury error that destroyed Abelardo's budget",
+        "title": "Another political campaign has started: the election of mayors and governors is coming",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-nacional/la-historia-detras-del-error-de-hacienda-que-tumbo-el-presupuesto-de-abelardo/",
-        "published_date": "2026-10-24 00:30:33",
-        "category": "Economy"
+        "url": "https://www.lasillavacia.com/opinion/arranca-otra-campana-politica-las-elecciones-regionales-2027/",
+        "published_date": "2026-10-31 21:07:00",
+        "category": "Local Events"
     },
     {
-        "title": "Valle del Cauca outlines a route to transform its economy and double its GDP per inhabitant: 'From earthquake reconstruction to development'",
+        "title": "Ministry of Health declared hospital yellow alert for Halloween until Monday",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/secretaria-de-salud-declaro-alerta-amarilla-hospitalaria-por-halloween-hasta-el-lunes-4515857",
+        "published_date": "2026-10-31 20:45:19",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cartagena District presented the schedule for the next phase of the Gran Malec\u00f3n del Mar: in March 2027 they will deliver the Mirador del Sol",
         "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/el-valle-del-cauca-traza-una-ruta-para-transformar-su-economia-y-duplicar-su-pib-por-habitante-de-la-reconstruccion-por-el-terremoto-al-desarrollo-3595957",
-        "published_date": "2026-10-23 19:46:32",
-        "category": "Economy"
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/distrito-de-cartagena-presento-el-cronograma-para-la-siguiente-fase-del-gran-malecon-del-mar-en-marzo-de-2027-entregaran-el-mirador-del-sol-3597748",
+        "published_date": "2026-10-31 20:34:01",
+        "category": "Local Events"
+    },
+    {
+        "title": "MinEducaci\u00f3n will not renew the Fomag contract with Fiduprevisora",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/mineducacion-no-renovara-el-contrato-del-fomag-con-la-fiduprevisora/",
+        "published_date": "2026-10-31 20:31:36",
+        "category": "Local Events"
+    },
+    {
+        "title": "There are jobs: more than 20,000 vacancies at the Employment Fest 2026 that will take place in Medell\u00edn at the Plaza Mayor convention center",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/trabajo-si-hay-mas-de-20-000-vacantes-en-el-empleo-fest-2026-que-se-llevara-a-cabo-en-medellin-en-el-centro-de-convenciones-plaza-mayor-3597769",
+        "published_date": "2026-10-31 20:19:46",
+        "category": "Local Events"
+    },
+    {
+        "title": "The cost of not building roads: this is how mobility worsened in Bucaramanga in 20 years",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/el-costo-de-no-construir-vias-asi-se-agravo-la-movilidad-en-bucaramanga-en-20-anos-3597767",
+        "published_date": "2026-10-31 20:04:27",
+        "category": "Local Events"
+    },
+    {
+        "title": "CUT called a national strike on November 19 in rejection of the Rescue Law",
+        "source": "La Republica",
+        "url": "https://www.larepublica.co/economia/cut-convoco-a-paro-nacional-el-19-de-noviembre-en-rechazo-a-la-ley-de-rescate-4515825",
+        "published_date": "2026-10-31 19:07:29",
+        "category": "Local Events"
+    },
+    {
+        "title": "Scoop |Governor of Antioquia proposes reducing ministries from 18 to 7 and saving $28 billion a year: he will meet today with De la Espriella",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/gobernador-de-antioquia-propone-reducir-de-18-a-7-los-ministerios-y-ahorrar-28-billones-al-ano-se-reunira-hoy-con-el-presidente-de-la-espriella-3597747",
+        "published_date": "2026-10-31 18:25:30",
+        "category": "Local Events"
+    },
+    {
+        "title": "In C\u00facuta there are 23 gangs that fight to the death over illegal economies, including transnational crime groups",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/en-cucuta-hay-23-bandas-que-se-disputan-a-muerte-las-economias-ilegales-incluidos-grupos-transnacionales-del-crimen-3597547",
+        "published_date": "2026-10-31 18:06:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "Video |Massive harassment with drones leaves military troops trapped in rural Choc\u00f3",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/video-hostigamiento-masivo-con-drones-deja-atrapadas-a-tropas-militares-en-zona-rural-del-choco-3597746",
+        "published_date": "2026-10-31 18:01:23",
+        "category": "Local Events"
+    },
+    {
+        "title": "The violence in Norte de Santander requires more than military reinforcements",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/la-violencia-en-norte-de-santander-exige-mas-que-refuerzos-militares/",
+        "published_date": "2026-10-31 18:00:00",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cartagena opens its fifth hospital classroom in Serena del Mar: literature as a tool for emotional support",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/cartagena-abre-su-quinta-aula-hospitalaria-en-serena-del-mar-la-literatura-como-herramienta-de-acompanamiento-emocional-3597735",
+        "published_date": "2026-10-31 16:56:39",
+        "category": "Local Events"
     },
     {
         "title": "It is not enough to block online betting",
@@ -508,90 +592,6 @@
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/medellin/gobernador-de-antioquia-andres-julian-rendon-vuelve-a-proponerle-a-elon-musk-construir-un-puerto-espacial-de-spacex-en-uraba-estamos-listos-3597671",
         "published_date": "2026-10-31 09:17:21",
-        "category": "Local Events"
-    },
-    {
-        "title": "Explosion of a motorcycle loaded with explosives at the El Mango toll plaza, south of Cauca: second time in a month that the Pan-American Highway has been closed due to an attack",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/explosion-de-una-motobomba-paraliza-el-transito-en-el-sur-del-cauca-3597668",
-        "published_date": "2026-10-31 08:45:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Luis Francisco Ram\u00edrez, Inpec dragooner, is murdered near the Villahermosa prison in Cali: this is known about the crime",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/cali/asesinan-a-luis-francisco-ramirez-dragoneante-del-inpec-cerca-de-la-carcel-villahermosa-en-cali-esto-se-sabe-del-crimen-3597666",
-        "published_date": "2026-10-31 07:39:48",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Bible does not need a decree, but readers and practitioners",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/la-biblia-no-necesita-un-decreto-sino-lectores-y-practicantes/",
-        "published_date": "2026-10-31 06:00:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Bank of the Republic surprised the market and kept rates unchanged",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/el-banco-de-la-republica-sorprendio-al-mercado-y-mantuvo-las-tasas-quietas-en-12-25-4515408",
-        "published_date": "2026-10-31 05:01:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Unemployment rate in September fell to 8%, with nearly 2.11 million unemployed",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/tasa-de-desempleo-en-septiembre-bajo-a-8-con-cerca-de-2-11-millones-de-desocupados-4515442",
-        "published_date": "2026-10-31 05:01:10",
-        "category": "Local Events"
-    },
-    {
-        "title": "These images of Petro and Kadamani, former Minister of Culture, were made with AI",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/estas-imagenes-de-petro-y-kadamani-exministra-de-cultura-fueron-hechas-con-ia/",
-        "published_date": "2026-10-31 01:18:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "Detector: Icetex subsidy ended with Petro, not with De la Espriella",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/detector-subsidio-del-icetex-termino-con-petro-no-con-de-la-espriella/",
-        "published_date": "2026-10-31 01:10:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Image of Petro at a party at the Boutique Betel es IA hotel",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/detector-de-mentiras/enganoso/imagen-de-petro-en-fiesta-en-el-hotel-boutique-betel-es-ia/",
-        "published_date": "2026-10-31 00:34:55",
-        "category": "Local Events"
-    },
-    {
-        "title": "This video of soldiers accused of a false positive is from 2024, not 2026",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/este-video-de-soldados-acusados-de-un-falso-positivo-es-de-2024-no-de-2026/",
-        "published_date": "2026-10-31 00:31:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "Sleep informed with the key moves of this October 30, 2026",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-movidas-claves-de-este-30-de-octubre-de-2026/",
-        "published_date": "2026-10-31 00:30:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "The impact of the Rescue Law on the Environment sector",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/el-impacto-en-el-sector-ambiente-de-la-ley-de-rescate/",
-        "published_date": "2026-10-31 00:21:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "De la Espriella did not say that Pope Leo XIV \u201cdoes not represent a true Christian\u201d",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/de-la-espriella-no-dijo-que-el-papa-leon-xiv-no-representa-a-un-verdadero-cristiano/",
-        "published_date": "2026-10-31 00:12:50",
         "category": "Local Events"
     }
 ]
