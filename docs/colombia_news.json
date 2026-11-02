@@ -77,11 +77,11 @@
         "category": "Diplomacy"
     },
     {
-        "title": "The Colombian debates are repeated around the world: who will win?",
+        "title": "Venezuelan Army would have bombed the ELN in Apure",
         "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/opinion/en-el-mundo-se-repiten-los-debates-colombianos-quien-ganara/",
-        "published_date": "2026-10-24 20:03:00",
-        "category": "Diplomacy"
+        "url": "https://www.lasillavacia.com/en-vivo/ejercito-venezolano-habria-bombardeado-al-eln-en-apure/",
+        "published_date": "2026-11-01 17:57:21",
+        "category": "Military"
     },
     {
         "title": "Explosive attack in Huila leaves a police officer murdered",
@@ -214,13 +214,6 @@
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/santander/carcel-de-mujeres-en-bucaramanga-fue-blanco-de-atentado-con-artefacto-explosivo-lanzaron-una-espoleta-a-este-centro-de-reclusion-3596938",
         "published_date": "2026-10-28 11:39:05",
-        "category": "Military"
-    },
-    {
-        "title": "ProC\u00facuta asks to reinforce security in Norte de Santander after recent acts of violence",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/procucuta-pide-reforzar-la-seguridad-en-norte-de-santander-tras-recientes-hechos-de-violencia-4512655",
-        "published_date": "2026-10-28 00:38:31",
         "category": "Military"
     },
     {
@@ -364,6 +357,13 @@
         "category": "Energy"
     },
     {
+        "title": "Competition is measured in the invoice",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/la-competencia-se-mide-en-la-factura/",
+        "published_date": "2026-11-01 20:00:00",
+        "category": "Economy"
+    },
+    {
         "title": "Dian and Minhacienda are preparing regulatory changes to combat evasion and smuggling",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/dian-y-minhacienda-alistan-cambios-normativos-para-combatir-la-evasion-y-el-contrabando-4515816",
@@ -462,6 +462,55 @@
         "category": "Economy"
     },
     {
+        "title": "Former constituent and former governor Antonio Navarro Wolff died",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/murio-el-exconstituyente-y-exgobernador-antonio-navarro-wolff/",
+        "published_date": "2026-11-01 22:45:18",
+        "category": "Local Events"
+    },
+    {
+        "title": "Petro's lawyer denounces alleged irregular interrogation in Dapre",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/abogado-de-petro-denuncia-supuesto-interrogatorio-irregular-en-el-dapre/",
+        "published_date": "2026-11-01 22:03:08",
+        "category": "Local Events"
+    },
+    {
+        "title": "Latin America-Related Events in Washington and Online This Week",
+        "source": "Adam Isacson",
+        "url": "https://adamisacson.com/latin-america-related-events-in-washington-and-online-this-week-126/",
+        "published_date": "2026-11-01 21:27:45",
+        "category": "Local Events"
+    },
+    {
+        "title": "Bombing against the Gulf clan in Choc\u00f3 leaves seven dead",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/en-vivo/bombardeo-contra-el-clan-del-golfo-en-choco-deja-siete-muertos/",
+        "published_date": "2026-11-01 20:12:47",
+        "category": "Local Events"
+    },
+    {
+        "title": "Cali was armored by air and land: this was the impressive operation to protect 10,000 cyclists in the Giro de Rigo",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/cali-se-blindo-por-aire-y-tierra-asi-fue-el-impresionante-operativo-para-proteger-a-10-000-ciclistas-en-el-giro-de-rigo-3597869",
+        "published_date": "2026-11-01 19:47:22",
+        "category": "Local Events"
+    },
+    {
+        "title": "Until when will it rain in Colombia?Max Henr\u00edquez explains what will happen to the climate during November: 'It will change little by little'",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/otras-ciudades/hasta-cuando-llovera-en-colombia-max-henriquez-explica-que-pasara-con-el-clima-durante-noviembre-va-a-cambiar-poco-a-poco-3597834",
+        "published_date": "2026-11-01 19:33:43",
+        "category": "Local Events"
+    },
+    {
+        "title": "The memory of the victims is also the responsibility of journalism",
+        "source": "La Silla Vacia",
+        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/la-memoria-de-las-victimas-tambien-es-responsabilidad-del-periodismo/",
+        "published_date": "2026-11-01 18:00:00",
+        "category": "Local Events"
+    },
+    {
         "title": "The EfectIVA mechanism of the Rescue Law would benefit 30% of the poorest population",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/el-mecanismo-efectiva-de-la-ley-de-rescate-beneficiaria-a-30-de-la-poblacion-mas-pobre-4515993",
@@ -504,6 +553,20 @@
         "category": "Local Events"
     },
     {
+        "title": "Giro de Rigo in Valle del Cauca changes its route: Cali Mobility Secretariat explains what happened in Dagua that forced thousands of cyclists to be diverted",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/cali/atencion-giro-de-rigo-cambia-su-ruta-derrumbe-en-dagua-obliga-a-desviar-a-miles-de-ciclistas-en-cali-3597832",
+        "published_date": "2026-11-01 13:29:02",
+        "category": "Local Events"
+    },
+    {
+        "title": "Tragedy in Santo Domingo, Antioquia: one dead and two injured when a tree falls in the main park",
+        "source": "El Tiempo",
+        "url": "https://www.eltiempo.com/colombia/medellin/tragedia-en-santo-domingo-antioquia-un-muerto-y-dos-heridos-al-caer-un-arbol-en-el-parque-principal-3597829",
+        "published_date": "2026-11-01 13:04:45",
+        "category": "Local Events"
+    },
+    {
         "title": "MinSalud intensified epidemiological surveillance for malaria cases in Valle del Cauca",
         "source": "La Republica",
         "url": "https://www.larepublica.co/economia/el-ministerio-de-salud-intensifico-vigilancia-epidemiologica-por-dos-casos-de-malaria-en-el-valle-del-cauca-4515956",
@@ -536,69 +599,6 @@
         "source": "El Tiempo",
         "url": "https://www.eltiempo.com/colombia/otras-ciudades/cuerpo-medico-de-kbeto-zuleta-entrega-parte-esperanzador-sobre-el-estado-de-salud-del-cantante-vallenato-3597809",
         "published_date": "2026-11-01 09:45:45",
-        "category": "Local Events"
-    },
-    {
-        "title": "The testimony of the residents who jumped into the river to save 23 members of the Kbeto Zuleta group after the accident in Ariguan\u00ed",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/barranquilla/los-heroes-de-la-madrugada-en-ariguani-relato-de-los-pobladores-que-se-lanzaron-al-rio-para-salvar-a-23-integrantes-de-la-agrupacion-de-kbeto-zuleta-3597597",
-        "published_date": "2026-11-01 09:15:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Tremor today in Colombia |They report an earthquake of magnitude 3.1 in the Pacific Ocean this Sunday, November 1, 2026: was it felt in the Coffee Region?",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-hoy-en-colombia-reportan-sismo-de-magnitud-3-1-en-el-oceano-pacifico-este-domingo-1-de-noviembre-de-2026-se-sintio-en-el-eje-cafetero-3597797",
-        "published_date": "2026-11-01 07:08:47",
-        "category": "Local Events"
-    },
-    {
-        "title": "Total closure of the La L\u00ednea road due to the overturning of a tanker truck in the Las Mariposas tunnel, in Calarc\u00e1, Quind\u00edo: authorities recommend alternative routes",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/cierre-total-en-la-via-la-linea-por-volcamiento-de-camion-cisterna-en-tunel-las-mariposas-en-calarca-quindio-autoridades-recomiendan-rutas-alternas-3597792",
-        "published_date": "2026-11-01 01:25:25",
-        "category": "Local Events"
-    },
-    {
-        "title": "The Bible does not need a decree, but readers and practitioners",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/red-de-expertos/red-social/la-biblia-no-necesita-un-decreto-sino-lectores-y-practicantes/",
-        "published_date": "2026-10-31 22:28:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Vallenato, a music that has also mourned its artists on the roads",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/el-vallenato-una-musica-que-tambien-ha-llorado-a-sus-artistas-en-las-carreteras-3597623",
-        "published_date": "2026-10-31 22:00:05",
-        "category": "Local Events"
-    },
-    {
-        "title": "Another political campaign has started: the election of mayors and governors is coming",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/opinion/arranca-otra-campana-politica-las-elecciones-regionales-2027/",
-        "published_date": "2026-10-31 21:07:00",
-        "category": "Local Events"
-    },
-    {
-        "title": "Ministry of Health declared hospital yellow alert for Halloween until Monday",
-        "source": "La Republica",
-        "url": "https://www.larepublica.co/economia/secretaria-de-salud-declaro-alerta-amarilla-hospitalaria-por-halloween-hasta-el-lunes-4515857",
-        "published_date": "2026-10-31 20:45:19",
-        "category": "Local Events"
-    },
-    {
-        "title": "Cartagena District presented the schedule for the next phase of the Gran Malec\u00f3n del Mar: in March 2027 they will deliver the Mirador del Sol",
-        "source": "El Tiempo",
-        "url": "https://www.eltiempo.com/colombia/otras-ciudades/distrito-de-cartagena-presento-el-cronograma-para-la-siguiente-fase-del-gran-malecon-del-mar-en-marzo-de-2027-entregaran-el-mirador-del-sol-3597748",
-        "published_date": "2026-10-31 20:34:01",
-        "category": "Local Events"
-    },
-    {
-        "title": "MinEducaci\u00f3n will not renew the Fomag contract with Fiduprevisora",
-        "source": "La Silla Vacia",
-        "url": "https://www.lasillavacia.com/en-vivo/mineducacion-no-renovara-el-contrato-del-fomag-con-la-fiduprevisora/",
-        "published_date": "2026-10-31 20:31:36",
         "category": "Local Events"
     }
 ]
